@@ -1,0 +1,1303 @@
+how-to yoga DVD for rock climbers—as case studies of what the testing steps look like and how you
+can do the same.
+Sherwood bought a striped sailing shirt in France while traveling last summer, and upon returning to
+NYC has been continually approached by 20–30-year-old males on the street who want to know where
+to get their own. Sensing an opportunity, he requests back issues of NYC-based weekly magazines
+aimed at this demographic and calls the manufacturer in France for pricing. He learns that he can
+purchase shirts at a wholesale price of $20 that sell for $100 retail. He adds $5 per shirt to account for
+shipping to the U.S. and arrives at a per-shirt cost of $25. It’s not quite our ideal markup (4x vs. 8–10x),
+but he wants to test the product regardless.
+Johanna is a yoga instructor who has noticed her growing client base of rock climbers. She is also a
+rock climber and is considering creating a yoga instructional DVD tailored to that sport, which would
+include a 20-page spiral-bound manual and be priced at $80. She predicts that production of a lowbudget
+first edition of the DVD would cost nothing more than a borrowed digital camera and a friend’s
+iMac for simple editing. She can burn small quantities of this first-edition DVD—no menus, just straight
+footage and titles—on the laptop and create labels with freeware from www.download.com. She has
+contacted a duplication house and learned that more-professional DVDs will cost $3–5 apiece to
+duplicate in small quantities (minimum of 250), including cases.
+Now that they have ideas and estimates of start-up costs, what next?
+Besting the Competition
+First and foremost, each product must pass a competitive litmus test. How can Sherwood and Johanna
+beat the competition and offer a superior product or guarantee?
+1. Sherwood and Johanna Google the top terms each would use to try and find their respective products.
+To come up with related terms and derivative terms, both use search term suggestion tools.
+Google Adwords Keyword Tool (http://adwords.google.com/select/KeywordToolExternal) Enter the
+potential search terms to find search volume and alternative terms with more search traffic. Click on the
+“Approx Avg Search Volume” column to sort results from most to least searched.
+SEOBook Keyword Tool, SEO for Firefox Extension (http://tools.seobook.com/) This is an
+outstanding resource page with searches powered by Wordtracker (www.wordtracker.com).
+Both then visit the three websites that consistently appear in top search and PPC positions. How can
+Sherwood and Johanna differentiate themselves?
+Use more credibility indicators? (media, academia, associations,
+and testimonials)
+Create a better guarantee?
+Offer better selection? 41
+Free or faster shipping?
+Sherwood notices that the shirts are often hard to find on the competitive sites, all of which feature
+dozens of products, and the shirts are either made in the U.S. (inauthentic) or shipped from France
+(customers must wait two to four weeks). Johanna cannot find a “yoga for rock climbing” DVD, so she
+is starting from a blank slate.
+2. Sherwood and Johanna now need to create a one-page (300–600 words) testimonial-rich
+advertisement that emphasizes their differentiators and product benefits using text and either personal
+photos or stock photos from stock photo websites. Both have spent two weeks collecting advertisements
+that have prompted them to make purchases or that have caught their attention in print or online—these
+will serve as models. 42 Johanna asks her clients for testimonials and Sherwood lets his friends try on the
+shirts to get several for his page. Sherwood also asks the manufacturer for photos and advertising
+samples.
+See www.pxmethod.com for a good example of how I have created a test page using testimonials
+from seminar attendees. Please note that it’s just a template for readers and not a live sales page. Free
+how-to seminars as recommended in the Expert Builder are ideal for identifying popular selling points
+and securing testimonials.
+Testing the Advertisement
+Sherwood and Johanna now need to test actual customer response to their advertisements. Sherwood first
+tests his concept with a 72-hour eBay auction that includes his advertising text. He sets the “reserve” (the
+lowest price he’ll accept) for one shirt at $50 and cancels the auction last minute to avoid legal issues
+since he doesn’t have product to ship. He has received bids up to $75 and decides to move to the next
+phase of testing. Johanna doesn’t feel comfortable with the apparent deception and skips this preliminary
+testing.
+Sherwood’s cost: <$5.
+Both register domain names for their soon-to-be one-page sites using the cheap domain registrar
+www.domainsinseconds.com. Sherwood chooses www.shirtsfromfrance.com and Johanna chooses
+www.yogaclimber.com. For additional domain names, Johanna uses www.domainsinseconds.com.
+Cost to both: <$20.
+Sherwood uses www.weebly.com to create his one-page site advertisement and then creates two
+additional pages using the form builder www.wufoo.com. If someone clicks on the “purchase” button at
+the bottom of the first page, it takes them to a second page with pricing, shipping and handling, 43 and
+basic contact fields to fill out (including e-mail and phone). If the visitor presses “continue with order,” it
+takes them to a page that states, “Unfortunately, we are currently on back order but will contact you as
+soon as we have product in stock. Thank you for your patience.” This structure allows him to test the
+first-page ad and his pricing separately. If someone gets to the last page, it is considered an order.
+Johanna is not comfortable with “dry testing,” as Sherwood’s approach is known, even though it is
+legal if the billing data isn’t captured. She instead uses the same two services to create a single webpage
+with the content of her one-page ad and an e-mail sign-up for a free “top 10 tips” list for using yoga for
+rock climbing. She will consider 60% of the sign-ups as hypothetical orders.
+Cost to both: <$0.
+Both set up simple Google Adwords campaigns with 50–100 search terms to simultaneously test
+headlines while driving traffic to their pages. Their daily budget limits are set at $50 per day. (At this
+segue into PPC testing, I recommend you first visit www.adwords/google.com/onlinebusiness and then
+follow along by creating your own account, which should take about 10 minutes. It would be a waste of
+rain forests to use ten pages to explain terms that can be understood at a glance online.)
+Sherwood and Johanna decide on the best search terms by using the search term suggestion tools
+mentioned earlier. Both aim for specific terms when possible (“french sailor shirts” vs. “french shirts;”
+“yoga for sports” vs. “yoga”) for higher conversion rates (the percentage of visitors that purchase) and
+lower cost-per-click (CPC). They aim also for second through fourth positioning, but no more than $.20
+CPC.
+Sherwood will use Google’s free analytical tools to track “orders” and page abandonment rates—what
+percentage of visitors leave the site from which pages. Johanna will use www.wufoo.com to track e-mail
+sign-ups on this small testing scale. 44
+Cost to both: $0.
+Both Johanna and Sherwood design Adwords ads that focus on their differentiators. Each Google
+Adwords ad consists of a headline and then two lines of description, neither of which can exceed 35
+characters. In Sherwood’s case, he creates five groups of 10 search terms each. The following are two of
+his ads.
+SAILOR SHIRTS FROM FRANCE
+Johanna creates the same five groups of 10 terms each and tests a number of ads, including these:
+Notice that these ads can be used to test not just headlines but guarantees, product names, and domain
+names. It’s as simple as creating several ads, rotated automatically by Google, that are identical except
+for the one variable to be tested. How do you think I determined the best title for this book?
+Both Sherwood and Johanna disable the feature on Google that serves only the best-performing ad.
+This is necessary to later compare the click-through rates from each and combine the best elements
+(headline, domain name, and body text) into a final ad.
+Last but not least, ensure that the ads don’t trick prospects into visiting the site. The product offer
+should be clear. Our goal is qualified traffic, so we do not want to offer something “free” or otherwise
+attract window shoppers or the curious who are unlikely to buy.
+Cost to both: $50 or less per day x 5 days = $250. 45
+Investing or Divesting
+Five days later, it’s time to tally the results.
+What can we consider a “good” click-through and conversion rate? This is where the math can be
+deceiving. If we’re selling a $10,000 abominable snowman suit with an 80% profit margin, we obviously
+need a much lower conversion rate than someone who is selling a $50 DVD with a 70% profit margin.
+For sophisticated tools and free spreadsheets that do all sorts of calculations for you, visit the reader-only
+resources at www.fourhourblog.com.
+Johanna and Sherwood decide to keep it simple at this stage: How much did they spend on PPC ads
+and how much did they “sell”?
+Johanna has done well. The traffic wasn’t enough to make the test stand up to statistical scrutiny, but
+she spent about $200 on PPC and got 14 sign-ups for a free 10-tip report. If she assumes 60% would
+purchase, that means 8.4 people x $75 profit per DVD = $630 in hypothetical total profit. This is also not
+taking into account the potential lifetime value of each customer.
+The results of her small test are no guarantee of future success, but the indications are positive enough
+that she decides to set up a Yahoo Store for $99 per month and a small per-transaction fee. Her credit
+isn’t excellent, so she will opt to use www.paypal.com to accept credit cards online instead of
+approaching her bank for a merchant account. 46 She e-mails the 10-tip report to those who signed up and
+asks for their feedback and recommendations for content on the DVD. Ten days later, she has a first
+attempt at the DVD ready to ship and her store is online. Her sales to the original sign-ups cover costs of
+production and she is soon selling a respectable 10 DVDs per week ($750 profit) via Google Adwords.
+She plans to test advertising in niche magazines and blogs and now needs to create an automation
+architecture to remove herself from the equation.
+Sherwood didn’t fare as well but still sees potential. He spent $150 on PPC and “sold” three shirts for
+a hypothetical $225 in profit. He had more than enough traffic, but the bulk of visitors left the site on the
+pricing page. Rather than drop pricing, he decides to test a “2x money-back guarantee” on the pricing
+page, which will enable customers to get a $200 refund if the $100 shirts aren’t the “most comfortable
+they’ve ever owned.” He retests and “sells” seven shirts for $525 in profit. Based on these results, he sets
+up a merchant account through his bank and Authorize.net to process credit cards, orders a dozen shirts
+from France, and sells them all over the following ten days. This gives him enough profit to buy a small
+display ad at 50% off (asking for a “first-time advertiser discount” and then citing a competing magazine
+to get another 20% off) in a local weekly art magazine, in which he calls the shirt “Jackson Pollock
+Shirts.” He orders two dozen more shirts with net-30 payment terms and puts a toll-free number 47 in the
+print ad that forwards to his cell phone. He does this instead of using a website for two reasons: (1) He
+wants to determine the most common questions for his FAQ online, and (2) he wants to test an offer of
+$100 for one shirt ($75 in profit) or “buy two, get one free” ($200 - $75 = $125 profit).
+He sells all 24 shirts in the first five days the magazine runs, most through the special offer. Success.
+He redesigns the print ad, putting answers to common questions in the text to cut down on calls for
+information, and decides to negotiate a longer-term ad agreement with the magazine. He sends his sales
+rep a check for four issues at 30% of their published rates. He calls to confirm that they received his
+check via FedEx and, with check in hand and deadlines looming, they don’t refuse.
+Sherwood wants to go to Berlin during a two-week break from his job, which he is now considering
+quitting. How can he roll out his success and escape his own company? He needs to build the
+architecture and get his mobile M.B.A.
+That’s where the next chapter comes in.
+New Rich Revisited: How Doug Did It
+Remember Doug from ProSoundEffects.com? How did he test the idea and go from $0 to $10,000
+per month in the process? He followed these steps.
+1. Market Selection
+He chose music and television producers as his market because he is a musician himself and has used
+these products.
+2. Product Brainstorm
+He chose the most popular products available for resale from the largest manufacturers of sound libraries
+and arranged a wholesale purchase and drop-ship agreement with them. Many of these libraries cost well
+above $300 (up to $7,500), and this is precisely why he needs to answer more customer-service
+questions than someone with a lower-priced product of $50–200.
+3. Micro-Testing
+He auctioned the products on eBay to test demand (and the highest possible pricing) before purchasing
+inventory. He ordered product only when people placed orders from him, and product shipped
+immediately from the manufacturers’ warehouses. Based on this demand confirmed on eBay, Doug
+created a Yahoo Store with these products and began testing Google Adwords and other PPC search
+engines.
+4. Rollout and Automation
+Following this testing, and upon generating sufficient cash flow, Doug began experimenting with print
+advertising in trade magazines. Simultaneously, he streamlined and outsourced operations to reduce his
+time requirements from two hours per day to two hours per week.
+COMFORT CHALLENGE
+Rejecting First Offers and Walking Away (3 Days)
+Before performing this exercise, if possible, read the bonus chapter “How to Get $700,000 of
+Advertising for $10,000” on our companion site, and then set aside two hours on a consecutive Saturday,
+Sunday, and Monday.
+On Saturday and Sunday, go to a farmers’ market or other outdoor event where goods are sold. If this
+isn’t possible, go to small independent retailers (not chains or mass retail).
+Set a budget of $100 for your negotiating tuition and look for items to purchase that total at least $150.
+Your job is to get the sellers down to a total of $100 or less for the lot. It is better to practice on many
+cheap items rather than a few big items. Be sure to reply to their first offer with, “What type of discount
+can you offer?” to let them negotiate against themselves. Negotiate near closing time, choose your
+objective price, bracket, and make a firm offer with cash in hand for that amount. 48 Practice walking
+away if your objective price isn’t met. On Monday, call two magazines (expect the first to be awkward)
+and use the script on the companion site to negotiate, minus the last firm offer. Get them as low as
+possible and then call them back later to indicate that your proposal was refused by upper management
+or otherwise vetoed.
+This is the negotiating equivalent of paper trading. 49 Get used to refusing offers and countering in
+person and—most importantly—on the phone.
+TOOLS AND TRICKS
+Sample Muse Test Page
+The PX Method ( www.pxmethod.com )
+This sales template was used to determine the viability of a speed-reading product, which tested
+successfully. Notice how testimonials, credibility indicators, and risk-reversal guarantees are used, as
+well as how the pricing is put on a separate page so it can be isolated as a testing variable. Use this as a
+reference—it is a simple and effective model that can be copied. Please do not input your credit card
+information, as it is just a mock-up for teaching purposes.
+Fast and Simple Website Creation for Non-Techies (and Techies)
+Weebly ( www.weebly.com )
+Weebly, which the BBC labeled “a must,” allowed me to create www.timothyferriss.com in less than two
+hours and have it appear on the front page of Google for “timothy ferriss” searches within 48 hours. It is,
+like WordPress.com below, designed to be very SEO-friendly (search-engine optimization) without any
+knowledge or action on your part. No HTML or Internet expertise is required.
+WordPress.com ( www.wordpress.com )
+I used WordPress.com to set up www.litliberation.org from a coffee shop in Bratislava, Slovakia, when a
+U.S.-based designer flaked out and left me scrambling. It took me less than three hours to learn how to
+use it and build the site. The site, an experimental educational fundraiser, ended up raising 200%+ more
+than Stephen Colbert in the same period of time. I also use their free open-sourced version of WordPress
+(www.wordpress.org, which requires separate hosting) to manage everything for my top-1,000 blog at
+www.fourhourblog.com. This offers greater customization but requires more management and technical
+know-how.
+Both Weebly and WordPress.com host your site for you, so additional hosting setup isn’t required.
+If you choose to use www.wordpress.org (not.com) for greater customizability, I suggest using a
+hosting service with one-click WordPress installation like www.bluehost.com. The Shopp plug-in
+(http://shopplugin.net/) or Market Theme plug-in (http://www.markettheme.com/) can then be used to
+add e-commerce capabilities. Shopify.com (discussed later) is another good all-in-one alternative.
+Create Forms in Seconds for Testing Checkout with or Without Payment
+Wufoo ( www.wufoo.com )
+Wufoo does not offer a full-featured shopping cart, but it provides the cleanest, easiest-to-use forms on
+the web. Create a checkout page that connects to PayPal and you can (1) link to this checkout page from
+your site on Weebly, WordPress.com, or elsewhere, or (2) drop the code into your own website and have
+it hosted there. Wufoo is appropriate for testing and selling single products, as people can’t add multiple
+items to a shopping cart or otherwise customize the order à la Amazon. For those additional options,
+which are often desirable after successful testing, you will want to use an “end-to-end site solutions”
+listed later in these resources.
+Cost-Effective Trademark Filing and Company Formation (LLC, C-Corp, etc.)
+Though I also have a C-Corporation (often used to issue common and preferred stock to investors),
+created through the second option below, LLCs and S-Corps are generally favored by small businesses.
+Consult your accountant to determine the best entity form.
+LegalZoom ( www.legalzoom.com )
+Company formation, trademarks, and nearly all legal documents. I know one founder who used this
+service to incorporate his tech start-up, which is now worth more than $200 million.
+Corporate Creations ( www.corporatecreations.com )
+Domestic and overseas company formation.
+Services for Selling Downloadable Products (e-books, videos, audio, etc., in descending order of
+reader preference)
+E-Junkie ( www.e-junkie.com )
+Lulu ( www.lulu.com )
+Lulu will also do print-on-demand and other forms of manufacture and fulfillment. Like Lightning
+Source (www.lightningsource.com), it offers distribution through Amazon, Barnes & Noble online, and
+other major outlets.
+CreateSpace ( www.createspace.com )
+A subsidiary of Amazon.com that offers inventory-free, physical distribution of books, CD and DVDs on
+Demand, as well as video downloads through Amazon Video On Demand (tm) .
+Clickbank ( www.clickbank.com )
+Provides integrated access to affiliates willing to sell your product for a percentage of sales.
+Introduction to Pay-Per-Click (PPC) Advertising and Testing
+Google Adwords ( www.google.com/adwords )
+Market Sizing and Keyword Suggestion Tools
+Brainstorm additional PPC search terms and determine the number of people who are searching for them.
+Google Adwords Keyword Tool ( http://adwords.google.com/select/KeywordToolExternal )
+Enter the potential search terms to find search volume and alternative terms with more search traffic.
+Click on the “Approx Avg Search Volume” column to sort results from most to least searched.
+SEOBook Keyword Tool, SEO for Firefox Extension ( http://tools.seobook.com /)
+Outstanding resource page with searches powered by Wordtracker (www.wordtracker.com).
+Low-Cost Domain Registration
+Domains in Seconds ( www.domainsinseconds.com ) I have
+registered more than 100 domains through this service.
+Joker ( www.joker.com )
+GoDaddy ( www.godaddy.com )
+Inexpensive but Dependable Hosting Services
+Shared hosting solutions, where your site is hosted alongside other sites on a single server, are so cheap
+that I recommend using two providers, one as a primary and one as a backup. Put your site pages on
+each host and sign up with www.no-ip.com, which can redirect traffic (DNS) to the backup in five
+minutes instead of the usual 24 to 48 hours.
+1and1 ( www.1and1.com )
+BlueHost ( www.bluehost.com )
+RackSpace ( www.rackspace.com ; known for dedicated and
+managed servers )
+Hosting.com ( www.hosting.com ; known for dedicated and
+managed servers )
+Royalty-Free Photos and Materials
+iStockphoto ( www.istockphoto.com )
+iStockphoto is the Internet’s original member-generated image and design site, which has more than 4
+million photographs, vector illustrations, videos, audio tracks, and Flash files available for use.
+Getty Images ( www.gettyimages.com )
+This is where the pros go. Stock photos and film of anything for a price. I pay $150–400 for most images
+I use in national print campaigns and the quality is outstanding.
+E-mail Sign-up Tracking and Scheduled Autoresponders
+Both of these programs can be used to embed e-mail address sign-up forms on your site.
+AWeber ( www.aweber.com )
+MailChimp ( www.mailchimp.com )
+End-to-End Site Solutions with Payment Processing
+Shopify ( www.shopify.com )
+This is a reader favorite that, in addition to beautiful design, offers full SEO (search-engine
+optimization), drag-and-drop use, statistics, and product fulfillment through one of their certified
+partners such as Fulfillment by Amazon.com. Clients range from small-business owners to Tesla Motors.
+Unlike with Yahoo and eBay, however, you will need to set up a payment-processing service to accept
+payments from customers. (See below—PayPal is the easiest to integrate.)
+Yahoo! Store ( http://smallbusiness.yahoo.com/ecommerce ) (866–781–9246)
+This is what Doug of Pro Sound Effects used. As little as $40 a month with 1.5% per transaction.
+eBay Store ( http://pages.ebay.com/storefronts/start.html )
+From $15–500 per month, plus eBay fees.
+Simple Payment Processing for Testing Pages, from Least to Most Involved
+PayPal Cart (www.paypal.com; see “merchant”)
+Accept credit card payments in minutes. No monthly fees, 1.9–2.9% of each transaction (called “discount
+rate”) and $0.30 per transaction.
+Google Checkout ( http://checkout.google.com/sell )
+Get $10 in free processing for each $1 spent on AdWords; 2% and $0.20 per transaction thereafter.
+Requires that customers have a Google ID, and is thus most useful as a supplement to one of the
+aforementioned payment solutions. Be sure to link your Checkout account to your AdWords account to
+receive credit. Important note: free transaction processing for nonprofits.
+Authorize.net ( www.authorize.net )
+The Authorize.Net Payment Gateway can help you accept credit card and electronic check payments
+quickly and affordably. More than 230,000 merchants trust Authorize.net to manage their transactions,
+help prevent fraud, and grow their business. The fees per transaction are lower than PayPal or Google
+Checkout, but setup will require a merchant account, covered in the next chapter, and other timeconsuming
+applications. I suggest setting up Authorize.net only after a product has tested successfully
+through one of the other two options above.
+Software for Understanding Web Traffic (Web Analytics)
+How are people finding, browsing, and leaving your site? How many prospective customers are being
+delivered by each PPC ad, and which pages are most popular? These programs tell you all this and more.
+Google is free for most low-volume sites—and better than a lot of paid software-and the others cost $30
+and upward per month.
+Google Analytics ( www.google.com/analytics )
+CrazyEgg ( www.crazyegg.com )
+I use CrazyEgg to see exactly where people are clicking most and least on homepages and landing pages.
+It is particularly helpful for repositioning the most important links or buttons to help prompt visitors to
+take specific next actions. Don’t guess what’s working or not—measure it.
+Clicktracks (www.clicktracks.com)
+WebTrends ( www.webtrends.com )
+A/B Testing Software
+Testing is, as you know, the name of the game, but testing all the variables can be confusing. How do
+you know which combination of headlines, text, and images on your homepage results in the most sales?
+Instead of using one version for a bit, then alternating, which is time-consuming, use software that serves
+up different versions to prospects at random, then does the math for you.
+Google Website Optimizer (WO) ( http://www.google.com/websiteoptimizer )
+This is a free tool that, like Google Analytics, is better than most paid services. I used Google WO to test
+three potential homepages for www.dailyburn.com and increased sign-ups 19%, then again by more than
+16%.
+Offermatica ( www.offermatica.com )
+Vertster.com ( www.vertster.com )
+Optimost ( www.optimost.com )
+Low-Cost Toll-free Numbers
+TollFreeMAX (www.tollfreemax.com) (877–888–8MAX) and Kall8 (www.kall8.com)
+TollFreeMAX and Kall8 both allow you to set up toll-free numbers in 2–5 minutes. Calls can then be
+forwarded to any other numbers, and voicemail and statistics can be managed online or via e-mail.
+Checking Competitive Site Traffic
+Want to see how much traffic your competition is getting and who is linking to them?
+Compete ( www.compete.com )
+Quantcast ( www.quantcast.com )
+Alexa ( www.alexa.com )
+Freelance Designers and Programmers
+99Designs (www.99designs.com) and Crowdspring (www.crowdspring.com)
+I used 99Designs to get an excellent logo for www.litliberation.org in 24 hours for less than $150. I
+submitted the concept, more than 50 designers worldwide uploaded their best attempts, which I could
+browse, and I chose the best after suggesting a few improvements. From Crowdspring’s site: “Name
+your price, name your deadline, see entries within hours and be done in just days. The average project
+gets a whopping 68 entries. 25 entries or your money back.”
+eLance ( www.elance.com ) (877–435–2623)
+Craigslist ( www.craigslist.org )
+LIFESTYLE DESIGN IN ACTION
+I’m a U.S. citizen and it was impossible for my friends and relatives to track me down by phone. Enter
+Skype In. It’s not new but allows you to lease a fixed U.S. (or other country) phone number which then
+forwards to your Skype account. About $60/year. Within Skype you can then set up call forwarding to
+ring you at your local number. You pay the rate as if you were calling from the United States to
+wherever you are. I’ve used this in about 40 countries and it works like a treat. The call quality is usually
+great and the convenience is amazing. http://www.skype.com/allfeatures/onlinenumber/. A caveat is to
+always, ALWAYS get a local SIM card for your unlocked GSM phone. Roaming is for amateurs. A
+local SIM also gets you GPRS, Edge, or 3G. Sometimes even free Wifi. Cheers, —TY KROLL
+Basically I try to keep all of my tools online so that if my laptop gets stolen, I can buy a new one and
+have everything up and running within 24 hours. Here are a few of the tools I use on a regular basis:
+RememberTheMilk.com has been really crucial to me keeping on top of my daily tasks.
+Freshbooks.com for online invoicing
+Highrise (http://www.highrisehq.com/) for online CRM
+Dropbox (getdropbox.com) for easy file sharing/automatic backup of critical files while on the
+road
+TrueCrypt (truecrypt.org) for keeping your laptop data secure while on the road. [Tim comment:
+This can also be used with a USB flash drive, and another cool feature—it provides two levels of
+“plausible deniability” (hidden volumes, etc.) if someone forces you to reveal the password.]
+PBwiki.com-Wiki site that helps me keep on top of the notes and ideas that I collect as I go
+through life.
+FogBugz on Demand: http://www.fogcreek.com/FogBUGZ/IntrotoOnDemand.html. It’s a “bug
+tracker” aimed at software development companies, but I use it every day for both personal and
+business tasks. It’s almost like a VA, as you can route your mail through it and it will help you sort
+it and keep track of it. It has great features to track e-mails, and there’s a free version for two users
+(me + VA!). —RB CARTER
+A really useful service is Amazon’s Mechanical Turk. With a small investment in time or money, a
+business that requires hundreds of people doing small bits of defined work becomes possible for
+extraordinarily low work-per-unit costs. Examples include the search for Steve Fosset (literally thousands
+of people looked at satellite photos that would have overwhelmed SAR agencies) and a trouble-ticket
+business that utilizes qualified labor all over the world (see Amazon.com/webservices). I am not an
+owner nor do I have any stake in Amazon—but I have used their services and some are trans forming
+when it comes to muse creation. Cheers, —J MARYMEE
+FAST TO MARKET
+The fastest way to market with a product idea is: Registera.com. Get hosting from dathorn.com [a
+cheap reseller account, like www.domainsinseconds.com]. With two clicks set up a wordpress blog.
+Apply a theme to it. Add your content and a buy now button. The buy now button links to an enter e-
+mail address, phone number, etc., page. The user then clicks a continue to PayPal button. This
+automatically e-mails me their details, but then shows the user a message stating that the link to PayPal
+is currently not working. I use this to determine how many sales I would have achieved. I use Google
+ads to drive traffic … I calculate theoretical ROI (ideally using Google analytics). If after a week or two
+I can see a positive ROI that’s worth my effort I create or outsource the creation of the product (emag,
+PDF, whatever). I set it all up with a working link to PayPal, and then retrospectively send a message to
+the users who already tried to buy. Normally within hours I’ve got all my money back, and the cash
+starts to roll. An example is the DIY public relations pack at www.mybusinesspr.com.au. Great work of
+the 4HWW … looking forward to the next edition. Regards, MATT SCHMIDT
+39. http://news.com.com/2100–1017–269594.html?legacy=cnet.
+40. It can be illegal to charge customers prior to shipment—so we will not charge customers—but it is
+still common practice. Why do so many commercials state “allow three to four weeks for delivery” if
+it only takes three to five days for a shipment to get from New York to California? It gives the
+companies time to manufacture product and use customers’ credit card payments to finance it. Clever
+but often against the law.
+41. This applies to Sherwood and not Johanna.
+42. How did I come up with the most successful BodyQUICK headline (“The Fastest Way to Increase
+Power and Speed Guaranteed”)? I borrowed it from the longest-running, and thus most profitable,
+Rosetta Stone headline: “The Fastest Way to Learn a Language Guaranteed. (tm) ” Reinventing the
+wheel is expensive—become an astute observer of what is already working and adapt it. I keep a
+folder of all print and direct mail advertising that compels me to call a number or visit a website, and
+I use www.delicious.com to bookmark websites that convince me to provide my e-mail address or
+make a purchase.
+43. Sherwood includes shipping and handling prior to the final order page so that people don’t finalize
+the order just to confirm total pricing. He wants his “orders” to reflect real orders and not price
+checkers.
+44. If you are rolling out after a successful test or building a large e-mail database, tools like
+www.aweber.com in the resources are better at scaling.
+45. Keeping in mind that 100 specific terms at $0.10 per click will perform better than 10 broad terms
+at $1.00 per click, the more you spend, and thus the more traffic you drive, the more statistically valid
+the results will be. If budget permits, increase the number of related terms and daily expenditure so
+that the entire PPC test costs $500–1,000.
+46. This is a checking account for receiving credit card payments.
+47. Set this up using services detailed at the end of this chapter and the next.
+48. See the online bonus chapter on www.fourhourblog.com to understand all of these terms in
+context. Search “Jedi Mind Tricks.”
+49. “Paper trading” refers to setting an imaginary budget, “purchasing” stocks (writing their current
+values on a piece of paper), and then tracking their performance over time to see how your investment
+would have done had it been for real. It is a no-risk method for honing investment skills before
+putting skin in the game.
+Income Autopilot III
+MBA—MANAGEMENT BY ABSENCE
+The factory of the future will have only two employees, a man and a dog. The man will be there
+to feed the dog. The dog will be there to keep the man from touching the equipment.
+—WARREN G. BENNIS, University of Southern California Professor of Business Administration;
+adviser to Ronald Reagan and John F. Kennedy
+Most entrepreneurs don’t start out with automation as a goal. This leaves them open to mass
+confusion in a world where each business guru contradicts the next. Consider the following:
+A company is stronger if it is bound by love rather than by fear…. If the employees come first,
+then they’re happy.
+—HERB KELLEHER, cofounder of Southwest Airlines
+Look, kiddie. I built this business by being a bastard. I run it by being a bastard. I’ll always be
+a bastard, and don’t you ever try to change me. 50
+—CHARLES REVSON, founder of Revlon, to a senior executive within his company
+Hmm … Whom to follow? If you are fast on your feet, you’ll notice that I just offered you an eitheror
+option. The good news is that, as usual, there is a third option.
+The contradictory advice you find in business books and elsewhere usually relates to managing
+employees—how to handle the human element. Herb tells you to give them a hug, Revson tells you to
+kick them in the balls, and I tell you to solve the problem by eliminating it altogether: Remove the
+human element.
+Once you have a product that sells, it’s time to design a self-correcting business architecture that runs
+itself.
+The Remote-Control CEO
+The power of hiding ourselves from one another is mercifully given, for men are wild beasts,
+and would devour one another but for this protection.
+—HENRY WARD BEECHER, U.S. abolitionist and clergyman, “Proverbs from Plymouth Pulpit”
+RURAL PENNSYLVANIA
+In a 200-year-old stone farmhouse, a quiet “experiment in 21st-century leadership” is proceeding
+exactly as planned. 51 Stephen McDonnell is upstairs in his flip-flops looking at a spreadsheet on his
+computer. His company has increased its annual revenue 30% per year since it all began, and he is able
+to spend more time with his three daughters than he ever thought possible.
+The experiment? As CEO of Applegate Farms, he insists on spending just one day per week at the
+company headquarters in Bridgewater, New Jersey. He’s not the only CEO who spends time at home, of
+course—there are hundreds who have heart attacks or nervous breakdowns and need time to recover—
+but there is a huge difference. McDonnell has been doing it for more than 17 years. Rarer still, he started
+doing it just six months after founding the company.
+This intentional absence has enabled him to create a process-driven instead of founder-driven
+business. Limiting contact with managers forces the entrepreneur to develop operational rules that enable
+others to deal with problems themselves instead of calling for help.
+This isn’t just for small operations. Applegate Farms sells more than 120 organic and natural meat
+products to high-end retailers and generates more than $35 million in revenue per year.
+It is all possible because McDonnell started with the end in mind.
+Behind the Scenes: The Muse Architecture
+Orders are nobody can see the Great Oz! Not nobody, not nohow!
+—GUARDIAN OF THE EMERALD CITY GATES, The Wizard of Oz
+Starting with the end in mind—an organizational map of what the eventual business will look like—is
+not new.
+Infamous deal-maker Wayne Huizenga copied the org chart of McDonald’s to turn Blockbuster into a
+billion-dollar behemoth, and dozens of titans have done much the same. In our case, it’s the “end in
+mind” that is different. Our goal isn’t to create a business that is as large as possible, but rather a
+business that bothers us as little as possible. The architecture has to place us out of the information flow
+instead of putting us at the top of it.
+I didn’t get this right the first time I tried.
+In 2003, I was interviewed in my home office for a documentary called As Seen on TV. We were
+interrupted every 20–30 seconds with beeping e-mail notifications, IM pings, and ringing phones. I
+couldn’t leave them unanswered, because dozens of decisions depended on me. If I didn’t ensure the
+trains were running on time and put out the fires, no one would.
+The Anatomy of Automation
+THE 4-HOUR WORKWEEK VIRTUAL ARCHITECTURE
+Splitting the Pie: Outsourcer Economics
+Each outsourcer takes a piece of the revenue pie. Here is what the general profit-loss might look like
+for a hypothetical $80 product sold via phone and developed with the help of an expert, who is paid a
+royalty. I recommend calculating profit margins using higher-than-anticipated expenses. This will
+account for unforeseen costs (read: screwups) and miscellaneous fees such as monthly reports, etc.
+How do you factor in advertising cost? If a $1,000 ad or $1,000 in PPC produces 50 sales, my
+advertising cost per order (CPO) is $20. This makes the actual‘ per-unit profit $40.94.
+I set a new goal after that experience, and when I was interviewed six months later as a follow-up, one
+change was more pronounced than all others: silence. I had redesigned the business from the ground up
+so that I had no phone calls to answer and no e-mail to respond to.
+I’m often asked how big my company is—how many people I employ full-time. The answer is one.
+Most people lose interest at that point. If someone were to ask me how many people run Brain-
+QUICKEN LLC, on the other hand, the answer is different: between 200 and 300. I am the ghost in the
+machine. 52
+From advertisements—print in this example—to a cash deposit in my bank account, the diagram is
+what a simplified version of my architecture looks like, including some sample costs. If you have
+developed a product based on the guidelines in the last two chapters, it will plug into this structure handin-glove.
+Where am I in the diagram? Nowhere.
+I am not a tollbooth through which anything needs to pass. I am more like a police officer on the side
+of the road who can step in if need be, and I use detailed reports from outsourcers to ensure the cogs are
+moving as intended. I check reports from fulfillment each Monday and monthly reports from the same
+the first of each month. The latter reports include orders received from the call center, which I can
+compare to the call center bills to gauge profit. Otherwise, I just check bank accounts online on the first
+and fifteenth of each month to look for odd deductions. If I find something, one e-mail will fix it, and if
+not, it’s back to kendo, painting, hiking, or whatever I happen to be doing at the time.
+Removing Yourself from the Equation: When and How
+The system is the solution.
+—AT&T
+The diagram should be your rough blueprint for designing a self-sustaining virtual architecture. There
+could be differences—more or fewer elements—but the main principles are the same:
+1. Contract outsourcing companies 53 that specialize in one function vs. freelancers whenever
+possible so that if someone is fired, quits, or doesn’t perform, you can replace them without
+interrupting your business. Hire trained groups of people who can provide detailed reporting and
+replace one another as needed.
+2. Ensure that all outsourcers are willing to communicate among themselves to solve problems, and
+give them written permission to make most inexpensive decisions without consulting you first (I
+started at less than $100 and moved to $400 after two months).
+How do you get there? It helps to look at where entrepreneurs typically lose their momentum and stall
+permanently.
+Most entrepreneurs begin with the cheapest tools available, bootstrapping and doing things themselves
+to get up and running with little cash. This isn’t the problem. In fact, it’s necessary so that the
+entrepreneurs can train outsourcers later. The problem is that these same entrepreneurs don’t know when
+and how to replace themselves or their homemade infrastructure with something more scalable.
+By “scalable,” I mean a business architecture that can handle 10,000 orders per week as easily as it can
+handle 10 orders per week. Doing this requires minimizing your decision-making responsibilities, which
+achieves our goal of time freedom while setting the stage for doubling and tripling income with no
+change in hours worked.
+Call the companies at the end of the chapter to research costs. Plan and budget accordingly to upgrade
+infrastructure at the following milestones, which I measure in units of product shipped:
+Phase I: 0–50 Total Units of Product Shipped
+Do it all yourself. Put your phone number on the site for both general questions and order-taking—this is
+important in the beginning—and take customer calls to determine common questions that you will
+answer later in an online FAQ. This FAQ will also be the main material for training phone operators and
+developing sales scripts.
+Is PPC, an offline advertisement, or your website too vague or misleading, thus attracting unqualified
+and time-consuming consumers? If so, change them to answer common questions and make the product
+benefits (including what it isn’t or doesn’t do) clearer.
+Answer all e-mail and save your responses in one folder called “customer service questions.” CC
+yourself on responses and put the nature of the customers’ questions in the subject lines for future
+indexing. Personally pack and ship all product to determine the cheapest options for both. Investigate
+opening a merchant account from your local small bank (easier to get than with a larger bank) for later
+outsourced credit card processing at higher roll-out volumes.
+Phase II: >10 Units Shipped Per Week
+Add the extensive FAQ to your website and continue to add answers to common questions as received.
+Find local fulfillment companies in the yellow pages under “fulfillment services” or “mailing services.”
+If you cannot find one there or at www.mfsanet.org, call local printers and ask them for
+recommendations. Narrow the field to those (often the smallest) who will agree not to charge you setup
+fees and monthly minimums. If this isn’t possible, ask for at least 50% off both and then request that the
+setup fee be applied as an advance against shipping or their other fees.
+Limit the candidates further to those who can respond to order status e-mail (ideal) or phone calls
+from customers. The e-mail from your “customer service” folder will be provided as copy-and-paste
+responses, especially those related to order status and refund requests. 54
+To lower or eliminate miscellaneous fees, explain that you are a start-up and that your budget is small.
+Tell them you need the cash for advertising that will drive more shipments. If needed, mention the
+competitive companies that you are considering and pit them against one another, using lower pricing or
+concessions from one to get larger discounts and bonuses from the others.
+Before making your final selection, ask for at least three client references and use the following to
+elicit the negatives: “I understand they’re good, but everyone has weaknesses. If you had to point out
+where you’ve had some issues and what they’re not the best at, what would you say? Can you please
+describe an incident or a disagreement? I expect these with all companies, so it’s no big deal, and it’s
+confidential, of course.”
+Ask for “net-30 terms”—payment for services 30 days after they’re rendered—after one month of
+prompt payment for their services. It is easier to negotiate all of the above points with smaller operations
+that need the business. Have your contract manufacturer ship product directly to the fulfillment house
+once you have decided on one and put the fulfillment house’s e-mail (you can use an e-mail address at
+your domain and forward it) or phone number on the online “thank you” page for order status questions.
+Phase III: >20 Units Shipped Per Week
+Now you will have the cash flow to afford the setup fees and the monthly minimums that bigger, more
+sophisticated outsourcers will ask for. Call the end-to-end fulfillment houses that handle it all—from
+order status to returns and refunds. Interview them about costs and ask them for referrals to call centers
+and credit card processors they’ve collaborated with for file transfers and problem solving. Don’t
+assemble an architecture of strangers—there will be programming costs and mistakes, both of which are
+expensive.
+Set up an account with the credit card processor first, for which you will need your own merchant
+account. This is critical, as the fulfillment house can only handle refunds and declined cards for
+transactions they process themselves through an outsourced credit card processor.
+Optionally, set up an account with one of the call centers your new fulfillment center recommends.
+These will often have toll-free numbers you can use instead of purchasing your own. Look at the
+percentage split of online to phone orders during testing and consider carefully if the extra revenue from
+the latter is worth the hassle. It often isn’t. Those who call to order will generally order online if given no
+other option.
+Before signing on with a call center, get several 800 numbers they answer for current clients and make
+test calls, asking difficult product-related questions and gauging sales abilities. Call each number at least
+three times (morning, afternoon, and evening) and note the make-or-break factor: wait time. The phone
+should be answered within three to four rings, and if you are put on hold, the shorter the wait the better.
+More than 15 seconds will result in too many abandoned calls and waste advertising dollars.
+The Art of Undecision: Fewer Options = More Revenue
+Companies go out of business when they make the wrong decisions or, just as important, make
+too many decisions. The latter creates complexity.
+—MIKE MAPLES, cofounder of Motive Communications (IPO to $260 million market cap),
+founding executive of Tivoli (sold to IBM for $750 million), and investor in companies such as
+Digg.com
+Joseph Sugarman is the marketing genius behind dozens of direct-response and retail successes,
+including the BluBlocker sunglasses phenomenon. Prior to his string of home runs on television (he sold
+20,000 pairs of BluBlockers within 15 minutes of his first QVC appearance), his domain was print media,
+where he made millions and built an empire called JS&A Group. He was once recruited to design an
+advertisement for a manufacturer’s watch line. The manufacturer wanted to feature nine different
+watches in the ad, and Joe recommended featuring just one. The client insisted and Joe offered to do
+both and test them in the same issue of The Wall Street Journal. The result? The one-watch offer outsold
+the nine-watch offer 6-to-1. 55
+Henry Ford once said, referring to his Model-T, the bestselling car of all time, 56 “The customer can
+have any color he wants, so long as it’s black.” He understood something that businesspeople seem to
+have forgotten: Serving the customer (“customer service”) is not becoming a personal concierge and
+catering to their every whim and want. Customer service is providing an excellent product at an
+acceptable price and solving legitimate problems (lost packages, replacements, refunds, etc.) in the fastest
+manner possible. That’s it.
+The more options you offer the customer, the more indecision you create and the fewer orders you
+receive—it is a disservice all around. Furthermore, the more options you offer the customer, the more
+manufacturing and customer service burden you create for yourself.
+The art of “undecision” refers to minimizing the number of decisions your customers can or need to
+make. Here are a few methods that I and other NR have used to reduce service overhead 20–80%:
+1. Offer one or two purchase options (“basic” and “premium,” for example) and no more.
+2. Do not offer multiple shipping options. Offer one fast method instead and charge a premium.
+3. Do not offer overnight or expedited shipping (it is possible to refer them to a reseller who does, as
+is true with all of these points), as these shipping methods will produce hundreds of anxious phone
+calls.
+4. Eliminate phone orders completely and direct all prospects to online ordering. This seems
+outrageous until you realize that success stories like Amazon.com have depended on it as a
+fundamental cost-saver to survive and thrive.
+5. Do not offer international shipments. Spending 10 minutes per order filling out customs forms and
+then dealing with customer complaints when the product costs 20–100% more with tariffs and
+duties is about as fun as headbutting a curb. It’s about as profitable, too.
+Some of these policies hint at what is perhaps the biggest time-saver of all: customer filtering.
+Not All Customers Are Created Equal
+Once you reach Phase III and have some cash flow, it’s time to re-evaluate your customers and thin
+the herd. There are good and bad versions of all things: good food, bad food; good movies, bad movies;
+good sex, bad sex; and, yes, good customers and bad customers.
+Decide now to do business with the former and avoid the latter. I recommend looking at the customer
+as an equal trading partner and not as an infallible blessing of a human being to be pleased at all costs. If
+you offer an excellent product at an acceptable price, it is an equal trade and not a begging session
+between subordinate (you) and superior (customer). Be professional but never kowtow to unreasonable
+people.
+Instead of dealing with problem customers, I recommend you prevent them from ordering in the first
+place.
+I know dozens of NR who don’t accept Western Union or checks as payment. Some would respond to
+this with, “You’re giving up 10–15% of your sales!” The NR, in turn, would say, “I am, but I’m also
+avoiding the 10–15% of the customers who create 40% of the expenses and eat 40% of my time.” It’s
+classic 80/20.
+Those who spend the least and ask for the most before ordering will do the same after the sale. Cutting
+them out is both a good lifestyle decision and a good financial decision. Low-profit and highmaintenance
+customers like to call operators and spend up to 30 minutes on the phone asking questions
+that are unimportant or answered online, costing—in my case—$24.90 (30 x $0.83) per 30-minute
+incident, eliminating the minuscule profit they contribute in the first place.
+Those who spend the most complain the least. In addition to our premium $50–200 pricing, here are a
+few additional policies that attract the high-profit and low-maintenance customers we want:
+1. Do not accept payment via Western Union, checks, or money order.
+2. Raise wholesale minimums to 12–100 units and require a tax ID number to qualify resellers who
+are real businesspeople and not time-intensive novices. Don’t run a personal business school.
+3. Refer all potential resellers to an online order form that must be printed, filled out, and faxed in.
+Never negotiate pricing or approve lower pricing for higher-volume orders. Cite “company policy”
+due to having had problems in the past.
+4. Offer low-priced products (à la MRI’s NO2 book) instead of free products to capture contact
+information for follow-up sales. Offering something for free is the best way to attract time-eaters
+and spend money on those unwilling to return the favor.
+5. Offer a lose-win guarantee (see boxed text) instead of free trials.
+6. Do not accept orders from common mail fraud countries such as Nigeria.
+Make your customer base an exclusive club, and treat the members well once they’ve been accepted.
+The Lose-Win Guarantee—How to Sell Anything to Anyone
+If you want a guarantee, buy a toaster.
+—CLINT EASTWOOD
+The 30-day money-back guarantee is dead. It just doesn’t have the pizzazz it once did. If a product
+doesn’t work, I’ve been lied to and will have to spend an afternoon at the post office to return it. This
+costs me more than just the price I paid for the product, both in time and actual postage. Risk elimination
+just isn’t enough.
+This is where we enter the neglected realm of lose-win guarantees and risk reversal. The NR use what
+most consider an afterthought—the guarantee—as a cornerstone sales tool.
+The NR aim to make it profitable for the customer even if the product fails. Lose-win guarantees not
+only remove risk for the consumer but put the company at financial risk.
+Here are a few examples of putting your money where your mouth is.
+Delivered in 30 minutes or less or it’s free!
+(Domino’s Pizza built its business on this guarantee.)
+We’re so confident you’ll like CIALIS, if you don’t we’ll pay for the brand of your choice.
+(The “CIALIS® Promise Program” offers a free sample of CIALIS and then offers to pay for
+competing products if CIALIS doesn’t live up to the hype.)
+If your car is stolen, we’ll pay $500 of your insurance deductible.
+(This guarantee helped THE CLUB become the #1-selling mechanical automobile anti-theft device in
+the world.)
+110% guaranteed to work within 60 minutes of the first dose.
+(This was for BodyQUICK and a first among sports nutrition products. I offered to not only refund
+customers the price of the product if it didn’t work within 60 minutes of the first dose, but also to send
+them a check for 10% more.)
+The lose-win guarantee might seem like a big risk, especially when someone can abuse it for profit like
+in the BodyQUICK example, but it isn’t … if your product delivers. Most people are honest.
+Let’s look at some actual numbers.
+Returns for BodyQUICK, even with a 60-day return period (and partially because of it 57 ), are less
+than 3% in an industry in which the average is 12–15% for a normal 30-day 100% money-back
+guarantee. Sales increased more than 300% within four weeks of introducing the 110% guarantee, and
+returns decreased overall.
+Johanna adopted this lose-win offer and came up with “Increase sport-specific flexibility 40% in two
+weeks or return it for a full refund (including shipping) and keep the 20-minute bonus DVD as our gift.”
+Sherwood found his guarantee as well: “If these shirts are not the most comfortable you’ve ever worn,
+return them and get 2-times your purchase price back. Each shirt is also guaranteed for life—if it gets
+threadbare, send it back and we’ll replace it free of charge.”
+Both of them increased sales more than 200% in the first two months. Return percentage remained the
+same for Johanna and increased 50% for Sherwood, from 2 to 3%. Disaster? Far from it. Instead of
+selling 50 and getting one back with a 100% guarantee [(50 x $100) – $100 = $4,900 in revenue], he sold
+200 and got six back with the 200% guarantee [(200 x $100) – (6 x $200) = $18,800 in revenue]. I’ll take
+the latter.
+Lose-win is the new win-win. Stand out and reap the rewards.
+Little Blue Chip: How to Look Fortune 500 in 45 Minutes
+Are you tired of sand being kicked in your face? I promise you new muscles in days!
+—CHARLES ATLAS, strongman who sold more than $30 million worth of “dynamic-tension”
+muscle courses through comic books
+If approaching large resellers or potential partners, small company size will be an obstacle. This
+discrimination is often as insurmountable as it is unfounded. Fortunately, a few simple steps can
+dramatically upgrade your budding Fortune 500 image and take your muse from coffee shop to
+boardroom in 45 minutes or less.
+1. Don’t be the CEO or founder.
+Being the “CEO” or “Founder” screams start-up. Give yourself the mid-level title of “vice president”
+(VP), “director,” or something similar that can be added to depending on the occasion (Director of
+Sales, Director of Business Development, etc.). For negotiation purposes as well, remember that it is
+best not to appear to be the ultimate decision-maker.
+2. Put multiple e-mail and phone contacts on the website.
+Put various e-mail addresses on the “contact us” page for different departments, such as “human
+resources,” “sales,” “general inquiries,” “wholesale distribution,” “media/PR,” “investors,” “web
+comments,” “order status,” and so on. In the beginning, these will all forward to your e-mail address.
+In Phase III, most will forward to the appropriate outsourcers. Multiple toll-free numbers can be used
+in the same fashion.
+3. Set up an Interactive Voice Response (IVR) remote receptionist.
+It is possible to sound like a blue chip for less than $30. In fewer than ten minutes on a site such as
+www.angel.com, which boasts clients such as Reebok and Kellog’s, it is possible to set up an 800
+number that greets callers with a voice prompt such as, “Thank you for calling [business name].
+Please say the name of the person or department you would like to reach or just hold on for a list of
+options.”
+Upon speaking your name or selecting the appropriate department, the caller is forwarded to your
+preferred phone or the appropriate outsourcer—with on-hold music and all.
+4. Do not provide home addresses.
+Do not use your home address or you will get visitors. Prior to securing an end-to-end fulfillment
+house that can handle checks and money orders—if you decide to accept them—use a post office box
+but leave out the “PO Box” and include the street address of the post office itself. Thus “PO Box 555,
+Nowhere, US 11936” becomes “Suite 555, 1234 Downtown Ave., US 11936.”
+Go forth and project professionalism with a well-designed image. Perceived size does matter.
+COMFORT CHALLENGE
+Relax in Public (2 days)
+This is the last Comfort Challenge, placed prior to the chapter that tackles the most uncomfortable
+turning point for most office dwellers: negotiating remote work agreements. This challenge is intended to
+be fun while showing—in no uncertain terms—that the rules most follow are nothing more than social
+conventions. There are no legal boundaries stopping you from creating an ideal life … or just being selfentertained
+and causing mass confusion.
+So, relaxing in public. Sounds easy, right? I’m somewhat famous for relaxing in style to get a laugh
+out of friends. Here is the deal, and I don’t care if you’re male or female, 20 or 60, Mongolian or
+Martian. I call the following a “time-out.”
+Once per day for two days, simply lie down in the middle of a crowded public place at some point.
+Lunchtime is ideal. It can be a well-trafficked sidewalk, the middle of a popular Starbucks, or a popular
+bar. There is no real technique involved. Just lie down and remain silent on the ground for about ten
+seconds, and then get up and continue on with whatever you were doing before. I used to do this at
+nightclubs to clear space for break-dancing circles. No one responded to pleading, but going catatonic on
+the ground did the trick.
+Don’t explain it at all. If someone asks about it after the fact (he or she will be too confused to ask you
+while you’re doing it for 10 seconds), just respond, “I just felt like lying down for a second.” The less
+you say, the funnier and more gratifying this will be. Do it on solo missions for the first two days, and
+then feel free to do it when with a group of friends. It’s a riot.
+It isn’t enough to think outside the box. Thinking is passive. Get used to acting outside the box.
+TOOLS AND TRICKS
+Looking Huge—Virtual Receptionist and IVR
+Angel ( www.angel.com )
+Get an 800 number with professional voice menu (voice recognition departments, extensions, etc.) in five
+minutes. Incredible.
+Ring Central ( www.ringcentral.com )
+Offers toll-free numbers, call screening and forwarding, voicemail, fax send and receive, and message
+alerts, all online.
+CD/DVD Duplication, Printing, and Product Packaging
+AVC Corporation ( www.avccorp.com )
+SF Video ( www.sfvideo.com )
+Local Fulfillment (fewer than 20 units shipped per week)
+Mailing Fulfillment Service Association ( www.mfsanet.org )
+End-to-End Fulfillment Companies (more than 20 units shipped per week, $500+ setup)
+Motivational Fulfillment ( www.mfpsinc.com )
+The secret backend to campaigns from HBO, PBS, Comic Relief, Body by Jake, and more.
+Innotrac ( www.innotrac.com )
+They are currently one of the largest DR marking companies.
+Moulton Fulfillment ( www.moultonfulfillment.com )
+200,000-square-foot facility with real-time online inventory reports.
+Call Centers (per-minute and/or per-sale fees)
+There are generally two classes of call centers: order takers and commissioned reps. Interview each
+provider you consider to understand the options and costs involved.
+The former is a good option if you give the product price in an advertisement (hard offer), are offering
+free information (lead generation), or don’t need trained salespeople who can overcome objections. In
+other words, your ad or website is pre-qualifying prospects.
+The latter would more appropriately be called “sales centers.” Operators are commissioned and trained
+“closers” whose sole goal is to convert callers to buyers. These calls are often in response to “call for
+information/ trial/sample” ads that don’t feature a price (soft offers). Expect higher costs per sale.
+LiveOps ( www.liveops.com )
+Pioneer in home-based reps, which often ensures more calls are answered. Provides comprehensive
+service with agents, IVR, and Spanish. Often used for one-step order taking instead of soft offers.
+West Teleservices ( www.west.com )
+29,000 employees worldwide, processes billions of minutes per year. All the high-volume and low-price
+players use them for lower-priced products or higher-end products with free trials and installment plans.
+NexRep ( www.nexrep.com )
+Highly skilled home-based sales agents that specialize in B2C and B2B, inbound and outbound
+programs. If performance, speed to respond, Internet integration, and quality customer experience are
+your priorities, this is a strong option to consider.
+Triton Technology ( www.tritontechnology.com )
+Commission-only sales center know for incredible closing abilities (see the movie Boiler Room and Alec
+Baldwin’s character in Glengarry, Glen Ross). Don’t call unless your product sells for at least $100.
+CenterPoint Teleservices ( http://www.centerpointllc.com )
+This sales force has experience to convert sales from hard offers, soft offers, and multiple offers
+(upselling additional products after a caller agrees to purchase the advertised product) originating from
+radio, TV, print, or the web.
+Stewart Response Group ( www.stewartresponsegroup.com )
+Sales-driven call center leveraging the home-agent model for both inbound and outbound programs.
+Another high-touch boutique center.
+Credit Card Processors (merchant account through your bank necessary)
+These companies, unlike options in the last chapter, specialize in not only processing credit cards but
+interacting with fulfillment on your behalf, removing you from the flowchart.
+TransFirst Payment Processing ( www.transfirst.com )
+Chase Paymentech ( www.paymentech.com )
+Trust Commerce ( www.trustcommerce.com )
+PowerPay (www.powerpay.biz)
+One of the Inc. 500 Fastest-Growing Private Companies. Process credit cards from your iPhone and
+more.
+Affiliate Program Software
+My Affiliate Program ( www.myaffiliateprogram.com )
+Also see the affiliate programs listed in the “Tools and Tricks” at the end of Chapter 9.
+Discount Media Buying Agencies
+If you go to a magazine, radio station, or TV channel and pay rate card—the “retail” pricing first given—
+you will never make it big. To save a lot of headache and expense, consider using ad agencies that
+negotiate discounts of up to 90% in their chosen media.
+Manhattan Media (Print) ( www.manhmedia.com )
+Great agency with fast turnaround. I’ve used them since the beginning.
+Novus Media (Print) ( www.novusprintmedia.com )
+Relationships with 1,400+ magazine and newspaper publishers with an average of 80% of rate card.
+Clients include Sharper Image and Office Depot.
+Mercury Media (TV) ( www.mercurymedia.com )
+Largest private DR media agency in the U.S. Specialists in TV but can also handle radio and print. Offer
+full tracking and reporting to determine ROI.
+Euro RSCG (Cross Media) ( http://www.eurorscgedge.com /)
+One of the worldwide leaders in DRTV media across all platforms.
+Canella Media Response Television (TV) ( http://www.drtv.com )
+Uses the innovative P/I (per inquiry) model for compensation, where you split order profits instead of
+paying for time upfront. This is more expensive per order if you have a successful campaign, but it
+lowers upfront investment in media.
+Marketing Architects (Radio) ( www.marketingarchitects.com )
+The de facto leaders in radio DR but a bit on the expensive side. Almost all of the most successful DR
+products—Carlton Sheets No Money Down, Tony Robbins, etc.—have used them.
+Radio Direct Response (Radio) ( www.radiodirect.com )
+Mark Lipsky has put together a great firm, with clients ranging from small direct marketers to Travel
+Channel and Wells Fargo.
+Online Marketing and Research Firms (PPC campaign management, etc.)
+Starting Small—Find a Local Individual to Help
+SEMPO (www.sempo.org; see the member directory)
+Excellent Mid-Size Firms
+Clicks 2 Customers (www.clicks2customers.com)
+Working Planet (www.workingplanet.com)
+The Hard-Hitting Pros—Small Campaigns Start at Several Thousand Dollars
+Marketing Experiments (www.marketingexperiments.com) This is my team.
+Did It ( www.did-it.com )
+ROIRevolution ( www.roirevolution.com )
+Cost is determined by a percentage above monthly PPC spend.
+iProspect ( www.iprospect.com )
+Full-Service Infomercial Producers
+These are the companies that made Oreck Direct, Nutrisystem, Nordic-Track, and Hooked on Phonics
+household names. The first has an excellent DRTV glossary and both sites offer excellent resources.
+Don’t call unless you can budget at least $15,000 for a short-form commercial or $50,000+ for a longform
+infomercial.
+Cesari Direct ( http://www.cesaridirect.com /)
+Hawthorne Direct (www.hawthornedirect.com)
+Script-to-Screen (www.scripttoscreen.com)
+Retail and International Product Distribution
+Want to get your product on the shelves of Wal-Mart, Costco, Nordstrom, or the leading department
+store in Japan? Sometimes it pays to have experts with relationships get you there.
+Tristar Products ( http://www.tristarproductsinc.com )
+Behind the PowerJuicer and other hits. Tristar also owns their own production studio and can therefore
+offer end-to-end services in addition to retail distribution.
+BJ Direct (International) ( www.bjgd.com )
+Celebrity Brokers
+Want a celebrity to endorse your product or be a spokesperson? It can cost a lot less than you think, if
+you do it right. I know of one clothing endorsement deal with the best pitcher in Major League Baseball
+that cost just $20,000 per year. Here are the brokers who can make it happen:
+Celeb Brokers ( www.celebbrokers.com )
+President Jack King was the one who first turned me on to this fascinating world. He knows it all inside
+and out.
+Celebrity Endorsement Network ( www.celebrityendorsement.com )
+Celebrity Finding
+Contact Any Celebrity ( www.contactanycelebrity.com )
+It is possible to do it yourself, as I have done many times. This online directory and its helpful staff will
+help you find any celebrity in the world.
+LIFESTYLE DESIGN IN ACTION
+After I read the section on outsourcing, I thought it sounded like a novel idea but would never work for
+me. However, since the rest of the book was “spot on,” I decided to try it. Rather than ship my money
+overseas, I opted to keep it in the U.S. and use my niece in college, with skills on computers I can’t even
+fathom, to test the theory. Turns out it has been a great experience and timesaver for me, as well as
+moneymaker for her. It seems I have all of the positives of out sourcing but none of the hassles of
+language and such…. Being able to mold a young mind for the better ties in well with the rest of your
+book …
+—KEN D.
+Hey Tim, You mentioned www.weebly.com a few months ago, and I’ve been using that to build all
+my muse sites and think it’s great! Also, Facebook groups has (almost) every niche imaginable. So what
+I have found success in doing is: (1) Finding a niche group that would buy my muse, (2) sending a
+message to each admin telling them how my muse will help their group members. Then politely asking
+them to put a blurb in the “Recent News” section of the group. This makes it more trustworthy than a
+wall post, and it stays up there (free advertising) until the admin removes it. One hundred times better
+than a wall post. In one case, the admin purchased my muse, posted my note for me on the groups’
+“Recent News” section, then e-mailed the entire group telling them they have to check out my site.
+—GAVIN
+50. Richard Tedlow, Giants of Enterprise: Seven Business Innovators and the Empires They Built
+(2001; reprint, HarperBusiness, 2003).
+51. This is adapted from “The Remote Control CEO,” Inc. magazine, October 2005.
+52. Actually, I’m the ghost in new machines now, as I sold BrainQUICKEN in 2009 to a private
+equity firm.
+53. “Contract outsourcing companies” can be as simple as dependable web-based services. Don’t let
+the term intimidate you.
+54. Sample e-mail responses for fulfillment purposes can be found at www.fourhourblog.com.
+55 Joseph Sugarman, Advertising Secrets of the Written Word (DelStar Books, 1998).
+56 Depending on whose math is used (number of cars vs. gross sales), some claim the original
+Volkswagen Beetle holds the record.
+57. For the benefit of the customer and to capitalize on universal laziness (me included), provide as
+much time as possible to consider or forget the product. Ginsu knives offered a 50-year guarantee.
+Can you offer a 60-, 90-, or even 365-day guarantee? Gauge average return percentages with a 30- or
+60-day guarantee first (for budgeting calculations and cash-flow projections) and then extend it.
+Step IV:
+L is for Liberation
+It is far better for a man to go wrong in
+freedom than to go right in chains .
+—THOMAS H. HUXLEY,
+English biologist; known as “Darwin’s Bulldog”
+Disappearing Act
+HOW TO ESCAPE THE OFFICE
+By working faithfully eight hours a day, you may eventually get to be a boss and work twelve
+hours a day.
+—ROBERT FROST, American poet and winner of four Pulitzer Prizes
+On this path, it is only the first step that counts.
+—ST. JEAN–BAPTISTE–MARIE VIANNEY, Catholic saint, “Curé d’Ars”
+PALO ALTO , CALIFORNIA
+“We’re not going to expense the phone.”
+“I’m not asking you to.”
+Silence. Then a nod, a laugh, and a crooked smile of resignation.
+“OK, then—it’s fine.”
+And that was that, lickity-split. Forty-four-year old Dave Camarillo, lifelong employee, had cracked
+the code and started his second life.
+He hadn’t been fired; he hadn’t been yelled at. His boss seemed to be handling the whole situation
+quite well. Granted, Dave delivered the goods on the job, and it wasn’t like he was doing naked snow
+angels in client meetings, but still—he had just spent 30 days in China without telling anyone.
+“It wasn’t half as hard as I thought it would be.”
+Dave works among more than 10,000 employees at Hewlett- Packard (HP), and—against all odds—he
+actually likes it. He has no desire to start his own company and has spent the last seven years doing tech
+support for customers in 45 states and 22 countries. Six months ago, however, he had a small problem.
+She measured 5′2″ and weighed 110 pounds.
+Was he, like most men, afraid of commitment, unwilling to stop running around the house in Spider-
+Man underoos, or inseparable from the last refuge of any self-respecting man, the PlayStation? No, he
+was past all that. In fact, Dave was locked and loaded, ready to pop the big question, but he was short on
+vacation days and his girlfriend lived out of town. Waaaaay out of town—5,913 miles out of town.
+He had met her on a client visit to Shenzhen, China, and it was now time to meet the parents, logistics
+be damned.
+Dave had only recently begun to take tech calls at home, and, well, isn’t home where the heart is? One
+plane ticket and one T-Mobile GSM tri-band phone later, he was somewhere over the Pacific en route to
+his first seven-day experiment. Twelve time zones hence, he proposed, she accepted, and no one was the
+wiser stateside.
+The second field trip was a 30-day tour of Chinese family and food (pig face, anyone?), ending with
+Shumei Wu becoming Shumei Camarillo. Back in Palo Alto, HP continued its quest for world
+domination, neither knowing nor caring where Dave was. He had his calls forwarded to his newly
+begotten wife’s cell phone and all was right in the world.
+Now back in the U.S. after hoping for the best and preparing for the worst, Dave had earned his Eagle
+Scout mobility badge. The future looks flexible, indeed. He is going to start by spending two months in
+China every summer and then move to Australia and Europe to make up for lost time, all with the full
+support of his boss.
+The key to cutting the leash was simple—he asked for forgiveness instead of permission.
+“I didn’t travel for 30 years of my life—so why not?”
+THAT’S PRECISELY THE question everyone should be asking—why the hell not?
+From Caste to Castaway
+The old rich, the upper class of yore with castles and ascots and irritating little lapdogs, are
+characterized as being well-established in one place. The Schwarzes of Nantucket and the McDonnells
+of Charlottesville. Blech. Summers in the Hamptons is sooooo 1990s.
+The guard is changing. Being bound to one place will be the new defining feature of middle class. The
+New Rich are defined by a more elusive power than simple cash—unrestricted mobility. This jet-setting
+is not limited to start-up owners or freelancers. Employees can pull it off, too. 58
+Not only can they pull it off, but more and more companies want them to pull it off. BestBuy, the
+consumer electronics giant, is now sending thousands of employees home from their HQ in Minnesota
+and claims not only lowered costs, but also a 10–20% increase in results. The new mantra is this: Work
+wherever and whenever you want, but get your work done.
+In Japan, a three-piece zombie who joins the 9–5 grind each morning is called a sarari-man
+—salaryman—and, in the last few years, a new verb has emerged: datsu-sara suru, to escape (datsu) the
+salaryman (sara) lifestyle.
+It’s your turn to learn the datsu-sara dance. 59
+Trading Bosses for Beer: An Oktoberfest Case Study
+To create the proper leverage to be unshackled, we’ll do two things: demonstrate the business benefit
+of remote working and make it too expensive or excruciating to refuse a request for it.
+Remember Sherwood?
+His French shirts are beginning to move and he is itching to ditch the U.S. for a global walkabout. He
+has more than enough cash now but needs to escape constant supervision in the office before he can
+implement all the timesaving tools from Elimination and travel.
+He is a mechanical engineer and is producing twice as many designs in half the time since erasing
+90% of his time-wasters and interruptions. This quantum leap in performance has been noticed by his
+supervisors and his value to the company has increased, making it more expensive to lose him. More
+value means more leverage for negotiations. Sherwood has been sure to hold back some of his
+productivity and efficiency so that he can highlight a sudden jump in both during a remote work trial
+period.
+Since eliminating most of his meetings and in-person discussions, he has naturally moved about 80%
+of all communication with his boss and colleagues to e-mail and the remaining 20% to phone. Not only
+this, but he has used tips from chapter 7, “Interrupting Interruption and the Art of Refusal,” to cut
+unimportant and repetitive e-mail volume in half. This will make the move to remote less noticeable, if at
+all noticeable, from a managerial standpoint. Sherwood is running at full speed with less and less
+supervision.
+Sherwood implements his escape in five steps, beginning on July 12 during the slow business season
+and lasting two months, ending with a trip to Oktoberfest in Munich, Germany, for two weeks as a final
+test before bigger and bolder vagabonding plans.
+Step 1: Increase Investment
+First, he speaks with his boss on July 12 about additional training that might be available to employees.
+He proposes having the company pay for a four-week industrial design class to help him better interface
+with clients, being sure to mention the benefit to the boss and business (i.e., he’ll decrease
+intradepartmental back-and-forth and increase both client results and billable time). Sherwood wants the
+company to invest as much as possible in him so that the loss is greater if he quits.
+Step 2: Prove Increased Output Offsite
+Second, he calls in sick the next Tuesday and Wednesday, July 18 and 19, to showcase his remote
+working productivity. 60 He decides to call in sick between Tuesday and Thursday for two reasons: It
+looks less like a lie for a three-day weekend and it also enables him to see how well he functions in
+social isolation without the imminent reprieve of the weekend. He ensures that he doubles his work
+output on both days, leaves an e-mail trail of some sort for his boss to notice, and keeps quantifiable
+records of what he accomplished for reference during later negotiations. Since he uses expensive CAD
+software that is only licensed on his office desktop, Sherwood installs a free trial of GoToMyPC remote
+access software so that he can pilot his office computer from home.
+Step 3: Prepare the Quantifiable Business Benefit
+Third, Sherwood creates a bullet-point list of how much more he achieved outside the office with
+explanations. He realizes that he needs to present remote working as a good business decision and not a
+personal perk. The quantifiable end result was three more designs per day than his usual average and
+three total hours of additional billable client time. For explanations, he identifies removal of commute
+and fewer distractions from office noise.
+Step 4: Propose a Revocable Trial Period
+Fourth, fresh off completing the comfort challenges from previous chapters, Sherwood confidently
+proposes an innocent one-day-per-week remote work trial period for two weeks. He plans a script in
+advance but does not make it a PowerPoint presentation or otherwise give it the appearance of something
+serious or irreversible. 61
+Sherwood knocks on his boss’s office door around 3 P.M. on a relatively relaxed Thursday, July 27,
+the week after his absence, and his script looks like the following. Stock phrases are underlined and
+footnotes explain negotiating points.
+Sherwood: Hi, Bill. Do you have a quick second?
+Bill: Sure. What’s up?
+Sherwood: I just wanted to bounce an idea off of you that’s been on my mind. Two minutes should be
+plenty.
+Bill: OK. Shoot.
+Sherwood: Last week, as you know, I was sick. Long story short, I decided to work at home despite
+feeling terrible. So here’s the funny part. I thought I would get nothing done, but ended up finishing three
+more designs than usual on both days. Plus, I put in three more billable hours than usual without the
+commute, office noise, distractions, etc. OK, so here’s where I’m going. Just as a trial, I’d like to
+propose working from home Mondays and Tuesdays for just two weeks. You can veto it whenever you
+want, and I’ll come in if we need to do meetings, but I’d like to try it for just two weeks and review the
+results. I’m 100% confident that I’ll get twice as much done. Does that seem reasonable?
+Bill: Hmm … What if we need to share client designs?
+Sherwood: There’s a program called GoToMyPC that I used to access the office computer when I was
+sick. I can view everything remotely, and I’ll have my cell phone on me 24/7. Sooooo … What do you
+think? Test it out starting next Monday and see how much more I get done? 62
+Bill: Ummm … OK, fine. But it’s just a test. I have a meeting in five and have to run, but let’s talk
+soon.
+Sherwood: Great. Thanks for the time. I’ll keep you posted on it all. I’m sure you’ll be pleasantly
+surprised.
+Sherwood didn’t expect to get two days per week approved. He asked for two so that, in the case his
+boss refused, he could ask for just one as a fallback position (bracketing). Why didn’t Sherwood go for
+five days remote per week? Two reasons. First, it’s a lot for management to accept off the bat. We need
+to ask for an inch and turn it into a foot without setting off panic alarms. Second, it is a good idea to
+hone your remote-working abilities—rehearse a bit—before shooting for the big time, as it decreases the
+likelihood of crises and screwups that will get remote rights revoked.
+Step 5: Expand Remote Time
+Sherwood ensures that his days outside of the office are his most productive to date, even minimally
+dropping in-office production to heighten the contrast. He sets a meeting to discuss the results with his
+boss on August 15 and prepares a bullet-point page detailing increased results and items completed
+compared to in-office time. He suggests upping the ante to four days per week remote for a two-week
+trial, fully prepared to concede to three days if need be.
+Sherwood: It really turned out even better than I expected. If you look at the numbers, it makes a lot of
+business sense, and I’m enjoying work a lot more now. So, here we are. I’d like to suggest, if you think it
+makes sense, that I try four days a week for another two-week trial. I was thinking that coming in
+Friday 63 would make sense to prepare for the coming week, but we could do whichever day you prefer.
+Bill: Sherwood, I’m really not sure we can do that.
+Sherwood: What’s your main concern? 64
+Bill: It seems like you’re on your way out. I mean, are you going to quit on us? Second, what if everyone
+wants to do the same?
+Sherwood: Fair enough. Good points. 65 First, to be honest, I was close to quitting before, with all the
+interruptions and commute and whatnot, but I’m actually feeling great now with the change in routine. 66
+I’m doing more and feel relaxed for a change. Second, no one should be allowed to work remotely unless
+they can show increased productivity, and I’m the perfect experiment. If they can show it, however, why
+not let them do it on a trial basis? It lowers costs for the office, increases productivity, and makes
+employees happier. So, what do you say? Can I test it out for two weeks and come in Fridays to take care
+of the office stuff? I’ll still document everything, and you, of course, have the right to change your mind
+at any point.
+Bill: Man, you are an insistent one. OK, we’ll give it a shot, but don’t go blabbing about it.
+Sherwood: Of course. Thanks, Bill. I appreciate the trust. Talk to you soon.
+Sherwood continues to be productive at home and maintains his lower in-office performance. He
+reviews the results with his boss after two weeks and continues with four remote days per week for an
+additional two weeks until Tuesday, September 19, when he requests a full-time remote trial of two
+weeks while he is visiting relatives out of state. 67 Sherwood’s team is in the middle of a project that
+requires his expertise, and he is prepared to quit if his boss refuses. He realizes that, just as you want to
+negotiate ad pricing close to deadlines, getting what you want often depends more on when you ask for it
+than how you ask for it. Though he would prefer not to quit, his income from shirts is more than enough
+to fund his dream-lines of Oktoberfest and beyond.
+His boss acquiesces and Sherwood doesn’t have to use his threat of quitting. He goes home that
+evening and buys a $524 round-trip ticket, less than one week’s shirt sales, to Munich for Oktoberfest.
+Now he can implement all the time-savers possible and hack out the inessentials. Somewhere between
+drinking wheat beer and dancing in lederhosen, Sherwood will get his work done in fine form, leaving
+his company better off than prior to 80/20 and leaving himself all the time in the world.
+But hold on a second … What if your boss still refuses? Hmm … Then they force your hand. If upper
+management won’t see the light, you’ll just have to use the next chapter to fire their asses.
+An Alternative: The Hourglass Approach
+It can be effective to take a longer period of absence up front in what some NR have termed the
+“hourglass” approach, so named because you use a long proof-of-concept up front to get a short remote
+agreement and then negotiate back up to full-time out of the office. Here’s what it looks like.
+1. Use a preplanned project or emergency (family issue, personal issue, relocation, home repairs,
+whatever) that requires you to take one or two weeks out of the office.
+2. Say that you recognize you can’t just stop working and that you would prefer to work instead of
+taking vacation days.
+3. Propose how you can work remotely and offer, if necessary, to take a pay cut for that period (and
+that period only) if performance isn’t up to par upon returning.
+4. Allow the boss to collaborate on how to do it so that he or she is invested in the process.
+5. Make the two weeks “off” the most productive period you’ve ever had at work.
+6. Show your boss the quantifiable results upon returning, and tell him or her that—without all the
+distractions, commute, etc.—you can get twice as much done. Suggest two or three days at home
+per week as a trial for two weeks.
+7. Make those remote days ultraproductive.
+8. Suggest only one or two days in the office per week.
+9. Make those days the least productive of the week.
+10. Suggest complete mobility—the boss will go for it.
+Q&A: QUESTIONS AND ACTIONS
+Recently, I was asked if I was going to fire an employee who made a mistake that cost the
+company $600,000. No, I replied, I just spent $600,000 training him.
+—THOMAS J. WATSON, founder of IBM
+Liberty means responsibility. That is why most men dread it.
+—GEORGE BERNARD SHAW
+While entrepreneurs have the most trouble with Automation, since they fear giving up control,
+employees get stuck on Liberation because they fear taking control. Resolve to grab the reins—the rest
+of your life depends on it.
+The following questions and actions will help you to replace presence-based work with performancebased
+freedom.
+1. If you had a heart attack, and assuming your boss were sympathetic, how could you work
+remotely for four weeks?
+If you hit a brick wall with a task that doesn’t seem remote-compatible or if you predict resistance
+from your boss, ask the following:
+What are you accomplishing with this task—what is the
+purpose?
+If you had to find other ways to accomplish the same—if your
+life depended on it—how would you do it? Remote
+conferencing? Video conferencing? GoToMeeting,
+GoToMyPC, DimDim.com (Mac), or related services?
+Why would your boss resist remote work? What is the
+immediate negative effect it would have on the company and
+what could you do to prevent or minimize it?
+2. Put yourself in your boss’s shoes. Based on your work history, would you trust yourself to
+work outside of the office?
+If you wouldn’t, reread Elimination to improve production and consider the hourglass option.
+3. Practice environment-free productivity.
+Attempt to work for two to three hours in a café for two Saturdays prior to proposing a remote
+trial. If you exercise in a gym, attempt to exercise for those two weeks at home or otherwise
+outside of the gym environment. The purpose here is to separate your activities from a single
+environment and ensure that you have the discipline to work solo.
+4. Quantify current productivity.
+If you have applied the 80/20 Principle, set the rules of interrupting interruption, and completed
+related groundwork, your performance should be at an all-time high in quantifiable terms, whether
+customers served, revenue generated, pages produced, speed of accounts receivable, or otherwise.
+Document this.
+5. Create an opportunity to demonstrate remote work productivity before asking for it as a
+policy.
+This is to test your ability to work outside of an office environment and rack up some proof that
+you can kick ass without constant supervision.
+6. Practice the art of getting past “no” before proposing.
+Go to farmers’ markets to negotiate prices, ask for free first-class upgrades, ask for compensation
+if you encounter poor service in restaurants, and otherwise ask for the world and practice using the
+following magic questions when people refuse to give it to you.
+“What would I need to do to [desired outcome]?”
+“Under what circumstances would you [desired outcome]?”
+“Have you ever made an exception?”
+“I’m sure you’ve made an exception before, haven’t you?”
+(If no for either of the last two, ask, “Why not?” If yes, ask, “Why?”)
+7. Put your employer on remote training wheels—propose Monday or Friday at home.
+Consider doing this, or the following step, during a period when it would be too disruptive to fire
+you, even if you were marginally less productive while remote.
+If your employer refuses, it’s time to get a new boss or become an entrepreneur. The job will
+never give you the requisite time freedom. If you decide to jump ship, consider letting them make
+you walk the plank—quitting is often less appealing than tactfully getting fired and using
+severance or unemployment to take a long vacation.
+8. Extend each successful trial period until you reach full-time or your desired level of mobility.
+Don’t underestimate how much your company needs you. Perform well and ask for what you want.
+If you don’t get it over time, leave. It’s too big a world to spend most of life in a cubicle.
+LIFESTYLE DESIGN IN ACTION
+Consider trying Earth Class Mail, a service that you can reroute all your mail to, at which point they
+scan and e-mail you everything that comes in, giving you the option of recycling/shredding junk, getting
+a scan of the contents, or having specific items forwarded to you or someone you designate. I have not
+personally used it yet (will be testing it out this month in preparation for an upcoming trip in May), but a
+friend and author in Portland swears by them and knows the CEO. Seems they’ve gotten good press and
+the idea seems far better than relying on friends/family who, if they’re anything like my friends/family …
+will surely drop the ball at some point:-).
+—NATHALIE
+I also use GreenByPhone.com to process checks electronically that come in through my Earth Class
+Mail account—they charge $5 a check, but I live in San Diego, my Earth Class Mail office address is in
+Seattle, and I bank in Ohio. It works great!
+—ANDREW
+To add to your excellent list (we’ve traveled just like that for several years SWEET!), I’d like to add
+my modifications as a female traveler and a new mom (16-month-old baby). Personal favorites: (1)
+Athleta carries excellent, light, quick-dry clothing that hold up well to sports but still look very
+fashionable. Skorts are a must for looking feminine but being fully covered for hiking and steep pyramid
+steps—you know what I mean, ladies! Just a note, a slightly longer length will serve you well in a lot of
+countries, as well as tankini tops and swim skirts for swimming. (2) Fresh & Go toothbrush is simple to
+use. (3) Marsona sound machine for drowning out unfamiliar noises is a must (regularly use with baby at
+home too so when they hear the sound they know it’s sleep time!). This has been a lifesaver for us on
+many trips, and we now use it regularly at home for better sleep. No more changing hotels midtrip to
+avoid noise. AND, I know we have to travel light, but with baby a lot of things are nonnegotiable. These
+make for smoother sailing: (1) Peanut shell sling in black fleece—it’s more comfy than the cotton and
+you can pop baby in and out wherever you are, from birth to 35 lbs. I never take mine off, it’s part of my
+outfit; (2) Peapod plus portable tent—this is baby’s main bed at home and travel so baby has the same
+sleep place everywhere we go, and the flaps give all travel parties privacy—great from small babies to
+five-year-olds. I can still jam this onto a little wheeled carry-on and pack mine and baby’s minimal
+clothing around it; (3) Go Go Kidz TravelMate (great for wheeling car seat up to the gate for gate check
+or use on plane); (4) Britax Diplomat car seat is small but kids can use it from birth to approx. four years
+old.
+Make sure the wheeled carry-on bag you get is one size smaller than the allowed carry-on size so you
+don’t get bumped to check the bag in if the plane is full. You can always nicely argue/reason/bat your
+eyelashes that you will put the bag in your foot space. Also, very helpful to give baby something to sip
+or munch on during take off and landing so yours isn’t the baby screaming from ear pain. Happy travels!
+—KARYL
+PRE-EMPTING THE BOSS: COMMON CONCERNS ABOUT REMOTE WORK
+In the linked article, Cisco acknowledges that remote work arrangements are “here to stay” yet lists a
+set of security issues. It makes sense to preemptively research solutions so that you are armed and ready
+if your employer raises these concerns. http://newsroom.cisco.com/dlls/2008/prod_020508.html.
+—Contributed by RAINA
+58. If you’re an entrepreneur, don’t skip this chapter. This introduction to remote working tools and
+tactics is integral to the international pieces of the puzzle that follow.
+59. This verb is used by Japanese women as well, even though female workers are referred to as
+“OL”—office ladies.
+60. Any reason to be home will do (cable or phone installation, home repairs, etc.) or, if you prefer
+not to use a ruse, work a weekend or take two vacation days.
+61. Review the Puppy Dog Close from “Income Autopilot II: Testing the Muse.”
+62. Do not digress from your goal. Once you’ve addressed an objection or concern, go for the close.
+63. Friday is the best day to be in the office. People are relaxed and tend to leave early.
+64. Do not accept a vague refusal. Pinpointing the main concern in detail enables you to overcome it.
+65. Don’t jump to the defensive after an objection. Acknowledge the validity of a boss’s concerns to
+prevent an ego-driven battle of wills.
+66. Note this indirect threat dressed as a confession. It will make the boss think twice about refusing
+but prevents the win-lose outcome of an ultimatum.
+67. This removes the boss’s ability to call you to the office. This is critical for making the first jump
+overseas.
+Beyond Repair
+KILLING YOUR JOB
+All courses of action are risky, so prudence is not in avoiding danger (it’s impossible), but
+calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth.
+Develop the strength to do bold things, not the strength to suffer.
+—NICCOLÒ MACHIAVELLI, The Prince
+Existential Pleas and Resignations Mad Libs
+BY ED MURRAY
+
+Some jobs are simply beyond repair.
+Improvements would be like adding a set of designer curtains to a jail cell: better but far from good. In
+the context of this chapter, “job” will refer to both a company if you run one and a normal job if you
+have one. Some recommendations are limited to one of the two but most are relevant to both. So we
+begin.
+I have quit three jobs and been fired from most of the rest. Getting fired, despite sometimes coming as
+a surprise and leaving you scrambling to recover, is often a godsend: Someone else makes the decision
+for you, and it’s impossible to sit in the wrong job for the rest of your life. Most people aren’t lucky
+enough to get fired and die a slow spiritual death over 30–40 years of tolerating the mediocre.
+Pride and Punishment
+If you must play, decide on three things at the start: the rules of the game, the stakes, and the
+quitting time.
+—CHINESE PROVERB
+Just because something has been a lot of work or consumed a lot of time doesn’t make it productive or
+worthwhile.
+Just because you are embarrassed to admit that you’re still living the consequences of bad decisions
+made 5, 10, or 20 years ago shouldn’t stop you from making good decisions now. If you let pride stop
+you, you will hate life 5, 10, and 20 years from now for the same reasons. I hate to be wrong and sat in a
+dead-end trajectory with my own company until I was forced to change directions or face total
+breakdown—I know how hard it is.
+Now that we’re all on a level playing field: Pride is stupid.
+Being able to quit things that don’t work is integral to being a winner. Going into a project or job
+without defining when worthwhile becomes wasteful is like going into a casino without a cap on what
+you will gamble: dangerous and foolish.
+“But, you don’t understand my situation. It’s complicated!” But is it really? Don’t confuse the
+complex with the difficult. Most situations are simple—many are just emotionally difficult to act upon.
+The problem and the solution are usually obvious and simple. It’s not that you don’t know what to do. Of
+course you do. You are just terrified that you might end up worse off than you are now.
+I’ll tell you right now: If you’re at this point, you won’t be worse off. Revisit fear-setting and cut the
+cord.
+Like Pulling Off a Band-Aid: It’s Easier and Less Painful Than
+You Think
+The average man is a conformist, accepting miseries and disasters with the stoicism of a cow
+standing in the rain.
+—COLIN WILSON, British author of The Outsider; New Existentialist
+There are several principal phobias that keep people on sinking ships, and there are simple rebuttals
+for all of them.
+1. Quitting is permanent.
+Far from it. Use the Q&A questions in this chapter and chapter 3 (Fear-setting) to examine how you
+could pick up your chosen career track or start another company at a later point. I have never seen an
+example where a change of direction wasn’t somehow reversible.
+2. I won’t be able to pay the bills.
+Sure you will. First of all, the objective will be to have a new job or source of cash flow before quitting
+your current job. Problem solved.
+If you jump ship or get fired, it isn’t hard to eliminate most expenses temporarily and live on savings
+for a brief period. From renting out your home to refinancing or selling it, there are options. There are
+always options.
+It might be emotionally difficult, but you won’t starve. Park your car in the garage and cancel
+insurance for a few months. Carpool or take the bus until you find the next gig. Rack up some more
+credit card debt and cook instead of eating out. Sell all the crap that you spent hundreds or thousands on
+and never use.
+Take a full inventory of your assets, cash reserves, debts, and monthly expenses. How long could you
+survive with your current resources or if you sold some assets?
+Go through all expenses and ask yourself, If I had to eliminate this because I needed an extra kidney,
+how would I do it? Don’t be melodramatic when there is no need—few things are fatal, particularly for
+smart people. If you’ve made it this far in life, losing or dropping a job will often be little more than a
+few weeks of vacation (unless you want more) prior to something better.
+3. Health insurance and retirement accounts disappear if I quit.
+Untrue.
+I was scared of both when I was eliminated from TrueSAN. I had visions of rotting teeth and working
+at Wal-Mart to survive.
+Upon looking at the facts and exploring options, I realized that I could have identical medical and
+dental coverage—the same provider and network—for $300–500 per month. To transfer my 401(k) to

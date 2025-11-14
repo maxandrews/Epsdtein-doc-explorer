@@ -1,0 +1,1710 @@
+services in the world. According to a 2009 NSA analysis of Russian
+capabilities, which was obtained by The New York Times in 2013,
+Russia’s highly sophisticated tools for cyber espionage were superior
+to those of China or any other adversary nation. For example, investigators
+from FireEye, a well- regarded Silicon Valley security firm,
+found that in 2007 Russian hackers had developed a highly sophisticated
+virus that could bypass the security measures of the servers
+of both the U.S. government and its private contractors. According
+to one computer security expert, the virus had made protected Internet
+websites “sitting ducks” for these sophisticated Russian hackers.
+The cryptographer Bruce Schneier, a leading specialist in computer
+security, explained, “It is next to impossible to maintain privacy and
+anonymity against a well- funded government adversary.”
+Nor has the Russian cyber service made a secret out of the fact that
+Epst_9780451494566_2p_all_r1.indd 232
+9/30/16 8:13 AM
+The Russians Are Coming | 233
+it targets Tor software. It even offered a cash prize to anyone in the
+hacking community who could break Tor. Prior to 2013, according
+to cyber- security experts, it spent over a decade building cyber tools
+aimed at unraveling the Tor networks used by hacktivists, criminal
+enterprises, political dissidents, and rival intelligence operatives. To
+this end, it reportedly attempted to map out computers that served
+as major Tor exit nodes (such as the one Snowden operated in 2012
+near an NSA regional base in Hawaii). It also reportedly attached
+the equivalent of “electronic ink” to messages, which would allow
+it to trace the path of messages that passed through them. Through
+this technology, it could tag and follow Tor users as their communications
+traveled across the Internet. It could even borrow their
+Internet identities. To be sure, the NSA also had such a capability.
+The Silk Road founder, Ross Ulbricht, discovered to his distress that
+his Tor software did not make his computer server in Iceland invisible.
+According to a former top official in the Justice Department, the
+NSA was able to locate it by cracking the Tor software (Ulbricht is
+currently serving a life sentence for his activities). Unlike adversary
+services, however, the NSA needs a warrant to investigate U.S. citizens
+who use Tor.
+The NSA is hardly immune from an attack on its own computers.
+As the former CIA deputy director Morell wrote in his 2015 book,
+The Great War of Our Time, many financial institutions have “better
+cyber security than the NSA.” The Internet certainly helped make
+the activities of U.S. intelligence workers visible to the SVR.
+But to achieve its goals, the SVR still had to find at least one disgruntled
+civilian contractor inside the NSA who had access to the
+sealed- off computer networks. Did it find its man? If so, was it before
+or after Snowden arrived in Hong Kong with the Level 3 NSA files?
+Epst_9780451494566_2p_all_r1.indd 233
+9/30/16 8:13 AM
+c h a p t e r 22
+The Chinese Puzzle
+The first [false assumption] is that China is an enemy of the
+United States. It’s not.
+— edward snowden, Hong Kong, 2013
+On august 11, 2014, in the Atlantic Ocean, an event took place
+of enormous concern to U.S. intelligence. A Chinese Jin- class
+submarine launched an intercontinental ballistic missile. The missile
+released twelve independently targeted reentry vehicles, each simulating
+a nuclear warhead. Some forty- four hundred miles away, in
+China’s test range in the Xinjiang desert, each of the twelve simulated
+nuclear warheads hit its target within a twelve- inch radius.
+The test firing, which was closely monitored by the NSA, was a
+strategic game changer. It meant that a single Jin- class submarine,
+which carried twelve such missiles and 144 nuclear warheads, could
+destroy every city of strategic importance in the United States. U.S.
+intelligence further reported that China would soon use stealth
+technology to make it more difficult to detect newer submarines and
+give “China its first credible sea- based nuclear deterrent” against an
+American attack.
+By 2015, as its test in the Atlantic had foreshadowed, China had
+armed its land- based as well as sea- based missiles with multiple
+Epst_9780451494566_2p_all_r1.indd 234
+9/30/16 8:13 AM
+The Chinese Puzzle | 235
+independently targeted warheads. Combined with the state- of- theart
+technology it had licensed from Russia, its systematic use of
+espionage even made it possible for China to build its own stealth
+fighters.
+Unlike the United States, China did not achieve this remarkable
+capability to launch independently targeted miniaturized nuclear
+weapons and stealth them by investing hundreds of billions of dollars
+in developing them. It obtained this technology mainly through
+espionage. The Chinese intelligence service stole a large part, if not
+all, of America’s secret technology for weaponizing nuclear bombs
+during the 1980s and 1990s. The theft was so massive that in 1998
+the House of Representatives set up a special bipartisan investigative
+unit called the Select Committee on U.S. National Security and
+Military/Commercial Concerns with the People’s Republic of China.
+Based on the intelligence amassed by the NSA, the CIA, and other
+intelligence services, it concluded in its report that the Chinese intelligence
+service had obtained both by electronic and by conventional
+spying the warhead design of America’s seven most advanced thermonuclear
+weapons. Moreover, it found that espionage successes
+allowed China to so accelerate the design, development, and testing
+of its own nuclear weapons that the new generation of Chinese
+weapons would be “comparable in effectiveness to the weapons used
+by the United States.” Further, the committee reported that these
+thefts were the “results of decades of intelligence operations against
+U.S. weapons laboratories.” The Chinese intelligence service further
+obtained from private U.S. defense contractors through cyber espionage
+important elements of the stealth technology used in advanced
+planes and submarines. China shared (or exchanged) the fruits of its
+espionage on nuclear warhead design with North Korea, Pakistan,
+Iran, and Russia.
+Despite its formidable intelligence coups in the United States, the
+Chinese intelligence service managed to remain among the most
+elusive of America’s intelligence adversaries. Its espionage organizations
+are hidden behind layers of bureaucracy in the Ministry of
+State Security, Chinese Communist Party structures, and the second,
+third, and fourth department of the General Staff of the People’s
+Liberation Army. Much of its cyber- espionage units are concealed
+Epst_9780451494566_2p_all_r1.indd 235
+9/30/16 8:13 AM
+236 | how america lost its secrets
+on the campuses of its universities. Its hierarchy is also obscure.
+Few traces have been uncovered of any conventional espionage networks
+in the United States, and no major Chinese spy has ever been
+arrested. Part of the reason that Chinese espionage has proved so elusive
+to the eyes of Western counterintelligence is that, unlike Russia,
+it did not ordinarily rely on intelligence officers in its embassies to
+recruit penetration agents to steal secrets. It did not even have an
+embassy in the United States during most of the Cold War. Instead,
+its services specialize in mosaics of intelligence assembled from a
+wide variety of sources, including nonclassified documents, returning
+graduate students, scientific conferences, exchanges with allies,
+and a vast operation of hacking into computers, or cyber espionage.
+Such espionage is indeed a vast enterprise in China. Graduating
+over 150,000 computer science engineers in the 1990s, it had no
+shortage of personnel. It had also developed the cyber tool kit to gain
+access to the computer networks of U.S. government contractors and
+consultants in the private sector and government agencies, planting
+“sleeper” bugs in networked computers. Like human sleeper agents,
+these hidden programs can be activated when needed for operational
+purposes. Chinese controllers can often retrieve e- mails and documents
+and can turn on the cameras and microphones of personal
+computers, tablets, and smart phones.
+By 2007, Paul Strassmann, a top U.S. defense expert on cyber
+espionage, reported that China had inserted “zombie” programs in
+some 700,000 computers in the United States, which could be used to
+mount cyber attacks to retrieve e- mails from other computers. The
+Chinese service also reportedly penetrated companies that provide
+Internet services, including Google, Yahoo!, Symantec, and Adobe,
+which allowed it to track e- mails and enclosures of individuals. With
+such an invisible army of zombie computers, it is not entirely surprising
+that China finds little need to employ human sleeper agents.
+Chinese cyber specialists used this capability to hack into the
+computers of outside contractors, including Booz Allen and other
+companies that supplied technologists to the NSA. It also had notable
+successes in obtaining the dossiers of U.S. employees and independent
+contractors at the NSA, the CIA, and other intelligence
+services. Its intrusions, as previously noted, into computer networks
+Epst_9780451494566_2p_all_r1.indd 236
+9/30/16 8:13 AM
+The Chinese Puzzle | 237
+at the Office of Personnel Management traced back to 2009. Eventually,
+by 2015, according to U.S. estimates, the cyber attack had
+harvested over twenty million personnel files of past and present
+federal government employees. In addition, it reaped over fourteen
+million background checks of intelligence workers done by the Federal
+Investigative Services.
+All intelligence workers with a sensitive compartmented information
+clearance, such as Snowden, were required to provide information
+on these forms about all their foreign acquaintances, including
+any non- U.S. officials whom the applicant knew or had had relationships
+with in the past. They also had to list their foreign travel,
+family members, police encounters, mental health issues, and credit
+history. For good measure, Chinese hackers obtained the confidential
+medical histories of government employees by hacking into the
+computers of Anthem and other giant health- care companies. If
+China’s intelligence services consolidated the fruits of these hacking
+attacks, it would have a searchable database of almost everyone
+working in the American defense and intelligence complex. From
+this database, it could track individuals with high security clearances
+vulnerable to being bribed, blackmailed, or tricked into cooperating.
+No one doubted that the Chinese would use their cyber capabilities
+to take advantage of opportunities presented in foreign computer
+systems.
+General Hayden said of the massive theft of intelligence personnel
+records, “Those records are a legitimate foreign intelligence target.”
+He added, “If I, as director of the NSA or CIA, would have
+had the opportunity to grab the equivalent in the Chinese system,
+I would not have thought twice.” If that opportunity did not arise
+for the NSA or the CIA during Hayden’s tenure, it might have been
+because no insider in the Chinese intelligence services provided U.S.
+intelligence with a road map to it.
+Cyber espionage was not the Chinese intelligence service’s only
+powerful resource in the intelligence war. To get both electronic
+intelligence and human intelligence about the United States, China
+also had a highly productive intelligence- sharing treaty with Russia.
+It was signed in 1992 after the Soviet Union was dissolved. Although
+the terms of this exchange remain secret, defectors from the Rus-
+Epst_9780451494566_2p_all_r1.indd 237
+9/30/16 8:13 AM
+238 | how america lost its secrets
+sian KGB and SVR reported that Chinese intelligence received from
+Russia a continuous stream of communications intelligence about
+the United States in the late twentieth and early twenty- first centuries.
+Russia’s intelligence resources during this period were formidable.
+They included geosynchronous satellites, listening stations
+in Cuba, sleeper agents, and embassy- based spy networks. Presumably,
+this relationship further deepened under President Putin’s
+regime. Putin asserted in speeches in 2014 that Russia and China
+continued to share a key strategic objective: countering the United
+States’ domination of international relations, or what Putin terms
+“a unipolar world order.” China’s president, Xi Jinping, expressed a
+very similar view, saying in 2014 in a thinly veiled reference to the
+United States that any attempt to “monopolize” international affairs
+will not succeed.
+Since the end of the Cold War, Russia has been the major supplier
+of almost all of China’s modern weaponry. It licenses for manufacture
+in China avionics, air defense systems, missile launchers, stealth
+technology, and submarine warfare equipment. To make these arms
+effective, it also provides China with up- to- date intelligence about
+the ability of the United States and its allies to counter them. While
+such intelligence cooperation may be limited by the reality that
+China and Russia still compete in many areas, they still have reason
+to share much of the fruits of their cyber and conventional espionage
+against the NSA in accordance with their intelligence. After all,
+the NSA works to intercept the military and political secrets of both
+these allies. Moreover, as the CIA’s former deputy director Morell
+points out in his book, NSA secrets are a form of currency for adversaries
+in the global intelligence war, saying that part of Snowden’s
+cache could be traded by a country that acquired it to the intelligence
+services of Iran and North Korea.
+Snowden’s stay in Hong Kong from May 20 to June 23 in 2013
+made the Chinese intelligence service, willy- nilly, a potential player
+in whatever game he was involved in. China’s full responsibility for
+Hong Kong’s national security and foreign affairs includes monitoring
+foreign intelligence operatives. Chinese intelligence main-
+Epst_9780451494566_2p_all_r1.indd 238
+9/30/16 8:13 AM
+The Chinese Puzzle | 239
+tains there its largest intelligence base outside mainland China. A
+large contingent of its officers are stationed officially in the Prince
+of Wales skyscraper in central Hong Kong and unofficially maintain
+informers in Hong Kong’s police, governing authority, airport
+administration, and other levers of power. It checks the computerized
+visitors entering Hong Kong and has the capability to ferret
+names that match those in the immense database its global cyber
+espionage has amassed. When it detects the entry of any person of
+possible intelligence interest, it can use its sophisticated array of
+cyber tools to attempt to remotely steal data from that individual.
+Such remote surveillance was so effective in 2013 that the U.S. State
+Department had instructed all its personnel in Hong Kong to avoid
+using their iPhones, Androids, BlackBerry phones, and other smart
+phones when traveling to Hong Kong or China. Instead, it supplied
+them with specially altered phones that disable location tracking
+and have a remotely activated switch to completely cut off power
+to its circuitry. No one in the intelligence community doubts the
+prudence of taking such precautions in China, and it is nearly inconceivable
+that Snowden, whose prior position at the NSA included
+teaching military personnel about Chinese capacities, could himself
+be unaware of Chinese intelligence service capabilities to acquire
+travelers’ data in Hong Kong.
+Once Hong Kong had served as a window into China for Western
+intelligence, but in the first decade of this century the Chinese
+intelligence service had achieved such a pervasive presence in Hong
+Kong, and such ubiquitous electronic coverage of diplomats and
+other foreigners even suspected of involvement in foreign intelligence
+work, that the CIA and British intelligence found it almost
+as difficult to operate in Hong Kong as in mainland China. Even
+though the CIA kept officers there in 2013, it was considered “hostile
+territory,” according to the former CIA officer Tyler Drumheller.
+Snowden apparently knew the limits of CIA operations in Hong
+Kong, which provided him with an envelope of protection. He told
+Greenwald that he was counting on the Chinese presence in Hong
+Kong to deter the CIA from intruding on their meetings.
+When he flew to Hong Kong in May 2013, he took with him
+NSA secrets, which he knew would be of great interest to China.
+Epst_9780451494566_2p_all_r1.indd 239
+9/30/16 8:13 AM
+240 | how america lost its secrets
+In fact, he advertised that he had such secrets in his interview with
+the South China Morning Post. Whatever he might have assumed
+about the inability of the CIA to stop him in Hong Kong, he could
+not assume that Chinese intelligence services would relegate themselves
+to a purely passive role when secret NSA documents were in
+a hotel room in Hong Kong. Snowden might have esteemed himself
+to be an independent actor playing Prometheus on a global stage
+provided by YouTube, but the Chinese might have viewed him very
+differently indeed.
+Epst_9780451494566_2p_all_r1.indd 240
+9/30/16 8:13 AM
+c h a p t e r 23
+A Single Point of Failure
+A single point of failure (SPOF) is a part of a system that, if it
+fails, will stop the entire system from working.
+—Wikipedia
+Snowden described anyone who was the sole repository of
+secrets that could undo the NSA’s intelligence gathering as “the
+single point of failure.” While still shielding his own identity in May
+2013, he wrote to Gellman that U.S. intelligence “will most certainly
+kill you if they think you are the single point of failure that could
+stop this disclosure and make them the sole owner of this information.”
+Such a person of course would be of even greater interest to
+adversary intelligence services if they were aware of the payload of
+secrets that person was carrying because they could use it to unravel
+the NSA’s sources and methods.
+Snowden saw himself as that “single point of failure.” We know
+that while still in Hong Kong he said he had obtained access to computers
+that the NSA had penetrated throughout the world and in
+Moscow he added that he had had “access to every [NSA] target,
+every [NSA] active operation,” against the Chinese. “Full lists of
+them,” which, if he chose to share them, could make China “go
+dark.” To be sure, he did not refer to Russian intelligence activity in
+Epst_9780451494566_2p_all_r1.indd 241
+9/30/16 8:13 AM
+242 | how america lost its secrets
+any interview that he ever gave in Moscow under Russian protection,
+but he had similar access to NSA operations against Russia in
+his job at the NSA’s Threat Operations Center.
+The enormous power of the NSA rested in its ability to keep its
+sources and methods secret from its foes. A queen on the chessboard
+could be captured by a lowly pawn if it was well- placed. In
+this case, the person who had it in his power to expose the NSA’s
+critical sources and methods would no doubt be considered fair game
+by America’s adversaries, including the Chinese and Russian cyber
+services. Indeed, how could they resist such a prize?
+Snowden might have believed that he was in control, but the CIA
+believed that confidence was misinformed. “Snowden thinks he is
+smart,” Morell said, after reviewing the case on a panel appointed
+by President Obama, “but he was never in a position in his previous
+jobs to fully understand the immense capabilities of our Russian and
+Chinese counterparts.” He could adopt a cocky tone in his postmortem
+conversations with journalists in Moscow, but in truth he had
+no means to block the efforts of the Chinese or Russian services in
+Hong Kong. Even before Snowden contacted its diplomats in Hong
+Kong, the Russian intelligence service would swing into action to
+determine his intelligence value.
+How many days he planned to be in Hong Kong depended on how
+speedily he could arrange a meeting with journalists. “The purpose of
+my [Hong Kong] mission was to get the information to journalists,”
+he told the editor of The Guardian after he was safely ensconced in
+Moscow. He indicates that he was working under a tight clock. The
+time pressure resulted in his e- mailing an ultimatum to Gellman on
+May 24: either Gellman would publish the selected documents in
+The Washington Post within seventy- two hours, or he would lose
+the exclusive scoop. Snowden wanted the story to break on May 27,
+without his true identity (which Gellman did not know) attached to
+it. His identity would be known to a foreign mission in Hong Kong if
+Gellman acceded to his demands, because, as previously mentioned,
+Gellman’s story would enclose an encoded signal he planned to use
+as proof of his bona fides. So even before the Guardian reporters had
+agreed to come to Hong Kong, Snowden had plans to deal with a
+foreign mission. If the Post had accepted his terms, Snowden would
+Epst_9780451494566_2p_all_r1.indd 242
+9/30/16 8:13 AM
+A Single Point of Failure | 243
+have been in a very different position. The story would have broken
+before Poitras or Greenwald even knew about Snowden’s presence
+in Hong Kong, and his identity would be secret except for whatever
+foreign mission he had contacted. But, as we know, the Post turned
+down his ultimatum.
+Time was running out if he was to break the story and leave Hong
+Kong before the NSA realized he was missing. At best, he was safe
+until June 3, when he was supposed to return from his medical leave.
+If he failed to show up in Hawaii on June 3, alarm bells at the NSA
+would go off, and it would not take long to find him. Airline records
+would show that he had flown to Hong Kong. Snowden told Poitras
+that NSA security would ask, “This guy isn’t where he says
+he’s supposed to be. He’s supposed to be getting medical treatment.
+Why the hell is he in Hong Kong?” It would not take long to determine
+that he had lied about his medical treatment, and then the hunt
+would begin.
+He had, remember, already sent Poitras an enciphered file and told
+her she would get the key once she followed his instructions. Greenwald
+had still not committed himself to meeting Snowden. Greenwald
+was, however, willing to publish the documents once Snowden
+provided them. That Snowden remained in Hong Kong suggests that
+his reason for going to and remaining in Hong Kong went beyond
+just delivering documents to journalists, which he could have done
+over the Internet. What he could not do in America, without risking
+arrest, was to make and release a video.
+In any event, after his attempt to pressure the Post, Snowden
+asked Greenwald to fly immediately to Hong Kong. Presumably, he
+still wanted Greenwald’s story and the video done in Hong Kong
+before he became a suspect. If Greenwald and Poitras had immediately
+flown to Hong Kong, it still might have left Snowden an escape
+window.
+But of course things do not always go as planned. Greenwald,
+although agreeing to come to Hong Kong, waited in New York
+for two days while the Guardian editors completed their due diligence.
+Poitras waited with him. As a result of this delay, as we know,
+Green wald and Poitras did not arrive at his hotel in Hong Kong until
+June 3, only hours before Snowden became suspect at the NSA. “It
+Epst_9780451494566_2p_all_r1.indd 243
+9/30/16 8:13 AM
+244 | how america lost its secrets
+was a nervous period,” Snowden recalled. Although he bravely told
+The Guardian “there was no risk” that the information he carried
+had been compromised by other parties in Hong Kong, that claim
+was, at best, wishful thinking on his part.
+By this time, he had registered at the hotel under his true name
+and provided his credit card; he was in contact with three highprofile
+journalists, two well- known hacktivists, and, as he suggested
+to Gellman, a foreign diplomatic mission.
+The mission’s interest would likely be piqued when the newspaper
+published its first story on June 6. Greenwald then went on
+TV in Hong Kong, revealing to every interested intelligence service
+that a defector from the NSA was in Hong Kong providing secret
+documents.
+Poitras released the famous video showing Snowden and secret
+NSA documents three days later. At this point, Snowden shone
+brightly as a beacon to NSA secrets to every player in the intelligence
+game, even if they did not know the extent of the damage he
+could inflict on American intelligence.
+Snowden fogged over his travel plans to the media by telling
+reporters that he intended to remain in Hong Kong and fight extradition,
+but certainly the Russian officials whom he contacted became
+aware that he had other plans, having relayed his request to go to
+Russia to their superiors in Moscow. And, unlike the media, any
+sophisticated intelligence service was well aware of his movements.
+In Hong Kong, cell phones emit their GPS location every three seconds;
+even if Snowden disabled his own phone, lawyers and helpers
+could be tracked with ease.
+China’s president, Xi Jinping, who was meeting President Obama
+for the first time in Rancho Mirage, California, on June 8, would
+have been keenly interested in the unfolding Snowden affair. Obama
+had publicly called Xi to task for Chinese cyber espionage, and now
+that charge was undermined by Snowden’s accusation that the
+United States was engaged in massive cyber espionage. U.S. intelligence
+verified that China instituted a full- court press of Snowden
+in Hong Kong immediately after the release of the video. From
+that moment on, any communication or movement Snowden made
+Epst_9780451494566_2p_all_r1.indd 244
+9/30/16 8:13 AM
+A Single Point of Failure | 245
+during his next fifteen days in Hong Kong would not likely escape
+China’s scrutiny.
+The United States had the ability to also follow Snowden’s movements
+via the cell phones of his lawyers and other confederates
+after he surfaced. All tracking could be done by the NSA. What the
+United States lacked was any practical means to capture a highprofile
+intelligence defector in a city that was part of China. By this
+time, U.S. intelligence had established that Chinese and Hong Kong
+security services were monitoring Snowden’s every move. This left
+few options in the game for the United States. “I’m not going to
+be scrambling jets to get a twenty- nine- year- old hacker,” President
+Obama said on June 27.
+The real prize, in any case, was not Snowden but the NSA’s secret
+documents that he had with him. When Snowden was observed
+entering the Russian consulate, the game was all but over. U.S. diplomats
+could protest over back channels to Moscow, as they did, but
+with a trove of NSA secrets at stake there was little expectation that
+would stop the Russians. Two days later, the “single point of failure,”
+as Snowden described himself, was on his way to Russia, where his
+hosts would be calling the shots.
+When a victory is obtained in a major sports event, it is cause for
+public celebrations. The opposite is true in espionage. An intelligence
+victory involving secret documents, even if it cannot be entirely
+hidden, is kept veiled, as far as is possible, to increase the value of
+the coup. “The final move in any sophisticated intelligence game,”
+Angleton told me in relation to espionage intelligence, is “obscuring
+a success.”
+Following Angleton’s precept, the Russian or Chinese intelligence
+services, if they had a role in acquiring the product of the selfdescribed
+“single point of failure,” would work to cover their tracks in
+the affair even before the Aeroflot plane carrying Snowden touched
+down at Sheremetyevo International Airport on June 23. If any false
+flag operations had been used to trick, mislead, or otherwise induce
+Snowden to come to Hong Kong, they would be disbanded. If any
+safe house had been used to quarter Snowden in his first eleven days
+in Hong Kong, it would be shut down. If any operatives had been
+Epst_9780451494566_2p_all_r1.indd 245
+9/30/16 8:13 AM
+246 | how america lost its secrets
+used in Hawaii to guide or assist Snowden, they would be put back
+into sleeper mode. If any telltale traces had been left in chat rooms
+or social media, they would be systematically deleted. Even more
+important to the ultimate success of such a communications intelligence
+coup, measures would be taken to conceal the extent of the
+damage done by the “single point of failure” by not precipitously
+closing down compromised sources. Snowden might believe that
+the power of the information he held was so great that if disclosed
+by him, all the NSA’s sources would immediately go dark in Russia
+and China, but Russia might not wish to provide such clarity to its
+adversaries. An intelligence service need not close down channels
+it discovers are compromised by an adversary. Instead, it can elect
+to continue to use them and furnish through them bits of sensitive
+or misleading information to advance its own national interest. The
+real danger here was not that the NSA’s “lights” would dramatically
+be extinguished but that all the future messages illuminated by
+those lights would be less reliable sources of intelligence. The game
+of nations is, after all, merely a competition among adversaries to
+gain advantages by the surreptitious exchange of both twisted and
+straight information.
+To review: When the NSA asserted in the summer of 2013 that
+over one million documents had been compromised, it was recognizing
+the most massive failure in its sixty- year history. Not only
+were NSA secrets taken, but secret files from the CIA, the British
+GCHQ, and America’s cyber military commands had been compromised.
+It was, as Sir David Omand, the former head of the British
+GCHQ, described it, a “huge strategic setback” for the West. The
+genie could not be put back into the bottle. There is not a reset button
+in this game. The best that the NSA could do now was damage
+control while its adversaries took full advantage of the setback. Several
+hundred U.S. and British intelligence officers worked around the
+clock in Washington, D.C., Fort Meade, Maryland, and Cheltenham,
+England, for months on end to determine which parts of the most
+powerful communications intelligence system in the world could be
+salvaged from what had been the Snowden breach.
+Adding insult to injury, Snowden, speaking from his new perch
+in Moscow, told applauding audiences that the entire purpose of
+Epst_9780451494566_2p_all_r1.indd 246
+9/30/16 8:13 AM
+A Single Point of Failure | 247
+the U.S. exercise, including deliberately “trapping” him in Moscow,
+was to “demonize” him. “There was no question that I was going
+to be subject to a demonization campaign.” Snowden said in Moscow,
+“They [Greenwald and Poitras] actually recorded me on camera
+saying this before I revealed my identity.” Snowden asserted this
+“demonization” was to divert attention from the government’s own
+crimes. By providing Snowden with this platform to rail against the
+putative machinations of the United States, Putin laid claim to the
+moral high ground.
+Snowden’s motive in requesting documents from other foreign
+intelligence services, such as the GCHQ, and copying lists of NSA
+sources remains unexplained. It is difficult to believe that his motive
+was whistle- blowing, because these documents were not among
+those he gave to journalists in Hong Kong. Indeed, he did not provide
+the journalists with the lists of sources that were particularly
+relevant to the NSA’s surveillance of Russia. His legal representative
+in Moscow, Kucherena, confirmed that Snowden had taken
+secret “material” to Russia and had access to NSA documents that
+he had not given to journalists. Those unrevealed documents would
+be prized by many an adversary service. Did he use those documents
+as leverage in his transformation? The role that Moscow might have
+played in Snowden’s defection clearly requires a closer examination
+of the machinations that brought Snowden to Russia. That is why I
+visited Moscow in October 2015.
+Epst_9780451494566_2p_all_r1.indd 247
+9/30/16 8:13 AM
+Epst_9780451494566_2p_all_r1.indd 248
+9/30/16 8:13 AM
+part four
+MOSCOW CALLING
+Deception is a state of mind— and the mind of the state.
+— james jesus angleton
+Epst_9780451494566_2p_all_r1.indd 249
+9/30/16 8:13 AM
+Epst_9780451494566_2p_all_r1.indd 250
+9/30/16 8:13 AM
+c h a p t e r 24
+Off to Moscow
+They talk about Russia like it’s the worst place on earth. Russia’s
+great.
+— edward snowden, Moscow, 2015
+Before flying to Moscow, I arranged to have dinner with
+Oliver Stone at an Italian restaurant on the Upper East Side of
+New York. I had greatly respected Stone’s ability as a film director
+after watching him work on Wall Street: Money Never Sleeps, a film
+in which I had a cameo role. I had also debated Stone about the historical
+accuracy of his 1991 movie JFK at Town Hall in New York.
+When we dined, he had just written, produced, and directed
+Snowden, an independently financed film depicting Snowden, as
+Stone put it, as “one of the great heroes of the twenty- first century.”
+In preparing for it, Stone had seen Snowden in 2013 and 2014 and
+had had a six- hour meeting with Putin.
+I wanted to talk to Stone not to learn about the film but to learn
+how he had gained access to Snowden in Moscow. I knew from the
+documents taken from Sony Pictures Entertainment— allegedly by
+North Korea— that Stone had paid The Guardian $700,000 for the
+film rights to The Snowden Files, a book written by Luke Harding.
+Epst_9780451494566_2p_all_r1.indd 251
+9/30/16 8:13 AM
+252 | how america lost its secrets
+These documents also revealed that Stone had paid Anatoly Kucherena,
+Snowden’s legal representative in Moscow, $1 million, supposedly
+for the rights to his novel, Time of the Octopus. Even by
+Hollywood standards, $1 million was an extraordinary sum to pay
+for a yet- to- be- published work of Russian fiction, and it was especially
+striking because Stone was making a fact- based movie using
+the actual names of the characters, and he had already bought the
+rights to The Snowden Files.
+“Is your script based on Kucherena’s Time of the Octopus?” I
+asked.
+“No,” Stone replied. “I haven’t used it.”
+He said that the payment was for what he termed “total access.”
+He explained that Barbara Broccoli and Michael G. Wilson, the producers
+of the James Bond franchise, had optioned Greenwald’s book
+No Place to Hide to make into a movie about Snowden for Sony.
+Stone said that the million- dollar deal with Kucherena effectively
+guaranteed that any competing project would not have access to
+Snowden. Sony consequently put the competing film on hold.
+Lawyers often negotiate deals on behalf of a client, but blocking a
+competing film requires considerably more influence with the powers
+that be in Russia. Kucherena, though, was no ordinary lawyer.
+Among other influential positions, I noted earlier, he was on the public
+board of the Russian federal security bureau, which had assumed
+the domestic operations of the defunct KGB in April 1995. In light
+of such connections, Stone said Kucherena might be acting as an
+intermediary for other parties who controlled access to Snowden in
+Russia. In any case, his concern was making a movie, and Kucherena
+delivered the exclusive access to Snowden.
+Aside from being a skilled director, Stone is a shrewd producer
+who knows how to close a deal. He assessed, correctly as it turned
+out, that his project coupled with the payment to Kucherena would
+effectively block Sony’s competing project. Where the money went
+was far less clear.
+Toward the end of our dinner, Stone told me that he did not know
+I was writing a book about Snowden until a few weeks earlier. He
+learned of my book from Snowden himself. He said Snowden had
+Epst_9780451494566_2p_all_r1.indd 252
+9/30/16 8:13 AM
+Off to Moscow | 253
+expressed concern to him about the direction of the book I was writing.
+“What is it about?” Stone asked me.
+I was taken aback. I had no idea that Snowden was aware of my
+book. (I had not tried to contact him.) I told Stone that I considered
+Snowden an extraordinary man who had changed history and was
+intentionally vague in my description of my book’s contents. Stone
+seemed to be reassured, so I asked him about the possibility of my
+seeing Snowden in Moscow. He said that I “might want to speak
+to Anatoly [Kucherena].” Kucherena, it seemed to me, was clearly
+Snowden’s gatekeeper.
+In Snowden’s two years in Moscow, he, or his handlers, had granted
+only a handful of face- to- face press interviews. Most of these were
+with the journalists who had published his story, but one was with
+James Bamford for his 2014 Wired piece. According to Bamford, it
+took nearly nine months to arrange the meeting. “I have been trying
+to set up an interview with him [Snowden]— traveling to Berlin,
+Rio de Janeiro twice, and New York multiple times to talk with
+the handful of his confidants who can arrange a meeting,” Bamford
+recounted in Wired. After my dinner with Stone, I hoped to find a
+quicker route.
+I was advised by a Moscow- based journalist that I needed a
+“fixer,” the curious term that journalists commonly use to describe a
+local intermediary who arranges appointments in foreign countries.
+I retained Zamir Gotta, a highly respected TV producer in Moscow,
+who I was told had helped “fix” the Bamford interview with
+Snowden.
+“There is only one door to Snowden,” Zamir wrote to me. “His
+name is Kucherena.” Zamir said Kucherena rarely saw journalists,
+but he had a contact in his office. He further told me Kucherena
+required any journalist seeking an interview with Snowden to
+submit his questions to the lawyer two weeks in advance and, if
+approved, to sign a document stating he would not deviate from the
+questions. Next, my questions had to be translated from English to
+Russian (even though Snowden does not speak Russian) and then
+vetted by Kucherena’s staff. Zamir also suggested I stay at the Hotel
+National in Red Square because Snowden had gone there for pre-
+Epst_9780451494566_2p_all_r1.indd 253
+9/30/16 8:13 AM
+254 | how america lost its secrets
+vious meetings with Bamford. So I sent Kucherena, via Zamir, ten
+questions that I wanted to ask Snowden.
+I next obtained a multi- entry Russian visa from the Russian consulate
+in New York and booked myself a room in the Hotel National.
+My night flight from New York to Moscow took just less than
+eight hours and landed at Terminal D of Sheremetyevo International
+Airport at 7:40 a.m. on October 29, 2015. I did not immediately
+proceed through passport control, in part because I wanted to
+explore the transit zone in which Snowden was supposedly trapped
+for six weeks.
+Sheremetyevo Two, where all international flights land, was built
+in the waning days of the Cold War for international passengers
+arriving for the Moscow 1980 Summer Olympics. It was modernized
+in 2010, including opening a walkway that connects Terminals
+D, E, and F for transit passengers.
+Snowden had vanished, at least from public view, in this complex
+of terminals for nearly six weeks in the summer of 2013. His
+explanation to journalists, as will be recalled, was two part. First, he
+said he had planned to board the next fight to Cuba and from there
+proceed to Ecuador. He said that he was unable to board this flight
+because his passport had been invalidated by the U.S. government
+while he was flying to Russia. Second, after discovering his passport
+had been revoked, he stayed in a capsule hotel in the transit zone for
+the next thirty- nine days. To better understand the plausibility of
+his version of those events, I proceeded through the transit passage
+to Terminal F, where Snowden’s plane from Hong Kong had landed
+at 5:15 p.m. Moscow time on June 23, 2013.
+Snowden did not go through passport control upon arrival.
+Before any of the other passengers were allowed to disembark from
+the plane, Russian plainclothes officers from the special services
+boarded the plane and asked both Snowden and Sarah Harrison, his
+WikiLeaks- supplied “ninja,” to accompany them to a waiting car
+that whisked them away. According to the account in Izvestia, “A
+special operation was conducted for his reception and evacuation.” It
+further said, “Snowden’s flight to Moscow was coordinated with the
+Russian authorities and intelligence services.”
+If not for the “special operation,” he could have easily gone by foot
+Epst_9780451494566_2p_all_r1.indd 254
+9/30/16 8:13 AM
+Off to Moscow | 255
+to Terminal E. It is a nine- minute walk through the transit passageway.
+Snowden, though, had one good reason for not going to Ecuador,
+even if Russia had permitted it. He believed that he would be
+vulnerable to rendition by the U.S. government in Ecuador. “If they
+[the U.S. government] really wanted to capture me, they would’ve
+allowed me to travel to Latin America, because the CIA can operate
+with impunity down there,” he explained in the previously cited
+interview with Katrina vanden Heuvel, the editor of The Nation, in
+2014. He had already discussed the likelihood of his being captured
+in Ecuador with Assange before his departure for Moscow. He later
+told Alan Rusbridger, the editor of The Guardian, that he considered
+himself at risk in Latin America. So why would Snowden, who told
+Greenwald that his “first priority” was his own “physical safety,”
+leave the comparative safety of Russia to put himself in jeopardy in
+Ecuador?
+He had not obtained a visa to Ecuador at its consulate in Hong
+Kong, as Kucherena confirmed. The Ecuador destination was, as we
+have seen, a cover story put out by Assange and his associates, and it
+worked with the press.
+Over a hundred reporters and photographers scrambled aboard
+Aeroflot Flight SU150 to Cuba the next morning in response to this
+anonymous tip on a website, but Snowden was not aboard that flight
+and was not seen in Terminal E. By the time the plane landed in
+Cuba, Aeroflot denied that anyone named Snowden had ever been
+booked on any of its flights to Cuba, a denial it continued to repeat to
+every reporter who queried the airline for the next six weeks.
+The first news that Snowden was still in Russia came on July 1,
+2013. A statement posted on the WikiLeaks website— and signed
+“Edward Snowden”— after thanking “friends new and old” for his
+“continued liberty,” accused President Obama of pressuring “leaders
+of nations from which I have requested protection to deny my asylum
+petitions.” It added, “This kind of deception from a world leader
+is not justice, and neither is the extralegal penalty of exile. These are
+the old, bad tools of political aggression.” In fact, Snowden had not
+suffered a “penalty of exile,” because his passport was still valid for
+returning to the United States, but that was not an option for him as
+the statement made clear.
+Epst_9780451494566_2p_all_r1.indd 255
+9/30/16 8:13 AM
+256 | how america lost its secrets
+Because the Aeroflot flight to Cuba was the only means of getting
+directly from Moscow to Latin America, Russian reporters,
+encouraged by WikiLeaks posts, continued taking the daily elevenhour
+flight to Cuba until August 1. The charade only ended when
+Kucherena said in a press conference at the airport that Snowden
+would be taking up residency at an undisclosed location in Moscow
+and walked out of the airport with Snowden.
+Sarah Harrison, Snowden’s companion on the plane to Moscow,
+told Vogue that she and Snowden for thirty- nine days had shared
+a windowless room in the transit zone of the airport where they
+watched TV, washed their clothes in a sink basin, and ate meals from
+the nearby Burger King. The only hotel with windowless rooms
+in the transit zone in 2013 was the Vozdushny V- Express Capsule
+Hotel, located next to a newly opened Burger King.
+The polite V- Express desk clerk, who spoke English, showed me
+the standard windowless double room. It was approximately twentyfour
+square feet in area. Most of the floor space was taken up by twin
+beds. Across from the bed, behind a plastic curtain, was a stall with
+a shower, a toilet, and a sink. It would be very cramped quarters for
+two people to share for such an extended period. It cost 850 rubles an
+hour (about $18 in 2013). For thirty- nine days, that hourly charge
+would have added up to $16,600. Snowden claimed to the BBC that
+he brought a large cache of cash to Russia, which he could have used
+to pay the hotel. But such a long stay was not allowed, according to
+the desk clerk. The maximum stay allowed by the hotel was twentyfour
+hours. So either the rule was waived for Snowden, or Harrison
+did not tell the full truth.
+I learned from a former KGB officer that there are VIP quarters
+beyond the confines of the airport, including suites at the fourhundred-
+room Novotel hotel, which is located about seven miles
+away, that are used for debriefing and other purposes by the security
+services. According to him, the security services are not restricted
+from entering and leaving the transit zone.
+The possibility that Snowden was staying elsewhere would help
+explain the futile search for him by a large number of reporters
+over those thirty- nine days. When they learned from tweets that
+Snowden was not aboard the plane to Havana on June 24, for weeks
+Epst_9780451494566_2p_all_r1.indd 256
+9/30/16 8:13 AM
+Off to Moscow | 257
+they aggressively questioned all the restaurant employees, security
+guards, and airport personnel they could find. They also bought
+business- class tickets on flights just to gain access to VIP lounges in
+the transit zones. Despite this intensive search, none of them found
+a single person who had seen Snowden, although his image was constantly
+shown on airport TV screens. Egor Piskunov, a reporter for
+RT television, even rented a room in the V- Express Capsule Hotel
+and “tipped” hotel employees, trying, without success, to get information.
+Piskunov told me, “It was a total vanishing act.”
+Epst_9780451494566_2p_all_r1.indd 257
+9/30/16 8:13 AM
+c h a p t e r 25
+Through the Looking Glass
+There’s definitely a deep state. Trust me, I’ve been there.
+— edward snowden, Moscow, 2014
+While waiting to hear back from Kucherena’s office, I
+arranged to meet with Victor Cherkashin, who had been one
+of the most successful KGB spy handlers in the Cold War. Cherkashin,
+born in 1932, had served in the KGB’s espionage branch
+from 1952 until 1991 and now operated a private security firm in
+Moscow. I was particularly interested in his recruitment of three
+top American intelligence officers: Aldrich Ames of the CIA, Robert
+Hanssen of the FBI, and Ronald Pelton of the NSA. I hoped that seeing
+these intelligence coups through the eyes, and mind- set, of their
+KGB handler might provide some historical context for the Snowden
+defection. So I invited Cherkashin to lunch at Gusto, a quiet Italian
+restaurant, located near the Chekhov Theater in Moscow.
+Cherkashin, a tall thin man with silver hair, showed up promptly
+at 1:00 p.m., wearing an elegant gray suit and dark tie. He walked
+with a spry step. Because he had served in counterintelligence in the
+Soviet embassy in Washington, D.C., for nearly a decade, he spoke
+flawless English.
+Epst_9780451494566_2p_all_r1.indd 258
+9/30/16 8:13 AM
+Through the Looking Glass | 259
+I began by asking him about one of the more celebrated cases he
+had handled for the KGB, that of Ames, who had acted as a Russian
+mole in the CIA between April 1985 and January 1994. In those nine
+years, he rose, or was maneuvered by the KGB, into a top position
+in the CIA’s highly sensitive Counterintelligence Center Analysis
+Group, which allowed him to deliver hundreds of top secrets to the
+KGB. In return, according to Cherkashin, Ames received between
+$20,000 and $50,000 in cash for each delivery, which amounted to
+$4.6 million over the nine years.
+I asked Cherkashin about the weakness the KGB looked for in an
+American intelligence worker that might lead him to copy and steal
+top secret documents. How did he spot a potential Ames? Was it a
+financial problem? Was it a sexual vulnerability? Was it an ideological
+leaning?
+“Nothing so dramatic,” he answered. When assessing Ames’s
+biographical data, Cherkashin said he was looking for a well- placed
+intelligence officer who was both dissatisfied with and antagonistic
+to the service for which he worked.
+“The classic disgruntled employee,” I interjected.
+“Any intelligence officer who strongly feels that his superiors are
+not listening to him, and that they are doing stupid things, is a candidate,”
+he continued. He said he had found that the flaw in a prospect
+that could be most dependably exploited was not his greed, lust,
+or deviant behavior but his resentment over the way he was being
+treated.
+“Is that how you spotted Ames?”
+“Actually, he approached us, not vice versa.” It was his job in the
+CIA to approach opposition KGB officers. “But, yes, we saw the
+potential,” he said.
+Because Ames had been paid $50,000 in cash by Cherkashin for
+his first delivery, I asked whether he fit into the category of a disgruntled
+employee.
+“Wasn’t he just a mercenary?” I asked.
+“I knew from our intelligence reports that he needed money
+for debts stemming from his divorce,” he answered. “But he was
+also angry at the stupidity and paranoia of those running the CIA.
+Ames told me at our first secret meeting that they were misleading
+Epst_9780451494566_2p_all_r1.indd 259
+9/30/16 8:13 AM
+260 | how america lost its secrets
+Congress by exaggerating the Soviet threat.” Cherkashin evaluated
+Ames as a man who felt not only slighted by his superiors but “helpless
+to do anything about it” within the bureaucracy of the CIA.
+“The money we gave, even if he could spend only a small portion
+of it, gave him a sense of worth.” He explained that the KGB had
+an entire team of psychologists in Moscow that worked on further
+exploiting Ames’s resentment against his superiors.
+The search for an adversary intelligence officer who resents his
+service was not limited to KGB recruiters. It was also the “classic
+attitude” that the CIA sought to exploit in its adversaries, according
+to a former deputy director. “You find someone working for the
+other side and tell him that he is not receiving the proper recognition,
+pay, and honors due him,” Morell said, pointing out that the
+same “psychological dynamic” could be used to motivate someone
+to “act alone” in gathering espionage material.
+I next turned to an even more important KGB coup with Cherkashin:
+the Robert Hanssen case. From the KGB’s perspective, Hanssen
+was an extraordinary espionage source. He was a walk- in who
+never entered the Soviet embassy or met with KGB case officers, but
+in working as a KGB mole between 1979 and 2001, he had delivered
+even more documents to the Russian intelligence services than
+Ames. Cherkashin learned of this potential spy when he received an
+anonymous letter from him identifying an FBI source in the Soviet
+embassy. When that tip proved to be accurate, Cherkashin got the
+resources he needed from the KGB to develop this source. From the
+start of his work for the KGB, Hanssen laid down his own rules.
+The KGB would deliver cash from which all the fingerprints were
+removed to locations, or “dead drops,” he specified. He would deliver
+documents exposing FBI, CIA, and NSA sources and methods in
+another dead drop. The KGB would precisely follow his instructions.
+Cherkashin told me that Hanssen’s “astounding self- recruitment”
+was executed in such a way that the KGB never actually controlled
+him. “He was our most important mole and we didn’t ever know his
+identity, where he worked, or how he had access to FBI, CIA, and
+NSA files.” Even so, the KGB (and later the SVR) paid him $600,000
+in cash. In return, the anonymous spy delivered twenty- seven com-
+Epst_9780451494566_2p_all_r1.indd 260
+9/30/16 8:13 AM
+Through the Looking Glass | 261
+puter disks containing hundreds of secret documents revealing the
+sources and methods of American intelligence. According to Cherkashin,
+it was the largest haul of top secret documents ever obtained
+by the KGB (although it was only a small fraction of the number of
+top secret NSA, Department of Defense, and CIA documents taken
+by Snowden in 2013). Cherkashin told me the price paid by Moscow
+was a great bargain because it helped compromise “the NSA’s most
+advanced electronic interception technology,” including a tunnel
+under the Soviet embassy.
+Yet it was only after newspapers reported that Hanssen had been
+arrested by the FBI in February 2001 that Cherkashin learned the
+name and position of the spy he had recruited. Cherkashin told me
+that what mattered to the KGB was not “control” of an agent but the
+value of the secrets he or she delivered. “Control is not necessary in
+espionage as long as we manage to obtain the documents.” So in the
+eyes of the KGB, anyone who elected to provide it with U.S. secrets
+was a spy.
+“All we knew was that he delivered valuable documents to us and
+asked for cash in return,” he said. “We didn’t control him; he controlled
+us.”
+An uncontrolled mole who provided secrets to the KGB and the
+SVR for twenty- two years was very different from fictional moles
+in the spy movies. I asked whether it would have been better if the
+KGB had him under its control.
+“Possibly,” Cherkashin answered. “But as it turned out, Hanssen
+was by far our most valuable penetration in the Cold War.”
+“Could Hanssen really be called a mole?” I asked.
+“A ‘mole’ is a term used in spy fiction,” he said. “We prefer the
+more general term ‘espionage source.’ ”
+“So anyone who delivers state secrets to the KGB, for whatever
+reason, is an espionage source?” I asked.
+“Certainly, if the information is valuable to us,” Cherkashin
+answered.
+“If some unknown person simply delivered a trove of top secret
+communications secrets to the doorstep of Russia, would it be
+accepted?” I asked with Snowden in mind.
+Epst_9780451494566_2p_all_r1.indd 261
+9/30/16 8:13 AM
+262 | how america lost its secrets
+“I can’t say what the SVR would do today. I am long retired,” he
+said, with a nostalgic shake of his head. “But in my day, we needed
+some reason to believe the gift was genuine.”
+“Would you need to vet the person delivering it?”
+“With Hanssen we did not have that opportunity,” he said. “If
+we believed the documents were genuine, we would of course grab
+them.”
+The final recruitment I asked Cherkashin about was that of Ronald
+Pelton, the civilian employee of the NSA who had retired in 1979.
+Pelton had left the NSA without taking any classified documents
+with him. After retiring, he had financial difficulties, and he sought
+to get money from the KGB. On January 14, 1980, he walked into
+the Soviet embassy in Washington, D.C., and asked to see an intelligence
+officer. After he was ushered into a secure debriefing room, he
+said that he had information that Russia would find interesting, but
+he wanted money in return. What interested me about the Pelton
+case was that Cherkashin proceeded to recruit Pelton, even though
+he was no longer working at the NSA and no longer had access to
+the NSA. In addition, because the FBI had twenty- four- hour surveillance
+on the embassy, Pelton had almost certainly been photographed
+entering it and had also possibly been recorded asking for
+an intelligence officer by electronic bugs that the KGB suspected the
+NSA had planted there. What did the KGB do in a situation in which
+a former civilian employee at the NSA possessed no documents?
+Despite the risks involved, Cherkashin decided Pelton had to be
+debriefed by communications intelligence specialists. So he had him
+disguised as a utility worker and smuggled out in a van to the residential
+compound of the ambassador in Georgetown. A few days
+later, he was dropped off at a shopping mall.
+“Why did you go to such effort if Pelton had neither documents
+nor access to the NSA?” I asked.
+“It was the information in his head that we wanted.” Cherkashin
+said that because the KGB rarely got access to any NSA officer, it
+was worth the risk. So Pelton was given $5,000 in cash and a plane
+ticket to Vienna, where he was domiciled at the residence of the
+Soviet ambassador to Austria. A KGB electronic communications
+expert, Anatoly Slavnov, was then sent to Vienna to supervise the
+Epst_9780451494566_2p_all_r1.indd 262
+9/30/16 8:13 AM
+Through the Looking Glass | 263
+Pelton debriefings. The debriefing sessions, which went on for fifteen
+days, were from 8:00 a.m. to 6:00 p.m. In them, Pelton managed to
+recall Project A, a joint NSA- CIA- navy operation in which submarines
+surreptitiously tapped into Soviet undersea cables in the Sea
+of Okhotsk, which connected to the Soviet Pacific Fleet’s mainland
+headquarters at Vladivostok. Pelton received another $30,000 from
+the KGB.
+“Did the information in his head prove valuable?” I asked.
+“As long as the NSA didn’t know the tap was compromised by
+Pelton, we could use the cable to send the NSA the information we
+wanted it to intercept.” He said that while actual NSA documents
+would have proved more useful than someone’s memories, “Our job
+is to take advantage of whatever we can get.”
+Two years later, Pelton was again flown to Vienna for another
+debriefing to see if he could recall any further details. According to
+Cherkashin, the KGB’s job was to leave no stone unturned when
+it came to the NSA’s sources. In 1985, the KGB’s task ended when
+Pelton was arrested by the FBI. Like Ames and Hanssen, Pelton was
+sentenced to life imprisonment.
+Looking at his watch, Cherkashin politely excused himself.
+I subsequently spoke to Colonel Oleg Nechiporenko, who had
+been a foreign intelligence officer in the KGB between 1958 and
+1985 and continued his intelligence work until recently as chief
+counterterrorism expert of the Russian- led Collective Security
+Treaty Organization. Over a leisurely coffee in the bar of the Hotel
+National, he told me that many “walk- ins” who contacted Soviet
+officials in his time were emotionally disturbed, but all of them had
+to be assessed for possible intelligence value. “Our job was to find
+espionage sources,” he said with a twinkle in his eye. “The Internet
+has changed the espionage business since secret documents can be
+massively downloaded by an unhappy employee,” he said, “but they
+still need to be assessed by a professional.”
+Through the eyes of the KGB, a penetration of American intelligence
+was clearly opportunistic. If these practices continued, they
+put Snowden’s situation in a new light for me. If Russian intelligence
+considered it worthwhile to send a former civilian worker at
+the NSA, such as Ronald Pelton, two thousand miles from Washing-
+Epst_9780451494566_2p_all_r1.indd 263
+9/30/16 8:13 AM
+264 | how america lost its secrets
+ton, D.C., to Austria so that its specialists could debrief him on the
+secrets he held in his head, it would have an even greater interest in
+exfiltrating Snowden from Hong Kong to get, aside from his documents,
+whatever secrets he held in his head. If Russian intelligence
+were willing to opportunistically accept the delivery of U.S. secrets
+from an unknown espionage source that it neither recruited nor
+controlled, such as Hanssen, it would obviously have little hesitancy
+in acquiring the secrets that Snowden had stolen of his own volition,
+even if Snowden had acted for idealistic reasons.
+If Russian intelligence focused its search pattern on disgruntled
+American intelligence workers, such as Ames, it is plausible that it
+spotted Snowden through his Internet rants against U.S. surveillance.
+Even if it had missed Snowden in Hawaii, a disgruntled former
+civilian employee at the NSA would have received its full attention
+after he contacted Russian officials in Hong Kong. While the tactics
+of the SVR might have changed since Cherkashin retired, its objectives
+remained the same. And the NSA remained its principal target.
+Nor is there any reason to doubt that it still measures success in its
+ability to obtain, by whatever means, the secret sources and methods
+of its adversaries. Snowden was in a position, with both the documents
+he had taken and the knowledge he had in his head, to deliver
+the KGB such a coup.
+Epst_9780451494566_2p_all_r1.indd 264
+9/30/16 8:13 AM
+c h a p t e r 26
+The Handler
+As for [Snowden’s] communication with the outside world, yes, I
+am his main contact.
+— anatoly kucherena, Moscow, 2013
+On november 1, I still had not been able to make contact with
+Anatoly Kucherena, and my flight back to New York was in five
+days. My fixer, Zamir, had been trying to arrange an appointment
+for three weeks, but he had only received one callback from Kucherena’s
+assistant, Valentina Kvirvova. She wanted to know how I knew
+Oliver Stone. Zamir told her of my part in Stone’s movie. That was
+the last he had heard from her. Meanwhile, a Moscow- based journalist
+told me that she had waited eighteen months to hear back from
+Kucherena before giving up. I also learned from a Russian researcher
+that Kucherena had not given a single interview since his television
+interview with Sophie Shevardnadze on September 23, 2013. And
+no Russian journalist, or any Moscow- based foreign journalist, had
+ever obtained an interview with Snowden. At this point, Zamir was
+becoming increasingly doubtful about my getting access to either
+Kucherena or Snowden.
+I turned to another contact in Moscow. When I had been investigating
+the 2006 polonium poisoning of the former KGB officer
+Epst_9780451494566_2p_all_r1.indd 265
+9/30/16 8:13 AM
+266 | how america lost its secrets
+Alexander Litvinenko, I had interviewed Andrei Lugovoy. A former
+KGB officer assigned to protecting the Kremlin’s top members in the
+1990s, Lugovoy later opened his own security company. In 2005, he
+became a business associate of Litvinenko’s in gathering information
+and made regular trips to London to meet with him. Because
+he had tea with Litvinenko at the Pine Bar of the Millennium Hotel
+in London on November 1, 2006, the day Litvinenko was poisoned,
+he became the main suspect in the British investigation. He could
+not be extradited, however. After reconstructing the chronology of
+the crime, I established that Litvinenko had been contaminated with
+polonium at a Japanese restaurant some four hours before his tea
+with Lugovoy. I therefore wrote that the crime scene might not have
+been at the Pine Bar, a finding that he said he greatly appreciated.
+Lugovoy was elected to the Duma in 2007 and also hosted a
+twenty- four- part television series on espionage for which Putin personally
+decorated him. He was also now reputed to be in the inner
+circle of power in Moscow. So I called him.
+We arranged to meet in the bar of the Hotel National. A short
+but well- built man with a bullet- style haircut, Lugovoy showed
+up promptly at 1:00 p.m. After discussing some of the subsequent
+developments in the still- lingering polonium investigation, I asked
+him if he knew Kucherena.
+“I don’t know him, but I know someone who does,” he answered.
+“Why are you interested in seeing Kucherena?”
+I told him that I wanted to speak to him about Snowden but I had
+been unable to arrange a meeting.
+“That’s no problem,” he said, raising his cell phone (which never
+left his hand). He hit a number on the speed dial and spoke rapidly
+in Russian (which I do not understand). He cupped his hand over the
+phone and asked how long I would be in Moscow. After I told him
+that I was leaving that Friday, he spoke again in Russian to the person
+on the other end. “You will have an appointment on Thursday,”
+he said.
+Later that afternoon, Valentina, Kucherena’s assistant, called to
+say that Kucherena would be happy to see me at his office at 6:00 p.m.
+on Thursday. I didn’t ask Lugovoy whom he had called. Whomever
+Lugovoy called obviously had the power to arrange the meeting.
+Epst_9780451494566_2p_all_r1.indd 266
+9/30/16 8:13 AM
+The Handler | 267
+When I arrived at Kucherena’s office, I was with my translator
+Zamir. (Kucherena did not speak English.) I arrived ten minutes
+early, and a receptionist showed me into a well- lit square room
+with an elegant table in the center. There was a sumptuous basket
+of exotic fruits on the table and large portraits of racehorses on the
+walls. Another door opened, and a tall, graceful woman came into the
+room and introduced herself as Valentina. She was wearing a wellfitting
+black dress, a striking jade necklace, and high heels. When
+she asked whether we would like anything to drink, it seemed more
+like the prelude to an elegant dinner party than an interview about
+Snowden.
+Valentina spoke very good English. She apologized for the delay
+in responding to my requests, explaining that she received “thousands
+of requests” for interviews and did not have time to answer
+them. When I asked how many were answered, she shrugged and
+said, “Not many.”
+At that moment, Kucherena entered with a jaunty step, a cherubic
+face, and untamed white hair. He was wearing gray slacks, a partially
+buttoned cashmere polo sweater, and a fully engaging smile.
+As I had learned from his entry in Wikipedia, he was born in a
+small village in the Soviet Socialist Republic of Moldavia in 1960
+and had obtained his law degree from the All- Union Correspondence
+Law Institute in 1991. He opened his own law firm in Moscow
+in 1995. Kucherena’s well- known friendship with Putin had
+evidently not hurt his law practice. His clients had included such
+well- connected defendants as Viktor Yanukovych, the president of
+Ukraine overthrown in 2014; Grigory Leps, a Russian singer blacklisted
+by the United States for allegedly acting as a money courier
+for a Eurasian criminal organization; Valentine Kovalev, a former
+Russian minister of justice charged with corruption; and Suleyman
+Kerimov, a civil servant from Dagestan who had amassed an estimated
+fortune of $7.1 billion. Kerimov had recently been charged
+for manipulating the price of potash in Belarus. Most of these clients
+were reputed to be part of Putin’s inner circle.
+To break the ice, I asked Kucherena about Oliver Stone. I knew
+he had a small role in Stone’s forthcoming movie, in which he plays
+Snowden’s lawyer in Moscow.
+Epst_9780451494566_2p_all_r1.indd 267
+9/30/16 8:13 AM
+268 | how america lost its secrets
+“I was impressed by how few takes he needed to shoot my scene,”
+he answered.
+“How did you come to be Snowden’s lawyer?” I asked.
+“Snowden picked me from a roster of fifteen lawyers with which
+he had been provided.”
+Because Snowden did not speak or read Russian, I asked Kucherena
+about how Snowden had come to pick him from the roster. Could
+he have known about his connections?
+“I suppose it was because of my record in defending human
+rights,” Kucherena replied with a broad smile.
+Kucherena went to Sheremetyevo International Airport to meet
+his new client on the morning of Friday, July 12, 2013. At that point,
+he said that Snowden had been held virtually incommunicado for
+twenty days. Other than Russian officials, the only person he had
+been allowed to see during this period was Assange’s aide, Sarah
+Harrison.
+“Where in the airport did you meet him?” I asked. “Was it in a
+VIP lounge?”
+“It was in the transit zone,” he replied coyly. “That is all I can say.”
+They spoke through a translator. By this time, Harrison had sent
+twenty- one countries petitions for asylum that were signed by
+Snowden. Whatever their purpose, Kucherena did not consider them
+helpful.
+“I told him that if he wanted to get sanctuary in Russia, he would
+have to immediately withdraw all the petitions in which he had
+asked other countries for asylum.” Kucherena said that otherwise he
+could not represent him. Snowden agreed to that condition.
+Shortly before 5:00 p.m., Kucherena accompanied Snowden, who
+was wearing an open- neck blue shirt and a badly creased jacket, to
+area G9 in the transit zone, where they emerged from a door marked
+“Authorized Personnel Only.” A number of officials in dark suits,
+who Kucherena assumed were from the “special services” to protect
+Snowden, were already in the room. Snowden and Harrison seated
+themselves at a table. A Russian translator was also seated at the
+table. At this point, thirteen invitees were ushered into the room
+to witness Snowden’s first public appearance in Russia. It was rare
+Epst_9780451494566_2p_all_r1.indd 268
+9/30/16 8:13 AM
+The Handler | 269
+if not unprecedented for an American intelligence worker to seek
+asylum in Russia.
+These invitees included some of Putin’s close associates, progovernment
+activists, and representatives of both Amnesty International
+and Human Rights Watch. “It was totally bizarre,” said
+Tanya Lokshina, the deputy director of Human Rights Watch, who
+attended. “Although it was billed as a press conference,” she recalled,
+“there was no press or photographers allowed in the room.” Nor was
+anyone allowed to photograph or record the event.
+Snowden read from a prepared statement accusing the U.S. government
+of violating the Universal Declaration of Human Rights,
+saying he was a victim of political persecution, and concluding, “I
+will be submitting my request to Russia today [for asylum], and
+hope it will be accepted favorably.” After answering a few questions
+posed by the audience, he left the room with Kucherena and Harrison
+by the same door they had entered.
+In discussing this meeting, Kucherena told me that Snowden had
+not intended to seek asylum in Russia when he arrived on June 23.
+Because he also said he had not met Snowden prior to the day of the
+conference, I asked how he knew Snowden’s intentions.
+“When I accepted the case, I received Snowden’s dossier,” he
+answered. “I was able to see all his interviews.”
+Presumably, Snowden’s dossier included his interviews with the
+FSB, the SVR, and other Russian security services. If so, it would
+explain how Kucherena could be so certain that Snowden had
+brought “material” with him to Russia that he had not provided to
+journalists in Hong Kong. Before meeting with Kucherena, I had
+met with Sophie Shevardnadze, who told me that Kucherena had
+personally approved the translation of their interview into English.
+So I asked Kucherena about the interview. It will be recalled that in
+response to a question about whether Snowden had secret material
+with him in Russia, Kucherena had said “certainly.” Was this
+exchange accurate?
+“It was accurate,” he answered.
+Snowden, as we know, had said in Hong Kong that he had only
+given journalists some of the state secrets he had stolen and that he
+Epst_9780451494566_2p_all_r1.indd 269
+9/30/16 8:13 AM
+270 | how america lost its secrets
+deemed others too sensitive for journalists. So I wanted to find out
+from Kucherena which documents Snowden had taken to Russia. I
+went about it in a roundabout way. When Shevardnadze asked him
+about the secret material Snowden might reveal in Russia, Kucherena
+pointedly called her attention to Snowden’s CIA service, suggesting
+that he might possess CIA files. I also knew that in Kucherena’s
+roman à clef, he had Joshua Frost, the thinly veiled Snowden- based
+character, steal a vast number of CIA documents that could do great
+damage to U.S. intelligence. By retaining them, Frost made himself
+a prime target of the CIA.
+So I asked, “Is Joshua Frost fact or fiction?”
+“I can’t tell you that,” he said. “If I said he was Snowden, it would
+violate the attorney- client privilege.”
+“I understand,” I said. “But did Snowden do what Frost did in
+your book?”
+“That is for you to decide,” he answered with a sly smile. “It’s my
+first novel.”
+When I asked if he could arrange for me to see Snowden, he
+said that first I would have to submit my questions to Ben Wizner,
+Snowden’s American lawyer at the ACLU. He made it clear to me
+that the exposure of Snowden to journalists, or at least the vetting of
+journalists, had been outsourced to Wizner. Kucherena was handling
+Snowden’s liaisons with the Russian authorities while Wizner was
+handling the Snowden narrative, including selecting the media outlets.
+Presumably, Wizner had handpicked Snowden’s past interviewers
+in Moscow, including Barton Gellmna, James Bamford, Brian
+Williams, John Oliver, Alan Rusbridger, and Katrina vanden Heuvel.
+“After that, the final decision is up to Snowden,” he said. That
+seemed to conclude the interview, but as I got up to leave, he added,
+“His legal defense is fairly expensive.”
+Snowden had said in a BBC interview in 2015, as previously mentioned,
+that he had brought enough cash to Hong Kong and Russia
+to cover all of his expenses. So I asked Kucherena if Snowden had
+brought his own funds.
+“He was penniless when he arrived,” he replied. I found that
+answer plausible because the FBI reportedly had not found a large
+cash withdrawal from his account before his departure and it seemed
+Epst_9780451494566_2p_all_r1.indd 270
+9/30/16 8:13 AM
+The Handler | 271
+to me too risky for him to carry a large sum of undeclared cash
+through three airports. Because large sums of cash must be declared,
+the detection of the money could compromise his plan to deliver his
+NSA documents. Snowden might have told the BBC he had brought
+cash to allay suspicions about who was financing his stay in Moscow.
+I was intrigued by this remark. Snowden, as far as I knew, didn’t
+need a legal defense, because he was not charged with a crime in
+Russia and the United States had no extradition treaty with Russia.
+While Kucherena unfortunately did not arrange an interview with
+Snowden, he did something I considered more important. He confirmed
+the accuracy of his September 2013 assertion that Snowden
+had brought secret material to Russia, material he had not given to
+journalists in Hong Kong. After what I had learned from Cherkashin
+about the lengths that Russian intelligence would go to obtain U.S.
+communications intelligence secrets, I viewed Snowden’s access to
+this material to be a crucially important part of the mystery.
+That day, I immediately sent my questions to Ben Wizner, and I
+offered to fly back to Moscow if Snowden would grant me an interview.
+In March 2016, Wizner answered that Snowden had “respectfully
+declined.”
+Epst_9780451494566_2p_all_r1.indd 271
+9/30/16 8:13 AM
+Epst_9780451494566_2p_all_r1.indd 272
+9/30/16 8:13 AM
+part five
+CONCLUSIONS:
+WALKING THE CAT BACK
+In solving a problem of this sort, the grand thing is to be able
+to reason backward.
+— sherlock holmes, A Study in Scarlet
+Epst_9780451494566_2p_all_r1.indd 273
+9/30/16 8:13 AM
+Epst_9780451494566_2p_all_r1.indd 274
+9/30/16 8:13 AM
+c h a p t e r 27
+Snowden’s Choices
+It is the choices we make that show who we truly are.
+— j. k. rowling, Harry Potter and the Sorcerer’s Stone
+Russian authorities had the opportunity to thoroughly
+debrief Snowden as to his motive for stealing state secrets,
+whereas U.S. authorities did not. It cannot be assumed that he had
+a single consistent motive in 2013. Snowden has shown, if nothing
+else, that he was adaptable to changing circumstances. He might have
+begun taking documents for one reason and found other reasons as
+he proceeded in his quest. Many of the reported circumstances of his
+activities, including his probes, contacts, theft, and escape, are disputed
+by his supporters. Many of his other activities are shrouded
+by the secrecy of the NSA. We do know, though, that Snowden made
+four extraordinary choices during the nine- month period in 2013. If,
+as is said, actions speak louder than words, Snowden’s four choices
+illuminate the underlying concerns guiding his acts. In the case of a
+classified intelligence breach, as in the post- action analysis of a masterful
+chess game, the sequence of moves a player makes provides an
+important clue to his strategy. Let us review what we have already
+learned about these decisions.
+Epst_9780451494566_2p_all_r1.indd 275
+9/30/16 8:13 AM
+276 | how america lost its secrets
+The First Decision
+The initial move that Snowden made in preparation for the Level 3
+breach was switching jobs on March 15. Snowden chose to leave his
+job as a system administrator at Dell to take one at Booz Allen as an
+analyst in training. His motive could not have been money, because
+it was a lower- paying position. At the time he made this choice, he
+had already set up an encrypted channel with Laura Poitras for the
+purpose of sending her secret material. But he did not have to change
+jobs to send her important secrets. So what was his purpose in making
+this fateful choice?
+The job change was not necessary to expose NSA domestic activities.
+If he had only wanted to be a whistle- blower, there were ample
+documents about the NSA’s activities already available to him on
+the NSANet. He also had access at Dell to the administrative file
+that contained the FISA court orders issued every three months to
+Verizon. In addition, as the NSA’s damage assessment established,
+before switching jobs, Snowden had already taken most of the documents
+pertaining to the NSA’s domestic operations that he could
+have supplied to Poitras and Greenwald for whistle- blowing purposes.
+Indeed, while still at Dell, he had told Poitras he had a copy
+of Presidential Policy Directive 20, a document in which President
+Obama authorized the NSA to tap into fiber cables crossing the
+United States. Snowden described it to her as “a kind of martial law
+for cyber operations, created by the White House.” True, he took a
+more recently issued FISA order and PRISM presentation in April
+after switching jobs, but he could just as easily have taken the January
+2013 version of the FISA order from the administrative file of
+Dell. It would have had the same explosive effect in the media.
+Nor did he switch jobs to lessen the risk of getting caught. Actually,
+the change put him in far greater jeopardy. At Dell, he was relatively
+safe from apprehension because he could take documents,
+such as the Presidential Policy Directive 20, from access points at
+the NSA shared by many of his peers, making it difficult to trace the
+theft. Indeed, if he just wanted to expose the NSA’s domestic operations,
+he could have done the entire operation at Dell. He could even
+Epst_9780451494566_2p_all_r1.indd 276
+9/30/16 8:13 AM
+Snowden’s Choices | 277
+have sent Poitras documents anonymously over his own Tor software
+and server. And he could have remained in his self- described
+“paradise” in Hawaii with his girlfriend.
+When he chose to move to Booz Allen, the risk of exposure
+greatly increased because of its auditing system. Any documents he
+took without authorization could be traced back to him (though not
+in real time). As he later told Greenwald and Poitras, he knew that
+stealing documents at the Booz Allen job meant that he would either
+go to prison or escape from America. He didn’t want to face prison
+time, so the job change required an escape plan. As part of that plan,
+soon after he started work at the Booz Allen– managed facility, he
+submitted a request for a medical leave of absence.
+We can safely assume that the reason he made this risky switch
+in employment was that he wanted something beyond the whistleblowing
+documents. He wanted documents that were not available
+at the Dell job. One such document he took was the top secret
+Congressional Budget Justification book for fiscal year 2013. This
+“black budget,” as it is called in Congress, contained the entire intelligence
+community’s priorities for, among other things, monitoring
+the activities of potential adversaries and terrorist organizations.
+It specified the money requested not only by the NSA but by the
+CIA, the DIA, the National Reconnaissance Office, and other intelligence
+services. Snowden could not have objected to the budget’s
+being somehow secret or illegitimate, because it was duly approved
+by both houses of Congress and the president. If it was not for purposes
+of whistle- blowing, presumably he had another purpose for
+taking such a document. It certainly held value to other actors. “For
+our enemies, having it [the black budget] is like having the playbook
+of the opposing NFL team,” said the former CIA deputy director
+Morell in 2015. “I guarantee you that the SVR, the Russian foreign
+intelligence service, would have paid millions of dollars for such a
+document.” If unlike Ames, Hanssen, and Pelton, Snowden was not
+after acquiring money, he must have seen another value in taking it.
+The documents he stole at Booz Allen certainly increased his
+value to adversary nations, because they included lists revealing the
+NSA’s sources in Russia, China, and other foreign countries.
+Epst_9780451494566_2p_all_r1.indd 277
+9/30/16 8:13 AM
+278 | how america lost its secrets
+Snowden wanted more than just NSA secrets. He used his new
+position and widened access at Booz Allen to go after secret documents
+from the intelligence services of Britain, Australia, New
+Zealand, and Israel. He revealed this operation only after receiving
+sanctuary in Russia. He told an interviewer that by moving to his
+new Booz Allen job as an infrastructure analyst, he gained the ability
+to pry secrets out of the allies of the NSA. “I had a special level
+of clearance, called ‘Priv Ac,’ ” he said. This “priv ac” status did not
+allow him to bypass the password protection at sealed- off compartments
+at the NSA, but it did allow him to request files from foreign
+services cooperating with U.S. intelligence.
+By way of example, he described one file from the British GCHQ
+cipher service that he copied, stole, and provided to other parties. It
+exposed a legally authorized British operation to collect electronic
+data on terrorist matters in Pakistan by tapping into Cisco routers
+used by telecom companies in Asia. This GCHQ operation, as
+Snowden knew, violated neither British nor American law. He told a
+BBC interviewer in regard to that file, “What’s scariest is not what
+the government is doing that’s unlawful, but what they’re doing
+that is completely lawful.” So his criteria for taking such documents
+were not their illegality. In his five weeks at this Booz Allen job, he
+also used this same newly acquired “priv ac” at the NSA to steal files
+from the Israeli, Canadian, and Australian intelligence services.
+Jumping from one outside contracting firm to another for the
+purpose of penetrating other Western intelligence services is not
+the conventional mission of a whistle- blower. In the parlance of CIA
+counterintelligence, the actions of an employee of an intelligence
+service who changes his jobs solely to steal the more valuable secrets
+of this service is called an “expanding penetration.” It is not possible
+to believe that Snowden did not know the immense damage that
+the highly sensitive documents he was taking from the NSA and its
+allies could cause.
+His choice to switch jobs did not come out of the blue. It was not
+based on serendipitously discovering the documents after he began
+working at Booz Allen. As he told Lana Lam, he knew in advance
+that by switching to the job at Booz Allen, he would gain the opportunity
+to take the lists of NSA sources. He knew that the NSA’s
+Epst_9780451494566_2p_all_r1.indd 278
+9/30/16 8:13 AM
+Snowden’s Choices | 279
+secretive National Threat Operations Center’s chief business was, as
+its name suggests, countering direct threats from China, Russia, and
+other adversary states and that to deal with these threats, the NSA
+had used sophisticated methods to hack into the computers of adversaries.
+The NSA was even able to remotely gain entry to adversary
+computers that were not hooked into a network. “It’s no secret that
+we hack China very aggressively,” Snowden later said from Moscow.
+He had a planned target: getting the lists of the enemy computers
+that the NSA had hacked into.
+He also knew he was undertaking a dangerous enterprise. He even
+mentioned the possibility that he would be “in an orange jumpsuit,
+super- max prison in isolation or Guantánamo,” perhaps even
+assassinated.
+He knowingly chose this course presumably because he believed
+the value of the secrets he would obtain by switching jobs outweighed
+the risk of imprisonment. Or worse. Part of his calculus
+might have been the belief that the NSA lists, GCHQ documents,
+and other material in his possession could give him great leverage, if
+he chose to exert it, in his future dealings with intelligence services
+(including the NSA). His choice to widen his access was made, if not
+to get rich, to empower himself.
+The Second Decision
+The second choice of consequence that Snowden made was to make
+Hong Kong his first stop. He had many other options. He could have
+remained in America, as almost all previous whistle- blowers had
+chosen to do. If he did that, he would have to make his case in court
+(and, in that case, the Level 3 documents he took might have been
+retrieved before they fell into unauthorized hands). He could have
+also chosen to make an escape to a country that did not have an active
+extradition treaty with the United States. He could have, for example,
+taken a direct flight to Brazil, which has no extradition treaty
+with the United States. Brazil also had the advantage of being the
+home country of Glenn Greenwald, whose cooperation he sought.
+Snowden could have gone to many other countries without extradi-
+Epst_9780451494566_2p_all_r1.indd 279
+9/30/16 8:13 AM
+280 | how america lost its secrets
+tion treaties with the United States. Yet, instead, he flew to Hong
+Kong, which had an extradition agreement that had been enforced
+throughout the past decade with Hong Kong courts ordering the
+arrest of almost every fugitive charged by U.S. authorities. He could
+expect that when the United States filed a criminal complaint, Hong
+Kong authorities would seize him and the alleged stolen property of
+the U.S. government in his possession. Even if he were released on
+bail and successfully defeated extradition in a Hong Kong court, the
+Hong Kong authorities would almost certainly retain all the NSA
+and GCHQ files he had gone to such lengths to steal.
+His reason, as he told Greenwald, was that China could provide
+him with physical protection from any countermeasures by U.S.
+intelligence agencies such as “American agents . . . breaking down
+the door” of the hotel room and seizing him. China also had sway
+over Hong Kong’s security activities.
+Hong Kong was therefore merely a protected stopover en route to
+his next destination. If he had gone directly to Moscow and provided
+the same journalists with the same documents at a press conference
+in Moscow, his status as a whistle- blower might have been viewed
+with less sympathy in the media. Even The Guardian, for example,
+might have been reluctant to publish a Moscow- based story revealing
+British and American communications intelligence secrets.
+The Third Decision
+The third choice Snowden made, and the choice that most effectively
+defined him to the public, was to reveal himself as the man behind
+the leak in a video in Hong Kong. He not only identified himself as
+the person who stole the government documents published by The
+Guardian and The Washington Post but also incriminated himself
+further on camera by allowing Poitras to film him actually disclosing
+the NSA’s secret operations to Greenwald. By disclosing classified
+data to Greenwald, an unauthorized person, he intentionally burned
+his bridges.
+What makes this choice intriguing is that there was no evident
+Epst_9780451494566_2p_all_r1.indd 280
+9/30/16 8:13 AM
+Snowden’s Choices | 281
+need for him to expose himself in this way. If he merely wanted to
+be a whistle- blower, he could have, as Bradley Manning did, anonymously
+sent the documents to journalists as “Citizen Four.” In fact,
+in late May 2013, that was exactly what he did. He anonymously
+sent Gellman the PRISM scoop, which the Post published on June 6.
+He also sent Greenwald and Poitras documents while he was still
+the anonymous Citizen Four. Neither Gellman nor Greenwald had
+suggested the need for a face- to- face meeting with Snowden. Even
+after he had revealed his true identity to Poitras and Greenwald on
+June 3, the Guardian editor Ewen MacAskill offered him the option
+of remaining an unnamed source for the stories. He said, as he later
+told Vanity Fair, “You should remain anonymous; the stories are
+just as good without you.” However, anonymity was not part of
+Snowden’s long game.
+The reason he gave Greenwald in Hong Kong for going public in
+this way was to avoid having any suspicion fall on his co- workers at
+the NSA. Yet in the initial stories published by Greenwald, Poitras,
+and Gellman, Snowden had not allowed the reporters to identify him
+by either name or position. If he did not act to deflect suspicion from
+his co- workers for the initial investigation, why do it a week later?
+In the intervening week, the FBI had already launched its criminal
+investigation. In any case, he did not need to be the subject of a documentary
+film to take sole responsibility for stealing state secrets. He
+could have simply allowed Greenwald to identify him by name as
+the source in the stories.
+One thing that Snowden could not accomplish by anonymously
+transferring the documents to journalists was a starring role in the
+drama. If he had appeared digitally masked in Poitras’s video with
+an altered voice, he would not achieve fame. To do that, he needed to
+allow Poitras to film him committing the crime of turning over NSA
+documents to Greenwald. This video was also part of his advance
+planning. Indeed, one reason he chose Poitras was that she was a
+prizewinning documentary filmmaker. Snowden, while he was still
+working at the NSA in March 2013, made it clear how he intended
+to use Poitras’s filmmaking skills. He told her, “My personal desire is
+that you paint the target directly on my back.” Making himself the
+Epst_9780451494566_2p_all_r1.indd 281
+9/30/16 8:13 AM
+282 | how america lost its secrets
+on- camera star of a twenty- hour- long reality show, edited first into
+a video and then a full- length documentary, transformed him in the
+public’s mind into a hero.
+It would be a mistake to assume that the central role he gave
+himself was simply an exercise in narcissism. After the video was
+released, he was no longer a near nonentity servicing a computer
+system at a backwater NSA base in Hawaii. He had emerged from
+the shadowy world of electronic intelligence to become one of the
+most famous whistle- blowers in modern history. It was a mantle
+that would allow him to also become a leading advocate of privacy
+and encryption rights, as well as the leading opponent of NSA spying.
+While this remarkable transformation might not have been his
+entire motive, it was certainly the result of the choice he made to go
+public.
+The Fourth Decision
+The final choice he made was to board a nonstop flight to Moscow
+on June 23. Once the U.S. criminal complaint was unsealed on June
+21, he needed to leave Hong Kong; his continued presence would
+have been a complication for the Chinese president, Xi, scheduled
+soon to meet President Obama. His only route out of Hong Kong
+went through two adversaries of the United States: China and Russia.
+China, as far as is known, did not offer him sanctuary. According
+to one U.S. diplomat cited by The New York Times, China might have
+already obtained copies of Snowden’s NSA files and did not want the
+problem of having Snowden defect to Beijing. In any case, if it had
+not already acquired the files, it could assume it would receive that
+intelligence data from its Russian ally in the intelligence war. Whatever
+its reason, China did not use its considerable power in Hong
+Kong to block Snowden’s exit.
+Nor did Snowden obtain a visa to any country in Latin America or
+elsewhere during his monthlong stay in Hong Kong. As in the oftcited
+Sherlock Holmes clue of the dog that did not bark, Snowden’s
+lack of any visas in his passport strongly suggests that he had not
+made plans to go anyplace but where he actually went: Moscow. His
+Epst_9780451494566_2p_all_r1.indd 282
+9/30/16 8:13 AM
+Snowden’s Choices | 283
+actions here, including his contacts with Russian officials in Hong
+Kong, speak louder than his words.
+Just as he believed the Chinese intelligence service could protect
+him in Hong Kong from a physical attack by agents of the United
+States, he could assume that the FSB could protect him from them
+in Moscow. He was not entirely naive about its capabilities. During
+his service in the CIA, he had taken a monthlong training course at
+the CIA’s “farm” at Fort Peary, in which counterintelligence officers
+taught about the capabilities of the Russian security services. He
+couldn’t have believed that Russia would allow a defector from the
+NSA who claimed to have had access to the NSA’s sources in Russia
+and China to leave Moscow before its security services obtained that
+information.
+It is not uncommon for a defector to change sides in order to find
+a better life for himself in another country. Some defectors flee to
+escape a repressive government or to find one in which they believe
+they are more closely attuned to its values. Russia, however, is ordinarily
+not the country of choice for someone such as Snowden seeking
+greater civil liberties and personal freedom. So why did Snowden
+choose Russia for his new life?
+The four choices just discussed that Snowden made, taken together,
+show that Snowden was determined to succeed where others
+before him had failed. He not only wanted to take full credit for
+stealing files from the NSA but also wanted to escape any American
+retribution for his act. His decision suggests to me a highly intelligent,
+carefully calculating man who was hell- bent on finding a new
+life for himself in a foreign country. A common thread that runs
+through these four choices is a willingness to do whatever was necessary
+to achieve this new life, including disregarding his oath to
+protect secrets and instead transporting them on thumb drives to
+a foreign country. To protect himself, he was also willing to rely on
+the influence of adversary intelligence services in Hong Kong and
+put himself in the hands of Russian authorities in Moscow. He was
+also willing to use some of his classified documents as a medium of
+exchange, if not bait, with journalists to get the public attention he
+sought.
+These choices paid off for Snowden, the new hero of millions. In
+Epst_9780451494566_2p_all_r1.indd 283
+9/30/16 8:13 AM
+284 | how america lost its secrets
+Moscow, he could enjoy a safe life, free from the threats of a CIA
+rendition team dropping from the sky or extradition proceedings. He
+was now under the protection of Putin’s Russia. The press had a field
+day with the domestic surveillance documents that he gave them. As
+far as Snowden was concerned, as he told Gellman on December 21,
+2013, in Moscow, “The mission’s already accomplished.”
+Epst_9780451494566_2p_all_r1.indd 284
+9/30/16 8:13 AM
+c h a p t e r 28
+The Espionage Source
+The government’s investigation failed. [It] didn’t know what was
+taken.
+— edward snowden, Moscow, 2014
+In moscow, I had learned that Russian intelligence services use
+the broad, umbrella term “espionage source” to describe moles,
+volunteers, and anyone else who delivers another state’s secrets
+to it. It applies not only to documents but to the secret knowledge
+that such a source is able to recall and includes both controlled and
+uncontrolled bearers of secrets. It is also a job description that fit
+Edward Snowden in June 2013.
+Unless one is willing to believe that the Putin regime acted out of
+purely altruistic motives in exfiltrating this American intelligence
+worker to Moscow, the only plausible explanation for its actions
+in Hong Kong was that it recognized Snowden’s potential as an
+espionage source. Snowden’s open disillusionment with the NSA
+presented the very situation that the Russian intelligence services
+specialized in exploiting. He had also revealed to reporters in Hong
+Kong that he had deliberately gained access to the NSA’s sources
+and methods and that he had taken highly classified documents to
+Hong Kong. He further disclosed that before leaving the NSA, he
+Epst_9780451494566_2p_all_r1.indd 285
+9/30/16 8:13 AM
+286 | how america lost its secrets
+had gained access to the lists of computers that the NSA had penetrated
+in foreign countries. He even went so far as to describe to
+these journalists the secrets that he had taken as a “single point of
+failure” for the NSA. And aside from the documents he had copied,
+he claimed that the secret knowledge in his head, if he disclosed it,
+would wreak havoc on U.S. intelligence. “If I were providing information
+that I know, that’s in my head, to some foreign government,
+the US intelligence community would . . . see sources go dark that
+were previously productive,” he told the editor of The Guardian in
+Moscow.
+In short, he advertised possessing priceless data that the Russian
+intelligence services had been seeking, with little success, for
+the past six decades. These electronic files could provide it with the
+keys to unlock the NSA’s entire kingdom of electronic spying. Could
+any world- class intelligence service ignore such a prize? To miss the
+opportunity to get its hands on such a potential espionage source
+would be nothing short of gross negligence.
+In fact, this golden opportunity was not missed in Hong Kong.
+Even if the Russian intelligence service had not previously had
+him in its sights— which, as discussed earlier, appears to me to be
+extremely unlikely— he made contact with Russian officials in Hong
+Kong, and Putin personally approved allowing Snowden to come to
+Russia.
+This decision made it possible for Snowden, without an entry
+visa to Russia, or, for that matter, any other country, to check in
+and board an Aeroflot flight to Moscow. We also know that a special
+operation was mounted to take Snowden off the plane once it landed
+in Moscow. Such an operation could not have been executed without
+advance planning. Nor would he be removed from the plane without
+a plan for his stay in Russia. Once Putin approved it, there is little
+reason to doubt that the plans to get Snowden to Moscow, and whatever
+cover stories were deemed necessary to obscure them, had been
+carried out professionally by Russia’s special services.
+When an intelligence service makes such elaborate preparations
+for extracting a foreign intelligence worker, it presumably also
+expects to debrief him or her on arrival. Pelton, for example, who
+had access to far less valuable information than had Snowden, was
+Epst_9780451494566_2p_all_r1.indd 286
+9/30/16 8:13 AM
+The Espionage Source | 287
+held incommunicado in Vienna for two weeks during his debriefing.
+It would be inconceivable for an intelligence service to bring
+a potential espionage source such as Snowden to Russia and allow
+him to catch the next plane to Latin America. The false report provided
+to the press that Snowden was flying there was likely nothing
+more than a smoke screen to confuse foreign observers while he was
+receiving his initial debriefing and evaluation.
+When it comes to the esoteric enterprise of reconstructing the
+work of U.S. communications intelligence, military as well as civilian
+experts in cryptology, computer sciences, and communications are
+necessary. Unlike in the case of Pelton, Snowden, according to Anatoly
+Kucherena, had secret material in his possession. Even if Russian
+intelligence had already acquired copies of the electronic files
+prior to Snowden’s arrival in Moscow, Snowden’s interpretation of
+them would be part of the debriefing because intelligence data needs
+to be put in context.
+“This debriefing could not be done overnight,” according to a former
+high- ranking officer in the GRU, the Russian military intelligence
+service. “There is no way that Snowden would not be fully
+debriefed,” he said. He also said GRU specialists in signals intelligence
+would be called in.
+Putin’s approval of the Snowden operation was not without consequences.
+Not only did Obama make good on his threat to cancel
+the pre- Olympics summit with Putin, but also, as it turned out,
+the Snowden exfiltration proved a turning point in the “reset” of
+U.S.- Russian relations. Having to accept the onus of declining relations
+with the Obama administration, Putin, it seems safe to assume,
+attempted to get the bonus of the NSA’s communications intelligence
+from Snowden. The GRU, the SVR, and other Russian intelligence
+services would not stop questioning Snowden, even if it took

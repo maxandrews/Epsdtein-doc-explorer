@@ -404,8 +404,8 @@ app.get('/api/document/:docId', (req, res) => {
   }
 });
 
-// Get document text from file
-app.get('/api/document/:docId/text', async (req, res) => {
+// Get document text from database
+app.get('/api/document/:docId/text', (req, res) => {
   try {
     const { docId } = req.params;
 
@@ -414,32 +414,17 @@ app.get('/api/document/:docId/text', async (req, res) => {
       return res.status(400).json({ error: 'Invalid document ID' });
     }
 
-    const doc = db.prepare('SELECT file_path FROM documents WHERE doc_id = ?').get(docId) as { file_path: string } | undefined;
+    const doc = db.prepare('SELECT full_text FROM documents WHERE doc_id = ?').get(docId) as { full_text: string | null } | undefined;
 
     if (!doc) {
       return res.status(404).json({ error: 'Document not found' });
     }
 
-    const fs = await import('fs/promises');
-    const pathModule = await import('path');
-
-    // Prevent path traversal attacks
-    const baseDir = pathModule.resolve(process.cwd());
-    const requestedPath = pathModule.resolve(pathModule.join(baseDir, doc.file_path));
-
-    // Ensure the requested path is within the base directory
-    if (!requestedPath.startsWith(baseDir)) {
-      console.error(`Path traversal attempt blocked: ${doc.file_path}`);
-      return res.status(403).json({ error: 'Access denied' });
+    if (!doc.full_text) {
+      return res.status(404).json({ error: 'Document text not available' });
     }
 
-    try {
-      const text = await fs.readFile(requestedPath, 'utf-8');
-      res.json({ text });
-    } catch (fileError) {
-      console.error('File read error:', fileError);
-      res.status(404).json({ error: 'Document file not found on disk' });
-    }
+    res.json({ text: doc.full_text });
   } catch (error) {
     console.error('Error in /api/document/:docId/text:', error);
     res.status(500).json({ error: 'An internal error occurred' });

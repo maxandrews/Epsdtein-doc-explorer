@@ -1,0 +1,1920 @@
+﻿Equity Strategy Focus Point
+Death and tax reform
+Quantitative Analysis
+29 January 2017 Corrected
+Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com
+Deep dive on corporate tax reform
+OK, maybe it’s not as inevitable as death and taxes, but some form of corporate tax
+reform seems likely. It is a stated priority of President Trump and has widespread
+Congressional support. We here focus on four components that could have big equity
+implications. We assess the impacts at a market, sector, and industry level, and plan to
+update and augment this work as more details come to light.
+Potential near-term boost to EPS, long-term impact varies
+Our 2018 S&P 500 EPS estimate of $137 already implies healthy two-year growth of +16%.
+Tax reform in its entirety could add as much as $5-6 to near-term EPS, as benefits are frontloaded.
+The sustained impact depends: under a 20% tax rate, the Blueprint would be
+modestly accretive; under a 15% rate, this annual benefit could triple; but a 25% tax rate that
+would appease the deficit hawks could shave $3.50 off of earnings each year. We also
+estimate a one-time $8-9 charge to GAAP EPS associated with the repatriation tax (Table 1).
+Cutting corporate tax rate could add $8 to EPS
+Our starting point is the US statutory corporate tax rate. If it were lowered from 35% to
+20% and the US moved to a territorial tax system (no longer taxing foreign profits), it
+would boost S&P 500 EPS by an estimated 12% ($17 to 2018 EPS). We assume
+companies would be able to retain half of the benefit ($8) and the remainder would be
+passed on to customers or competed away. For instance, a lasting impact to Utilities'
+profits is unlikely, as the benefit would be passed on via regulated pricing.
+Repatriation: Buybacks could boost EPS by 3%
+Both Trump and the Blueprint support a mandatory (as opposed to 2004's optional) tax
+of overseas earnings of US firms’ subsidiaries at reduced rates. Non-Financials in the S&P
+hold at least $1.2tn in overseas cash (mostly Tech and Health Care). If half was used for
+buybacks, this could add 3% ($4) to S&P 500 EPS. A redux of 2004 where companies
+used 80% of cash for buybacks may be less likely, in our view. For if repatriation is
+accompanied by an end to interest expense deductions, companies may choose to pay
+down debt over buybacks.
+Border adjustment tax (BAT) hits EPS by $5-6
+While Trump has described the BAT as being “too complicated,” White House press
+secretary Spicer’s recent comments call into question his stance. This is a key
+component of the Blueprint and would generate significant revenue. First-order impacts
+could be significant, with border adjustments detracting $5-6 from 2018 EPS — nearly
+80% of the drag comes from the consumer sectors. The second order impacts — product
+pricing, pricing within the supply chain, exchange rates, foreign policy reactions, etc. —
+while harder to quantify, are important to consider.
+End to interest deductibility could detract 4% from EPS
+We estimate that over time, the removal of the interest expense deduction would
+detract about 4% from S&P 500 EPS. An increase in the cost of debt by an incremental
+25% could have longer term ramifications for capital structures and funding..
+Tax reform winners and losers
+We include stock screens for potential beneficiaries and victims of tax cuts, repatriation
+and interest deductibility changes, as well as industries most helped/hurt most by a BAT.
+Note that the very fact that there are companies and industries that have the potential
+to be very negatively impacted could call into question the likelihood of passage.
+BofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a
+result, investors should be aware that the firm may have a conflict of interest that could affect the
+objectivity of this report. Investors should consider this report as only a single factor in making
+their investment decision.
+Refer to important disclosures on page 26 to 27. 11706251
+Timestamp: 29 January 2017 12:01AM EST
+Equity and Quant Strategy
+United States
+Savita Subramanian
+Equity & Quant Strategist
+MLPF&S
++1 646 855 3878
+savita.subramanian@baml.com
+Dan Suzuki, CFA
+Equity & Quant Strategist
+MLPF&S
++1 646 855 2827
+dan.suzuki@baml.com
+Marc Pouey
+Equity & Quant Strategist
+MLPF&S
++1 646 855 1142
+marc.pouey@baml.com
+Alex Makedon
+Equity & Quant Strategist
+MLPF&S
++1 646 855 5982
+alex.makedon@baml.com
+Jill Carey Hall, CFA
+Equity & Quant Strategist
+MLPF&S
++1 646 855 3327
+jill.carey@baml.com
+Jimmy Bonilla
+Equity & Quant Strategist
+MLPF&S
++1 646 556 4179
+jimmy.bonilla@baml.com
+Table 1: Estimated impact of tax reform on S&P 500
+2018 EPS
+Tax policy 15% 20% 25%
+Tax rate change 10.50 8.00 5.00
+End int. deduct. – init. impact* -0.50 to -1.00 -0.50 to -1.50 -0.50 to -2.00
+Border adjustments -4.00 -5.50 -6.50
+Repatriation buybacks 4.00 4.00 4.00
+Total init. Impact 9.50 to 10.00 5.00 to 6.00 0.50 to 2.00
+End int. deduct. – recur. impact -3.50 -5.00 -6.00
+Recurring impact 7.00 1.50 -3.50
+One-time repat. tax -8.50 -8.50 -8.50
+Source: BofAML US Equity & Quant Strategy, FactSet, Compustat, S&P
+*Assumes end to interest deductibility only applies to new debt, where we estimate
+70-90% of debt is long-term.
+Note: For this exhibit, we assume that 100% of the cash is repatriated and 50%
+of it is spent on buybacks. For different buyback assumptions, please see the
+section on repatriation.
+Contents
+The costs and benefits of tax reform 3
+Cutting the corporate tax rate 4
+Repatriation 6
+Border adjustment tax analysis 12
+Closing loopholes 15
+No interest tax shield 17
+Tax reform screens 19
+Related BofAML research on US tax reform 22
+Methodology 24
+2 Equity Strategy Focus Point | 29 January 2017
+The costs and benefits of tax reform
+2017 could be a watershed year from a tax reform perspective. Trump has continuously
+stated that tax reform is a priority, and there is evidence of widespread support in
+Congress. Tax reform could be enacted through reconciliation without the risk of being
+filibustered, suggesting the timing could be imminent. Corporate tax reform could have
+a significant impact on S&P 500 earnings, corporate behavior and capital markets. Much
+has been written on the timing, funding and process by which corporate tax reform
+could be enacted. In this report, we use House Speaker Paul Ryan’s Blueprint proposal as
+a starting point in quantifying the impact of corporate tax reform on the S&P 500, with
+some scenario analysis to account for differences included in the final bill (such as
+Trump’s proposals). Our analysis is focused specifically on the impact of corporate tax
+reform, however we recognize that there are many other factors that can impact the
+sensitivity analysis (e.g. changes to household income tax rates, infrastructure spending,
+etc.).
+We estimate that the Blueprint proposal would initially boost S&P 500 EPS by $5-6,
+assuming the end of interest expense deductions only applies to new debt, or is phased
+in over time. But the devil is in the details. Over time, the loss of the interest tax shield
+would be a significant drag on earnings as existing debt is refinanced. Additionally, the
+corporate tax rate is critical in determining whether or not the tax reform policies end
+up being accretive to earnings on a sustained basis. We estimate that at the 20% tax
+rate, the Blueprint would be modestly accretive, the benefit would triple under Trump’s
+proposed 15% tax rate, but at a higher 25% tax rate that would appease the deficit
+hawks in Congress, the benefit would turn to a negative over time (Table 2). We also
+estimate a one-time $8-9 charge to GAAP EPS that would be associated with the
+discounted repatriation tax.
+Table 2: Estimated impact of tax reform on S&P 500 2018 EPS
+Tax policy 15% 20% 25%
+Tax rate change 10.50 8.00 5.00
+Ending interest deductibility – initial impact* -0.50 to -1.00 -0.50 to -1.50 -0.50 to -2.00
+Border adjustments -4.00 -5.50 -6.50
+Share count reduction from buybacks (50%) 4.00 4.00 4.00
+Total initial impact 9.50 to 10.00 5.00 to 6.00 0.50 to 2.00
+Ending interest deductibility – recurring impact -3.50 -5.00 -6.00
+Recurring impact 7.00 1.50 -3.50
+One-time repatriation tax (8.75%), GAAP
+charge -8.50 -8.50 -8.50
+Source: BofAML US Equity & Quant Strategy, FactSet, Compustat, S&P
+*Assumes end to interest deductibility only applies to new debt, where we estimate 70-90% of debt is long-term.
+Note: For this exhibit, we assume that 100% of the cash is repatriated and 50% of it is spent on buybacks. For different buyback
+assumptions, please see the section on repatriation.
+In the following pages, we focus on the following topics that have large implications for
+US equity investors, but it is important to consider corporate tax reform holistically
+rather than drawing major implications from each measure in isolation:
+• Reducing the US corporate tax rate
+• Repatriation - mandatory tax on overseas profits
+• Border adjustment tax
+• Removal of interest expense deduction
+The government revenue associated with each of these is included in the table below.
+Equity Strategy Focus Point | 29 January 2017 3
+Table 3: Estimated 10-year* revenue impact from tax plans, $bn
+Based on estimates from both the Tax Policy Center and Tax Foundation
+House Plan Trump Plan
+Corporate Tax Reform -890 to -1200 -1940 to -2630
+Lower corporate tax rate (20% under House, 15% under Trump) -1800 to -1850 -2120 to -2350
+Full capex expensing, interest expense no longer deductible (mandatory under
+House, choice between two under Trump)** -450 to -1040 -320 to -590
+Deemed repatriation of overseas earnings 140 to 190 150-200
+Move to territorial tax system -90 to -160 n/a
+Border adjustment 1070 to 1180 n/a
+Changes to individual income/payroll taxes -980 to -2020 -2190 to -3730
+Repeal estate/gift taxes -190 to -240 -170 to -240
+Total (static) estimate -2420 to -3100 -4370 to -6150
+*Tax Foundation assumes impact over 2016-2025 and Tax Policy Center assumes impact over 2016-2026
+**Under House plan, Tax Foundation separately breaks out estimates for full capex expensing (-$2236) and disallowing interest deduction
+on new loans (+$1194).
+Note: estimates rounded to nearest ten billion, with range to incorporate estimates from both sources. Other elements to corporate tax
+reform not itemized above include eliminating the AMT, repealing certain corporate tax deductions, etc.
+Source: Urban-Brookings Tax Policy Center, Tax Foundation, BofA Merrill Lynch US Equity & US Quant Strategy (calculation of ranges)
+From a sector and industry perspective there are haves and have-nots based on each
+policy, but in aggregate most sectors have some puts and some takes based on tax
+reform. The table below shows some relevant aggregate statistics by sector that inform
+our subsequent analysis.
+Table 4: Estimated overseas cash vs. last 12 month effective tax rate vs. COGS net exports by sector
+Sector
+Est. cash
+overseas ($bn)
+Overseas cash
+% mkt cap
+Effective tax
+rate LTM
+Net % imported vs
+exported COGS
+Discretionary 75 2.9% 28% -14%
+Staples 68 3.2% 29% -13%
+Energy 39 2.6% 21% -3%
+Health Care 187 7.0% 23% -4%
+Industrials 127 6.0% 26% 1%
+Technology 647 14.9% 20% -9%
+Materials 24 4.0% 23% 3%
+Telecom 1 0.2% 29% 0%
+Utilities 2 0.3% 28% 0%
+S&P 500 ex. Financials & Real Estate 1,170 5.7% 25% -6%
+Source: BofAML US Equity & Quant Strategy, FactSet, Bloomberg
+Cutting the corporate tax rate
+The best starting point for analyzing corporate tax reform is the US statutory corporate
+tax rate, as this rate is critical in determining the impact of other proposed changes
+(border adjustments, interest deductibility, etc.). If the tax rate were lowered from 35%
+to 20% and the US moved to a territorial tax system (no longer taxing foreign profits),
+all else equal, we estimate an initial boost to S&P 500 EPS of 12% ($17 to 2018 EPS).
+However, over time, some of this benefit could be passed on to customers via lower
+prices — for instance, it is unlikely that there will be any major long-lasting impact from
+tax reform for Utilities sector profits, as any benefit/cost would likely be passed through
+to customers when incorporated into each company's regulated pricing. The benefit
+would also be offset by some of the other changes discussed in subsequent sections.
+We assume that S&P 500 companies would be able to retain half of the benefit, or
+roughly $8 of 2018E EPS. Below, we show the estimated EPS impacts on each sector
+based on a tax rate of 20%.
+4 Equity Strategy Focus Point | 29 January 2017
+Chart 1: Sector EPS estimated impact from 20% rate
+0% 2% 4% 6% 8% 10% 12% 14% 16% 18% 20%
+Financials
+Discretionary
+Telecom
+Staples
+Industrials
+Health Care
+Energy
+Materials
+Info Tech
+Real Estate
+2%
+4%
+8%
+10%
+10%
+14%
+12%
+12%
+16%
+18%
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+While the effective tax rate of the S&P 500 is generally about 28% (currently closer to
+25% due to the recent commodity recession), we estimate that the tax rate for the S&P
+500’s domestic operations is much higher at roughly 33% — although this includes
+state and local taxes. If all companies with tax rates above the proposed new tax rate of
+20% were to drop to 20%, and no companies provisioned for US taxes on foreign
+profits, we estimate the domestic effective tax rate for the S&P 500 would fall in line
+with its foreign tax rate of roughly 19%. This would represent a 9ppt decrease in the
+current S&P 500 tax rate and a 12% increase in EPS. We show the sensitivity to S&P
+500 EPS to different assumed tax rates in the chart below, but we reiterate that these
+estimates exaggerate the actual impact on profits, as a significant portion of these
+benefits would likely be passed on to consumers via lower prices. We assume that in
+aggregate, roughly half of the gains from the lower tax rate would be retained (i.e. half
+of the amounts shown in the sensitivity analysis in Chart 2).
+Table 5: Impact of 20% domestic corporate tax rate
+Sector Current tax rate New tax rate Change
+Discretionary 30% 19% -12ppt
+Staples 29% 20% -9ppt
+Energy 41% 32% -9ppt
+Financials 33% 21% -11ppt
+Health Care 25% 16% -9ppt
+Industrials 32% 23% -9ppt
+Info Tech 18% 14% -4ppt
+Materials 28% 23% -5ppt
+Real Estate 9% 7% -2ppt
+Telecom 29% 20% -9ppt
+Utilities 32% 20% -12ppt
+S&P 500 28% 19% -9ppt
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+* Current tax rates may differ from other sources, as this analysis is based on companies’ 5-yr median
+fiscal year domestic and foreign tax data from annual filings.
+Chart 2: Benefit to 2018 S&P 500 EPS from lower tax rates
+20%
+15%
+10%
+5%
+0%
+$10.50 $8.00
+15% 20% 25%
+New Corporate Tax Rate
+Estimated impact on 2018 EPS
+$5.00
+Source: BofAML US Equity & Quant Strategy
+Note: Our base case assumes that half of the benefit would be passed on to customers, competed
+away or offset by other changes to the tax code. Thus, we would expect the uplift to our EPS forecast
+to be roughly half the calculated benefit from simply lowering the corporate tax rate.
+The market is beginning to price in the benefits of tax cuts , but we may still be in the
+early days – note that potential beneficiaries of fiscal stimulus (i.e. infrastructure
+spending) have seen an 18% multiple re-rating but de minimis fundamental support,
+whereas potential beneficiaries of lower corporate tax rates have seen performance
+driven nearly equivalently by multiples and earnings.
+Equity Strategy Focus Point | 29 January 2017 5
+Chart 3: Decomposition of performance of 1) S&P 500 stocks exposed to fiscal stimulus* and 2) top
+50 S&P 500 stocks with the highest L12M effective tax rates, vs. rest of S&P 500 (1/31/16-1/23/17)
+25%
+20%
+15%
+10%
+5%
+20%
+2%
+18%
+15%
+7%
+19%
+11%
+8% 8%
+15%
+6%
+9%
+0%
+Stimulus Beneficiaries
+S&P 500 ex-Stimulus
+Beneficiaries
+High Effective Tax Rate
+List
+Chg in PE Chg in EPS Performance
+S&P 500 ex-High Eff Tax
+Rate List
+*Stocks identified by BofAML analysts as stimulus beneficiaries in 150 stocks with exposure to the Fiscal Stimulus theme 21 Aug. 2016
+Source: FactSet, BofA Merrill Lynch US Equity & US Quant Strategy
+Potential beneficiaries: See Table 19 at the end of this report for a screen of
+domestically-oriented companies with high effective tax rates which could
+potentially benefit from a lower corporate tax rate.
+Repatriation
+Repatriation likely under both Blueprint and Trump plans
+Mandatory tax on overseas profits of 8.75% under Blueprint, 10% under Trump
+The US currently operates under a tax system in which the domestic earnings of US
+corporates are taxed at the federal US corporate rate (35%) and any overseas earnings
+that are repatriated are taxed at this rate less a credit for foreign taxes paid on those
+same earnings. Many multinationals’ foreign earnings thus remain parked offshore,
+allowing corporations to avoid the tax hit associated with bringing them back to the US.
+Both Trump and the House (under Ryan) have proposed a mandatory tax of overseas
+earnings of US firms’ foreign subsidiaries at reduced rates, such that this cash can be
+brought back and put to work in the US. This differs from the 2004 repatriation tax
+holiday, which was optional.
+Under the Blueprint, accumulated overseas earnings will be subject to a transition tax of
+8.75% 1 (for those held in cash/cash equivalents) or 3.5% (for all other holdings), with
+companies able to pay the tax liability over an eight-year period. This would be part of
+broader tax reform, where a proposed territorial tax system would exempt companies’
+foreign income from US taxes and prevent future buildup of overseas profits as
+companies would be free to bring them home. Trump’s plan calls for a one-time deemed
+repatriation of overseas corporate profits at a 10% tax rate.
+Table 6: Blueprint vs. Trump tax plans for taxing offshore earnings of US firms’ foreign subsidiaries
+Plan
+Tax rate on accumulated overseas earnings
+Blueprint
+8.75% for cash/cash equivalents, 3.5% of all other holdings
+Trump tax plan 10%
+Source: donaldjtrump.com, abetterway.speaker.gov
+The Tax Policy Center estimates that a repatriation tax holiday would generate
+approximately $150bn in tax receipts under Trump’s plan (over 10 years) and $140bn
+1
+Note: The effective tax rates of 8.75% and 3.5% under the Blueprint are based on an allowable deduction of 75% (for
+deferred earnings held in cash/liquid assets) or 90% (for the non-cash portion), with the remainder taxed at the US
+corporate tax rate, i.e. 35%(1-75%) = 8.75% and 35%(1-90%) = 3.5%. This methodology was proposed by Dave Camp’s
+(former chairman of the House Committee on Ways and Means) Tax Reform Act of 2014.
+6 Equity Strategy Focus Point | 29 January 2017
+under the Blueprint (over eight years). The Tax Foundation similarly estimates that a
+repatriation act could drive spending amounting to $185-200bn in revenues through
+2025, which could help fund infrastructure/defense spending.
+S&P 500 companies could bring back over $1tn – mostly in Tech & Health Care
+Our FX team has written that US corporates in aggregate (including Financials) hold
+~$2tn in cash overseas, and their work suggests that nearly half is concentrated within
+20 companies. Similarly, as we discuss below, half of the repatriated cash following the
+2004 Homeland Investment Act came from just 15 companies, predominantly in Pharma
+and Tech. Our own analysis of the S&P 500 (based on filings and estimates from our
+analysts) suggests that non-Financials in the S&P hold approximately $1.2tn overseas,
+nearly three-quarters of which is in Tech and Health Care (Chart 4).
+Chart 4: Estimated overseas cash as a % of mkt. cap by sector for the S&P 500 (excludes Financials
+and Real Estate)
+Overseas cash as a % of market cap
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+Tech
+Health Care
+Industrials
+S&P 500 ex. Fins. &
+Real Estate*
+Materials
+Staples
+Cons. Disc.
+Energy
+Utilities
+Telecom
+Note: Overseas cash based on company disclosures where available, BofAML analyst estimates, and BofAML US Equity & Quant Strategy
+estimates using overseas sales as a guide where the former two were not available. For some companies, analyst estimates are for total
+accumulated overseas profits (which may not all be in cash). *S&P ex. Fins. & Real Estate cash is as a % of total S&P 500 market cap
+Source: Bloomberg, FactSet, BofA Merrill Lynch US Equity & US Quant Strategy, BofA Merrill Lynch Global Research
+Repatriation in context: a look back at 2004
+The last repatriation holiday in the US was the Homeland Investment Act (HIA) of 2004
+(part of the American Jobs Creation Act), which allowed for a one-time repatriation of
+foreign earnings by US multinationals at a reduced effective tax rate of 5.25% (vs. the
+statutory 35% rate), based on an allowable exemption of 85% of foreign earnings from
+US taxes (35% x [1-85%] = 5.25%). This deduction could be claimed in the tax year
+beginning before or after the passage date in Oct. 2004. Approximately $300bn was
+repatriated, according to the Bureau of Economic Analysis (BEA)’s U.S. International
+Transactions Accounts Data, vs. an average of $60bn over the prior five years. The IRS
+estimates 2 that 843 US companies took advantage of the act.
+Despite HIA’s intent; most repatriated cash was spent on buybacks/dividends
+Despite the U.S. Treasury Department’s guidelines that repatriated earnings should be
+spent on capital investment, R&D, M&A, and other pro-growth uses such as hiring, this
+was not ultimately the result: the National Bureau of Economic Research (NBER)
+estimates 3 that $0.92 of every $1.00 brought back was used to return cash to
+shareholders ($0.79 for buybacks and $0.15 for dividends) 4 , and that repatriation
+ultimately did not lead to a pick-up in capex, employment or R&D. In fact, a 2011 report
+by US Senate Permanent Subcommittee on Investigations 5 found that the top 15
+2
+Redmiles, Melissa: “The One Time Received Dividend Deduction”, https://www.irs.gov/pub/irssoi/08codivdeductbul.pdf
+3
+Dhammika Dharmapala, C. Fritz Foley, and Kristin J. Forbes: “Watch What I Do, Not What I Say: The Unintended
+Consequences of the Homeland Investment Act”, NBER Working Paper No. 15023, June 2009,
+http://www.nber.org/papers/w15023.pdf.
+4 The $0.79 for buybacks and $0.15 for dividends does not sum to the $0.92 cash return figure due to the
+NBER’s calculation methodology.
+5
+United States Senate Permanent Subcommittee on Investigations: “Repatriating Offshore Funds: 2004 Tax Windfall
+for Select Multinationals”, Majority Staff Report, October 11, 2011
+Equity Strategy Focus Point | 29 January 2017 7
+repatriating companies—which accounted for 52% of the total repatriated amount—
+actually reduced their US workforce and decreased their R&D spending following the
+repatriation act. The authors of the NBER study point out that cash is fungible, and
+firms were able to bypass the guidelines on how repatriated cash should be used.
+Table 7 shows the top 15 repatriating companies following the HIA, and IRS estimates
+for the proportion of repatriated cash by industry are in Table 8.
+Table 7: Top 15 repatriating companies based on the 2004 HIA
+Company
+Repatriated Amount ($bn)
+Pfizer 35.5
+Merck 15.9
+Hewlett Packard 14.5
+Johnson & Johnson 10.7
+IBM 9.5
+Schering-Plough 9.4
+Bristol Myers 9.0
+Eli Lilly 8.0
+DuPont 7.7
+Pepsi Co, Inc. 7.4
+Intel 6.2
+Coca-Cola 6.1
+Altria 6.0
+Procter & Gamble 5.8
+Oracle 3.1
+Source: Data provided by corporations in response to U.S. Senate Permanent Subcommittee on
+Investigations survey
+Table 8: Corporations Repatriating Dividends Under IRC Section 965,
+Selected Items, by Selected Major and Minor Industry of the Parent
+Corporation, Tax Years 2004-2006
+Industry
+% of Repatriated Cash Dividends
+Pharmaceutical and medicine manufacturing 29%
+Computer and electronic equipment manufacturing 19%
+Other manufacturing 8%
+Food manufacturing 6%
+Other chemical manufacturing 5%
+Information (including software publishers) 4%
+Finance, insurance, real estate, rental and leasing 4%
+Transportation equipment manufacturing 3%
+Management of companies and enterprises 3%
+All other industries 2%
+Paper manufacturing 2%
+Machinery manufacturing 2%
+Electrical equipt, appliance & component manufacturing 2%
+Other services 2%
+Basic chemical manufacturing 2%
+Fabricated metal product manufacturing 1%
+Retail trade 1%
+Wholesale trade, nonduarable goods 1%
+Wholesale trade, durable goods 1%
+Profiessional, scientific and technical services 1%
+Transportation and warehousing 0%
+Plastics and rubber products manufacturing 0%
+Primary metal manufacturing 0%
+Note: all figures are IRS estimates
+Source: IRS (https://www.irs.gov/pub/irs-soi/08codivdeductbul.pdf)
+Our data for the S&P 500 similarly suggests that share repurchases saw the biggest
+pick-up in terms of cash use from when the HIA was passed in October 2004 through
+the end of 2006. Buybacks jumped over 200% over this period, where they went from
+12% of operating cash flows to 33% of operating cash flow by the end of 2006.
+Chart 5: Capex, dividends, buybacks and M&A for the S&P 500 ex-Financials: increase from
+10/31/2004-12/31/2006 and % of Operating Cash Flow during both dates
+60%
+250%
+% of Operating cash Flow
+50%
+40%
+30%
+20%
+10%
+0%
+200%
+150%
+100%
+50%
+0%
+Capex Dividends Net Buybacks Acquisitions
+% of OCF - 10/31/2004 (LHS) % of OCF - 12/31/2006 (LHS) % increase (RHS)
+% increase 10/31/04-12/31/06
+Source: FactSet, BofA Merrill Lynch US Equity & US Quant Strategy
+(https://www.hsgac.senate.gov/subcommittees/investigations/media/new-data-show-corporateoffshore-funds-not-trapped-abroad-nearly-half-of-so-called-offshore-funds-already-in-the-united-states)
+8 Equity Strategy Focus Point | 29 January 2017
+No alpha from repatriation and multiples actually compressed
+Our analysis of the top 15 repatriating companies (from Table 7) suggests that while
+these companies initially outperformed both the S&P 500 and equal-weighted S&P 500
+from November 2004-April 2005 (by 6ppt and 5ppt, respectively), they subsequently
+underperformed during the remainder of 2005 and early 2006 (Chart 6). From the end of
+September 2004 through year-end 2006, these stocks were up 27% on average, in-line
+with the overall S&P 500, and below the equal-weighted benchmark’s 36% return. And
+multiples for these stocks compressed over the majority of this period, both on an
+absolute basis and relative to the benchmark (Chart 7).
+Chart 6: Cumulative relative performance (equal-weighted) vs. S&P 500
+and EW S&P 500 of Top 15 repatriating companies, 9/30/04-12/31/06
+Chart 7: Fwd. P/E of Top 15 repatriating companies – absolute and
+relative to the S&P 500 median fwd. P/E, 9/30/04-12/31/06
+106.0
+104.0
+102.0
+100.0
+98.0
+96.0
+94.0
+92.0
+90.0
+88.0
+86.0
+Sep/04
+Oct/04
+Nov/04
+Dec/04
+Jan/05
+Feb/05
+Mar/05
+Apr/05
+May/05
+Jun/05
+Jul/05
+Aug/05
+Sep/05
+Oct/05
+Nov/05
+Dec/05
+Jan/06
+Feb/06
+Mar/06
+Apr/06
+May/06
+Jun/06
+Jul/06
+Aug/06
+Sep/06
+Oct/06
+Nov/06
+Dec/06
+23.0
+22.0
+21.0
+20.0
+19.0
+18.0
+17.0
+16.0
+Sep/04
+Nov/04
+Jan/05
+Mar/05
+May/05
+Jul/05
+Sep/05
+Nov/05
+Jan/06
+Mar/06
+May/06
+Jul/06
+Sep/06
+Nov/06
+Top 15 Fwd P/E (LHS)
+1.50
+1.40
+1.30
+1.20
+1.10
+1.00
+0.90
+Top 15 vs. S&P 500 Top 15 vs. EW S&P 500
+Top 15 Rel Fwd P/E vs. Median S&P 500 Fwd P/E (RHS)
+Source: U.S. Senate Permanent Subcommittee on Investigations survey (for Top 15 repatriating
+stocks), FactSet, Bloomberg, BofA Merrill Lynch US Equity & US Quant Strategy
+Source: U.S. Senate Permanent Subcommittee on Investigations survey (for Top 15 repatriating
+stocks), FactSet, BofA Merrill Lynch US Equity & US Quant Strategy
+Post-repatriation cash use: will this time be different?
+Valuations, investor preference, growth & leverage ratios suggest less buybacks
+While any potential restrictions on the use of repatriated earnings are still unknown, we
+suspect that a pick-up in buybacks is likely, but that a lower proportion will be used for
+buybacks today than during the last repatriation holiday. Valuations were generally more
+attractive in 2004-2005 on most metrics (Table 9), and we’ve found that buybacks tend
+to be more rewarded when stocks are cheap (Chart 8). Additionally, the largest buybacks
+have not generated alpha for the last several years, as investors have increasingly
+agitated for companies to use their excess cash on pro-growth investments (namely
+capex.) According to BofAML’s latest Global Fund Manager Survey, 60% of investors
+want companies to increase capex spending, vs. 17% who want companies to return
+cash to shareholders (Exhibit 1). This compares to a majority of investors desiring
+companies to return cash to shareholders when the HIA was passed in late 2004.
+Companies may also feel less pressure to bolster per share metrics by reducing share
+count if top line is recovering and organic growth is finally materializing. And from a
+capital structure perspective, if leverage loses its tax benefit, given that leverage ratios
+are already high (see below) companies may be less likely to reduce their equity capital
+base, as that would marginally increase their weighted average cost of capital.
+Special dividends, pay-down of debt may be other likely uses
+Companies may also return the cash to shareholders by issuing a one-time special
+dividend: income remains in-demand, given that both interest rates and dividend payout
+ratios remain historically low. And if a repatriation tax holiday comes within the context
+of broader tax reform that includes an end to the deductibility of interest expense,
+companies may choose to pay down debt over other uses of cash, in an attempt to skew
+their balance sheets less toward debt and more toward equity (see the section on no
+Equity Strategy Focus Point | 29 January 2017 9
+interest tax shield later in this report). Deleveraging balance sheets may also be spurred
+by a continued environmwnt of rising interest. Leverage for S&P non-Financials has
+steadily been ticking up over the last few years, and, if we exclude the cash-rich
+Technology sector, leverage is approaching all-time highs (Chart 9).
+Table 9: S&P 500 valuations: October 2004 vs. today
+Metric 10/31/2004 Today (12/31/16)
+Fwd P/E 15.6 16.9
+Trailing P/E 16.7 22.0
+Median Fwd P/E 16.2 17.3
+P/B 2.8 2.9
+EV/EBITDA 11.6 11.7
+P/S 1.5 2.0
+EV/Sales 2.2 2.3
+Source: FactSet, S&P, BofA Merrill Lynch US Equity & US Quant Strategy
+Chart 8: Average Annual Return of Russell 1000 Top Quintiles by factor
+(1986-present)
+16%
+14%
+12%
+10%
+8%
+10.0%
+11.7%
+13.5%
+Benchmark High Share Repurchase INEXPENSIVE
+Companies with High
+Share Repurchase
+Note: valuation factor used to determine inexpensive companies is FCF/P
+Source: FactSet,, BofA Merrill Lynch US Equity & US Quant Strategy
+Exhibit 1: BofAML Global Fund Manager Survey (January 2017): What
+would you most like to see companies do with cash flow?
+Chart 9: Net Debt/EBITDA for the S&P 500 ex Financials (and excluding
+Energy and Tech)
+3.5
+3.0
+2.5
+2.0
+1.5
+Source: BofA Merrill Lynch Global Fund Manager Survey (17 January 2017)
+1.0
+86 88 90 92 94 96 98 00 02 04 06 08 10 12 14 16
+S&P 500 ex Financials
+S&P 500 ex Fins. & Energy
+Avg.
+S&P 500 ex Fins. & Tech
+Source: FactSet, BofA Merrill Lynch US Equity & US Quant Strategy
+Potential EPS impacts
+$8-9 (6-7%) hit to GAAP EPS from the mandatory tax on accumulated overseas
+profit
+We estimate that a tax of accumulated overseas profits of $1.2tn would result in a cash
+tax impact of $100-120bn (which may be allowed to be paid over 8-10 years), and a
+one-time hit to GAAP EPS of $8-9 (a lower $65-80bn, given that a several large
+multinationals such as AAPL already provision for US taxes on a portion of their
+overseas profit, resulting in effective US tax rates well above the US statutory rate). Our
+analysis assumes Trump’s/the Blueprint’s proposed rates of 8.75%/10%, and that all
+overseas profits are hit with this one-time tax, as suggested by their plans. See Table
+10.
+Note that our estimate of ~$1.2tn of cumulative profits overseas is based on estimates
+from us, our fundamental analysts, and company filings, where in many cases only
+overseas cash but not other indefinitely invested earnings are disclosed/estimated.
+Thus, the tax on these earnings could be slightly higher, though the Blueprint would tax
+earnings not held in cash at a lower 3.5% rate. (We conservatively assume our estimated
+$1.2tn is all cash and use the higher 8.75% rate under the Blueprint and 10% under
+Trump’s plan in our below analysis).
+10 Equity Strategy Focus Point | 29 January 2017
+Table 10: Tax impact from taxation of accumulated overseas profits at 10%/8.75% rates (assuming
+mandatory tax i.e. all overseas profits are taxed)
+Cash tax impact ($bn) One-time tax hit to GAAP earnings
+Sector Trump (10%) Blueprint (8.75%) Trump (10%) Blueprint (8.75%)
+Consumer Discretionary 7.5 6.5 7.5 6.5
+Consumer Staples 6.8 5.9 6.8 5.9
+Energy 3.9 3.4 3.9 3.4
+Health Care 18.7 16.4 18.7 16.4
+Industrials 12.7 11.1 12.7 11.1
+Information Technology 64.7 56.6 26.0 22.7
+Materials 2.4 2.1 2.4 2.1
+Telecommunication Services 0.1 0.1 0.1 0.1
+Utilities 0.2 0.2 0.2 0.2
+S&P 500 ex. Financials & Real Estate 117.0 102.4 78.3 68.5
+S&P 500 GAAP EPS impact ($9) ($8)
+Source: FactSet, Bloomberg, BofAML Global Research estimates, BofA Merrill Lynch US Equity & US Quant Strategy
+We estimate share buybacks add $4 (or as high as $6) to EPS (GAAP & non-GAAP)
+If the full $1.2tn that we estimate for overseas cash for the S&P 500 ex. Financials &
+Real Estate is brought back (given the tax is mandatory and will be paid either way) and
+50% is used on buybacks (~3% of S&P 500 market cap), this could add ~$4 to S&P 500
+EPS. And if 80% (~4% of market cap) were used on buybacks, similar to NBER’s
+estimate of what occurred following the 2004 tax holiday, this could add $6 to EPS.
+(The difference between the Trump and Blueprint tax rates is small, leading to only
+cents in index EPS.) If one assumed companies only brought half of their offshore cash
+home immediately, even though the full amount was taxed, these benefits would be cut
+in half.
+Note that buyback programs may span several years, which could spread out some of
+the EPS benefit below. But if one assumes a buyback is fully executed in Year 1, this
+provides a one-time boost to EPS growth and a recurring benefit to future EPS given a
+permanently lower share count.
+Table 11: Impact to S&P 500 EPS based on various buyback scenarios
+% used for buybacks: 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Trump (10% tax) 1% 1% 2% 2% 3% 3% 4% 4% 5% 6%
+Blueprint (8.75% tax) 1% 1% 2% 2% 3% 3% 4% 5% 5% 6%
+Benefit to 2017 EPS: $1 $1 $2 $3 $4 $4 $5 $6 $7 $7
+Benefit to 2018 EPS: $1 $1 $2 $3 $4 $5 $5 $6 $7 $8
+Assumes 100% of overseas cash is brought back (given tax is mandatory)
+Source: FactSet, Bloomberg, BofA Merrill Lynch Global Research estimates, BofA Merrill Lynch US Equity & US Quant Strategy
+Below we calculate the potential impact to sectors’ EPS under various buyback
+scenarios. Differences are small under the Trump vs. Blueprint tax rates.
+Table 12: Impact to sector EPS from various buyback scenarios under
+Trump (10% tax rate)
+% used for buybacks:
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Cons. Disc. 0% 1% 1% 1% 1% 2% 2% 2% 3% 3%
+Staples 0% 1% 1% 1% 2% 2% 2% 3% 3% 3%
+Energy 0% 0% 1% 1% 1% 1% 2% 2% 2% 2%
+Health Care 1% 1% 2% 3% 3% 4% 5% 5% 6% 7%
+Industrials 1% 1% 2% 2% 3% 4% 4% 5% 5% 6%
+Tech 1% 3% 4% 6% 7% 9% 11% 13% 14% 16%
+Materials 0% 1% 1% 2% 2% 2% 3% 3% 4% 4%
+Telecom 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%
+Utilities 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%
+Assumes 100% of overseas cash is brought back (given tax is mandatory)
+Source: FactSet, Bloomberg, BofA Merrill Lynch Global Research estimates, BofA Merrill Lynch US
+Equity & US Quant Strategy
+Table 13: Impact to sector EPS from various buyback scenarios under
+Blueprint (8.75% tax rate)
+% used for buybacks:
+10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Cons. Disc. 0% 1% 1% 1% 1% 2% 2% 2% 3% 3%
+Staples 0% 1% 1% 1% 2% 2% 2% 3% 3% 3%
+Energy 0% 0% 1% 1% 1% 1% 2% 2% 2% 3%
+Health Care 1% 1% 2% 3% 3% 4% 5% 5% 6% 7%
+Industrials 1% 1% 2% 2% 3% 4% 4% 5% 5% 6%
+Tech 1% 3% 4% 6% 8% 9% 11% 13% 15% 16%
+Materials 0% 1% 1% 2% 2% 2% 3% 3% 4% 4%
+Telecom 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%
+Utilities 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%
+Assumes 100% of overseas cash is brought back (given tax is mandatory)
+Source: FactSet, Bloomberg, BofA Merrill Lynch Global Research estimates, BofA Merrill Lynch US
+Equity & US Quant Strategy
+Equity Strategy Focus Point | 29 January 2017 11
+Cross-asset implications of repatriation
+Repatriation should spur USD-buying – up to 40% may be non-USD denominated
+While few companies disclose the currency composition of their offshore cash, our FX
+team estimates that 60-75% is already in USD while 25-40% is non-dollar-denominated.
+(If we extrapolate based on the S&P 500’s geographic revenue exposure, the largest
+proportion could be in Europe, followed by emerging Asia.) This may result in upward
+pressure on the USD (which they estimate could amount to $250-$400bn if half of all
+offshore cash, which they estimate at ~$2tn, was repatriated). Their analysis of the
+EUR-USD during the last repatriation holiday suggests an “announcement effect” is
+likely, as the dollar strengthened ahead of the bulk of the actual repatriation flows.
+Repatriation could put upward pressure on bank funding costs
+Our rates team’s analysis of some of the largest multinationals with offshore cash
+suggests ~70% of cash is invested in securities with maturities greater than one year,
+with the remaining 30% having shorter maturities. See table below. They believe
+repatriation could put upward pressure on bank funding costs as firms reduce their
+holdings in these short-term investments. According to Crane Data on offshore money
+fund holdings, our rates team cites that $161bn of offshore funds are held in commercial
+paper and CDs, of which the majority are from financial institutions with Japan, France and
+Canada the largest issuers.
+Table 14: Offshore holdings and investment allocation for select firms
+(see footnote) per BofAML Rates team (as published 12/9/2016)
+Allocation*
+Cash & MMF 8%
+CP & CD 5%
+Tsy & Agy 35%
+Corporate 36%
+Non-US Sov 4%
+Other 12%
+Maturity of securities holdings**
+<1y 28%
+1-5y 59%
+5-10y 7%
+>10y 6%
+*Allocation = weighted avg of holdings across all company investments for AAPL, MSFT, CSCO, ORCL,
+GOOG, MRK, INTC and PFE. **Maturities = weighted avg. of holdings from MSFT, CSCO, GOOG, INTC.
+Source: BofAML Global Research, company 10Q’s
+Exhibit 2: Offshore money fund USD asset holdings ($bn) as of 9/30/16
+Source: Crane data, BofA Merrill Lynch Global Research
+Potential beneficiaries: See Table 20 for a screen of companies with high (>10%)
+overseas cash to market capitalization ratios which could potentially benefit from
+repatriation.
+Border adjustment tax analysis
+A new tax policy outlined in the Blueprint proposal that has been getting a lot of
+attention recently is the border adjustment tax, or the application of border adjustments
+to a company’s imports and exports. While Trump has described the proposal as being
+“too complicated,” it is a key component of the Blueprint plan and should not be
+ignored. Additionally, White House press secretary Sean Spicer’s recent reference to
+“…the plan taking shape right now, using comprehensive tax reform as a means to tax
+imports from countries…” could be a sign that Trump is not as against the proposal his
+other comments would indicate.
+12 Equity Strategy Focus Point | 29 January 2017
+This policy would effectively result in the tax authorities recognizing all sales that take
+place in the US (regardless of where they are produced) and all the domestic costs
+incurred to produce goods and services for customers (regardless of where the sale
+takes place). As a result, net importers (such as many retailers) would suffer, as they
+would have to pay taxes on their domestic sales without being able to deduct a
+significant portion of their costs of production. Conversely, net exporters (companies
+with much of their production in the US but sales outside of the US) would stand to
+benefit from not having to pay taxes on their foreign sales while being able to deduct a
+significant proportion of production costs (Exhibit 3). Purely domestic companies would
+be unaffected.
+Exhibit 3: Illustration of border adjustment treatment of US corporate taxation
+US
+Sold in the US:
+Recognize sales
+Made in the US:
+Deduct costs
+Sold overseas:
+Ignore sales
+Non-US
+Sold overseas:
+Ignore sales
+Made in the US:
+Deduct costs
+Sold in the US:
+Recognize sales
+Made overseas:
+Made overseas: Can’t deduct costs
+Can’t deduct costs
+Source: BofA Merrill Lynch US Equity & US Quant Strategy
+Even if border adjustments are enacted, there is significant uncertainty around
+implementation details. For this analysis, we focus on the first order impact of border
+adjustments, but we recognize there would be significant second order impacts on the
+pricing of products, pricing within the supply chain, foreign exchange rates as well as
+foreign policy reactions. (We discuss many of these second order impacts later in this
+report.) For the current exercise, we also ignored the cost of services as the
+implementation of these rules would be more complicated. See the Methodology
+section for more details.
+We estimate that at a 20% tax rate, border adjustments would detract $5-6 from 2018
+EPS, with nearly 80% of the drag coming from the Consumer Discretionary and
+Consumer Staples sectors (roughly evenly split). This impact includes a 50% haircut to
+account for offsets from alternate sourcing, currency rates and pricing power. On one
+hand, we may be drastically underestimating the impact because we have not included
+the second order impacts on the supply chain. For example, many retailers source the
+bulk of their goods from domestic suppliers, who source their goods from overseas
+suppliers. So while the original retailer may not feel the direct tax hit from importing
+goods, the supplier that took the tax hit would likely pass along a significant portion of
+this via a higher cost. On the other hand, the supplier or the retailer could look for
+alternate domestic sources for those products, but it would largely depend on whether
+the cost differential of production between the US and overseas exceeded the border
+adjustment tax. Some key components in determining the cost differential are the
+foreign exchange rates (more on this below) and labor costs. In the end, the net impact
+of the border adjustment taxes will be driven by a complex interplay between corporate
+tax rates, pricing power, foreign exchange moves, foreign versus domestic availability
+and cost differentials.
+Equity Strategy Focus Point | 29 January 2017 13
+Chart 10: Sector EPS impact from border
+adjustment tax (15% rate)
+Staples -23%
+Discretionary -21%
+Energy
+-8%
+Health Care
+-4%
+Info Tech
+-3%
+Utilities
+0%
+Telecom
+0%
+Financials
+0%
+Real Estate
+0%
+Industrials
+1%
+Materials
+3%
+-30% -20% -10% 0% 10%
+15% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Chart 11: Sector EPS impact from border
+adjustment tax (20% rate)
+Staples -31%
+Discretionary -28%
+Energy
+-10%
+Health Care
+-5%
+Info Tech
+-4%
+Utilities
+0%
+Telecom
+0%
+Financials
+0%
+Real Estate
+0%
+Industrials
+1%
+Materials
+4%
+-40% -30% -20% -10% 0% 10%
+20% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Chart 12: Sector EPS impact from border
+adjustment tax (25% rate)
+Staples -38%
+Discretionary -35%
+Energy
+-13%
+Health Care
+-6%
+Info Tech
+-5%
+Utilities
+0%
+Telecom
+0%
+Financials
+0%
+Real Estate
+0%
+Industrials
+2%
+Materials
+5%
+-50% -40% -30% -20% -10% 0% 10%
+25% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Offsetting BAT with a little math and some price increases
+A company could fully offset the border adjustment tax by raising prices such that the
+after-tax increase in sales would exceed the drag from the lost deduction of costs. All
+else equal, the break-even price increase would be equivalent to the cost of goods sold
+as a % of sales multiplied by net % imported and the tax to after-tax ratio, which at a
+20% rate is 0.25 (20%/80%).
+As an example, a company with a 25% gross margin that imports 30% of its goods
+would need to increase its prices by of 5-6% to offset the border adjustment tax, all
+else equal.
+Offsetting BAT with FX
+Some of the increase in the after-tax cost of imported goods can also be offset by a
+strengthening dollar. For example, companies producing goods in Mexico, which stand to
+see a 25% increase in the cost of imported goods, should see the cost increase partially
+offset by the 13% devaluation of the Mexican Peso against the US dollar since the
+election. The net cost increase is a more digestible 9%, especially when you also
+consider that the Peso has devalued nearly 30% since its 2013 peak. While it may offer
+little consolation to corporates, the US Dollar Index is up over 25% since mid-2014, so
+the border adjustment tax would presumably act as a reversal of the lowered cost of
+overseas production over that period.
+Border adjustment sensitivity analysis
+The table below illustrates how the change in the tax rate and the application of the
+border adjustment tax would impact the domestic earnings of a hypothetical company
+with sensitivity to different tax rates and net export assumptions. We assumed the
+company has a 40% gross margin, operating expenses are 20% of sales and an initial
+tax rate of 35%. As you would expect, the biggest benefit would accrue to companies
+with significant net exports at a high domestic tax rate (bigger tax shield) and the most
+negative impact to significant net imports at a high domestic tax rate (higher taxes on
+higher taxable income).
+14 Equity Strategy Focus Point | 29 January 2017
+Table 15: Sensitivity of a company’s domestic earnings
+Net exports (% of COGS)
+Tax rate -100% -50% 0% 50% 100%*
+15% -38% -4% 31% 65% 100%
+18% -54% -13% 27% 67% 108%
+20% -69% -23% 23% 69% 115%
+23% -85% -33% 19% 71% 123%
+25% -100% -42% 15% 73% 131%
+28% -115% -52% 12% 75% 138%
+30% -131% -62% 8% 77% 146%
+33% -146% -71% 4% 79% 154%
+35% -162% -81% 0% 81% 162%
+Source: BofAML US Equity & Quant Strategy
+*We note that it is unlikely that a company can be a 100% net exporter and have any domestic earnings to begin with.
+Note: We assume a company with a 40% gross margin, operating expenses are 20% of sales and an initial tax rate of 35%
+Industry screen: Below we highlight industries which could potentially
+benefit most / be hurt most by the BAT.
+Chart 13: Industry EPS impact from border
+adjustment tax (15% rate)
+-100% -50% 0% 50%
+Industrial Conglomerates
+Life Sciences Tools & Svcs
+Chemicals
+Household Products
+Machinery
+Health Care Technology
+Electrical Equipment
+Media
+IT Svcs
+Energy Equipment & Svcs
+Biotechnology
+-1%
+Semiconductors & Sem Equip
+-2%
+Software
+-2%
+Pharmaceuticals
+-2%
+Trading Cos & Distributors
+-3%
+Health Care Equipment &…
+-4%
+Metals & Mining
+-5%
+Building Products
+-5%
+Electronic Equip Instr &…
+-6%
+Construction Materials
+-6%
+Oil Gas & Consumable Fuels
+-9%
+Communications Equipment
+-9%
+Tech Hardware
+-9%
+Health Care Providers & Svcs
+-11%
+Household Durables
+-12%
+Auto Components
+-20%
+Leisure Products -30%
+Specialty Retail -33%
+Distributors -38%
+Textiles Apparel & Luxury Goods -39%
+Internet & Direct Mktg Retail -41%
+Automobiles -41%
+Multiline Retail -49%
+Food & Staples Retailing -74%
+5%
+4%
+4%
+3%
+3%
+2%
+2%
+2%
+1%
+1%
+Chart 14: Industry EPS impact from border
+adjustment tax (20% rate)
+-150% -100% -50% 0% 50%
+Industrial Conglomerates
+Chemicals
+Life Sciences Tools & Svcs
+Household Products
+Machinery
+Health Care Technology
+Electrical Equipment
+Media
+IT Svcs
+Energy Equipment & Svcs
+Biotechnology
+-1%
+Semiconductors & Sem Equip
+-2%
+Software
+-3%
+Pharmaceuticals
+-3%
+Trading Cos & Distributors
+-3%
+Health Care Equipment &…
+-5%
+Metals & Mining
+-7%
+Building Products
+-7%
+Electronic Equip Instr &…
+-8%
+Construction Materials
+-9%
+Oil Gas & Consumable Fuels
+-12%
+Tech Hardware
+-12%
+Communications Equipment
+-12%
+Health Care Providers & Svcs
+-14%
+Household Durables
+-16%
+Auto Components
+-21%
+Leisure Products
+-40%
+Specialty Retail
+-45%
+Distributors
+-51%
+Textiles Apparel & Luxury Goods
+-52%
+Internet & Direct Mktg Retail -54%
+Automobiles -55%
+Multiline Retail -65%
+Food & Staples Retailing -99%
+7%
+5%
+5%
+4%
+4%
+3%
+3%
+2%
+2%
+1%
+Chart 15: Industry EPS impact from border
+adjustment tax (25% rate)
+Industrial Conglomerates
+Chemicals
+Life Sciences Tools & Svcs
+Machinery
+Household Products
+Health Care Technology
+Electrical Equipment
+Media
+IT Svcs
+Energy Equipment & Svcs
+Biotechnology
+Semiconductors & Sem Equip
+Software
+Pharmaceuticals
+Trading Cos & Distributors
+Health Care Equipment &…
+Electronic Equip Instr &…
+Metals & Mining
+Building Products
+Construction Materials
+Tech Hardware
+Oil Gas & Consumable Fuels
+Communications Equipment
+Health Care Providers & Svcs
+Household Durables
+Auto Components
+Leisure Products
+Specialty Retail
+Distributors
+Textiles Apparel & Luxury Goods
+Internet & Direct Mktg Retail
+Automobiles
+Multiline Retail
+Food & Staples Retailing
+-200% -150% -100% -50% 0% 50%
+-2%
+-3%
+-3%
+-4%
+-4%
+-6%
+-8%
+-9%
+-9%
+-11%
+-14%
+-15%
+-15%
+-18%
+-20%
+-21%
+-50%
+-56%
+-64%
+-65%
+-68%
+-69%
+-81%
+-124%
+8%
+6%
+6%
+5%
+5%
+4%
+4%
+3%
+2%
+2%
+15% tax rate
+20% tax rate
+25% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+Closing loopholes
+Both Trump and the Blueprint proposal suggest getting rid of special-interest
+deductions and credits that distort capital allocation decisions. The table below lists the
+25 biggest US corporate tax breaks. The #1 and #3 “tax breaks” are the deferral of
+foreign income and certain foreign financial income, but these would become irrelevant
+if the US moves to a territorial tax system, as is being proposed by the Blueprint plan.
+Exempting corporations from paying US taxes on foreign income would put the US in
+Equity Strategy Focus Point | 29 January 2017 15
+line with the rest of the world on this issue. Similarly, the accelerated depreciation of
+machinery & equipment would become irrelevant due to the move toward taxation
+based on business cash flow and the immediate write-off of capital expenditures. Once
+the depreciation from legacy investments has run off, then depreciation should become
+irrelevant for tax purposes. We also highlight the deduction for US production activities
+(section 199) due to it being specifically highlighted by the Blueprint proposal as no
+longer being necessary under the new tax policies. Both the Blueprint and Trump have
+noted that they would likely maintain the Research & Development related tax credits.
+Table 16: Top 25 US corporate tax breaks (2016)
+Government tax expense
+Category/Industry
+2016
+($mn)
+Deferral of income from controlled foreign corporations International affairs 102,100
+Accelerated depreciation of machinery & equipment Commerce 28,570
+Deferred taxes for financial firms on certain income earned overseas International affairs 15,320
+Deduction for US production activities Commerce 12,080
+Credit for increasing research activities General science, space, and technology 9,580
+Exclusion of interest on public purpose State & local bonds General purpose fiscal assistance 8,400
+Credit for low-income housing investments Housing 8,200
+Expensing of research & experimentation expenditures General science, space, and technology 6,350
+Deferral of gains from like-kind exchanges Commerce 5,720
+Inventory property sales source rules exception International affairs 4,270
+Graduated corporation income tax rate Commerce 3,300
+Exemption of credit union income Financial institutions and insurance 2,310
+Special ESOP rules Income security 1,910
+Deductibility of charitable contributions, other than education & health Training, employment, and social services 1,720
+Tax credit for orphan drug research Health 1,700
+Exclusion & deferral of policyholder income earned on life insurance & annuity contracts Financial institutions and insurance 1,470
+New markets tax credit Community and regional development 1,260
+Energy production credit Energy 1,050
+Exclusion of interest on hospital construction bonds Health 1,010
+Energy investment credit Energy 890
+Work opportunity tax credit Training, employment, and social services 830
+Deductibility of charitable contributions (education) Education 820
+Tax exemption of insurance income earned by tax-exempt organizations Financial institutions and insurance 690
+Exclusion of interest on bonds for private nonprofit educational facilities Education 660
+Special Blue Cross/Blue Shield tax benefits Health 630
+Source: BofAML US Equity & Quant Strategy, US Department of Treasury
+Immediate capex expensing should provide some initial cash tax benefits
+The shift to the immediate expensing of capital expenditures should provide a
+significant near-term reduction in cash taxes as companies benefit from the ongoing
+reduction of taxable income from the depreciation of legacy assets combined with the
+full expensing of new investments. As the depreciation of legacy assets rolls off, the tax
+benefit would become more modest. Keep in mind that, for tax reporting, many
+companies already take advantage of the accelerated depreciation schedules discussed
+above. The ongoing benefit of capex expensing derives from the deferral in the timing
+of tax payments.
+Chart 16: S&P 500 capital expenditure to depreciation & amortization ratio
+1.6
+1.5
+1.4
+1.3
+1.2
+1.1
+1.0
+'86 '87 '88 '89 '90 '91 '92 '93 '94 '95 '96 '97 '99 '00 '01 '02 '03 '04 '05 '06 '07 '08 '09 '10 '12 '13 '14 '15 '16
+Capex/D&A
+Avg.
+Source: BofAML US Equity & Quant Strategy, S&P, Compustat
+16 Equity Strategy Focus Point | 29 January 2017
+No interest tax shield
+Another key offset to the lower corporate tax rate is the proposed ending of the
+deduction of net interest expense. We assume that this rule would apply to new debt
+and that existing debt would be grandfathered. This tax shield removal would increase
+the cost of debt by an incremental 25% (not to mention the 100bp+ rise in long-term
+interest rates seen since the summer of 2016). In the table below, we illustrate the
+impact on S&P 500 corporate profits. We estimate that over time, the removal of the
+interest rate deduction would detract about 4%, or $4-5 from S&P 500 2018 EPS,
+although the initial impact would be less significant given 70-90% of the debt is long
+term.
+Table 17: Estimated EPS impact from the removal of interest tax shield
+S&P 500 Non-Financials
+Net Debt ($mn) 2,899
+Net Debt/EBITDA 1.74
+New tax rate 20%
+After-tax interest rate [interest rate w/ no tax shield * (1 - new tax rate)] 4.2%
+Interest rate w/ no tax shield [interest expense / net debt] 5.2%
+Change in cost of debt [(interest rate w/ no tax shield / after-tax interest rate) -1] 25%
+Potential profit impact (%) [(interest rate w/) no tax shield - after-tax interest rate) * (net debt / net income)] 4%
+Potential impact on 2018 EPS $4-5
+Source: BofAML US Equity & US Quant Strategy, S&P, FactSet
+Many investors assume that interest deductions would likely apply only to new debt, and
+if this were the case, the drag would be gradual for the overall S&P 500 as debt matures
+and is refinanced. Companies have shifted the composition of their debt toward longer
+maturities and fixed rates. We estimate an average S&P 500 debt maturity of over eight
+years, with just one-third maturing within the next three years. The grandfathering of
+existing debt is a reasonable assumption, but not a sure thing, in our view. There is a
+possibility that legislators apply it to all debt on the grounds that most companies are
+expected to be net beneficiaries of comprehensive tax reform.
+There is also a possibility that this policy is phased in over a number of years, with
+certain portions of the existing debt losing their interest deductibility over time.
+Chart 17: Russell 1000 debt by type and
+maturity - 2007
+ST
+Floating,
+23.3%
+LT
+Floating,
+19.7%
+ST
+Fixed,
+2.8%
+Source: FactSet, BofAML US Equity & US Quant Strategy
+LT
+Fixed,
+54.2%
+Chart 18: Russell 1000 debt by type and
+maturity - October 2016
+ST
+Floating,
+15.3%
+LT
+Floating,
+14.0%
+ST
+Fixed,
+4.1%
+LT
+Fixed,
+66.6%
+Source: FactSet, BofAML US Equity & US Quant Strategy
+Table 18: Russell 1000 estimated weighted
+average debt maturity (ex-Financials & REITs)
+Sector Estimated Wtd Avg Maturity (years)
+Cons. Disc. 7.0
+Cons. Staples 8.1
+Energy 8.4
+Health Care 8.0
+Industrials 8.0
+Materials 7.4
+Technology 7.4
+Telecom 10.8
+Utilities 12.0
+Total 8.3
+Source: FactSet, BofAML US Equity & US Quant Strategy
+The most negatively impacted companies would clearly be the ones with the most
+leverage, in addition to those with depressed earnings (Metals & Mining, Energy, etc.).
+While the Utilities sector has a lot of leverage, there would likely be a pass through to
+customers in determining their allowed rate increase.
+Equity Strategy Focus Point | 29 January 2017 17
+Chart 19: Sector EPS impact from ending
+interest deductibility (15% rate; ex- fin, utes)
+Energy -6.2%
+Telecom -5.9%
+Materials
+Discretionary
+Industrials
+Real Estate
+Staples
+Health Care
+Info Tech
+-8% -6% -4% -2% 0%
+-3.5%
+-3.1%
+-2.7%
+-2.8%
+-2.2%
+-1.7%
+-0.9%
+Chart 20: Sector EPS impact from ending
+interest deductibility (20% rate; ex- fin, utes)
+Energy
+Telecom
+Materials
+Discretionary
+Industrials
+Real Estate
+Staples
+Health Care
+Info Tech
+-12%-10%-8% -6% -4% -2% 0%
+-8.2%
+-7.9%
+-4.7%
+-4.1%
+-3.5%
+-3.4%
+-2.9%
+-2.3%
+-1.1%
+Chart 21: Sector EPS impact from ending
+interest deductibility (25% rate; ex- fin, utes)
+Energy
+Telecom
+Materials
+Discretionary
+Industrials
+Real Estate
+Staples
+Health Care
+Info Tech
+-15% -10% -5% 0%
+-10.2%
+-9.6%
+-5.7%
+-5.1%
+-4.3%
+-3.8%
+-3.6%
+-2.7%
+-1.3%
+15% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+20% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+25% tax rate
+Source: BofAML US Equity & Quant Strategy, FactSet, S&P
+How will levered companies react?
+Companies will likely grow comfortable with a smaller amount of debt, retain more
+earnings, use less cash for dividends and share buybacks, and potentially draw down
+cash if they have it. If a tax holiday is also granted, that might offset the loss of benefit.
+Companies that regularly issue long-term debt may choose to reduce that burden to
+offset the tax change, and find those funds elsewhere. We find it unlikely that the
+change would result in a surge in equity issuance, unless the change applies to existing
+debt, which is unlikely in our view. While this change should be taken as a line item in a
+wholistic bill, there are victims and beneficiaries here. Corporations that have high
+leverage ratios, low retained earnings, high interest expense to earnings ratios, no cash
+overseas offset from repatriation, and those that have recurring long-term debt needs
+may be most at risk.
+Other implications
+While some argue that companies will try to raise outsized amounts of investment grade
+capital ahead of the deadline to lock in funding with the tax benefit before the loophole
+is closed, there is a reasonable chance that a provision is included in the legislation that
+would treat such debt as new debt. In our Investment Grade Strategist Hans Mikkelsen’s
+view, demand for IG credit could be materially reduced over time. The tax change could
+also dampen Leverage Buyout (LBO) activity, according to our High Yield strategist
+Michael Contopoulos, where these funds are already struggling to generate high returns
+– note that LBO funds are currently sitting on close to $1tn in cash looking for a home,
+according to Preqin’s third quarter update.
+Who could be hurt: See Table 21 for a screen of stocks with high net interest
+expense as a percentage of net income which could potentially be hurt most by an
+end to the deductibility of interest expense.
+18 Equity Strategy Focus Point | 29 January 2017
+Tax reform screens
+Lower US corporate tax rate: potential beneficiaries
+Below we provide a screen of domestically-oriented S&P 500 companies (<10% foreign
+sales exposure) with a high (>35%) median 5-year effective tax rate which could
+potentially benefit most from a lower US corporate tax rate.
+Table 19: S&P 500 companies with high (>35%) median 5-year effective tax rates and low (<10%) foreign sales
+Ticker Company Name Sector Industry
+Foreign Sales
+%
+5-Year Median Effective Tax
+Rate %
+CHTR Charter Communications, Inc. Class A Consumer Discretionary Media 0% 445.3
+DVN Devon Energy Corporation Energy Oil Gas & Consumable Fuels 8% 58.3
+REGN Regeneron Pharmaceuticals, Inc. Health Care Biotechnology 0% 44.3
+COG Cabot Oil & Gas Corporation Energy Oil Gas & Consumable Fuels 0% 43.5
+EOG EOG Resources, Inc. Energy Oil Gas & Consumable Fuels 5% 42.3
+RRC Range Resources Corporation Energy Oil Gas & Consumable Fuels 0% 41.9
+CNC Centene Corporation Health Care Health Care Providers & Services 0% 41.4
+ABC AmerisourceBergen Corporation Health Care Health Care Providers & Services 0% 40.2
+CNP CenterPoint Energy, Inc. Utilities Multi-Utilities 0% 39.7
+AWK American Water Works Company, Inc. Utilities Water Utilities 0% 39.4
+SWN Southwestern Energy Company Energy Oil Gas & Consumable Fuels 0% 39.3
+CVS CVS Health Corporation Consumer Staples Food & Staples Retailing 0% 39.3
+WFM Whole Foods Market, Inc. Consumer Staples Food & Staples Retailing 3% 38.7
+CMG Chipotle Mexican Grill, Inc. Consumer Discretionary Hotels Restaurants & Leisure 1% 38.5
+JWN Nordstrom, Inc. Consumer Discretionary Multiline Retail 0% 38.5
+AN AutoNation, Inc. Consumer Discretionary Specialty Retail 0% 38.5
+TROW T. Rowe Price Group Financials Capital Markets 0% 38.4
+KMX CarMax, Inc. Consumer Discretionary Specialty Retail 0% 38.2
+PEG Public Service Enterprise Group Inc Utilities Multi-Utilities 0% 38.2
+JBHT J.B. Hunt Transport Services, Inc. Industrials Road & Rail 0% 38.1
+ULTA Ulta Salon, Cosmetics & Fragrance, Inc. Consumer Discretionary Specialty Retail 0% 38.1
+CHK Chesapeake Energy Corporation Energy Oil Gas & Consumable Fuels 0% 38.0
+AEE Ameren Corporation Utilities Multi-Utilities 0% 37.9
+ALK Alaska Air Group, Inc. Industrials Airlines 0% 37.9
+CTL CenturyLink, Inc. Telecommunication Services Diversified Telecommunication Services 0% 37.8
+UNP Union Pacific Corporation Industrials Road & Rail 0% 37.7
+ROST Ross Stores, Inc. Consumer Discretionary Specialty Retail 0% 37.7
+LOW Lowe's Companies, Inc. Consumer Discretionary Specialty Retail 8% 37.6
+BBY Best Buy Co., Inc. Consumer Discretionary Specialty Retail 8% 37.5
+AAP Advance Auto Parts, Inc. Consumer Discretionary Specialty Retail 0% 37.5
+LUV Southwest Airlines Co. Industrials Airlines 0% 37.4
+SYF Synchrony Financial Financials Consumer Finance 0% 37.2
+DLTR Dollar Tree, Inc. Consumer Discretionary Multiline Retail 8% 37.2
+SCHW Charles Schwab Corporation Financials Capital Markets 0% 37.2
+NAVI Navient Corp Financials Consumer Finance 0% 37.2
+CAH Cardinal Health, Inc. Health Care Health Care Providers & Services 4% 37.1
+CXO Concho Resources Inc. Energy Oil Gas & Consumable Fuels 0% 37.1
+DFS Discover Financial Services Financials Consumer Finance 0% 37.1
+DGX Quest Diagnostics Incorporated Health Care Health Care Providers & Services 2% 37.1
+CSRA CSRA, Inc. Information Technology IT Services 0% 37.1
+DG Dollar General Corporation Consumer Discretionary Multiline Retail 0% 37.0
+XEC Cimarex Energy Co. Energy Oil Gas & Consumable Fuels 0% 37.0
+WEC WEC Energy Group Inc Utilities Multi-Utilities 0% 36.9
+CSX CSX Corporation Industrials Road & Rail 0% 36.9
+CTAS Cintas Corporation Industrials Commercial Services & Supplies 9% 36.9
+ORLY O'Reilly Automotive, Inc. Consumer Discretionary Specialty Retail 0% 36.7
+KSS Kohl's Corporation Consumer Discretionary Multiline Retail 0% 36.7
+BBBY Bed Bath & Beyond Inc. Consumer Discretionary Specialty Retail 0% 36.6
+TSCO Tractor Supply Company Consumer Discretionary Specialty Retail 0% 36.6
+HUM Humana Inc. Health Care Health Care Providers & Services 0% 36.5
+TSO Tesoro Corporation Energy Oil Gas & Consumable Fuels 0% 36.5
+ESRX Express Scripts Holding Company Health Care Health Care Providers & Services 0% 36.4
+HD Home Depot, Inc. Consumer Discretionary Specialty Retail 9% 36.4
+CME CME Group Inc. Class A Financials Capital Markets 0% 36.4
+UNH UnitedHealth Group Incorporated Health Care Health Care Providers & Services 4% 36.4
+PAYX Paychex, Inc. Information Technology IT Services 1% 36.3
+NSC Norfolk Southern Corporation Industrials Road & Rail 0% 36.2
+M Macy's Inc Consumer Discretionary Multiline Retail 0% 36.2
+RAI Reynolds American Inc. Consumer Staples Tobacco 5% 36.1
+CMCSA Comcast Corporation Class A Consumer Discretionary Media 8% 35.8
+AZO AutoZone, Inc. Consumer Discretionary Specialty Retail 6% 35.7
+UHS Universal Health Services, Inc. Class B Health Care Health Care Providers & Services 0% 35.5
+AET Aetna Inc. Health Care Health Care Providers & Services 2% 35.5
+DVA DaVita Inc. Health Care Health Care Providers & Services 0% 35.4
+Equity Strategy Focus Point | 29 January 2017 19
+Table 19: S&P 500 companies with high (>35%) median 5-year effective tax rates and low (<10%) foreign sales
+Ticker Company Name Sector Industry
+Foreign Sales
+%
+5-Year Median Effective Tax
+Rate %
+FE FirstEnergy Corp. Utilities Electric Utilities 0% 35.3
+ZION Zions Bancorporation Financials Banks 0% 35.2
+MO Altria Group, Inc. Consumer Staples Tobacco 0% 35.1
+EXC Exelon Corporation Utilities Electric Utilities 0% 35.1
+RSG Republic Services, Inc. Industrials Commercial Services & Supplies 0% 35.0
+Note: This screen is not a recommended list either individually or as a group of stocks. Investors should consider the fundamentals of the companies and their own individual circumstances/objective before making any
+investment decisions.
+Source: FactSet, BofA Merrill Lynch US Equity & US Quant Strategy
+Repatriation: potential beneficiaries
+Below we provide a screen of S&P 500 companies (excluding Financials and Real Estate)
+with high (>10%) overseas cash as a percent of market cap, which could potentially
+benefit most from repatriation.
+Table 20: S&P 500 (ex. Financials & Real Estate) companies with the highest overseas cash* as a % of their market cap (>10%)
+Ticker Company Sector Industry Overseas Cash ($mn) Overseas Cash as a % of Mkt Cap
+WU Western Union Company Information Technology IT Services 6,100 62%
+FSLR First Solar, Inc. Information Technology Semiconductors & Semiconductor 1,500 59%
+NWS News Corporation Class B Consumer Discretionary Media 813 54%
+ORCL Oracle Corporation Information Technology Software 48,200 40%
+CSCO Cisco Systems, Inc. Information Technology Communications Equipment 59,800 39%
+NTAP NetApp, Inc. Information Technology Technology Hardware, Storage & 4,000 39%
+QCOM QUALCOMM Incorporated Information Technology Semiconductors & Semiconductor 29,600 36%
+AAPL Apple Inc. Information Technology Technology Hardware, Storage & 216,000 34%
+JNPR Juniper Networks, Inc. Information Technology Communications Equipment 3,167 30%
+SYMC Symantec Corporation Information Technology Software 4,900 29%
+PVH PVH Corp. Consumer Discretionary Textiles, Apparel & Luxury Goo 2,100 28%
+AMGN Amgen Inc. Health Care Biotechnology 29,000 26%
+GE General Electric Company Industrials Industrial Conglomerates 64,680 24%
+MSFT Microsoft Corporation Information Technology Software 108,900 22%
+TDC Teradata Corporation Information Technology IT Services 819 22%
+CTSH Cognizant Technology Solutions Corp. Class A Information Technology IT Services 7,495 22%
+RL Ralph Lauren Corporation Class A Consumer Discretionary Textiles, Apparel & Luxury Goo 1,085 21%
+CA CA, Inc. Information Technology Software 2,137 21%
+WAT Waters Corporation Health Care Life Sciences Tools & Services 2,346 20%
+LRCX Lam Research Corporation Information Technology Semiconductors & Semiconductor 3,500 19%
+NWSA News Corporation Class A Consumer Discretionary Media 813 18%
+GOOG Alphabet Inc. Class C Information Technology Internet Software & Services 42,900 18%
+MCHP Microchip Technology Incorporated Information Technology Semiconductors & Semiconductor 2,559 17%
+GOOGL Alphabet Inc. Class A Information Technology Internet Software & Services 42,900 17%
+GILD Gilead Sciences, Inc. Health Care Biotechnology 15,700 17%
+VRSN VeriSign, Inc. Information Technology Internet Software & Services 1,200 16%
+PBI Pitney Bowes Inc. Industrials Commercial Services & Supplies 470 16%
+XLNX Xilinx, Inc. Information Technology Semiconductors & Semiconductor 2,240 15%
+ADI Analog Devices, Inc. Information Technology Semiconductors & Semiconductor 3,374 15%
+A Agilent Technologies, Inc. Health Care Life Sciences Tools & Services 2,181 14%
+NOV National Oilwell Varco, Inc. Energy Energy Equipment & Services 2,034 14%
+CTXS Citrix Systems, Inc. Information Technology Software 1,970 13%
+KLAC KLA-Tencor Corporation Information Technology Semiconductors & Semiconductor 1,730 13%
+GPS Gap, Inc. Consumer Discretionary Specialty Retail 685 13%
+WDC Western Digital Corporation Information Technology Technology Hardware, Storage & 2,800 13%
+GT Goodyear Tire & Rubber Company Consumer Discretionary Auto Components 1,042 13%
+ADSK Autodesk, Inc. Information Technology Software 2,059 13%
+PCLN Priceline Group Inc Consumer Discretionary Internet & Direct Marketing Re 9,800 13%
+JNJ Johnson & Johnson Health Care Pharmaceuticals 38,200 13%
+MRK Merck & Co., Inc. Health Care Pharmaceuticals 20,995 12%
+GLW Corning Inc Information Technology Electronic Equip., Instruments 3,085 12%
+MJN Mead Johnson Nutrition Company Consumer Staples Food Products 1,577 11%
+LLY Eli Lilly and Company Health Care Pharmaceuticals 8,100 11%
+KO Coca-Cola Company Consumer Staples Beverages 17,900 11%
+MOS Mosaic Company Materials Chemicals 1,276 11%
+AMAT Applied Materials, Inc. Information Technology Semiconductors & Semiconductor 4,000 11%
+PH Parker-Hannifin Corporation Industrials Machinery 2,065 11%
+*For some companies, total overseas cash may represent total accumulated overseas profits. Overseas cash based on BofAML analyst estimates or Bloomberg data from company disclosures.
+Note: This screen is not a recommended list either individually or as a group of stocks. Investors should consider the fundamentals of the companies and their own individual circumstances/objective before making any
+investment decisions.
+Source: FactSet, Bloomberg, BofA Merrill Lynch Global research estimates, BofA Merrill Lynch US Equity & US Quant Strategy
+20 Equity Strategy Focus Point | 29 January 2017
+End of interest deductibility: who could be hurt?
+Below we provide a screen of the top 50 S&P 500 companies (excluding Financials, Real
+Estate and Utilities) by high net interest expense as a percentage of net income, which
+could potentially be hurt by an end to the deductibility of interest expense.
+Table 21: S&P 500 (ex. Financials, Real Estate & Utilities) with high net interest expense as a % of net income
+Ticker Company Sector Industry Net Interest Expense (% of L12M Net Income)
+CHTR Charter Communications, Inc. Class A Consumer Discretionary Media 1387%
+DVN Devon Energy Corporation Energy Oil, Gas & Consumable Fuels 467%
+CXO Concho Resources Inc. Energy Oil, Gas & Consumable Fuels 357%
+MU Micron Technology, Inc. Information Technology Semiconductors & Semiconductor 316%
+FCX Freeport-McMoRan, Inc. Materials Metals & Mining 280%
+OKE ONEOK, Inc. Energy Oil, Gas & Consumable Fuels 135%
+KMI Kinder Morgan Inc Class P Energy Oil, Gas & Consumable Fuels 120%
+LVLT Level 3 Communications, Inc. Telecommunication Services Diversified Telecommunication 96%
+WYNN Wynn Resorts, Limited Consumer Discretionary Hotels Restaurants & Leisure 95%
+CTL CenturyLink, Inc. Telecommunication Services Diversified Telecommunication 94%
+CF CF Industries Holdings, Inc. Materials Chemicals 92%
+NFX Newfield Exploration Company Energy Oil, Gas & Consumable Fuels 82%
+RIG Transocean Ltd. Energy Energy Equipment & Services 81%
+NFLX Netflix, Inc. Consumer Discretionary Internet & Direct Marketing Re 80%
+SE Spectra Energy Corp Energy Oil, Gas & Consumable Fuels 78%
+TDG TransDigm Group Incorporated Industrials Aerospace & Defense 77%
+HCA HCA Holdings, Inc. Health Care Health Care Providers & Servic 63%
+MPC Marathon Petroleum Corporation Energy Oil, Gas & Consumable Fuels 56%
+CAT Caterpillar Inc. Industrials Machinery 56%
+EVHC Envision Healthcare Corp. Health Care Health Care Providers & Servic 55%
+URI United Rentals, Inc. Industrials Trading Companies & Distributo 54%
+DVA DaVita Inc. Health Care Health Care Providers & Servic 52%
+TGNA TEGNA, Inc. Consumer Discretionary Media 52%
+DE Deere & Company Industrials Machinery 50%
+MAS Masco Corporation Industrials Building Products 49%
+ENDP Endo International Plc Health Care Pharmaceuticals 48%
+COTY Coty Inc. Class A Consumer Staples Personal Products 47%
+IP International Paper Company Materials Containers & Packaging 47%
+R Ryder System, Inc. Industrials Road & Rail 46%
+DLTR Dollar Tree, Inc. Consumer Discretionary Multiline Retail 46%
+NEM Newmont Mining Corporation Materials Metals & Mining 46%
+FOX Twenty-First Century Fox, Inc. Class B Consumer Discretionary Media 46%
+GT Goodyear Tire & Rubber Company Consumer Discretionary Auto Components 45%
+RSG Republic Services, Inc. Industrials Commercial Services & Supplies 45%
+SEE Sealed Air Corporation Materials Containers & Packaging 45%
+PBI Pitney Bowes Inc. Industrials Commercial Services & Supplies 45%
+AN AutoNation, Inc. Consumer Discretionary Specialty Retail 44%
+KSS Kohl's Corporation Consumer Discretionary Multiline Retail 44%
+F Ford Motor Company Consumer Discretionary Automobiles 43%
+VIAB Viacom Inc. Class B Consumer Discretionary Media 42%
+MNK Mallinckrodt Plc Health Care Pharmaceuticals 41%
+ADS Alliance Data Systems Corporation Information Technology IT Services 41%
+WRK WestRock Co. Materials Containers & Packaging 40%
+VRTX Vertex Pharmaceuticals Incorporated Health Care Biotechnology 39%
+BLL Ball Corporation Materials Containers & Packaging 37%
+GE General Electric Company Industrials Industrial Conglomerates 37%
+M Macy's Inc Consumer Discretionary Multiline Retail 37%
+CVX Chevron Corporation Energy Oil, Gas & Consumable Fuels 37%
+SLB Schlumberger NV Energy Energy Equipment & Services 37%
+TSO Tesoro Corporation Energy Oil, Gas & Consumable Fuels 36%
+Note: This screen is not a recommended list either individually or as a group of stocks. Investors should consider the fundamentals of the companies and their own individual circumstances/objective before making any
+investment decisions.
+Source: FactSet, BofaA Merrill Lynch US Equity & US Quant Strategy
+Equity Strategy Focus Point | 29 January 2017 21
+Related BofAML research on US tax reform
+Below we provide links to reports from our BofAML Global Research colleagues that
+address this topic.
+Economics:
+Global Watch: Will border adjustment lead to border battles? 18 January 2017
+US Economic Weekly: Cutting taxes could be taxing 02 December 2016
+Credit strategy:
+Situation Room: Corporate tax reform=less debt 28 November 2016
+The HY Wire: ‘A Better Way’: tax proposals could affect HY issuance 09 December 2016
+FX:
+FX Watch: Ten thoughts on Border Adjustments 18 January 2017
+FX Viewpoint: Homeland Investment redux? 17 October 2016
+Autos:
+Automotive Industry: The Trump trade – implications for the automotive value chain 18
+January 2017
+Consumer/Retail:
+Retailing - Hardlines: A taxing set of proposals for Hardline Retailers 14 December 2016
+Specialty Retail and Department Stores: Border adjustment seems unlikely but would
+decimate retail earnings 14 December 2016
+US Consumer Staples: Policy changes: what to watch for 18 January 2017
+Cosmetics, Household & Personal Care: 2017 – The Year Ahead: a few diamonds in the
+rough 10 January 2017
+Consumer Staples: 2017 - the year ahead: sector rotation puts fundamentals in focus 13
+December 2016
+Tobacco: Tobacco Year Ahead 2017; see domestic players having more upside potential
+this yr 04 January 2017
+Homebuilders and Building Products: State of the union 12 December 2016
+Financials / Real Estate:
+2017 Banks Year Ahead: T-R-U-M-P: Find out what it means for “E” (20% potential
+upside) 10 January 2017
+US Banks Chart of the Week: Muni exposure will mute benefit from lower corporate
+taxes 11 December 2016
+Insurance: Tax changes could have mixed implications 18 January 2017
+Brokers, Asset Managers & Exchanges: 2017 Year Ahead: An attractive outlook, with 12-
+20%+ upside, with catalysts 12 January 2017
+U.S. REITs: Regulatory changes are coming: A REIT analyst guidebook 17 January 2017
+Health Care:
+Managed Care: MCO rally has just begun; beneficiaries of the non-Health Care upside
+from Trump 02 December 2016
+Biotechnology: On the road to recovery 04 January 2017
+Healthcare: 2017 – the year ahead: the only constant is change 15 December 2016
+22 Equity Strategy Focus Point | 29 January 2017
+Energy:
+Refiners: What’s going on with Refining in 2017: potential benefits in a Trump
+administration 05 January 2017
+Industrials / Materials:
+Industrials/Multi-Industry: DEM#217: The Year Ahead; Resetting for higher US growth
+and inflation 09 January 2017
+Engineering & Construction: 2017 view: energy backlog more 2H story, own
+infrastructure & federal 12 January 2017
+Transportation - Railroads: 2017 Rail Year Ahead: Macro factors favor group; 1H comps
+set stage for growth 12 January 2017
+Business, Education & Professional Services: 2017 year ahead: INFO top pick in
+Business Services 12 January 2017
+Basic Materials & Industrials 2017 Year Ahead: Buy America and inflation, but watch the
+US dollar and interest rates 12 December 2016
+Global Chemicals: Potential tax reform could be more meaningful than infrastructure
+spending 15 December 2016
+Tech:
+Apple Inc.: Deep Dive - Benefit from lower U.S. tax rate, but border tax could be onerous
+13 January 2017
+Server & Enterprise Software: Tax reform +ve for INTU, CRM; Cash repatriation +ve for
+ORCL, MSFT, VMW 12 December 2016
+Semiconductor Capital Equipment: Tax sensitivity analysis. Repatriation a bigger deal
+than taxes for Semicaps, EDA 02 December 2016
+Telecom Equipment: New administration appears likely to drive spending on
+infrastructure & cyber security 18 January 2017
+Internet/e-Commerce: Top 2017 US Internet Sector Drivers – Trump Act One 17 January
+2017
+Telecom:
+Wireline & Wireless Telecom Services: For AT&T, Verizon and CenturyLink, the telco tax
+trade could be ‘Huge’ 19 December 2016
+Wireline & Wireless Telecom Services: 2017 Year Ahead – Fiscal forces, regulation, and
+video migration to mobile 10 January 2017
+Media:
+Media & Entertainment: 2017 year ahead - living the stream 11 January 2017
+Cable/Satellite: 2017 year ahead – reform, relief and resilience 11 January 2017
+Utilities:
+Utilities: 2017 Year Ahead: Washington DC will likely cast a long shadow on utilities 06
+January 2017
+Equity Strategy Focus Point | 29 January 2017 23
+Methodology
+Repatriation impact
+We estimated cumulative overseas profits for the S&P 500 excluding Financials and
+Real Estate via three sources: 1) Bloomberg data on cash held overseas (if
+disclosed/available), 2) BofAML analyst estimates on cumulative overseas profits or
+cash, and 3) our own estimate if neither (1) or (2) are available, based on (Total cash x
+[% of foreign sales +10%]) for companies with at least 5% foreign sales.
+We apply the effective tax rates proposed by Trump (10%) and the Blueprint (8.75%) to
+our estimated $1.2tn in overseas cash to determine taxes due for the S&P 500 ex.
+Financials & Real Estate. We estimate that 100% is brought back given that the tax is
+mandatory. To compute the one-time tax impact to GAAP EPS, we divide the cumulative
+tax impact by the S&P 500 divisor, after first excluding the impact from several large
+multinationals (e.g. AAPL) which already provision a portion of their overseas profits for
+US taxes and have effective US tax rates well above 35%.
+Note that for companies for which our analysts provided estimates, we asked them to
+provide cumulative overseas profits if possible, but in most cases this number reflects
+overseas cash. Thus, taxes paid could be slightly higher than we estimate given that
+both the Blueprint and Trump’s plans suggest a mandatory tax on all accumulated
+overseas profits, some of which may be permanently reinvested; here, the Blueprint
+suggests a lower 3.5% tax for retained earnings not held in cash/equivalents, suggesting
+that any additional taxes payable that we are not capturing are likely to be small.
+To calculate the % EPS impact from buybacks, we subtract the amount of taxes payable
+from total cash brought back for the S&P 500 ex. Financials & Real Estate (and for each
+sector) and divide this by the market cap for the S&P 500 (and for each sector.) We
+multiply this % impact for the overall index by our 2018E EPS of $137 to determine the
+potential EPS impact, applying various buyback scenarios (10-100%). We use 50% as a
+base case scenario, which is lower than the 80% brought back during the 2004 tax
+holiday, to be conservative.
+Border adjustments impact on EPS
+We estimate the costs of goods imported and exported for each company using the
+latest company filings, conversations with analysts, industry research, management
+commentary and the Input-Output accounts data published by the U.S. Department of
+Commerce. For more information about the Input-Output accounts data, please refer to
+the Bureau of Economic Analysis website at http://www.bea.gov/industry/io_annual.htm.
+When using the estimates based on Input-Output accounts, we adjust them to account
+for the varying foreign exposures of different S&P 500 industries. For companies that
+source products through importers (e.g. retailers), we only included the costs of goods
+estimated to be directly imported by each company, as taxes pertaining to those
+imported goods should be paid by the importers themselves.
+We estimate the earnings impact of border adjustments based on the additional taxes
+that companies would pay on the costs of imported goods sold in the US (nondeductible)
+and any reduction in taxes related to the production costs for exported
+goods (deductible). To calculate this, we multiple the net value of imported COGS by the
+assumed tax rate. Note that the net impact can be either positive or negative depending
+on whether the company is a net importer or exporter. We assume a 50% haircut to the
+impact to account for from alternate sourcing, currency rates and pricing power.
+Lower corporate tax rate impact on EPS
+We estimate the normalized effective domestic tax rate of a company based on
+conversations with the analysts or the median 5-year domestic income tax rate. If a
+company had a negative tax rate for a particular year, we exclude the tax rate of that
+24 Equity Strategy Focus Point | 29 January 2017
+year from the median calculation. For companies with normalized tax rates of more than
+75%, we assume 35%.
+The impact of a lower corporate tax rate on company earnings is directly proportional to
+the difference between the current domestic tax rate and the proposed tax rate. The
+impact is calculated by taking the difference between the current tax rate and the
+proposed tax rate, and dividing it by (1-current tax rate).
+To calculate the impact of a lower corporate tax rate on the S&P 500 earnings, we can
+divide the change in the effective tax rate by (1 – the current effective tax rate).
+Interest deductibility impact
+We estimate the cost associated with the removal of the net interest expense deduction
+from taxable income by multiplying the net interest expense by the tax rate.
+Equity Strategy Focus Point | 29 January 2017 25
+Disclosures
+Important Disclosures
+BofA Merrill Lynch Research Personnel (including the analyst(s) responsible for this report) receive compensation based upon, among other factors, the overall profitability of Bank of America
+Corporation, including profits derived from investment banking. The analyst(s) responsible for this report may also receive compensation based upon, among other factors, the overall
+profitability of the Bank’s sales and trading businesses relating to the class of securities or financial instruments for which such analyst is responsible.
+Other Important Disclosures
+Prices are indicative and for information purposes only. Except as otherwise stated in the report, for the purpose of any recommendation in relation to: (i) an equity security, the price
+referenced is the publicly traded price of the security as of close of business on the day prior to the date of the report or, if the report is published during intraday trading, the price referenced is
+indicative of the traded price as of the date and time of the report; or (ii) a debt security (including equity preferred and CDS), prices are indicative as of the date and time of the report and are
+from various sources including Bank of America Merrill Lynch trading desks.
+The date and time of completion of the production of any recommendation in this report shall be the date and time of dissemination of this report as recorded in the report timestamp.
+This report may refer to fixed income securities that may not be offered or sold in one or more states or jurisdictions. Readers of this report are advised that any discussion, recommendation or
+other mention of such securities is not a solicitation or offer to transact in such securities. Investors should contact their BofA Merrill Lynch representative or Merrill Lynch Financial Global
+Wealth Management financial advisor for information relating to fixed income securities
+Officers of MLPF&S or one or more of its affiliates (other than research analysts) may have a financial interest in securities of the issuer(s) or in related investments.
+BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+"BofA Merrill Lynch" includes Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S") and its affiliates. Investors should contact their BofA Merrill Lynch representative or
+Merrill Lynch Global Wealth Management financial advisor if they have questions concerning this report. "BofA Merrill Lynch" and "Merrill Lynch" are each global brands for BofA
+Merrill Lynch Global Research.
+Information relating to Non-US affiliates of BofA Merrill Lynch and Distribution of Affiliate Research Reports:
+MLPF&S distributes, or may in the future distribute, research reports of the following non-US affiliates in the US (short name: legal name, regulator): Merrill Lynch (South Africa): Merrill Lynch
+South Africa (Pty) Ltd., regulated by The Financial Service Board; MLI (UK): Merrill Lynch International, regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority
+(PRA); Merrill Lynch (Australia): Merrill Lynch Equities (Australia) Limited, regulated by the Australian Securities and Investments Commission; Merrill Lynch (Hong Kong): Merrill Lynch (Asia
+Pacific) Limited, regulated by the Hong Kong Securities and Futures Commission (HKSFC); Merrill Lynch (Singapore): Merrill Lynch (Singapore) Pte Ltd, regulated by the Monetary Authority of
+Singapore (MAS); Merrill Lynch (Canada): Merrill Lynch Canada Inc, regulated by the Investment Industry Regulatory Organization of Canada; Merrill Lynch (Mexico): Merrill Lynch Mexico, SA de
+CV, Casa de Bolsa, regulated by the Comisión Nacional Bancaria y de Valores; Merrill Lynch (Argentina): Merrill Lynch Argentina SA, regulated by Comisión Nacional de Valores; Merrill Lynch
+(Japan): Merrill Lynch Japan Securities Co., Ltd., regulated by the Financial Services Agency; Merrill Lynch (Seoul): Merrill Lynch International Incorporated (Seoul Branch) regulated by the
+Financial Supervisory Service; Merrill Lynch (Taiwan): Merrill Lynch Securities (Taiwan) Ltd., regulated by the Securities and Futures Bureau; DSP Merrill Lynch (India): DSP Merrill Lynch Limited,
+regulated by the Securities and Exchange Board of India; PT Merrill Lynch (Indonesia): PT Merrill Lynch Indonesia, regulated by Otoritas Jasa Keuangan (OJK); Merrill Lynch (Israel): Merrill Lynch
+Israel Limited, regulated by Israel Securities Authority; Merrill Lynch (Russia): OOO Merrill Lynch Securities, Moscow, regulated by the Central Bank of the Russian Federation; Merrill Lynch
+(DIFC): Merrill Lynch International (DIFC Branch), regulated by the Dubai Financial Services Authority (DFSA); Merrill Lynch (Spain): Merrill Lynch Capital Markets Espana, S.A.S.V., regulated by
+Comisión Nacional del Mercado De Valores; Merrill Lynch (Brazil): Bank of America Merrill Lynch Banco Multiplo S.A., regulated by Comissão de Valores Mobiliários; Merrill Lynch KSA Company,
+Merrill Lynch Kingdom of Saudi Arabia Company, regulated by the Capital Market Authority.
+This research report: has been approved for publication and is distributed in the United Kingdom (UK) to professional clients and eligible counterparties (as each is defined in the rules of the
+FCA and the PRA) by MLI (UK) and Bank of America Merrill Lynch International Limited, which are authorized by the PRA and regulated by the FCA and the PRA, and is distributed in the UK to
+retail clients (as defined in the rules of the FCA and the PRA) by Merrill Lynch International Bank Limited, London Branch, which is authorized by the Central Bank of Ireland and subject to
+limited regulation by the FCA and PRA - details about the extent of our regulation by the FCA and PRA are available from us on request; has been considered and distributed in Japan by Merrill
+Lynch (Japan), a registered securities dealer under the Financial Instruments and Exchange Act in Japan; is issued and distributed in Hong Kong by Merrill Lynch (Hong Kong) which is regulated
+by HKSFC (research reports containing any information in relation to, or advice on, futures contracts are not intended for issuance or distribution in Hong Kong and are not directed to, or
+intended for issuance or distribution to, or use by, any person in Hong Kong); is issued and distributed in Taiwan by Merrill Lynch (Taiwan); is issued and distributed in India by DSP Merrill Lynch
+(India); and is issued and distributed in Singapore to institutional investors and/or accredited investors (each as defined under the Financial Advisers Regulations) by Merrill Lynch International
+Bank Limited (Merchant Bank) (MLIBLMB) and Merrill Lynch (Singapore) (Company Registration Nos F 06872E and 198602883D respectively). MLIBLMB and Merrill Lynch (Singapore) are
+regulated by MAS. Bank of America N.A., Australian Branch (ARBN 064 874 531), AFS License 412901 (BANA Australia) and Merrill Lynch Equities (Australia) Limited (ABN 65 006 276 795), AFS
+License 235132 (MLEA) distribute this report in Australia only to 'Wholesale' clients as defined by s.761G of the Corporations Act 2001. With the exception of BANA Australia, neither MLEA nor
+any of its affiliates involved in preparing this research report is an Authorised Deposit-Taking Institution under the Banking Act 1959 nor regulated by the Australian Prudential Regulation
+Authority. No approval is required for publication or distribution of this report in Brazil and its local distribution is by Merrill Lynch (Brazil) in accordance with applicable regulations. Merrill Lynch
+(DIFC) is authorized and regulated by the DFSA. Research reports prepared and issued by Merrill Lynch (DIFC) are done so in accordance with the requirements of the DFSA conduct of business
+rules. Bank of America Merrill Lynch International Limited, Frankfurt Branch (BAMLI Frankfurt) distributes this report in Germany and is regulated by BaFin.
+This research report has been prepared and issued by MLPF&S and/or one or more of its non-US affiliates. MLPF&S is the distributor of this research report in the US and accepts full
+responsibility for research reports of its non-US affiliates distributed to MLPF&S clients in the US. Any US person receiving this research report and wishing to effect any transaction in any
+security discussed in the report should do so through MLPF&S and not such foreign affiliates. Hong Kong recipients of this research report should contact Merrill Lynch (Asia Pacific) Limited in
+respect of any matters relating to dealing in securities (and not futures contracts) or provision of specific advice on securities (and not futures contracts). Singapore recipients of this research
+report should contact Merrill Lynch International Bank Limited (Merchant Bank) and/or Merrill Lynch (Singapore) Pte Ltd in respect of any matters arising from, or in connection with, this
+research report.
+General Investment Related Disclosures:
+Taiwan Readers: Neither the information nor any opinion expressed herein constitutes an offer or a solicitation of an offer to transact in any securities or other financial instrument. No part of
+this report may be used or reproduced or quoted in any manner whatsoever in Taiwan by the press or any other person without the express written consent of BofA Merrill Lynch.
+This research report provides general information only. Neither the information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities or
+other financial instrument or any derivative related to such securities or instruments (e.g., options, futures, warrants, and contracts for differences). This report is not intended to provide
+personal investment advice and it does not take into account the specific investment objectives, financial situation and the particular needs of any specific person. Investors should seek
+financial advice regarding the appropriateness of investing in financial instruments and implementing investment strategies discussed or recommended in this report and should understand
+that statements regarding future prospects may not be realized. Any decision to purchase or subscribe for securities in any offering must be based solely on existing public information on such
+security or the information in the prospectus or other offering document issued in connection with such offering, and not on this report.
+Securities and other financial instruments discussed in this report, or recommended, offered or sold by Merrill Lynch, are not insured by the Federal Deposit Insurance Corporation and are not
+deposits or other obligations of any insured depository institution (including, Bank of America, N.A.). Investments in general and, derivatives, in particular, involve numerous risks, including,
+among others, market risk, counterparty default risk and liquidity risk. No security, financial instrument or derivative is suitable for all investors. In some cases, securities and other financial
+instruments may be difficult to value or sell and reliable information about the value or risks related to the security or financial instrument may be difficult to obtain. Investors should note that
+26 Equity Strategy Focus Point | 29 January 2017
+income from such securities and other financial instruments, if any, may fluctuate and that price or value of such securities and instruments may rise or fall and, in some cases, investors may
+lose their entire principal investment. Past performance is not necessarily a guide to future performance. Levels and basis for taxation may change.
+This report may contain a short-term trading idea or recommendation, which highlights a specific near-term catalyst or event impacting the issuer or the market that is anticipated to have a
+short-term price impact on the equity securities of the issuer. Short-term trading ideas and recommendations are different from and do not affect a stock's fundamental equity rating, which
+reflects both a longer term total return expectation and attractiveness for investment relative to other stocks within its Coverage Cluster. Short-term trading ideas and recommendations may
+be more or less positive than a stock's fundamental equity rating.
+BofA Merrill Lynch is aware that the implementation of the ideas expressed in this report may depend upon an investor's ability to "short" securities or other financial instruments and that such
+action may be limited by regulations prohibiting or restricting "shortselling" in many jurisdictions. Investors are urged to seek advice regarding the applicability of such regulations prior to
+executing any short idea contained in this report.
+Foreign currency rates of exchange may adversely affect the value, price or income of any security or financial instrument mentioned in this report. Investors in such securities and instruments,
+including ADRs, effectively assume currency risk.
+UK Readers: The protections provided by the U.K. regulatory regime, including the Financial Services Scheme, do not apply in general to business coordinated by BofA Merrill Lynch entities
+located outside of the United Kingdom. BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+MLPF&S or one of its affiliates is a regular issuer of traded financial instruments linked to securities that may have been recommended in this report. MLPF&S or one of its affiliates may, at any
+time, hold a trading position (long or short) in the securities and financial instruments discussed in this report.
+BofA Merrill Lynch, through business units other than BofA Merrill Lynch Global Research, may have issued and may in the future issue trading ideas or recommendations that are inconsistent
+with, and reach different conclusions from, the information presented in this report. Such ideas or recommendations reflect the different time frames, assumptions, views and analytical
+methods of the persons who prepared them, and BofA Merrill Lynch is under no obligation to ensure that such other trading ideas or recommendations are brought to the attention of any
+recipient of this report.
+In the event that the recipient received this report pursuant to a contract between the recipient and MLPF&S for the provision of research services for a separate fee, and in connection
+therewith MLPF&S may be deemed to be acting as an investment adviser, such status relates, if at all, solely to the person with whom MLPF&S has contracted directly and does not extend
+beyond the delivery of this report (unless otherwise agreed specifically in writing by MLPF&S). MLPF&S is and continues to act solely as a broker-dealer in connection with the execution of any
+transactions, including transactions in any securities mentioned in this report.
+Copyright and General Information regarding Research Reports:
+Copyright 2017 Bank of America Corporation. All rights reserved. iQmethod, iQmethod 2.0, iQprofile, iQtoolkit, iQworks are service marks of Bank of America Corporation. iQanalytics®,
+iQcustom®, iQdatabase® are registered service marks of Bank of America Corporation. This research report is prepared for the use of BofA Merrill Lynch clients and may not be redistributed,
+retransmitted or disclosed, in whole or in part, or in any form or manner, without the express written consent of BofA Merrill Lynch. BofA Merrill Lynch Global Research reports are distributed
+simultaneously to internal and client websites and other portals by BofA Merrill Lynch and are not publicly-available materials. Any unauthorized use or disclosure is prohibited. Receipt and
+review of this research report constitutes your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or information contained in this report
+(including any investment recommendations, estimates or price targets) without first obtaining expressed permission from an authorized officer of BofA Merrill Lynch.
+Materials prepared by BofA Merrill Lynch Global Research personnel are based on public information. Facts and views presented in this material have not been reviewed by, and may not reflect
+information known to, professionals in other business areas of BofA Merrill Lynch, including investment banking personnel. BofA Merrill Lynch has established information barriers between
+BofA Merrill Lynch Global Research and certain business groups. As a result, BofA Merrill Lynch does not disclose certain client relationships with, or compensation received from, such issuers in
+research reports. To the extent this report discusses any legal proceeding or issues, it has not been prepared as nor is it intended to express any legal conclusion, opinion or advice. Investors
+should consult their own legal advisers as to issues of law relating to the subject matter of this report. BofA Merrill Lynch Global Research personnel’s knowledge of legal proceedings in which
+any BofA Merrill Lynch entity and/or its directors, officers and employees may be plaintiffs, defendants, co-defendants or co-plaintiffs with or involving issuers mentioned in this report is based
+on public information. Facts and views presented in this material that relate to any such proceedings have not been reviewed by, discussed with, and may not reflect information known to,
+professionals in other business areas of BofA Merrill Lynch in connection with the legal proceedings or matters relevant to such proceedings.
+This report has been prepared independently of any issuer of securities mentioned herein and not in connection with any proposed offering of securities or as agent of any issuer of any
+securities. None of MLPF&S, any of its affiliates or their research analysts has any authority whatsoever to make any representation or warranty on behalf of the issuer(s). BofA Merrill Lynch
+Global Research policy prohibits research personnel from disclosing a recommendation, investment rating, or investment thesis for review by an issuer prior to the publication of a research
+report containing such rating, recommendation or investment thesis.
+Any information relating to the tax status of financial instruments discussed herein is not intended to provide tax advice or to be used by anyone to provide tax advice. Investors are urged to
+seek tax advice based on their particular circumstances from an independent tax professional.
+The information herein (other than disclosure information relating to BofA Merrill Lynch and its affiliates) was obtained from various sources and we do not guarantee its accuracy. This report
+may contain links to third-party websites. BofA Merrill Lynch is not responsible for the content of any third-party website or any linked content contained in a third-party website. Content
+contained on such third-party websites is not part of this report and is not incorporated by reference into this report. The inclusion of a link in this report does not imply any endorsement by or
+any affiliation with BofA Merrill Lynch. Access to any third-party website is at your own risk, and you should always review the terms and privacy policies at third-party websites before
+submitting any personal information to them. BofA Merrill Lynch is not responsible for such terms and privacy policies and expressly disclaims any liability for them.
+Certain outstanding reports may contain discussions and/or investment opinions relating to securities, financial instruments and/or issuers that are no longer current. Always refer to the most
+recent research report relating to an issuer prior to making an investment decision.
+In some cases, an issuer may be classified as Restricted or may be Under Review or Extended Review. In each case, investors should consider any investment opinion relating to such issuer (or
+its security and/or financial instruments) to be suspended or withdrawn and should not rely on the analyses and investment opinion(s) pertaining to such issuer (or its securities and/or
+financial instruments) nor should the analyses or opinion(s) be considered a solicitation of any kind. Sales persons and financial advisors affiliated with MLPF&S or any of its affiliates may not
+solicit purchases of securities or financial instruments that are Restricted or Under Review and may only solicit securities under Extended Review in accordance with firm policies.
+Neither BofA Merrill Lynch nor any officer or employee of BofA Merrill Lynch accepts any liability whatsoever for any direct, indirect or consequential damages or losses arising from any use of
+this report or its contents.
+Equity Strategy Focus Point | 29 January 2017 27

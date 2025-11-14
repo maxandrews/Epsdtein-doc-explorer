@@ -1,0 +1,2819 @@
+﻿MM
+January 30, 2018 05:01 AM GMT
+Alternative Asset Managers
+Can Alts Unlock Value with
+C-Corp Conversions?
+We think APO could unlock the most value by converting to a C-corp with 26%
+in our upside case vs. -14% in our downside case. ARES could be the first to
+convert, but this is largely priced in. These firms have more sticky management
+fee-related earnings vs. BX/CG/KKR that may see less benefit.
+Morgan Stanley does and seeks to do business with companies covered in Morgan Stanley Research. As a result, investors should be aware that the firm may have a conflict of
+interest that could affect the objectivity of Morgan Stanley Research. Investors should consider Morgan Stanley Research as only a single factor in making their investment decision.
+For analyst certification and other important disclosures, refer to the Disclosure Section, located at the end of this report.
+MM
+Contributors
+MORGAN STANLEY & CO. LLC
+Michael J. Cyprys, CFA, CPA
+Equity Analyst
++1212 761-7619
+Michael.Cyprys@morganstanley.com
+MORGAN STANLEY & CO. LLC
+Alex D Combs, CFA
+Research Associate
++1212 296-5221
+Alex.Combs@morganstanley.com
+M
+M
+Contents
+5 Executive Summary
+6 C-corp Conversion Could Be the Catalyst to
+Unlock Value and Drive Multiple Expansion
+8 Impact to Current Valuations in Upside and
+Downside Case
+10 ARES Conversion Largely Priced In
+11 Why Should Fee-Related Earnings Re-Rate
+Higher?
+11 1) Premium to Traditionals Asset Managers
+13 2) Publicly Traded Alts Comps
+13 3) Bond Yield Approach
+14 What Is the Impact of Higher FRE Multiples
+in a SOTP approach?
+16 What Is the Appropriate Multiple for
+Performance Fees?
+22 Apollo Global Management SOTP and Sensitivity
+Analysis
+23 Ares Management SOTP and Sensitivity Analysis
+24 Blackstone SOTP and Sensitivity Analysis
+25 The Carlyle Group Management SOTP and
+Sensitivity Analysis
+26 KKR & Co. SOTP and Sensitivity Analysis
+27 Oaktree Capital Group SOTP and Sensitivity
+Analysis
+28 Appendix B: Valuation of Alternative Managers -
+What's in the Price?
+29 Appendix C: Notable Alt Reports: In Case You
+Missed Them…
+30 Brokers & Asset Managers Comps Sheet
+31 Valuation and Risks
+18 Deconstructing Our Implied Carry Valuation:
+What Is the Market Paying?
+19 Upside Scenario
+20 Downside Scenario
+21 Appendix A: Company Scenario Analysis
+MORGAN STANLEY RESEARCH 3
+MM
+Alternative Asset Managers
+Can Alts Unlock Value with
+C-Corp Conversions?
+We think APO could unlock the most value by converting to a C-corp
+with 26% in our upside case vs. -14% in our downside case. ARES
+could be the first to convert, but this is largely priced in. These
+firms have more sticky management fee-related earnings
+vs. BX/CG/KKR that may see less benefit.
+We believe ARES could be the first Alt stock to convert; we
+would view that as a positive catalyst for the group that, if successful,
+could lead others to follow. ARES reports 4Q earnings on
+February 15, and we expect a potential announcement or indications
+of mgmt's intentions and/or timing. C-corp conversion has dominated
+our conversations with investors of late with increased
+inbound questions including interest from some new to the Alts. As
+a result, in this report we expand on prior work here, and here, creating
+a C-corp conversion scorecard with qualitative pros/cons for
+each company. We also evaluate the potential valuation impact if
+Alts convert, and we take a deep dive into how the market might
+value two earnings components in a C-corp structure: 1) sticky, recurring
+management fee-related earnings and 2) performance fees.
+We see an opportunity for Alts to unlock value by shedding the
+partnership structure and converting to C-corps. Changing from
+a partnership structure could help alleviate the complexities of current
+K-1 tax reporting and expand the universe of eligible investors in
+the Alts. Some investors today are restricted from investing in limited
+partnerships, while others don't want the operational and tax
+complexities of investing in a partnership structure.
+Management fee-related earnings could re-rate higher toward
+22.5x in our upside case, as we look at three different approaches
+for valuing this sticky earnings stream: 1) traditional asset manager
+comps vs. organic growth, 2) publicly traded C-corp Alts comps,
+and 3) an approach looking at FRE as bond yield proxy with a credit
+spread, to determinate an appropriate cap rate.
+Performance fees appear cheap (at 6.1x) if management fees
+re-rate to 22.5x in the context of Alts converting to C-corps and a
+24% overall tax rate. This suggests the market is misvaluing performance
+fees, and we could also see Alts performance fee earnings
+re-rate higher if C-corp conversion expanded the investor base.
+We see companies that have a greater skew to management fees
+as best positioned for conversion, as we see the greatest potential
+for multiple expansion on for this portion of the earnings. For stocks
+under coverage, we see APO as potentially being able to unlock
+the most value, with near-term upside to current prices of 26%,
+if the shares re-rate. We see ARES as another winner from conversion
+but the we belive this is priced with shares up 23.5% YTD. Our
+analysis suggests a less favorable upside/downside scenario for conversion
+for companies under coverage with lower taxes and/or
+greater exposure to performance fees (KKR, CG, BX).
+Exhibit 1:
+Upside/Downside Scenario Impact to Alts' Share Price if They Convert
+to C-Corps from Current Partnership Structure
+Estimated Change to Curent Share Price
+Morgan Stanley does and seeks to do business with companies covered in Morgan Stanley Research. As a result, investors should be aware that the firm may have a conflict of
+interest that could affect the objectivity of Morgan Stanley Research. Investors should consider Morgan Stanley Research as only a single factor in making their investment decision.
+For analyst certification and other important disclosures, refer to the Disclosure Section, located at the end of this report.
+30%
+20%
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+26%
+-14% -15%
+Downside
+11% 11% 9% 10%
+-21% -20%
+-27%
+Upside
+8%
+-8%
+13%
+-18%
+APO OAK KKR BX ARES CG Avg.
+Source: Company Data, Morgan Stanley Research estimates
+Brokers & Asset Managers
+North America Industry View
+In-Line
+M
+M
+Executive Summary
+Will the Alts simplify their structure and convert to
+C-corporations from partnerships? What would this
+mean for valuations? We think the Tax Cuts and Jobs Act
+could accelerate cost-benefit analyses and decisionmaking
+by management teams as a 21% federal tax rate vs.
+35% previously implies less tax leakage and less expense in
+moving from single-layer taxation to a double taxation
+structure. While investors would give up economics in the
+process, the new business structure would, we think, command
+a higher valuation multiple.
+For context, investor questions on the topic have picked up
+recently, including from a number of long-only accounts,which
+have historically avoided the Alts. Some investors have said they
+currently cannot invest in Alts given the partnership structure but
+would be interested and able to do work on them if they were to convert
+to C-corps. We had conversations around conversion a year ago
+as President Trump took office amid promises of tax reform, and the
+subject came up on nearly every 4Q16 earnings call. Management
+teams seemed to table the idea because of too many moving parts
+that needed to be clarified before they conduct a proper cost/benefit
+analysis. Post tax reform, conversion is at the top of investors' minds
+and becomes a key debate/catalyst for the sector.
+We believe Ares Management L.P. (ARES, Equal-weight) could be
+the first Alt to convert to a C-corp, potentially sparking other
+conversions within our coverage. We believe this prospect has
+likely driven much of the stock's 24% return year-to-date and +16%
+outperformance vs. the S&P 500 and +10% its Alts peers. Over the
+past few months, ARES management has stated clearly that they
+have been actively considered conversion. CFO Mike McFerran
+recently told investors, "This topic has become clearly very elevated
+in light of possible tax reform. Absent that and even before this
+became so topical, this is the thing we've been thinking about. And
+the overarching question is, can public traded partnerships attract
+the breadth of shareholder base to support an appropriate valuation
+notwithstanding some other obstacles." Even without tax reform,
+the company was considering the structure change, and with a 21%
+corporate statutory rate (vs. 35%), we believe cost-benefit analysis
+may make sense for ARES. The company reports earnings on
+Thursday, February 15, and we expect an update or additional
+color on conversion. We think all Alts shares could benefit as
+investors see a higher probability of others following in their
+footsteps and/or investors re-rate Alts' FRE higher.
+Against this backdrop, we've created a conversion scorecard
+with qualitative pros/cons for each company. To be clear, these are
+our views on where conversion makes the most sense and not calls on
+which companies will commit or the timing of potential conversions.
+We focus selectively on the factors we view as most important in
+deciding whether to convert.
+l FRE % of Earnings — We believe the higher fee related earnings
+as a % of total earnings, the more likely for a re-rating of
+the shares and therefore more likely to consider C-corp conversion.
+l Effective Tax Rate — The lower the current tax rate, the
+more tax slippage if companies convert and are subject to a
+higher corporate tax rate, and lower EPS. Conversely, companies
+with a higher tax rate today already have more tax
+leakage, and thus could make sense to pay a little more tax in
+a corporate structure for a broader investor base.
+l Current P/E Ratio — The lower the current P/E multiple, the
+more management may be inclined to take action to drive a
+re-rating.
+l Management Commentary — Lastly we look at management
+commentary from earnings calls/conferences to assess
+the extent that companies are evaluating conversion and seriously
+considering it as a strategic option.
+Exhibit 2:
+Based on our qualitative scorecard, our work suggests APO and ARES
+may be most likely to convert
+Company
+Rating
+Core FRE % of
+Earnings
+ENI Effective Tax
+Rate
+Current P/E ratio
+(2018e)
+Management
+Commentary
+Average Overall
+Score
+ARES (ARES) Equal-weight 100% 25% 25% 100% 63%
+0 0.75 0.75 0 38%
+Apollo (APO) Overweight 75% 50% 50% 50% 56%
+0.25 0.5 0.5 0.5 44%
+Oaktree (OAK) Overweight 50% 50% 25% 50% 44%
+0.5 0.5 0.75 0.5 56%
+KKR (KKR) Equal-weight 25% 0% 75% 75% 44%
+0.75 1 0.25 0.25 56%
+Carlyle (CG) Overweight 0% 75% 75%
+0
+38%
+1 0.25 0.25 1 63%
+Blackstone (BX) Overweight 50% 0% 50% 50% 38%
+Source: Company Data, Morgan Stanley Research estimates
+0.5 1 0.5 0.5 63%
+MORGAN STANLEY RESEARCH 5
+M
+M
+For Ares, we believe conversion makes sense, given the company
+is largely a play on fee related earnings from draw down funds,
+separately managed accounts, and their relationship with ARCC, the
+publicly traded business development company. Earnings from performance
+fees at ARES are a smaller portion of overall profitability,
+which is furthered by relatively higher compensation payout on performance
+fee revenues, which in turn approach 80% in strategies
+such as private equity vs. peers typically in the 45-55% range. The
+company could benefit as a first mover and if the stock price reacts
+favorably, we could see other alternative peers follow suit.
+Apollo in our view may stand to benefit the most from conversion
+with the best risk reward skew in our analysis using a SOTP
+framework. Why? Similar to ARES, the company has meaningful
+fee-related earnings as a percentage of overall operating income.
+This is largely driven by their advisory relationship with Athene,
+where APO earns a fee on ~$74b of assets and should benefit from
+additional management fees from the company's most recent $24b
+flagship private equity fund.
+Our deep dive suggests Apollo has relatively longer-duration
+stickier assets under management vs. peers, which gives us
+greater confidence in APO's fee-related earnings stability,
+growth, and potential for a re-rating. Apollo's AUM has a 12-year
+duration on average (measured as outflows and realizations as a percentage
+of beginning of period AUM). This is noticeably better than
+HLNE's at 9.1 years, which trades at 23.4x P/E, and below Partners
+Group of 16.7 years, which trades at 28x P/E.
+We see Blackstone as potentially less likely to convert, but see
+a more nuanced story at KKR given their token dividend policy;
+for both we do not see as much valuation upside from a re-rating
+of FRE multiples. BX and KKR have larger concentration to performance
+fees and as a result we see less of an impact to potential upside
+should fee related earnings multiples re-rate. Our estimated tax rates
+for KKR and BX are also significantly lower than the group given the
+earnings mix and other offsets. We see a greater downside to current
+share prices if there was a conversion that had a higher tax drag and
+multiples did not expand. That said, KKR has a history of making
+major changes, such as its payout policy change in 2015 that
+sharply reduced the dividend with a shift in strategy to grow book
+value. At the time we thought such a change by KKR was a prelude
+to converting to a C-corp, as we wrote here. However, the stock has
+lagged and KKR's limited/token dividend means investors do not
+receive the full benefit of a flow through partnership structure
+with single-layer taxation. So we again raise the question, Why not
+convert to a C-corp with a token dividend that is effectively single
+layer taxation?
+C-corp Conversion Could Be the Catalyst
+to Unlock Value and Drive Multiple
+Expansion
+The alternative asset managers trade at a steep discount to
+broader financial peers. We believe this is largely due to 4 factors:
+1) volatility of the earnings (particulary performance fees) and questions
+as to alpha persistency going forward by public market investors,
+2) complicated business models, 3) corporate governance
+concerns, and 4) corporate structure as a partnership. We do not
+expect to see the first three factors change, but conversion could
+make a meaningful difference by:
+1) Expanding the universe of eligible investors in the Alts,
+2) Alleviating the tax complexities of current K-1 tax reporting,
+3) Unlocking value via multiple re-rating, particularly for management
+fee-related earnings in the widely used sum-of-the-parts valuation
+for Alts. We could also see incremental upside to current
+valuations if multiples on performance fee earnings adjust upward
+(more details below).
+Exhibit 3:
+Alts trade on average FY2 of 10.5x, a 28% discount on average to other
+financials subsectors
+Alts vs. Financial Subsectors P/E
+30.0x
+25.0x
+20.0x
+15.0x
+10.0x
+5.0x
+0.0x
+1%
+24.1x
+-4%
+22.1x
+-10%
+-13%
+-15%
+18.5x 17.7x -28% -21%
+16.0x -27% 15.4x 14.9x 14.7x
+13.6x 12.7x
+-33% 12.4x 12.0x -26.0%
+11.2x 10.6x 10.8x
+-42% -39%
+-51%
+-55%
+2018 P/E Alts % Discount/Premium (RHS)
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+-50%
+-60%
+Source: Company Documents, Morgan Stanley Data
+Note: P/E multiples for other financials subsectors aside from brokers and asset managers are based on
+Morgan Stanley Estimates as of 1/18/2017
+6
+M
+M
+On average the group currently
+trades at 10.8x on 2018e EPS with
+an average effective tax rate for
+economic net income (the metric
+used for EPS calculations) of
+9.6%. The low tax rate is a result of
+favorable treatment of passthrough
+performance fees and tax
+offsets. This is well below broader
+financials peers and on average, a
+26% discount to P/E multiples.
+Exhibit 4:
+Breakeven P/E multiple expansion of 2.1x required to offset 16% lower earnings in a C-corp on average.
+Ticker Current 2018E 2018E
+Price Tax Rate EPS P/E Tax Rate Pro-Forma EPS EPS % P/E ∆P/E
+@ 24% Tax Rate
+Change
+APO $36.42 11.5% 3.68 9.9x 24% 3.15 -14.3% 11.5x 1.7x
+ARES $24.70 8.7% 1.73 14.3x 24% 1.42 -17.7% 17.4x 3.1x
+BX $36.78 5.3% 3.26 11.3x 24% 2.62 -19.8% 14.1x 2.8x
+CG $25.60 17.8% 3.03 8.5x 24% 2.80 -7.7% 9.2x 0.7x
+KKR $24.40 3.8% 2.74 8.9x 24% 2.16 -21.3% 11.3x 2.4x
+OAK $45.20 10.5% 3.55 12.7x 24% 3.01 -15.1% 15.0x 2.3x
+Average 9.6% 3.00 10.9x 2.53 -16% 13.1x 2.1x
+Source: Thomson Reuters Company Data, Morgan Stanley Research estimates
+If the Alts converted to C-corps,
+there would be tax leakage as a result no pass-through of earnings for
+carried interest and investment income. We estimate an effective tax
+rate of 24% (21% federal + 3% state and local). The companies may
+be able to keep some of the tax offsets in place; however, we conservatively
+use a full 24% to evaluate the earnings impact. As a result of
+higher taxes and -16% lower earnings on average in a C-corp, the
+stocks would need to re-rate upward by 2.1x turns to maintain
+their current valuations.
+Exhibit 5:
+On average we estimate a -16% hit to EPS using a 24% tax rate in a
+C-corp structure. This would require 2018e multiples to expand 2.1x on
+average in order for shares to hold the current price
+P/E Multiples for Alts: Current vs 24% taxed EPS
+20.0x
+18.0x
+16.0x
+14.0x
+12.0x
+10.0x
+8.0x
+6.0x
+4.0x
+2.0x
+0.0x
+% EPS
+Change
+P/E Multiple Expansion required to Maintain Current Valuiton @ 24% Taxed EPS
+Current Multiple on 2018e EPS
+17.4x
+3.1x
+14.3x
+14.1x
+2.8x
+11.3x
+11.3x
+2.4x
+8.9x
+15.0x
+2.3x
+12.7x
+11.5x
+1.7x
+9.9x
+9.2x
+0.7x
+8.5x
+13.1x
+2.1x
+10.9x
+ARES BX KKR OAK APO CG Avg
+@24% Rate -17.7% -19.8% -21.3% -15.1% -14.3% -7.7% -16.0%
+Source: Thomson Reuters Company Data, Morgan Stanley Research estimates
+MORGAN STANLEY RESEARCH 7
+M
+M
+Impact to Current Valuations in Upside and Downside Case
+In the sections following we explain in greater detail our
+approach to potential Upside/Downside scenarios and the
+impact to valuation under potential conversion. The actual
+impact is very difficult to quantify given the variety of moving pieces
+and the reliance on investors to drive the a re-rating. We have presented
+it as a scenario analysis to evaluate conversion on a risk
+reward spectrum. Upside/downside scenarios show a positive skew
+for companies that have higher earnings contribution from management
+fees vs. more downside skew for companies with more performance
+fees (less certain re-rating of performance fees).
+As the examples herein illustrate, we see significant value in the
+re-rating of fee-related earnings that could unlock share value
+and result in higher stock prices. We believe these stable and
+growing fee earnings can support higher multiples and broader own-
+ership of the Alts and be the catalyst for the re-rating (explained in
+greater detail in the sections that follow). In both our upside and
+downside approaches we look at a Sum-of-the-Parts that values at 1)
+fee-related earnings, 2) balance sheet investments and net cash, 3)
+the net accrued carry balance, and 4) future value of carry. In both the
+current and upside case we use a fully taxed fee-related earnings at
+a 24% tax rate and our value for the balance sheet remains
+unchanged in both scenarios as well.
+However, we make several adjustments to our upside and downside
+case to reflect a C-corp structure with full tax rate on all earnings: 1)
+Tax the net accrued carry receivable balance at a 24%. 2) Tax our estimate
+for average net carry earnings at a full 24% rate. Further, in the
+upside case we also adjust the multiple upwards for fee related earnings
+driven by broader ownership of the stocks, and we conserva-
+Exhibit 6:
+Potential Upside Scenario SOTP Valuation for APO. We see potentially significant value from a re-rating of fee-related earnings driving higher valuation
+Apollo Global Management (APO)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(APO)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $1.66 $1.66 0% $1.66 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $1.26 $1.26 0% $1.26 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $18.94 $18.94 0% $28.40 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$2.72 $2.72 0% $2.72 0%
+$2.16 $1.64 -24% $1.64 -24%
+$2.45 $1.86 -24% $1.86 -24%
+Multiple 5.1x 4.2x -0.9x 7.1x 2.0x
+Market Implied Carry Value $12.61 $7.91 -37% $13.30 6%
+Total Value $36.42 $31.20 -14% $46.07 26%
+2018e EPS $3.68 $3.15 -14% $3.15 -14%
+P/E 9.9x 9.9x 0.0x 14.6x 4.7x
+Source: Thomson Reuters Company Data, Morgan Stanley Research estimates
+8
+M
+M
+tively adjust upward our multiple on future carried interest earnings
+by 2 turns. For Apollo, we see that nearly the entire the increase
+in value in the upside case is driven by the expansion of the FRE
+multiple from 15x to 22.5x.
+2018 Impact: Upside case impact is +13% vs. current price on
+average and 3.8x multiple expansion to a fully taxed EPS. In our
+upside case scenario, we assume a 22.5x multiple on fee-related earnings
+in our SOTP. We see favorable risk/reward skew APO.
+Downside case impact assumes no multiple expansion of any kind,
+and that the stocks trade at their same current P/E, however on
+lower, fully taxed EPS. This represents -18% average downside from
+current prices. While this is likely an unreasonable outcome this is
+the concern among some investors, given that the only certainty in
+the analysis is a higher tax drag and lower earnings. We see less favorable
+upside/downside skew for BX and KKR.
+Exhibit 7:
+We see the greatest contribution of fee-related earnings at ARES and
+APO as a percentage of pre-tax earnings
+2018e Pre-Tax Earnings Contribution
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Investment Income Performance Fees Core Fee Related Earnings
+22% 19%
+26%
+51%
+43% 64%
+39%
+7%
+36%
+37%
+29% 27%
+51%
+30%
+19%
+7%
+85% 48%
+8%
+24%
+29%
+ARES APO BX OAK KKR CG Avg.
+Source: Company Documents, Morgan Stanley Research estimates
+Note; Fee Related earnings are on MSe Core methodology, ARES Core FRE include BDC Part 1 Management
+fees that are typically excluded from MSe Core FRE definition
+Exhibit 8:
+On average we see potential for 3.7x turns of multiple expansion on in
+our upside case with fully taxed EPS at a 24% effective rate. This could
+drive +12% upside on average to current share prices
+P/E Multiples for Alts: Potential Expansion
+22.0x
+17.0x
+12.0x
+7.0x
+2.0x
+-3.0x
+% Upside
+to Stock
+Total Multiple Expansion in C-Corp Upside Scenario (on fully taxed EPS @ 24%)
+Current Multiple on 2018e EPS
+19.0x
+4.7x
+14.3x
+15.4x
+4.7x
+11.3x
+12.5x
+4.1x
+8.9x
+16.7x
+4.0x
+12.7x
+14.6x
+3.6x
+9.8x
+1.4x
+9.9x 8.5x
+14.7x
+3.7x
+10.9x
+ARES APO BX OAK KKR CG Avg
+9.2% 26.5% 9.3% 11.3% 10.7% 7.5% 12.4%
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 9:
+Summary Scenario Analysis: Potential upside/downside valuation and multiples impact if Alts convert to C-corp structure and pay a full 24% tax
+rate
+Upside Case Assumptions: 1) Fully taxed earnings and carry receivable
+balance 2) 22.5x Multiple on core FRE 3) Multiple expansion on carry of two
+turns to an average of 9.5x 2018-20 avg. performance fee earnings
+Downside Case Assumptions: 1) Fully taxed earnings and carry receivable
+balance 2) 15.0x Multiple on Core FRE 3) No P/E multiple expansion on fully
+taxed EPS 4) Back into implied multiple on future carry of 5.6x on avg.
+Ticker
+Current
+Price
+Valuation (C-
+Corp
+Conversion)
+Valuation Price/Fully
+Taxed EPS
+∆ Current P/E vs.
+w/ 24% Taxed
+EPS
+% Upside Price
+Change From
+Current
+Valuation (C-
+Corp
+Conversion)
+Valuation
+Price/Fully Taxed
+EPS
+∆ Current P/E vs.
+w/ 24% Taxed EPS
+% Downside Price
+Change From
+Current
+APO $36.42 $46.07 14.6x 4.7x 26.5% $31.20 9.9x 0.0x -14.3%
+ARES $24.70 $27.18 19.1x 4.8x 10.0% $17.95 12.6x -1.7x -27.3%
+BX $36.78 $40.18 15.4x 4.1x 9.3% $29.51 11.3x 0.0x -19.8%
+CG $25.60 $27.52 9.8x 1.4x 7.5% $23.62 8.5x 0.0x -7.7%
+KKR $24.40 $27.01 12.5x 3.6x 10.7% $19.21 8.9x 0.0x -21.3%
+OAK $45.20 $50.31 16.7x 4.0x 11.3% $38.39 12.7x 0.0x -15.1%
+Average 14.7x 3.8x 12.6% 10.7x -0.3x -17.6%
+Median 15.0x 4.0x 10.4% 10.6x 0.0x -17.4%
+Source: Company Data, Thomson Reuters, Morgan Stanley Research estimates. Note: Price as of 1/26/2017
+MORGAN STANLEY RESEARCH 9
+M
+M
+Exhibit 10:
+We see more favorable risk-reward skew at APO given greater concentration
+of fee related earnings vs. performance fees
+Estimated Change to Curent Share Price
+30%
+20%
+10%
+0%
+-10%
+-20%
+-30%
+-40%
+26%
+-14% -15%
+Downside
+11% 11% 9% 10%
+-21% -20%
+-27%
+Upside
+8%
+-8%
+13%
+-18%
+APO OAK KKR BX ARES CG Avg.
+Source: Company Data, Morgan Stanley Research estimates
+ARES Conversion Largely Priced In
+With the recent run up of ARES stock price, the market seems to
+have already priced in a good portion of the upside from conversion.
+Year to date, ARES has out performed peers by ~10% likely on
+the back of this expected conversion. As a result we have looked at
+the share price of ARES at several time periods to assess what is
+embedded in the price already.
+How do we arrive as such an estimate? We start with the 12/31/2017
+share price of $20.00. We then gross up this starting point for the
+broader performance of peers to isolate just the outperformance of
+ARES vs the group. The alts group ex ARES YTD is up +10% so we use
+a starting price for ARES of $21.90.
+l We first estimate the implied multiple on future carry for
+ARES at the pro forma stock price before C-corp conversoin
+began to be priced in. (we explain this in process in greater
+detail in the section on Deconstructing Our Implied Carry Valuation).
+l We then take the current share price today and assume that
+the run up in price was a result purely from multiple expansion
+on fee related earnings. In doing this we hold the performance
+fee multiple and value of future performance fees
+constant.
+l We then back into an implied value of FRE using the various
+components of the SOTP and the current share price. We
+divide that value by our 2018e FRE to determine our estimate
+for baked in multiple expansion at ARES. (Please see Ares
+Management SOTP and Sensitivity Analysis for more
+details.)
+We see the market valuing ARES's FRE at 18.3x, with about 3.4x turns
+of multiple expansion YTD and pricing in a large degree of the potential
+benefit from C-corp conversion. This is just under half of the total
+7.5x turns of FRE multiple expansion that we expect to see in our
+upside scenario for the Alts. As a result, our upside/downside from
+for ARES has a less favorable risk reward skew, as much of the upside
+is already baked in.
+10
+M
+M
+Why Should Fee-Related Earnings
+Re-Rate Higher?
+We point to three approaches to thinking about how to
+value fee-related earnings and what the right multiple
+should be on this earnings stream. We believe that under
+a C-corporation structure with a broader potential investor
+base and ownership, this portion of the Alts earnings are
+most likely to re-rate significantly higher while there could
+be more variability in the multiple investors ascribe to performance
+fees. We currently believe the market is pricing in
+fee related earnings around 15x times, a discount to where
+these earnings could trade up to. As we explain in greater
+detail in the Appendix, we see ARES as a stock that is likely
+to convert, and as we take a look at the SOTP, we believe
+FRE for ARES has already seen significant expansion. We
+estimate the multiple on ARES FRE has already gone up
+from 15.0x to 18.4x.
+Below we look at where multiples could trade for the broader
+group as a whole, but acknowledge that investors likely use different
+FRE multiples for companies to account for duration of assets,
+growth in AUM, franchise value etc. On average, our three
+approaches suggest a 23.4x multiple for fee related earnings. In our
+upside case we use a 22.5x multiple. These multiples are on 2018e fee
+related earnings as we are trying to evaluate where the stocks trade
+today, and where they could potentially trade to in the near term.
+1) Premium to Traditionals Asset Managers
+Exhibit 11:
+The average of our three approaches to FRE multiples suggests and
+FRE multiple of 23.4x
+FRE Multiples Across Three Approaches
+35.0x
+30.0x
+25.0x
+20.0x
+15.0x
+10.0x
+5.0x
+0.0x
+15.4x
+Traditionals
+Method
+26.0x
+C-Corp Alts
+28.9x
+Bond Yield
+Cap Rate
+Average
+Source: Company Data, Morgan Stanley Research estimates
+23.4x 22.5x
+Average
+MSe Upside
+Case
+Exhibit 12:
+Traditional managers trade at a 15.4x FY2 P/E multiple with average
+net flows of just +1% during that time period
+25.0x
+20.0x
+15.0x
+10.0x
+5.0x
+0.0x
+Covered Trad. AMs' FY2 P/E, and Annualized Flows
+Covered Trad. FY2 Avg. P/E Historical Multiple 05'-17' Median Ann. - Quarterly LT Net Flows/BoP LT AuM (%)
+Trailing 10Y: ~2.3% Avg. Annualized
+Organic Net Flows/BoP LT AuM
+2Q15: Average FY2 P/E 13.8x below
+historical avg of 15.8x
+15.4x
+1Q08
+2Q08
+3Q08
+4Q08
+1Q09
+2Q09
+3Q09
+4Q09
+1Q10
+2Q10
+3Q10
+4Q10
+1Q11
+2Q11
+3Q11
+4Q11
+1Q12
+2Q12
+3Q12
+4Q12
+1Q13
+2Q13
+3Q13
+4Q13
+1Q14
+2Q14
+3Q14
+4Q14
+1Q15
+2Q15
+3Q15
+4Q15
+1Q16
+2Q16
+3Q16
+4Q16
+1Q17
+2Q17
+3Q17
+4Q17E
+1Q18E
+2Q18E
+3Q18E
+4Q18E
+Source: Thomson Reuters, Company Data, Morgan Stanley Research
+15.0%
+10.0%
+5.0%
+0.0%
+-5.0%
+-10.0%
+-15.0%
+-20.0%
+We see the historical average P/E multiple for traditional asset
+managers of 15.4x as a starting point for FRE multiples. The traditional
+asset manager business model earns management fees with a
+significantly smaller portion of revenues from performance fees relative
+to alternative asset managers.
+We believe the Alts' management fee earnings, however, command
+a premium multiple given several factors: A) faster organic
+growth, B) stickier long-term committed assets, C) fees paid on committed
+capital which limits downside risk to revenues, and D) more
+insulation from fee pressure.
+A) Faster net organic growth in fee-paying assets under management
+for Alts vs. slower growth rates at traditional asset managers.
+The Alts have outpaced organic growth rate of traditional
+asset mgrs over the past 4 years by nearly 700 bps, and we estimate
+900bps of continued outperformance on average from 2018
+through 2019. Organic growth has averaged 5% for the alts from the
+period 2014-17e, while the traditionals have seen net outflows and
+organic decay of -2%. Looking two years out, we see traditionals net
+inflows of 1% vs. alts on average at 10% driven by continued fundraising
+strength and fees turning on for existing funds that have
+already been raised.
+MORGAN STANLEY RESEARCH 11
+M
+M
+Exhibit 13:
+Alts organic growth has outpaced traditionals by 7% over the past 4 years, and we expect average Alts growth over the next to years to be 10x that
+of Traditionals
+Organic Asset Growth: Traditionals vs. Alts
+Avg. 2014 - 2017E Growth Rate
+20%
+15%
+10%
+5%
+0%
+-5%
+-10%
+-15%
+7%
+5%
+BLK
+-6%
+3%
+2% 2% 1%
+0%
+1% 1% 0% 1%
+VRTS
+LM
+IVZ
+Source: Company Data, Morgan Stanley Research estimates
+Note: We look at fee paying AUM for the alts to calculate organic growth
+TROW
+OMAM
+-4%
+-3%
+BEN
+-7%
+-13%
+WDR
+Avg. 2018 - 2019 Growth Rate
+4%
+18%
+APO
+-2%
+11%
+10%
+8% 9% 8% 8%
+6% 6%
+CG
+KKR
+BX
+ARES
+0%
+OAK
+-2%
+1%
+Trads Avg
+5%
+10%
+Alts Avg
+Despite the more favorable view on asset growth, the alternative
+asset mangers continue to trade at a significant P/E discount
+to traditionals. The group currently trades at 10.8x MSe 2018 EPS,
+a 3.0x turn discount to traditionals peers. This however is on total
+earnings per share, and is inclusive of performance fees which investors
+use a lower multiple on given volatility. However, we believe a
+re-rating of the management fee portion of earnings in a SOTP valuation
+alone could help close the overall P/E gap vs. traditionals.
+Exhibit 14:
+Organic Growth for Traditional Asset Managers (2018e avg) vs. Current
+2018e P/E Multiple
+2018 P/E Ratio
+25x
+HLNE
+23x
+21x
+BLK
+19x
+17x
+TROW
+15x
+BEN
+LM
+13x
+IVZ
+11x
+WDR
+VRTS
+OMAM
+9x
+-15% -10% -5% 0% 5% 10%
+2018 Organic Growth Rate (%)
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 15:
+Organic Growth for Traditional Asset Managers (9m17 Annualized) vs.
+Current 2018e P/E Multiple
+2018 P/E Ratio
+27x
+25x
+23x
+21x
+19x
+BLK
+HLNE
+17x
+15x
+BEN
+FII
+TROW
+LM
+CNS
+EV
+13x WDR
+AMG
+IVZ
+11x
+APAM VRTS
+OMAM
+AB
+9x
+-15% -10% -5% 0% 5% 10% 15%
+Source: Company Data, Morgan Stanley Research estimates
+9m17 Organic Growth Rate (% annualized)
+B) Longer-term capital that is committed for a defined period of
+time and pays fees with an average duration of 12 years in a typical
+drawdown fund. As you can see in the following exhibit based on fullyear
+2016 data, we see larger redemption rates from traditional asset
+managers (those that disclose redemption rates) relative to alts. For
+traditionals we look at total redemption rates. For the alternatives
+we look at realizations/harvesting of investments along with
+redemptions of open ended products from fee paying AUM as it is
+more comparable to traditional asset managers. If we take 1 divided
+by the redemption rate, we can back into an average duration of
+assets under management. For traditionals below (both covered and
+non covered), this equates to 4.3 years duration and for the alterna-
+12
+M
+M
+tives 6.8 years. Said differently, the alternatives have nearly 55%
+longer duration of the asset base.
+2) Publicly Traded Alts Comps
+Exhibit 16:
+Redemption Rates by Company for 2016: Alts see less redemption
+money as a % of AuM relative to traditionals and duration of assets
+~55% longer and C-corp alts with the longest duration.
+Annual Redemption Rates by Company: 2016
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+33%
+29%
+25% 24% 23% 22%
+Alts have ~55% longer duration of AUM
+compared to traditionals. Based on 2016
+redemptions and outflows we see alts
+avg. duration of 6.8 years vs. trads at
+4.3. C-Corp alts have the longest
+implied duration of assets at 11.8 years
+18% 18% 17% 17%
+16%
+13% 12% 11%
+8%
+6%
+Source: We use Fee Paying AUM for the Alts; Soure: Company Data, Morgan Stanley Research
+Note: HLNE outflows are for an average of FY2016 and FY2017
+C) Management fees that are paid on committed money rather
+than net asset value. This provides much more stability and downside
+protection, but limits upside to management fees as investments
+appreciate in value do not automatically translate into higher
+mgmt fees. The Alts then participate in investment performance
+through performance fees or carried interest, whereas the traditionals
+participate in performance via greater management fees on a
+higher value of invested assets.
+D) Relatively more insulation from fee pressure in private markets
+given limited low cost competitors (indexed funds and ETFs for
+traditionals) and higher demand for products driven by the search for
+higher return and diversification from investors. In fact, recent
+demand for some PE funds has actually led to supply constraints and
+allowed Alts to give less fee concessions. Apollo, for example, closed
+fundraising for their flagship Fund IX last year at $24b, but the
+demand was 25% higher at $30b. As a result, the company said "economics
+to Apollo for Fund IX are considerably better since we did not
+need to provide as many management fee discounts." This supports
+the forward look on growth in management fee revenues; however,
+we could see some mix shift into lower return profile (and lower fee)
+products that could begin to pressure fee rates over time.
+23%
+15%
+9%
+We see Hamilton Lane (HLNE, Equal-weight) and Partners Group
+(PGHN, Equal-weight, covered by Anil Sharma) as offering an
+upside scenario for Alts' fee-related earnings multiples.
+Hamilton Lane is ~90% fee earnings and currently trades at 23.4x
+multiple on our CY2018e EPS. Similar to alternative asset manager
+peers, the company gets paid management fees on drawdown funds
+and customized separately managed accounts with stable fees paid
+on committed capital. PGHN is a publicly traded alternative asset
+manager in Switzerland, and as a C-corporation it is the closest true
+comp for HLNE.
+While we see the publicly traded C-corps as good comps, there
+are several factors that could be elevating the multiples. HLNE is
+a small cap stock with $2b market cap and may not be the best comp
+for the large cap PE firms. The company has limited float (currently
+at ~25%) and scarcity value as the only US based publicly traded alt
+in a C-corp structure. PGHN is a trades in Europe and may not be a
+great comp because of that. Lastly, while not drastically different,
+HLNE and PGHN have had higher organic growth historically and
+looking out over the next 2 years we expect their growth to outpace
+most of the alts. As a result of the high multiples at the public C-corp
+alts, we have heard partnership alts increasingly use HLNE as a peer
+comp.
+Exhibit 17:
+We expect Alts to deliver similar organic growth profile over the next
+few years as C-Corp Alts Hamilton Lane and Partners Group
+Organic Asset Growth:C-Corp Alts vs. Partnership Alts
+20%
+Avg. 2014 - 2017E Growth Rate Avg. 2018 - 2019 Growth Rate
+15%
+10%
+5%
+0%
+-5%
+4%
+APO
+18%
+-2%
+11%
+9% 10%
+8% 8%
+CG
+KKR
+BX
+8%
+6%
+ARES
+0%
+OAK
+6%
+14%
+11% 11% 11%
+Source: Company Data, Morgan Stanley Research
+Note: HLNE average organic growth includes years 2015 - 2017e where we have data; The alts average
+uses 2014 - 2017e for consistency with the traditionals organic growth chart above
+HLNE
+PGHN
+5%
+Alts Average
+10%
+MORGAN STANLEY RESEARCH 13
+M
+M
+Exhibit 18:
+HLNE Currently Trades 23.4x on FY2 P/E (an 18% premium to when the
+company began trading after going public in early 2017); Partners
+Group currently trades at a 28.2x P/E (a 21% premium to its last 3 year
+average P/E ratio)
+C-Corp Alts FY2 P/E Multiple
+29.0x
+27.0x
+25.0x
+23.0x
+21.0x
+19.0x
+17.0x
+HLNE
+PGHN
+28.2x
+15.0x
+Jan-15 Jul-15 Jan-16 Jul-16 Jan-17 Jul-17 Jan-18
+23.4x
+Source: Thomson Reuters, Morgan Stanley Data
+Note: Hamilton FY2 EPS estimates are on the company's fiscal year basis, the twelve months ending 3/31
+HLNE and PGHN P/E multiples as of 1/12/2018 based on consensus EPS
+3) Bond Yield Approach
+Our third approach to coming up with the appropriate multiple
+for fee-related earnings is to compare fee revenues to a similar
+to a bond with a 10-year duration given the locked-in nature of
+committed capital with fees paid on commitments (Par Value) as
+opposed to paid on NAV. Importantly, the Alts are increasingly
+growing permanent capital or very long duration capital that has
+attractive life-time value of the contract. APO has the largest
+amount of permanent capital, representing about 43% of AUM,
+followed by ARES at 16%. This results in a stable stream of revenues,
+however there could be variability on the expenses that would
+impact fee related earnings. Under the bond approach the "default
+risk" in this scenario would be counter party risk that management
+fees would not be paid by limited partners. These LPs include sovereign
+wealth funds, pensions, and other institutional investors that we
+view as highly unlikely to default.
+Our methodology starts with the 10-year US treasury yield, given
+the similar duration to the life of the draw down funds management
+fees. We then add an appropriate credit spread on top of the 10-year
+yield to account for the risk that these institutions "miss" payment of
+their management fees. We also consider the fact that not all fee
+paying assets under management at the alts are subject to lock ups
+(such as hedge fund AUM, open ended funds). Those alts with larger
+amounts of permanent capital or longer duration of assets would
+suggest a lower credit spread given less risk of lost revenues in our
+view.
+We look at AA and BBB credit spreads as a proxy for high and low
+"default risk" for LPs paying management fees. AA credit spreads
+are currently at 53bps and BBB are currently at 122bps. Again, the risk
+of "default" is likely overstated by using these yields but we show this
+range to account for other factors including differences in duration
+of assets. We then add these spreads to the current 10 yr treasury
+yield of 2.62% to get a yield of 3.15% and 3.84% respectively. Lastly,
+we capitalize these yields to back into implied FRE multiples by
+taking 1 divided by each of the yields. This implies a multiple of 31.7x
+using AA spread and 26.0x using BBB spread. Finally we take an
+average of the two credit spread approaches to get to 28.9x.
+Exhibit 19:
+Permanent capital represents 15% of AUM on average for alternatives
+and we see 63% on average with a contractual life of 7+ years
+Alts Contractual Life of AUM
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+7+ Years at Commitment Permanent Capital
+89%
+84% 83%
+80%
+78%
+72%
+43%
+41%
+67%
+57%
+67% 86%
+59%
+58%
+63%
+16% 15% 13%
+3% 1%
+15%
+APO ARES BX KKR CG OAK Avg
+Source: Company Data, Morgan Stanley Research
+Note: KKR permanent capital refers to capital of infinite duration. Contractual life of AUM refers to the
+duration at inception for KKR
+Exhibit 20:
+Our cap rate approach to valuing FRE implies a multiple of 26.0 to 31.7x
+based on a yield of 3.15% using a AA credit spread on the 10-year treasury
+yield and a 3.84% yield using a BBB credit spread
+Walk to Assumed Yields for Cap Rates
+4.50%
+4.00%
+3.50%
+3.00%
+2.50%
+2.00%
+1.50%
+1.00%
+0.50%
+0.00%
+2.62%
+10-Yr
+Treasury
+0.53%
+Credit
+Spread
+(low end)
+3.15%
+Yield
+Source: Thomson Reuters, Morgan Stanley Research
+2.62%
+10-Yr
+Treasury
+1.22%
+Credit
+Spread
+(high end)
+3.84%
+Yield
+14
+M
+M
+What Is the Impact of Higher FRE
+Multiples in a SOTP approach?
+If we take an average of the three approaches described above of 1)
+traditionals at a historical 15.4x, 2) publicly traded C-corp alts at an
+average 26.0x, and 3) our capitalized bond yield approach at an
+average 28.9x, we arrive at a 23.4x multiple for fee related earnings.
+Exhibit 21:
+The average of our three approaches to FRE multiples suggests and
+FRE multiple of 23.4x
+FRE Multiples Across Three Approaches
+35.0x
+30.0x
+25.0x
+20.0x
+15.0x
+10.0x
+5.0x
+0.0x
+15.4x
+Traditionals
+Method
+26.0x
+C-Corp Alts
+28.9x
+Bond Yield
+Cap Rate
+Average
+Source: Company Data, Morgan Stanley Research estimates
+23.4x 22.5x
+Average
+MSe Upside
+Case
+Exhibit 22:
+Using a 22.5x FRE multiple implies an average 6.1x multiple on fully
+taxed future performance fee earnings
+Implied Future Carry (Fully Taxed) Multiples using 22.5x
+FRE Multiple
+0.0x 2.0x 4.0x 6.0x 8.0x 10.0x
+ARES
+8.4x
+BX
+9.3x
+CG
+7.1x
+KKR
+5.4x
+OAK
+4.5x
+APO
+2.0x
+Avg
+Med
+6.1x
+6.2x
+Source: Company Data, Morgan Stanley Research estimates
+If the market re-rates FRE multiple to 22.5x, then we see the current
+share price valuing performance fees at 6.1x. This is based on
+our SOTP framework. (See Deconstructing Our Implied Carry Valuation:
+What Is the Market Paying? for more details on methodology.)
+Exhibit 23:
+SOTP analysis using a 22.5x FRE multiple and current share price implies future carry is being valued at 6.1x future performance earnings on average
+= B+C+D = A-E-F = E+F+G = G/I
+A B C D E F G H I J
+Ticker
+Current
+Price
+2018E
+Core FRE
+FRE
+Multiple
+Core FRE
+Value Per
+Share @
+24% tax
+Rate
+After-Tax
+BDC
+Value Per
+Share
+BS Value
+Per Share
+SOTP
+Value Ex-
+Carry Per
+Share
+After-Tax
+Net Carry
+Receivable
+Per Share
+@24% Rate
+Market
+Implied
+Value of
+Future
+Carry
+Total
+Value Per
+Share
+After Tax Avg.
+Net Carry Per
+Share (2018-
+2020)
+Implied
+Future
+Carry
+Multiple
+APO $36.42 669 22.5x $28.40 $0.00 $2.72 $31.13 $1.64 $3.66 $36.42 $1.86 2.0x
+ARES $24.70 185 22.5x $14.71 $4.52 $0.69 $19.92 $0.78 $3.99 $24.70 $0.48 8.4x
+BX $36.78 1,196 22.5x $17.03 $0.00 $2.83 $19.86 $2.29 $14.63 $36.78 $1.57 9.3x
+CG $25.60 100 22.5x $5.01 $0.00 $0.85 $5.86 $4.40 $15.34 $25.60 $2.17 7.1x
+KKR $24.40 475 22.5x $9.57 $0.00 $9.71 $19.28 $1.32 $3.80 $24.40 $0.71 5.4x
+OAK $45.20 166 22.5x $18.17 $0.00 $15.19 $33.36 $4.38 $7.47 $45.20 $1.68 4.5x
+Average 6.1x
+Median 6.2x
+Source: Company Data, Morgan Stanley Research estimates
+MORGAN STANLEY RESEARCH 15
+M
+What Is the Appropriate Multiple for
+Performance Fees?
+Investors have a wide dispersion of responses on what is the
+appropriate multiple for performance fees. We believe that at current
+share prices, the market is valuing fee-related earnings 15.0x.
+This represents an 1.8x turn premium or +13% premium to current
+traditional multiples on 2018e EPS of 13.2x. Using this as a starting
+point, we see the market valuing performance fees at 7.5x on
+average using a sum of the parts framework. If we assume C-corp
+conversion with a higher 24% tax rate, and believe alts' fee related
+earnings can re-rate from 15x to 22.5x, then we see the market valuing
+performance fees at just 6.1x on average today.
+Where should performance fee-related earnings trade? Given
+that carry earnings (performance fees) are cyclical and historically
+volatile, we look to Goldman Sachs as a comp for this earnings
+stream. On average since 2010 (post crisis) the FY2 price to earnings
+multiple at GS has been 9.5x, with a standard deviation of 1.4x.
+We see a range of multiples of +6.7x to +12.3x using two standard
+deviations above and below the average. We see this as reasonable
+starting point for valuing performance fees. The group average
+implied future carry multiple of 7.5x is 1.4 standard deviations away
+from GS FY2 P/E multiple. If alts convert, we believe this multiple
+should be able to move upward but will likely remain at a steep discount
+to the FRE multiple given the volatile nature of the performance
+fees. In our upside case scenario, we bake in two turns of
+multiple expansion from current implied rate for each company. This
+results in median performance fee multiple across the group of 8.5x,
+about slightly less than one standard deviation from GS FY2 multiple
+since dating back to 2010.
+On a cash basis, the volatility of performance fee earnings (net
+cash carry) for the alts on a TTM basis has been fairly similar to
+the volatility of Goldman Sachs's operating earnings. For
+Goldman, we look at operating earnings both with and without
+investment management revenues to isolate the more volatile businesses.
+The following bar graph looks at the standard deviation of
+the year over year % change of the trailing twelve months earnings.
+The alts average is 1.2 about double the volatility of GS (ex investment
+management) of 0.6. This suggests even further upside and
+greater conviction in our multiples for performance fee multiples,
+especially for those companies with less volatility (Carlyle and KKR).
+Exhibit 24:
+With a 24% tax rate on all earnings and a 22.5x FRE multiple, we
+see future performance fees valued at and implied 6.1x multiple
+on average.
+Implied Future
+Carry Multiple
+using a 15.0x
+FRE multiple
+Implied Future
+Carry Multiple
+using a 22.5x
+FRE multiple
+APO 5.1x 2.0x
+ARES 11.6x 8.4x
+BX 9.5x 9.3x
+CG 6.0x 7.1x
+KKR 7.0x 5.4x
+OAK 5.5x 4.5x
+Avg. 7.5x 6.1x
+Med. 6.5x 6.2x
+Source: Company Data, Morgan Stanley Research
+Note: We use a 18.4x multiple for ARES as the stock has already priced in much of the potential
+value of C-corp conversion Note 2: Scenario using 15x FRE does not use fully taxed net accrued
+carry and future carry while the scenario using a 22.5x FRE multiple assumes C-corp conversion
+and full 24% effective tax rate on both net accrued carry and future carry earnings.
+Exhibit 25:
+Goldman sachs has historically traded at an average FY2 P/E of 9.5x
+and a standard deviation of 1.4x
+GS FY2 P/E Multiple
+14.0x
+13.0x
+12.0x
+11.0x
+10.0x
+9.0x
+8.0x
+7.0x
+6.0x
+5.0x
+Jan-10 Jan-12 Jan-14 Jan-16 Jan-18
+Source: Thomson Reuters, Company Data , Morgan Stanley research
++2 St. Dev 12.3x
+-1 St. Dev 10.9x
+Avg 9.5x
+-1 St. Dev 8.1x
+-2 St. Dev 6.7x
+Note.: Data includes daily FY2 P/E ratios to calculate standard deviation of P/E ratios using data beginning
+January 2010
+16
+M
+M
+Exhibit 26:
+Alts Net Cash Carry Volatility vs. GS earnings volatility on a TTM basis
+Y/Y TTM Historical Earnings Volatility (St. Dev)
+3.0
+2.4
+2.5
+2.0
+1.5
+1.0
+0.5
+1.6
+1.5
+1.2
+0.9
+0.4
+0.3
+0.5
+0.6
+0.0
+BX OAK APO Alts
+Average
+ARES KKR CG GS GS Ex-
+IM
+Source: Company Data, Morgan Stanley Research
+MORGAN STANLEY RESEARCH 17
+M
+Deconstructing Our Implied Carry Valuation:
+What Is the Market Paying?
+We deconstruct the various pieces of a SOTP for the alts
+in order to determine our best guess on how much the
+market is valuing future performance fees. We then
+divide that implied value by future performance fee earnings,
+to determine the implied multiple that the market is
+paying for this earings stream. This is the groundwork for
+our upside and downside scenarios if the alts were to
+convert to C-corps.
+We simplify our the SOTP and standardize it across the group to
+look at 4 main components. 1) after-tax core fee-related earnings,
+2) balance sheet value of investments plus net cash/debt, 3) net
+accrued carry balance, and 4) future value of performance fees. The
+values of the balance sheet and net accrued carry receivable are
+static items with balances as of 3Q17. We then adjust the multiple on
+our core FRE to determine a value for what we believe the street is
+using. To be conservative, we use 15x as a starting point for what we
+believe is currently priced in. We then take the current share price
+and subtract out the value of the FRE, net accrued carry performance
+fees and the balance sheet and we are left with an implied value of
+what the market is pricing in for future carry. Once we have the future
+carry value, we divide by the net performance fee earnings per share
+for each company and get an implied multiple on the future performance
+fees. Using this approach and a 15x multiple on FRE, we see the
+market is valuing future performance fees at 7.5x on average and a
+median 6.5x.
+We make several key adjustments in the SOTP valuations: First,
+we use our own Morgan Stanley definition of "core fee-related earnings"
+in our calculation. We use our core approach as we attempt to
+normalize the various definitions of FRE across the companies. The
+main difference vs. company-reported FRE is that we fully burden all
+expenses, including equity-based compensation. KKR differs the
+most on company-reported vs. MS Core FRE. For more information
+on our core FRE methodology, please see our note Alternative Asset
+Managers: Who's Got Swimsuits? (19 May 2016).
+We also make adjustments for ARES an OAK. For Ares: a significant
+portion of the fee related earnings come from Part 1 BDC fees.
+These are investment income sharing fees from their management
+agreement with ARCC. In the MS approach, we value these separately
+from more traditional management fees. However, we do not
+believe that the market looks at the fees this way, and so we include
+them in the total FRE by using the same multiple as we are using for
+FRE (15x). For presentation purposes in the table below, we break out
+the BDC Part 1 fees separately for ARES to show the value. OAK: We
+adjust the balance of OAK's investments on balance sheet to account
+for OAK's 20% ownership stake in DoubleLine which it currently
+holds at cost of $21m as adjusted under the equity method of
+accounting. With the benefit of lower corporate taxes we currently
+value OAK's ownership stake at $1B. We do not believe the market
+gives full value for this 20% ownership and haircut our MSe value by
+50% to $500m. We then add this value to the balance of investments
+and net cash for OAK's total balance sheet value.
+Exhibit 27:
+Market Implied Value of Future Carry at current share price and 15x FRE multiple
+= B+C+D = A-E-F = E + F + G = G/H
+A B C D E F G H I J
+Ticker
+Current
+Price
+2018E
+Core FRE
+FRE
+Multiple
+Core FRE
+Value Per
+Share @
+24% tax
+Rate
+After-Tax
+BDC
+Value Per
+Share
+BS Value
+Per Share
+SOTP
+Value Ex-
+Carry Per
+Share
+Pre-Tax Net
+Carry
+Receivable
+Per Share
+Market
+Implied
+Value of
+Future
+Carry
+Total
+Value Per
+Share
+Pre-Tax Avg.
+Net Carry Per
+Share (2018-
+2019)
+Implied
+Future
+Carry
+Multiple
+18
+APO $36.42 669 15.0x $18.94 $0.00 $2.72 $21.66 $2.16 $12.61 $36.42 $2.45 5.1x
+ARES $24.70 185 18.4x $12.02 $3.70 $0.69 $16.41 $1.03 $7.26 $24.70 $0.63 11.6x
+BX $36.78 1,196 15.0x $11.36 $0.00 $2.83 $14.19 $3.01 $19.59 $36.78 $2.07 9.5x
+CG $25.60 100 15.0x $3.34 $0.00 $0.85 $4.19 $4.40 $17.01 $25.60 $2.85 6.0x
+KKR $24.40 475 15.0x $6.38 $0.00 $9.71 $16.09 $1.74 $6.57 $24.40 $0.93 7.0x
+OAK $45.20 166 15.0x $12.11 $0.00 $15.19 $27.30 $5.76 $12.14 $45.20 $2.20 5.5x
+Average 7.5x
+Median 6.5x
+Source: Company Data, Morgan Stanley Research estimates
+M
+M
+Upside Scenario
+Starting with the framework laid out above, we make several key
+adjustments in our upside scenario to illustrate where we think multiples
+go and where the stocks can trade over the near term if the alts
+convert. Our upside scenario implies an average share price increase
+of 13% across the group.
+l First we fully tax effect the performance fee earnings.
+Under a C-corp structure these would not get the passthrough
+benefit and would be subject to full taxes. We use a
+full 24% tax drag on the net accrued carry receivable balance
+and the future net carry per share.
+l Second we adjust the FRE multiples upward. As we discussed
+previously with our three approaches for FRE multiples,
+we believe there is significant upside to the value of
+these earnings if alts were to convert. This drives nearly all of
+the upside from current prices in our upside scenario. We use
+a 22.5x multiple on FRE in our upside case, which represents
+50% increase from the 15x multiple that we believe is priced
+in today.
+l Last we assume 2x of multiple expansion for performance
+fees. As a starting point, we look at the implied multiples
+using current share prices and a 15x multiple for FRE as
+described above. We then add 2x turns of multiple expansion
+to each of the companies' current implied multiples. We look
+to the Goldman Sachs example earlier in the note as a comp
+for cyclical financials earnings. Our group median for implied
+future carry multiples of 8.5x is just under one standard deviation
+away from GS's historical P/E average of 9.5x. Although
+we use the higher multiple, this is on a lower value of fully
+taxed future performance fee earnings. The impact to valuation
+of future performance fees are mixed from company and
+can be seen in greater detail in the following appendix with
+company specific SOTP and scenario analysis. While we
+expect some multiple expansion for performance fees in a
+C-corp, the structure will not change the inherent volatility
+of the performance fee portion of earnings that is
+marked to market.
+Exhibit 28:
+Upside Scenario SOTP Valuation
+= B+C+D = G x H = E + F + I
+A B C D E F G H I J
+Ticker
+Current
+Price
+2018E
+Core FRE
+FRE
+Multiple
+Core FRE
+Value Per
+Share @
+24% tax
+Rate
+After-Tax
+BDC
+Value Per
+Share
+BS NAV
+Per Share
+SOTP
+Value Ex-
+Carry Per
+Share
+After-Tax
+Net Carry
+Receivable
+Per Share
+@24% Rate
+Net Carry Per
+Share After 24%
+Tax (Avg. 2018e-
+2020e)
+Future
+Carry
+Multiple
+Value of
+Future
+Carry
+Total
+Value Per
+Share
+%
+Increase
+from
+Current
+Price
+APO $36.42 669 22.5x $28.40 $0.00 $2.72 $31.13 $1.64 $1.86 7.1x $13.30 $46.07 26%
+ARES $24.70 185 22.5x $14.71 $4.52 $0.69 $19.92 $0.78 $0.48 13.6x $6.47 $27.18 10%
+BX $36.78 1,196 22.5x $17.03 $0.00 $2.83 $19.86 $2.29 $1.57 11.5x $18.04 $40.18 9%
+CG $25.60 100 22.5x $5.01 $0.00 $0.85 $5.86 $4.40 $2.17 8.0x $17.26 $27.52 8%
+KKR $24.40 475 22.5x $9.57 $0.00 $9.71 $19.28 $1.32 $0.71 9.0x $6.42 $27.01 11%
+OAK $45.20 166 22.5x $18.17 $0.00 $15.19 $33.36 $4.38 $1.68 7.5x $12.58 $50.31 11%
+Source: Company data, Morgan Stanley Research estimates
+Average 9.5x 13%
+Median 8.5x 10%
+MORGAN STANLEY RESEARCH 19
+M
+M
+Downside Scenario
+Our downside scenario is fairly straightforward: We assume that
+alts convert to C-corps and pay full taxes on earnings but the current
+p/e multiple does not re-rate upward at all. We assume the
+stocks trade at their current P/E, but on lower, fully taxed earnings.
+Therefore, our downside case for share prices is the same percentage
+downside to EPS if alts earnings are fully taxed. While we do not
+believe there is a high probability of this happening, this does
+represent a worst case scenario for the names, in our view. On
+average we see 18% potential downside for the group if this were to
+happen. We then use a similar approach to deconstruct the SOTP and
+see what the value for performance fees would be.
+l First, we determine the downside case share price by taking
+fully taxed 2018e EPS (at 24%) and multiplying by the current
+2018e P/E (the current P/E using our published EPS and current
+partnership tax structure).
+l In the SOTP, we assume that fee-related earnings multiples
+do not re-rate at all in the downside scenario and that the
+market continues to pay 15x. We believe there is a floor here
+in FRE will maintain current value.
+l Similar to the upside case, we then fully tax effect the performance
+fee earnings and use a full 24% tax drag on the net
+accrued carry receivable balance and the future net carry per
+share.
+l We then subtract out the value of the FRE, net accrued carry
+performance fees (tax adjusted) and the balance sheet value
+from our downside case derived share price. This gives us our
+downside case implied value of future carry.
+l Finally, we divide that implied future carry value by our
+fully taxed performance fee earnings (@24%) to arrive at
+our downside case implied value of future carry. On
+average, our downside case implied future value of carry multiple
+is 5.6x, nearly 3 standard deviations away Goldman
+Sachs FY2 P/E.
+Exhibit 29:
+Downside Scenario SOTP Valuation
+= B+C+D H I
+A B C D E F G = I / G = J-F-E J
+Ticker
+Current
+Price
+2018E
+Core FRE
+FRE
+Multiple
+Core FRE
+Value Per
+Share @
+24% tax
+Rate
+After-Tax
+BDC
+Value Per
+Share
+BS NAV
+Per Share
+SOTP
+Value Ex-
+Carry Per
+Share
+After-Tax
+Net Carry
+Receivable
+Per Share
+@24% Rate
+Net Carry Per
+Share After 24%
+Tax (Avg.
+2018e-2020e)
+Implied
+Future
+Carry
+Multiple
+Value of
+Future
+Carry
+Implied
+Total
+Value Per
+Share
+%
+Increase
+from
+Current
+Price
+APO $36.42 669 15.0x $18.94 $0.00 $2.72 $21.66 $1.64 $1.86 4.2x $7.91 $31.20 -14%
+ARES $24.70 185 15.0x $9.81 $3.01 $0.69 $13.51 $0.78 $0.48 7.7x $3.65 $17.95 -27%
+BX $36.78 1,196 15.0x $11.36 $0.00 $2.83 $14.19 $2.29 $1.57 8.3x $13.04 $29.51 -20%
+CG $25.60 100 15.0x $3.34 $0.00 $0.85 $4.19 $4.40 $2.17 6.9x $15.03 $23.62 -8%
+KKR $24.40 475 15.0x $6.38 $0.00 $9.71 $16.09 $1.32 $0.71 2.5x $1.80 $19.21 -21%
+OAK $45.20 166 15.0x $12.11 $0.00 $15.19 $27.30 $4.38 $1.68 4.0x $6.71 $38.39 -15%
+Source: Company Data, Morgan Stanley Research estimates
+Average 5.6x -18%
+Median 5.6x -17%
+20
+M
+M
+Appendix A: Company Scenario Analysis
+In the following tables, we flex the inputs in our SOTP
+valuation methodology to take a look at the potential
+impact at varying fee related earnings multiples and
+multiples on future carry. We use the same assumptions
+that we used in our upside scenario above, including a fully
+taxed (@24%) net carry receivable value as well as using a
+multiple on after tax net carry per share for future performance
+fees.
+For fee-related earnings, we use constant multiples for all companies.
+We begin with 12.5x, a slight discount to where the traditional
+asset managers trade today, and end at 30x, or closer to our bond
+yield cap rate multiple approach.
+On performance fees, we set the mid point at our estimate for the
+current market implied multiple on performance fees (using a 15x
+FRE as our starting point), as explained in our valuation methodology
+above.
+MORGAN STANLEY RESEARCH 21
+M
+Apollo Global Management SOTP and
+Sensitivity Analysis
+Exhibit 30:
+SOTP for APO
+Apollo Global Management (APO)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(APO)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $1.66 $1.66 0% $1.66 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $1.26 $1.26 0% $1.26 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $18.94 $18.94 0% $28.40 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$2.72 $2.72 0% $2.72 0%
+$2.16 $1.64 -24% $1.64 -24%
+$2.45 $1.86 -24% $1.86 -24%
+Multiple 5.1x 4.2x -0.9x 7.1x 2.0x
+Market Implied Carry Value $12.61 $7.91 -37% $13.30 6%
+Total Value $36.42 $31.20 -14% $46.07 26%
+2018e EPS $3.68 $3.15 -14% $3.15 -14%
+P/E 9.9x 9.9x 0.0x 14.6x 4.7x
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 31:
+APO Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$44.65 2.2x 3.2x 4.2x 5.2x 6.2x 7.1x 8.2x
+12.5x 24 26 28 30 32 33 35
+15.0x 27 29 31 33 35 37 39
+17.5x 31 32 34 36 38 40 42
+20.0x 34 36 37 39 41 43 45
+22.5x 37 39 41 42 44 46 48
+25.0x 40 42 44 46 47 49 51
+27.5x 43 45 47 49 51 52 54
+30.0x 46 48 50 52 54 55 57
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 32:
+APO Estimated % Change From Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+23% 2.2x 3.2x 4.2x 5.2x 6.2x 7.1x 8.2x
+12.5x -33% -28% -23% -18% -13% -8% -3%
+15.0x -25% -20% -14% -9% -4% 0% 6%
+17.5x -16% -11% -6% -1% 4% 9% 15%
+20.0x -7% -2% 3% 8% 13% 18% 23%
+22.5x 1% 6% 12% 17% 22% 26% 32%
+25.0x 10% 15% 20% 25% 30% 35% 41%
+27.5x 19% 24% 29% 34% 39% 44% 49%
+30.0x 27% 32% 38% 43% 48% 52% 58%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+22
+M
+Ares Management SOTP and Sensitivity Analysis
+Exhibit 33:
+SOTP for ARES
+Ares Management (ARES)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(ARES)
+Pro Forma
+Price
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $1.12 $1.12 $1.12 0% $1.12 0%
+Tax Rate 24% 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $0.85 $0.85 $0.85 0% $0.85 0%
+FRE Multiple 15.0x 18.4x 15.0x -3.4x 22.5x 4.1x
+Core FRE Value $12.82 $15.72 $12.82 -18% $19.23 22%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$0.69 $0.69 $0.69 0% $0.69 0%
+$1.03 $1.03 $0.78 -24% $0.78 -24%
+$0.63 $0.63 $0.48 -24% $0.48 -24%
+Multiple 11.6x 11.6x 7.7x -3.9x 13.6x 2.0x
+Market Implied Carry Value $7.26 $7.26 $3.65 -50% $6.47 -11%
+Total Value $21.80 $24.70 $17.95 -27% $27.17 10%
+2018e EPS $1.73 $1.73 $1.42 -18% $1.42 -18%
+P/E 12.6x 14.3x 12.6x -1.7x 19.1x 4.8x
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 34:
+ARES Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$26.74 7.7x 9.6x 10.6x 11.6x 12.6x 13.6x 14.6x
+12.5x 16 17 17 18 18 19 19
+15.0x 18 19 19 20 20 21 21
+18.7x 21 22 22 23 23 24 24
+20.0x 22 23 24 24 25 25 26
+22.5x 24 25 26 26 27 27 28
+25.0x 26 27 28 28 29 29 30
+27.5x 29 30 30 30 31 31 32
+30.0x 31 32 32 33 33 34 34
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 35:
+ARES Estimated % Change in Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+8% 7.7x 9.6x 10.6x 11.6x 12.6x 13.6x 14.6x
+12.5x -36% -32% -30% -28% -27% -25% -23%
+15.0x -27% -24% -22% -20% -18% -16% -14%
+18.7x -15% -11% -9% -7% -5% -3% -1%
+20.0x -10% -6% -4% -3% -1% 1% 3%
+22.5x -1% 2% 4% 6% 8% 10% 12%
+25.0x 7% 11% 13% 15% 17% 19% 21%
+27.5x 16% 20% 22% 23% 25% 27% 29%
+30.0x 25% 28% 30% 32% 34% 36% 38%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+MORGAN STANLEY RESEARCH 23
+M
+Blackstone SOTP and Sensitivity Analysis
+Exhibit 36:
+SOTP for BX
+Blackstone (BX)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(BX)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $1.00 $1.00 0% $1.00 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $0.76 $0.76 0% $0.76 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $11.36 $11.36 0% $17.03 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$2.83 $2.83 0% $2.83 0%
+$3.01 $2.29 -24% $2.29 -24%
+$2.07 $1.57 -24% $1.57 -24%
+Multiple 9.5x 8.3x -1.2x 11.5x 2.0x
+Market Implied Carry Value $19.59 $13.04 -33% $18.04 -8%
+Total Value $36.78 $29.51 -20% $40.18 9%
+2018e EPS $3.26 $2.62 -20% $2.62 -20%
+P/E 11.3x 11.3x 0.0x 15.4x 4.1x
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 37:
+BX Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$39.08 6.3x 7.3x 8.3x 9.3x 10.3x 11.5x 12.3x
+12.5x 24 26 28 29 31 33 34
+15.0x 26 28 30 31 33 35 36
+17.5x 28 30 31 33 35 36 38
+20.0x 30 32 33 35 36 38 40
+22.5x 32 34 35 37 38 40 42
+25.0x 34 36 37 39 40 42 43
+27.5x 36 37 39 41 42 44 45
+30.0x 38 39 41 42 44 46 47
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 38:
+BX Estimated % Change in Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+6% 6.3x 7.3x 8.3x 9.3x 10.3x 11.5x 12.3x
+12.5x -33% -29% -25% -21% -16% -11% -8%
+15.0x -28% -24% -20% -15% -11% -6% -3%
+17.5x -23% -19% -15% -10% -6% -1% 3%
+20.0x -18% -14% -9% -5% -1% 4% 8%
+22.5x -13% -9% -4% 0% 4% 9% 13%
+25.0x -8% -3% 1% 5% 9% 15% 18%
+27.5x -3% 2% 6% 10% 15% 20% 23%
+30.0x 3% 7% 11% 15% 20% 25% 28%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+24
+M
+The Carlyle Group Management SOTP and
+Sensitivity Analysis
+Exhibit 39:
+SOTP for CG
+The Carlyle Group (CG)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(CG)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $0.29 $0.29 0% $0.29 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $0.22 $0.22 0% $0.22 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $3.34 $3.34 0% $5.01 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$0.85 $0.85 0% $0.85 0%
+$4.40 $4.40 0% $4.40 0%
+$2.85 $2.17 -24% $2.17 -24%
+Multiple 6.0x 6.9x 1.0x 8.0x 2.0x
+Market Implied Carry Value $17.01 $15.03 -12% $17.26 1%
+Total Value $25.60 $23.62 -8% $27.52 8%
+2018e EPS $3.03 $2.80 -8% $2.80 -8%
+P/E 8.5x 8.5x 0.0x 9.8x 1.4x
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 40:
+CG Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$26.58 5.0x 6.0x 7.0x 8.0x 9.0x 10.0x 11.0x
+12.5x 19 21 23 25 28 30 32
+15.0x 19 22 24 26 28 30 32
+17.5x 20 22 24 26 29 31 33
+20.0x 21 23 25 27 29 31 34
+22.5x 21 23 25 28 30 32 34
+25.0x 22 24 26 28 30 32 35
+27.5x 22 24 27 29 31 33 35
+30.0x 23 25 27 29 31 34 36
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 41:
+CG Estimated % Change in Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+4% 5.0x 6.0x 7.0x 8.0x 9.0x 10.0x 11.0x
+12.5x -26% -18% -9% -1% 8% 16% 24%
+15.0x -24% -16% -7% 1% 10% 18% 27%
+17.5x -22% -13% -5% 3% 12% 20% 29%
+20.0x -20% -11% -3% 6% 14% 23% 31%
+22.5x -18% -9% -1% 8% 16% 25% 33%
+25.0x -15% -7% 2% 10% 18% 27% 35%
+27.5x -13% -5% 4% 12% 21% 29% 38%
+30.0x -11% -3% 6% 14% 23% 31% 40%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+MORGAN STANLEY RESEARCH 25
+M
+KKR & Co. SOTP and Sensitivity Analysis
+Exhibit 42:
+SOTP for KKR
+KKR & Co. (KKR)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(KKR)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $0.56 $0.56 0% $0.56 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $0.43 $0.43 0% $0.43 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $6.38 $6.38 0% $9.57 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$9.71 $9.71 0% $9.71 0%
+$1.74 $1.32 -24% $1.32 -24%
+$0.93 $0.71 -24% $0.71 -24%
+Multiple 7.0x 2.5x -4.5x 9.0x 2.0x
+Market Implied Carry Value $6.57 $1.80 -73% $6.42 -2%
+Total Value $24.40 $19.21 -21% $27.01 11%
+2018e EPS $2.74 $2.16 -21% $2.16 -21%
+P/E 8.9x 8.9x 0.0x 12.5x 3.6x
+3Q17 Book Value / Sh $13.80 $13.80 $13.80
+Price-to-Book 1.77x 1.39x -0.4x 1.96x 0.2x
+2018e ROE 19.1% 19.1% 0.0% 15.3% 3.8%
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 43:
+KKR Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$26.32 2.5x 3.5x 4.5x 5.5x 6.5x 7.5x 9.0x
+12.5x 18 19 20 20 21 22 23
+15.0x 19 20 21 21 22 23 24
+17.5x 20 21 22 22 23 24 25
+20.0x 21 22 23 23 24 25 26
+22.5x 22 23 24 25 25 26 27
+25.0x 23 24 25 26 26 27 28
+27.5x 25 25 26 27 27 28 29
+30.0x 26 26 27 28 28 29 30
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 44:
+KKR Estimated % Change in Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+8% 2.5x 3.5x 4.5x 5.5x 6.5x 7.5x 9.0x
+12.5x -26% -23% -20% -17% -14% -11% -7%
+15.0x -21% -18% -16% -13% -10% -7% -2%
+17.5x -17% -14% -11% -8% -5% -2% 2%
+20.0x -13% -10% -7% -4% -1% 2% 6%
+22.5x -8% -5% -2% 0% 3% 6% 11%
+25.0x -4% -1% 2% 5% 8% 11% 15%
+27.5x 0% 3% 6% 9% 12% 15% 19%
+30.0x 5% 8% 11% 13% 16% 19% 24%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+26
+M
+Oaktree Capital Group SOTP and Sensitivity
+Analysis
+Exhibit 45:
+SOTP for OAK
+Oaktree Capital Group (OAK)
+Fee Related
+Earnings
++
+Balance
+Sheet
++
+Accrued
+Carry
++
+Market
+Implied Carry
+Value
+=
+Valuation
+Sum-of-the-Parts Components
+(OAK)
+Current
+Price
+SOTP
+Downside Case
+C-Corp
+Conversion
+Change
+Upside Case C-
+Corp
+Conversion
+Change
+2018e Pre-Tax Core FRE / Sh $1.06 $1.06 0% $1.06 0%
+Tax Rate 24% 24% 0% 24% 0%
+2018e After-Tax Core FRE / Sh $0.81 $0.81 0% $0.81 0%
+FRE Multiple 15.0x 15.0x 0.0x 22.5x 7.5x
+Core FRE Value $12.11 $12.11 0% $18.17 50%
+Balance Sheet Net Cash and
+Investments / Sh (as of 3Q17)
+Net Accrued Carry / Sh (as of
+3Q17)
+Avg Net Carried interest / Sh
+(2018e-2020e)
+$15.19 $15.19 0% $15.19 0%
+$5.76 $4.38 -24% $4.38 -24%
+$2.20 $1.68 -24% $1.68 -24%
+Multiple 5.5x 4.0x -1.5x 7.5x 2.0x
+Market Implied Carry Value $12.14 $6.71 -45% $12.58 4%
+Total Value $45.20 $38.39 -15% $50.31 11%
+2018e EPS $3.55 $3.01 -15% $3.01 -15%
+P/E 12.7x 12.7x 0.0x 16.7x 4.0x
+Source: Company Data, Morgan Stanley Research estimates
+Exhibit 46:
+OAK Estimated Potential Share Price in C-corp Conversion
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+$49.79 2.0x 3.0x 4.0x 5.0x 6.0x 7.5x 8.0x
+12.5x 33 35 36 38 40 42 43
+15.0x 35 37 38 40 42 44 45
+17.5x 37 39 40 42 44 46 47
+20.0x 39 41 42 44 46 48 49
+22.5x 41 43 44 46 48 50 51
+25.0x 43 45 46 48 50 52 53
+27.5x 45 47 48 50 52 54 55
+30.0x 47 49 50 52 54 56 57
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+Exhibit 47:
+OAK Estimated % Change in Current Share Price
+Fee Related Earnings Multiple
+Multiple on Future Performance Fees
+10% 2.0x 3.0x 4.0x 5.0x 6.0x 7.5x 8.0x
+12.5x -27% -23% -20% -16% -12% -7% -5%
+15.0x -23% -19% -15% -11% -8% -2% 0%
+17.5x -18% -14% -11% -7% -3% 2% 4%
+20.0x -14% -10% -6% -2% 1% 7% 9%
+22.5x -9% -5% -2% 2% 6% 11% 13%
+25.0x -5% -1% 3% 6% 10% 16% 18%
+27.5x 0% 4% 7% 11% 15% 20% 22%
+30.0x 4% 8% 12% 15% 19% 25% 27%
+Source: Thomson Reuters, Company Data, Morgan Stanley Research estimates
+MORGAN STANLEY RESEARCH 27
+M
+Appendix B: Valuation of Alternative
+Managers - What's in the Price?
+Exhibit 48:
+Covered Alternative Asset managers NTM Relative P/E
+Alts NTM P/E Ratios Relative to Trad. AMs and S&P
+500
+20.0%
+10.0%
+0.0%
+-10.0%
+-20.0%
+-30.0%
+-40.0%
+-50.0%
+-60.0%
+Nov-10
+May-11
+Alts NTM P/E Relative to Trad. Alts NTM P/E Relative to S&P 500
+Nov-11
+May-12
+Nov-12
+May-13
+Source: Company Data, Thomson Reuters, Morgan Stanley Research estimates
+Nov-13
+May-14
+Nov-14
+May-15
+Nov-15
+May-16
+Nov-16
+May-17
+Nov-17
+Relative to
+Trad. ,- 27%
+Relative to
+S&P,- 45%
+Exhibit 49:
+Covered Alternative Asset managers NTM Absolute P/E
+Alts P/E Ratios
+25x
+20x
+15x
+10x
+5x
+0x
+Nov-10
+May-11
+Alts Avg. FY1 P/E Alts Avg. FY2 P/E Alts Avg. NTM P/E
+Nov-11
+May-12
+Nov-12
+May-13
+Source: Company Data, Thomson Reuters, Morgan Stanley Research estimates
+Nov-13
+May-14
+Nov-14
+May-15
+Nov-15
+May-16
+Nov-16
+May-17
+Nov-17
+FY1 P/E,
+10.0x
+NTM P/E,
+10.1x
+FY2 P/E,
+10.1x
+28
+M
+M
+Appendix C: Notable Alt Reports: In Case You
+Missed Them…
+Asset Managers & Brokers: 4Q17 Preview: Buy CG and ETFC into the Print (12 Jan 2018)
+Raising Est on Tax Cuts & Strong Mkts, Upgrading APO and ETFC to Overweight (3 Jan 2018)
+Asset Managers & Brokers: 2018 Outlook: Key Debates in a Year of Change (3 Jan 2018)
+The Carlyle Group L.P.: Fundraising Ahead of Expectations; Buy the Dip (4 Dec 2017)
+Alternative Asset Managers and Credit Strategy: Interest Deductibility at Risk: Game Changer for High Yield and Private Equity? (9 Nov 2017)
+Alternative Asset Managers: C-Corp Conversion: To convert or not to convert, that is the question (6 Nov 2017)
+Asset Managers & Brokers: Uncovering Long-Term Value with ESG (20 Sep 2017)
+Global Asset Management: Building the Money Manager of Tomorrow (13 Sep 2017)
+The Blackstone Group L.P.: Management Meeting Takeaways: Significant Runway for Growth (10 Aug 2017)
+The Blackstone Group L.P.: Why Blackstone’s "Innovation Machine" Suggests Upside to $60 Bull Case (24 Jul 2017)
+The Carlyle Group L.P.: Inflection Point for Carlyle Supports $40 Bull Case (12 Jul 2017)
+Hamilton Lane Incorporated: Unique Play on Private Markets; Initiating at Overweight (27 Mar 2017)
+Asset Managers & Wholesale Banks: The World Turned Upside Down (16 Mar 2017)
+The Blackstone Group L.P.: $100 Billion Reasons to Thrive in Uncertainty: Mgmt Meeting Takeaways (10 Nov 2016)
+Alternative Asset Managers: Who's Got Swimsuits? (19 May 2016)
+Asset Managers: Convergence of Alts/Traditionals Multiple: Put This Chart on Your Wall (21 Jul 2015)
+US Asset Managers: Benchmark Inclusion of Alts: What If...? (22 Jan 2015)
+US Asset Managers: Introducing “Core” Fee-Related Earnings (FRE) Metric (15 Jan 2015)
+US Asset Managers: Cash In On the Harvesting Super-Cycle: Initiating on Alts: OW BX, KKR, OAK (19 Dec 2014)
+MORGAN STANLEY RESEARCH 29
+MM
+Brokers & Asset Managers Comps Sheet
+Exhibit 50:
+Brokers & Asset Managers Comps Sheet
+Brokers & Asset Managers
+26/Jan/18 EPS As % Dividend
+Company Ticker Rating
+Covered Brokers & Asset Managers
+Traditionals
+Price
+26/Jan/18
+Price
+Market Cap
+Target Upside (%) Shares (M) ($B) AUM ($B)
+LTM Net
+Flows/ BoP
+AuM (%)
+Earnings Per Share (EPS) CAGR (%) Price/Earnings (P/E) EV/ EBITDA of AuM Yield (%)
+YTD Stock
+Perf. (%) 2017E 2018E 2019E 17-'19 2017E 2018E 2019E 2018E 2019E 2017E 2018E 2019E Mkt Cap 2018E
+Franklin Resources (5) BEN UW $45.86 $42 (8.4) 555 25.4 753 (5.3) 5.8 2.99 3.02 2.97 (0.3) 15.4x 15.2x 15.4x 13.9x 14.1x 6.9x 7.3x 7.9x 3.4 2.1
+BlackRock Inc BLK OW $586.80 $660 12.5 162 94.8 5,977 7.1 14.2 n/a 28.79 31.34 n/a n/a 20.4x 18.7x 22.9x 21.1x n/a 14.5x 13.4x 1.6 2.0
+Hamilton Lane HLNE EW $38.85 $38 (2.2) 53 2.1 29 11.6 9.8 1.16 1.57 1.90 27.8 33.4x 24.8x 20.4x 24.2x 20.0x 21.9x 19.2x 15.5x 7.1 2.0
+Invesco Ltd IVZ EW $38.40 $39 1.6 407 15.6 917 1.2 5.1 2.68 2.94 3.15 8.4 14.3x 13.0x 12.2x 13.2x 12.4x 9.8x 9.1x 8.6x 1.7 3.3
+Janus Henderson Group JHG OW $41.43 $50 21.4 198 8.2 361 (2.9) 8.3 1.69 2.69 3.10 35.5 24.5x 15.4x 13.4x 18.7x 16.2x 12.5x 10.0x 9.0x 2.3 3.4
+Legg Mason (5) LM UW $45.75 $43 (6.0) 92 4.2 754 (3.0) 9.0 3.11 3.62 3.66 8.5 14.7x 12.6x 12.5x 11.9x 11.7x 8.7x 9.5x 9.8x 0.6 2.4
+OM Asset Mgmt. (4) OMAM EW $18.31 $19 3.8 110 2.0 236 (0.3) 9.3 1.58 1.91 2.03 13.2 11.6x 9.6x 9.0x 9.9x 9.4x 8.4x 7.6x 7.2x 0.9 2.2
+T. Rowe Price TROW EW $119.99 $115 (4.2) 244 29.3 948 0.7 14.4 6.03 7.33 7.16 8.9 19.9x 16.4x 16.8x 15.7x 16.1x 10.8x 10.7x 10.9x 3.1 1.9
+Virtus Investment Partners VRTS EW $131.00 $127 (3.1) 7 0.9 91 0.4 13.9 7.42 11.02 11.81 26.2 17.7x 11.9x 11.1x 11.5x 10.8x 9.2x 7.1x 6.6x 1.0 1.5
+Waddell & Reed Financial WDR UW $22.98 $20 (13.0) 83 1.9 81 (15.3) 2.9 1.68 1.98 1.86 5.2 13.7x 11.6x 12.4x 10.1x 10.8x 6.7x 7.0x 7.9x 2.4 4.4
+WisdomTree Investments WETF EW $12.33 $14 13.5 137 1.7 46 2.2 (1.8) 0.23 0.50 0.72 76.2 53.1x 24.4x 17.1x 27.7x 19.4x 24.8x 16.2x 9.7x 3.6 1.0
+Mean (Excl. HLNE, JHG, WETF), (Market Cap, EV and AuM equals Total) (2.1) 176.0 9,804 (1.8) 9.3 10.0 15.3x 13.8x 13.5x 13.7x 13.3x 8.6x 9.1x 9.0x 1.8 2.5
+Median (Excl. HLNE, JHG, WETF) (3.6) 0.0 9.1 8.5 14.7x 12.8x 12.4x 12.6x 12.1x 8.7x 8.3x 8.2x 1.6 2.1
+Alternatives
+Brokers
+Apollo Global Mgmt APO OW $36.42 $42 15.3 403 14.7 242 9.9 8.8 2.97 3.68 3.72 11.9 12.3x 9.9x 9.8x 11.4x 11.3x 15.4x 10.3x 9.9x 6.1 7.4
+Ares Mgmt. ARES EW $24.70 $20 (19.0) 216 5.3 106 15.9 23.5 1.90 1.73 1.87 (0.8) 13.0x 14.3x 13.2x 11.6x 10.7x 16.6x 15.2x 15.2x 5.0 4.9
+Blackstone Group BX OW $36.78 $40 8.8 1,199 44.1 387 3.4 14.9 2.66 3.26 3.07 7.5 13.8x 11.3x 12.0x 12.3x 13.0x 10.9x 10.7x 9.9x 11.4 7.0
+Carlyle Group CG OW $25.60 $33 28.9 343 8.8 174 (0.4) 11.8 3.09 3.03 2.52 (9.6) 8.3x 8.5x 10.1x 10.9x 13.1x 12.4x 7.5x 6.6x 5.0 8.5
+KKR & Co KKR EW $24.40 $24 (1.6) 848 20.7 153 25.3 15.9 2.38 2.74 2.96 11.6 10.3x 8.9x 8.3x 8.8x 8.1x 10.6x 9.4x 9.4x 13.5 3.0
+Oaktree Capital Group (2) OAK OW $45.20 $60 32.7 156 7.1 100 (3.7) 7.4 3.80 3.55 4.72 11.5 11.9x 12.7x 9.6x 16.9x 12.7x 10.4x 11.5x 8.7x 7.1 5.6
+Mean (Covered Alts), (Market Cap, EV and AuM equals Total) 10.8 100.6 1,162 8.4 13.7 5.3 11.6x 10.9x 10.5x 12.0x 11.5x 12.7x 10.8x 9.9x 8.0 6.1
+Median (Covered Alts) 12.0 6.6 13.3 9.5 12.1x 10.6x 10.0x 11.5x 12.0x 11.6x 10.5x 9.7x 6.6 6.3
+TD Ameritrade Holding Corp AMTD EW $54.97 $61 11.0 567 31.2 1,119 10.4 7.5 2.08 3.02 3.65 32.4 26.4x 18.2x 15.1x 20.2x 16.7x 18.8x 13.0x 10.5x 2.8 1.6
+E*TRADE Financial Corp ETFC OW $53.49 $66 23.4 271 14.5 365 3.9 7.9 2.27 3.26 3.87 30.7 23.6x 16.4x 13.8x 20.3x 17.0x 11.6x 10.6x 9.5x 4.0 0.0
+LPL Financial Holdings Inc LPLA EW $60.76 $62 2.0 90 5.5 560 3.3 6.3 2.27 3.99 4.27 37.0 26.7x 15.2x 14.2x 15.5x 14.5x 11.6x 8.6x 8.3x 1.0 1.6
+Charles Schwab Corp SCHW OW $54.27 $63 16.1 1,340 72.7 3,181 7.0 5.6 n/a 2.47 2.85 n/a n/a 21.9x 19.1x 25.5x 22.1x n/a 13.0x 11.4x 2.3 0.8
+Mean (Market Cap, EV and AuM equals Total) 13.1 123.8 5,225 6.1 6.8 33.4 25.6x 17.9x 15.5x 20.4x 17.6x 14.0x 11.3x 9.9x 2.5 1.0
+Median 13.5 5.5 6.9 32.4 26.4x 17.3x 14.7x 20.2x 16.9x 11.6x 11.8x 10.0x 2.5 1.2
+Covered Brokers & Asset Managers
+30
+Mean (Excl. WETF and HLNE), (Market Cap, EV and AuM equals Total) 5.6 398.8 16,144 3.4 10.2 12.6 15.8x 13.8x 13.0x 14.6x 13.6x 11.2x 10.2x 9.5x 4.0 3.3
+Median (Excl. WETF and HLNE) 2.9 2.2 8.9 10.2 14.1x 12.9x 12.4x 12.8x 12.9x 10.7x 9.9x 9.4x 2.9 2.3
+Non-Covered Brokers & Asset Managers
+Non Covered
+AllianceBernstein AB NC $27.85 NC NC 94 2.6 535 1.8 11.2 2.11 2.38 2.64 12.0 13.2x 11.7x 10.5x n/a n/a 3.7x 3.3x 3.1x 0.5 8.5
+Affiliated Managers Group AMG NC $215.76 NC NC 56 12.0 804 (0.1) 5.1 14.49 17.39 18.81 13.9 14.9x 12.4x 11.5x n/a n/a 14.4x 13.0x 11.9x 1.5 0.5
+Eaton Vance (5) EV NC $60.87 NC NC 118 7.2 422 11.2 7.9 2.61 3.36 3.79 20.6 23.3x 18.1x 16.1x n/a n/a 14.4x 12.3x n/a 1.7 2.2
+Fortress Investment Group FIG NC N/A NC NC 240 n/a 0 (0.9) n/a 0.06 0.07 0.08 20.7 n/a n/a n/a n/a n/a 4.5x 3.7x 3.0x n/a n/a
+Och-Ziff Capital Mgmt. OZM NC $2.38 NC NC 185 0.4 33 (23.9) (4.8) 0.50 0.36 0.40 (11.1) 4.7x 6.5x 6.0x n/a n/a 5.7x 7.3x 6.1x 1.3 7.6
+Stifel Financial Corp SF NC $66.36 NC NC 68 4.5 265 n/a 11.4 3.21 4.61 5.40 29.6 20.7x 14.4x 12.3x n/a n/a 13.7x 12.6x 10.3x 1.7 0.3
+Raymond James Financial, Inc. RJF NC $98.26 NC NC 145 14.3 664 n/a 10.0 5.47 6.90 7.74 18.9 18.0x 14.2x 12.7x n/a n/a 28.2x 25.1x n/a 2.2 1.1
+Interactive Brokers Group, Inc. IBKR NC $64.20 NC NC 71 4.6 97 n/a 8.4 1.22 2.04 2.34 38.4 52.6x 31.4x 27.5x n/a n/a 6.4x 4.7x 4.0x 4.7 0.6
+S&P 500 (3) 2,872.9 2,750 (4.3) 7.5 131.60 145.00 150.00 6.8 21.8x 19.8x 19.2x 19.0x 18.3x 2.2
+Source: Company data, Thomson Reuters, Morgan Stanley Research estimates, except for NC (not covered), which are Thomson Reuters estimates
+(1) Alternative asset manager net flows include fee-paying fundraising and inflows net of redemptions and distributions.
+(2) OAK estimates reflect Adjusted Net Income (ANI), given that is the primary metric reported by the company.
+(3) S&P500 EPS based off of MS Equity Strategy Team's estimates
+(4) ENI/Unit represents EPS and P/ENI represents P/E
+(5) BEN, LM and EV have fiscal years not ending in December, so for these companies CY estimates were used in order to have temporal consistency. BEN and LM reflect MS estimates; EV reflects consensus Thomson estimates.
+Source: Company Data, Thompson Reuters, Morgan Stanley Research estimates, except for non-covered companies (NC), which are consensus estimates
+M
+Valuation and Risks
+Alternative Asset Managers: We value the stocks using a sum of the parts valuation and discounted cash flow as well
+as price/earnings and price/cash earnings multiples. Our DCF (COE of 12–15%, free cash flow = distributable earnings and
+terminal growth rate = 4%) captures the long-term value of the business model, while the sum of the parts captures some
+of the shorter-term volatility. For our SOTP, we use 2019 “Core” FRE and apply a 18x-21x multiple; apply 12x multiple on
+BDC income share; use NPV to estimate future carry and apply discount rate to represent volatile nature of carry; 10%
+haircut on accrued carry; 10% haircut on B/S assets.
+APO.N
+Apollo Global Management: We value APO using a sum-of-theparts,
+supported by a DCF, and back into an implied target multiple
+on next 3 years DE, and ENI. Our price target implies a 11.5x multiple
+on 2019 EPS, reflecting a 25% premium to historical valuation of 9.2x
+that’s warranted due accelerating growth in and mix shift toward
+sticky fee related earnings for which investors ascribe a higher multiple,
+and APO is entering their harvesting stage that will see portfolio
+monetizations accelerate driving stronger cash earnings
+generation. Upside risks: Better FPAuM growth, capital deployment
+accelerates, better returns. Downside risks: Declining valuations
+reduce cash earnings (fewer exits or lower multiples); slower deployment;
+Funds V, VI and VII and ANRP remain in escrow, pressuring near
+term cash earnings.
+ARES.N
+Ares: We value ARES using a sum-of-the-parts, supported by a DCF,
+and back into an implied target multiple on next 3 years DE, and ENI.
+Our PT represents a 10.8x PE multiple, slightly above the 3 year
+average of 9.3x on improving cash earnings trajectory. Upside risk
+includes better asset gathering, stronger investment performance
+and faster monetization of portfolio investments. Downside risk that
+strong AUM baked into our model over the next several years will not
+materialize. ARCC concentration risk (a BDC which contributes 40%
+of mgmt fees / 29% of revenue), and harvesting delays if there’s an
+extended financial & capital markets pullback.
+BX.N
+Blackstone: We value BX using a sum-of-the-parts, supported by a
+DCF, and back into an implied target multiple on next 3 years DE and
+ENI. Our PT represents a 12.6x PE multiple, above the 3 year average
+of 9.4x on expectations for accelerated growth in fee-related earnings
+growth, cash earnings growth and fundraising. Upside risks:
+Stronger investment performance, faster monetization of portfolio
+companies, better asset growth through new initiatives. Downside
+risks: Weakness in public markets and commercial real estate markets
+pressure investment performance. Harvesting delays—An
+extended pull-back in financial and capital markets that delays harvesting
+of investments and dampens returns which lower cash earnings.
+CG.O
+Carlyle: We value CG using a blended sum-of-the-parts, supported
+by a DCF, and back into an implied target multiple on next 3 years DE
+and ENI. Our PT implies a 13.5x multiple on 2019 EPS, reflecting a 55%
+premium to historical valuation of 8.8x given resolution of legacy
+issues and accelerating fee related earnings and asset gathering
+momentum that will support the multiple. We expect less volatile
+financial performance across all segments in our forward look, vs.
+greater volatility in historicals driven legacy challenges. Upside risks
+include: Better investment performance, strong asset gathering and
+faster monetization of portfolio companies. Downside risks include
+an extended pull-back in financial and capital mkts that delays harvesting
+of investments and dampens returns which lower cash earnings,
+and poor investment performance.
+KKR.N
+KKR: We value KKR using a 1.3x multiple on 2019 estimated book
+value and back into an implied target multiple on next 3 years DE and
+ENI. Our price target is also supported by a sum-of-the-parts valuation.
+Our PT implies a 8.2x multiple on 2019 EPS, reflecting a 9% premium
+to historical valuation of 7.5x given improving fee related
+earnings trajectory. Upside risks include better investment performance,
+compounding book value growth and faster asset gathering
+from newer initiatives. Downside risks include an extended pull-back
+in financial and capital markets that delays harvesting of investments
+and dampens returns which lower cash earnings and impairs significant
+investments held on balance.
+MORGAN STANLEY RESEARCH 31
+M
+M
+OAK.N
+Oaktree: We value OAK using a sum-of-the-parts, supported by a
+DCF, and back into an implied target multiple on next 3 years DE and
+ENI. Our PT implies a 12.6x multiple on 2019 EPS, reflecting a 7% premium
+to historical valuation of 11.8x given expectations for their
+Opps Xb fund to turn fees on during 2019 and sharply boost fee
+related earnings. Upside risks include better investment performance,
+faster monetization of portfolio investments, strong asset
+gathering from newer initiatives and inflection higher in fee related
+earnings. Risks include poor investment performance, an extended
+pull-back in financial and capital markets that delays harvesting of
+investments and dampens returns which lower cash earnings.
+Morgan Stanley & Co. International plc (“Morgan Stanley”) is currently
+acting as financial advisor to Banco Popular Español, S.A.
+(“Banco Popular”) in relation to its agreements with Balsam Investment
+S.à r.l., (“Blackstone”) for the acquisition by Blackstone of
+51% of, and hence the assignment of control over, Banco Popular's
+real estate business, as announced on August 8, 2017. Closing of
+the transaction is subject to relevant regulatory authorisations and
+other customary conditions. Banco Popular has agreed to pay fees
+to Morgan Stanley for its financial services. Please refer to the
+notes at the end of the report.
+Morgan Stanley & Co. International plc (“Morgan Stanley”) is acting
+as financial advisor to Unilever plc and Unilever N.V. (together “Unilever”)
+in relation to an offer received from KKR & Co. to acquire Unilever’s
+global spreads business, as announced on 15 December
+2017. Unilever has agreed to pay fees to Morgan Stanley for its
+financial services. Please refer to the notes at the end of the report.
+Morgan Stanley is acting as financial advisor to Jack in the Box Inc.
+(“Jack”) with respect to a definitive agreement to sell its wholly
+owned subsidiary, Qdoba Restaurant Corporation, to Funds affiliated
+with Apollo Global Management, LLC. Jack has agreed to pay
+fees to Morgan Stanley contingent upon the consummation of the
+transaction. The proposed transaction is subject to customary
+closing conditions and adjustments. Please review the notes at the
+end of this report.
+32
+M
+Disclosure Section
+The information and opinions in Morgan Stanley Research were prepared by Morgan Stanley & Co. LLC, and/or Morgan Stanley C.T.V.M. S.A., and/or Morgan Stanley Mexico, Casa de Bolsa,
+S.A. de C.V., and/or Morgan Stanley Canada Limited. As used in this disclosure section, "Morgan Stanley" includes Morgan Stanley & Co. LLC, Morgan Stanley C.T.V.M. S.A., Morgan Stanley Mexico,
+Casa de Bolsa, S.A. de C.V., Morgan Stanley Canada Limited and their affiliates as necessary.
+For important disclosures, stock price charts and equity rating histories regarding companies that are the subject of this report, please see the Morgan Stanley Research Disclosure Website
+at www.morganstanley.com/researchdisclosures, or contact your investment representative or Morgan Stanley Research at 1585 Broadway, (Attention: Research Management), New York, NY,
+10036 USA.
+For valuation methodology and risks associated with any recommendation, rating or price target referenced in this research report, please contact the Client Support Team as follows: US/Canada
++1 800 303-2495; Hong Kong +852 2848-5999; Latin America +1 718 754-5444 (U.S.); London +44 (0)20-7425-8169; Singapore +65 6834-6860; Sydney +61 (0)2-9770-1505; Tokyo +81
+(0)3-6836-9000. Alternatively you may contact your investment representative or Morgan Stanley Research at 1585 Broadway, (Attention: Research Management), New York, NY 10036 USA.
+Analyst Certification
+The following analysts hereby certify that their views about the companies and their securities discussed in this report are accurately expressed and that they have not received and will not
+receive direct or indirect compensation in exchange for expressing specific recommendations or views in this report: Michael J. Cyprys, CFA, CPA.
+Unless otherwise stated, the individuals listed on the cover page of this report are research analysts.
+Global Research Conflict Management Policy
+Morgan Stanley Research has been published in accordance with our conflict management policy, which is available at www.morganstanley.com/institutional/research/conflictpolicies.
+Important US Regulatory Disclosures on Subject Companies
+As of December 29, 2017, Morgan Stanley beneficially owned 1% or more of a class of common equity securities of the following companies covered in Morgan Stanley Research: Apollo Global
+Management LLC, Ares Management, L.P., BlackRock Inc., Franklin Resources Inc., Goldman Sachs Group Inc, Invesco, KKR & CO. L.P., Oaktree Capital Group, LLC, The Blackstone Group L.P.,
+The Carlyle Group L.P., WisdomTree Investments, Inc..
+Within the last 12 months, Morgan Stanley managed or co-managed a public offering (or 144A offering) of securities of Apollo Global Management LLC, Ares Management, L.P., BlackRock Inc.,
+Charles Schwab Corp, E*Trade Financial Corp, Goldman Sachs Group Inc, Hamilton Lane Incorporated, LPL Financial Holdings Inc., OM Asset Management Plc, The Carlyle Group L.P., Virtus
+Investment Partners.
+Within the last 12 months, Morgan Stanley has received compensation for investment banking services from Apollo Global Management LLC, Ares Management, L.P., BlackRock Inc., Charles
+Schwab Corp, E*Trade Financial Corp, Franklin Resources Inc., Goldman Sachs Group Inc, Hamilton Lane Incorporated, Invesco, Janus Henderson Group, LPL Financial Holdings Inc., OM Asset
+Management Plc, T. Rowe Price Group, Inc., The Blackstone Group L.P., The Carlyle Group L.P., Virtus Investment Partners.
+In the next 3 months, Morgan Stanley expects to receive or intends to seek compensation for investment banking services from Apollo Global Management LLC, Ares Management, L.P.,
+BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin Resources Inc., Goldman Sachs Group Inc, Hamilton Lane Incorporated, Invesco, Janus Henderson Group, KKR & CO. L.P.,
+Legg Mason Inc., LPL Financial Holdings Inc., Oaktree Capital Group, LLC, OM Asset Management Plc, Partners Group, T. Rowe Price Group, Inc., TD Ameritrade Holding Corp., The Blackstone
+Group L.P., The Carlyle Group L.P., Virtus Investment Partners, Waddell & Reed Financial Inc, WisdomTree Investments, Inc..
+Within the last 12 months, Morgan Stanley has received compensation for products and services other than investment banking services from Apollo Global Management LLC, Ares Management,
+L.P., BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin Resources Inc., Goldman Sachs Group Inc, Invesco, Janus Henderson Group, KKR & CO. L.P., Legg Mason Inc.,
+LPL Financial Holdings Inc., Oaktree Capital Group, LLC, OM Asset Management Plc, Partners Group, T. Rowe Price Group, Inc., TD Ameritrade Holding Corp., The Blackstone Group L.P., The
+Carlyle Group L.P., Virtus Investment Partners, Waddell & Reed Financial Inc, WisdomTree Investments, Inc..
+Within the last 12 months, Morgan Stanley has provided or is providing investment banking services to, or has an investment banking client relationship with, the following company: Apollo
+Global Management LLC, Ares Management, L.P., BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin Resources Inc., Goldman Sachs Group Inc, Hamilton Lane Incorporated,
+Invesco, Janus Henderson Group, KKR & CO. L.P., Legg Mason Inc., LPL Financial Holdings Inc., Oaktree Capital Group, LLC, OM Asset Management Plc, Partners Group, T. Rowe Price Group,
+Inc., TD Ameritrade Holding Corp., The Blackstone Group L.P., The Carlyle Group L.P., Virtus Investment Partners, Waddell & Reed Financial Inc, WisdomTree Investments, Inc..
+Within the last 12 months, Morgan Stanley has either provided or is providing non-investment banking, securities-related services to and/or in the past has entered into an agreement to provide
+services or has a client relationship with the following company: Apollo Global Management LLC, Ares Management, L.P., BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin
+Resources Inc., Goldman Sachs Group Inc, Invesco, Janus Henderson Group, KKR & CO. L.P., Legg Mason Inc., LPL Financial Holdings Inc., Oaktree Capital Group, LLC, OM Asset Management
+Plc, Partners Group, T. Rowe Price Group, Inc., TD Ameritrade Holding Corp., The Blackstone Group L.P., The Carlyle Group L.P., Virtus Investment Partners, Waddell & Reed Financial Inc,
+WisdomTree Investments, Inc..
+Morgan Stanley & Co. LLC makes a market in the securities of Apollo Global Management LLC, BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin Resources Inc., Goldman
+Sachs Group Inc, Invesco, KKR & CO. L.P., Legg Mason Inc., LPL Financial Holdings Inc., Oaktree Capital Group, LLC, OM Asset Management Plc, T. Rowe Price Group, Inc., TD Ameritrade Holding
+Corp., The Blackstone Group L.P., The Carlyle Group L.P., Virtus Investment Partners, Waddell & Reed Financial Inc, WisdomTree Investments, Inc..
+The equity research analysts or strategists principally responsible for the preparation of Morgan Stanley Research have received compensation based upon various factors, including quality
+of research, investor client feedback, stock picking, competitive factors, firm revenues and overall investment banking revenues. Equity Research analysts' or strategists' compensation is not
+linked to investment banking or capital markets transactions performed by Morgan Stanley or the profitability or revenues of particular trading desks.
+MORGAN STANLEY RESEARCH 33
+M
+M
+Morgan Stanley and its affiliates do business that relates to companies/instruments covered in Morgan Stanley Research, including market making, providing liquidity, fund management,
+commercial banking, extension of credit, investment services and investment banking. Morgan Stanley sells to and buys from customers the securities/instruments of companies covered in
+Morgan Stanley Research on a principal basis. Morgan Stanley may have a position in the debt of the Company or instruments discussed in this report. Morgan Stanley trades or may trade
+as principal in the debt securities (or in related derivatives) that are the subject of the debt research report.
+Certain disclosures listed above are also for compliance with applicable regulations in non-US jurisdictions.
+STOCK RATINGS
+Morgan Stanley uses a relative rating system using terms such as Overweight, Equal-weight, Not-Rated or Underweight (see definitions below). Morgan Stanley does not assign ratings of Buy,
+Hold or Sell to the stocks we cover. Overweight, Equal-weight, Not-Rated and Underweight are not the equivalent of buy, hold and sell. Investors should carefully read the definitions of all
+ratings used in Morgan Stanley Research. In addition, since Morgan Stanley Research contains more complete information concerning the analyst's views, investors should carefully read Morgan
+Stanley Research, in its entirety, and not infer the contents from the rating alone. In any case, ratings (or research) should not be used or relied upon as investment advice. An investor's decision
+to buy or sell a stock should depend on individual circumstances (such as the investor's existing holdings) and other considerations.
+Global Stock Ratings Distribution
+(as of December 31, 2017)
+The Stock Ratings described below apply to Morgan Stanley's Fundamental Equity Research and do not apply to Debt Research produced by the Firm.
+For disclosure purposes only (in accordance with NASD and NYSE requirements), we include the category headings of Buy, Hold, and Sell alongside our ratings of Overweight, Equal-weight,
+Not-Rated and Underweight. Morgan Stanley does not assign ratings of Buy, Hold or Sell to the stocks we cover. Overweight, Equal-weight, Not-Rated and Underweight are not the equivalent
+of buy, hold, and sell but represent recommended relative weightings (see definitions below). To satisfy regulatory requirements, we correspond Overweight, our most positive stock rating,
+with a buy recommendation; we correspond Equal-weight and Not-Rated to hold and Underweight to sell recommendations, respectively.
+Coverage Universe
+Investment Banking Clients (IBC)
+Other Material Investment Services Clients
+(MISC)
+Stock Rating Category
+Count % of Total Count % of Total IBC % of Rating Category Count % of Total Other MISC
+Overweight/Buy 1142 36% 320 40% 28% 560 38%
+Equal-weight/Hold 1424 44% 371 47% 26% 674 46%
+Not-Rated/Hold 55 2% 6 1% 11% 9 1%
+Underweight/Sell 583 18% 95 12% 16% 237 16%
+Total 3,204 792 1480
+Data include common stock and ADRs currently assigned ratings. Investment Banking Clients are companies from whom Morgan Stanley received investment banking compensation in the
+last 12 months. Due to rounding off of decimals, the percentages provided in the "% of total" column may not add up to exactly 100 percent.
+Analyst Stock Ratings
+Overweight (O). The stock's total return is expected to exceed the average total return of the analyst's industry (or industry team's) coverage universe, on a risk-adjusted basis, over the next
+12-18 months.
+Equal-weight (E). The stock's total return is expected to be in line with the average total return of the analyst's industry (or industry team's) coverage universe, on a risk-adjusted basis, over
+the next 12-18 months.
+Not-Rated (NR). Currently the analyst does not have adequate conviction about the stock's total return relative to the average total return of the analyst's industry (or industry team's) coverage
+universe, on a risk-adjusted basis, over the next 12-18 months.
+Underweight (U). The stock's total return is expected to be below the average total return of the analyst's industry (or industry team's) coverage universe, on a risk-adjusted basis, over the next
+12-18 months.
+Unless otherwise specified, the time frame for price targets included in Morgan Stanley Research is 12 to 18 months.
+Analyst Industry Views
+Attractive (A): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be attractive vs. the relevant broad market benchmark, as indicated
+below.
+In-Line (I): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be in line with the relevant broad market benchmark, as indicated below.
+Cautious (C): The analyst views the performance of his or her industry coverage universe over the next 12-18 months with caution vs. the relevant broad market benchmark, as indicated below.
+Benchmarks for each region are as follows: North America - S&P 500; Latin America - relevant MSCI country index or MSCI Latin America Index; Europe - MSCI Europe; Japan - TOPIX; Asia -
+34
+M
+M
+relevant MSCI country index or MSCI sub-regional index or MSCI AC Asia Pacific ex Japan Index.
+Important Disclosures for Morgan Stanley Smith Barney LLC Customers
+Important disclosures regarding the relationship between the companies that are the subject of Morgan Stanley Research and Morgan Stanley Smith Barney LLC or Morgan Stanley or any
+of their affiliates, are available on the Morgan Stanley Wealth Management disclosure website at www.morganstanley.com/online/researchdisclosures. For Morgan Stanley specific disclosures,
+you may refer to www.morganstanley.com/researchdisclosures.
+Each Morgan Stanley Equity Research report is reviewed and approved on behalf of Morgan Stanley Smith Barney LLC. This review and approval is conducted by the same person who reviews
+the Equity Research report on behalf of Morgan Stanley. This could create a conflict of interest.
+Other Important Disclosures
+Morgan Stanley & Co. International PLC and its affiliates have a significant financial interest in the debt securities of BlackRock Inc., Charles Schwab Corp, E*Trade Financial Corp, Franklin
+Resources Inc., Goldman Sachs Group Inc, Legg Mason Inc., OM Asset Management Plc, Virtus Investment Partners.
+As of January 29, 2018, BlackRock Inc., T. Rowe Price Group, Inc. beneficially owned 5% or more of a class of common equity securities of Morgan Stanley.
+Morgan Stanley Research policy is to update research reports as and when the Research Analyst and Research Management deem appropriate, based on developments with the issuer, the
+sector, or the market that may have a material impact on the research views or opinions stated therein. In addition, certain Research publications are intended to be updated on a regular periodic
+basis (weekly/monthly/quarterly/annual) and will ordinarily be updated with that frequency, unless the Research Analyst and Research Management determine that a different publication
+schedule is appropriate based on current conditions.
+Morgan Stanley is not acting as a municipal advisor and the opinions or views contained herein are not intended to be, and do not constitute, advice within the meaning of Section 975 of the
+Dodd-Frank Wall Street Reform and Consumer Protection Act.
+Morgan Stanley produces an equity research product called a "Tactical Idea." Views contained in a "Tactical Idea" on a particular stock may be contrary to the recommendations or views expressed
+in research on the same stock. This may be the result of differing time horizons, methodologies, market events, or other factors. For all research available on a particular stock, please contact
+your sales representative or go to Matrix at http://www.morganstanley.com/matrix.
+Morgan Stanley Research is provided to our clients through our proprietary research portal on Matrix and also distributed electronically by Morgan Stanley to clients. Certain, but not all, Morgan
+Stanley Research products are also made available to clients through third-party vendors or redistributed to clients through alternate electronic means as a convenience. For access to all
+available Morgan Stanley Research, please contact your sales representative or go to Matrix at http://www.morganstanley.com/matrix.
+Any access and/or use of Morgan Stanley Research is subject to Morgan Stanley's Terms of Use (http://www.morganstanley.com/terms.html). By accessing and/or using Morgan Stanley
+Research, you are indicating that you have read and agree to be bound by our Terms of Use (http://www.morganstanley.com/terms.html). In addition you consent to Morgan Stanley processing
+your personal data and using cookies in accordance with our Privacy Policy and our Global Cookies Policy (http://www.morganstanley.com/privacy_pledge.html), including for the purposes of
+setting your preferences and to collect readership data so that we can deliver better and more personalized service and products to you. To find out more information about how Morgan Stanley
+processes personal data, how we use cookies and how to reject cookies see our Privacy Policy and our Global Cookies Policy (http://www.morganstanley.com/privacy_pledge.html).
+If you do not agree to our Terms of Use and/or if you do not wish to provide your consent to Morgan Stanley processing your personal data or using cookies please do not access our research.
+Morgan Stanley Research does not provide individually tailored investment advice. Morgan Stanley Research has been prepared without regard to the circumstances and objectives of those
+who receive it. Morgan Stanley recommends that investors independently evaluate particular investments and strategies, and encourages investors to seek the advice of a financial adviser.
+The appropriateness of an investment or strategy will depend on an investor's circumstances and objectives. The securities, instruments, or strategies discussed in Morgan Stanley Research
+may not be suitable for all investors, and certain investors may not be eligible to purchase or participate in some or all of them. Morgan Stanley Research is not an offer to buy or sell or the
+solicitation of an offer to buy or sell any security/instrument or to participate in any particular trading strategy. The value of and income from your investments may vary because of changes
+in interest rates, foreign exchange rates, default rates, prepayment rates, securities/instruments prices, market indexes, operational or financial conditions of companies or other factors. There
+may be time limitations on the exercise of options or other rights in securities/instruments transactions. Past performance is not necessarily a guide to future performance. Estimates of future
+performance are based on assumptions that may not be realized. If provided, and unless otherwise stated, the closing price on the cover page is that of the primary exchange for the subject
+company's securities/instruments.
+The fixed income research analysts, strategists or economists principally responsible for the preparation of Morgan Stanley Research have received compensation based upon various factors,
+including quality, accuracy and value of research, firm profitability or revenues (which include fixed income trading and capital markets profitability or revenues), client feedback and competitive
+factors. Fixed Income Research analysts', strategists' or economists' compensation is not linked to investment banking or capital markets transactions performed by Morgan Stanley or the
+profitability or revenues of particular trading desks.
+The "Important US Regulatory Disclosures on Subject Companies" section in Morgan Stanley Research lists all companies mentioned where Morgan Stanley owns 1% or more of a class of
+common equity securities of the companies. For all other companies mentioned in Morgan Stanley Research, Morgan Stanley may have an investment of less than 1% in securities/instruments
+or derivatives of securities/instruments of companies and may trade them in ways different from those discussed in Morgan Stanley Research. Employees of Morgan Stanley not involved in
+the preparation of Morgan Stanley Research may have investments in securities/instruments or derivatives of securities/instruments of companies mentioned and may trade them in ways
+different from those discussed in Morgan Stanley Research. Derivatives may be issued by Morgan Stanley or associated persons.
+With the exception of information regarding Morgan Stanley, Morgan Stanley Research is based on public information. Morgan Stanley makes every effort to use reliable, comprehensive
+information, but we make no representation that it is accurate or complete. We have no obligation to tell you when opinions or information in Morgan Stanley Research change apart from
+when we intend to discontinue equity research coverage of a subject company. Facts and views presented in Morgan Stanley Research have not been reviewed by, and may not reflect information
+MORGAN STANLEY RESEARCH 35
+M
+M
+known to, professionals in other Morgan Stanley business areas, including investment banking personnel.
+Morgan Stanley Research personnel may participate in company events such as site visits and are generally prohibited from accepting payment by the company of associated expenses unless
+pre-approved by authorized members of Research management.
+Morgan Stanley may make investment decisions that are inconsistent with the recommendations or views in this report.
+To our readers based in Taiwan or trading in Taiwan securities/instruments: Information on securities/instruments that trade in Taiwan is distributed by Morgan Stanley Taiwan Limited ("MSTL").
+Such information is for your reference only. The reader should independently evaluate the investment risks and is solely responsible for their investment decisions. Morgan Stanley Research
+may not be distributed to the public media or quoted or used by the public media without the express written consent of Morgan Stanley. Any non-customer reader within the scope of Article
+7-1 of the Taiwan Stock Exchange Recommendation Regulations accessing and/or receiving Morgan Stanley Research is not permitted to provide Morgan Stanley Research to any third party
+(including but not limited to related parties, affiliated companies and any other third parties) or engage in any activities regarding Morgan Stanley Research which may create or give the
+appearance of creating a conflict of interest. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is not to be construed as a recommendation
+or a solicitation to trade in such securities/instruments. MSTL may not execute transactions for clients in these securities/instruments.
+Morgan Stanley is not incorporated under PRC law and the research in relation to this report is conducted outside the PRC. Morgan Stanley Research does not constitute an offer to sell or
+the solicitation of an offer to buy any securities in the PRC. PRC investors shall have the relevant qualifications to invest in such securities and shall be responsible for obtaining all relevant
+approvals, licenses, verifications and/or registrations from the relevant governmental authorities themselves. Neither this report nor any part of it is intended as, or shall constitute, provision
+of any consultancy or advisory service of securities investment as defined under PRC law. Such information is provided for your reference only.
+Morgan Stanley Research is disseminated in Brazil by Morgan Stanley C.T.V.M. S.A.; in Mexico by Morgan Stanley México, Casa de Bolsa, S.A. de C.V which is regulated by Comision Nacional
+Bancaria y de Valores. Paseo de los Tamarindos 90, Torre 1, Col. Bosques de las Lomas Floor 29, 05120 Mexico City; in Japan by Morgan Stanley MUFG Securities Co., Ltd. and, for Commodities
+related research reports only, Morgan Stanley Capital Group Japan Co., Ltd; in Hong Kong by Morgan Stanley Asia Limited (which accepts responsibility for its contents) and by Morgan Stanley
+Asia International Limited, Hong Kong Branch; in Singapore by Morgan Stanley Asia (Singapore) Pte. (Registration number 199206298Z) and/or Morgan Stanley Asia (Singapore) Securities Pte
+Ltd (Registration number 200008434H), regulated by the Monetary Authority of Singapore (which accepts legal responsibility for its contents and should be contacted with respect to any
+matters arising from, or in connection with, Morgan Stanley Research) and by Morgan Stanley Asia International Limited, Singapore Branch (Registration number T11FC0207F); in Australia to
+"wholesale clients" within the meaning of the Australian Corporations Act by Morgan Stanley Australia Limited A.B.N. 67 003 734 576, holder of Australian financial services license No. 233742,
+which accepts responsibility for its contents; in Australia to "wholesale clients" and "retail clients" within the meaning of the Australian Corporations Act by Morgan Stanley Wealth Management
+Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian financial services license No. 240813, which accepts responsibility for its contents; in Korea by Morgan Stanley & Co International
+plc, Seoul Branch; in India by Morgan Stanley India Company Private Limited; in Indonesia by PT. Morgan Stanley Sekuritas Indonesia; in Canada by Morgan Stanley Canada Limited, which has
+approved of and takes responsibility for its contents in Canada; in Germany by Morgan Stanley Bank AG, Frankfurt am Main and Morgan Stanley Private Wealth Management Limited, Niederlassung
+Deutschland, regulated by Bundesanstalt fuer Finanzdienstleistungsaufsicht (BaFin); in Spain by Morgan Stanley, S.V., S.A., a Morgan Stanley group company, which is supervised by the
+Spanish Securities Markets Commission (CNMV) and states that Morgan Stanley Research has been written and distributed in accordance with the rules of conduct applicable to financial
+research as established under Spanish regulations; in the US by Morgan Stanley & Co. LLC, which accepts responsibility for its contents. Morgan Stanley & Co. International plc, authorized by
+the Prudential Regulatory Authority and regulated by the Financial Conduct Authority and the Prudential Regulatory Authority, disseminates in the UK research that it has prepared, and approves
+solely for the purposes of section 21 of the Financial Services and Markets Act 2000, research which has been prepared by any of its affiliates. RMB Morgan Stanley Proprietary Limited is a
+member of the JSE Limited and regulated by the Financial Services Board in South Africa. RMB Morgan Stanley Proprietary Limited is a joint venture owned equally by Morgan Stanley International
+Holdings Inc. and RMB Investment Advisory (Proprietary) Limited, which is wholly owned by FirstRand Limited. The information in Morgan Stanley Research is being disseminated by
+Morgan Stanley Saudi Arabia, regulated by the Capital Market Authority in the Kingdom of Saudi Arabia , and is directed at Sophisticated investors only.
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (DIFC Branch), regulated by the Dubai Financial Services Authority (the DFSA),
+and is directed at Professional Clients only, as defined by the DFSA. The financial products or financial services to which this research relates will only be made available to a customer who
+we are satisfied meets the regulatory criteria to be a Professional Client.
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (QFC Branch), regulated by the Qatar Financial Centre Regulatory Authority
+(the QFCRA), and is directed at business customers and market counterparties only and is not intended for Retail Customers as defined by the QFCRA.
+As required by the Capital Markets Board of Turkey, investment information, comments and recommendations stated here, are not within the scope of investment advisory activity. Investment
+advisory service is provided exclusively to persons based on their risk and income preferences by the authorized firms. Comments and recommendations stated here are general in nature. These
+opinions may not fit to your financial status, risk and return preferences. For this reason, to make an investment decision by relying solely to this information stated here may not bring about
+outcomes that fit your expectations.
+The trademarks and service marks contained in Morgan Stanley Research are the property of their respective owners. Third-party data providers make no warranties or representations relating
+to the accuracy, completeness, or timeliness of the data they provide and shall not have liability for any damages relating to such data. The Global Industry Classification Standard (GICS) was
+developed by and is the exclusive property of MSCI and S&P.
+Morgan Stanley Research, or any portion thereof may not be reprinted, sold or redistributed without the written consent of Morgan Stanley.
+36
+M
+M
+INDUSTRY COVERAGE: Brokers & Asset Managers
+COMPANY (TICKER) RATING (AS OF) PRICE* (01/29/2018)
+Michael J. Cyprys, CFA, CPA
+Apollo Global Management LLC (APO.N) O (01/03/2018) $35.60
+Ares Management, L.P. (ARES.N) E (12/15/2014) $24.50
+BlackRock Inc. (BLK.N) O (09/18/2015) $574.42
+Charles Schwab Corp (SCHW.N) O (09/26/2016) $54.05
+E*Trade Financial Corp (ETFC.O) O (01/03/2018) $52.62
+Franklin Resources Inc. (BEN.N) U (03/16/2017) $45.12
+Hamilton Lane Incorporated (HLNE.O) E (10/05/2017) $38.31
+Invesco (IVZ.N) E (01/03/2018) $37.48
+KKR & CO. L.P. (KKR.N) E (02/17/2016) $24.25
+Legg Mason Inc. (LM.N) U (10/05/2017) $44.27
+LPL Financial Holdings Inc. (LPLA.O) E (01/03/2018) $60.11
+Oaktree Capital Group, LLC (OAK.N) O (12/15/2014) $45.30
+OM Asset Management Plc (OMAM.N) E (01/26/2016) $18.19
+T. Rowe Price Group, Inc. (TROW.O) E (10/05/2017) $117.55
+TD Ameritrade Holding Corp. (AMTD.O) E (09/26/2016) $55.59
+The Blackstone Group L.P. (BX.N) O (12/15/2014) $36.56
+The Carlyle Group L.P. (CG.O) O (02/17/2016) $25.50
+Virtus Investment Partners (VRTS.O) E (06/01/2017) $129.80
+Waddell & Reed Financial Inc (WDR.N) U (09/18/2015) $23.18
+WisdomTree Investments, Inc. (WETF.O) E (09/18/2015) $12.13
+Stock Ratings are subject to change. Please see latest
+research for each company.
+* Historical prices are not split adjusted.
+MORGAN STANLEY RESEARCH 37
+© Morgan Stanley 2018
+The Americas
+Europe
+Japan
+Asia/Pacific
+1585 Broadway
+20 Bank Street, Canary Wharf
+1-9-7 Otemachi, Chiyoda-ku
+1 Austin Road West
+New York, NY 10036-8293
+London E14 4AD
+Tokyo 100-8104
+Kowloon
+United States
+United Kingdom
+Japan
+Hong Kong
+Tel: +1 (1) 212 761 4000
+Tel: +44 (0) 20 7 425 8000
+Tel: +81 (0) 3 6836 5000
+Tel: +852 2848 5200

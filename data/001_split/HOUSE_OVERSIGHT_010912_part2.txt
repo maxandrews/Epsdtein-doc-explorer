@@ -1,0 +1,1459 @@
+now a little over 100% per day. At the beginning of the last second, it is a little over
+100% per second. At the end of the last second it is infinite. Yet the securities in their
+Chapter 2: Fast Forward 1/06/16 18
+portfolios are chosen for returns no higher and riskier than the year before. They
+will tend in fact to be lower, judging from logic and evidence for a decline in risk
+tolerance with age.
+Then what besides work is recovered in pay? The two possibilities I was weighing
+were maintenance consumption and human depreciation. The winner was obvious.
+The higher-paid usually consume more, but not always and not in proportion. The
+fact that we must generally be paid enough to cover consumption does not imply
+that we are paid to consume. We are motivated to do that anyhow. We are paid to
+apply skills, and are paid in proportion to skills applied. Human capital is skill sets.
+Pay measures its transfer to products, whether in realized work currently created or
+from capital in place through human depreciation.
+That’s how I came to the pay rule. We see why it ought to startle economists.
+Macroeconomic tradition teaches the doctrine that wage measures work, and
+teaches it so confidently that it uses the notation W for either. Human capital
+tradition recognizes that some work is self-invested, but effectively treats human
+depreciation as deadweight loss. That’s why I use “pay” in place of the more usual
+“wage”.
+Refuting a Piketty Argument
+There are practical uses for the pay rule aside from solution of the age-wage
+problem. These are the impact on tax laws and public policy that I promised. Piketty
+has shown correctly that the ratio of pay to net profit rose substantially during the
+world wars, world depression and welfare state period following, and has declined
+since. Piketty argues for higher capital taxes in consequence. His argument follows
+tradition in comparing pay and net profit as the shares of workers and investors in
+income. But tradition is wrong. Pay is the worker’s gross realized income, meaning
+gross of human depreciation. Depreciation, for either factor, is a steadier flow. This
+makes gross output for either less responsive to upturns and downturns. It is a
+particularly high share of realized income or output in hard times when dislocation
+Chapter 2: Fast Forward 1/06/16 19
+of both factors (human and physical capital) drives net output down. Comparison
+between net income and gross realized income can mislead. Piketty is right about
+the data, but wrong about its interpretation.
+Depreciation Theory
+This is the explanation I promised when I said that depreciation is essentially like
+amortization. Accounting tends to practice straight-line depreciation over standard
+depreciation periods. A well-known refinement, allowed but not much practiced in
+business, is called current cost accounting. The idea is to correct distortions due to
+past inflation. The problem is that books reflect long-term assets and their
+depreciation at original cost at date of booking. Current cost accounting adjusts both
+to the equivalent in current dollars. It shows both net worth and depreciation as
+higher if prices inflated since booking, or lower if prices deflated. That seems to
+make sense.
+A further adjustment called replacement cost accounting does the same, but also
+replaces linear depreciation with a curve believed more realistic. National accounts
+adopt this method. It is sound in principle. But they shape the curve in the wrong
+direction. They rely on records of actual sales of plant to model depreciation as
+steep initially and slower later. I suggest that this record is misleading.
+My starting point is that value of any capital is discounted cash flow. To keep things
+simple at first, suppose that cash flow in constant dollars is expected to hold steady
+for fifty years before asset life ends. Also suppose a constant time discount rate.
+Present value at the outset is fifty years of discounted cash flow. At the beginning of
+the second year, it is 49 years present value of the same cash flow at the same
+discount rate. All that has been lost is present value of the 50 th and most-discounted
+year. At the start of the third year, capital has dropped again by present value of the
+49 th and second-most discounted year. So it continues until the end as the discount
+Chapter 2: Fast Forward 1/06/16 20
+period approaches zero. Depreciation increases absolutely each year, and increases
+even faster in ratio to capital.
+What I have just modeled is depreciation rising exponentially from zero at the start
+to a maximum at the end. National accounts show the exact opposite. They show it
+decreasing exponentially from a maximum at the start. The reason for the difference
+is instructive. I would rather trust the present value formula to show what assets
+are worth subjectively to their owners. The national accounts prefer to trust
+evidence as to what they are worth to others if sold. That’s a solid method too if the
+evidence is likely to prove representative. It isn’t in cases where transactions are
+more likely to have been driven by pressure to sell than pressure to buy. Plant is
+generally tailored to purposes of its first owner, and not meant to be resold. Plant
+sales tend to follow disappointing results. These are likelier to come early as
+business plans are first tested. That could explain why evidence without logic has
+suggested that depreciation tends to start fast and slow down with time.
+I would recommend that national accounts continue tracking actual sales as an
+indicator of true depreciation curves, but limit the study to rental buildings
+expected from the start to be resold several times. I mean apartment buildings,
+office buildings and warehouses designed along standard lines. Many investors
+specialize in buying and selling these tradable assets for portfolio purposes.
+Pressure to buy and pressure to sell tend to balance.
+I can testify that prices bid for them are found either by discounted cash flow or
+internal rate of return (IRR) methods. IRR is a variant of the same thing. A bid price
+is modeled as the original negative cash flow in evaluating the proposed purchase.
+Then the positive cash flows at each year’s end are modeled, and the discount rate
+found which nets present value of all flows together to zero. If this rate is judged
+competitive, the purchase goes ahead. This method was originated by Keynes in the
+General Theory as his “marginal product of capital”.
+Chapter 2: Fast Forward 1/06/16 21
+And I repeat that most other structures are not meant to be resold. Productive plant
+is customized to original owners. Tract housing is not, but becomes adapted to them.
+Original plant operators and homeowners typically expect to stay put. Most do.
+When they do, their own valuations are higher than would likely be realized in sale.
+Owners’ valuations matter. Economics is more than prediction of sales prices. It is
+prediction of behavior. It is the owner’s valuation of an asset, not a hypothetical
+outside valuation, that predicts what he will do to exploit and defend it.
+My depreciation theory does not jolt settled belief as forcibly as free growth theory
+or the pay rule and Y rule do. It contradicts only a minor feature of the national
+accounts. But it contradicts that diametrically, and adds clarity to the pay rule too. It
+is also original as far as I know. Who has said such a thing before? All the more fun
+and satisfaction in finding out and setting the record straight. There are giants out
+there, whether I ever make it to their shoulders or not, and economic history means
+identifying them.
+Retirement Theory
+Retirement generally means the period or first moment when people end the
+careers for which their training has been specialized. The reason is typically not
+diminished skills and performance just yet, as age-wage profiles show no little or no
+drop in pay toward the end. I think it is more that we and our bosses see the drop
+coming.
+Literal pay is typically zero in retirement. Instead we earn imputed pay for taking
+care of ourselves and one another, and for driving the grandkids to the zoo. These
+services are tangible, not psychic, in that they save the hire of others to do the same.
+The imputed pay is what the others would have charged. But it typically is not
+enough to meet our consumption needs. Retirees must typically draw down savings
+or depend on “social transfer payments”, meaning support from government or
+family or foundations, to make ends meet.
+Chapter 2: Fast Forward 1/06/16 22
+It seems that these infusions from savings or gift cannot be interpreted as invested
+consumption to be recovered with interest later, but are rather pure consumption
+recovered now in the satisfaction of survival. Then human cash flow, or pay less
+invested consumption, remains positive to the end if we recognize imputed pay.
+Economists should, I think, because it figures into predicting behavior as much as
+literal pay. So does psychic pay.
+It follows that human capital, meaning present value of all pay in the absence of
+invested consumption to deduct, continues after retirement. That shows that my
+parable of the boss and her secretary is oversimplified. Parables tend to be. The
+secretary may happen to have better skills as a full-time caregiver, which both she
+and the boss will figure to be in retirement, and so may reverse the disparity in
+human capital then. All models, I guess, assume ceteris paribus (other things equal).
+My retirement theory leaves much unexplained. It tries to throw a little light here
+and there. I believe it achieves some surprise, and even originality until we know
+better, in my argument that human capital continues after retirement. Yet this
+follows directly from Ben-Porath. Invested consumption must end when time for
+recovery runs out, whether or not I am right in ending it with job entry decades
+before, and human capital must last as long as literal or imputed pay does. The
+endurance of human capital through to mortality is not logical certitude, but need
+not be doubted either.
+Retouching the Ben-Porath Model
+Ben-Porath’s life cycle model seems right enough in all features but one. Equations
+in his 1967 paper imply that pay measures realized work alone. This should be
+adjusted to show the pay rule. I would also model invested consumption as ending
+at independence, or a few months later to allow for initial job training. That does not
+contradict Ben-Porath, who leaves such a possibility open. I would further apply
+depreciation theory to model human depreciation as growing from a negligible
+share of pay at first employment to substantially all of pay at the end.
+Chapter 2: Fast Forward 1/06/16 23
+My model is the same as Ben-Porath’s from birth to independence. All consumption
+and all work are invested, for modeling purposes, until schooling ends at full-time
+job entry. I model this transition at age 20. Pay, realized work, human depreciation
+and pure consumption all begin at that point, although human depreciation begins
+at essentially zero.
+Self-invested work continues as an important but diminishing share of work until
+late in careers, just as in Ben-Porath. I differ from him mildly in that I model all adult
+consumption as pure consumption. Ben-Porath allows adult invested consumption
+without assuming it. I regard it as real but negligible. Age-wage profiles are
+explained by self-invested work and depreciation theory alone.
+I model this self-invested work as subliminal accumulation of job experience. My
+reason is personal observation. What I have seen in plants and offices is people
+working full time on the job. We don’t take time off to learn. Experience simply
+arrives, much as free growth does. I think that my view on this contradicts Ben-
+Porath’s marginally. He seems to allow some such allocation of time to help explain
+age-wage profiles.
+Next comes retirement. I model this as just shown. Later I will expand this model to
+include acquisition and disposal of physical capital too. The combined model will
+give most of the math and mechanics of next generation theory.
+Risk Theory
+For practical purposes, economic risk is usually measured as expected standard
+deviation in rate of return. Safer assets vary less from their return norms. Shortterm
+treasuries are thought safest because they combine fixed nominal return with
+fast liquidity in case inflation threatens. The market overall bids safer expected
+outputs up and riskier ones down. Since asset value is the denominator in rate of
+return, and output the numerator, the effect is make risker assets higher in return.
+Chapter 2: Fast Forward 1/06/16 24
+Risk tolerance might be anything in any individual. As a norm, it tends to be a
+function of age, gender and wealth. Effects of age and gender are better understood.
+Teens and young adults, particularly males, seem readiest to take chances. Prison
+populations and medal of honor rolls feature young males. Part of the explanation, I
+think, is biologist R. A. Fisher’s sex ratio theory of 1930, or equally Bob Trivers’
+differential investment theory of 1971. Young males show greatest variance in
+reproductive prospects. Females are almost always assured of a few offspring.
+Young males might leave none or many. Nature arranges tournaments or displays to
+give fitter males the advantage.
+Another reason is that the young, of either sex, have most time left to outride
+downswings. The older we get, the more risk-averse.
+Some businesses and assets are inherently riskier than others. Nerf balls are safer
+than hand grenades. But I prefer to look past the asset owned to the owner. We tend
+to own assets suited to our risk preferences. And we tend to operate it as safely or
+riskily as we like. That is true particularly of human capital, although it was first
+designed according to our parents’ goals rather than ours. Human capital is
+probably the most versatile asset, even so, and is adapted to our purposes rather
+than theirs. We make it as risky as we choose. The risk-averse can become florists or
+Trappists. Risk lovers can try bullfighting or skydiving. What does that tell us about
+the relative risk of the factors?
+Human capital is owned disproportionately by the young. We own very little
+physical capital, legally or in practical effect, until maturity. Pay at first is barely
+enough for survival. We accumulate it gradually as pay rises with age, and then
+deplete it in provision for the young and in our own retirement. Since physical
+capital is owned disproportionately by the older and more risk-averse, and human
+capital the contrary, human capital figures to be higher on average in risk and return.
+Chapter 2: Fast Forward 1/06/16 25
+There is another useful inference. Adults own assets in the business and housing
+sectors. Older adults tend more to own debt claims on these sectors, and younger
+adults to own equity claims. But all adult ages collectively own both sectors
+collectively. It does not follow that the sectors are equal in risk, as older individuals
+might tend to own one sector predominantly, and younger ones the other. As a
+layman, I don’t really know.
+What I happen to know is that the publicly traded corporate sector, meaning stocks
+particularly but also bonds, is far more liquid than the housing sector, and that the
+rest of the business sector is far less liquid than either. Risk in general includes
+liquidity risk. This leads me to the hypothesis or hunch that the housing sector in
+general should be safer than the business sector, ceteris paribus, but that the
+publicly traded corporate sector, cap-weighting debt and equity claims on it, may be
+safest of all.
+The idea that stocks and bonds cap-weighted are safer than houses might have been
+laughed to scorn a few years ago. It doesn’t seem so funny after 2008. I view it as an
+idea to be tested, not trusted, until more is known. If it holds up, it will rank as
+another surprise.
+The effect of individual wealth on risk tolerance is less understood. Here I judge
+more from hunch and impression than from data. Given that human needs are fairly
+uniform, as with the private and the general, more wealth gives more insulation
+from want. Talent is wealth in human capital, and gives the same. Less, in either
+factor, gives less margin for error. My hunch and impression is that the wealthier in
+either factor should tend to be more risk tolerant so long as human capital itself is
+not put in harm’s way. Human capital operates physical capital, and gives the means
+of recovery. The wealthier, in talent or net worth, should prove the least tempted
+toward sky diving and Russian roulette.
+Chapter 2: Fast Forward 1/06/16 26
+In this book I will usually be modeling risk and return at the collective scale or at the
+cohort one. A cohort means the set of all same-aged individuals. It turns out that the
+ratio of females to males tends to rise with each older cohort, for reasons Bob
+Trivers explains, as does wealth up to a point. But in cohort analysis, both effects
+(wealth and sex ratio) are incorporated into effects of cohort age. That will simplify
+modeling.
+My risk theory is another example of what looks to be surprise and novelty until
+shown otherwise. The unusual idea lies in projecting the owner’s time
+preference/return rate onto the asset rather than conversely. Thus all the owner’s
+assets of both factors are selected or modified to fit her current risk profile. This
+would count her liquid securities portfolio, cap weighted, as a single asset. All other
+assets are too illiquid for practical rebalancing. We own the assets best suited to our
+risk profiles, if for no better reason than that we wouldn’t be the winning bidders
+for any others if we wanted them. As our risk profiles evolve with age, we modify or
+trade them. We will tend to have anticipated this need, and to have factored
+modification or trading costs into our bid price. It turns out that this interpretation
+can simplify the math of present value and present cost.
+It helps in supporting the pay rule, and explaining age-wage profiles, by rebutting a
+hypothesis, sometimes argued, that productivity of human capital might rise with
+age. Productivity, rate of return and time preference rate all mean the same. My risk
+theory argues that we know a cohort’s risk tolerance from the return to its capweighted
+securities portfolio as a whole. All other assets of the same cohort,
+including human capital, will tend to agree with it in return. Return to security
+portfolios tends to be transparent. It declines with adult cohort age. I infer that
+return to human capital does the same.
+My risk theory and depreciation theory together add a finishing touch to the pay
+rule. The key supporting evidence is age-wage profiles. Depreciation theory offers
+solid logic, in the face of apparent contrary data, that pay is all human depreciation
+Chapter 2: Fast Forward 1/06/16 27
+at the end. Risk theory reinforces that impression by adding that the contribution of
+productivity in the form of realized work/human capital actually declines. One
+cannot pound too many stakes through the heart of the doctrine that pay
+compensates realized work alone.
+Next Generation Theory
+I also treat rate of return. This combined free growth theory with insights of Petty
+in 1662 and William Stanley Jevons in 1871. Petty’s idea was that each generation
+passes the baton to the next. Our investment horizon is the generation length. Its
+reciprocal, or one over that period, gives our time preference rate. Jevons also saw
+time preference as the reciprocal of the period of production, but did not connect
+that to the generation length. I adjust Petty’s estimate of the length from his 21
+years to 28.5 by allowing for later births as well as firstborns. The reciprocal is 3.5%
+per year. I add free growth as an exogenous and unspecified variable.
+As with Mill and free growth theory, I have to walk a fine line between crediting
+Petty and putting my ideas in his mouth. Petty dictated his books and pamphlets,
+and is not always clear. My idea, probably but not certainly the same as his, is that
+each generation invests everything in the next in trust that it will do the same. All
+our capital of both factors, although Petty spoke only of a cornfield, is exhausted in
+putting the next generation in place. The time horizon to get this done is the
+generation length.
+This 28.5 years, as I model it, becomes Jevons’ “period of production”. Its reciprocal,
+meaning one over it, gives rate of return. The idea of a period of production whose
+reciprocal gave rate of return had begun with Rae in 1934, if you don’t count Petty,
+and passed through Nassau Senior to Jevons and Boehm Bawerk. All assumed
+growthlessness for simplicity. Return is growth rate plus cash flow rate. It simplifies
+to the pure consumption rate at the collective scale. All these men, even Petty, were
+really modeling the pure consumption rate. 28.5 years gives the period of
+replication, in my view, or period of production if there were no growth.
+Chapter 2: Fast Forward 1/06/16 28
+Free growth then arrives at its whim, like a deus ex machina, without calling for
+more than this steady effort of replication. I find myself focusing more and more on
+that cash flow component of rate of return, or pure consumption rate at the
+collective scale, as the part we can predict and model.
+The generation length is a biological norm which probably has not varied by more
+than a factor of two since Ancestral Eve some 200,000 year ago. This suggests that
+next generation theory can be tested against data from any period. Meanwhile it
+predicts only at the collective scale. Collective return is average risk return. Subtract
+collective growth rate to leave cash flow rate. Return and growth are two of the
+most closely measured rates in economics. That says that tests of next generation
+theory should be practical. I will show tables broadly in support.
+Next generation theory is a blockbuster. An explanation of interest and return has
+been the Holy Grail of capital theory. Boehm Bawerk contributed a big advance by
+revealing return as an artifact of time preference rather than the other way around.
+Some including Irving Fisher have seen that beautiful insight as enough.
+Not me. What explains and quantifies time preference? What turned out to be
+Petty’s idea occurred to me about 40 years ago, when I first took an interest in
+evolutionary biology. My friend Alan Rogers, a population geneticist I didn’t know
+all the time, was thinking in the same direction. His two published papers on this are
+in my appendix. Neither of us knew about Petty’s priority.
+The idea would have been a still bigger blockbuster before the wall came down.
+Wars were being fought about whether return has any legitimacy at all. Karl Marx,
+ironically a champion of Petty, may have missed his argument on that.
+Petty’s idea is really the biological imperative I discussed in Chapter 1. The first
+priority is survival and reproduction. I will argue that this was implicitly accepted
+Chapter 2: Fast Forward 1/06/16 29
+throughout economic history until new insights now summarized as the marginalist
+revolution began in 1871. The marginalists, mentioned in the forward, swapped the
+telescope for the microscope. They left aside the grand teleologies of Smith and
+Ricardo and Mill and Marx to refocus on the mechanics of choice. Reasons for tastes
+or choices were treated as irrelevant. By 1900 or so, the marginalists had given us
+microeconomics much as we know it today. A century would pass before
+bioeconomics took form in response to Hamilton’s rule.
+Summary
+That gives the outline. It is a layman’s view of what a proper economist might not
+have attempted. Fools rush in. I will cite sources in economics and biology not to
+pretend that I am an authority, but to give real ones a chance to check. My case rests
+on the charts and tables. Mill might have been astonished to find that the kind of
+growth he described is the only kind to appear in the record.
+What makes my book different, aside from my lack of credentials, is the surprises
+and the unusual degree of abstraction leading to them. Not many writers try to
+follow a chain of inference as far without the comforting touch of the stone and
+wood and rope. If Becker had been as venturesome, he might well have solved the
+age-wage problem in 1964. I see no other path. Economics is all inside. It is tastes
+expressed in choices. Capital is foreseen satisfactions discounted by whatever our
+taste for impatience is. Most of it is human capital leaving little market record
+beyond its rental cost in pay. Logic is about all we have left.
+But the story cannot end in thin air. Few would pay the nuisance cost of so much
+abstraction without prospect of surprising and testable prediction. I will try to
+deliver that. Mill’s idea is a surprise to politicians, if less so to economists, and could
+hardly be tested more thoroughly and successfully. When new ideas are thought up,
+Mother Nature says “Shazam” and embodies them at no cost beyond the
+depreciation plowback we needed anyway. The data could not be more supportive if
+Mill and I had invented them. Even my proposed solution to the age-wage problem,
+Chapter 2: Fast Forward 1/06/16 30
+which must have seemed hopelessly stuck in subjectivity, paid off finally in that
+solution and in a refutation of Piketty’s argument. Risk theory and depreciation
+theory, each surprising enough, reinforced that solution and the pay rule. I said
+nothing in the this chapter about bank reform because I covered that in Chapter 1.
+Predictions of behavior can work because tastes converge to market equilibria.
+What stands behind the convergence, I argue, is biology selecting tastes that
+maintain and reproduce us. The idea that we act out the biological imperative is
+clear in Petty and Malthus, and in the equilibrium wage theory of Adam Smith and
+David Ricardo, where pay converges to the level preserving the work force. But if I
+say everything about that now, I will have nothing to say later.
+Chapter 2: Fast Forward 1/06/16 31
+CHAPTER 3: FOUNDATIONS
+Historically, foundations and science itself emerge at the end of centuries of
+practical application. A logical place for foundations in textbooks is the beginning. So
+it was with Halliday and Resnick on physics, which began with Newton’s kinetics
+(motion in time and space) and then this three laws. Only in the last chapter did the
+authors remind us that Einstein later put two of these three into question, and even
+the kinetics. Halliday and Resnick reasoned, correctly I think, that we sometimes
+learn more efficiently by learning something slightly wrong first and fixing it later. I
+will do that, in a sense, by reasoning first through free growth theory as if the Y = C +
+I equation were true, and then again with the two corrections. The sometimes
+counterintuitive logic of teaching and learning, including that, is “heuristics”.
+Building on explicit axioms was common in economics throughout the classical
+period running from Petty in the 17 th century through Mill in the 19th. Then came
+the major shift in focus, beginning in 1871, called the marginalist revolution. What
+mattered was less our goals, and more the market mechanisms that aligned supply,
+demand and price. The meeting point was the margin. Axioms about goals
+disappeared, including the usual one of prioritizing survival and reproduction, and
+axioms kept were usually left implicit. The implicit ones, essential to marginalism in
+my view, included convergent tastes and predictions. I will make those two and
+others explicit, and eventually add back the goals.
+This book on the whole is about second-guessing what is taught. This chapter is
+different. The nearest thing to a surprise in it is the idea that economics needs
+explicit foundations in the sense of axioms and basic definitions and equations. All
+the ones I choose are well accepted. Why I pick which should seem obvious in
+hindsight. But some mini-surprises will accumulate. Why do I take such pains to
+prove every feature of what everyone accepts already? Why all the boilerplate and
+bulletproofing? I need them because I will later try to shoot down other beliefs
+everyone accepts. We must know what is sound to find what is not.
+Chapter 3: Foundations 1/11/16 1
+Another mini-surprise is the physics-like care in definitions. The reason is that my
+arguments later will drive logic pretty far. Logic needs words that are like algeraic
+symbols in meaning the same thing all along.
+Figuratively and literally, foundations are groundwork. They will be less a chore if
+you love logic. And you’d better if you’re going to like the later chapters. Let’s get
+started.
+Orientation
+Economics itself, I think, is a quantitative rationale of choices. Psychology is a sister
+study not explicitly quantitative, and accounting for subliminal behavior as well as
+deliberate choices. The two fields cooperate and overlap. Economics is quantitative
+in that it asks how much as well as what, and focuses on numbers. It is science-like
+in that it looks for surprising and testable predictions in the end. It is philosophylike
+in that choices are subjective and that the larger factor, human capital, leaves
+little market evidence from which to reason upward. Both facts put the burden on
+reasoning downward from axioms.
+Much of the evidence for both factors, meaning physical and human capital, comes
+from the records of literal markets where we rent and hire and buy and sell. Most
+economics looked no further until Gary Becker and others expanded the boundaries
+about 50 years ago. The expansion made sense. A rationale of choices in literal
+markets alone is a silly concept. It is silly to acknowledge only choices that ring cash
+registers. We are the same people everywhere. Logic is the same everywhere. We
+have little interest in axioms that aren’t the same everywhere. Becker was right to
+see choices in marriage and even crime as predictable in terms of supply and
+demand and price.
+That includes psychic price. Once we follow Becker past literal markets, we accept
+psychic value and yield. We must anyhow. Value is in the mind. Economics works as
+Chapter 3: Foundations 1/11/16 2
+a rationale of choices, hence values, because human nature leads minds to converge.
+The literal market adds a measure. When we step outside it, we make do without the
+measure and trust logic alone.
+A Diamond Ring Parable
+I like a picture of a diamond ring to show something about psychic value and yield,
+and even about what output and exhaust in consumption are. The ring brings
+psychic yield to its wearer. If it didn’t, it would have no value. Its yield is each
+psychic satisfaction, and its value sums all time-discounted prospective ones
+together. Value therefore drops just a little as each yield is finally realized. It is as
+with apples dropping from a tree. Yet the ring is inert. It ostensibly produces
+nothing. It also keeps all its value as a ring from day to day. Then where does the
+outflow of the value in the exhaust come from? How can value go out if none was
+deducted and none produced? In the tree, we can see the apples growing and falling.
+The answer is that some value was produced in the ring, and some deducted too.
+What we didn’t notice was the constant shortening of remaining discount periods.
+As each day passes, each future yield comes one day closer. These are the apples
+slowly ripening on the tree. Present value of each rises because the discount period
+covers less time. This creation of value is output by definition, even though nothing
+has moved but the hands of the clock. As the discount period reaches zero, the
+expected yield eventuates to explain the taste satisfaction. These yields are the
+apples falling to be eaten. The ring holds its value intact because the exhaust of
+value it surrendered has exactly offset the output of replacement value as time alone
+shortens discount periods. Yet not an atom stirred.
+The whole point is that the value of the ring or anything else is discounted present
+value of foreseen satisfactions. They are discounted because there is such a thing as
+“time preference”; we value satisfactions now over foreseen ones later. This is not
+quite the same as the difference between birds in the hand and birds in the bush.
+That says that we value certainties over probabilities. Time preference also values
+Chapter 3: Foundations 1/11/16 3
+present certainties over future certainties. The reason is studied in a branch of
+economics called “capital theory”. My next generation theory, really Petty’s of 1662,
+proposes what the average-risk time discount rate is and why. Present value of each
+expected instant of future satisfaction grows at that rate as time shortens the
+discount period. It disappears, as apples from the tree, when expectation matures
+into reality.
+This diamond ring parable is full of useful lessons. I think it contains substantially all
+of economics. “Consider the lilies of the field.” “They also serve who only stand and
+wait.” A chemist would testify that the ring has done nothing. An economist sees
+plenty happening. Economics is abstraction. Physical capital is not things, and
+human capital is not people. It’s all in the mind. What an economist sees is present
+value evolving with time as expectations ripen and eventuate. Output is not what we
+do, although it has to do with what we do. It is the passage of time. Exhaust is the
+fruition of time and the harvest reaped.
+Only when we allow psychic values can we say that all behavior is economic
+behavior. It is choices among alternatives. That’s what makes economics philosophy.
+Axioms
+Then what should its axioms be? We would like empirical or real-world certainties. I
+find none beyond Descarte’s cogito. Philosophy is certain of next to nothing. We
+settle for working assumptions. We want ones as safe and few as possible. Those of
+economics have usually been left implicit since the marginalist revolution. I dropped
+the course because I felt their need. It should do no harm, at this point, to risk the
+opposite extreme. Let’s try putting everything on the table.
+My first axiom, in that spirit, will be unguided natural causality. This need not alarm
+the devout. It is the working assumption of all science. Working assumptions are
+not creeds. I cannot rule out the possibility of occasional or even continuous
+intervention by God to explain what we see. But we know to act as if we ruled it out
+Chapter 3: Foundations 1/11/16 4
+when our science hats are on. Even philosophy, in the Western tradition, leaves
+revelation aside. A practical consideration is that debates of how God is likely to be
+motivated to intercede have tended to find little consensus or traction. Science gets
+some.
+I tipped my hand on my own views in Chapter 1. As chairman of the Leakey
+Foundation for more than 40 years, I pretty clearly buy evolution theory and
+unguided natural casualty as working assumptions. But I invite those who don’t to
+read further before deciding that we will disagree on conclusions. If I foresaw a
+conflict with the devout, which I don’t, I would feel obligated to warn them now. I’ll
+bring this up again as we go along.
+My next few axioms, lumped together, are a mortal and reproducing population
+which competes, cooperates and freelances to act on convergent predictions. It acts
+to satisfy convergent tastes in a world of limited resources. I will model the
+population as human, although other species would do insofar as my axioms hold
+for them. “Convergent” means non-identical from individual to individual or place to
+place or moment to moment, but converging to norms with increasing scale in space
+and time. Predictions converge to outcomes as well as to one another.
+The point is that tastes and predictions must be convergent enough for markets to
+form and hold. A market, as Becker knew, is where anyone makes any choice among
+alternatives. A literal market is where a choice leaves a quantitative record. Markets
+cannot form and hold if we cannot predict where to find them and what they supply
+and when they are open. They cannot form and hold without some consensus that
+what we predict they will offer includes something we want. Clothing stores can
+work because our sizes and shapes fall mostly within standard ranges. Their
+business would be in trouble if we did not agree in number and rough placement of
+arms and legs and head. Restaurants can work because we can find what we want
+on a finite menu. Most crucially, clothing stores and restaurants cannot hold unless
+there is consensus on what their wares are worth in return. All this convergence
+Chapter 3: Foundations 1/11/16 5
+suggests a single species, although the axiom only said population. The ants and the
+picnickers can compete for the lunch, but they cannot bargain for it. The bar in Star
+Wars is a great gag because it thumbs its nose at this home truth. We converge in
+taste for the hilarious.
+I will add the biological imperative as a separate axiom later, although much of that
+at least may be implicit in the first one of natural causality. We hate unnecessary
+axioms, from good Occamite principle, but we hate unsupported inference or
+question-begging worse.
+I spell out the axiom of mortality and reproduction because I know I’m heading
+towards Petty’s insight and next generation theory. Of course we design foundations
+to support what we want on top. It seems to me that my axioms mention nothing
+about rationality, whatever that might mean, except in the sense of assumed
+convergence of predictions to outcomes. And that assumption itself might not be
+critical. What seems critical that is the predictions should converge to a known
+function of outcomes. If they converge to something predictably overoptimistic or
+overpessimistic, we’re still in business. Lacking even that, economic science is
+stillborn. We can’t predict chaos.
+That’s an example of the principle that axioms need not be strictly true. They must
+be true enough. We’re still in business if God intervenes a little here and there. Much
+more than that, and the convergent prediction axiom runs into the problem of
+predicting the mind of God.
+The two convergence axioms, of tastes and predictions, are implicit in all
+microeconomics. “Micro”, as economists call it, is about supply meeting demand at
+price equilibrium. This insight was the main theme of the marginalist revolution. It’s
+exactly what can’t happen without convergent tastes and predictions. It’s exactly
+why the bar in Star Wars is a hoot. Ants find price equilibria in ant markets, and
+people in people markets. Ants and people find no meeting of the minds. Then if
+Chapter 3: Foundations 1/11/16 6
+macroeconomics (“macro”) rests on micro, the convergence axioms say only what
+economics has accepted implicitly since micro began. The “law of one price”,
+meaning market equilibrium, actually begins a century and a half earlier with
+Cantillon. But Jevons, in co-founding the marginalist revolution in 1871, effectively
+made it an axiom.
+I don’t want to seem to claim that the convergence axioms are safe because they are
+accepted. Arguments ad majoritatem or ad auctoritatem prove nothing. But markets
+do seem to form and hold, and the convergences seem implied. Authority and
+majority are sometimes right.
+Not all economists have agreed. There have been “historicists” and
+“institutionalists” who mistrust the idea of convergent tastes, and prefer to see
+idiosyncratic national tradition or power groups or mindsets as the prime movers in
+place of uniform human nature. Heinrich Schmoller, a historicist who stressed
+national differences, tangled with Carl Menger, an independent co-founder of the
+marginalist revolution in 1871, in a childish feud for which Menger was at least as
+much to blame. If you must answer your critics, be gracious. Thorstein Veblen, an
+institutionalist from Wisconsin, coined the term “neoclassicism” for what we now
+call marginalism. He made fun of it for missing the role of institutions in driving
+economies for institutional or collective goals rather than individual human ones.
+I think there’s something there. My main theme in this book is growth theory at the
+collective scale. I argue that collective growth flourishes where laws and practices
+and cultures nurture and protect it. These are national institutions. New ideas, by
+definition, are opposite from the fungible commodities for which supply and
+demand meet at price equilibria. Somehow they come. Dogs bark, cats climb, people
+innovate. I’m with Menger and Jevons and the marginalists and human nature, but
+with asterisks there too. There is plenty left for historicists and institutionalists to
+help explain.
+Chapter 3: Foundations 1/11/16 7
+Vocabulary and Catechism
+The words microeconomics and macroeconomics, by the way, didn’t exist until
+Ragnar Frisch coined them in the 1920s. We use terms retrospectively to describe
+old arguments in language familiar now. That segues into the next steps in the
+foundations. What should be the basic vocabulary and catechism, meaning basic
+logic, in terms understood today?
+Consideration of purpose always comes first. The purpose of economics is
+prediction. We happen to know that one of the most powerful predictors of
+economic behavior is maximization of risk-adjusted return. This was Robert
+Turgot’s insight of 1766, although he left the risk variable unsaid. (His real first
+name was somehow Anne, so we’ll go with the second). He wrote that return
+equilibrates across markets as investors leave low-return businesses to crowd into
+higher-return ones. The shift bids up capital denominators in the higher-return
+businesses, and conversely, until return converges. It was David Ricardo, in 1817
+who added that the convergence is more exactly for businesses judged equal in risk.
+The evidence is everywhere we look. I call this the maximand rule: all behavior
+maximizes perceived risk-adjusted rate of return. I’ll show its proof below. That
+means all behavior in all markets, and markets are where any choice among
+alternatives is made. Return means ratio of (net) output to capital generating it.
+Then the vocabulary wanted might as well include capital and output.
+But what is capital? Economics is choices, and the measure is price or value. Price
+can’t be measured exactly outside literal markets, which is why economists follow
+those markets, but is measured in principle by what we give up in exchange. The
+price of any capital, even human capital, is given by the present value rule as timediscounted
+cash flow. Then cash flow and its positive and negative components
+belong to the basic vocabulary, while the present value and maximand rules both
+belong in the catechism. Output is total return, so the total return truism belongs in
+the catechism too.
+Chapter 3: Foundations 1/11/16 8
+What other basic terms do we need? Cash flow at the collective scale, where
+transfers cancel internally, and there is no source of investment from outside,
+simplifies to exhaust of value in taste satisfaction. There is no negative component
+because there is no external source of new investment. Tradition through most of
+economic history has called this exhaust consumption. Schultz recognized some
+consumption as investment in human capital, I said earlier, and limited the exhaust
+to “pure consumption”. I will use this and the term “exhaust” interchangeably. Then
+transfer, consumption, exhaust and pure consumption belong in the vocabulary too.
+So does “invested consumption”, my restatement of Schultz’ “pure investment” in
+human capital.
+This seems to be the right track. The object is prediction of behavior. The maximand
+rule predicts all behavior, and I have sought to build a vocabulary and catechism to
+clarify its terms. The right vocabulary, thank gosh, is mostly the one we have all used
+since Adam Smith or even Petty. It has needed only a little tweaking and
+clarification, as to the two kinds of capital and consumption for example.
+There is a “fundamental theorem” of calculus showing how differentials and
+integrals fit together. Its proof takes a lot of thought. There is a simpler one for
+algebra. Might a fundamental theorem of economics be helpful? Obvious candidates
+would include the maximand rule predicting all behavior, the total return truism
+explaining the output numerator of the maximand (rate of return), and the present
+value rule explaining the capital denominator. For years I chose the maximand rule
+as the fundamental theorem. Then I preferred the present value rule as more
+fundamental since it explained the denominator. But so would be the total return
+truism in explaining the numerator. Now I opt for the judgment of Paris. Let the
+three together be the fundamental theorems of economics. The maximand rule is
+the centerpiece, and the other two define its terms. All three together are much
+easier to follow, mercifully, then the one of calculus.
+Chapter 3: Foundations 1/11/16 9
+The vocabulary can also include the standard distinction among stocks, flows and
+rates. These are only definitions, not assumptions. Stocks means value measured in
+money units, say dollars. This is not the same as stock in the sense of equity
+securities, although those can be examples. Flows means processes such as output
+for consumption measured in dollars per unit time. Flows are to stocks as verbs to
+nouns. Percent rates are flows divided by stocks, as rate of return or growth rate,
+and are measured in pure numbers over time such as 5% per year.
+Now for the fundamental theorems. Take the present value rule first. It starts from
+the axiom that we satisfy convergent tastes in the light of convergent predictions. In
+a simple case, we foresee that an asset (stock) is likely to yield a certain amount of
+taste satisfaction flow at a certain future time. We discount that expected amount at
+a time preference or time discount rate given by our taste for impatience, tempered
+by our taste for risk avoidance, to find its present value. Present value of the whole
+asset is the sum of present values of all the expected future satisfactions together.
+A more general case allows for transfers. The future events we foresee and discount
+are not always exhaust in taste satisfaction by ourselves at the time. Some might be
+foreseen liquidations to reinvest in other assets or to give away so that we or the
+donee can realize the taste satisfaction later. Either reinvestment or gift is called
+transfer. I call it “transfer out”, meaning out from the generating asset. Then
+transfer out = reinvestment + gift. (3.1)
+There can also be transfer in. Sometimes future realizations, in taste satisfaction or
+transfer out, are not explained as production by the asset as it is now. The asset
+might grow later by new investment from outside, and the investment in between
+might help explain the later yield. If an eighth-grader is destined to become a doctor,
+for example, her foreseen earnings as a doctor will presuppose investment in high
+school and college and med school in between.
+Chapter 3: Foundations 1/11/16 10
+The expected future flow we discount to present value, allowing for transfers too, is
+exhaust plus transfer out less transfer in. This net difference is called cash flow. That
+is,
+cash flow = exhaust + transfer out – transfer in. (3.2)
+That’s the logic behind the present value rule interpreting capital as discounted cash
+flow.
+Human cash flow may not be defined in those words anywhere but in this book. But
+the flow discounted to find human capital is understood everywhere, I think, as pay
+less what Schultz called pure investment and I call invested consumption. I
+defended this idea in my analogy between human capital and the firm. Thus I
+endorse the tradition that human capital is pay less invested consumption
+discounted to present value. That is,
+human cash flow = pay – invested consumption.
+It turns out that this is not logical certitude, or an inference from axioms already
+given, and so it is not strictly part of the foundations. I will defend it in later
+chapters.
+The great convenience of the present value rule and its application to human capital
+is that it allows the factors to be added as a dollar sum. That helps in understanding
+the total return rule.
+That rule begins with the truism that growth of anything is internal creation plus
+flow passed in less flow passed out. That shows as
+growth = creation + flow passed out – flow passed in. (3.3)
+Chapter 3: Foundations 1/11/16 11
+Algebra now allows
+creation = growth + flow passed out – flow passed in,
+(3.3a)
+since terms can change sides if they reverse signs.
+Economics is interested in creation and growth of value. Value in the stock sense
+means capital in general. Most economists most of the time use the word to mean
+only the “physical capital” we buy and sell. But the truism works for anything. I
+sometimes prefer the generality of “value”, meaning any amount of any mix of
+human and physical capital. This again can be called either “total capital” or value
+interchangeably.
+Flow of value passed out is exhaust plus transfer out, and flow passed in is transfer
+in. Creation of value is output in the net sense. Then (3.2) and (3.3a) give the total
+return rule
+output = growth + cash flow.
+(3.3b)
+“Income” means rights to output, and is implicitly equal to output. Like most writers
+in economics, I will use these words more or less interchangeably too.
+Now comes the centerpiece. A good starting point is the present value rule. We
+assemble value or total capital to satisfy foreseen tastes. But we also satisfy current
+tastes by spending current cash flow. At the scale of the total capital (value) of the
+individual, were reinvestment cancels internally, cash flow simplifies to exhaust in
+taste satisfaction plus gift given less gift received. Then
+individual cash flow = net gift + exhaust, (3.4)
+where net gift means gift given less gift received.
+Chapter 3: Foundations 1/11/16 12
+Consider net gift. Its negative component, gift received, is concurrently added either
+into total capital growth or into exhaust. Thus it is the contribution to those two
+desiderata explained from outside, rather than by the individual’s behavior. Net gift
+deducts that negative component (gift received) from the positive one to leave the
+part which the individual’s behavior explains. Thus individual output, as the sum of
+growth and net gift, is the sum of desiderata realized by behavior. That makes it the
+unique behavioral maximand as a flow. Division by the individual’s total capital,
+which is her whole means of behavior, gives total capital rate of return as the rate
+maximand.
+This can be summarized in a slightly different way. Cash flow measures the means of
+taste satisfaction now. Total capital growth measures gain in means of expected
+satisfactions, discounted according to our taste for impatience (time preference)
+tempered by our taste for risk aversion. Output is their sum. Behavior reveals and
+maximizes the taste satisfaction including provision for future satisfaction.
+Therefore risk-adjusted output is the flow maximand. Capital of both factors, at
+present value, is defined as the whole means of that satisfaction, and implicitly of
+behavior. Therefore risk-adjusted return, the ratio of the flow maximand to its
+means, is the rate maximand.
+What Turgot said in 1766, in his Reflections, was
+“. . . as soon as the profits of one employment of money. . . increase or
+diminish, capitals turn in that direction. . . or withdraw and turn to other
+employments. . . Whatever the manner in which money is employed, its
+product cannot increase or diminish without all the other employments
+experiencing a proportionate increase or diminution.”
+Turgot did not allow for risk in this quick summary, but otherwise explained the
+mechanics that tend to equalize return.
+Chapter 3: Foundations 1/11/16 13
+The rule does not say that risk-adjusted return tends to hold constant over time. To
+the contrary. Return equals growth plus cash flow, and my charts show the growth
+component as a bucking bronco. The maximand rule says only that risk-adjusted
+return is always the maximand. It is not always the same as time changes
+circumstances. Proof is in Turgot’s equalization of return at each moment, not from
+one moment to the next. That is what we see wherever we look.
+There is a quibble worth attention. Behavior seldom expresses taste exactly. We say
+one word when we mean another. We reach for the coffee, and accidentally spill it.
+That was the point of my axiom that predictions converge to outcomes, as well as to
+one another, only on average. Outcomes are generally a little better or a little worse
+than predicted. There can even be systematic bias where all people together seem
+overoptimistic or overpessimistic accordingly to circumstances, as shown in the
+psychological economics of Hanneman and Tversky. The axiom requires that these
+biases offset over scale and time. That sounds plausible, and anyhow makes analysis
+easier.
+The maximand rule would be ridiculous if terms were defined in a literal market
+context only. Markets must be defined as wherever any choice is made. It would be
+ridiculous if cash flow were understood to presuppose literal cash, or even the
+necessity of some quid pro quo to explain motivations. Unreciprocated gift down the
+generations drives lineage survival.
+All behavior means all behavior. The miser maximizes the growth component in
+return, the parent or philanthropist maximizes the net gift component, and the
+good-time Charlie maximizes exhaust.
+Have I gone too far in this claim? Try to imagine an exception. What kind of behavior
+might not maximize perceived risk-adjusted return? What if I jump out the window?
+Deliberately drive my car into a tree? Sell a cow for a handful of beans? Maximize a
+Chapter 3: Foundations 1/11/16 14
+pile of nuclear waste in my safe instead of cash and securities? Drive a truck filled
+with dynamite into a crowd of unbelievers? Write a book on economics when I have
+no credentials? Sing when I have an atrocious voice? All express my tastes. There is
+no escape. Behavior reveals taste satisfaction in the broad sense including provision
+for future satisfactions.
+Tastes, Aims and Ends
+I usually mean the word “tastes” as objectives whose satisfaction exhausts capital
+value. By that usage, as we just saw, the truism that behavior reveals tastes must be
+interpreted carefully. We see current taste satisfaction at mealtimes. Between meals,
+we mostly see buildup of capital to satisfy tastes in future. And we sometimes are
+motivated to give capital away, as in raising the generation to succeed us. I
+sometimes use the term “aims” to mean the sum of this exhaust plus gift plus
+buildup. Then to say that output realizes growth plus cash flow is to say that it
+realizes aims. All behavior reveals and maximizes aims explained by ends. This
+again puts the maximand rule in a different way.
+As capital of both factors is our whole means of behavior, and as it is present value
+of foreseen taste satisfaction and nothing else, we might first suppose that taste
+satisfaction is our unique final goal. But that too could mislead. Biology shapes our
+tastes, and shapes them to replicate the generations. I treat the biological imperative
+as the “ends” driving tastes and aims. Our two complementary ends are adult
+survival and replication of both factors for survival of the young. This idea underlies
+next generation theory.
+What we maximize is risk-adjusted present value of current plus foreseen taste
+satisfactions by ourselves plus donees. Current taste satisfaction or exhaust by
+ourselves is counted at full value, and foreseen ones are added at a time discount.
+Transfer is part of the mechanics. The exhaust plus growth plus gift are the aims, in
+whatever proportion we like, and our subliminal deeper motive of lineage survival
+is the ends.
+Chapter 3: Foundations 1/11/16 15
+Subjective Certitude
+Tautologies or truisms are logical certitudes. My three fundamental theorems are
+cases in point. The total return truism is a classical example. Since growth is
+creation less net outflow, creation is growth plus net outflow. This gives unqualified
+certitude to the doctrine that output, or creation of value, is growth of value plus
+cash flow (net outflow of value).
+The other two fundamental theorems are certitudes in a subjective sense. What they
+predict infallibly is intentions. The present value rule must give capital value as we
+see it individually. Only under the convergence axioms does it predict observed
+market equilibria. The same is true of the maximand rule. This rested on the same
+axioms and the one that a population acts to satisfy tastes (in the sense of aims).
+There are schools of thought, including Popperians and deconstructionists, which
+disapprove of logical certitude on grounds not clear to me. They are wrong. A rose is
+a rose. Nor are all examples as inane as that one from Gertrude Stein. All of math is
+derived as logical certitude. Its proof comes from analysis, not experiment. Proof of
+Fermat’s last theorem eluded some of the finest minds in the world for three
+centuries until Andrew Wiles published the solution in 1995. Philosophy is precisely
+a search for hidden truisms or tautologies. Economics is philosophy when it does
+the same. The pay rule shows that their inferences can be startling. Age-wage
+profiles are technically illustration, not proof, of the proposition that human
+depreciation is expected to be recovered in pay. That follows from definitions and
+needs no evidence in proof.
+The pay rule is not wholly logical certitude because it also proposes that
+maintenance consumption is not recovered in pay. Rather I argue that from the
+biological imperative: maintenance is exhausted in satisfying our taste for adult
+survival. The fact that few can have doubted this since the physiocrats has nothing
+to do with proof. The shock, anyhow, is in the expected recovery of human
+Chapter 3: Foundations 1/11/16 16
+depreciation. This opened a can worms. It contradicts the Y = C + I equation, and the
+related belief that output equals profit plus pay. I will try to track down some of the
+worms, as I promised, and release new ones in the process if I must.
+This book will continue to hunt for certitude, absolute when possible and subjective
+otherwise. If the convergence axioms are trustworthy, behavior will reveal aims
+well enough.
+Output Exhaust
+I define output as creation of value, and equivalently of capital. Does this overlook
+the possibility that output might also create taste-satisfying pure consumption
+directly, without passing through a capital phase first?
+Such a thing is possible in math, but not in economics. Since capital is foreseen
+eventual exhaust, exhaust not drawn from capital in place would be implicitly
+unforeseen. This is the flip side of the deadweight loss rule. Economics is a rationale
+of choices, and neglects unforeseen taste satisfaction as unable to influences choices.
+Those unforeseen and hence costless satisfactions are called “free goods”, and
+ignored as outside the economic purview. They why not ignore free growth too?
+Growth is roughly foreseen and factored into choices, for one thing, even if I am the
+first since Mill to foresee it as free. For another, even unforeseen events are of
+economic interest if they affect means or choices after. Free growth does. Costless
+satisfactions leave no trace.
+Note in any case that the total return truism (3.2) through (3.3b) does not depend
+on this inference. Those equations describe creation of value, not necessarily of
+capital alone. Output exhaust would be added both to output and to exhaust, and
+would disappear in their difference.
+Chapter 3: Foundations 1/11/16 17
+Basic Glossary
+I use standard terms when I can find them, and coin new ones like “aims” and “ends”
+when I can’t. But even standard ones are ambiguous. The vocabulary of economics is
+not settled. Look up “capital” or “output” or “cash flow”, for example, in any
+economic dictionary. It will show ranges of meanings, and appreciably different
+ones from one dictionary to the next. I coped by defining as I went along, and would
+have had to do the same even if this book were meant for economists only.
+Otherwise the ambiguities would have left loopholes.
+Definitions include:
+Aims:
+Capital:
+Cash flow:
+Ends:
+Exhaust:
+Flow:
+Human capital:
+Income:
+Invested consumption:
+Maximand rule:
+Net transfer:
+Intention to maximize the sum of current taste
+satisfactions plus gift, plus growth in means of future
+satisfactions and gift.
+Means of aims; human plus physical capital; present
+value of expected cash flows.
+Capital passed out, in transfer or exhaust, less capital
+inserted from outside.
+Rationale of aims; biological imperative.
+Termination of capital in taste satisfaction.
+Any process measured in capital per unit time.
+Present value of skill sets; capital whose outside
+operating cost is exhausted in taste satisfaction; present
+value of pay less invested consumption; present cost of
+past invested consumption less pay.
+Rights to output; equal to output.
+Transfer into value of human capital.
+All behavior is maximization of perceived risk-adjusted
+output and return as a flow and a rate respectively.
+Transfer out less transfer in.
+Chapter 3: Foundations 1/11/16 18
+Output:
+Physical capital:
+Present value rule:
+Profit:
+Pure consumption:
+Rate:
+Stock:
+Tastes:
+Total return rule (or total
+return truism):
+Transfer in:
+Creation of wealth, or equivalently of capital of either
+factor.
+Capital whose outside operating cost does not satisfy
+tastes.
+Capital of either value is expected cash flow discounted
+at our time preference rate.
+Output of physical capital.
+Same as exhaust.
+Quantity measured as a flow over a stock, and
+equivalently as a pure number over time.
+Quantity measured in dollars alone. Same as capital.
+Intentions whose satisfaction terminates capital in
+exhaust.
+Output equals capital growth plus cash flow.
+Value inserted from outside. Same as new investment
+from outside.
+Transfer out:
+Wage:
+Work:
+Value passed out and recovered fully in other assets
+rather than exhausted.
+Same as pay.
+Output of human capital.
+Summary
+When I first thought these foundations through, maybe 25 years ago, I was just as
+happy to see that they held so little originality. The vocabulary is about the same as
+in Adam Smith, and the three fundamental theorems are well accepted. Any
+composer knows that originality should be incidental. Our music says what we think
+Chapter 3: Foundations 1/11/16 19
+needs saying. If it does, that tends to mean that it is new to the current conversation.
+It need not be new to the world.
+All three fundamental theorems are part of the daily conversation of investors and
+finance economists. They are not much on the screens of microeconomists and
+macroeconomists. There may have been some originality in spelling out the implicit
+axioms behind them, and in generalizing them into all capital including human
+capital if we trust those axioms.
+One of the mini-surprises was that gift appeared in my very first equation. Cash flow
+at the scale of the total capital of the individual, where reinvestment cancels out,
+simplifies to gift and exhaust alone. Obvious in hindsight, but surprising if we have
+been taught that economics is all about numero uno. I think it is about adults giving
+to the young to keep the generations turning.
+That sets the theme of this book. Old ideas will find unfamiliar combinations and
+applications. Those are originality enough. But so many little stretches of the tried
+and true can be hard to track.
+Economics needs a special and counterintuitive mindset. The guiding principle is the
+analysis of the diamond ring. Economics means taking our minds off the physical
+substrate. That goes to the corners of our eyes, not the focus. Capital is not people
+and things. It is present value of foreseen cash flows. Output is the ripening of these
+foreseen flows with time, and exhaust is the harvest eventually reaped. Economics
+takes us through the looking glass to a place the same but different.
+Chapter 3: Foundations 1/11/16 20
+CHAPTER 4: MILL’S IDEA
+Mill’s Paragraph
+It always seemed obvious to me that growth is free. Survival costs investment in the
+next generation, but growth costs nothing more. It seemed to me that innovation is
+the human specialty, that we pay its cost every day as the cost of being human, and
+that growth happens when genius or circumstance somehow gives it traction. I
+spent most of my life assuming that all economists, but not politicians, thought the
+same. I since learned that economists, following Solow, teach something close but
+different. So I guessed that I had hit on something new.
+I hadn’t. We read economic history to learn that our ideas are seldom original.
+Thomas Malthus, contradicting his friend and rival David Ricardo, wrote something
+like my or Mill’s free growth theory in 1820. Chapter 7 of his Principles 1 says this in
+several ways. One example is
+“When we have attained…increased and steady profits, we may then begin to
+accumulate, and our accumulation will then be effectual. But if, instead of
+saving from increased profits, we save from diminished expenditure; if, at the
+very time that supply of commodities compared with the demand for them,
+clearly admonishes us that the proportion of capital to revenue is already too
+great, we go on saving to add still further of our capital, all general principles
+concur in showing that we must of necessity be aggravating instead of
+alleviating our distresses.”
+John Rae renewed this theme in 1834. Book 1, Chapter 10 of his New Principles 2
+includes
+“If an improvement, for instance, in the art of baking bread were effected, by
+which, with half the labor and fuel, equally good bread could be produced, it
+would not benefit the bakers exclusively, but would be felt equally over the
+whole society. The bakers would have a small additional profit, the whole
+society would have bread for the product of somewhat less labor, and all who
+1 Principles of Political Economy Considered with a View to their Practical Applications
+2 Statement of some New Principles on the Subject of Political Economy
+Chapter 4 Mill’s Idea 1/11/16 1
+consumed bread, that is, every member of society, would from the same
+outlay have somewhat larger returns. The whole series of instruments
+owned by the society would be somewhat more productive, and would be
+carried to an order of quicker returns.”
+The clearest expression, and probably clearest even today, came from Mill in 1848.
+He put it that output growth can precede and explain capital growth as well as the
+reverse. Crediting Rae, he wrote:
+There are other cases in which the term saving, with the associations usually
+belonging to it, does not exactly fit the operation by which capital is
+increased. If it were said, for instance, that the only way to accelerate the
+increase of capital is by increase of saving, the idea would probably be
+suggested of greater abstinence, and increased privation. But it is obvious
+that whatever increases the productive power of labor creates an additional
+fund to make savings from, and enables capital to be enlarged not only
+without additional privation, but concurrently with an increase of personal
+consumption. Nevertheless, there is here an increase of saving, in the
+scientific sense. Though there is more consumed, there is also more spared.
+There is a greater excess of production over consumption. It is consistent
+with correctness to call this a greater saving. Though the term is not
+unobjectionable, there is no other which is not liable to as great objections.
+To consume less than is produced, is saving; and that is the process by which
+capital is increased; not necessarily by consuming less, absolutely. We must
+not allow ourselves to be so much the slaves of words, as to be unable to use
+the word saving in this sense, without being in danger of forgetting that to
+increase capital there is another way besides consuming less, namely, to
+produce more.
+The words “accelerate” and “concurrently” show that Mill understood calculus. His
+autobiography says that he hadn’t really learned it from his father James, who had
+bought a book and was trying to teach himself and the 13-year old son at the same
+time. The son studied it in his later teens at school in France. He like me was writing
+for everyone, and preferred to keep explicit math off the page. But the quote
+reminds us that the only alternative in economics is implicit math in sentence form.
+The paragraph implies the Y = C + I equation: output equals consumption plus
+investment. I go a tad farther, starting one chapter ago, by offsetting my word
+equations from the running text. These show equal signs and plus and minus and
+Chapter 4 Mill’s Idea 1/11/16 2
+division and multiplication signs, rather than keeping them inside the paragraph
+and writing out such words as “equals” and “plus”. These word equations are
+usually easy enough to read. My appendix will cover them and more in notation.
+Mill’s equation may be as old as economics, although I haven’t found it put explicitly
+before Keynes wrote it in his General Theory 1936. It is now foundational to national
+accounts and macroeconomics (the art of balancing full employment with price
+stability). I showed why I agree only if we add a couple of imaginary asterisks. We
+have to mean total capital growth and pure consumption. Mill and tradition have
+meant physical capital and all consumption.
+That leaves me with something like the heuristic problem of Halliday and Resnick.
+They started with Newton as something familiar and accessible and commonsensical.
+I will follow suit. I will reason as if Mill’s equation were right. My own
+argument is exactly the same if we remember the hidden asterisks. That saves us all
+the trouble of going through it twice. Chapter 4 will restate it in terms of total
+including human capital just to make sure.
+It is an unsettling argument either way. It unsettled Solow. Chapter 2 showed why.
+We are probably more comfortable to think of income as something known which
+we can slice into consumption and saving slices as we like. Less of one would mean
+that much more of the other. That would put us in charge. We can always consume
+less by will power. If less consumption meant more growth, we could grow at will.
+Keynes showed otherwise by invoking the old paradox of thrift. If everyone put
+money in vaults instead of consuming, consumption would go down while money
+piled up. But the added money would find less output to buy with it, as nothing new
+was created to compensate for the drop in consumption. The value of the piled-up
+money would vanish in inflation. Saving would equal investment in the end because
+both disappeared. The Y = C + I equation shows the math. It say that less
+Chapter 4 Mill’s Idea 1/11/16 3
+consumption C means either more investment I or less output Y. It doesn’t say
+which happens.
+Investment, for Keynes, meant creation of new productive assets. He was right in
+seeing that as the goal. But his analysis leaves too much outside. What I miss is a
+variable for investment quality. Investments in new productive assets in 1929 or
+2008 yielded negative return. Money in vaults did better.
+I prefer an approach which takes our minds off the ultimate goal in new productive
+assets. I drop all distinctions between saving and investment. Either word means
+the other. What matters is its intended and realized return. That is the missing
+quality variable. Notice that I don’t have to specify “risk-adjusted” return because
+Keynes and I are describing only at the collective (national) scale. Risk of all
+investments collectively is average risk. This can be implicit whenever I describe at
+the collective scale.
+Keynes’ analysis and equations appear in his General Theory. He was addressing the
+world depression. A theme was that households do most saving, while businesses do
+most investing. Banks collected the saving and made it available for business to
+borrow and invest. But business lacked the “animal spirits” to take such a risk in a
+slump. We saw the same story after 2008. Keynes’ proposal was for government to
+do the borrowing and investing instead. That’s part of the “fiscal policy” I described
+in Chapter 1. Here we tend to agree. That would explain his sense of urgency as to
+new productive capital as the most direct way to put idle plant and workers back to
+work.
+I prefer to suspend judgment on what is a new productive asset and what isn’t. I
+think my way of putting things is both simpler and subtler than Keynes’, although at
+sacrifice of his explicit focus. Saving and investment, in my language, are the same
+from the start. The maximand is return. Consumption foregone will translate into
+Chapter 4 Mill’s Idea 1/11/16 4
+capital growth insofar as rate of return actually realized matches the current norm.
+Less return makes less growth than consumption sacrificed, and more makes more.
+But collective return can be a surprise. Boom years and bust years arrive unforeseen.
+The cost of investment in consumption given up, whether individually or collectively,
+never agrees exactly with what it proves to be worth at market. Gunnar Myrdal, in
+1939, coined the terms ex ante for the first and ex post for the second. The bucking
+bronco describes the ex post picture overall.
+Ex ante (at cost) and ex post (at market) investment agree when market-realized
+return holds unchanged. Lower return means that ex post outcomes fell short of ex
+ante cost and expectations. Higher return means the reverse. That gives the context
+of Mill’s idea. And he clearly isn’t talking about growing or declining by random luck.
+His prime mover is “whatever increase the productive power of labor.” He knew
+that this meant innovative ideas. Can we dial them in as we like? All he says is that
+they need cost nothing in consumption missed. Then how might that work?
+Gross and Net Investment
+Keynes, accepting the Y = I + C equation, defined saving S as gross income less
+consumption C. I draw the impression that he implicitly defined output as creation
+of economic value. So do I. He defined gross investment I as gross output less
+consumption. Gross in both cases meant gross of depreciation. He knew that income
+and output are equal, at all scales, since the first means rights to the second, and
+gave both the symbol Y as I do. It followed that saving and investment are also
+equal. The meaning was that actually realized saving, as distinct from consumption
+restraint in hopes of saving, had to be realized in investment. This is the home truth
+which I accept but prefer to rephrase.
+I have traced Keynes’ argument and language on these points because I think it is
+now generally accepted by Keynesian and anti-Keynesian and neo-Keynesian
+schools alike. That’s why I think my own interpretation differs from a general
+Chapter 4 Mill’s Idea 1/11/16 5
+consensus rather than supports one school over another. I think it is the consensus
+view, as well as Keynes’, that his “attempted saving” means gross saving (gross
+income less consumption) not invested in new productive assets. That can be
+written as
+Keynesian attempted saving – transfer payments
+= Keynesian net saving = Keynesian net investment,
+at any scale.
+I accept Keynes’ definition of transfer payments, and I recognize the importance of
+his distinction of those from investment in new productive assets which put idle
+plant and workers to work. My interpretation, even so, is that it is better to leave
+them idle than to put them to work unproductively. Keynes made his opposite view
+crystal-clear with his brilliant tongue-in-cheek parable of money buried in
+mineshafts and idle workers hired to dig it up. He had a sense of theater as well as a
+great mind. And he just might have been right. But I think my way of putting things
+encompasses that possibility. His mineshaft scenario works if it somehow
+maximizes return in the big picture.
+My language differs from Keynes’ in several ways. I prefer Myrdal’s ex ante – ex post
+dichotomy, published three years after the General Theory, to Keynes’ equivalent
+attempted-realized one. Like Myrdal, and unlike Keynes, I apply it to investment as
+well as saving. That’s why I treat them as synonymous. And I prefer to recognize
+human capital explicitly. Keynes surely understood the concept. He was the star
+pupil of Alfred Marshall’s later teaching career, unless he shared that distinction
+with his lifelong personal friend and professional adversary Arthur Pigou, and
+Marshall and Pigou both describe human capital in principle. Marshall wrote that he
+neglected it as something outside what he saw as the main sequence ending with
+consumption. Keynes could have agreed, or could have meant to provide for it
+implicitly by defining output as investment plus consumption while realizing that
+Chapter 4 Mill’s Idea 1/11/16 6
+some consumption is investment in human capital. I said what I think this overlooks
+(self-invested work) and what it forgets to exclude (recovered human depreciation).
+My own way of putting things mightn’t strictly need the terms investment or saving
+except to translate my ideas into the language we all know. That translation is
+essential if I hope to be understood. It will first take account of the fact that Keynes
+meant investment and saving as to physical capital only, with labor or human capital
+to arrive exogenously as an outcome somehow of consumption. That led to the
+Y = I + C equation
+output = investment + consumption. (4.1)
+Gross and net versions of (4.1) meant gross and net of depreciation. Thus
+gross output = gross investment + consumption
+(4.1a)
+and
+net output = net investment + consumption.
+(4.1b)
+In the General Theory, where (4.1) appears in his Chapter 6, (4.1) it means the gross
+version unless otherwise specified. I prefer the opposite, and mean the net version
+(4.1b) unless otherwise specified.
+My ex ante investment corresponds to Keynes’ “intended saving” through
+consumption restraint. My “depreciation investment”, or “depreciation plowback”,
+means just enough ex ante investment to offset actual depreciation, not book
+depreciation, of physical capital. I assume that we intuit roughly how much this is
+when I say that optimum ex ante investment is depreciation plowback. Now let’s
+consider how that could be true.
+Chapter 4 Mill’s Idea 1/11/16 7
+Growth Mechanics
+Start with simplicity. Imagine a changeless world where people and things replicate
+themselves exactly. Chapter 3 showed that in total capital terms including human
+capital, although neither Mill nor Keynes used them, depreciation of both factors
+together, net of transfers from one to the other, equals exhaust in taste satisfaction.
+“Replacement investment,” or “depreciation investment,” is just enough to turn the
+generations over as new (net) output makes up the loss to consumption exactly.
+Ideas hold unchanged. That wouldn’t be too far from the truth for our million years
+as homo erectus, or our millennia after as homo sapiens until some 50,000 years ago,
+or our centuries in the dark ages after Rome fell. Most of the new norms we
+innovated, although not all, eventually regressed to the old ones.
+Next imagine growth of everything at a constant rate. Capital, consumption and
+output all grow in constant proportion. Economists now call this “balanced” growth.
+Mill had described that possibility in 1844. Balanced growth isn’t driven by
+consumption restraint, as consumption never lags. And it isn’t driven by
+productivity gain, meaning more output per unit capital, since output grows no
+faster. What drives it?
+Suppose first that there are still no new ideas. If we are pioneers in a new world or
+empty niche, we might be able to increase numbers of exactly the same things and
+skill sets until we reach niche limits. Then what would pay for capital growth in that
+case? Zeno the Eleatic might insist that depreciation investment is never enough
+because it chases a moving target. But depreciation moves just as fast. Identical
+capital means identical in depreciation rates. That means the ratio of depreciation
+(pure consumption) to capital. The two racers hold neck and neck indefinitely.
+Depreciation investment is still enough, just as it was in the growthlessness before.
+In balanced growth, as in standing still, it is the only need for of capital replacement.
+Now comes a tougher problem. Niches in the real world are typically more or less
+full. Here old ideas alone can’t bring growth. David Ricardo, Thomas Malthus and
+Chapter 4 Mill’s Idea 1/11/16 8
+Edward West had written in 1815 that in economies already developed, there isn’t
+much room for more capital of the same kind. Its productivity disappears in capital
+glut and diminishing returns. There could still be growth when some of the new
+ideas would need only redeployment of existing kinds of capital, as in relocating
+production nearer to the market or cutting out the middleman. This redeployment
+was Solow’s “disembodied growth.” But growth after that have to come from capital
+new in kind. Hourglasses might have to give place to pocket watches, or sailing ships
+to steamships. Those were Solow’s “embodied” growth.
+The apparent problem here is that novelty is expensive. There are blind alleys and
+failure rates and learning curves that rote replication avoids. This is true somewhat
+even in disembodied growth, where redeployment is already a step into the
+unfamiliar. If depreciation investment is barely enough for balanced growth without
+new ideas, how can it also pay for the failure rates and learning curves?
+A tough question. And Mill was posing an even tougher one. The paragraph quoted
+is clearly describing capital acceleration. Capital as he describes it is not only
+innovating consistently as it keeps up with consumption, but picking up the pace,
+and still taking the innovation costs in stride. Is that too much even for Achilles?
+It is not. Charts and tables show that the kind of growth Mill describes has proved
+the only kind in every country and period where tests are practical. It has proved
+the only kind whether capital was growing faster or shrinking faster or anything
+between. The growth bronco bucks, and the consumption rider stays on. This is
+what clearly happens, or anyhow has happened so far, despite so many reasons to
+think it is impossible. What would explain it?
+First take the lesser puzzle. Balanced growth, where capital, output and
+consumption all grow at the same constant rate, must make do with depreciation
+investment. How can it in crowded niches where growth compels the costs of
+innovation? Chapter 2 showed my inference that these are the costs of being human.
+Chapter 4 Mill’s Idea 1/11/16 9
+We were paying them as homo habilis two million years ago. The cost went up, but
+the value of innovation just as much, when homo erectus arrived a little later. Both
+rose again with the emergence of Ancestral Eve 200,000 years ago. Adaptation is the
+human specialty. Its what gets us through the day. Innovation is adaptation that
+happens to become new norms. It started leaving a record of embodied growth
+about 50,000 years ago. That doubled pace about 400 years ago. The costs of being
+human are the same failure rates and learning curves whether the payoff in
+adaptation/innovation means faster gain in good times or slower decline in bad
+ones. We row at a steady stroke, and gain against the shoreline when our new ideas
+are particularly good ones and the current is right.
+My idea, whether or not Mill’s, is that these costs might be about the same for
+breakthroughs or meta-ideas or paradigm shifts as for modest upgrades, or even for
+holding even in a world of daily surprises. Ideas trade in an inefficient market. Cost
+is dissociated from value, and cause is desynchronized from effect, by the vagaries of
+genius and the whim of circumstance.
+Now the tougher puzzle. How can consumption keep up with capital even in
+accelerations? That’s what Mill described, and that’s what happens. Can Achilles
+catch the tortoise even when the tortoise speeds up? Put your money on Achilles.
+Here it is Gunnar Myradal to the rescue. The apparent problem is that ex ante
+depreciation investment is never enough in acceleration. But the charts and tables
+show unanswerably that ex post depreciation investment is. We sow the first, but
+reap the second. Plowback of depreciation investment is up to us. Growth is
+whatever is added by genius or happenstance. The difference between market value
+and cost is sometimes luck, which neither loses nor gains in the long run, but
+sometimes imagination. Mother Nature and Gunnar Myrdal simultaneously say
+“Shazam”, and convert new ideas into embodied or disembodied growth without
+surcharge for the novelty.
+Chapter 4 Mill’s Idea 1/11/16 10
+That still leaves the mystery only half solved. How exogenous (sourced from
+outside) are the genius and happenstance? Can we coax them along by policy? That
+isn’t really my field. What seems reasonably clear is that growth flourishes in
+secular free markets with solid infrastructure and rule of law. How to get those
+things is the problem. I will suggest that the answers, whatever they are, will be
+developed outside the usual marginalist perspective of supply and demand.
+The Free Growth Equations
+Now back to Mill’s argument. Notice first that he puts it all in the present tense.
+Modern growth economists have preferred what I called the lagged flows method:
+spikes in investment are compared to later ones in output. Mill here is substituting
+what I called a concurrent rates method: he compares changes in consumption rate
+to changes in capital growth rate at the same time. He writes that “whatever
+increases the productive power of labor … enables capital to be enlarged …
+concurrently with an increase of personal consumption.”
+Let’s follow that. Mill’s root assumption is the Y = I + C equation in its net form
+(4.1b). Put the ex post version as
+output = growth + consumption, (4.2)
+meaning net output, growth of physical capital and all consumption. The Y rule says
+the same with the hidden asterisks after growth and consumption. So it will
+continue for the rest of this discussion. (4.2) shows that less consumption implies
+more growth, or less output, or some of both. Mill was asking which. To show how
+to find out, first arrange (4.2) as
+growth = output – consumption,
+(4.2a)
+again because terms can change sides if they change signs.
+Chapter 4 Mill’s Idea 1/11/16 11
+Mill and Keynes and tradition hold (4.2) and (4.2a) as logical certitudes which hold
+constant over time. I agree if we imagine the asterisks. Constancy over time would
+imply
+change in growth = change in output – change in consumption. (4.3)
+I take the trouble to derive this as a road I haven’t preferred to follow. I will reason
+instead in rates rather than flows. Rates, or ratios of flows to capital, effectively
+cancel capital from numerator and denominator. That frees them to show
+comparison between smaller and larger economies among the eight I test. Mill’s idea,
+or anyhow mine, is that the ratio of consumption to capital in all those countries can
+hold constant. That is what the charts and tables show.
+To follow that lead, divide (4.2a) by capital. This finds
+growth
+capital
+= output
+capital – consumption . (4.4)
+capital
+That can be put more compactly as
+growth rate = capital productivity – consumption rate,
+(4.4a)
+where rate always means ratio to capital. That needs a caveat because consumption
+rate in macro means ratio to output. Capital productivity in this sense is also called
+rate of return.
+For more compactness still, define
+thrift rate = – consumption rate,
+allowing (4.4a) to be restated as
+Chapter 4 Mill’s Idea 1/11/16 12
+growth rate = capital productivity + thrift rate.
+(4.4b)
+Notice that we must change the sign before “consumption rate” to find thrift. Change
+downward in consumption rate is change upward in thrift rate, and conversely.
+Further
+change in growth rate = change in capital productivity
+– change in consumption rate, (4.5)
+by the same logic as with (4.3). Save space again by reexpressing (4.5) as
+acceleration = productivity gain + thrift gain.
+(4.5a)
+Finally divide by acceleration to reach
+1 =
+productivity gain
+acceleration
++
+thrift gain
+acceleration , (4.6)
+if acceleration is nonzero. Reexpress as
+1 = free growth index + thrift index, (4.6a)
+where indexes are undefined if acceleration is zero.
+I think this gets at what Mill meant, and anyhow what I mean. We both describe
+acceleration as well as growth. One night think that his “whatever increases the
+productive power of labor” is the opposite from my “change in capital productivity.”
+But they are about the same. Better machines make their operators more productive
+whether skills have changed or not.
+Chapter 4 Mill’s Idea 1/11/16 13
+(4.5) shows something about “balance” or the state where capital, consumption and
+output grow at the same rate. It confirms the standard teaching that balance is
+possible, although not compelled, when growth rate is constant. It also shows that
+balance is impossible when growth rate changes. No one disputes that capital
+productivity (output/capital) always leads, and consumption rate
+(consumption/capital) always lags, in accelerations up and down. Output gets the
+bad news first and the good news first. What the equations leave unspecified is
+where capital itself joins the sequence. That is what the evidence in the charts and
+tables tells us.
+In the case where the free growth index equals one, for example, the above
+equations show
+thrift index =
+thrift gain
+acceleration = 0,
+implying
+– change in consumption rate
+thrift gain = change in growth rate = 0, and
+change in consumption rate = 0, or equivalently
+consumption rate = consumption
+capital
+= constant, (4.7)
+if acceleration is non-zero. (The reason for that qualifier is that zero acceleration
+means zero change in growth rate, and division by zero is a no-no.)
+In the opposite case where the thrift index is one, the same equations would show
+free growth index =
+productivity gain
+acceleration
+=
+changein productivty rate
+change in growth rate
+= 0,
+Chapter 4 Mill’s Idea 1/11/16 14
+implying
+productivity rate = output
+capital = constant,
+(4.7a)
+assuming again that acceleration is nonzero.
+This shows how to find the position of capital in the sequence led by output, and
+how to test between free growth and thrift theories. The market-valued capital
+denominator in (4.7) and (4.7a), and the consumption numerator in (4.7), can be
+taken directly from national accounts data collected at the Piketty-Zucman website.
+The output numerator in (4.7a) can be constructed as consumption plus current
+change in market-valued capital. By (4.7), free growth theory (Mill’s idea) predicts a
+roughly constant consumption/capital ratio, even in accelerations and decelerations
+and reversals. Then capital acceleration would lag alongside consumption
+acceleration while output led alone. Thrift theory makes the opposite prediction of a
+roughly constant output/capital ratio, so that output and capital would lead
+together while consumption lagged alone. There is no need to measure and test both
+indexes, as either is defined as one less the other. My charts and tables track the free
+growth index. They confirm free growth theory in all countries and periods.
+Defining Free Growth and Thrift
+(4.2) through (4.7a) defined the free growth and thrift indexes, but not free growth
+or thrift themselves as flows. Since I will use those terms often, I’d better clear that
+up now. Define
+free acceleration = productivity gain = gain in rate of return,
+thrift acceleration = thrift gain = drop in cash flow rate,
+and
+so that those sets of terms become interchangeable. Then (4.5a) can be put as
+Chapter 4 Mill’s Idea 1/11/16 15
+acceleration = free acceleration + thrift acceleration.
+(4.5b)
+Rates are flows divided by capital expressing them. Then define the two flows as
+free growth = capital ∗ free acceleration, and (4.8)
+thrift = capital ∗ thrift acceleration, giving (4.9)
+growth = free growth + thrift. (4.10)
+These equations apply equally in continuous or discrete-period time. In the latter,
+they leave the periods of acceleration and growth unspecified. Marginal or current
+free growth, as with the speed of a car, is the sum of free accelerations since some
+past origin when growth was zero. So it is with current thrift. That need not place
+the origin with Ancestral Eve. Surprising as it might seem in the growth age, zero
+points appear to recur every few minutes at the longest. Online stock index numbers
+reverse direction at least that often. They pass through zero each time. Debt claims
+on the corporate sector figure to be less volatile, but equity (stock) ones outweigh
+them. Then marginal free growth means accumulated free acceleration, or rise in
+rate of return, since the last zero growth point no more than a few minutes ago
+when return and cash flow were equal. Growth is free whenever cash flow rate rises
+or holds steady.
+The Charts and Tables
+Mill lacked data to test whether growth tends to lead with output when it changes,
+or to lag with consumption, or something else. So did all economists until national
+accounts began reporting market-valued capital in 1990 or so, and reconstructing it
+backward over a few decades before. The equations through (4.7) show how to test
+from data in the Piketty-Zucman and Global Financial Data websites.
+First I downloaded the Piketty-Zucman data for market-valued capital and
+consumption for all countries and periods. I chose their “private wealth” data for the
+Chapter 4 Mill’s Idea 1/11/16 16
+former. I neglected “government wealth” net of national debt, which is small and
+often negative, as I don’t feel that I understand it well enough. I took consumption as
+the sum of personal consumption expenditure (PCE) and government consumption
+expenditure (GCE). I also downloaded real stock market rates of growth, dividends
+and return from the Global Financial Data website for the same years and countries.
+Yearly change in capital in each country gave each year’s capital growth as a flow. I
+added this to consumption to give what I call market-valued output. I said earlier
+that Piketty and Zucman should logically have done the same. This gave the values
+for (4.1) and (4.1a).
+I then divided by year-end capital to give values for (4.3). I next found annual
+changes in those three to give acceleration, productivity gain and thrift gain as
+shown in (4.5) and (4.5a), and divided by acceleration to find the two indexes of
+(4.6) and (4.6a).
+The test from Global Financial Data took fewer steps. Stock market growth rate, rate
+of return and dividend rate were downloaded directly. I took them as corresponding
+respectively to growth rate, capital productivity and consumption rate in (3.3a). I
+found their annual changes to find values for (3.4a), and again divided by
+acceleration to reach (3.5a).
+This allows tests of Mill’s idea from national accounts data for all eight nations
+reported at the Piketty-Zucman website, and over their entire reporting periods
+through 2010. (The website also reports for Spain, but only since 1993 and without
+data for consumption.) In each year, for each country, change in capital growth rate
+is compared to change in consumption rate (consumption/capital). If consumption
+rate grows faster than capital growth rate while both grow, or declines faster if both
+decline, the free growth index in that year is greater than one. If they change at the
+same rate in the same direction it is one exactly. If both change in the same direction,
+but consumption changes less, the free growth index is between zero and one. If
+Chapter 4 Mill’s Idea 1/11/16 17
+either grows while the other declines, the index is zero or less; zero if one grew as
+much as the other declined, and less if the change in capital growth rate was larger
+than the opposite one in consumption rate.
+Interpreting the Charts and Tables
+Now look again at the charts captioned “free growth index” in the appendix. I will
+summarize them and all other charts and tables only briefly here, and save most
+description for there. They cover all eight countries. Each chart covering free growth
+tracks three separate versions of the free growth index labeled !
+ϕ(K), !
+ϕ(K T
+) and
+! ϕ(SM). The one I have discussed so far is ! ϕ(K). ! ϕ(K ) is a version including human
+T
+capital, and !
+ϕ(SM)is taken from stock markets only. will be explained in the
+! ϕ(K ) T
+next chapter.
+The powerful spikes both up and down in the free growth charts were described in
+Chapter 2. Spikes tend to be explained by the fact that acceleration, the denominator
+in both the free growth and the thrift index, is occasionally close to zero. Near-zero
+denominators, whether above zero or below, can magnify mismeasurements. Some
+charts report the free growth index every year, and show all the spikes. Others filter
+out years where denominators fall below a chosen threshold, and spikes disappear
+accordingly. Filtration is unbiased in that free growth index is corrected down as
+often as up.
+What jumps out from all those charts is that all versions of the free growth index ϕ
+fluctuate around one. That means that the unshown thrift index fluctuates around
+zero. We just saw that the thrift index will show as negative whenever the thrift
+numerator and acceleration denominator disagree in sign, meaning that thrift gain
+coincided with deceleration (negative acceleration) or conversely. Charts and tables
+show that thrift gain, meaning drop in consumption rate, coincides as often with a
+lower as a higher capital growth rate. Growth by thrift is a theoretical possibility
+Chapter 4 Mill’s Idea 1/11/16 18
+which doesn’t actually happen. The means of growth Mill describes in the paragraph
+quoted is the only kind that appears in the record.
+Evidence from Stock Markets
+Market-valued capital, reported in national accounts since 1990 or so and
+assembled at the convenient Piketty-Zucman website, is measured by a common
+standard in principle. Measurement begins with stock markets. It should. The stock
+market is the most exact source of economic information that I know. With due
+reservations about connivance and “stale prices,” meaning outdated prices from
+earlier days because the stock has not traded since, or anyhow not enough for
+confidence, we know pretty well what markets think stocks are worth from tick to
+tick.
+We would know better if markets were perfectly efficient. Proof that they aren’t
+shows in medium-term autocorrelation or trend. Autocorrelation (in price) is
+tendency for markets to be up tomorrow if up today, and down if down. Trend is a
+shorter word for the same. Perfect efficiency ought to show a “random walk” where
+prices change captures all current news, news captures reality without optimistic or
+pessimistic bias, and tomorrow’s price direction is as unpredictable as tomorrow’s
+news. The only exception should be long-term uptrend with productivity gain
+through innovation. In this case it is not surprise in the news that brings growth, but
+gradual gain in present value as a foreseen better future is less discounted as it
+draws nearer.
+There is chicanery as well as inefficiency. Insiders, braving the legal risks, may take
+advantage of outsiders. But it is not clear to me that insiders are likelier to be sellers
+than buyers. National accounts follow prices of publicly traded shares collectively,
+where some chicaneries should offset others.
+Allowing for all this, I think national accounts are wise to accept stock prices as the
+best measure of underlying assets. Intangibles such as patents or market advantages
+Chapter 4 Mill’s Idea 1/11/16 19
+are factored into share prices because they are realities that would be valued as
+such by bidders for the assets themselves. It is a mistake, I think, to suppose that

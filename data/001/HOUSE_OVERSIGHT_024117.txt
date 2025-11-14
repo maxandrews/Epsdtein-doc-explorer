@@ -1,0 +1,752 @@
+﻿7. What is the difference between money laundering and terrorist financing?
+ln contrast to money laundering, which involves the disguising of funds derived from illegal activity so they may be
+used without detection of the illegal activity, terrorist financing can involve the use of legally derived money to carry
+out illegal activities. The objective of money laundering is financial gain or the hiding or disguising of illicit proceeds,
+whereas with terrorism, the objective is to promote the agenda or cause of the terrorist organization. For example, it
+is widely believed that the terrorist activities of September 11,2001, were partially financed by legally obtained funds
+that had been donated to charities. Both money launderers and terrorists, however, do need to disguise the
+association between themselves and their funding sources.
+8. ls the approach to combat money laundering and terrorist financing the same?
+Although some of the risk factors and red flags that apply to other types of money laundering also may apply to
+terrorisl fìnancing, the patterns of activity tend to be very different. Terrorist fìnancing often involves very small
+amounts of fundð, which may be moved through charities or nontraditional banking systems, whereas other types of
+money laundering may involve large volumes of funds. lt is important to understand the different patterns to protect
+against the risks.
+Overv¡ew of U.S. AML Laws and Regulations
+9. What are the key U.S. AML laws and regulations?
+The key U.S. AML laws and regulations are the Bank Secrecy Act of 1970 (BSA) and the Uniting and Strengthening
+Americã by Providing Appropriate Tools Required to lntercept and Obstruct Terrorism Act of 2001 (commonly
+referred to as the USA PATRIOT Act).
+The BSA was the first major money laundering legislation in the United States. lt was designed to deter the use of
+secret foreign bank accounts and provide an audit trail for law enforcement by establishing regulatory reporting and
+recordkeeping requirements to help identify the source, volume and movement of currency and monetary instruments
+into or out of ihe United States or deposited in financial institutions. For additional guidance on the Bank Secrecy Act,
+please refer to the Bank Secrecv Act section.
+The USA PATRIOT Act was signed into law by President George W. Bush on October 26,2001, following the
+terrorist activity of September 11. Title lll, the lnternational Money Laundering Abatement and Anti-Terrorist Financing
+Act of 2001 , deals with money laundering and terrorist financing. Title lll made significant changes to money
+laundering regulations, imposed enhanced requirements for AML programs, and significantly expanded the scope of
+coveragelo nonbank financial institutions. lt requires financial institutions to establish AML programs that include
+policies, procedures and controls, designation of a compliance officer, training, and independent review. lt also
+requires, among other things, that certain financial institutions establish customer identification procedures for new
+accounts as well as enhanced due diligence (EDD) for correspondent and private banking accounts maintained by
+non-U.S. persons. For additional guidance on the USA PATRIOT Act, please refer to the USA PATRIOT Act section'
+10. What other AML laws have been enacted in the United States?
+ln addition to the BSA and Title lll of the USA PATRIOT Act, other AML laws include the Money Laundering Control
+Act of 1986 (MLCA), the Anti-Drug Abuse Act of 1988, the Annunzio-Wylie Anti-Money Laundering Act of 1992, the
+Money Laundering Suppression Act of 1994 (MLSA), and the Money Laundering and Financial Crimes Strategy Act
+of 1 998.
+The MLCA established two AML criminal statutes that, for the first time, made money laundering a criminal offense,
+with penalties of up to 20 years and fines of up to $500,000 for each count. Additionally, the MLCA prohibits the
+structuring of currency transactions to avoid filing requirements and requires financial institutions to develop BSA
+compliance programs.
+The primary purpose of the Anti-Drug Abuse Act of 1988 was to provide funding and technical assistance to state and
+local units óf government to combat crime and drug abuse. This Act increased the civil and criminal penalties for
+money laundering and other BSA violations to include forfeiture of any property or asset involved in an illegal
+transaction related to money laundering. lt introduced the'sting' provision, which enables law enforcement to
+represent the source of funds involved in a transaction as the proceeds of unlawful activity. This Act also required the
+identification and recording of purchases of monetary instruments, including bank checks or drafts, foreign drafts,
+cashier's checks, money orders or travelels checks in amounts between $3,000 and $10,000 inclusive. This
+legislation, in conjunction with the Office of National Drug Control Policy (ONDCP) Reauthorization Act of 1998,
+protiviti 111
+
+authorized the Director of the ONDCP to designate areas within the United States that exhibit serious drug traffìcking
+problems and harmfully impact other areas of the country as High lntensity Drug Trafficking Areas (HlDTAs). The
+HIDTA program aims to improve the effectiveness and efficiency of drug control efforts among local, state and federal
+law enforcement agencies.
+The Annunzio-Wylie Anti-Money Laundering Act of 1992 gave protection from civil liability to any financial institution,
+or director, officer or employee thereof, who/that makes a Suspicious Activity Report (SAR) under any local, state or
+federal law. The Annunzio-Wylie Act made it illegal to disclose when a SAR is filed. lt also made it illegal to operate a
+money transmitting business without a license where such a license is required under state law, and required all
+financial institutioni to maintain records of domestic and international funds transfers. ln addition, this Act introduced
+the'death penalty," mandating that bank regulators consider taking action to revoke the charter of any banking
+organization that is found guilty or pleads guilty to a charge of money laundering.
+The Money Laundering Suppression Act of 1994 (MLSA) specifically addressed money services businesses (MSBs),
+requiring each MSB to register and maintain a list of its agents. ln addition to making it a federal crime to operate an
+unregistered MSB, the MLSA encouraged states to adopt uniform laws applicable to MSBs. lt also established
+procédures that allowed banks to exempt certain customers from Currency Transaction Report (CTR) filing.
+Continuing with the trend of developing a national strategy to combat money laundering, the Money Laundering and
+Financial Ôrimes Strategy Act of 1998 called for the designation of areas at high-risk for money laundering and
+related financial crimes by geography, industry, sector or institution. Some of these areas were later designated as
+High Risk Money Laundering and Related Financial Crimes Areas (HlFCAs). The HIFCA program was created to
+coórdinate the efforts of local, state and federal law enforcement agencies in the fìght against money laundering.
+The lntelligence Reform and Terrorism Prevention Act of 2004 amended the BSA to require the U.S. Treasury
+Secretary to prescribe regulations requiring certain financial institutions to report cross-border electronic transmittals
+of funds, if the Secretary determines such reporting is 'reasonably necessary' to aid in the fight against money
+laundering and terrorist financing.
+11. What is the role of the Office of Foreign Assets Control (OFAC) and how does it fit into
+AML laws and regulations?
+The purpose of OFAC is to promulgate, administer and enforce economic and trade sanctions against certain
+individuals, entities and foreign government agencies and countries whose interests are considered to be at odds
+with U.S. policy. Sanctions programs target, for example, terrorists and terrorist nations, drug traffìckers and those
+engaged in the proliferation of weapons of mass destruction.
+Overviews and details of the OFAC Sanctions programs can be found on OFAC's website at www.treas.oov/ofac
+OFAC regulations are not part of AML compliance per se, but since the OFAC Sanctions lists include alleged money
+launderers and terrorists and USA PATRIOT Act requirements mandate that certain financial institutions vet customer
+names against the OFAC list, institutions often consider the OFAC program to be a subset of their overall AML
+program. For additional guidance, please refer to the
+Sanctions Proorams section.
+12. How can one measure the effectiveness of an AML regime?
+A number of factors can be considered when assessing the effectiveness of an AML regime, including the number of
+money launderingiterrorist financing investigations, prosecutions and convictions, number and amount of
+frozen/seized assets, identification of deficiencies in financial institutions in examinations by regulatory authorities,
+and quality of coordination among financial institutions, regulatory and law enforcement authorities. For additional
+guidance on tools and techniques used to assess the effectiveness of AML systems, please referto the Financial
+Action Task Force section.
+13. How do U.S. regulations compare to international AML regulations?
+The United States' role as a leader in the fight against money laundering and terrorist financing dates back 40 years
+to the passage of the Bank Secrecy Act in 1970. Through the ensuing decades and especially following the terrorist
+activities of September 11,2001 , the United States has reinforced its commitment through the passage of a number
+of additional money laundering-related laws, issuance of extensive regulatory guidance and aggressive enforcement.
+That said, the United States, as with many other major jurisdictions, is not in full compliance with the FATF
+Recommendations. ln fact, FATF in its most recent assessment of the United States' anti-money regime, identified
+several areas in need of improvement, including: customer due diligence relating to beneficial owners, authorized
+protiviti 112
+
+signers, legal persons and trusts; ongoing due diligence; and general requirements for designated nonfinancial
+bùsinesseõ and professions (DNFBP¡) (e.g., casinos, accountants, attorneys, dealers in precious metals and stones'
+real estate agents).
+For additional guidance, please refer to the Financial Action Task Force and Mutual Evaluations sections.
+For additional guidance on international perspectives, please refer to the
+section.
+14. What are the consequences of not complying with AML laws and regulations?
+The consequences of noncompliance with AML laws and regulations may include regulatory enforcement actions,
+civil and criminal penalties, seizure and forfeiture of funds, and incarceration for the individuals involved. Depository
+institutions also may be subject to restrictions on growth and expansion and, in the extreme, may have their
+charters/licenses revoked, a consequence known as the'death penalty." For additional guidance, please refer to the
+Enforcement Actions section.
+15. What factors are considered by law enforcement when it assesses whether an institution
+or its personnel are guilty of aiding and abetting money laundering or terrorist financing?
+When assessing whether an institution or its personnel are guilty of aiding and abetting money_laundering or terrorist
+financing, the author¡ties consider, among other factors, the following 'standards of knowledge':
+. Reckless Disregard -
+r Willful Blindness - Deliberate ignorance and failure to follow up in the face of information that suggests
+probable money laundering or illicit activity
+o Collective Knowledge - Aggregates/attributes the knowledge of employees to the employing company
+Careless disregard for legal or regulatory requirements and sound business practice
+It is important to remember that under U.S. law, a company may, in general, be held liable for the actions of its
+employees, regardless of the number or level of employees involved in the wrongdoing.
+Overview of the U.S. Regulatory Framework
+Key U.S. Regulatory Authorities and Law Enforcement
+Ag e n c¡es
+16. Who has the authority to assess penalties for violations of AML laws and regulations?
+Authority to assess civil penalties rests with the Secretary of the Treasury and is delegated to the Financial Crimes
+Enforcement Network 1ÈinCeU¡ and the primary federal regulators or Self-Regulatory Organizations (SROs) (e.9.'
+Financial lndustry Regulatory Authority tFlNRAl). Some state regulatory agencies have their own authority to assess
+civil penalties, as weli Crimiñal penalties are determined through legal proceedings at state orfederal levels. The
+Department of Justice (DOJ) can bring criminal and civil actions, as well as forfeiture actions.
+17. Who are the primary federal banking regulators and what are their responsibilities?
+The five federal banking regulators include:
+o The Board of Governors of the Federal Reserve System (FRB) oversees state-chartered banks and trust
+companies that belong to the Federal Reserve System, financial holding companies, bank holding companies
+(BHC) and thrift holding companies.
+r The Federal Deposit lnsurance Gorporation (FDIC) regulates federally charted banks (e.9., state-chartered
+banks that do not belong to the Federal Reserve System) as well as state-chartered thrifts.
+¡ The Office of the Comptroller of the Currency (OGC) regulates federally chartered banks (e.9., banks that
+have the word 'National" in or the letters "N.A.' after their names as well as federal thrifts).
+o The National Credit Union Administration (NCUA) regulates federally chartered credit unions.
+protiviti I 13
+
+. Consumer Financ¡al Protection Bureau (CFPB): Established by the Dodd-Frank Wall Street Reform and
+Consumer Protection Act of 2010 (Dodd-Frank), the CFPB is a federal regulator charged with regulating
+consumer protection for financial products and services.
+Other regulatory bodies were authorized by the Dodd-Frank Act, but their mandates deal more specifically with broad
+prudential considerations and consumer protection.
+18. What is the Federal Financial lnstitutions Examination Council (FFIEC)?
+The Federal Financial lnstitutions Examination Council (FFIEC) is a formal interagency body empowered to prescribe
+uniform principles, standards and report forms, and to make recommendations to promote uniformity in the
+supervision oi financial institutions. Òouncil members include the four federal regulators: FRB, FDl9r OCC' NCUA'
+and the State Liaison Committee (SLC). The SLC includes representatives from the Conference of State Bank
+Supervisors (CSBS), the American Council of State Savings Supervisors (ACSSS), and the National Association of
+State Credit Union Supervisors (NASCUS).
+19. Who are the key nonbanking regulatory agencies?
+Nonbanking regulatory agencies include but are not limited to:
+. Securities and Exchange Commission (SEC): The SEC is the federal regulator of the securities markets and
+administers the federal sãcurities laws (including the Securities Act of 1933, the Securities Exchange Act of
+1934, the lnvestment Company Act of ì940, the lnvestment Advisers Act of 1940 and the Trust lndenture Act of
+193g), with direct regulatory and oversight responsibilities of securities exchanges, securities brokers and
+dealers, investmentãdviseis and investment companies, and self-regulatory organizations (SROs).
+. Commodity Futures Trading Gommission (CFTG): The CFTC is thefederal regulator of U.S. commodity
+futures and options markets iñ tne United States. lt administers and enforces the federal futures and options laws
+as set forth in the Commodity Exchange Act (CEA) and the accompanying regulations'
+¡ Financial lndustry Regulatory Authority (FINRA): Formerly known as the National Association of Securities
+Dealers (NASD), FINRA is an SRO for broker-dealers
+. Consumer Financial Protection Bureau (GFPB): Established by the Dodd-Frank Wall Street Reform and
+Consumer Protection Act of 20't0 (Dodd-Frank), the CFPB is a federal regulator charged with regulating
+consumer protection for fìnancial products and services.
+o National Futures Association (NFA): The NFA is the SRO for the futures market.
+, New york Stock Exchange (NYSE): The NYSE is the SRO for exchange member organ¡zations (i.e., registered
+broker-dealer organized aõ a corporation, a partnership or an LLC that holds an NYSE trading license or opts for
+NYSE regulation).
+¡ National lndian Gaming Commission (NIGC): The NIGC is an independent federal regulatory agency whose
+primary mission is to regulate gaming activities on lndian lands.
+. IRS Tax Exempt and Government Entities Division (lRS-TEGE): The IRS-TEGE provides federal oversight to
+all nonprofit organizations in the United States, including reviews to determine if nonprofìt organizations are
+facilitating terrorist financing.
+. IRS Small Business and Self-Employment Division (IRS-SBSE): The IRS-SBSE has been delegated
+examination authority over all financial institutions that do not have a federal functional regulator as defined in the
+BSA, including MSBé, insurance companies, credit card companies, nonfederally insured credit unions, casinos
+(tribal and noñtriOat¡, and dealers in precious metals, stones and jewels. The IRS-SBSE also has responsibility
+ìor auditing compliance with currency transaction reporting requirements that apply to any trade or business
+(Form 8300).
+For further guidance on the AML responsibilities of broker-dealers, money services businesses and other nonbank
+entities, pleáse refer to the
+section'
+20. What are the key law enforcement agencies responsible for combating money
+laundering and terrorist financing?
+Key law enforcement agencies responsible for combating money laundering and terrorist financing include:
+r Drug Enforcement Administration (DEA)
+protiviti 114
+
+. Federal Bureau of lnvestigation (FBl)
+o Department of Homeland Security, lmmigration and Customs Enforcement (lCE)
+. Department of Homeland Security, Customs and Border Protection (CBP)
+r lnternal Revenue Service Criminal lnvestigation (lRS-CI)
+21. What are examples of other key agencies with responsibilities to combat money
+laundering and terrorist financing?
+Key agencies with responsibilities to establish policies and strategies to combat money laundering and terrorist
+financing include, but are not limited to, the following:
+U.S. Department of the Treasury
+¡ Office of Terrorism and Financial lntelligence (TFl)
+¡ Office of Terrorist Financing and Financial Crime (TFFC)
+. Office of lntelligence and Analysis (O|A-T)
+¡ Financial Crimes Enforcement Network (FinCEN)
+¡ Office of Foreign Assets Control (OFAC)
+. Treasury Executive Office for Asset Forfeiture (TEOAF)
+U.S. Department of Justice (DOJ)
+o Asset Forfeiture and Money Laundering Section, Criminal Division (AFMLS)
+. Counterterrorism Section, Criminal Division (CTS)
+r National Drug lntelligence Center (NDIC)
+¡ Office of lnternational Affairs, Criminal Division (OlA)
+U.S. State Department
+. Bureau of Economic and Business Affairs (EB)
+. Bureau of lnternational Narcotics and Law Enforcement Affairs (lNL)
+r State's Office of the Coordinator for Counterterrorism (S/CT)
+22. What publications and resources have been provided to the public by U.S. regulatory
+and/or law enforcement authorities?
+Examples of publications and resources include, but are not limited to, the following:
+. FFIEC Bank Secrecy AcUAnti.Money Laundering Examination Handbook - Provides guidance to examiners
+for carrying out BSA/AML and OFAC examinations for depository institutions. The manual contains an overview
+of AML Compliance Program requirements, AML risks (e.9., products, services, transactions and customertypes
+of heightened risk), risk management expectations, industry sound practices and examination procedures. The
+development of this manual was a collaborative effort of the Federal Reserve, the OCC, the NCUA, the OTS
+(which has since been dissolved and replaced on the FFIEC by the Consumer Financial Protection Bureau
+(CFPB), the FDIC and FinCEN to ensure consistency in the application of AML requirements.
+. Bank Secrecy AcUAnti-Money Laundering Examination Manual for Money Services Businesses -
+Provides guidance to examiners for carrying out BSA/AML and OFAC examinations for MSBs. The manual
+contains an overview of AML Compliance Program requirements, risk management expectations, industry sound
+practices, examination procedures, overviews of the different types of MSBs (i.e., check cashers, currency
+dealers or exchangers, issuers of traveleis checks and money orders, money transmitters), overview of the
+relat¡onship between principals and agents, and additional guidance on MSB registration requirements, foreign
+agent or foreign counterparty due diligence, and recordkeeping and retention requirements for all types of MSBs.
+Tñe development of this manual was a collaborative effort by the lRS, state agencies responsible for MSB
+protiviti I 15
+
+regulations, the Money Transmitter Regulators Association (MTRA), the Conference of State Bank Supervisors
+(CSBS), and FinCEN.
+r Bank Secrecy Act Exam Resources - Developed by the NCUA, this publication provides guidance to
+examiners for carrying out AML and OFAC examinations for credit unions.
+r FFIEC lnformation Technology Examination Handbook - Developed through a collaborative effort of the
+Federal Reserve, the OCC, the NCUA, the CFPB and the FDIC, the lT Examination Handbook covers key
+technology topics as they relate to financial services in separate booklets, including:
+o Audit
+o Operations
+o Management
+o Business continuity planning
+o Outsourcing technology services
+o Development and acquisition
+o Retail payment systems
+o Wholesale payment systems
+o E-banking supervision of technology service providers
+o lnformation security
+The lT Examination Handbook provides guidance on topics such as risks and suggested controls on third-party
+payment processors (e.g., Automated Clearing House [ACH] providers, remote deposit capture [RDC] providers)
+and electronic payments (e.9., electronic banking, automated teller machine IATMI).
+. Anti-Money Laundering (AML) Source Tool for Broker-Dealers - Developed by the SEC to assist brokerdealers
+with fulfilling their responsibilities to establish an AML Compliance Program, as required by AML laws
+and regulations.
+o Template for Small Firms - This template, available on FINRA's website, is designed to assist small firms in
+fulfilling their responsibilities to establish an AML Compliance Program, as required by the BSA and its
+implementing regulations and FINRA Rule 3310, by providing text examples, instructions, relevant rules,
+websites and other resources.
+. Compliance Self-Assessment Guide - Developed by the NCUA, this guide is intended for use by a credit
+union's board of directors and management, compliance officers, and others having responsibility for compliance
+as part of their duties. While the guide covers most federal consumer protection laws and regulations that affect
+credit unions, it does not address all federal laws or any state laws.
+. AML e-learning courses - FINRA offers several e-learning courses and interactive scenarios on AMl-related
+'
+topics, ranging from customer identification procedures to recognizing red flags.
+U.S. Money Laundering Threat Assessment (MLTA) - Published in 2005, the MLTA was written by the
+following agencies, bureaus and offices:
+o Office of Terrorist Financing and Financial Crime (TFFC)
+o Financial Crimes Enforcement Network (FinCEN)
+o Office of lntelligence and Analysis (OlA)
+o Office of Foreign Assets Control (OFAC)
+o Executive Office for Asset Forfeiture (TEOAF)
+o lnternal Revenue Service (lRS) - Criminal lnvestigation (Cl)
+o IRS - Small Business/Self-Employed Division (SB/SE)
+o Federal Bureau of lnvestigation (FBl)
+o Drug Enforcement Administration (DEA)
+o Asset Forfeiture Money Laundering Section (AFMLS)
+protiviti I 16
+
+o National Drug lntelligence Center (NDIC)
+o Organized Crime Drug Enforcement Task Force (OCDETF)
+o lmmigration and Customs Enforcement (lCE)
+o Customs and Border Protection (CBP)
+o Federal Reserve
+o United States Postal lnspection Service (USPIS)
+The MLTA contains detailed analyses of money laundering vulnerabilities across banking, insurance, casinos
+and MSBs including, but not limited to, the following:
+o Banking (e.g., correspondent banking, cash lettersipouch activities, private banking, online banking,
+remote deposit capture [RDC])
+o MSBs (e.g., provision of check cashing, money transmission, prepaid access, monetary instrument,
+currency exchange services to'noncustomers") and informal value transfer systems (IVTS)
+o Emerging electronic and remote payment systems
+o Bulk cash smuggling
+o Trade-based money laundering (e.9., Black Market Peso Exchange [BMPE], foreign trade zones
+IFTZs])
+o Legal entities (e.9., trusts, shell companies, corporations, limited liability companies)
+¡ National Money Laundering Strategy (NMLS) - Written by the U.S. Departments of Homeland Security,
+Justice, Treasury, and State, as well as by the Federal Reserve, the OCC, and the FDIC, the NMLS was
+published in2QO7 in direct response to the MLTA. Nine key goals were outlined:
+o Continuing to safeguard the banking system
+o Enhancing financial transparency in money services businesses (MSBs)
+o Stemming the flow of illicit bulk cash out of the United States
+o Attacking trade-based money laundering at home and abroad
+o Promoting transparency in the ownership of legal entities
+o Examining anti-money laundering regulatory oversight and enforcement at casinos
+o lmplementing and enforcing anti-money laundering regulations for the insurance industry
+o Supporting global anti-money laundering capacity building and enforcement efforts
+o lmproving how to measure progress
+o lnternational Narcotics Gontrol Strategy Report (INCSR) -
+An annual report issued by the U.S. Department
+of State that describes the efforts to attack, country by country, all aspects of the international drug trade, as well
+as chemical control, money laundering and fìnancial crtmes.
+o Country Reports on Terrorism -
+An annual report, previously known as Patterns of Global Terrorism, issued
+by the Department of State that provides overyiews of terrorist activity in countries in which acts of terrorism
+occurred, countries that are state sponsors of terrorism, and countries determined by the U S. Secretary of State
+to be of particular interest in the global war on terror. The Country Reports on Terrorism also cover major
+terrorism-related events involving Americans, information on terrorist groups, terrorist sanctuaries, terrorist
+attempts to acquire weapons of mass destruction, statistical information provided by the National
+Counterterrorism Center (NCTC) on individuals killed, injured or kidnapped by terrorist groups, and bilateral and
+multilateral counterterrorism cooperation.
+For additional guidance issued by key international groups, please refer to the Kev lntemational Grouos and
+lnitiatives section. For details on guidance specifìc to a particular topic (e.9., Suspicious Activity Reports [SARs],
+correspondent banking, politically exposed persons [PEPs], trade finance), please refer to the respective sections
+throughout this publication.
+protiviti 117
+
+Financial Crimes Enforcement Network
+23. What is the Financial Crimes Enforcement Network, and what is its role in AML
+regulation?
+The Financial Crimes Enforcement Network (FinCEN), a bureau of the U.S. Treasury Department, was established in
+1990 by Treasury Ordel|05-08. lts mission is to safeguard the financial system from abuses of financial crime. lt is
+the Finâncial lntelligence Unit (FlU) of the United States, formed to support law enforcement and the fìnancial
+community in the fight against money laundering, terrorist financing and other financial crimes through the collection,
+analysis and sharing of gSR information. FinCEN seeks to provide adequate financial intelligence to law enforcement
+without overburdening the financial community or compromising the privacy of individuals.
+The many partnerships of FinCEN are not limited to the United States, but expand internationally to law enforcement,
+financial institutions and regulatory authorities in foreign countries' as well.
+While FinCEN relies primarily on federal functional regulators to examine financial institutions and enforce AML
+compliance, the reguiators look to FinCEN for guidance in the implementation of the BSA and USA PATRIOT Act'
+f¡nigru has issued regulations, in concert with federal functional regulators and the lnternal Revenue Service (lRS),
+related to BSA and AML compliance. FinCEN may issue enforcement actions for violations of the BSA and USA
+PATRIOT Act through ¡ts Office of Enforcement jointly or unilaterally. The Office of Enforcement evaluates
+enforcement matters, including the assessment of civil money penalties.
+24. ln what types of initiatives does FinCEN engage?
+ln 1992, as part of the Annunzio-Wylie Anti-Money Laundering Act, FinCEN formed the Bank Secrecy Act Advisory
+Group (BSAAG), a task force established to coordinate and inform the fìnancial community about BSA-related
+matters. The BSAAG includes senior representatives from financial institutions, federal law enforcement agencies,
+regulatory agencies, and others from the public and private sectors. ln 2009, the Financial Fraud Enforcement Task
+foice 1fÉeff) was established as a multi-agency task force with federal, state and local partners to improve efforts
+to investigate and prosecute significant financial crimes, recover proceeds for victims, and address financial
+discrimination in the lending and financial markets.
+FinCEN also has created several communication systems to facilitate the sharing of information among both
+domestic and international entities. The BSA E-Filing System allows fìnancial institutions to file electronic BSA forms,
+such as CTRs and SARs, quickly and securely. The Gateway program enables law enforcement agencies and
+financial industry regulators to have expedited access to BSA records fìled with FinCEN. The Law Enforcement and
+Financial lnstituiionlnformation Sharing (LEFllS) system allows law enforcement to receive feedback from financial
+institutions on subjects of money laundering and terrorism investigations, and is used to facilitate information sharing
+among financial institutions. FinCEN also developed the Egmont Secure Web (ESW), which is a private network that
+allowJconnected FlUs to interface with FinCEN and each other to access information related to money laundering
+trends, analytical tools and technological developments via e-mail.
+Additional tools include the Geographic Threat Assessments and Nontraditional Methodologies Sections, a resource
+center for emerging methods of money laundering and terrorist financing.
+FinCEN also collaborates with other FlUs globally to exchange information supporting AML and counterterrorism
+initiatives worldwide, and assists other countries with developing their FlUs. For additional guidance on FlUs, please
+refer to the
+section
+25. What resources has FinCEN provided to the public?
+Among the issuances and resources provided by FinCEN are the following:
+r Statutes and Regulations - Resource that contains links to BSA and USA PATRIOT Act statutes and codified
+regulations.
+. Federal Register Notices - Links to final regulations issued after the date of codification as well as Notices of
+Proposed Rulemaking (NPRs) in the Federal Registe
+o Guidance - Clarification of issues or responses to questions related to FinCEN regulations (e.9., completion and
+filing of Suspicious Activity Reports [SARs]; applicability of the defìnition of a money services business [MSB] to
+a pãrticular business activity; applicability of the Safe Harbor provision when sharing SARs under certain
+circumstances).
+protiviti I 1B
+
+o Administrative Rulings - Rulings that provide a new interpretation of the BSA or any other statute granting
+FinCEN authority, express an opinion about a new regulatory issue, and/or outline the effect of the various
+releases on covered financial institutions.
+o Advisories/Bulletins/Rulings/Fact Sheets - An archive of advisories, advisory withdrawals, bulletins, rulings
+and fact sheets dating back to 1 996.
+. Answers to Frequently Asked Bank Secrecy Act (BSA) Questions - A list of basic questions and answers
+about BSA and USA PATRIOT Act laws and regulations.
+. Reports and Publications - Reports published periodically on key regulatory issues and strategies to address
+these issues including, but not limited to, the following:
+o The SAR Activity Review: "Trends, Tips & lssues" - A publication produced approximately once or
+twice each year by FinCEN in cooperation with many regulatory, law enforcement and industry partners.
+The publicáion gives the public information and insight concerning the preparation, use and value of
+SARs filed by institutions.
+o The SAR Activity Review: "By the Numbers" - A publication that is generally produced tvvice each
+year as a companion to The SAR Activity Review: "Trends, Tips & lssues' and provides numerical data
+on SAR filings.
+o Financial lnstitutions Outreach lnitiative - Reports sharing information gathered through various
+outreach initiatives with representatives in the financial industry (e.9., large depository institutions,
+MSBs).
+o Strategic Analytical Reports and Other Publications - Publications addressing other trends and
+issues, such aJMortgage Loan Fraud: An Update of Trends Based upon an Analysis of Suspicious
+Activity RePorts (APril 2008).
+o Annual Report - Provides an overview of FinCEN's current state and details the strategies and
+outcomes of the Yea/s oPerations.
+o Report to Congress -
+An archive of reports made to Congress by the U.S. Secretary of the Treasury
+dating back lo2002, including the required annual 361(b) report.
+o The Strategic Plan - Published periodically, the Strategic Plan details how FinCEN intends to achieve
+its current goals in the near future.
+o Bank Secrecy AcUAnti-Money Laundering Examination Manual for Money Services Businesses -
+Guidance on the examination process of MSBs, in English and Spanish.
+. Enforcement Actions - Links to enforcement actions dating back to '1999.
+. Law Enforcement - A summary of support services for law enforcement and links to law enforcement case
+examples that have been assisted by information reported under BSA regulations.
+. News Releases -
+An archive of important FinCEN news releases dating back to 1994.
+o Speeches - An archive of speeches given by the director of FinCEN dating back to 2004'
+¡ Testimony - An archive of testimony given by the director of FinCEN dating back to 2004.
+26. How does FincEN interact with banking and securities regulators?
+ln2OO4, FinCEN entered into a Memorandum of Understanding (MOU) with federal banking regulators. The MOU
+sets forih procedures for the administration of the BSA, Titles I and ll of Pub. L. 91-508, as amended' codified at 12
+u.s.c. s 1829b,12 U.S.C. SS 1951-1959, and 31 U.S.C. SS 5311-5332; information relating to the primary federal
+regulato-rs' policies and proðõdures for examination of BSA compliance; significant BSA compliance issues at banking
+orlanizations supervised by the regulators; and analytical data based_on or derived from information provided by the
+relulators. The MOU also gives F|ñCEN authority to issue its own enforcement actions, even when regulators may
+noi think it is necessary. Oñ April 26,2005, FinCEN and the New York State Banking Department entered into a
+similar MOU; shortly thereafter, a number of other states followed suit'
+ln late 2006, the SEC and FinCEN entered into an MOU under which the SEC provides FinCEN with detailed
+information on a quarterly basis regarding the AML examination and enforcement activities of the SEC and the Self-
+Regulatory Organizationé (SROs). ln return, FinCEN provides assistance and analytical reports to the SEC.
+protiviti I 1e
+
+ln June 2011, FinCEN entered into an MOU with the Consumer Financial Protection Bureau (CFPB), which provides
+the CFPB direct electronic access to BSA information and analytical materials (e.9., analytical tools, BSA information
+reviews, etc.) as required and appropriate forthe exercise of the CFPB's regulatory authority. ln return, the CFPB,
+upon request, will provide reports on the results of its investigations or examinations and statistical information related
+to any inquiries to assist FinCEN in understanding and analyzing the value of BSA information.
+Enforcement Actions
+27. What types of enforcement actions are available to regulators for addressing AML
+Compliance Program deficiencies and violations?
+Regulators have a range of enforcement tools available to address AML Compliance Program defìciencies and
+violations of AML laws and regulations.
+While enforcement actions against nonbanks have increased in recent years, the number of enforcement actions
+issued by bank regulators coñtinues to outnumber those of other agencies, at least in the United States. Examples of
+enforcement actions available to U.S, bank regulators in order of severity are:
+. Commitment Letter: A Commitment Letter is an agreement between a bank's board of directors and a bank
+regulator in which the board, on behalf of a bank, agrees to take certain actions to address issues or concerns
+surfaced by the regulator. A Commitment Letter is not legally binding, but the failure of a bank to live up to the
+terms of the Commitment Letter may subject the bank to more formal regulatory action.
+. Memorandum of Understanding: A Memorandum of Understanding (MOU) is an agreement between a bank's
+board of directors and one or more regulatory agencies. The content of an MOU may be similar or identical to
+more formal enforcement actions, but MOUs are nonpublic documents and, similar to Commitment Letters, not
+legally binding.
+. Formal Agreements: A Formal Agreement is an agreement between a bank's board of directors and one or
+more regulatory agencies. While the contents of a Formal Agreement may mirror those of an MOU, violations of
+a Formal Agreement can provide the legal basis for assessing civil money penalties (CMPs) against directors,
+officers and other institution-affiliated parties.
+o Gonsent Order or Order to Cease and Desist (C&D): Consent Orders and Orders to Cease and Desist are
+agreements between a bank's board of directors and one or more regulatory agencies. Violations of a Formal
+Agreement can provide the legal basis for assessing civil money penalties (CMPs) aga¡nst directors, offìcers and
+other institution-affiliated parties. The regulator's decision to issue a Consent Order or Order to Cease and Desist
+rather than a formal agreement is based on its assessment of the severity of the bank's problems.
+¡ Civil Money Penalties (CMPs): Civil money penalties are financial penalties that may be imposed by a regulator
+against a bank or an individual(s) for a violation of law or regulation or noncompliance with a formal enforcement
+action.
+o ,,Death Penalt¡/': Under the Annunzio-Wiley Act of 1992, bank regulators have the option - in fact, are obligated
+to consider - whether the license/charter of a depository institution that is found guilty or pleads guilty to money
+laundering charges should be revoked. The revocation of a license/charter is known as the "Death PenalÇ."
+Unlike the formal enforcement actions issued by bank regulators, which are usually very prescriptive as to the actions
+that must be taken to address the identified deficiencies, the enforcement actions taken by securities and
+futures/commodities regulators generally report findings that detail the nature of the deficiency, but do not prescribe
+specific corrective action (and accompanying fines have been modest compared to those levied against banks).
+28. Does FinCEN have enforcement authority?
+FinCEN does have enforcement action authority, which it often uses in conjunction with a financial institution's
+functional regulators.
+29. Beyond the actions and penalties that may be imposed by regulators, are U.S.
+companies subject to any other potential actions?
+Yes. Other actions, such as Deferred Prosecution Agreements (DPA), may result from legal actions.
+protiviti l20
+
+30 What is a Deferred Prosecution Agreement?
+A DPA is an agreement entered into between a prosecutor and a defendant in a criminal case whereby in exchange
+for successful completion of agreed-upon commitments, the criminal charges against the defendant will be dismissed
+in their entirety by the prosecutor.
+31. What enforcement actions have had a significant impact on the AML landscape?
+Certain enforcement actions stand out because of the size of the penalties imposed on the institutions and/or the
+media attention they received. Examples would include:
+o BankingOrganizations:
+ABN Amro: ln December 2005, ABN Amro was assessed an $80 million Civil Money Penalty (CMP) for
+failure to implement an adequate system of internal controls reasonably designed to assure compliance
+w1h U.S. AML laws and regulations. The CMP cited deficiencies within the North American Regional
+Clea¡ng Center (NARCC), a unit within the New York Branch of ABN Amro that operated as a clearing
+center for funds transfers in U.S. dollars for members within the ABN Amro network and more than 400
+third-party financial institutions. Specific findings included the following:
+. Failure to staff the compliance function and train compliance personnel adequately
+. Failure to file accurate and timely Suspicious Activity Reports (SARs)
+. Lack of formal procedures for collecting and reviewing due diligence and assessing the risks of
+foreign financial institutions accessing correspondent banking services
+. Lack of adequate monitoring of funds transfers for potentially suspicious activity, particularly
+funds transfers conducted by financial institutions independent of the ABN Amro network
+. Failure to incorporate information on subjects of previous SAR filings, terminated relationships,
+and publicly available information on shell companies into its suspicious activity monitoring
+program
+. Failure to investigate alerts and utilize the capabilities of its automated monitoring software to
+manage its money laundering and terrorist financing risk effectively
+American Express: ln August 2007, American Express lnternational Bank (AEIB) was issued a Cease
+and Desist (C&D) order and assessed a $20 million CMP and $55 million forfeiture. American Express
+Travel Related Services Co. (AETRSC) also was assessed a $5 million CMP. Cross-border payment
+made total effective charges, including forfeiture, $65 million. AEIB provided private banking services to
+high net worth clients and AETRSC operated as a money services business (MSB). Specific findings
+included the following :
+. Failure to implement comprehensive customer due diligence (CDD) and enhanced due
+diligence (EDD) processes
+. Failure to implement effective control measures for bearer shares and other private investment
+companies (PlCs)
+. Failure to adhere to the internal policies for periodic reviews of high-risk accounts
+. lnadequate transaction monitoring system due to data integrity and other problems
+r lnadequate independent testing of the AML Compliance Program
+. Failure to provide adequate oversight of and accountability for the AML Compliance Program
+by management of AEIB and its parent company, AEB
+Wachovia: ln March 20'10, the Office of the Comptroller of the Currency (OCC), FinCEN and the U.S.
+Department of Justice (DOJ) announced that Wachovia Bank, N.4., had agreed to a Deferred
+Prosecution Agreement with a forfeiture of $110 million with the DOJ, a civil money penalty of $50
+million, a C&D with the OCC, and a civil money penalty (CMP) of $1 l0 million with FinCEN. FinCEN
+agreed its CMP would be satisfied by the payment of the DOJ forfeiture. Specifìcfindings included the
+following:
+. Failure to implement adequate policies, procedures and controls for bulk cash transactions
+conducted by high-risk casas de cambìo and other foreign correspondent banking customers
+protiviti 121
+. Failure to conduct monitoring of the high volume of monetary instruments through casas de
+cambio and other foreign correspondent customers using Remote Deposit Capture (RDC)
+servlce
+. Failure to monitor sequentially numbered traveler's checks used by casas de cambio and other
+foreign correspondent customers in a manner compliant with internal policy on these
+transactions
+. Failure to institute appropriate risk-based monitoring of foreign correspondent banking
+customers - primarily as a result of setting alert parameters based on staffing capacity
+. Failure to file timely SARs on several foreign correspondent banking customers
+. Failure to report cash structuring activity
+HSBC: ln October2010, the Federal Reserve Board announced that it had issued a Cease and Desist
+Order between HSBC North America Holdings, lnc, (HNAH), New York, New York, a registered bank
+holding company (BHC), and the Federal Reserve Board. The order requires HNAH to take corrective
+act¡on to improve its firm-wide compliance risk management program, including its anti-money
+laundering compliance risk management. Concurrent with the Federal Reserve Board's announcement
+of its enforcement action, the Office of the Comptroller of the Currency announced its issuance of a
+Cease and Desist Order against HSBC Bank USA, N.4., Mclean, Virginia (HBUS, a subsidiary of
+HNAH), for violating the Bank Secrecy Act and its underlying regulations.
+HSBC was directed to use its financial and managerial resources as a source of strength for its bank
+subsidiaries, and in particular HBUS, to ensure that it complies with the OCC Consent Order regarding
+HBUS' BSA/AML program. lt was also directed to 'retain an independent consultant acceptable to the
+[Chicago Federal] Reserve Bank to complete a review of the effectiveness of the firm-wide BSA/AML
+Compliance Program adopted by HNAH (the 'BSA/AML Review'), and to prepare a written report of
+findings and recommendations (the 'BSA/AML Report')." ln another section of the Order, HNAH was
+directèd to 'submit to the [Chicago Federal] Reserve Bank an acceptable written program designed to
+reasonably ensure the identifìcation and timely, accurate, and complete reporting by HNAH and its
+subsidiaries of all known or suspected violations of law or suspicious transactions to law enforcement
+and supervisory authorities, as required by applicable suspicious activity reporting laws and
+regulations.'
+The OCC Order states that the agency found deficiencies in HBUS' BSAJAML Compliance Program - in
+particular, deficiencies in internal controls for customer due diligence, procedures for monitoring
+suspicious activity and independent testing. The Order also cited aggravating factors 'such as highly
+suspicious activity creating a significant potential for unreported money laundering or terrorist financing."
+Specific cited deficiencies included special handling of wire transfers of customers domiciled in
+countries risk-rated as 'standard' or'medium,' resulting in limited and ineffective BSA/AML monitoring
+of two{hirds of the bank's wire activity; failure from 2006 to 2009 to monitor bulk cash transactions with
+foreign affìliates; failure to perform customer due diligence or enhanced due diligence for its foreign
+affiliates, inhibiting its assessment of customer risk and the identification of suspicious activity in
+accounts of those affiliates; failure to address a backlog of suspicious activity alerts (due to inadequate
+staffing), which caused the bank to file many late SARs; and failure to appropriately designate
+customers as 'high-risk'for BSA/AML monitoring, even when a customeis association with PEPs could
+harm the bank's reputation. ln July 2012, HSBC was the subject of a hearing held by the Senate
+Permanent Subcommittee on lnvestigations entitled 'U.S. Vulnerabilities to Money Laundering and
+Terrorist Financing: HSBC Case History.'
+Citibank: ln April 2012, the OCC issued a Cease and Desist Order against Citibank, N.A. for violations
+of the Bank Secrecy Act (BSA) and underlying regulations. According to the OCC, the order requires
+the bank to take comprehensive corrective actions to improve its BSA compliance program.
+The compliance program allegedly had defìciencies with respect to internal controls, customer due
+diligence, the independent BSA and the anti-money laundering audit function, monitoring of its remote
+deposit capture and international cash letter instrument processing in connection with foreign
+correspondent banking, and suspicious activity reporting related to that monitoring. These fìndings
+resulted in violations by the bank of statutory and regulatory requirements to maintain an adequate BSA
+compliance program, file suspicious activity reports, and conduct appropriate due diligence on foreign
+correspondent accounts.
+protiviti 122
+
+As part of the Order, the Bank is required to arrange for an independent look back for suspicious activity
+covering areas (and presumably time frames) to be designated by the bank's Examiner-in-Charge.
+. Broker-Dealers:
+o E"TRADE: ln January 2009, FINRA assessed a $1 million penalty against E"Trade Securities and E"
+Trade Clearing LLC for failure to implement AML policies and procedures to reasonably detect and
+report potentially suspicious securities transactions. Alerts triggered in the automated monitoring system
+were limited to those with money movements, thereby eliminating detection and review of potentially
+suspicious matched or washed trades. The firms relied upon analysts to monitor high-volume online
+trading activity for potentially suspicious activity manually, without providing necessary automated
+monitoring tools.
+Additionally, in July 2008, both firms reached a $1 million settlement with the SEC for failure to
+document their Customer ldentification Program (ClP) and verify the identities of more than 65,000
+clients from October 2003 to June 2005.
+r Money Services Businesses (MSBs):
+Sigue Corporation: ln January 2008, FinCEN assessed a $12 million CMP on Sigue Corporation for
+faiiure to implement an effective AML Compliance Program in all four core elements as defined in the
+USA PATRIOT Act: internal controls, designation of compliance officer/personnel, training, and
+independent testing. The U.S. Department of Justice assessed a $15 million forfeiture and entered into
+a Deferred Prosecution Agreement (DPA). Payment of the forfeiture satisfied the FinCEN penalty.
+Specific findings included the following:
+. Lack of defined roles and responsibilities of the compliance function
+. Failure to implement a risk-based suspicious activity monitoring program commensurate with
+dollar volume and geographic reach
+'
+Lack of effective supervision and control over agents (e.9., agents advising customers to
+structure transactions to evade AML reporting requirements)
+. Failure to investigate alerts in a timely manner
+'
+'
+Failure to file complete, accurate or timely Suspicious Activity Reports (SARs)
+lnadequate and untailored training program and/or training program not completed by all
+employees/agents
+. lnadequate independent testing (e.g., not risk-based, insufficient testing, narrow scope) that
+failed to identify system problems within the AML Compliance Program
+From 2010 to 2011, seven MSBs were subject to enforcement actions primarily for failure to register
+with FinCEN as an MSB. All were acting as independent money transmitters. A summary of fìndings
+included the following :
+. Failure to register as an MSB or complete biennial renewals with FinCEN
+. Failure to implement an AML program as required for money transmitters
+. Failure to report potentially suspicious transactions on SARs
+. Structuring currency transactions to evade BSA reporting requirements
+. Conspiracy to commit food stamp fraud
+32. What have been the most common deficiencies in AML Compliance Programs?
+Some common themes have been:
+Program Violations: Overall failures supported by'pillaf violations, i.e., the failure of an institution to address
+adequately its obligation to designate a qualified AML compliance officer; develop and implement appropriate
+policies, procedures and controls; provide adequate training; and perform periodic independent testing of its AML
+Compliance Program.
+Systemic and Recurring Violations: Pervasive control breakdowns
+protiviti 123
+. lsolated and Technical Violations: Limited instances of noncompliance that do not threaten overall program
+effectiveness
+Some common problems and issues include, but are not limited to, the following:
+¡ AML compliance officer (as well as other employees) lacks sufficient experience andior knowledge regarding
+AML policies, procedures and tools
+¡ lnsufficienVinadequate resources dedicated to AML compliance
+o Lack of specific and customized training of employees with critical functions (e.9., account opening, transaction
+processing, risk management)
+r Failure to conduct adequate risk assessments (e.g., customer risk assessment, business line risk assessment,
+OFAC risk assessment)
+o Failure to incorporate risk assessments into a transaction-monitoring process, customer acceptance standards,
+audits, testing or training
+r lnadequate Know Your Customer (KYC) procedures (e.9., ClP, CDD and EDD at or after account opening,
+including inadequate controls over required fìelds, inadequate methods of obtaining and/or maintaining current
+informatlon, lack of reporting capabilities over missing information, and lack of verification procedures)
+r Poor documentation maintained for investigations that did not lead to SAR fìlings
+. Poorfollow-up on SAR actions (e.9., close, monitor)
+. Lack of reporting of key SAR information to senior managemenVboard of directors
+o lnadequate tuning, validation and documentation of automated monitoring systems
+o Overreliance on software to identify transactions for which CTRs and/or SARs must be filed without fully
+understanding how the software is designed and what information it does/does not capture
+r Exclusion of certain products from transaction monitoring (e.g., loans, letters of credit, capital markets activities)
+. Lack of timeliness when filing CTRs and SARs (e.g., reports are manually fìled via certified mail, and the date
+postmarked is not noted)
+o Lack of or inadequate independent testing of the AML Compliance Program
+o Lack of or untimely corrective actions to prior examination or audit findings
+To identify potential gaps in a fìnancial institution's AML Compliance Program, regulatory enforcement actions for
+AML defiðiencies agãinst other (similar) financial institutions should be reviewed to identify the specific violations and
+related action steps-. This enables fìnancial institutions to recognize and correct any potential weaknesses of their
+own before their next regulatory examination.
+AML Compliance Program
+33. What types of financial institutions are required to comply with AML laws and
+regulations?
+Under the USA PATRIOT Act, the definition of 'financial institutions" was expanded to include more than 20 different
+types of businesses that provide financial services, including, but not limited to, broker-dealers, currency exchangers,
+¡ñiurance companies, trust compan¡es, dealers in precious metals, stones or jewels, and issuers of travele/s checks,
+money orders or similar instruments.
+For additional guidance on the other types of financial institutions now required to comply with AML laws and
+regulations, please refer to the !lQ!Sl[lQ[-¿þ! and
+sections.
+34. What are the key components of an AML Compliance Program?
+Key components of an AML Compliance Program include, but are not limited to, the following:
+protiviti 124
+
+o Designated Compliance Officer - For further guidance, please refer to the Desionation of AML Comoliance
+section
+. Risk Assessments -
+Risk Assessment, Customer Risk Assessment and OFAC Risk Assessment sections.
+. Customer Acceptance and Maintenance Program - For further guidance, please refer to the Know Your
+Hioh Rirk¿u#12=
+sections.
+For further guidance, please refer to the Enterorise-wide Risk Assessment, Business Line
+r Large Currency Monitoring and Currency Transaction Report Filing Program -
+refer to the Currencv Transaction Reoorts section.
+¡ Monitoring, lnvestigating and Suspicious Activity Report Filing Program -
+refer to the
+"nd
+For further guidance, please
+For further guidance, please
+and Susoicious Activity Reoorts sections.
+. Sanctions Program -
+r lnformation Sharing - For further guidance, please refer to , Section 314(bl Reouirements -
+and National Securitv Letters sections.
+¡ Recordkeeping and Retention Program - For further guidance, please refer to the Funds Transfer
+Monetarv lnstruments, Form 8300 and
+. lndependent Testing -
+. Training -
+o Management and Board Reporting -
+For further guidance, please refer to the Offìce of Foreion Assets Control section.
+sections.
+For further guidance, please refer to the lndeoendent Testino section.
+For further guidance, please refer to the AML Traininq section.
+For further guidance, please refer to the Desiqnation of AML Comoliance
+section.
+It is important to note that not all types of financial institutions are required to have each of the key components listed
+above. For additional guidance on the AML requirements of nonbank financial institutions, please refer to the
+Nonbank Financial lnstitutions and Nonfinancial Businesses section.
+35. How can technology be used to support a financial institution's AML program?
+Technology can be used, for example, to support:
+r Monitoring for Suspicious Transactions and Facilitating Suspicious Activity Report Filing -
+For further
+guidance, please see the
+sect¡on.
+o Monitoring for Large Currency Transactions and Facilitating Currency Transaction Report Filing - For
+further guidance, please see the
+Software section.
+o Verifìcation of Gustomer lnformation (e.9., CIP) -
+Software section.
+. Storage of Customer lnformation (e.g., GlP, EDD) -
+For further guidance, please see the Customer Veriflcation
+For further guidance, please see the Customer
+lnformation Database and Customer Risk Assessment Software section.
+r Calculation of Customer Risk Ratings -
+For further guidance, please see the Customer lnformation Database
+and Customer Risk Assessment Software section.
+. Searching Against Special Lists of Prohibited and/or High-Risk lndividuals/Entities (e.9., Office of Foreign
+Assets Control [OFAC], 31a(a), Subpoenas, Media Searches, lnternal "Deny' Lists, Politically Exposed Persons
+[PEPs])for Customers and Transactions - For further guidance, please see the lnterdiction Software and List
+Providers sections.
+r AML Training -
+. Case Management -
+For further guidance, please see the Trainino Software section.
+For further guidance, please see the Case Manaoement Software section.
+protiviti 125
+

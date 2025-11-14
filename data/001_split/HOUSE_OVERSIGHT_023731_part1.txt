@@ -1,0 +1,1741 @@
+﻿Teaching Minds
+How Cognitive Science
+Can Save Our Schools
+
+Teaching Minds
+How Cognitive Science
+Can Save Our Schools
+ROGER SCHANK
+Teachers College, Columbia University
+New York and London
+Published by Teachers College Press, 1234 Amsterdam Avenue, New York, NY
+10027
+Copyright © 2011 by Roger Schank.
+All rights reserved. No part of this publication may be reproduced or
+transmitted in any form or by any means, electronic or mechanical,
+including photocopy, or any information storage and retrieval system,
+without permission from the publisher.
+Library of Congress Cataloging-in-Publication Data
+ISBN 978-0-8077-5266-1 (paper)
+ISBN 978-0-8077-5267-8 (hardcover)
+Printed on acid-free paper
+Manufactured in the United States of America
+18 17 16 15 14 13 12 11 8 7 6 5 4 3 2 1
+For Milo (who can now read this) and for Max, Mira, and Jonah
+
+Contents
+Preface
+1. Cognitive Process-Based Education
+2. Teaching Kids to Walk and Talk
+3. What Can’t You Teach?
+4. Twelve Cognitive Processes
+That Underlie Learning
+5. Real-Life Learning Projects Considered
+6. A Socratic Dialogue
+7. Knowledge-Based Education vs.
+Process-Based Education
+8. New Curricula for a New Way of Teaching
+9. How to Teach the Twelve Cognitive
+Processes That Underlie Learning
+10. Defining Intelligence
+11. Restructuring the University
+vii
+12. How Not to Teach
+13. How the Best Universities
+Inadvertently Ruin Our Schools
+14. What Can We Do About It?
+Notes
+About the Author
+Preface
+My father always told me that I would be a teacher. He didn’t mean
+it in a nice way. My father talked in riddles. As the only child in the
+house, I had plenty of time and opportunity to figure out what he was
+really saying. This was it: I am afraid that like me, the best you will be
+able to do in life is to be a civil service worker. He was also saying: If he
+had realized he was going to be a civil service worker, at least he could
+have been a teacher, which he might have enjoyed. He wasn’t really
+talking about me at all.
+I never had any intention of being a teacher. I didn’t particularly
+like school and later, when I became a professor, the part of the job I
+disliked the most was the teaching. One might wonder how I wound
+up being a professor if I disliked teaching, and one might wonder why
+I am writing a book about teaching if I dislike teaching. One also might
+wonder whether I still dislike teaching. Yes. And no. It depends on what
+one means by teaching, which is, after all, what this book is about.
+The other day my 3-year-old grandson Milo told me he was going
+to teach me how to throw rocks. It seemed an odd idea. What could he
+mean by this? To Milo, “teach” means to tell someone what to do and
+how to do it and then have the person do it too. Teach is part of tell
+plus imitate for Milo. Milo is 3. It is not too surprising that this is what
+teach means to him. It is a little surprising that he thinks he should
+be his grandfather’s teacher, but that is another issue. But it is really
+no shock that Milo thinks this is what teach means. It is what nearly
+everyone thinks teach means. The commonly accepted usage of teach
+is tell and then have the person who was told, do what he was told.
+This certainly is not what teach ought to mean, or more important, is
+not what good teaching is. And, every good teacher knows this. The
+problem is that the system that employs teachers doesn’t know it and
+more or less insists that Milo’s definition be the one that is followed.
+Actually, I am being too generous here. Milo’s view, namely, that
+after he tells me, I will do what he has said, is a better definition of
+ix
+x
+Preface
+teaching than the one actually employed commonly today. Milo at
+least thinks that the end result will be the student doing something
+that the teacher did. In school, teach usually means helping the student
+to know something that the teacher told him. Milo doesn’t know
+about that definition of teaching yet since he hasn’t been to school,
+but, unfortunately, he soon will.
+I have been thinking about teaching for more than 50 years. First
+I thought about it when my father said that was what I was going to
+be. Then I thought about it as I watched my teachers teach me and, no
+less important, watched my father teach me.
+My father eventually retired from his civil service job and became
+a junior high school teacher in Harlem. He loved his new job and, I
+have to assume, became a good teacher. I say it that way because he
+was certainly not a good teacher for me, at least not when he thought
+he was trying to teach me. I remember him trying to teach me algebra
+and it making no sense to me whatever. I remember him teaching me
+sports and I mostly think of him as being totally frustrated with my
+inability to perform as well as he had hoped. (Being a jock was a big
+thing to my father.)
+I did fine in algebra without his help and, in fact, became a math
+major in college. But, as I look back at it, my father was my first and
+best teacher. Why do I say this after all the bad things I have just said?
+Because my father was at his best when he wasn’t teaching but was
+just saying what was on his mind and arguing. He often talked about
+history because he liked history. And when he talked about history
+and I asked questions, he became a good Socratic teacher. He forced
+me to think and question in our discussions. The conversations were
+often very heated but also were a highlight of my intellectual life at
+that time. My father didn’t teach me anything except how to think.
+That’s better than algebra, actually. For this I am grateful.
+So, I thought about teaching then and I thought about it again
+when I went to college. As part of my father’s conversations with
+me about life, he talked a great deal about his own experiences. His
+mother sent him to New York City to live with his aunt in Brooklyn
+and to go to college. He was 15 and had, until that time, spent his
+entire life on a farm/hotel run by his parents in upstate New York.
+He was unprepared for the city, had no money, missed his family,
+and had no idea why he wanted to go to college at all. Did I mention
+that he was 15? He had graduated first in his class (a class of 16, I
+Preface
+xi
+think) and had skipped a few grades on the way. Suddenly he found
+himself at New York University, which in those days was located in
+the Bronx.
+This is what he remembered most about college in 1923: Apart
+from the poverty stories, the “how hard he had to work to support
+himself” stories, the stories about watching the Yankees from the elevated
+train and wishing he could go to a game, he remembered that
+teachers lectured, that you had to memorize what they told you and
+then tell it back to them on a test. He thought college was stupid, but
+he assured me (in 1960) that college surely had changed by now and
+that teachers wouldn’t still be doing this. Oh yeah? In 1962, when I
+entered college, they were doing exactly that. And, in 2000, when I
+retired from 32 years of professoring, not that much had changed.
+So I was thinking about teaching before I got to college and I was
+thinking about it while I was a professor and I am thinking about it
+now that I have, for the most part, finished teaching. To make sure I
+have been thinking about it correctly, I asked former Ph.D. students of
+mine, (now tenured professors mostly and some industry executives)
+what they had learned from me while they were spending 4–7 years
+studying with me. I thought their answers might help me think about
+teaching in a new way. I sent an e-mail to maybe 20 former students
+whose e-mail addresses I happened to have, and most responded. Here
+are some excerpts.
+1. I remember quite specifically a homework presentation I
+made in your class. When I presented it in class, I was a junior
+in college, and all the other students in that class were grad
+students. When I was done you smiled at everyone (a rare
+event) and said, “Anyone care to follow that act?” Your clearly
+heartfelt endorsement of my little research product was a key
+moment in my coming to trust my own ideas. I just submitted
+a $16.7 million proposal to NIH that would create the first allcomputational
+genome center. The kind of chutzpah embodied
+in that proposal is one consequence of my experience with you.
+2. The way you assigned me to a project—you sent me to each
+existing project for 2 weeks until I hit on a project with a good
+fit (I was enthusiastic and coherent talking about it). I used this
+technique when I was assigning people at Accenture.
+xii
+Preface
+3. You taught me to teach by telling students stories that are
+meaningful to you. I think to be a real teacher you have to let
+yourself be vulnerable. So the students can see that you are a
+human with feelings and fears and goals. And then being able
+to say to the students: This is the way I do it; it fits who I am; it
+helps me be successful; and don’t let anyone tell you that you
+can’t do something.
+4. You taught me that not everyone will like you no matter what
+you do and no matter how hard you try. I came back from a
+Deloitte course evaluation, and the deans just hated me. Instead
+of being upset with me, you assured me that you have to just say
+what you believe, and some people won’t like you, and oh well.
+5. You taught me to start by collecting data. I recall watching
+most of your papers start by collection of data. I recall watching
+your criticisms of work that was just abstraction on abstraction,
+with no data at its roots.
+6. You once told me to imagine that my mother was my
+audience—if I could explain it to my mother, I could explain it
+to anyone. Incredibly, this seems to work for every audience out
+there. So I’ve passed that tip along to my students and it seems to
+work for them too.
+7. I remember that you used to tell us we need to be excited to
+get up and go to work in the morning, that that was the most
+important thing. For some people, it’s because of the people
+you will be with. For some, it is because of the passion about
+whatever it is. But, in general, I still give people that advice (and
+it is advice I’ve also been giving my own kids). You have to love
+what you are doing.
+This is just a sample but it reflects what these former students, now
+all in their 40s and 50s, remember about what I taught them. Hadn’t
+they learned any facts from me? Didn’t I teach them some real stuff?
+Some said in passing that they had learned the actual content of the
+subjects I taught as well, but that that wasn’t as important to them as
+the things they chose to write about. Why not?
+Preface
+xiii
+There are two important answers to this question and those answers
+are what this book is really about. My father offered these same
+answers to me, not explicitly by any means, when I thought about the
+good and bad of having him as my teacher. When he tried to teach me
+facts, I learned nothing much. When he engaged my mind, I learned a
+lot. As a professor I never forgot this lesson. I rarely tried to teach facts,
+upsetting many a student along the way. I just argued with them, or
+encouraged them. I never told them much, except maybe some good
+stories.
+So here are the answers:
+The first is:
+Teaching isn’t what outsiders to the profession think it is.
+The profession I am referring to here is, of course, the teaching
+profession.
+The second is:
+Learning isn’t what outsiders to the profession think it is.
+In this case, the profession I am referring to is not teaching at all.
+Let’s start with teaching.
+A professor friend of mine once asked her class what they thought
+a professor’s biggest fear was while teaching a class. They all agreed
+it was not knowing the answer to a question a student might ask.
+When she told this story to a group of professors, they all laughed
+out loud.
+Why am I telling this story? Because a student’s view of teaching
+varies greatly from a teacher’s view. No teacher worries about not
+knowing the right answer to something a student will ask. You can
+always fake it (say—What do you think? or, Class, can you help here?) if
+you think it is important, but answers don’t matter very much. Teachers
+are not supposed to be encyclopedias. They are supposed to be
+something else. The question is: What?
+My students’ responses above give a hint. Teachers are supposed
+to be people who help students find their interests in life, think about
+xiv
+Preface
+how to make decisions, understand how to approach a problem, or
+otherwise live sensibly. Teachers are never shocked to be asked to provide
+personal or professional advice to a student having a problem—
+any problem. If one takes one’s job seriously, teaching means being
+available to help. But this important advisory job is confused by lesson
+plans, and class hours, and lectures, none of which matter very much.
+Why do I say that these things don’t matter very much? This is the
+essence of what this book is about—the move from content-based instruction
+to cognitive-based learning, assisted by good teaching. This
+means we will have to define this “new” kind of learning (it’s not really
+new, of course, just new to schools) and the “new” kind of teaching
+that is a natural consequence of using this new learning method.
+Most teachers understand and appreciate that delivering the required
+material is not their real job, at least it is not the reason they
+signed on in the first place. The employers of teachers, on the other
+hand—administrators, governments, department heads, and so on—
+expect certain material to be covered. Exciting students is not on their
+worry list. This is a big problem for teachers and for students, and one
+that we will address here.
+But my more serious concern is our conception of learning, not
+teaching. Teaching follows one’s conception of learning so getting
+learning right is of prime importance. When I said earlier that outsiders
+to the learning profession wouldn’t get the real point, I was being
+ironic. There is no learning profession. Why not?
+In 1989, I moved from Yale to Northwestern to establish a new
+institute, funded by Andersen Consulting, devoted to issues of changing
+training and education by the use of new technologies. I needed a
+name for the institute and came up with The Institute for the Learning
+Sciences. I made up the term learning sciences. There was no such field
+in academia. Most people thought I meant we were planning to work
+on how people learned science. The only academic fields that “studied”
+learning were psychology and education. Psychology, being an
+experimental field, allows faculty to work only on experiments about
+learning that provide data in a controlled environment. Education
+faculty study how schools work and very rarely think about learning
+outside of the school context or in a way different from the paradigm
+already extant in schools. I wanted to create a learning profession. In
+1989, there certainly didn’t seem to be one.
+Preface
+xv
+Today this is less true. Cognitive science, a field I also had a big
+part in creating, has become more important in the academic world.
+Training, and e-learning, the first new field to come about as a result
+of our work at my new institute (for better or for worse, I am not too
+fond of most e-learning work) have become more important to think
+about within the academic context, in part because online courses are
+seen as potential revenue producers.
+So, while there is still no learning profession per se, there is much
+interest in what learning is about. This book is meant to address the
+issue of what learning really is, in or out of school, and to answer the
+question: How does learning really work? The questions that follow
+from the answer to that question are:
+• What kinds of learning situations occur naturally?
+• How can we focus education (and training and
+e-learning) on those types of situations in a new
+paradigm?
+• What would teaching look like in this new paradigm?
+• If what we know about how learning works is antithetical
+to how school works, then what can we do?
+Answering these questions is one goal of this book.
+Another goal of this book is to think seriously about what it means
+to teach. Typically, we look at teaching in precisely the way that our
+system forces us to look at it. There are subjects and there are experts,
+and experts talk about their subjects to students who listen to what
+they have to say. This idea is not only archaic—it is wrong. In the history
+of humankind, teaching could never have looked this way.
+Until recently, teaching always meant apprenticeship. We are set
+up to be apprentices, to learn by doing with help from a mentor. We
+have done this since the beginning of time. When learning became
+academic in nature, when students were expected to become scholars,
+all this changed—and it didn’t change for the better. Teaching started
+to mean talking, and talking is a terrible way to teach. People aren’t
+really that good at listening, after all. Small children don’t listen to
+their parents. They may copy their parents. They can be corrected by
+their parents. They may be impeded from doing something by their
+parents. But listen? Not really. We listen in order to be entertained, not
+in order to learn.
+xvi
+Preface
+This lack of understanding about what learning really is like, and
+what teaching must be like in order to be useful, has caused us to set
+up school in a way that really does not work very well. When students
+complain about school, when politicians say school isn’t working, we
+understand that there is a problem. But we don’t understand what
+the problem is. We think we can fix schools by making them more
+friendly, or safer, or paying teachers better, or having students have
+more say, or obsessing about test scores, but none of this is the case.
+The problem with schools lies in our conception of the role of
+school. We see school as a place to study academics, to become a
+scholar, when in fact very few students actually want to become scholars
+or study academics.
+As a society we have gotten caught up in a conception of school
+from the late 1800s that has failed to change in any significant way,
+despite the fact that universal education has made the system unstable.
+Universities dominate the discussion, and everyone listens to
+what academics have to say because they don’t see the alternative or
+know whom else to listen to. But, if we understand how learning actually
+works, and how teaching actually should work, the alternative
+becomes much clearer.
+It is establishing that clarity that is my goal in this book.
+CHAPTER 1
+Cognitive Process-Based Education
+Education is an admirable thing, but it is well to remember
+from time to time that nothing that is worth knowing can be
+taught.
+—Oscar Wilde
+Learning begins with a goal. However, when we think about education
+and school, we often forget this. Someone, somewhere, decides that a
+student must learn about Napoleon, but fails to ask how such learning
+might conform to a goal that the student consciously holds. We don’t
+forget this when we try to teach a child to walk or talk, because we
+know that the child does want to learn to do these things. When we
+teach a child to hit a baseball, we usually determine beforehand that
+the child wants to learn to do this. But, we forget this simple idea of
+goal-directed learning as soon as we design curricula for schools. Who
+cares if the child wants to learn long division? Make the child learn it.
+It is very important. Full speed ahead!
+Somewhere along the way, many students get lost. They may get
+lost in high school, or in college, or in job training. But somewhere
+they learn to shut off their natural learning instincts, the ones that
+drive them to improve because they really want to accomplish something.
+Instead they try hard to do what they were told to do—they
+study, they pass tests, and eventually their love of learning is gone.
+The feedback that they previously have gotten from accomplishing a
+real goal, one that they truly had held, has been replaced by pleasing
+the teacher, or getting a good grade, or progress in their goal of getting
+into a “good college.”
+Designers (and teachers) of courses must contend with this truth:
+The students that you have may not want to learn what it is that you
+want to teach.
+What to do?
+1
+2 Teaching Minds
+First, we must establish whether students can learn whatever it
+is that you want to teach. I always wanted to teach my daughter to
+throw a ball properly. She threw a football astonishingly well at the
+age of 6. But, she never got it about how to throw a softball. I don’t
+know why. She just couldn’t learn to do it right. She can’t do math
+either. Believe me, I tried.
+Second, we must determine whether what you want to teach can
+be taught. Not everything can be taught. It is hard to learn to be a
+nice guy if you are inclined to be nasty. You can learn to be nicer, or
+at least to fake it, perhaps, but certain things are hard to learn after
+a certain age. You can teach a 2-year-old to be nice—a 22-year-old is
+another story.
+Third, we must figure out what method of learning actually would
+teach what we want to teach. This is an important question that is
+made more important, in part, by the fact that the learning methods
+available in schools tend to be of a certain type. The things that
+schools desire to teach are of a type that conforms to the available
+methodologies for teaching. Content that lies outside the range of the
+currently available methodologies typically is not considered something
+worth teaching.
+Fourth, we must decide whether a selected learning methodology
+actually will work, given the time constraints and abilities of the students,
+and other constraints that actually exist. This is, of course, the
+real problem in education. It is easy to say that students would learn
+better if they had real experiences to draw upon. This isn’t that hard to
+figure out. What is hard is implementing this idea within the time constraints
+of the school day and the other demands of the school year.
+Fifth, we must determine a way that will make what you want to
+teach fit more closely with real-life goals that your students actually
+may have. By real-life goals I mean things like walking and talking
+(and later driving). Why is it that teachers, or more accurately school
+systems and governments, want to teach things that are not in accord
+with a student’s real interest? While we argue about how best to
+teach algebra, no one ever asks what to do if a student doesn’t want to
+learn algebra. The question is so weird; the possibility that you could
+skip algebra because it doesn’t interest you is so remote that we don’t
+even think about this in any way. What is the real cause of this problem?
+Why can’t we just let students learn what interests them? Are the
+people who run schools simply out of touch with how learning really
+works or how actual students behave when faced with something they
+Cognitive Process-Based Education 3
+don’t want to learn, or is something else more complex going on?
+I will summarize these five issues as follows:
+ABILITY
+POSSIBILITY
+METHODOLOGY
+CONSTRAINTS
+GOAL ALIGNMENT
+School is subject-based and, further, those subjects are predefined and
+agreed upon by those in charge. Without giving a history of how this
+state of affairs came to be, 1 or why it is an issue, it is first necessary to
+note that it is the case. I say this because when we were students in
+school, we accepted the fact that school was the way it was, and we
+assumed that it was the way it was supposed to be. We may not think
+each subject we learn is valuable or interesting, and perhaps we long
+to learn different subjects, but never do we hear people suggest that
+there shouldn’t be subjects in school at all. This is a very difficult idea
+to swallow. There have always been subjects. What else would there
+be? What would it mean to not have subjects?
+Answering this question is the aim of this book. We need to understand
+what goes on in schools and what might be preferable. The issue
+really is not schooling at all. The real issue is how learning actually
+takes place in the human mind.
+Ask a student how he is doing in school and he will tell you the
+subjects he likes. I like English but I am bad at math, he might say. This
+is such a normal sentiment among students that we never think about
+how weird a sentiment it really is. We don’t ask: How are you doing at
+life? We could ask that of a teenager and she might say: I am good at
+dating but bad at driving.
+But, actually, you would never hear teenagers say something like
+that. This is weird because, in general, dating and driving are much
+more important subjects in a teenager’s world than English and math.
+But they don’t talk about whether they are good at it or bad at it in
+the same way.
+They continue to practice and get better at those things because
+they care about them. Saying, I am bad at math, means, in essence,
+. . . and I don’t care and have stopped trying because I don’t see the point.
+Saying, I am good at English, typically means, I am getting a good grade
+in English. This state of affairs defines the main problem in education:
+4 Teaching Minds
+There are subjects that are school subjects and there are subjects
+that are life subjects and teenagers can tell the difference. They
+work harder at the life subjects.
+And, what is the difference between these two kinds of subjects? Goals.
+It is as simple as that.
+Instead of simply saying what is wrong with schools and what
+teenagers are really like in school, I want to take a different tack.
+Some teenagers wake up in the morning wanting to learn history
+or algebra but they are a very small minority of the school population.
+There is no minority, however, when it comes to dating or driving for
+teenagers. They all want to do these things. So the question I want to
+ask is:
+Are there other things that all teenagers want to do and are those
+things connected in some way with learning?
+Or, to put this another way, if school had been designed around
+something other than subjects, what would it have been designed
+around? Driving and dating, which we know are winners in a teenager’s
+world, could be seen as subjects, or they could be seen as instances
+of something else, and that something else might be something
+important to learn.
+Students everywhere might want to learn whatever that is and they
+would work hard to learn it. If we can turn the question around in that
+way, maybe we can design better learning situations for everybody.
+So, the question is:
+What are driving and dating instances of, with respect to learning?
+Or, to address this from the cognitive science point of view:
+What is it that students are doing when they learn to drive
+and date that they might be getting better at while doing those
+things?
+Can we view whatever it is they are getting better at as an example
+of the kinds of things we should want to teach and that students
+should want to learn? Answering these questions will allow us to
+Cognitive Process-Based Education 5
+look at education in a new way. We need to think about how people
+actually learn, regardless of the subject, in order to address them.
+Let’s think about dating, then. I was never any good at it as a kid.
+I know how the non-cool guys feel. But, later on, much later on, I got
+very good at it. So, I must have learned something. What?
+What was I bad at as a kid? Meeting girls, for one thing. Other kids
+could do it easily. I always needed to be fixed up.
+Talking to girls, for another. I hardly knew any girls. I went to an
+all-boys high school. I was 16 when I went to college and the other
+freshmen were 18, so that didn’t help either. In other words, I had no
+confidence.
+But mostly, I had no idea what to say to a girl. What did they talk
+about?
+And, one more thing. I really didn’t get the point. I didn’t know
+why one wanted to go out with girls anyway. I mean I eventually got
+the idea, at least I think I did.
+Why am I saying it this way? I am trying to get an insight into the
+learning process and I am a fine example. I didn’t know how to do it
+and then I did. I didn’t get the point and then I did, sort of. So I must
+have learned something between the ages of 16 and 60. What?
+Here are some things I learned:
+• Human relationships are important, but they aren’t easy
+to establish or maintain. They require work.
+• The work involves, among other things, learning how to
+listen and respond to the needs of another human being.
+It involves subjugating one’s own interests from time to
+time for the interests of another.
+• Girls, and later women, feel good. Being with someone
+who loves you feels good. Learning to love feels good.
+More than feeling good, these things are critical for
+staying alive. This is not so obvious when you are
+surrounded by love from your family. But eventually you
+are alone, and alone is not so much fun.
+As this is not a chapter on love, I will stop there. Suffice it to say
+that I learned how to meet girls, how to gain their interest, and how to
+form relationships with them. I also learned why I wanted to do that.
+Now let’s see what we have learned about learning from my little
+diversion into teenage angst.
+6 Teaching Minds
+We have learned that learning about how other people behave is
+very important.
+We have learned that learning about one’s own emotions and
+feelings is very important.
+We have learned that building confidence is very important.
+We have learned that learning to listen is very important.
+We also have learned that learning how to express oneself is very
+important.
+Now let’s go back to discussing learning.
+Why is it that teenagers are more interested in thinking about dating
+than they are in thinking about algebra? Why is it that they don’t
+rate themselves on their success in dating in the same way as they do
+when they are discussing how they are doing in science?
+What do teenagers know about learning that their school doesn’t
+know?
+This is it:
+Teenagers know that the issues I have mentioned above will be
+important for them for the rest of their lives in a large variety of
+arenas, not just dating.
+No matter what they do in life they will need to form relationships,
+assess their own abilities, gain confidence through practice, learn to
+listen, learn to love, try things out and see how well they work, and
+learn why they do what they do. To put this another way:
+Dating is way more important than algebra and every teenager
+knows it.
+Dating is much more important not because teenagers have raging
+hormones and they crave sex, as this phenomenon often is described.
+It is important because what they learn while dating serves them in
+many areas in life and relates strongly to who they will be and how
+well their lives will go.
+Algebra relates to none of this and they know that too.
+So, let me ask a simple question:
+If we must have subjects in school, why wouldn’t dating be rated
+as way more important than mathematics?
+Cognitive Process-Based Education 7
+The answer to this is simple enough. School was not designed to help
+kids live better lives. That was never the point. But shouldn’t it be? 2
+From a cognitive growth point of view, school wasn’t even designed
+to teach us things that relate to learning per se.
+Scholars designed the subject matter of the current school system.
+You hear sportscasters describe football players as scholar-athletes. Really?
+Scholars? Why would that be what we are seeking to create? There
+are only so many jobs for scholars, and while scholarship is very nice,
+it ought not be the goal we seek in school in a system of universal
+education.
+Yes, but dating? Is that the subject I am proposing? Really?
+Let me explain the real issue here. Take a look at the items I
+mentioned above.
+We have learned that learning about how other people behave is
+very important.
+We have learned that learning about one’s own emotions and
+feelings is very important.
+We have learned that building confidence is very important.
+We have learned that learning to listen is very important.
+We also have learned that learning how to express oneself is very
+important.
+Now, I will transform these slightly:
+Students need to learn about how other people behave and why,
+and they need to learn how to interact with different kinds of
+people.
+Students need to learn about their own emotions and feelings
+and how to deal with them.
+Students need to learn how to rely on themselves and feel
+confident in their own abilities.
+Students need to learn how to listen to others and really hear
+what they are saying.
+Students need to learn how to express themselves effectively.
+Now this list doesn’t seem so crazy, does it? In fact, most parents will
+tell you that they try very hard to teach all these things to their children.
+So one argument might be that the school doesn’t have to do it,
+since parents do it.
+8 Teaching Minds
+Another argument might be that if the schools worked on these
+issues, they would have students memorize the 12 principles for building
+self-confidence and learn to express themselves by analyzing classics
+in world literature.
+Here is the key point:
+These issues, the ones that could be learned from dating,
+transcend all aspects of our lives.
+And, more important, students know this. I started with the idea that
+learning begins with a goal. The points I listed above are goals that
+teenagers actually have. They would not have to be talked into those
+goals. Moreover those goals are, as all students know anyway, way
+more important than algebra. They aren’t interested in becoming
+scholars.
+Now let’s consider the cognitive science behind this. Everything
+we do as human beings is goal-directed. We go for a walk for a reason,
+we shower for a reason, we get a job for a reason, we talk to people
+we meet for a reason. We pursue goals as soon as we are born. We try
+hard to learn to walk, talk, get along with our family, get our needs
+satisfied, and find out what we like and what we don’t like. We do
+this from birth. If school related to the goals that children actually
+had, that they were working on at the very moment that they entered
+school, school would seem like a natural and helpful experience. Students
+wouldn’t stress about satisfying their teachers any more than
+they stressed about satisfying their parents when they were learning
+to walk and talk. Yes, they want to please their parents, but that is not
+exactly the same thing.
+People know what their goals are and they know when something
+they are being offered, a parasailing lesson or a pomegranate, for example,
+doesn’t fit with their goals. They can be convinced to try out
+a new activity that they believe will not satisfy any of their goals, but
+for the most part it is difficult to convince them that weird things that
+were not on their goal list actually should be on the list. We say things
+to students like, “You will need this later.” But this is usually a boldfaced
+lie. You don’t need algebra later. Making up nonsense convinces
+nobody.
+There is a more important issue here. Later on in this book I will
+detail the 12 kinds of learning that make up what it means to learn. If
+Cognitive Process-Based Education 9
+you get good at learning these things, you get good at what life has to
+offer. The list above is a partial list of the group of learning processes
+that I detail in Chapter 4. It is really quite important. I have used dating
+as a simple way of explaining it because no one has to explain why
+that matters to a teenager. Teenagers know that they have to learn the
+processes that I discuss in Chapter 4. As things are now, these important
+issues are not considered significant enough to deal with seriously
+in school. World history is always considered more important. But
+why should that be the choice?
+Earlier, I mentioned that students want to learn how to drive as
+well as how to date. This is a pretty universal goal that teenagers have
+so we should ask of it as well whether it is important and what it
+might be an instance of that is inherently significant in real life.
+On the surface, driving seems a skill that is an important part of
+daily life. So, one is led to ask why driving isn’t a school subject? The
+answer is that it is. Driver’s education has been taught in schools for
+many years. Not every school offers it, but many do. So what is the
+problem? It is just a useful skill, not a scholarly subject, so surely I
+am not suggesting that it is more important than physics. That is, of
+course, exactly what I am suggesting.
+In our test-driven society, when driver’s ed is taught, it is taught
+with a clear goal and a clear notion of success. When a student has
+passed the tests and gotten her driver’s license, everyone is satisfied.
+Well, not everyone. I was once called in on a consulting assignment
+for a university hospital that was working on a study to prevent
+teenage car accidents. The study was funded by an insurance company
+that would have been happy to pay out less in damages and, presumably,
+also thought fewer dead kids would be a generally good thing.
+What is the problem?
+Students may have their licenses but they don’t know much about
+driving and responsibility. It wouldn’t be a shock to anyone to know
+that kids drink and drive, text message and drive, and generally yell
+and scream and goof around while driving. They often die from this
+behavior. Could we teach them not to do that? The answer always
+seems to be to put up posters that say don’t drink and drive and to
+make them watch scary movies about car accidents. The school system
+strikes again.
+If we tell them, then they will do it, never seems to work, but we keep
+trying.
+10 Teaching Minds
+I often have used the Department of Motor Vehicles (the DMV) as
+an example of the best there is in testing. They have two tests. Dumb
+multiple choice questions that make no sense and a real test that tests
+to see whether you can drive. Schools typically don’t have the real test
+at all, one that tests to see whether you actually can do something, so
+the DMV at least is smarter than the school system.
+But the real issue is something else entirely. Driving is an instance
+of a piece of very complex behavior that exemplifies one of the ways
+in which we learn. Perhaps more important, driving entails a great
+deal of other things, which could be learned and should be learned.
+A simple example of this is car mechanics. Once upon a time
+schools taught kids to fix cars as well as to drive them. Perhaps they
+still do. But vocational subjects like that have been relegated to the
+back burner of education so that more testable subjects can be taught.
+Also, cars have gotten more difficult to fix. This is too bad, because
+if car mechanics were required instead of physics, students actually
+might learn science.
+What do I mean by this?
+When we hear an outcry about the nation’s need to make children
+learn science, no one ever asks why. The standard answer, if this is
+ever asked, is that science is important in tomorrow’s world or some
+such nonsense. Push harder and you might get some remarks along
+the lines that soon all the scientists will be Indian and Chinese, which
+may be the real fear of those who push science in the United States. To
+address this question properly, one has to ask what exactly is meant
+by “science.”
+Imagine that you are a student working on fixing a car in a car
+mechanics class. As I write this I am imagining a scene from the musical
+Grease, which was set in the 1950s when there actually were cars
+to work on in school. I never got to work on a car because I went to a
+science high school where such a thing would be looked down upon.
+So when I graduated from high school and drove to college and my car
+broke down, I hadn’t the slightest idea what to do. I wish I could tell
+you that at least I understood the physics of the engine but I didn’t. I
+just knew F = MA and other stuff that wasn’t going to help me fix my
+engine.
+Now let me ask you, how is fixing one’s car engine like fixing
+one’s air conditioning or plumbing? The answer to this question has
+Cognitive Process-Based Education 11
+embodied within it what it means to do science. When science means
+learning facts about science, we are talking about useless information
+that is readily forgotten after the test. I have no idea why anyone
+learns to balance chemical equations or apply physics formulas or
+learns about biology classifications in high school. None of this is of
+any use to most adults. (It is easy to test, however.)
+When the stuff that is being taught does not relate to the inherent
+goals of the students, it will be forgotten. You can count on it.
+Why this stuff is taught is simply that it derives from a conception of
+science prevalent in the 1890s that has not been modified since. It is
+defended by people as a way to produce more scientists, which makes
+no sense since it probably deters more students from entering science
+than it encourages.
+Scientific reasoning, on the other hand, is worth teaching.
+Why?
+Because car mechanics, plumbers, doctors, and crime investigators,
+to name four random professions, all do scientific reasoning on a daily
+basis. As a society we anoint only doctors with the glory of doing
+actual scientific reasoning. The other professions get less glamorous
+interpretations. But they are all doing the same stuff. This is what they
+are doing:
+They are taking a look at evidence and trying to determine the
+probable causes of the conditions that they have found.
+To do this one must know what causes what in the real world, which
+is science; what counts as evidence of known conditions, which is science;
+and previous cases that are similar and that any good scientist
+must know. So while we may not think of a plumber as doing scientific
+reasoning, that is exactly what he is doing.
+Science is about creating hypotheses and gathering evidence to
+support or refute those hypotheses. Children are natural scientists.
+They often try stuff out—skipping rocks on the water or dropping
+stones from the roof or lighting things on fire—to see what happens.
+But there is more to science than trying stuff out. One must seek explanations
+and make sure those explanations are correct. Knowing what
+constitutes a correct explanation is really the essence of what scientific
+knowledge is about. But notice that there are correct explanations for
+12 Teaching Minds
+hypotheses in plumbing as well as in medicine and that these explanations
+exist for repairing a faulty engine and for understanding who
+committed a crime. It is all scientific reasoning.
+The difference between plumbing and medicine is in the complexity
+of the science. Not a lot of invention goes on in plumbing and
+there aren’t all that many explanations to choose from. The degree of
+difficulty in understanding what is going on and why is what separates
+those fields and makes one science and one not. But the basic
+thought processes are the same.
+This is important to notice because all these areas of inquiry are
+what we might call diagnostic.
+So, and this is the important part, the real issue from a cognitive
+science point of view is not in teaching science per se, but in teaching
+scientific activities, one of which is diagnosis. And, since diagnosis is a
+similar process no matter what you are diagnosing, it makes sense that
+all through school, diagnosis would be a subject, and not physics or
+literature. The things that children are asked to diagnose might start
+with things little kids like, like finding out what is wrong with their
+pets or their toys, and then move on to things bigger kids like, like cars
+and crime, and then move on to large issues, like why a business has
+failed or why our foreign policy doesn’t work.
+Diagnosis matters a great deal in our lives, yet it is not a subject in
+school. This is not surprising because the origins of the school subject
+areas, as I have said, are scholarly. But if we want to teach children to
+do things that matter and we want to retain their interest because they
+know intrinsically that these things do matter, then we must have
+them practice diagnosis all through their school lives, in a variety of
+venues that correlate with their interests. They don’t all have to diagnose
+the same stuff. It is the diagnostic process itself that matters, not
+what is diagnosed.
+I have been using the word subject for an idea like diagnosis but it
+is not a subject and should not be seen that way. I have been using the
+word only to contrast it to existing subjects in school. Diagnosis is a
+fundamental cognitive activity. Cavemen did diagnosis. They may not
+have done it well, but they did it well enough to continue the species.
+The diagnostic process is as old as people. Knowing why, being able to
+prove a hypothesis, is a fundamental cognitive process.
+School needs to be organized around fundamental cognitive activities.
+It would be easy to demean what I have said here by saying
+Cognitive Process-Based Education 13
+I want to teach kids to date and drive better. What kind of school is
+that?
+But this trivializes the point. I do want to teach students to date
+and drive better. But these are just a few instantiations of general cognitive
+processes. Forming human relationships and figuring out what
+is going in the physical world are two of many very important cognitive
+abilities that manifest themselves in myriad ways in real life.
+A properly designed school system needs to focus on cognitive
+abilities, not scholarly subjects. Kids will recognize instantly that these
+activities are the ones they know how to do and that they need to get
+better at. If we allow them to choose what areas of knowledge they
+would like to focus on while learning these skills, they would be attentive
+and interested students. No more ADHD. Poof!
+A society that organized schools around cognitive abilities would
+become one where people were used to thinking about what they did
+and how and why they did it. They would not find school stressful or
+boring.
+This wouldn’t be a bad thing.
+
+CHAPTER 2
+Teaching Kids to Walk and Talk
+Failure is instructive. The person who really thinks learns quite
+as much from his failures as from his successes.
+—John Dewey
+Teaching is a serious issue. Teachers matter. Or at least they should matter.
+But we have the sense that it is the job of the teacher to tell us stuff.
+Students expect it and teachers do it. Often, teachers get criticized if
+they do anything else. And, this is pretty much the beginning and the
+end of the problem with teaching. We force teachers to teach wrong.
+I am beyond the age where I have little kids that I have to teach
+how to walk and talk. But when I did, I don’t remember preparing
+any lesson plans. In a cognitive process-based model of education, all
+teaching looks like the teaching you do when you teach your children
+to walk and talk.
+Lately I have been personally interested in being taught. This is
+because at the age of 55 I started to play softball in an old guys’ softball
+league in Florida. I discovered I wasn’t really very good. This was a bit
+surprising since I had played in the university softball leagues while I
+was a professor and had stopped playing only in my 40s. I wasn’t a bad
+player then. There hadn’t been that long a hiatus. And, I was playing
+against people a good deal older than myself since I am rather young
+as recent Florida transplants go. I used to be a good hitter and I wasn’t
+now. The reason was easy enough to understand. In the university
+leagues they play fast pitch. A batter has a second or so to decide about
+swinging. It is all instinct. At least it was after having played for 40
+some odd years.
+But, in Florida, old guys play slow pitch. The pitcher throws the
+ball in a high looping arc and it is a strike if it lands on the plate. Quite
+a different experience from trying to hit a ball that is zinging by your
+head. Should be easier, no? Not for me. It took a bit of thinking to
+figure out why.
+15
+16 Teaching Minds
+I analyzed how I was swinging, when I was swinging, and what
+kinds of pitches I was swinging at, and I came to many different conclusions.
+I realized I needed to wait longer before I swung. I realized I
+had to stop swinging at inside pitches (the ones that almost hit you).
+I realized that I had to stop swinging at pitches that looked good but
+yet dropped in front of my feet. I realized I had to see the ball hit the
+“sweet spot” on the bat. I realized I needed to change my whole approach
+to hitting, in fact.
+OK. I realized a lot. I had come to many conclusions. Now what?
+Just do it, right? Aha. Not so simple.
+You can’t just do what you know you should do. Why not? Because
+your subconscious isn’t listening to what you have to say. This is
+why you don’t tell a little kid how to walk and talk. Apart from the fact
+that he wouldn’t understand you anyway, even if he could understand
+you, the part of his mind that would be doing the understanding is
+the conscious part. Cognitive process-based teaching teaches nonconscious
+processes a good deal of the time.
+A child learns a lot more from falling down than he ever will learn
+from hearing Mom say, “Watch your step.”
+We are wired to learn from failure. Those who don’t learn from
+failure typically die young. We are descended from people who learned
+not to eat certain poisonous plants, and not to travel in a way that
+would expose them to danger, and to stay near their mates, and to
+protect their offspring. Those who didn’t do these things, those who
+didn’t learn from their own failures and from the failures of others,
+didn’t get to have surviving offspring. The human race exists precisely
+because it is capable of learning from failure, both individually and
+collectively.
+Did you ever wonder why what you learned in school isn’t still in
+your head, or why you can’t remember what your wife wanted you to
+get from the store on your way home? Or, why the things you have
+decided to do to improve your business or make more money or be a
+better person actually don’t ever get executed? The answer is simple:
+You can’t learn by listening—not from teachers, not from your wife,
+not from helpful suggestions from wise people, and not even from
+yourself.
+Why not? Because it is your subconscious that is in charge of executing
+daily activities—from swinging a bat, to driving home, to talking
+to people you want to make an impression on, to getting along
+with your wife. Your conscious mind can make decisions, but your
+Teaching Kids to Walk and Talk 17
+subconscious pretty well does what it is in the habit of doing. The
+subconscious is a habit-driven processor.
+Bad habits, as they say, are hard to break. Actually, all habits, good
+or bad, are hard to break. A new swing is really hard to develop, as is a
+new way of selling, or a new way of treating people, or driving a new
+route home.
+This is the real use of education: the creation of new habits. This
+can be done in only one way. The subconscious learns in only one
+way.
+The subconscious learns by repeated practice.
+The only teaching that can work, then, is the kind of mentoring that
+helps someone execute better while they are practicing.
+How is a high school football coach different from a high school
+history teacher?
+Before we attempt to answer this question, we need to consider
+why it is an important question to consider. In general, I think most
+people would agree that the behavior of these two types of teachers is
+likely to be quite different. In our mind’s eye, we see images of yelling
+and crude behavior versus refined lecture and discussion. But let’s get
+beyond the superficial stereotypes and think about what they teach
+rather than their style of teaching it.
+The history teacher at his worst teaches facts, and at his best teaches
+careful analysis of sources of facts.
+The football coach at his worst teaches that someone could never
+possibly do something, and at his best coaches someone to do something
+better.
+The history teacher teaches the conscious. The football coach
+teaches the subconscious.
+This makes sense if we view education (in school) as a conscious
+affair. It certainly seems to be a conscious affair. We discuss history,
+we don’t do history. And, it makes sense in football since the coach
+doesn’t need players who can discuss football—he needs players who
+can execute.
+It begins to make less sense when we consider how the conscious
+and the subconscious interact.
+As long as we see ourselves as rational beings who can think logically
+and make carefully reasoned decisions about our daily lives,
+then education indeed should be about the promotion of reasoned
+18 Teaching Minds
+deliberation and the gaining of knowledge that will enhance our ability
+to reason. But suppose this conception we have of ourselves and
+our ability to reason logically is simply wrong?
+Our entire education system depends on this debate. Actually the
+word debate is really not right here as there is no debate. The other
+side, the side that says we need to teach our unconscious because our
+conscious isn’t capable of listening, has not really been expressed directly
+very often. It is, however, indirectly referred to often enough.
+Plato comments:
+The most important part of education is right training in the
+nursery. The soul of the child in his play should be guided to
+the love of that sort of excellence in which when he grows up to
+manhood he will have to be perfected.
+Why should this be the case? Why should it be in the nursery where
+real training takes place? And, what kind of training could the nursery
+provide—the kind of the football coach or the kind of the history
+teacher? And, what can we learn about education by considering seriously
+what Plato said?
+The principles of learning in childhood are rather simple really.
+The first and most important part of an analysis of early childhood
+learning is an understanding of where the motivation comes from.
+If learning starts with a goal, as we have said, one question is, What
+goals do children have and how do they happen to have them?
+When people mention motivation, the word reward often is added
+into the discussion. What kinds of rewards do children receive and to
+what extent are these involved in learning? Bear in mind that there
+are three kinds of rewards: intrinsic, extrinsic, and systemic. If it makes
+me happy, I don’t need you to tell me I did well. If the activity doesn’t
+really matter to me (an algebra test, for example), I will need some
+outside reward to even try. When do kids learn because of the use of
+external rewards? If I do well on an algebra test, it might be that it
+gives me intrinsic happiness to know I did well at algebra. As a mathoriented
+kid, I did get that kind of reward. It also makes you happy
+when your parents are proud of you. And it makes you happy when
+your grades win you admission into Yale or get you something else
+you might want. Which types of rewards figure into early childhood
+learning and what can we learn from this about learning? And, what
+will this tell us about teaching?
+Teaching Kids to Walk and Talk 19
+Let’s start with walking and talking.
+Walking and talking are intrinsically rewarding. No kid needs encouragement
+to do either. They do have to be discouraged from crying
+when a word will serve them better. I want milk works better than wah.
+But they learn this quite naturally without very much parental help.
+They learn to walk when their parents hold their hands and cheer
+when they succeed, but they would have learned to walk anyway.
+The parents’ role as the teachers of their children can be seen very
+clearly when we consider walking and talking. Kids can learn to do
+either without much help, but they do these things quicker and better
+with parental help. Children who are spoken to by their parents, and
+listened to and corrected when they make an error, learn to speak well
+and more clearly as adults. While everyone learns to walk, parental
+care prevents falls when steps and other hazards present themselves.
+So, is the parent teaching the child? What does the parent actually
+know about how to teach walking and talking? Actually the parent
+knows quite a bit about teaching. We are wired to teach our children
+and help them. All higher level animals do this as well. It is not a particularly
+conscious process.
+So, at what point are children better taught by professional teachers
+instead of their parents? This is an important and interesting question.
+A professional teacher is better than a parent if and only if the
+teacher knows more about what is being taught than the parent does.
+Teachers may take education courses and that may seem to qualify
+them to teach, but really those courses are not so much about the art
+of teaching per se. Teachers learn to teach by teaching, like anyone
+else learns how to do anything. But teachers learn to teach in the
+system they find themselves in. This means that typically they learn
+how to manage classrooms and deal with administrators and handle
+various issues that are very specific to school.
+Teaching outside of school usually does not entail managing multiple
+children nor should it entail dealing with state standards and other
+governmental interference (although that often happens anyway).
+So, knowledge is the real issue in teaching, not teaching skill. Or
+so it would seem.
+Actually this idea is clearly wrong if one thinks about university
+teaching. Professors become professors by writing a Ph.D. thesis, not
+by learning anything about teaching. They may have some teaching
+experience prior to becoming professors because they may have
+taught an introductory course or two as graduate students, but nobody
+20 Teaching Minds
+teaches them how to teach. In fact, professors are not qualified to
+teach since they know nothing about teaching. They are hired by universities
+because of their research credentials, and teaching doesn’t
+matter much. There is some lip service about the subject but no one
+ever got hired at Yale as a professor because she was a great teacher
+who did no research.
+Here is a professor of computer science from a very highly ranked
+Big Ten university (he does not want his name mentioned):
+Every faculty member in the Department of Computer Science
+at my university thinks that their small insignificant area is
+important enough that all undergraduates must take a course in
+it. When you add all those courses up there is simply no time
+for a student to do anything other than take crazy courses in
+subdisciplines represented by the faculty in the department.
+Everybody’s course is a sacred cow. If you tried to put something
+new in, something would have to come out, and no faculty
+member wants his course to be eliminated.
+Professors are not there because they are good teachers.
+I certainly knew nothing about teaching when I became a professor
+at Stanford many years ago. But I hated seeing students bored and
+miserable and started to think about what the problem was and how
+I could fix it. Many professors do exactly this. They want to be good
+at something they do regularly and their pride makes them into good
+teachers. Not all professors do this, by any means. What does it mean
+to become a good teacher in that context?
+Professors are rated for their teaching ability. It is clear if one looks
+at those ratings what the criteria are from the students’ perspective.
+They rate the friendliness, fairness, enthusiasm, and even the “hotness”
+of their teachers. These ratings have been studied extensively and
+conclusions like this one are typical:
+While student evaluations of faculty performance are a valid
+measure of student satisfaction with instruction, they are not by
+themselves a valid measure of teaching effectiveness. If student
+evaluations of faculty are included in the evaluation process of
+faculty members, then they should represent only one of many
+measures that are used. 1
+Teaching Kids to Walk and Talk 21
+Professors and universities are very concerned about the evaluations
+of the teaching of the faculty and these days websites (like www.ratemyprofessors.com)
+make a very public show of how badly received
+some professors are. The professors are concerned with how they appear
+and whether they are liked and how all this might affect their
+salaries. They are not concerned with teaching effectiveness because
+they are not really teachers in their own minds.
+Let’s hear from an Ivy League professor (who also doesn’t want to
+be named):
+There are faculty here who study real-world phenomena and
+don’t know how to apply that knowledge to their own lives. We
+could teach students here how to make use of what we teach
+in their own lives, we just don’t. Right now the approach that
+is taken makes most of the information that professors impart
+useless. It doesn’t have to be that way.
+My colleagues here don’t even do what they are studying
+when they are out of the lab. They are not successful people in
+life. If someone studying memory had to remember something,
+would they make use of their own data? I doubt it. Many of our
+professors don’t realize that they may not know as much as they
+think they know. All these people assume that whatever they do
+is the best that can be done.
+When a child learns to walk, you cannot say you were very good at
+teaching her to walk. She would have learned to walk without your
+help, most likely. When you teach a child to play baseball, you can
+more easily say that you were a good teacher, but really who knows
+you didn’t screw him up with nonsense that it may take him years to
+undo? I was taught to step into the pitch in baseball and years later
+learned that what I was taught was wrong.
+College professors can be evaluated on effectiveness only if someone
+knows what that means. Does it mean how well students do on
+exams? We can make easier exams then. Does it mean how many of
+them get into Ph.D. programs at Harvard or how many get good jobs
+upon graduation? That likely has nothing to do with the effectiveness
+of the professors.
+There are no measures that make sense, for a very simple reason.
+College teaching doesn’t make much sense in the first place. Lecturing
+22 Teaching Minds
+and giving grades is certainly not a paradigm that any parent would
+use. You don’t grade your child on speaking ability; you help her speak
+better. If it takes longer to do that, then it does. Even the DMV doesn’t
+care about effective teaching. It doesn’t give grades, just licenses. Can
+you do it well? is the question the DMV is charged with answering. But
+can you do it well? isn’t a meaningful question in the top universities
+because there is typically nothing, other than research, that anyone is
+really being taught to do.
+This leaves us in a quandary when it comes to understanding what
+it means to teach well. Here is the Ivy League professor again:
+People need to learn to generalize the information that they are
+given. They need to learn how to think about content in order
+to see how that content may or may not be true for them. We do
+not do that here. Instead we teach that this is the way it is done.
+We have kids at mediocre universities who don’t know the
+facts and then we have kids at the good schools who know the
+facts but very few who know that those facts are not necessarily
+true. We need a different approach to knowledge than we
+currently have. By having students memorize the facts, it makes
+it seem as if the facts are truer than they actually are. We need to
+teach students to attack the facts and not to replace them with
+other facts.
+If facts are taught here in this way, and we are setting the
+standard, then we have a problem. Some faculty here actually do
+teach in this way, but it is not the main culture. Even the hardcore
+facts, like dates, are arguable. Students are not taught to use
+the information they have to question other information.
+If we are teaching something where there are no performance measures,
+then effectiveness cannot be gauged. If the performance measurement
+is based on an exam, this likely would not reflect on the
+teacher’s ability at all. Some students do well on exams and others
+don’t, even though they all hear exactly the same lectures. And, when
+there are performance measures, it is not always clear that it was the
+teacher who was in any way responsible for the success of the students
+(or their failure).
+So what is effective teaching?
+Teaching Kids to Walk and Talk 23
+If a teacher is better at teaching a child than a parent is, it must
+be because the teacher knows something the parent doesn’t know or,
+at least, doesn’t know how to teach. This makes the teacher more effective
+than the parent, but for very uninteresting reasons. You can’t
+teach what you don’t know, of course.
+But knowledge alone is meaningless because teaching is not about
+the transfer of knowledge. I realize that a great many people think that
+this is what teaching is about; except if that were the issue, students
+wouldn’t even think about rating their teachers on anything except
+how much they knew. And, by the way, that is about the last thing
+teachers are ever rated on.
+For the most part, teachers are rated by students on how entertaining
+they are. But entertainment and teaching are really not particularly
+related. They are not unrelated because you can’t get through to
+someone who has tuned you out. But you can entertain your students
+and get great ratings and still teach them nothing.
+Here is the Big Ten professor again:
+At a big state university, which one would think has an
+obligation to supply training to the students of that state in a
+major field in which students can readily find employment,
+the faculty could care less about that and they only want to
+do graduate teaching. We teach courses that are modeled after
+courses in the professor training schools like Harvard and MIT.
+But how many professors do we need?
+Superstars who bring a lot of funding are very important in
+the university. The superstar system made sense when there were
+superstars. But today how many of these superstars have really
+big ideas? Does my school really have any superstars at all? I
+don’t think so.
+The School of Education, where I am also on the faculty,
+has a research focus, which they do badly. Most of their
+students plan to be teachers. But they teach them the literature
+and not how to teach. It is the same situation as in computer
+science. They really want their students to become professors of
+education. They are not teaching teachers to teach because they
+don’t care about that. They look down their noses at teacher
+preparation schools. Ninety-eight percent of their undergraduates
+24 Teaching Minds
+want to become teachers but the faculty are focusing on their
+graduate students. They don’t teach the teachers. They do it, but
+it is not their focus.
+The average professor of education here understands that he
+is supposed to teach teachers to teach but he gets evaluated on
+his research not on the quality of teachers who come out. It is
+a research university. How many dollars do you bring in? How
+much do you publish? Where would quality of teacher training
+fit in that model?
+So, again, what exactly is effective teaching? Let’s look at two of the longer
+versions of what my former Ph.D. students and former employees
+wrote to me when I asked about good teaching. These stories each need
+some context in order to be understood, and then I will comment.
+The first story is from a Ph.D. student of mine who then continued
+to work with me for 30 more years.
+You were collecting key things teachers needed to know to do
+story curricula properly. Your contribution was “know when to
+lie to students.” That triggered all kinds of discussion, pro and
+con, leading eventually to a longer, more explicit statement
+about knowing when to oversimplify, etc.
+Reflecting on it later, I realized that “know when to lie to
+students” was the right way to say it. The rephrased version was
+too reasonable. It didn’t trigger any emotional reaction and reevaluation.
+“Know when to lie” is a lie, but that’s the point.
+Why is this story important? I placed it here because it reflects an
+important belief that I hold about teaching. At the moment to which
+he is referring, we were writing, as a group, a set of guidelines on how
+to teach Socratically using the online curricula we were building for
+high schools. We were, in essence, writing an instruction manual for
+teachers on how to teach in a new way. When I supervise very smart
+people who know perfectly well how to do things, I deliberately provoke
+them. I believe that my job is to make them think. There is no
+better way to make people think than by annoying them in a way that
+makes them defend their point of view, especially when their point of
+view may not have been well thought out.
+Teaching Kids to Walk and Talk 25
+It is important, when teaching Socratically, which is my preferred
+methodology, to make students question their beliefs. No one is a better
+teacher than a teacher who makes students wonder whether he has
+been wrong about something.
+Do I think that teachers should lie to students?
+I think teachers should make students think harder than they
+might have been capable of doing without the teachers. I also think
+that teachers should not tell answers to students. Students do not learn
+from memorizing answers. They learn from developing questions for
+themselves that they then can begin to find answers to.
+I believe that effective teaching makes . . .
+students develop questions to which they then will seek answers
+students look for answers from people other than the teacher
+students confused and less certain than they were before
+Now, I realize that these are pretty nonstandard ideas. That is, of
+course, the point.
+This next writer worked for me (after getting his Ph.D. elsewhere)
+in the academic world and later in the business world.
+Probably the most important lesson I learned from you was the
+value of overstatement and oversimplification in communicating
+ideas and getting people’s attention. I recently retired and was
+roasted at my retirement party by a group of longtime employees
+and there were some interesting anecdotes about what I’d taught
+them about selling their ideas through management. Software
+engineers are often uncomfortable making a point without
+giving every possible nuance, caveat, and detail. This typically
+causes management’s eyes to gloss over and their ideas never
+get a fair hearing. So, I’ve (apparently relentlessly) encouraged
+employees to make their points quickly and to use overstatement
+and oversimplification as rhetorical devices. I’m still wincing
+over the roasts that portrayed my predilection for interrupting
+presenters and asking, “What’s your point?”—I learned that one
+from you.
+26 Teaching Minds
+I most certainly taught the lessons this writer describes. I hated it
+when students couldn’t get to the point and I frequently interrupted
+them when they were speaking. In business, I make a point of saying
+things that are very simple, which tends to upset people. I find this a
+good way to start a conversation that addresses complex issues.
+Of course, I never actually say any of this. I simply do it. The real
+issue in teaching, by parents or by teachers or by anyone else, is the
+model you present to the students. That model is presented by what
+they see you do and how they see you act. They can choose to emulate
+you or not. But a good teacher makes students think about how to
+behave and about what works and what doesn’t.
+I believe that effective teaching makes . . .
+students think about how the teacher is behaving and causes
+the students to wonder about whether copying this behavior
+would be a good idea
+students think about what works and what doesn’t in the adult
+world
+This next writer is a professor at a major university. I hired him to be
+on the faculty at Yale, which was his first academic job.
+I teach by telling stories that are meaningful to me. I let them
+see who I am and how I live. I let them see what is important
+to me and why. To be a real teacher you have to let yourself be
+vulnerable. The student needs to see that you are a human with
+feelings and fears and goals. You are saying to students: This is
+the way I do it; it fits with who I am; it helps me be successful;
+and don’t let anyone tell you that you can’t do something.
+Everyone wants to control you, but in the end, you have to be
+you, for better or worse. So, don’t let anyone tell you that you
+can’t do something.
+I tell that story over and over and over again in different
+ways. About my research, about my company, about my family. I
+walk the talk.
+And, the students have to see that there are consequences
+of breaking the rules; that it costs; and the costs can be high
+Teaching Kids to Walk and Talk 27
+at times. But that’s part of the price of believing in yourself.
+Sometimes you get hurt and then you have to pick yourself up
+and try it again.
+This writer was writing about his teaching. I behave this way as well,
+and he knows it.
+I believe that effective teaching makes . . .
+students think about the stories the teacher tells
+students believe that their teacher is not a phony, so they can
+take what is said seriously
+students think about what it means to put oneself on the line for
+one’s own beliefs
+The next writer worked for me as a writer for many years. Her main
+career was, and is, as a concert musician.
+My high school English teacher was a great teacher. He was
+married to the Singer sewing machine heiress but committed
+to teaching kids. He had us keep a writing journal and was just
+excellent at helping me understand what was so personal to me
+that others wouldn’t be able to connect (or perhaps just plain
+sappy romantic drivel!) and what was “strong” and pertinent to
+everyone. I still have the journal and wince at what I wrote but
+still really admire his comments in the margins.
+In the future, in a world where online learning begins to preempt
+classroom teaching, mentoring will replace lecturing. Many teachers
+know how to mentor but often they are not given the opportunity
+or don’t take the time to do it. The teacher described above was a
+personal writing mentor, which is about the only way you can teach
+someone to write.
+I believe that effective teaching makes . . .
+students look more carefully at the work that they themselves
+have produced
+students believe that their teacher is their personal mentor
+28 Teaching Minds
+Here is the same woman, this time writing about how she learned
+music.
+My mentor, Otto-Werner Mueller, was conducting the Yale
+Philharmonia in the 1970s—I met him as an undergrad in
+Madison, WI. I attended his graduate seminars in Madison and
+spent a lot of time with him while he was in New Haven. He
+guest-conducted the Hartford Symphony (where I now work)
+twice in the past few years. (He is 83 now.) I spent hours and
+hours in “lab orchestra” watching him teach his conducting
+students, both in Madison and at Yale. What always struck
+me was how students were either so self-conscious they were
+wooden, or how they’d try to imitate Otto (who at 6 feet, 7
+inches had amazing stature) physically and couldn’t pull it off.
+Very few were able to incorporate what he was teaching and then
+make it their own.
+I believe that effective teaching makes . . .
+students look at what the teacher does and see how they can
+imitate it in a way that is consonant with who they are
+The next writer was a Ph.D. student of mine and is now a professor at
+a major university.
+Trust your intuitions. This was something you told many of
+us over and over. It has had three meanings for me—first, that
+the only right things to work on are those that I can imagine a
+solution to; second, that whether a way of attacking something
+is the right way or not, it will lead me to the right way; and
+third, go out on a limb. I can’t say how I learned this except,
+perhaps, through trusting your advice and then noticing that it
+got me to success over and over again. It began to really sink in
+when I had my own students. Often, the most interesting things
+they brought to me were more intuitive than they were based
+on what everyone else was saying. And I have had to reassure
+people that their ideas are good and they should follow up on
+them. Of course, there are also intuitions that my students have
+that I don’t think are good, and I don’t advise them to follow
+Teaching Kids to Walk and Talk 29
+up on those. So I think I now believe in trusting intuitions that
+someone I trust can also see value in, and for my students, trust
+intuitions that someone they trust can also see value in.
+I believe that effective teaching makes . . .
+students trust their own intuitions
+students trust their teacher’s advice
+The final two are a little different from the others. I included them
+because teaching is not always implicit, as the above stories indicate,
+but sometimes explicit. The next writer was student of mine who is
+now high up in a large corporation.
+You taught me that you always start by collecting data—so basic,
+but so often overlooked. I recall watching most of your papers
+start by collection of data. I recall watching your criticisms of
+work that was just abstraction on abstraction, with no data at
+its roots. For the work I’m currently doing, I have a log of all the
+types of entities (typically business or government enterprises),
+interactions (typically business models or sustainability models),
+and outcomes. I just gave five talks last week and used the
+method of “start by collecting data” when introducing my work
+and when being a critical thinker about the work of others that
+was being presented to me.
+This point is about how to do real research does not apply to everyone.
+But a more general form of this advice is to start at the beginning,
+which is usually useful advice. Knowing where the beginning is can
+be complicated, however.
+I believe that effective teaching makes . . .
+students understand how to begin a process
+students understand what you tell if you constantly demonstrate
+the value of what you tell them
+This writer was another of my Ph.D. students who is now a professor
+at a major university.
+30 Teaching Minds
+You taught me about the important role of explicit social
+hierarchies in a learning environment. At Yale the hierarchy was
+very clear and everyone knew exactly where they stood. You
+pay your dues before you join the club and academia is chock
+full of clubs. You taught this by both example and explanation.
+Seeing a good clear example of a social hierarchy that works
+(such as the one we had in our lab at Yale) gave me one level
+of understanding, but I had to see what happens when the
+hierarchy is not so obvious to truly appreciate the importance
+of the whole concept. Any longstanding community will have a
+social hierarchy, but it’s not always so obvious (especially when
+the community likes to pretend it doesn’t exist), and that makes
+it really hard on newcomers. I’ve seen some really stellar junior
+faculty get into difficult tenure decisions because no one was
+guiding them politically (or else they just blew it off). And more
+recently I’ve been running into more and more students with
+“entitlement issues” who just don’t seem to buy into any social
+hierarchies. There is a lot of social commentary on why this is
+happening and how the workplace needs to adjust to a whole
+generation of kids who always got trophies.
+I believe that effective teaching makes . . .
+students understand where they fit in the world in which they
+live
+students understand how to get ahead in the world in which
+they live
+students understand the roles of those around them
+There is certainly a great deal more that one could say about effective
+teaching. Unfortunately, much has been written on effective teaching
+that is not particularly helpful. Mostly it is politically correct advice
+that is quite difficult to implement. Here are two lists that I found. The
+first is from Learning to Teach in Higher Education. 1
+1: Interest and explanation
+2: Concern and respect for students and student learning
+3: Appropriate assessment and feedback
+Teaching Kids to Walk and Talk 31
+4: Clear goals and intellectual challenge
+5: Independence, control, and active engagement
+6: Learning from students
+The second is from a Michigan State website and was taken from a
+book by Arthur W. Chickering and Zelda F. Gamson entitled Seven
+Principles for Good Practice in Undergraduate Education. 2
+Principle 1: Good practice encourages student–faculty contact
+Principle 2: Good practice encourages cooperation among
+students
+Principle 3: Good practice encourages active learning
+Principle 4: Good practice gives prompt feedback
+Principle 5: Good practice emphasizes time on task
+Principle 6: Good practice communicates high expectations
+Principle 7: Good practice respects diverse talents and ways of
+learning 3
+Whenever I see phrases like diverse talents or ways of learning or active
+learning or active engagement I am very distrustful of the advice
+being offered. Active learning should mean learning by doing, but it
+never does because learning by doing is very difficult to implement
+in the university context (which is where this advice comes from). It
+is easier to do it in 1st grade, but after a while the class has to sit still
+and listen and that is not active learning no matter what the teaching
+guides say. Different learning styles is usually a way of saying, “some
+people are dumber than others,” which no one wants to say. What
+bothers me most about these kinds of lists is that they avoid saying
+what really needs to be said. It is nearly impossible to measure your
+success as an effective teacher because the performance expectations
+of students are almost always about test scores and very rarely about
+actual production.
+With this idea in mind, that effective teaching means helping students
+do what it is they wanted to do and not what it is that you wanted
+them to do, I will list the suggestions I have been scattering about
+in this chapter. Bear in mind that this is not meant to be a complete
+list. I got this list the way you saw, by interpreting things written by
+students and former employees about their own experiences.
+32 Teaching Minds
+Effective teaching makes . . .
+students develop questions to which they then will seek
+answers
+students look for answers from people other than the teacher
+students confused and less certain than they were before
+students think about how the teacher is behaving and causes
+the students to wonder about whether copying this behavior
+would be a good idea
+students think about what works and what doesn’t in the adult
+world
+students think about the stories the teacher tells
+students believe that their teacher is not a phony, so they can
+take what is said seriously
+students think about what it means to put oneself on the line for
+one’s own beliefs
+students look more carefully at the work that they themselves
+have produced
+students believe that their teacher is their personal mentor
+students look at what the teacher does and see how they can
+imitate it in a way that is consonant with who they are
+students trust their own intuitions
+students trust their teacher’s advice
+students understand how to begin a process
+students understand what you tell if you constantly demonstrate
+the value of what you tell them
+students understand where they fit in the world in which they live
+students understand how to get ahead in the world in which
+they live
+students understand the roles of those around them
+Now, taking my own advice about starting with the data and then classifying
+it, let’s look at these rules as a group. What exactly are they suggestions
+about? Broadly speaking, they fall into the following categories:
+Helping students think:
+students develop questions to which they then will seek
+answers
+students look for answers from people other than the teacher
+Teaching Kids to Walk and Talk 33
+students are confused and less certain than they were before
+students think about the stories the teacher tells
+Helping students observe and copy good behavior:
+students think about how the teacher is behaving and wonder
+about whether copying this behavior would be a good idea
+students think about what works and what doesn’t in the adult
+world
+students look at what the teacher does and see how they can
+imitate it in a way that is consonant with who they are
+Making students respect their advisors:
+students believe that their teacher is not a phony, so they can
+take what is said seriously
+students believe that their teacher is their personal mentor
+students trust their teacher’s advice
+students understand what you tell if you constantly demonstrate
+the value of what you tell them
+Teaching students how and when to take action:
+students think about what it means to put oneself on the line for
+one’s own beliefs
+students understand how to begin a process
+Teaching students to be good critics of their own work:
+students look more carefully at the work that they themselves
+have produced
+students trust their own intuitions
+Teaching students their place in the world and how to succeed
+in that world:
+students understand where they fit in the world in which they live
+students understand how to get ahead in the world in which
+they live
+students understand the roles of those around them
+34 Teaching Minds
+Effective teaching, then, means teaching these things:
+How to be a critic
+Whom to respect and copy
+How to know where you fit
+How to take action
+How to think
+The relevant question for a teacher, then, is: Does your teaching result
+in students who can do the five things listed above? There are many
+ways to get those things to happen for students. These, however, typically
+do not include lecturing, being entertaining, giving easy grades
+or easy tests, or marching students through boring exercises that teach
+them the truth.
+Effective teaching is made much easier, of course, if what you are
+trying to teach is something worth learning. So, let’s move on to discussing
+that.
+CHAPTER 3
+What Can’t You Teach?
+Nothing in education is so astonishing as the amount of ignorance
+it accumulates in the form of inert facts.
+—Henry B. Adams
+When children are born, they come with distinct personalities. Ask
+any mother of a second child. “It even behaved differently in the
+womb,” she will say. One kid is aggressive while the other is contemplative.
+One kid is constantly talking while the other hardly says a
+word. One kid is shy while the other is outgoing.
+Often, when we think about teaching and learning, we have the
+idea that if we want someone to do something, or know something,
+or behave in a certain way, all we have to do is teach it to them. So we
+teach kids to appreciate music, when they may have no interest in,
+or inclinations toward, music at all, or to act in the class play, when
+they are simply bad at acting, or to throw a baseball when they simply
+can’t do it and don’t care. Often, but not always, we are forgiving of
+the differences between people and their individual talents and we
+acknowledge that she is tone deaf, or he will always throw poorly, and
+we give up.
+Small children are like sponges. They ask questions constantly
+and, if they have reasonable parents, get answers. The belief system
+that children adopt is usually quite similar to that of their parents.
+They don’t decide to try out a different religion at age 5; they do what
+they have always known. They eat what they were fed and they like
+to go to places they have been taken. Parents influence every aspect of
+a child’s belief system. Because of that, we have the sense that we can
+teach children anything, but this gets less true as they get older. The
+Jesuits have a saying about teaching a child before he is 7 and thus
+producing the man he will become. There is some truth to this. If you
+really learn honesty when you are 5, it is unlikely you will become a
+crook. Your subconscious wouldn’t permit it.
+35
+36 Teaching Minds
+Then, what is the role of the subconscious here? When a child is being
+taught at 3, he is not being taught consciously. He does not memorize
+rules for walking or talking and he does not learn anything very
+much by consciously trying to learn. Rather, a child absorbs by constantly
+practicing and then making that practice a part of who she is.
+Later, when the subconscious attitudes about walking, talking,
+relating to others, family values, and all the rest, are well within the
+deep subconscious of the child, we begin the attempt to teach the
+child consciously. We worry when we hear, for example, that:
+About a quarter of teens questioned in the broad survey weren’t
+able to correctly identify Adolph Hitler as Germany’s chancellor
+during World War II. About 20 percent couldn’t say whom
+America fought in that war. 1
+More than a quarter wrongly believed Columbus sailed to the New
+World after 1750. Half didn’t know whom Senator Joseph McCarthy
+investigated. And a third had no clue the Bill of Rights is the source
+of freedoms of religion and speech. Nearly a third couldn’t tell you
+who said in a famous speech: “Ask not what your country can do for
+you . . . .”
+Until a child enters school, he has been learning things that are
+useful to him. He knows where his toys are and how to play with
+them; he knows how to get food; he knows how to get his parents to
+do what he wants (perhaps); he knows how to entertain himself. In
+short, he has learned what he has learned because he has found his
+new abilities to be of value.
+And the history cited above? Of what value is it to know about
+Joe McCarthy? Not only is it of no value to a child, but what we know
+about McCarthy is slanted by whoever is writing the history and biased
+by whatever point the person is trying to make. It is all very well
+to tell students the truth about what happened in the past and assume
+that they will learn from it, and therefore not repeat it, but we can’t
+easily know the truth and they are not likely to learn much from the
+telling anyhow.
+Pundits scream and yell about what children don’t know. The
+question is: Why do they need to know it? If the answer is that it
+makes the system happy that they know certain facts while not making
+the child in any way happier, we all can guess how well that is
+going to turn out.
+What Can’t You Teach? 37
+The bottom line here is one of initial belief systems and
+fundamental personality characteristics, coupled with the notion of
+truly held goals. You cannot teach someone something that:
+• does not help them achieve some goal they actually hold
+• is not in line with their fundamental personality
+characteristics
+• goes against their subconscious beliefs
+You can try, but you won’t succeed.
+So the question of what you can’t teach, which is very important
+when we think about teaching and learning, comes down to a question
+of whom the child has become because of what she learned prior
+to the age of 7, and what she was anyway when she exited the womb.
+Those two things are powerful enough even if you don’t add in trying
+to teach something that in no way relates to any goal the child has.
+This is even more true for adults, of course. We can try to teach
+adults things that are at odds with who they are as people, but good
+luck with that.
+Traits may come with the child, or they may have been learned
+by the child prior to the age of 7, but it really makes no difference
+when we are discussing teaching. Personality cannot be changed.
+Core beliefs are very hard to change. Interests are hard to change,
+although new ones can be found. Clinical psychologists try to make
+small changes in these aspects of people but they have a very difficult
+time doing it.
+But my point here is to address an issue in education and training
+that is not well understood. Simply stated it is this: It is not possible to
+teach or train students to do things that are not in line with who they are as
+people. This matters because much of what we try to teach in school
+and train for in companies is an attempt to alter behavior.
+I have been building what have come to be called e-learning systems
+for about 25 years. Over the years, I have realized that there is
+nothing new under the sun in the subject matter that e-learning systems
+are asked to address. One of my least favorite subjects, one that
+comes up frequently, is integrity and compliance. I have been asked
+to work on this subject quite often. Usually what is being asked is impossible.
+Most e-learning companies simply do what they are asked to
+do by the client without pointing out—if they even know—that what
+they are being asked to teach can’t be taught. Companies that need
+38 Teaching Minds
+to train their employees in such things, because of some regulation or
+other, ask for it, and e-learning companies willingly build it.
+Unfortunately, as my mother would have attested to, were she still
+around, I was born with off-the-scale honesty. I can’t build e-learning
+I know won’t work any more than I was able, when I was 5, to let my
+mother walk out of a store without paying (by mistake) without becoming
+hysterical.
+So, now I am hysterical about fraudulent education and fraudulent
+e-learning—namely, courses that claim to teach subjects that alter the
+very nature of a person. Of course, such courses don’t say that is what
+they are trying to do, but it is pretty much the basis of courses about
+safe driving or drugs or sexual behavior, or how not to violate the law.
+How is training about compliance an attempt to alter basic
+behavior?
+Recently I was presented with an opportunity to teach integrity
+and compliance to the employees of a large company that bids on
+RFPs. The bidding process is part of a legal process and the company
+wants its employees to stay within the guidelines.
+Fair enough. Makes sense.
+Except, when you look at the guidelines, they include an array
+of rules spelled out in a complex document, typically a signed legal
+contract for potential bidders. To know those rules, one would have
+to read the contract. In effect, the company wants to train people to
+read, and pay careful attention to, the contract. The company wants
+to do this by putting employees in fictitious situations in which someone
+has not read the contract and this failure to read causes serious
+difficulties for the company when the employee violates a rule he
+didn’t know about.
+Much of e-learning is like this. You are the manager of a large
+project, which needs to finish on time, and is over budget. Do you:
+• steal money
+• lie about the time you have spent
+• tell the company it can keep the damn project
+• carefully explain to your superiors the problems that exist
+and let them decide
+Do people learn from stuff like this? Of course not. But everyone feels
+better after producing it. At least I assume they do.
+What Can’t You Teach? 39
+If this stuff makes people happy, then build more of it, by all
+means. But if we want to address real issues, we need to discuss personality
+and how to deal with it.
+I have insisted, as long as I have been discussing education, 2 that
+learning has to be experientially based. I proposed building complex
+social simulators 20 years ago, and this has come to be understood by
+the e-learning community as telling people they are in a situation that
+they may or may not relate to instead of actually putting them into a
+very realistic simulation of that situation. The reason they do it that
+way is money, of course, but something gets lost in the translation.
+What is the difference?
+Suppose that I tell you that you are a baseball player in the major
+leagues and your team is down by one run with one out in the bottom
+of the ninth with the bases loaded. I then give you a set of multiple
+choices about what to do on the first pitch (like, a—take the first pitch,
+b—look for a fast ball, etc.). What is the problem with this? There are
+right answers about what to do, but they depend on many variables
+(Do you know this pitcher’s habits? How have you been hitting today?
+How fast is the guy on third?). Pretending that we can abstract a situation
+with a simple description and then suggest there is a right answer,
+is absurd. But more important, if you have never actually been in that
+situation, if you have never played baseball, your comprehension of
+the unmentioned details is likely to be zero. Attempting to teach anything
+through short descriptions of situations followed by multiple
+choice answers is just dumb.
+Why, then, do e-learning companies keep on building courses that
+sound like that? Usually the answer is that corporations that don’t
+know any better asked them to.
+What does this have to do with altering basic behavior? I do indeed
+play baseball, as I have said, and what I would do in that situation
+depends on my personality in many ways. It also depends on
+an accurate assessment of my own abilities. What it doesn’t depend
+on is deep thought. Professional athletes do not become professional
+athletes owing to their superior cognitive abilities. They have superior
+physical abilities and rely on instinct for thinking. They do what they
+“know” to do. They don’t think it out. Coaches try like crazy to get
+them to think it out, but you often can find a 20-year professional veteran
+getting chewed out by his coach and being asked, What were you
+40 Teaching Minds
+thinking? Nothing. He was thinking nothing. Correct action is rarely
+about thought, especially when little time for thinking is available.
+So, then, how do we teach people to do the right thing, especially
+when the right thing is not in line with their normal behavior?
+Can we teach nurturance, or aggression, or extroversion, or orderliness?
+I hope that it is obvious that we cannot do this. People are
+born with these characteristics. They are not learned. Ask any parents
+of more than one child. They will respond that their children had
+certain personality traits that were apparent from birth. My grandson
+Milo is a neatnik. Everything has to be in its place. Also, he loves to
+perform in front of an audience. His parents do not share and did not
+teach him these behaviors. The degree to which we have such traits
+defines our innate personalities. So, we need to translate this question
+into one we can answer.
+The real issue is one of degree and not of kind. You will never
+teach someone who is fundamentally dishonest to be very honest,
+or vice versa. You will never teach someone who is very aggressive to
+be very passive. What you can do is make people aware of the consequences
+of their actions and hope to change their behavior slightly,
+when they have the time to think about what they are about to do.
+You can make people aware of their behavior, and their rational selves
+can direct what they do, if they have time to think about. But their
+subconscious is likely to want them to behave differently, and it is
+their subconscious that is usually in charge in a pinch.
+Someone who hates details is not a good candidate for being
+taught to read contracts in detail. Similarly, someone who loves details
+is not a great candidate for sales rep. (Why? Because being very
+people-oriented is actually a characteristic that never goes hand in
+hand with being detail-oriented.) So, it is not uncommon for companies
+to be faced with the arduous task of training their salespeople
+to pay attention to detail. Telling them to hire differently is hopeless,
+because people who are both very detail-oriented and love engaging
+people socially do not exist. Accountants don’t usually win personality
+contests. What to do?
+This is indeed a job for teaching but not for teaching of the usual
+sort. To see what kind of job it is, we need to think for a moment about
+how the mind works. Specifically, we need to think about how the
+unconscious learns to make decisions.
+What Can’t You Teach? 41
+If you have a character trait, say, honesty, you have had to come
+to grips over the years with its upside and its downside. People appreciate
+you for being honest, but not when they ask you if they look
+good after they have spent an hour dressing (I speak from experience
+here). People dislike dishonesty but not when it helps get a deal closed
+because you said you loved a restaurant that you really hated. We have
+mixed feelings about honesty, as we do about any personality characteristic.
+We like friendly people but we dislike overly friendly people.

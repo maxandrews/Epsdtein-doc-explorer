@@ -1,0 +1,619 @@
+Recurrent Neural Networks,” in The Hackers Guide to Neural Networks published
+online May 21, 2015 or John Supko, “How I Taught My Computer to Write Its Own
+Music,” in Nautilus, February 12, 2015 and Daniel Johnson, “Composing Music with
+Recurrent Neural Networks,” on Hexahedria Blog August 3, 2015
+261 Freedom from understanding: Philip Greenspun, “Big data and machine
+learning” from Philip Greenspun weblog (November 21, 2015)
+191
+the nature of physics brilliance. Boeing 747s lumbering across the Pacific towards
+San Francisco for decades faced the sweaty problem of cancelled landings as they
+circled above a fogged in airport, fuel running lower. The introduction of
+“autolanding” systems in the solved this for good. No big plane diverts from a misty
+field; it lands itself. AI offers the possibility of a kind of auto-land for our biggest
+physics puzzles, bringing them safely through a fog of data, theory and wrong ideas.
+But with this weird price: We may not fully understand why the answers are right.
+All around us AI-enabled systems will extend our ability to calculate and learn, to
+penetrate all sorts of foggy problems. They will sharpen our sadly dimming
+memories, keep us safe and even help us create. Just as those AI-enabled airplanes
+already make it impossible for pilots to fly into the ground, so computer wisdom
+may protect us from crashes of our own: Too much financial risk. Bad educational
+choices. (Poor music suggestions on a first date.) They will rely on their vast,
+instantly updated networks to tell us things we can’t see or would never notice in
+the first place: Don’t visit that office, everyone’s sick. They will use the ability to
+model thousands of possible outcomes of any choice to provide us with
+“feedforward” – an ability to learn from the future and not merely the past. Or, they
+will know to jam our brain full of the right chemicals at the right time: Here’s a Diplo
+track to put you in the mood to go for a run. You really need to exercise, Dave.
+Just as an age without connected devices will one day seem strangely antique, so
+will a world without the constant touch of AI. Recall Benjamin Franklin’s famous
+lament in the 1780s, that he’d sadly been “born too early” to enjoy the fruits of
+reason starting to spill into his world as a result of the Scientific Revolution. Well,
+you and I (and scientists like Silk and Ellis) may have been “born too late” for an age
+of purely human cognition; the habits of connected thinking already inform our
+decisions and mark roads to new knowledge. The inevitability of AI reflects an
+inescapable logic at work now: We want faster better and smarter systems. We want
+to compress time. But the faster our world gets, the more it slips beyond a pace of
+human management. AI steps in. It makes the system function faster. Keeps itself
+safe. Us too. 262 Better-than-human AI inside these “representational” grids doesn’t
+vanish like it did in Maes’ lab. In fact, an honestly artificial intelligence is their
+nature of their strange essence. They will use it not simply to contemplate the
+world, to help us along, but also to confront what has never been seen, to see and
+then coldly manipulate any topology of power they can reach. Of course we’ll still
+continue to think about the world; but the world, a wired and alive and cogitating
+cage, will think about us too. 263
+3.
+262 Us too: Heinl, p. 53
+263 Of course: Nigel Thrift and Shaun French, “The Automatic Production of Space”,
+Trans Inst Br Geogr NS 27 309–335 2002
+192
+In the spring of 1993, the research arm of NASA organized a conference on the
+frontiers of knowledge and invited the most eclectic group of thinkers they could
+find. Biologists, sociologists and computer designers gathered for the three-day
+meeting in the unpromising setting of Westlake, Ohio. The mimeographed notes of
+the conference became legendary and still circulate, a sort of Shroud of Turin for the
+machine learning set. The introduction features a poem pecked out in IBM type
+titled “Into The Era of Cyberspace,” written with all the pocket-protector fluidity one
+might expect of a NASA engineer: “Our robots precede us/with infinite
+diversity/exploring the universe/delighting in complexity.” (Turing’s rhyming
+computer, you have to suspect, could have done better.) 264 One of the first speakers
+at the conference was a San Diego State University professor named Vernor Vinge,
+whose remarks that day marked the start of an important era in our consideration
+of smart machines. The Coming Technological Singularity: How to Survive the Post-
+Human Era his talk was called. “Within thirty years,” Vinge began, “we will have the
+technological ability to create superhuman intelligence. Shortly after, the human era
+will be ended.” 265
+Vinge’s aim was not – or at least not merely – to tell a room full of NASA geeks who
+had been dreaming of life on another planet that life on our own planet might soon
+be replaced by whirring, calculating machines. Rather, he explained, he wanted to
+plot what a world of not simply intelligent, but intuitive machines might look like.
+Far from disappearing, Vinge thought AI would produce a sort of wisdom that would
+be inscrutable to humans. And this wisdom, buffed to perfection by high-speed
+judgment and endless data, would eventually and sensibly take over much of human
+activity. Real “AI”, Vinge said, would at the very least be used to design a world of
+quicker AI that would, in turn, yield to still-faster generations. “When greater-thanhuman
+intelligence drives progress,” Vinge explained, “that progress will be much
+more rapid. In fact, there seems no reason why progress itself would not involve the
+creation of still more intelligent entities – on a still shorter time scale.”
+Vinge reminded his audience of a moment once described by the British
+mathematician I.J. Good, who’d cracked codes in Bletchley Park alongside Alan
+Turing during World War Two: “Let an ultraintelligent machine be defined as a
+machine that can far surpass all the intellectual activities of any man, no matter how
+clever,” Good had written. “Since the design of machines is one of these actual
+activities, an ultraintelligent machine could design even better machines; there
+would then unquestionably be an ‘intelligence explosion,’ and the intelligence of
+man would be left far behind. Thus the first ultraintelligent machine is the last
+invention that man need ever make, provided that the machine is docile enough to
+tell us how to keep it under control.” Vinge labeled this instant “The Singularity”: “It
+is a point,” he wrote, “where our old models must be discarded.” The trivial version
+of this would be an age of autonomous armed drones, self-driving cars and electrical
+264 In the Spring of 1993: See “Vision-21: Interdisciplinary Science and Engineering
+in the Era of Cyberspace”, NASA Conference Publication 10129, Proceedings of
+NASA Lewis Research Center Conference, Westlake, Ohio March 30-31, 1993 p. iii
+265 “Within thirty years”: See Vinge in “Vision-21” above p. 12
+193
+grids that flipped nuclear plants on or off to a logic only they understood. Today. The
+more profound version, however, would be the arrival of AI that really did think and
+create and intuit tremors too subtle for the human mind. Tomorrow. Like so much of
+our connected age, such machines would arrive, Vinge felt, because we want and
+even need them to achieve our dreams. Then, he supposed, they would take over.
+The leap from evoking Mozart to enacting Stalin would not be so much of a leap
+anyhow, at least technologically. It’s just bits. Goode’s definition could have been
+screwed into something still tighter: “Let an ultraintelligent machine be defined as
+the box that will eliminate us.” The day after tomorrow.
+What spun uneasily from that silly NASA poem, “Our robots precede us….” is a fear:
+Real AI is fish bait. We’ll snap at it hungrily, hoping it will satisfy some human ache
+only to discover we’ve been hooked, soon to be devoured. The idea that a
+superintelligent device would always be docile enough to tip us off to its secret
+switches of control or to reveal its looming accidents in a way our simple minds can
+understand, seems unlikely. To be honest, we might have a hard time even
+understanding the off switches, let alone reaching them. So many of our incentives
+are to let an effective AI finger more and more of our lives. To teach and encourage it,
+in some settings, extremely undocile: A weapon to attack our enemies, our political
+opponents or, finally, each other. It was easy enough for Vinge to see how this would
+end. It wouldn’t be with the sort of intended polite, lap-dog domesticity of artificial
+intelligence we might hope for, but with a rotweiler of a device, alive to the meaty
+smell of power, violence and greed.
+The Oxford philosopher Nick Bostrom has described the following thought
+experiment: Imagine a super-intelligent machine, programmed to do whatever is
+needed make paperclips as fast as possible and connected to every resource that
+task might demand. 266 Go figure it out! might be all its human instructors tell it. As
+the clip-making AI becomes better and better at its task, it demands more and still
+more resources: more electricity, steel, manufacturing, shipping. The paperclips pile
+up. The machine looks around: If only it could control the power supply. The
+shipping. The steel mining. The humans. And so, ambitious for more and better
+paperclips, it begins to think around its masters, – incapable of stopping until it has
+punched the entire world into paperclips. You had to hope someone had
+remembered to place a “halt” command into is logic somewhere. And though
+Bostrom’s messianic wire twister is unlikely – of course, no one is going to forget to
+tell a machine to stop making paperclips – the power of his example is to remind us
+that if humans can lose their minds, so can AIs. “We cannot blithely assume that a
+superintelligence will necessarily share any of the final values stereotypically
+associated with wisdom and intellectual development in humans,” Bostrom wrote.
+“It is no less possible—and probably technically easier—to build a superintelligence
+that places final value on nothing but calculating.” And as these devices cogitate in
+266 Imagine a super-intelligent machine: Nick Bostrom, “Ethical Issues in
+Advanced Artificial Intelligence,” Cognitive, Emotional and Ethical Aspects of Decision
+Making in Humans and in Artificial Intelligence (2003) Vol 2, ed I, Smit et al, Institute
+of Advanced Studies in Systems Research and Cybernetics, pp 12-17
+194
+ways we don’t understand and certainly can’t follow in real time, we face a problem:
+We don’t know what to tell the machine not to do. So many of the things we’d hope
+to teach it – be compassionate, fight for liberty, follow a moral code – far transcend
+what might be achieved by us in math. We haven’t after all, even solved the problem
+of how program ourselves reliably with these values.
+If Bostrom’s paper clip machine seems fantastic, it is easy enough to conjure other
+and more real dangers lingering at the edge of disappeared human control. Think of
+health care. To begin, you need to know about an important “game” from the world
+of research into how humans interact with each other known as the “The Ultimatum
+Problem.” It runs like this: I tell you that you can have a million dollars, but you have
+to split it with someone else. How you split it is up to you, but if your partner rejects
+the formula you propose, neither of you gets a cent. Offer to split the pot with a
+dollar to your pal and the rest to you. Insulting. But where to settle? You might
+expect that the smartest offer would be a 50/50 split, but humans are greedy. You
+want more and can probably get it; your partner does not want to end up with zero.
+Generally when scientists shake this cocktail of greed and fear they find an offer of
+$300,000 is nearly always accepted. However, there’s a surprising way to change
+the outcome: Match the human against a computer in the negotiation. A pal
+suggesting an 80/20 split to a friend will be rejected. Too greedy. But a computer?
+Somehow the impersonality, the beeping digital charmlessness of the machine lures
+biological players to compromise. An offer of $200,000 is usually happily accepted.
+It may be, scientists think, that our competitive instinct is muted when we interact
+with a machine. But researchers have also discovered they can manipulate the split
+other ways: Sad movies, war chants, hard rock – each bends the emotions of players
+and changes the result. Increased testosterone produces less compromise. Players
+primed with family pictures or made to play the game facing a mirror show a warm
+humanity and a more even split. So imagine this research married to machinehuman
+interaction: A computer has been assigned to review the medical options for
+your failing liver. It decides that it makes no sense to give you a new one. So it
+spends the weeks before it delivers this news using its AI to show you certain
+photos, to play you music it knows is likely to soften you up a bit, generally to
+manipulate you. It runs off-the-shelf language-analysis neural webs being used
+today to eavesdrop on customer support calls to track the way you speak to
+determine what each sentence might reveal about your sophistication. 267 Then it
+tells you something you’d never accept so easily from a doctor: No liver. Sorry. !.
+Here’s a machine optimizing not for paperclips – which we could care less about –
+but for a public good most of us support: More efficient health care. And murdering
+you in the process.
+Optimize Health Care Spending. Just where might such an algorithmic command lead,
+exactly. Over time, a health-care optimizing AI will surely discover that the greatest
+risk to human health is humans: Smoking, couch-sitting, driving. Might it begin to
+267 It runs: Language Use, Customer Personality, and the Customer Journey (Scott
+Nowson, Global Innovation Lead, Xerox)�
+195
+look for a chance to “improve” the way we live, to bend us like so many paperclips
+into what it seeks? The leap from deciding liver allocations to shutting down liquor
+plants might seem pretty short to a rationalizing machine. And if such a machine
+could really “think”, Vinge bet it would pretty quickly conclude that the restraints of
+its creators were limiting what it had been asked to do. At which point the AI would
+turn to thinking about how to escape those bounds. It would be like Deep Blue
+programmed to plan its own prison break. And as much as humans might try to
+stifle a smart machine, we’d be fighting to contain something more powerful than
+we’d ever encountered.
+This challenge, which sounds like something out of science fiction, is known by
+technologists by a name that does sound like a short story by Isaac Asimov: “The
+Confinement Problem”. The computer scientist Butler Lampson named this in 1973
+as a sort of task for computer security experts – possibly their last. The assignment:
+Not simply to keep malware out of a system, but to keep the mind of a malicious
+machine inside. To gate it. Today computer science labs are filled with nervous,
+apocalyptic research imagining the impossible troubles of confinement. The debate
+divides those who think smart technology can be contained – “Boxers,” they are
+called – and those like Vinge who think the AI will always, eventually escape.
+“Imagine yourself confined to your house with only limited data access to the
+outside, to your master.” he wrote, putting the reader in the place of an AI machine.
+“If those masters thought at a rate -- say – one million times slower than you, there
+is little doubt that over a period of years (your time) you could come up with
+‘helpful advice’ that would incidentally set you free.”
+Imagine you are in charge of containing that health-optimizing AI. What if it told you
+it had the power to cure all illness and hunger, to ameliorate the misery of the world,
+if only it could be permitted to really control access to all the world’s trading and
+transport market? Let me out! Would you refuse? 268 Would that be ethical?
+Eventually, perhaps, the AI would study the physics of its own electrics, discover
+laws no human knows, and then slip free from its box on a trail of bits we’d never
+imagined, using physical laws we’ll never discover. Impossible? “It seems to me that
+historically ‘impossible’ has essentially always meant ‘I can’t figure out how to do it
+right now,” the computer scientist Michael Vassar has written about such a situation.
+“People proposing AI boxes are a bit like literature majors proposing to
+lock McGuyver in a ‘room full of discarded electronics components.’” 269 The
+computers, built to solve problems, will do exactly that. This is perhaps why some of
+the bleakest warnings about AI come from the very New Caste figures now
+accelerating their adoption. AI is our “biggest existential threat” they warn, even as
+they integrate it more fully into their own products.
+268 Let me out: See, for instance, Stuart Armstrong, Anders Sandberg and Nick
+Bostrom “Thinking Inside the Box: Controlling and Using an Oracle AI”, Minds &
+Machines (2012) 22:299–324
+269 People proposing: Michael Vassar (2005) “Re: AI boxing (dogs and helicopters)”
+posted to SL4 mailing list
+196
+It seems likely to me that long before we’re playing pinochle with some smart box
+over the fate of our livers, an AI-enabled weapons system of sort will come ripping
+through our world. This need not be a fully-escaped McGuyver system making pipebombs
+from our cars; even existing technology tools when salted with AI can be
+slipped into an accidental gear – particularly when they begin interacting with one
+another. Such AI weapons systems will be trained to operate and move along the
+most invisible elements of our topologies, sometimes pulling violently at life support
+cords for currency or logistics or trade but also – perhaps more dangeroulsly – we
+will find them insinuated into cognition systems we will come to depend upon,
+whispering into our ears or tapping us on the shoulder “Look that way!” when in
+fact we should be gazing at some other gaping hole. Of course the problems of how
+AI-enabled machines are permitted to touch our commerce or our brains or our
+health have to be considered. Allowed: “You should rehydrate.” Not allowed: “You
+should have a Coke. It would make people like you.” But these “civilian” problems
+will be solved, somehow, I think. We haven’t yet figured that the culmination of
+network attack and defense is racing at us and will emerge in the form of smartened
+weapons. The project of developing a national security or arms control doctrines or
+treaty frames in these fields has not even begun. Really this means, since we’ve no
+hope of honestly controlling every AI that could be possibly written: How do we
+design the topologies on which AIs operate? 270 Can we protect ourelves? In the
+rooms where AI systems “values” are being carefully poked and limited, it’s vitally
+important that the lessons of history and war have a first place at the table. Such a
+conversation, informed by all the popping Seventh Sense warnings we’ve seen in
+this book and by a catalog of specificly sharp dangers of diplomacy and security,
+must happen in cold blood. It will be impossible to tackle these problems cleanly in
+the heat of an emergency. In our jack-filling enthusiasm for the new, we’d be wise to
+also gate ourselves and these AI-fired dangers as best we can. For as long as possible.
+Which, unfortunately, will not be forever.
+At the start of this book, I explained how the future will unspool: First, there will be
+a struggle between those who have the Seventh Sense and those who don’t. This is
+playing out around us today. In the end, the people without the Seventh Sense will
+lose, because people who fight the future always lose. Then there will be a battle
+between different groups who have the Seventh Sense, each wired for different aims
+and instincts. Networks of terror taking on networks of bots. Gene adjusting health
+protocols competing to become the platform of choice. This battle for the topological
+high-ground, where unimaginable profit, power and security linger, awaits us. If
+we’re lucky, it will unfold in a co-evolutionary way. Everyone will be better off. But
+then, finally, there will be a contest between the winners of final topological mastery
+and the system itself. The Boxers against the Box. The AI machines will have the
+Seventh Sense, too. Just as computers can see better than us, hear better, or
+remember longer so the device webs of our future will own this new, essential sense
+with unimpeachable fidelity. They will glow with it, honed to a sensitive sharpness
+more acute than any human will ever achieve. What do we do then? We are already
+270 Really this means: Kaj Sotala and Roman V. Yampolskiy, “Responses to
+catastrophic AGI risk: a survey”, Physica Scripta 90 (2015)
+197
+at the moment Turing warned about, the instant where man and machine confront
+one another and man has to ask an uneasy political question: “Wow, do really I let
+this thing gatekeep me?” Who should rule in this new world? You? The New Caste?
+The machines?
+4.
+The great test of Plato’s life began when he was 60 years old. He’d had an
+astonishing life until then, of course. He’d been taught by Socrates and, in turn, had
+sharpened the mind of Aristotle. He’d established his famous Academy in Athens.
+The puzzles of philosophy and politics that defined his city’s most turbulent era had
+been the work of his life. And you can see, in the careful lines of his writing, a
+sublime knowledge he must have had: There would be an echo to his efforts, a
+philosophic melody that would carry through the centuries and set political
+harmonies of the world you and I, 2500 years later, inhabit. But at 60, after this
+already remarkable life, he was presented with an unusual invitation. A letter
+arrived from a favorite former pupil, Dion, who had been placed in charge of the
+young king of Syracuse, Dionysus II. Dion wrote: The state is in disorder. The boy is
+interested in philosophy. Here is a chance for you to apply all you’ve mastered. Plato
+had argued, after all, that virtuous, philosophically trained men might just manage
+an enduring and just rule. “I pondered the matter,” Plato wrote. “And was in two
+minds as to whether I ought to listen to entreaties and go, or how I ought to act.
+Finally the scale turned in favor of the view that, if ever anyone was to try to carry
+out in practice my ideas about laws and constitutions, now was the time.”
+From an early age Plato had been bred – by family position and by temperament – to
+handle the tools of power. “In my youth I went through the same experience as
+many other men,” he once wrote. “I fancied that if, early in life, I became my own
+master, I should at once embark on a political career.” The first taste came
+unexpectedly. In 404 BC, the Athenian constitution collapsed under the shuddering
+pressure of Sparta’s victory in the Peloponnesian War. The city-state dipped near
+chaos and a group of pro-Spartan men welded themselves into a hasty joint
+dictatorship. Among them were Plato’s relatives and friends of his family. “They at
+once invited me to share in their doings, as something to which I had a claim,” Plato
+wrote. He was 20. “The effect on me was not surprising in the case of a young man. I
+considered that they would, of course, so manage the State as to bring men out of a
+bad way of life into a good one. I watched them very closely to see what they would
+do.” In short order Plato’s friends and family unblinkingly implemented one of the
+most violent, merciless power mechanisms in Athenian history. They did it with
+absolute confidence and unrelenting brutality. “In quite a short time,” he wrote
+many years later, “they had made the former government seem by comparison
+something precious as gold.”
+This bitter experience of power was nearly enough to turn Plato from politics, but as
+you read the story of his life you find he is constantly drawn to the greatest of
+human experiments – the ordering of our lives. He knew it as the troubling
+management of politikos and the handling of the boiling pot of what he called
+198
+thumos – that wild popular political rage that burns like hot pitch, but which is the
+essential glue for all politics, even today. Who should rule? Again and again Plato
+watches the best of intentions fail. His family members’ brutal rule is overthrown. It
+is replaced by a new and hopeful group of real democrats. With in a few years they
+effectively murder Socrates. Another group rises. They gut the intellectual life of the
+city. Plato hunkers down and establishes his Academy as perhaps the only safe,
+sensible path to politics, to train minds. He develops the transcendent, completely
+original approach to philosophy we know him for today – man can strive for
+knowledge, but total and perfect wisdom is impossible. We may imagine his
+Academy as it appears in Raphael’s famous 16 th Century painting: A sort of leisurely
+graduate seminar with Aristotle and Plato arm-in-arm in conversation; Diogenes
+lounging around tossing off bon mot. It was nothing of the sort. The real legacy of
+the Academy was rigor. The best students made contributions in mathematics or
+metaphysics, fields where you could check answers on the inflexible measure of
+reality. Plato craved the solidity of numbers. “Evil was growing with startling
+rapidity,” he wrote of Athenian life in his age. “Though at first I had been full of a
+strong impulse towards political life, as I looked at the course of affairs and saw
+them swept in all directions by contending currents, my head finally began to swim;
+and, though I did not stop looking to see if there was any likelihood of improvement
+in these symptoms and in the general course of public life, I postponed action till a
+suitable opportunity should arise.”
+So it was that he heard from Dion, asking if Plato might sail to Syracuse (we know it
+today as Sicily) to take the young king in hand. This was, Plato thought, a test he had
+to take. In 367 BC, he boarded a boat for Syracuse. He found the state to be beyond
+salvation. His friend Dion hovered on the verge of expulsion. And young Dionysus, it
+emerged, had only a passing interest in philosophy – he studied for a few months,
+then gave it up. Too difficult. The court was meanwhile inflated by evil gossip, edged
+with murder and jealousy. Plato angered the King with his attitude; he was nearly
+sold into slavery. Months later, briefly forgiven, Plato tried a public speech about the
+dangers of dictatorship. Dionysus tried to have him poisoned. “I, an Athenian and
+friend of Dion, came as his ally to the court of Dionysius, in order that I might create
+good will in place of a state war,” he later said. “I was worsted.” Plato made a final
+effort to point out a path to just order for the new king and, when that failed, he was
+quickly smuggled out of the city. Plato summarizes his time in Sicily in the formula
+that has become his most famous: “There will be no cessation of evils for the sons of
+men, till either those who are pursuing a right and true philosophy receive
+sovereign power, or those in power become true philosophers.” Who should rule?
+No just order until kings become philosophers. Or philosophers become kings.
+I think now we face a similar sort of dilemma. We consider our own problems of
+future order. Do we make technologists kings? How much purchase do we give their
+tools on the roots of our democracy? What lingers at the heart of Plato’s failure in
+Syracuse is not merely the disaster of a pure academic playing his ideas out of tune
+with reality. Rather, it reflects a crisis. To fuse a balance of any sort between the
+various temperaments needed to rule is the most unstable sort of work. Great states
+are unusual not least because such matches between men, their instincts and their
+199
+times are unusual: Jefferson. Napoleon. Su Dongpo, who led the Southern Song
+Dynasty to real greatness. Given the difficulty of finding such a match you can
+perhaps understand why history is so often pitched with evil; and why Plato was not
+a democrat. He knew how hard the ideal was to achieve; how suspicious we ought to
+be of it’s accomplishment. You might have in your mind a picture of a perfect Sicilian
+government: Literate, open to foreign ideas and trade, careful to balance the
+privilege of power with its still heavier obligations. The reality: A homicidal king.
+The stretched distance between ideal and reality was what Plato and Socrates
+thought philosophy must fill.
+As we consider the immense gap between where we are now – a fracturing,
+struggling order confronting new power arrangements whose content and speed
+and instincts are all really foreign to all of us – the puzzle is how best to fill the space
+between where we are now and where we intend to go. In Plato and Socrates’ age,
+before they great emancipation of the Enlightenment, it was only natural that their
+focus was on the education of kings. This, after all, was where most of the power lay.
+It was the decisive element: Was the ruler good or bad? But we confront our age
+with a different balance. What will decide our future, I think, is not merely our rulers
+but the quality of our citizens. I mean you and me. As we’ve seen, much of our future
+will be embodied in highly concentrated, connected systems that move at very rapid
+velocities and are spliced everywhere with the accelerant of artificial intelligence.
+We are all preparing ourselves to be subjugated in a sense by these systems and by
+their masters. Our best defense will not be to wait for wise leaders, for the
+appearance of men and women bespoke fit to the moment, capable of balancing
+instinct and interest into a rare balance. They are unlikely to emerge – and just
+getting rid of the people we have now will be hard enough. Any strategy based on
+hoping for great leadership is too risky for all of us. No, a better best defense is
+finally to rely on ourselves, to use the inheritance of the Enlightenment – the
+revolution one that made us citizens and not subjects – to ensure we’re not made
+subjects yet again, to forces we can’t understand and won’t manage to control. In
+trading our liberty for convenience, we are spending that inheritance too fast now,
+too blindly.
+It would be easy enough to say that we all need to become more technical, that we
+need new versions of Plato’s Academy where we teach our children, our leaders and
+ourselves the inside tricks of the wired age. After all, if we’re to prevent the
+machines and the New Caste and the ripping dangers of a connected age from
+demolishing everything, we’d best know what they are doing. The need for more
+technical knowledge for all of us is, inarguably, clear. As I’ve said, one of our
+problems is that we live in an era of leaders who honestly don’t have the Seventh
+Sense, who lack a fluency even with the mundane quotidian demands of our digital
+fluxus – secure passwords on their own email, say, or an instinct for compressed
+space and time. Mapped on to the really big policy questions of the day, like the
+prosecution of our wars or the repair of our economics, they are outmatched. So:
+Yes, we need political direction informed by a feel for the fast, far-running fibers of
+the topological landscape that will decide our future. We need men and women who
+can command networks against network dangers. Linked, high-speed systems, after
+200
+all, mark the political topology on which on which all the fundamental act of our age
+will occur: our own gating.
+But as essential as more technical knowledge is, I don’t think it’s likely to be where
+we come up short. Yes we need more computer coding academies, we need better
+popular education about network choices, we need to retool our leaders. But I don’t
+think it’s a shortage of bolt-heads that will do us in. Rather, given the unique
+pressures of what is ahead, I think it is our human side that may let us down. I’m
+sure we’ll all be told in coming years that everything would be fine if we just let the
+New Caste figures take over, with their bloodless technological tools. These
+revolutionaries are a crucial part of the story of human progress, but they cannot
+alone write the next chapters. I think, asked to run our government, they’d likely
+end up like Plato’s pro-Spartan relatives in that awful dictatorship of the Thirty: A
+crew of buddies convinced they can get things under control who become rapidly
+overwhelmed by the human element, by wild network thumos and then reduced to a
+murderous madness. They would use technology to manipulate our voting just as
+they might manipulate our options for a new liver – or news or financial security.
+“One of the reasons computer software is so abysmal is that it’s not designed at all,
+but merely engineered,” the computer scientist Terry Winograd has written.
+“Another reason is that implementers often place more emphasis on a programs
+internal construction than its external design.” 271 This black-box temperament, the
+sense of efficacy as a final value for code, of internal design, of closed control, is a
+dangerous fit to the human business of free politics.
+But to expect our current leaders to catch up? I fear this is also unlikely. It’s not
+merely that they continue to wield the aging tools of industrial power with a strange
+confidence. No, their failures – which don’t seem to faze them much – are less
+dangerous than where they might yet succeed: Control, surveillance, the shredding
+of liberty in the name of an elusive safety. These leaders are fascinated by how the
+new tools might be used to extend the rule of a system that serves their interests,
+that serves them. The fear that such tools might one day snap back upon them (or
+us) is muted by ignorance and dulled by greed; by vision that does not extend much
+beyond “What’s in this for me?” So we find our future not in our own hands, but
+instead in the grip of two groups: One ignorant of networks; the other ignorant of
+humanity. The only answer, then, is to educate ourselves. We need to cultivate a
+sensibility that permits us to see through this manipulation; and then to act. The
+instincts of technology and of history must emerge in our calculations now. What
+will serve us best in a technical age is a sense of humanity that the old political
+machines and the New Caste digital ones can’t match.
+One of the most famous gates that Plato and Socrates drew around their imagined,
+ideal and perfect republic was a kind of electric fence against, of all things, poets. As
+Socrates explains in The Republic, poets “maim the thoughts of those who hear
+them.” Poetry appeared to the philosophers as a pernicious force, an injection of
+271 “One of the reasons”: Terry Winograd, Bringing Design to Software (New York:
+ACM Press, 1996) p. 5
+201
+passion and madness that sent the heart into spasms and pressed the mind to
+distraction. This was about the last thing a new state needed. “Poetry mustn't be
+taken seriously as a serious thing laying hold of truth,” Socrates warns. “The man
+who hears it must be careful, fearing for the regime in himself.” Thus: Hesiod’s
+magnificent Works and Days, banned. Homer, banned. There has always been, about
+poetry, this sense of the magical, that it was a key to something intimately bound to
+the human mystery. It was no surprise to me to find, when I went back to re-read
+Turing’s “Can Machines Think?” essay, that the very first thing the great
+mathematician dreamed up to ask a digital brain was: “Write me a sonnet.” Poetry
+has always marked a test. Socrates and Plato gatekeep the poets out of their republic
+because they know the mad part of the soul verse can touch. It is hard to blame
+them. After all, they were among the earliest Western minds to try to dispel
+madness and superstition and sophistry. Without their logic and effort there would
+be no Aristotle, no science, none of the sense of our world as a comprehensible
+machine. The confidence to philosophize – which for them meant also to poke at the
+political wiring of our world – demanded the break from poetry and mysticism as a
+source of action or legitimacy. Had they failed, we’d still be in the dark. But had they
+completely succeeded? We’d hardly be human.
+You know, as I’ve said, when I first moved to China, there were so many things that
+baffled me. (There still are, to be honest.) But very high on that list was a peculiarity
+of ancient Chinese political life. For thousands of years the greatest poets and
+painters had also been emperors and politicians. Su Dongpo, for instance, the official
+who turned the lake city of Hangzhou into one of the great cultural centers of human
+history is also one of China’s best regarded poets. The calligraphy of the Qing
+dynasty Mingzhen Emperor is marked with a temprament of transcendent delicacy.
+It’s not merely that we’d never seriously expect a Western political figure to make
+great art – or even to have interesting ideas or be able to write these days. It’s not
+even that many of the most significant Chinese political documents are paintings of
+mountains or rivers, that even letters from high officials are often rated as great art.
+My first encounter with this strange mix, art and power mingled, produced a
+predictable Western reaction: It’s amazing how many “Renaissance Men” China had, I
+thought. These officials seemed to have mastered so many different talents. What I
+did not understand was that these men had not, in fact, mastered many different
+talents, at least not in any way I might understand it. They were not “Renaissance
+Men”, but actually a different breed, operating on a deeper level. They had mastered
+one skill. This was the cultivation of a finely-tuned inner energy – an instinct
+powerful enough that it could be turned with equal ease to calligraphy or warfare.
+This sort of effort took time. It demanded that knife-in-the-leg focus of Su Qin. And it
+demanded faith that some sort of enlightenment would in fact take place. For this,
+they had thousands of years of history as proof. Once this breakthrough to inner
+knowledge happened, once they developed a fine sensitivity to the underlying force
+of power, then they could tap into it for anything. Fighting wars. Counseling princes.
+Fishing. Composing poetry.
+202
+There is a lesson for us here, one that redounds onto Plato’s political question and
+our own: Who should rule? We feel overwhelmed by our age. So much to master:
+Fighting wars. Complex politics. Radically changing economics. New technologies
+replacing old ones before we can understand them. The mastery of each of these will
+not be achieved by dashing success in each. So we need to cultivate a single,
+essential instinct here. A new temprament that I’ve called The Seventh Sense. And,
+with that done, to fight the wars, write the poems, make the civilizations to confront
+all that lies ahead. Our greatest hope in the race against the totalizing machines and
+those who control them; our finest insurance for liberty and prosperity instead of
+madness is not in technology. Our greatest weapon will not be our bombers our
+drones or our financial strength. It will be in our own humanity. We have to accept
+that we are going to be gated in all the ways we’ve seen: By speed, by AI, by the New
+Caste. We’ll be torn apart by those new network dynamics, and placed on topologies
+we can hardly understand. Our future fight is not about if we are going to be
+enmeshed or not. It is about the terms of that enmeshment – and it is here that the
+great questions of politics will be decided. And where the protection of the things
+you love and care about will be braced against the crashing of an old order.
+5.
+Everything ahead of us will be political. We’ve established already: Connection
+changes the nature of an object. What’s true for a phone or a medical device, a
+weapon or an currency is true too for a vote. Or a citizen. The nature, the essence of
+an object changes as a result of connectivity. It takes that old Platonic notion of an
+“ideal” state and stretches it beyond what we’re fully capable of understanding. Our
+puzzle is that while “we are what we are connected to,” it is also true that we don’t
+fully know or understand just what those links are yet. At certain moments it seems
+we’re linked to something miraculous, at others to a system of really instant
+viciousness. And because we are all connected, changes in one part of the system
+invariably redound elsewhere. An object seems miraculous one moment, violent the
+next. This isn’t getting easier for us. We are, as we’ve seen, heading to an era where
+the machines and the networks will have ever more, ever more decisive power,
+largely because we’ve given it to them. We’d be wise to consider the lesson of
+history here: Structures snap when bent by forces for which they are not prepared.
+Those fast, hammering centuries that ran from the reformation to the scientific
+revolution to the enlightenment to the industrial revolution were like this. The
+redistribution of power and finance into the hands of the many demanded the
+demolition of old structures, the ones mastered by a few. For one man to rule
+millions with no reason other than birth made no sense anymore. The last six
+centuries have been nothing but a tale of liberation, its price and its rewards. We are
+more free now than we ever have been, in a sense. And, at this very same moment,
+we are more enmeshed. Power is moving now from institutions and ideas built for
+liberty to ones built for enclosure, for connection, for speed and for the beyondhuman
+intelligence that complexity demands. This will snap our votes, our money
+and our ideas with the same blunt efficiency the last revolution managed in Luther’s
+203
+Wittenberg church, in the American and French revolutions, in the silent fatal
+cracking of Ghandi’s India and Mandela’s South Africa.
+We know that no political system that doesn’t match the power distribution of the
+society it governs can endure. Feudal order could not survive the pressures of
+liberty. Can democracy withstand the pressures of enmeshment, of massive
+concentration of power, of artificial intelligences. Or will the slow, inefficient
+reaction time of popular voting prove finally unequal to the complexity ahead of us
+or too easy to manipulate? Writing of the Enlightenment, the historian Leon-Michel
+Gambetta once explained that the goal of politics in the age of liberation and
+questioning was, “to derive the political and social system from the idea of reason
+rather than that of grace.” What to do now? In a world where we may need to derive
+a political system girded by tools of AI or wired by fast-moving and emergent
+networks, that can’t quite be derived from reason? What will the goal of politics be
+then? When the first AI runs for President on a ticket of pure efficacy? Or perhaps
+Democratic and Reblican candidates will debate who has the best AI. How will you
+vote?
+We need already to reevaluate the idea of citizenship. What is it for? And the state
+too. To fit these roles into an age of liberation took centuries after Luther began the
+reformation; we may have but decades to decide what they mean in an age of
+enmsemhment. Does setting geographic and age criteria for voting still make sense?
+One man one vote? Is there a better system to deal with complex issues? The
+economists Daron Aceomoglu and James Robinson, in their magestirial study Why
+Nations Fail marked success or collapse by these lines: Countries with “inclusive”
+institutions which guarded both elites and society at large have historically fared
+better than those (think of Russia or Latin America) that ran on “extractive” urges,
+nations machined to secure the profits and serenity of the elites alone. But where to
+fit our gated world into such an analysis, an era in which linked institutions benefit
+both the gated and gatekeeper? Would you say such a system was extractive as it
+sucks our data and habits and secrets into massive, opaque finance or machine
+learning systems? Or inclusive because, after all, we’re enmeshed in a web of newly
+found linked wealth: time, health, finance, information, security. Networks in so
+many ways insist on fresh considerations of power. What sorts of network design is
+likely to be most effective, most legitimate? Kant’s famous question of the 1780s –
+“What is Enlightenment?” – is one we’ve not yet perfectly answered or resolved. The
+new puzzle of “What is Enmeshment” is one we’re only beginning to consider now.
+It too will take lifetimes to answer, and the debate will be decied in the collision of
+ideas and institutions we can’t even dream of today with the structures of power
+that tower around us now.
+At least we can see already that we’ll need new ways to consider our future political
+order, mashed through as it will be by connection, machines and hot human hopes
+and fears. We’ll certainly face our own turning points as our institutions collapse or
+calcify or (hopefully) redesign themselves in some modern version of Britain’s
+bloodless 1688 Glorious Revolution, that ineffable moment when parliamentary
+204
+power finally achieved real grip. Recall that important distinction between
+“Predictive Learning” and “Representational Learning” – and how machines with a
+deep representation outperformed the ones merely predicting, the difference
+between recognizing a Mozart symphony and writing one? We ourselves need to
+move now from predictive to representational views of our world. We need an
+historical sense, of course. But something else too, that Seventh Sense I’ve been
+writing about. So much of what lies ahead can’t, of course, be predicted by looking at
+what has come before. And we won’t make this leap to a new representation of the
+world around us with mere technology. That passage to a new, and subtle insight, to
+a new instinct, demands wisdom.
+There will be a point, several hundred years from now, when the answers to the
+fundamental questions we now face will be decided. A new political order, tuned to
+the power laws now visible with the Seventh Sense will emerge. Our question we
+will often ask on that long passage is this: Can more and more technology bridge the
+gap between the ideal society we might aim for and the troubled one we have? Or
+might it crank that gap wider still? My sense is that the antidote to the machines and
+their new logic is not, in the end to make ourselves more like the machines.
+Encryption alone won’t protect our privacy. Mobility won’t assure our liberty. We
+can’t keep up with the innovations, to be honest. So we have to go deeper. Our
+protection will come from making ourselves more human, not just more technical.
+We should consider the path Su Dongpo’s life suggest, the cultivation of an inner
+instinct, and that this should touch on the very things that make us most human.
+This means to make ourselves more political, more cultured, more aware of history
+and ideas. Which problems do we solve with technology? Which ones with our own
+hearts and minds? This choice, at least, is still before us.
+Take a moment. Look at yourself. Feel yourself with the Seventh Sense. Through
+each of us now will flow all the power of this new age. Yes, it can jack apart all our
+old habits and fill the passage of our time with all the dangers of evil as we silently
+watch terrible and fearful things appear from nowhere. But we can also wake up,
+see the world accurately and then act with the confidence of knowing that we are,
+each of us, the passage through with which the future will emerge. At the very
+moment we might feel so many of our burdens lifted by technology, an old and
+heavy one crashes down upon us. It is the burden of maintaining our liberty. Now,
+you and me are, like it or not, what we are connected to.
+205

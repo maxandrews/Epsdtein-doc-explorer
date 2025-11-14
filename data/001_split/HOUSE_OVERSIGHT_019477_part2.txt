@@ -1,0 +1,1656 @@
+a US twenty- dollar bill, files to make a 3D- printed gun, and books
+describing how to receive illegal goods in the mail without getting
+caught. There were, too, links to rape and child abuse videos.”
+To operate effectively on the dark net, one often needs a mask
+of anonymity. But it is not easy to completely hide one’s tracks
+in cyberspace. The way that the Internet ordinarily works is that
+whenever an individual sends e- mails or instant messages or visits
+a website, his or her identity can be referenced by the IP address
+assigned to him or her by the Internet service provider. If dark net
+users’ IP addresses are discoverable, they obviously cannot remain
+anonymous. So, to evade this built- in Internet transparency, dark
+side users have come to rely on ingenious software to hide their
+IP addresses. The most commonly used software for this purpose
+is Tor, which was first called the Onion Router, because it moves IP
+addresses through multiple layers. Tor software hides the IP address
+by routing messages through a network of Tor- enabled relay stations,
+called nodes. Each node further obscures the user’s IP, even
+Epst_9780451494566_2p_all_r1.z.indd 50
+9/29/16 5:51 PM
+Hacktivist | 51
+from the next node in the network. This scrambling allows messages
+to exit the chain of Tor nodes without an easily discoverable IP. By
+doing so, it “anomizes” each user of the dark side.
+Because of the anonymity it provides, Tor became the software of
+choice for individuals and organizations who wanted to hide their
+identities. For example, Tor software made possible Silk Road, which
+acted as an exchange for drug dealers, assassins, safecrackers, and
+prostitutes until it was closed down by the FBI in 2013. It was created
+by Ross Ulbricht, a Libertarian who wore a Ron Paul T- shirt,
+as a website where “people could buy anything anonymously, with
+no trail whatsoever that led back to them.” (Ulbricht received a life
+sentence for running this criminal enterprise in May 2015.)
+Tor software was also employed by Private Bradley Manning
+(now Chelsea Manning) to transfer some fifty thousand diplomatic
+cables and military reports from his laptop to Assange’s WikiLeaks
+website. Eventually, Manning was identified by a fellow hacker, convicted
+by a military court for violations of the Espionage Act, and
+sentenced to thirty- five years in prison. Tor enabled WikiLeaks to
+publish other secret data, such as material acquired in the theft of
+Sony’s files, allegedly by the North Korean intelligence service, in
+2015. It was the means for guaranteeing anonymity to the IT workers
+who responded to Assange’s by now famous clarion call to unite.
+It allowed system administrators who opposed the “surveillance
+state,” as well as other disgruntled employees of government agencies
+or corporations, to send documents they copied to the WikiLeaks
+website without revealing their IP addresses.
+Because WikiLeaks did not know the identity of its sources, it
+could not be legally compelled to reveal them. “Tor’s importance
+to WikiLeaks cannot be overstated,” Assange said in an interview
+with Rolling Stone in 2012. Indeed, without the anonymity provided
+by its Tor software, WikiLeaks could not have easily entered into a
+document- sharing arrangement with major newspapers, including
+The Guardian, The New York Times, Der Spiegel, Le Monde, and El
+País. Through the magic of Tor, these newspapers simply attribute
+their sources to WikiLeaks, which, in turn, made Assange a major
+force in international journalism.
+Ironically, Tor was a creation of U.S. intelligence. In the early years
+Epst_9780451494566_2p_all_r1.z.indd 51
+9/29/16 5:51 PM
+52 | how america lost its secrets
+of the twenty- first century, the U.S. Naval Research Laboratory and
+the Defense Advanced Research Projects Agency developed it to
+allow American intelligence operatives to cloak their movements on
+the Internet. They could anonymously manipulate websites operated
+by Islamic radicals, for example, and create their own Trojan
+horse sites to lure would- be terrorists and spies. As it turned out,
+that use of Tor software had a conceptual flaw. If U.S. intelligence
+services used it, the targets could figure out that anyone visiting a
+site without an IP address was using Tor software to hide it. If Tor
+was exclusively used by U.S. intelligence services, the targets could
+further deduce that all the anonymous visitors were avatars for
+American intelligence. It would be analogous to undercover police
+using pink- colored cars that civilians did not use.
+To remedy this flaw, the U.S. government made Tor software open
+source in 2008 and freely available to everyone in the world. It even
+provided funding for its promulgation, with the State Department,
+the National Science Foundation, and the Broadcasting Board of
+Governors financing Tor’s core developer. The public rationale for
+this generosity was that Tor could serve as a tool for, as the State
+Department called it, “democracy advocates in authoritarian states.”
+While Tor software remained a useful tool in covert operations by
+the CIA, the DIA, and the FBI, it was anathema to the NSA because
+it made it more difficult for it to track potential targets.
+As Tor software became widely used by adversaries (as well as
+common criminals), the NSA sought to find vulnerabilities in it. “It
+should hardly be surprising that our intelligence agencies seek ways
+to counteract targets that use Tor software to hide their communications,”
+explained an NSA spokesperson. The NSA’s adversaries also
+took an interest in identifying Tor users because they might include
+political dissidents and potential spies.
+Tor software also took on a cultlike importance to hacktivists concerned
+with the U.S. government’s tracking their activities. Catherine
+A. Fitzpatrick provides an illuminating insight into the mind- set of
+these hacktivists in her 2014 book, Privacy for Me and Not for Thee.
+She describes them as largely “radical anarchists” who believe “the
+state is all- powerful, that law- enforcement is so strong that it will
+prevail anyway, and that they are a persecuted minority.” As a refuge
+Epst_9780451494566_2p_all_r1.z.indd 52
+9/29/16 5:51 PM
+Hacktivist | 53
+against the surveillance of the state, and in particular the NSA, they
+not only attempt to hide their own identities but also use encryption
+to obscure their messages. Their goal is to free their movements “of
+any interference from law- enforcement.” In this mind- set, according
+to Fitzpatrick, “they believe government intelligence agencies
+will stop at nothing to stop them from absolute encryption.”
+Tor software was a means to defeat the NSA, but for it to be successful,
+there needed to be such a proliferation of Tor servers that
+the NSA could not piece together IP addresses. The problem was that
+the Tor Project, as they called it, was still a very tiny operation in
+2012. It employed fewer than a hundred core developers, who were
+located mainly in Germany, Iceland, Japan, Estonia, and the United
+States. Its staff worked mainly out of a single room in Cambridge,
+Massachusetts.
+The guiding spirit behind the Tor movement in the private sector
+was Jacob Appelbaum, a charismatic twenty- eight- year- old who had
+grown up in Northern California. Like Snowden, he had dropped
+out of high school. Appelbaum identified himself to his followers on
+the Internet as a “hacktivist” battling state surveillance. For him, as
+for many in the hacktivist culture, the main enemy was the NSA.
+After all, the NSA had a vast army of computer scientists working
+to defeat Tor software. Appelbaum was well connected in this culture,
+having been the North American representative for WikiLeaks
+before he moved to Berlin in 2013. He also managed WikiLeaks’s
+cyber security when it released the classified documents it obtained
+from Manning in 2010. He was so well regarded among hacktivists
+that Assange chose him as his keynote speaker replacement at
+the Hackers on Planet Earth (HOPE) convention in New York City.
+Assange told Rolling Stone, “Jake [Appelbaum] has been a tireless
+promoter behind the scenes of our cause.” For its part, Rolling Stone
+titled its profile of Appelbaum “Meet the Most Dangerous Man in
+Cyberspace.” (Assange needed a replacement for this particular event
+because he feared if he came to New York, he would be arrested for
+releasing the Manning files on WikiLeaks.)
+In Berlin, Appelbaum went to extreme lengths to protect himself
+from American surveillance. For example, when George Packer
+interviewed him for The New Yorker in 2014, he insisted on meet-
+Epst_9780451494566_2p_all_r1.z.indd 53
+9/29/16 5:51 PM
+54 | how america lost its secrets
+ing with Packer naked in a sauna so he could be sure Packer did not
+have a recording device (other than his notebook). Appelbaum stated
+repeatedly in interviews that he was being spied upon by America.
+While his claims might have sounded paranoid to his interviewers,
+as a character in Joseph Heller’s Catch- 22 famously said, “Just
+because you’re paranoid doesn’t mean they aren’t after you.”
+Runa Sandvik, a close associate of Appelbaum’s, also worked
+tirelessly to extend Tor’s cloak of anonymity in the private sector
+against the surveillance of the NSA and other would- be intruders
+of privacy. A Norwegian national in her mid- twenties, she wrote a
+well- followed blog on Internet privacy for Forbes in 2012, in which
+she identified herself as a privacy and security researcher working
+at the intersection of technology, law, and policy. Appelbaum and
+Sandvik both came in contact with Snowden before he went public
+and while he was still working for the NSA in Hawaii.
+In 2012, Snowden become involved in the effort to encourage
+the use of Tor software to protect privacy. He made no secret of his
+concerns about electronic interceptions. According to an anonymous
+co- worker, he even wore a jacket to work with a parody of the
+NSA insignia, which, instead of merely depicting the NSA eagle,
+showed the eagle clutching AT&T phone lines. He had also become
+a member of the Electronic Frontier Foundation, the digital rights
+organization that was helping finance Tor. He saw Tor software as a
+remedy. “Without Tor,” he later wrote, “when you walk the streets
+of the Internet, you’re always watched.” His efforts on behalf of Tor
+were not limited to symbolic gestures. In 2012, he set up a twogigabyte
+server called “The Signal,” which he described as the largest
+Tor relay station exit node in Honolulu. He apparently paid for
+it himself.
+Through his work as a system administrator for Dell, he found
+documents revealing NSA efforts, not yet successful, to defeat Tor’s
+ability to camouflage a user’s identity on the Internet. He found that
+the NSA was attempting to build backdoor entry ways into Tor software.
+One of the NSA documents that he illicitly downloaded, titled
+“Tor Stinks,” described the agency’s continuing efforts to penetrate
+Tor servers. In addition, he downloaded NSA documents describing
+programs begun in 2012 that aimed at searching the Internet for the
+Epst_9780451494566_2p_all_r1.z.indd 54
+9/29/16 5:51 PM
+Hacktivist | 55
+cyber signatures of foreign parties suspected of hacking into U.S.
+government systems.
+He also made efforts to directly contact Sandvik. She recalls
+first hearing from Snowden in November 2012. He first wrote to
+her under the alias Cincinnatus but later supplied his real name
+and mailing address in Hawaii because he wanted her to mail him
+authentic computer stickers from the Tor Project that he could use
+as “swag,” as he wrote her, to attract further interest in Tor software
+in Hawaii. As a result, she knew his identity seven months before he
+went public in Hong Kong. He would later tell Sandvik from Moscow
+that he had been “moonlighting” by working to advance the Tor
+Project. He added, with some understatement, that his moonlighting
+was “something the NSA might not have been too happy about.”
+On November 18, 2012, while still working for Dell at the NSA,
+his dual role led him to begin organizing a “CryptoParty” aimed at
+finding new recruits for Tor. The CryptoParty movement had been
+started in 2012 by Asher Wolf, a radical hacktivist and anarchist living
+in Melbourne, Australia. She promoted the get- togethers not
+unlike the Tupperware parties of the 1950s. The party organizer,
+usually with a representative of the Tor Project, advertised the party
+on the Internet. Attendees were encouraged to bring their own laptops
+so they could install Tor as well as encryption software in them.
+The attendees would then be instructed on how to use it. Finally,
+those converted to Tor software would be told to proselytize about
+its virtues by holding their own CryptoParty. Wolf’s idea was to use
+these gatherings to expand the realm of Tor.
+Snowden called his fete the Oahu CryptoParty. It had its own web
+page. He told Wolf that it would be the first CryptoParty in Honolulu.
+She wrote back advising him to “keep it simple.” (Wolf later
+said she did not know he was working at the NSA.)
+Snowden apparently had no inhibitions in staging a party that the
+leadership of the NSA might consider subversive of its battle against
+Tor. He even invited fellow NSA workers in Hawaii, as well as others
+in the local computer culture. He asked Sandvik, who was living in
+Washington, D.C., at the time, to participate, proposing that she cohost
+the party with him. He scheduled it for December 11, 2012, in
+Honolulu. According to Sandvik’s account, Snowden informed her
+Epst_9780451494566_2p_all_r1.z.indd 55
+9/29/16 5:51 PM
+56 | how america lost its secrets
+that he “had been talking some of the more technical guys at work
+into setting up some additional fast servers” for Tor. His “work”
+place at the time was the NSA. So, if he was telling the truth, he
+had already attempted to find co- workers at the NSA who might be
+interested in attending an anti- NSA surveillance presentation.
+Sandvik not only agreed to be Snowden’s co- presenter but made
+the Oahu CryptoParty a Tor- sponsored event. Sandvik flew to
+Honolulu on December 6, 2012. It was a fourteen- hour flight and
+a relatively expensive one. She later told Wired magazine that the
+invitation from Snowden coincided with her plan to take a “vacation
+in Hawaii.” Whatever her reason, it brought her in direct contact
+with a Tor supporter with access to the computers of its main enemy,
+the NSA.
+On December 11, following Snowden’s instructions, Sandvik
+arrived shortly before 6:00 p.m. at the Fishcake gallery in downtown
+Honolulu. She proceeded through a maze of furniture display rooms
+to BoxJelly, a public space. She was then directed to a small back room
+in which there were folding chairs and worktables already set up for
+the event. Rechung Fujihira, the owner of BoxJelly, told me that Hi
+Capacity, a “creative collective” of computer buffs, had arranged the
+logistics for the event. As he recalled, Snowden had requested their
+help for the CryptoParty.
+Sandvik found Snowden waiting for her with Lindsay Mills,
+whom he introduced to Sandvik as his girlfriend. He told Sandvik
+that Mills was there to make a video of the event. Mills did not mention
+the party in her blog. But that Snowden brought her and introduced
+her to Sandvik suggests that he did not keep secret from her
+his activities to further Tor.
+The event started at 6:00 p.m. sharp. By Sandvik’s count, about
+twenty people gradually filled the room. She reckoned that about
+half of the attendees were from Snowden’s workplace. Snowden
+began the presentation by giving reasons why Internet users needed
+to defend their privacy by using both encryption and Tor software.
+According to one attendee who asked not to be identified by name,
+Snowden, while not revealing that he worked for the NSA, spoke
+with such precise knowledge about government surveillance capabilities
+that the attendee suspected Snowden worked for the govern-
+Epst_9780451494566_2p_all_r1.z.indd 56
+9/29/16 5:51 PM
+Hacktivist | 57
+ment. Snowden next introduced Sandvik, who took the podium and
+discussed the work of the Tor Project, stressing the importance of
+expanding the Tor network. Following their presentations, Snowden
+and Sandvik took questions from the audience.
+The Oahu CryptoParty, according to Sandvik, ended about
+10:00 p.m. No one objected to Mills’s making a video of the meeting,
+even though it was dedicated to the idea of protecting personal
+privacy. The video was not posted on the Internet, so presumably
+Snowden wanted it for his own purposes. Afterward, Sandvik went
+to a local diner called Zippy’s for a late dinner. She left Hawaii two
+days later.
+Not all the hacktivists that Snowden invited were able to attend.
+Parker Higgins, for example, a prime mover in the Electronic Frontier
+Foundation and founder of the San Francisco CryptoParty, wrote
+back to him that he was unable to attend the December CryptoParty
+because of the high price of the airfare that month between San Francisco
+and Honolulu. He added that he would try to attend Snowden’s
+next CryptoParty, which was scheduled for February 23, 2013. (Higgins
+would make headlines in 2013 by flying a chartered blimp over
+the NSA’s secret facility in Utah and photographing it from the air.)
+Snowden’s double duty continued: downloading secret documents
+while remaining in touch with some of the leading figures
+in the Tor Project under his various aliases. He also continued to
+invite activists to his CryptoParties, and he openly advertised them
+on the Internet until 2013. The CIA’s former deputy director Morell,
+who reviewed the security situation at the NSA in 2014 as a member
+of President Obama’s NSA Review Committee, found that the
+NSA in the post– Cold War age had encouraged its technical workers
+to freely discuss challenges that arose in its computer operations.
+“The idea was to spread knowledge and learn from the successes
+of others,” Morell wrote, “but it created enormous security vulnerability,
+given the always- existent risk of an insider committed to
+stealing secrets.” According to a former intelligence executive, this
+new “open culture,” exemplified by largely unrestricted entry to the
+NSANet by civilian contractors, fit the culture of the young civilians
+on the “geek squads” who now ran the NSA’s computer networks.
+It was remarkable that even in such an “open culture,” Snowden’s
+Epst_9780451494566_2p_all_r1.z.indd 57
+9/29/16 5:51 PM
+58 | how america lost its secrets
+CryptoParty, Tor station, and other anti- NSA activities could go
+unremarked upon. After all, ten or so NSA workers attended the
+first party, and it is not unlikely that many of them recognized
+him as their co- worker. If so, they knew (as did Sandvik and Mills)
+that the Tor advocate “Cincinnatus” was Snowden. He had also not
+been shy in contacting notable enemies of the NSA via e- mail, such
+as Jacob Appelbaum, Parker Higgins, and Asher Wolf. If anyone,
+including the security staff of the NSA, had been on the lookout for
+dissident intelligence workers, this well- advertised gathering and its
+organizer might have been of interest.
+In 2014, I asked a former top NSA executive whether such activities
+on behalf of Tor by an NSA employee would arouse the attention
+of the NSA’s own “Q” counterespionage unit. He answered,
+“Snowden was not an NSA employee.” Because Snowden was a
+contract employee of Dell’s residing in the United States, the NSA
+could not legally monitor his private activities or intercept his communication.
+To do so would require a court- approved FBI request. So
+Snowden/Cincinnatus was free to operate openly in recruiting NSA
+workers, hacktivists, and computer buffs for his events. Ironically,
+adversary intelligence services searching for disgruntled intelligence
+workers had no such constraints.
+Epst_9780451494566_2p_all_r1.z.indd 58
+9/29/16 5:51 PM
+chapter 7
+String Puller
+It wasn’t that they put it on me as an individual— that I’m uniquely
+qualified [or] an angel descending from the heavens— as that they
+put it on someone, somewhere.
+— edward snowden, Moscow, 2013
+Downloading NSA documents was not Snowden’s only rogue
+activity while working at the NSA for Dell in 2012. Three
+weeks after the CryptoParty, Snowden began anonymously contacting
+a high- profile journalist. He used the same alias, Cincinnatus,
+that he used with Sandvik and to advertise the Oahu CryptoParty.
+The journalist to whom he wrote on December 1, 2012, was Glenn
+Greenwald, the previously mentioned Rio- based columnist for The
+Guardian.
+Greenwald had not always been an activist journalist. He had
+been a litigation lawyer at the elite New York firm of Wachtell, Lipton,
+Rosen & Katz. He was also an entrepreneur, owning part of
+Master Notions, a company that, among other things, had a 50 percent
+financial interest in the pornographic website HJ (an acronym
+that originally stood for “Hairy Jock”). All did not go well with this
+enterprise. In 2004, Greenwald became involved in an acrimonious
+lawsuit with his other associates in HJ. As a result, he had a number
+Epst_9780451494566_2p_all_r1.z.indd 59
+9/29/16 5:51 PM
+60 | how america lost its secrets
+of open legal judgments filed against him, including an $85,000 lien
+by the IRS.
+After resigning from his law firm in 2005, he moved to Rio de
+Janeiro and began a new career as a blogger for the Internet magazine
+Salon. He wrote fierce, and often brilliant, polemics against U.S.
+government surveillance and other perceived intrusions on personal
+privacy. The extent of his bitter antagonism toward the activities of
+the “surveillance state,” as he called it, was reflected in the title of
+his 2006 book, How Would a Patriot Act? Defending American Values
+from a President Run Amok. His position on surveillance was
+unrelenting, even when it came to the president. “By ordering illegal
+eavesdropping, the president had committed crimes and should be
+held accountable for them,” Greenwald wrote. When Barack Obama
+became president in 2009, Greenwald also attacked him for breaking
+the law by “ordering illegal eavesdropping.” Because of his opposition
+to Obama, he contributed money to the libertarian campaign of
+Ron Paul, the same candidate to whom Snowden gave money.
+In August 2012, he had transferred his provocative blog, which
+had amassed a following of nearly one million readers (including
+Snowden), from Salon to The Guardian. The British newspaper
+shared his powerful anti- surveillance position, having first published
+the WikiLeaks documents that had been illicitly leaked by Manning
+and published by Assange in 2010.
+Greenwald was an activist as well as a journalist. He joined the
+board of directors of the Freedom of the Press Foundation (eventually
+Runa Sandvik would join too). It had been set up expressly to
+funnel money to both Assange’s WikiLeaks site and the defense fund
+for Manning after he was arrested. Such a financial intermediary
+was necessary because American credit card companies were blocking
+money transfers to these two causes in 2012. This “blockade”
+was taking its toll on WikiLeaks. According to Assange, “WikiLeaks
+had been cut off from more than 90 percent of its finances.” The
+Freedom of the Press Foundation came to its rescue. John Perry Barlow,
+one of the songwriters for the Grateful Dead, was one of its
+chief financial backers. “The first serious info war is now engaged,”
+Barlow declared. “The field of battle is WikiLeaks.” He served with
+Greenwald and Poitras on its board.
+Epst_9780451494566_2p_all_r1.z.indd 60
+9/29/16 5:51 PM
+String Puller | 61
+Snowden was an avid reader of Greenwald’s screeds against the
+government. If he were to assume the role of a modern- day Prometheus,
+delivering forbidden NSA secrets to the public, Greenwald
+would be a logical candidate to break the story. Snowden could safely
+assume that Greenwald would be sympathetic to exposing NSA surveillance
+from his many blogs, tweets, and YouTube comments on
+the subject. For example, on November 13, 2012, just eighteen days
+before Snowden contacted him, Greenwald had written a blog for
+The Guardian asserting that the United States was “a surveillance
+state run amok.” In it, echoing very closely what Snowden said at his
+CryptoParty, Greenwald wrote, “Any remnants of internet anonymity
+have been all but obliterated between the state and technology
+companies.” Citing a story in The Washington Post, he continued,
+“Every day, collection systems at the National Security Agency
+intercept and store 1.7 billion e- mails, phone calls and other types
+of communications.”
+As a result, Greenwald called for action in that blog posting, writing,
+“The US operates a sprawling, unaccountable Surveillance State
+that, in violent breach of the core guarantees of the Fourth Amendment,
+monitors and records virtually everything even the most
+law- abiding citizens do.” That same week, Snowden invited Runa
+Sandvik to co- host his CryptoParty.
+One problem for Snowden in reaching out to Greenwald was
+Greenwald’s lack of any encryption for his e- mails. Communicating
+with a journalist like Greenwald who famously attacked the very
+organization for which Snowden worked was itself a risky undertaking,
+especially if he wanted to pass classified NSA documents to
+him. If his e- mails were intercepted by the NSA in Brazil (where
+Greenwald lived) and where the NSA was not restricted by U.S. law,
+he could lose his job or even be arrested. As Cincinnatus, he told
+Greenwald that he needed to immediately encrypt his computer. To
+make his point, he cited Greenwald’s November 12, 2012, blog. In it,
+Greenwald noted that General David Petraeus, then the CIA director,
+had been caught in a sex scandal because his personal e- mails
+had been intercepted. Snowden wrote to Greenwald that Petraeus
+would not have been exposed if he had used encryption. Snowden
+sent Greenwald instructions on how to install the necessary encryp-
+Epst_9780451494566_2p_all_r1.z.indd 61
+9/29/16 5:51 PM
+62 | how america lost its secrets
+tion software and a link to a twelve- minute video on encryption
+(which might have been the same video he used at his CryptoParty
+a few weeks earlier).
+Greenwald did not manage to encrypt his computer, however,
+and Snowden, unwilling to deal with Greenwald through an unencrypted
+channel, broke off contact with him in January 2013. Even
+so, he did not give up his plan of using Greenwald in his enterprise.
+He merely sought an intermediary who used encryption.
+He chose Laura Poitras. He knew she and Greenwald were founding
+board members of the Freedom of the Press Foundation. Greenwald
+had written about her extensively. For example, he wrote an
+entire blog about her confrontation with the U.S. government and
+her plans to make a documentary about the “US Government’s
+increasing powers of domestic surveillance [through] its expanding
+covert domestic NSA activities.”
+Since 2011, Poitras had been diligently filming the construction
+of a massive NSA repository for data in Bluffdale, Utah. In the antisurveillance
+culture, the structure had become symbolic of the powers
+of the NSA. In fact, it was the same NSA site that Parker Higgins
+photographed from a blimp in the fall of 2013 and posted on the
+Internet after Poitras had released her documentary about the NSA’s
+use of the Bluffdale repository for domestic spying.
+Aside from her connections with Greenwald, Poitras had other
+impressive credentials. Born in 1964 in Boston, she came from a
+wealthy family that donated large sums of money to philanthropic
+causes, including $20 million for research on bipolar disorders. After
+graduating from the New School for Public Engagement in 1996,
+she pursued a career as an activist filmmaker. Her focus quickly
+became exposing NSA surveillance. One of her short documentaries
+about the NSA’s domestic surveillance program was featured on the
+New York Times website and attracted enormous attention in 2012.
+As a dedicated opponent of the surveillance state, she participated
+in public events with William Binney, the ex- NSA whistle- blower,
+and Jacob Appelbaum. In April 2012, for example, she made a presentation
+at the Whitney Museum in New York with Binney and
+Appelbaum. She had become such a leading activist against the NSA
+by December 2012 that Appelbaum, after lauding her work, inter-
+Epst_9780451494566_2p_all_r1.z.indd 62
+9/29/16 5:51 PM
+String Puller | 63
+spersed clips from her short film in his keynote address at the Chaos
+Computer Club convention of hacktivists in Berlin that month.
+Snowden also closely followed her rise in this world. By simply
+googling Poitras’s name in January 2013, he would have learned
+about her connections with Greenwald, Appelbaum, Binney,
+Assange, and other leading figures in the anti- surveillance camp.
+When asked later by Poitras why he had chosen her to help him,
+Snowden replied, “I didn’t. You chose yourself.” The problem for
+Snowden was anonymously drawing her into his enterprise.
+Poitras was living in Berlin in January 2013, which made her vulnerable
+to NSA surveillance. To get to her through an encrypted
+channel, Snowden chose a circuitous approach. On January 11, he
+wrote to Micah Lee in Berkeley, California. Given Lee’s residence
+in the United States, as Snowden knew, the NSA would be legally
+barred from monitoring his communications without a warrant.
+He used Lee, who was the chief technology officer at the Freedom
+of the Press Foundation, as the encrypted gateway to Poitras. Lee
+was also well- connected to others whom Snowden had contacted
+for his CryptoParty. Lee had been an associate of Runa Sandvik’s at
+Tor and was a prominent member of Noisebridge, an eclectic antigovernment
+hackers’ commune based in Northern California, of
+which Appelbaum was also a member.
+To contact Lee, Snowden chose the alias Anon108. Anon is an
+alias frequently used by members of the Anonymous commune
+of hacktivists. “I’m a friend,” Snowden wrote to Lee. “I need to get
+information securely to Laura Poitras and her alone, but I can’t find
+an email gpg key for her.” The “gpg” encryption key he asked for,
+more commonly called a PGP key, was the so- called public key for
+an encryption system called Pretty Good Privacy, or, for short, PGP.
+This encryption system required both a public and a private key.
+Snowden asked Lee to provide the former one, because Poitras had
+the latter one. Lee wrote to Poitras about Anon108. The next day,
+with the approval of Poitras, Lee supplied Poitras’s public key to
+Snowden, or, as he knew him, Anon108.
+With it, Snowden contacted Poitras directly. He asked her as a first
+step to open an anonymous e- mail account using Tor software. Poitras
+later wrote about this initial contact, “I was at that point film-
+Epst_9780451494566_2p_all_r1.z.indd 63
+9/29/16 5:51 PM
+64 | how america lost its secrets
+ing with several people who were all being targeted by the [U.S.]
+government.” Many of the people she was filming, including Appelbaum,
+Assange, Binney, and the former NSA employee Thomas
+Drake, could attract interest by U.S. or foreign intelligence services.
+Snowden asked Poitras to take out a new enciphering key to use
+exclusively for her liaison with him. It provided them both with an
+extra layer of protection from any surveillance by law enforcement.
+Presumably, she accommodated his requests because she anticipated
+that the anonymous person would use this encrypted channel to
+send her highly sensitive material.
+On January 23, Snowden wrote to Poitras under yet another alias.
+This time he called himself Citizen Four. He wrote, “At this stage I
+can offer nothing more than my word.” He then said falsely, “I am
+a senior government employee in the intelligence community.” She
+had no way of knowing at this “stage” that despite giving her his
+“word,” he was not who he claimed to be. He was not a “government
+employee,” he was not a “senior” official, and he was not a member
+of the “intelligence community” (which is composed of the intelligence
+services of the U.S. government). He would later also claim
+to her that he had been “a senior adviser to the CIA” and “a senior
+adviser to the DIA.” That was untrue, too. In January 2013, he was
+merely a contract employee of Dell’s working as a computer technician
+at the NSA base in Hawaii.
+Snowden told her in his initial e- mail that he was well acquainted
+with her career as an anti- surveillance activist. He said that he had
+read Greenwald’s account in Salon that past April, a blog in which
+Greenwald detailed the forty times in which Poitras was searched by
+U.S. authorities. The story also said that Poitras believed she was on
+a special watch list and under constant U.S. government surveillance.
+She had come under such scrutiny by U.S. authorities, it turned out,
+because of her documentary about American military abuses of civilians
+in Iraq in 2006, titled My Country, My Country. While filming
+it, she was at a place close to an insurgent ambush of U.S. troops in
+Iraq. Her presence at the ambush site led army intelligence officers
+to suspect (without any evidence) that she might have been tipped
+off by the insurgents. She firmly denied the charge, and the government
+never substantiated it. Even so, because of this incident, since
+Epst_9780451494566_2p_all_r1.z.indd 64
+9/29/16 5:51 PM
+String Puller | 65
+2006 she had been kept on a list that caused authorities to search her
+at airports. As a result, she took elaborate countermeasures to evade
+any possible surveillance of her communications.
+Snowden knew about this incident because Greenwald described
+it in great detail in a blog that Snowden read (as he later told Greenwald).
+“Poitras is now forced to take extreme steps— ones that hamper
+her ability to do her work,” Greenwald wrote. “She now avoids
+traveling with any electronic devices. She uses alternative methods
+to deliver the most sensitive parts of her work— raw film and interview
+notes— to secure locations. She spends substantial time and
+resources protecting her computers with encryption and password
+defenses. Especially when she is in the US, she avoids talking on
+the phone about her work, particularly to sources. And she simply
+will not edit her films at her home out of fear— obviously well
+grounded— that government agents will attempt to search and seize
+the raw footage.” She claimed, as she told journalists, she was the
+victim of “Kafkaesque government harassment.”
+Snowden was duly impressed with her concerns about government
+surveillance, which he agreed was ubiquitous. Indeed, he later
+described her as “more paranoid when it comes to electronic security
+than I can be.” He meant it as a compliment. Such functional paranoia
+or “operational security,” as Greenwald would call the precautions
+that she took, dovetailed with Snowden’s growing conviction
+that universal encryption was necessary to defeat the surveillance
+state. It also made her the perfect channel for Snowden to safely pass
+some of the classified documents he stole to Greenwald and other
+journalists.
+It was not difficult to get her to cooperate in his plot. He wrote,
+for example, “The surveillance you’ve experienced means you have
+been ‘selected’— a term which will mean more to you as you learn
+how the modern SIGINT [signals intelligence] system works.” Just
+as she had been “chosen” by her work to act as his conduit, according
+to Snowden, she had been chosen by the NSA as a target because
+of her work. The idea of her being “selected” by an invisible signals
+intelligence agency, the NSA, could only excite her longtime concerns
+about being watched by the government.
+“Your victimization by the NSA system means that you are well
+Epst_9780451494566_2p_all_r1.z.indd 65
+9/29/16 5:51 PM
+66 | how america lost its secrets
+aware of the threat that [the NSA’s] unrestricted, secret abilities pose
+for democracies,” he continued. “I hope you understand that contacting
+you is extremely high risk and if you are willing to agree
+to the following precautions before I share more, this will not be a
+waste of your time.” Further playing on her concern, he asked her to
+confirm to him “that no one has ever had a copy of your private key
+and that it uses a strong pass phrase.” Such precautions were necessary
+because “your adversary is capable of one trillion guesses per
+second.” That “adversary” was, as she knew from her previous film,
+the NSA. At this point, she knew she was entering into a dangerous
+liaison with an unknown party in pursuit of NSA secrets. She wondered
+if he might be part of a plan to entrap her or her contacts like
+Assange and Appelbaum, as she noted in her diary. “Is C4 a trap?”
+she asked herself, referring to her Citizen Four source. “Will he put
+me in prison?”
+To elude this “adversary,” Snowden stressed to Poitras that she
+would have to adopt a conspiratorial frame of mind. “If the device
+you store the private key and enter your pass phrase on has been
+hacked, it is trivial to decrypt our communications,” he explained. “If
+you publish the source material, I will likely be immediately implicated.”
+If her correspondent could be “immediately implicated,” it
+meant that he was a person authorized to handle these secrets. So
+Poitras knew, as early as January 2013, that she was creating an
+encrypted channel for someone with access to NSA secrets who
+would be incriminated by providing them to her.
+The key source for Poitras’s previously referred to short video
+was Binney. Like her new source, he had been authorized to handle
+NSA secrets. Binney had been an NSA technical director until he
+had retired in 2001. The NSA’s domestic surveillance program that
+Binney told the press about years before being interviewed in Poitras’s
+film was called Stellarwind. It involved data mining domestic
+communications and financial transactions that had been authorized
+by President George W. Bush in 2001 after 9/11 as commander- inchief
+under the war powers given to him following the attacks. It
+indeed led to a major exposé on domestic spying by The New York
+Times in December 2005.
+Binney had never provided Poitras with any NSA documents
+Epst_9780451494566_2p_all_r1.z.indd 66
+9/30/16 11:09 AM
+String Puller | 67
+to back up the charges he made that Stellarwind was an unlawful
+domestic surveillance operation. He could not have done so without
+violating his sworn oath and, for that matter, U.S. anti- espionage
+statutes. Binney made it clear to her and other journalists that he
+was not a lawbreaker. But her new source, C4, was willing to do
+what Binney (and other insiders) had refused to do. He was offering
+in these e- mails to provide her with secret government documents,
+even though it would implicate him as an outlaw. To further
+whet her appetite, he told her that these up- to- date NSA documents
+would fully substantiate the allegations that Binney made in her
+film. Even more important, he said Binney’s 2001 disclosures were
+still relevant to her cause. “What you know as Stellarwind has
+grown,” he wrote to her. “The expanded special source operations
+that took over Stellarwind’s share of the pie have spread all over the
+world to practically include comprehensive coverage of the United
+States.” In fact, as Snowden knew from the Inspector General report
+he had read, the NSA had terminated Stellarwind almost a decade
+earlier. President Bush ended it after top officials of the Justice
+Department insisted that he did not have the legal authority for the
+domestic part of Stellarwind. Instead, he asked Congress to revise
+FISA to meet the objections of the Justice Department. The result
+was the FISA Amendment Act of 2006. Unlike the previous Stellarwind
+program, it did not permit domestic surveillance. It specified
+that the government could not target any person in the United
+States or anywhere else in the world under this authority. Nor could
+it target any foreign person, even one residing outside of the United
+States, to acquire information from a particular known person inside
+the United States. As the act recognized that information about U.S.
+citizens might mistakenly be intercepted by the NSA, it required
+that such data about Americans be expunged in a bimonthly review
+by a Justice Department task force. Although the NSA program in
+place in 2013 was not the comprehensive domestic surveillance that
+Snowden claimed it to be, Poitras had no way of knowing at this
+early state that her source was misleading her.
+He offered to substantiate her worst fears about the growth of
+NSA surveillance: “I know the location of most domestic interception
+points, and that the largest telecommunication companies in the
+Epst_9780451494566_2p_all_r1.z.indd 67
+9/30/16 11:09 AM
+68 | how america lost its secrets
+US are betraying the trust of their customers, which I can prove.”
+He even proffered evidence implicating President Barack Obama in
+illegal surveillance. “There is a detailed policy framework, a kind of
+martial law for cyber operations, created by the White House. It’s
+called presidential policy 20,” he wrote to her. It was an eighteenpage
+directive that Obama had signed four months earlier in October
+2012. Snowden was offering to reveal to her up- to- date evidence
+of a surveillance state in America presided over by the president
+himself. It was what she had been searching for over the past three
+years. How could she, as an activist filmmaker, resist such a sensational
+offer?
+He further explained to her that he had placed great trust in her
+discretion. “No one, not even my most trusted confidante, is aware
+of my intentions, and it would not be fair for them to fall under suspicion
+for my actions,” he said.
+Poitras must have found it flattering that a total stranger was
+willing to disclose to her in e- mails what he would not tell even his
+“most trusted confidante” about his intentions to commit an illicit
+breach of U.S. national security. It also put her under enormous
+stress. She noted in her journal that the pressure made her feel as if
+she were “underwater.” “I am battling with my nervous system. It
+doesn’t let me rest or sleep. Eye twitches, clenched throat, and now
+literally waiting to be raided.”
+Snowden was also taking an extraordinary risk. After all, he had
+no way of knowing who else she told about him. She had long been
+concerned, with good reason, that the U.S. government was out to
+get her. An unknown person offering to supply her with secret documents
+could be attempting to entrap her. So Snowden could not preclude
+the possibility that she would consult with others about the
+offer he was making her. Because her current documentary project
+included interviews by her with Assange, Appelbaum, and three ex-
+NSA executives, intelligence services with sophisticated surveillance
+capabilities might also have taken a professional interest in her communications,
+as Poitras herself had suspected. Even if Snowden was
+somehow able to use his position as a system administrator at Dell
+to ascertain that the NSA did not have Poitras under surveillance, he
+could not be sure that other agencies, such as the Russian and Chi-
+Epst_9780451494566_2p_all_r1.z.indd 68
+9/29/16 5:51 PM
+String Puller | 69
+nese intelligence services, were not monitoring his communications
+with her. It was, however, a chance Snowden was willing to take.
+Snowden, in any case, did not intend to conceal his identity for
+more than a few months. He told Poitras he had a specific purpose
+in allowing her to name him in her ongoing film project. Indeed,
+he said it was essential in his plan to prevent others, including presumably
+his “most trusted confidante,” from being suspected by law
+enforcement of helping him in his enterprise. He prevailed on her
+to accommodate his plan, saying, “You may be the only one who
+can prevent that, and that is by immediately nailing me to the cross
+rather than trying to protect me as a source.” His choice of the imagery
+of crucifixion suggested that like Jesus Christ he was willing to
+sacrifice himself for the sake of others.
+In keeping with their operational security arrangement, Snowden
+said that he would first send her an encrypted file of documents that
+she would not be able to read. Only after his conditions were met and
+“everything else is done,” he said, “the key will follow.” He was now
+pulling the strings. To get that key, she had to follow his instructions.
+One of his conditions was that she help him recruit Greenwald
+and other outlets for his disclosures. “The material provided and
+the investigative effort required will be too much for any one person,”
+he wrote to Poitras. He next directed her to contact Greenwald.
+“I recommend that at the very minimum you involve Greenwald. I
+believe you know him.” (Snowden apparently did not tell her that
+he had unsuccessfully attempted to reach out to Greenwald before he
+had contacted her.)
+His continued interest in Greenwald was understandable. Aside
+from Greenwald’s opposition to what he called the “Surveillance
+State,” he was a gateway to The Guardian. That publication had
+become an important player in the business of disclosing government
+documents by publishing a large part of the U.S. documents
+supplied to WikiLeaks, as we have seen. By breaking whistleblowing
+stories about U.S. intelligence, it had also greatly increased
+the circulation of its website. As an establishment newspaper, it also
+gave these WikiLeaks stories credibility with the media. So despite
+Greenwald’s inability to create an encrypted channel, Snowden still
+needed him. He had no reason to believe that Greenwald would turn
+Epst_9780451494566_2p_all_r1.z.indd 69
+9/29/16 5:51 PM
+70 | how america lost its secrets
+down the opportunity for a whistle- blowing scoop for The Guardian.
+After all, the classified documents Snowden would provide him
+would also give credence to both Greenwald’s book and his many
+blogs denouncing U.S. government surveillance.
+Aside from Greenwald and Poitras, Snowden sought an outlet
+inside the American establishment. So he had Poitras write to Barton
+Gellman, the Pulitzer Prize– winning reporter for The Washington
+Post. Poitras had met Gellman in 2010, when they were both fellows
+at NYU’s Center on Law and Security. Poitras had requested help
+in encrypting her computer from Karen Greenberg, the executive
+director of the center, who took her “by the hand” to meet Gellman,
+Greenberg’s resident expert on encryption software. Born in 1960,
+Gellman graduated from Princeton in 1981 and became an awardwinning
+investigative reporter for the Miami Herald, the Post, and
+Time magazine. He was also the author of Angler: The Cheney Vice
+Presidency. If Gellman could be drawn into the enterprise, he could
+provide Snowden with a gateway to the prestigious American paper
+credited with bringing down President Richard Nixon in the Watergate
+scandal.
+Poitras, as the go- between for Snowden, immediately contacted
+Gellman. After telling him she was involved in a story about NSA
+surveillance, she suggested that they meet in New York City.
+For their rendezvous, Poitras took a number of precautions to
+evade anyone attempting to follow her. She had Gellman first meet
+her in one coffee shop in lower Manhattan. When he arrived, she had
+him follow her on foot to another coffee shop, following her antisurveillance
+tradecraft. Once assured no one was watching them, she
+ordered coffee for herself and Gellman. Over coffee, she told Gellman
+about Snowden, whom she described as her anonymous source.
+She said that he was willing to supply Gellman with documents that
+would expose domestic surveillance, if Gellman agreed to write a
+story on it for the Post. Even though Gellman had left the staff of
+the Post in 2010, he had previously written several stories on that
+subject for the newspaper, and he was also highly regarded by the
+editors there. Gellman was interested in Poitras’s offer (although he
+would consult a friend at the Justice Department about the legality
+of publishing NSA documents).
+Epst_9780451494566_2p_all_r1.z.indd 70
+9/29/16 5:51 PM
+String Puller | 71
+Snowden had now laid the groundwork for at least two possible
+outlets. Poitras, however, was having some difficulty in bringing
+Greenwald in on the plan. Like Snowden, she did not trust writing
+to him in unencrypted e- mails, and because Greenwald lived in Brazil,
+she still had not found an opportunity for a face- to- face meeting
+with him.
+That opportunity arose in mid- April 2013. Greenwald had flown
+to the United States to give the lead speech at an event in Yonkers,
+New York, sponsored by the Council on American- Islamic Relations,
+a pro- Muslim civil rights organization. He had delivered the
+keynote speech at its previous meeting in San Jose, California, where
+his impassioned depiction of the American “Surveillance State”
+received a rousing ovation from the attendees. He was invited to
+speak at this award dinner for its East Coast chapter.
+Poitras flew from Berlin to New York to see him. On April 19,
+2013, she arranged to meet Greenwald at noon in the restaurant of
+the Marriott hotel where Greenwald was staying. When Greenwald
+arrived at the restaurant carrying a cell phone, she explained to him
+that the NSA could surreptitiously turn his cell phone into a microphone
+and use it to eavesdrop on their conversation. She told him to
+go back to his room and leave his phone there. When he returned,
+phoneless, she took further precautions by having them change
+tables several times. Greenwald accepted these tactics because, as he
+later said, she was in charge of their “operational security.”
+When they finally settled at a table in the nearly empty restaurant,
+she showed Greenwald e- mails she had received from Citizen
+Four. Greenwald, as he recounted, made “no connection” to the
+“long- forgotten emails” he had received from Snowden under the
+alias Cincinnatus. Reading the e- mails that Snowden had sent to
+Poitras, he was impressed with the “sincerity” of the anonymous
+correspondent.
+When Poitras showed Greenwald Citizen Four’s mission statement
+in which he said his motive was to end the U.S. “surveillance
+state,” Greenwald was further impressed with the source. The surveillance
+state Snowden described closely dovetailed with the surveillance
+state that Greenwald had described himself in his speech
+at the Council on American- Islamic Relations dinner in 2012. Of
+Epst_9780451494566_2p_all_r1.z.indd 71
+9/29/16 5:51 PM
+72 | how america lost its secrets
+course, the similarity of the phrasing might not have been entirely
+coincidental. Greenwald’s 2012 speech had been put on YouTube and
+widely circulated on the Internet just a few days before Snowden
+first wrote to him on December 1, 2012. Snowden identified himself
+as a privacy advocate, which was also how Greenwald often identified
+himself in his speeches. He also echoed other concerns Greenwald
+had publicly expressed, including defending American privacy
+from government intrusions.
+Snowden promised the leaks he would supply would provide dramatic
+results. He asserted in one of his e- mails to Poitras that the
+“shock” of the documents he would give Greenwald would result in
+the public’s learning about the secret “mechanisms through which
+our privacy is violated.” According to Snowden’s assessment, following
+that initial uproar, they could achieve another objective in their
+common cause. “We can guarantee for all people equal protection
+against unreasonable search,” he wrote. In light of this convergence
+of views, it is not surprising that Greenwald was fully convinced
+of Citizen Four’s bona fides. He said to Poitras, “He’s real,” and he
+agreed to help break the story in The Guardian.
+Poitras now revealed to Greenwald that Citizen Four would deliver
+an entire trove of secret documents to them in six to eight weeks.
+According to this timetable, the Greenwald scoop and the “shock”
+Citizen Four promised would come in early to mid- June 2013.
+At this point in April, Snowden was in full control. Although
+his job at Dell involved endlessly monitoring largely meaningless
+encrypted messages in the NSA tunnel, he had been able to get three
+major journalists to react favorably to his proposal. None of them
+knew his name, position, age, location, or where precisely he worked.
+Nor did they know the means by which he planned to obtain the
+secrets that he dangled before them. They also did not know where,
+or even if, they would meet their source. Their total knowledge about
+him was the description he improperly gave of himself: a “senior
+government employee in the intelligence community” (Greenwald
+speculated that he was a disgruntled CIA station chief).
+Even though they were operating largely in the dark, these three
+journalists acted as almost any other ambitious reporter would if he
+or she were offered a major scoop about illegal acts of the govern-
+Epst_9780451494566_2p_all_r1.z.indd 72
+9/29/16 5:51 PM
+String Puller | 73
+ment. In addition, the information was in line with what they had
+previously investigated or written about. None of these journalists
+had any reason to doubt at this point that their anonymous source
+was anything but the sincere whistle- blower he claimed to be. They
+could not have known from his anonymous e- mails that aside from
+the whistle- blowing documents he promised them, he was in the
+process of stealing a large number of other documents that concerned
+the NSA’s sources and methods in foreign countries. These
+documents, to which Snowden never referred in his correspondence
+with them, had little if anything at all to do with domestic spying on
+American citizens.
+Epst_9780451494566_2p_all_r1.z.indd 73
+9/29/16 5:51 PM
+chapter 8
+Raider of the Inner Sanctum
+They think there’s a smoking gun in there that would be the
+death of them all politically.
+— edward snowden, Moscow, 2014
+The nightmare of the NSA is a penetration. As the CIA, the
+FBI, and the NSA found out in the 1990s, no intelligence service
+is invulnerable to it. Any employee of a large intelligence organization
+can turn, or be turned, against it. Among the more than ten
+thousand intelligence workers employed by the NSA, it is a near
+certainty that over time more than one of them will become dissatisfied
+with their work. A worker may have a personal grievance
+about salary, lack of promotion, or treatment by his or her superiors.
+Disenchantment with the NSA may also proceed from idealistic
+objections. The NSA is in the business of secretly intercepting
+messages, and an insider could come to find its spying activities at
+odds with his or her own beliefs about the violation of privacy. For
+any of these reasons, a disgruntled insider could go rogue. He or she
+then might attempt to right a perceived wrong by disclosing NSA
+secrets to another party. That party might then induce or blackmail
+the rogue employee into disclosing further secrets.
+Epst_9780451494566_2p_all_r1.z.indd 74
+9/29/16 5:51 PM
+Raider of the Inner Sanctum | 75
+To guard against this, the NSA has developed a well- organized
+system for stratifying its data so that obtaining critical secrets
+required a rogue employee to burrow into its heavily protected inner
+sanctum. As part of this system, the NSA divides its data into different
+tiers depending on the importance of the secrets to its operations.
+The first tier, Level 1, is mainly administrative material. This data
+would include FISA court orders and other directives its employees
+might need to check on to carry out their tasks. Level 2 contains
+data from which the secret sources have been removed. This tier,
+available to other intelligence services and policy makers, includes
+reports and analysis that can be shared. Level 3 contains documents
+that cannot be shared outside a small group of authorized individuals,
+because they disclose the secret sources through which the NSA
+surreptitiously obtained the information. This third tier includes,
+for example, compiled lists of sources in China, Russia, Iran, and
+other adversary countries. It also discloses the exotic methods the
+NSA uses to get some of this data. Level 3 documents also include
+reports on specific NSA, CIA, and Pentagon operations unknown to
+adversaries. These Level 3 documents are described by NSA executives
+as “the Keys to the Kingdom,” because they could invalidate
+America’s entire intelligence enterprise if they fell into the hands of
+an adversary. And, as far as is known, prior to 2013, there had been
+no successful theft of any Level 3 documents.
+Because of their extreme sensitivity, Level 3 documents were not
+handled by most of the private firms providing independent contractors.
+At Dell, Snowden had access mainly to Level 1 and Level 2 data
+(which he could, and did, download from shared sites on NSANet).
+These lower- level documents had whistle- blowing potential because
+they concerned NSA operations in the United States. They did not
+reveal, however, sources that the NSA used in intercepting the military
+and civilian activities of foreign adversaries.
+Snowden quit his job at Dell as a system administrator on
+March 15, 2013, to take another job working for the NSA in Hawaii
+at Booz Allen Hamilton. Unlike other outside contractors that serviced
+the NSA, the firm he now chose specialized in handling the
+NSA’s Level 3 data.
+Epst_9780451494566_2p_all_r1.z.indd 75
+9/29/16 5:51 PM
+76 | how america lost its secrets
+When Snowden applied to Booz Allen earlier in March 2013, the
+company had no opening for a system administrator at the National
+Threat Operations Center, an NSA unit in which it dealt with
+Level 3 data. It did have an opening for an infrastructure analyst, a
+lower- paying job involving maintaining the computer technology
+necessary to monitor threats. Despite a cut in pay, Snowden took
+that job. “Snowden was an IT guy, not a SIGINT analyst,” a former
+NSA Signals Intelligence officer pointed out. “He was working as a
+contracted infrastructure analyst for NSA’s Information Assurance
+arm, . . . [which, ironically as it turned out] protects classified U.S.
+communications from potential intruders.” Steven Bay, the manager
+at Booz Allen who hired and supervised Snowden, recalled that the
+first “red flag” came up soon after Snowden began he training, when
+“Snowden began asking about a highly classified mass-surveillance
+program” to which Snowden did not have access (although Bay did).
+In retrospect, Bay realized that Snowden had applied for the job for a
+specific reason. “He targeted our [Booz Allen] contract directly,” Bay
+said. “Somehow he figured out that our contract, and what we did
+on that contract, were the types of gates he needed to get access to.”
+Snowden subsequently told the South China Morning Post that
+he took this job to “get access to lists of machines all over the world
+the NSA had hacked.” If so, he was after the keys to the NSA’s kingdom
+of global surveillance. Booz Allen held those keys. “He targeted
+my company because we enjoy more access than other companies,”
+Booz Allen’s vice- chairman Michael McConnell said with the benefit
+of hindsight. As a result of the theft, he appraised, “an entire generation
+of intelligence was lost.” McConnell, a former NSA director,
+was in a position to know.
+Snowden’s sudden career change had both advantages and disadvantages
+for the enterprise he was planning. The main advantage
+was that he would have proximity to the computers in which were
+kept the “lists” he sought of NSA global sources. The main disadvantage,
+aside from a cut in salary, was that he would no longer be a
+system administrator. This change meant he would no longer have
+privileges to bypass password restrictions or temporarily transfer
+data. Instead, as an infrastructure analyst, he would not have pass-
+Epst_9780451494566_2p_all_r1.z.indd 76
+9/29/16 5:51 PM
+Raider of the Inner Sanctum | 77
+word access, at least during the two- month- long training period, to
+the computers that he had not been specifically “read into,” which
+did not include those computers that stored the Level 3 lists. Access
+to these tightly controlled compartments was limited to only a handful
+of analysts at the center who had a need to know.
+Because the new job entailed handling higher- level secret documents,
+Booz Allen had stricter requirements for applicants than
+Dell. To slip by them, Snowden had engaged in a minor subterfuge.
+He wrote on his application that he was expecting a master’s degree
+from the online division of Liverpool University in England. In fact,
+he had not completed a single course at Liverpool and would not be
+receiving any sort of a degree from it. Booz Allen did not verify this
+and had agreed to hire him as a trainee- analyst. It did not change
+that decision even after it found out about his subterfuge.
+According to Admiral McConnell, Snowden never actually
+worked in the Booz Allen offices, which are housed in a skyscraper in
+downtown Honolulu. Instead, he was immediately assigned to work
+at the NSA’s highly sensitive National Threat Operations Center at
+the Kunia base, the same location where he had worked for Dell.
+Before he could begin working there, however, he needed to fly to
+Maryland to take a mandatory orientation course at the NSA. The
+course was given in an eleven- story building, with a sheer wall of
+black glass, on the NSA’s 350- acre campus at Fort Meade. He arrived
+there from Hawaii on April 1, 2013. Like every other Booz Allen
+contractor who worked at the NSA’s center, Snowden was required
+to sign the “Sensitive Compartmented Information Nondisclosure
+Agreement.” In this document, Snowden acknowledged that he had
+been granted access to sensitive compartmented information, called
+SCI, as part of his work and that he understood that any disclosure
+of that information to an unauthorized person would violate federal
+criminal law. He was also told, as were all new contract employees
+at Booz Allen, that its disclosure could damage the interests of
+the United States and benefit its enemies. In signing the document,
+he swore an oath not to divulge any of this information without
+first receiving written approval from U.S. authorities. So less than
+two months before he downloaded sensitive compartmented infor-
+Epst_9780451494566_2p_all_r1.z.indd 77
+9/29/16 5:51 PM
+78 | how america lost its secrets
+mation, he was fully aware of what the consequences of divulging
+this information would be. By this time, as we know, he had already
+agreed to deliver classified data to three journalists.
+Snowden believed that bringing complaints to NSA lawyers or
+supervisors was, as he put it, “playing with fire.” “When I was at
+NSA,” Snowden later said in Moscow, “everybody knew that for
+anything more serious than workplace harassment, going through
+the official process was a career-ender at best.”
+Nevertheless, on April 5, 2013, while still in the training facility
+in Maryland, he apparently sought to establish a paper trail for himself.
+He wrote a letter to NSA’s Office of the General Counsel asking
+whether or not NSA directives take precedence over acts of Congress.
+A lawyer from the Office of the General Counsel responded
+three days later, addressing Snowden as “Dear Ed.” The lawyer said
+that acts of Congress take precedence over NSA directives. He also
+suggested that “Ed” phone him if he needed any further clarification.
+Presumably, Snowden had asked the question to elicit a reply
+he could later use to bolster his claim that the NSA had ignored or
+rejected policies regarding NSA directives. Instead, the “Dear Ed”
+response was of little use to Snowden, because it did not dispute his
+point that NSA directives must lawfully conform to the acts of Congress.
+The NSA lawyer never heard back from “Ed.”
+Snowden completed his orientation course at Fort Meade on Friday,
+April 12, 2013. While he was in Maryland, he took time off to
+pay visits to both of his divorced parents. It would be the last time he
+would see either of them in the United States.
+He returned on April 13 to Hawaii. One domestic task he had to
+attend to was helping Mills pack up their possessions, which they
+stored in boxes in the garage. The lease on their house was up on
+April 30, 2013, and they had to move. According to Mills, they found
+a temporary rental just a few blocks away.
+On Monday, April 15, Snowden began on- the- job training as
+an analyst at the National Threat Operations Center. He would
+not complete the course. The same week he began the training, he
+prepared his exit by writing to Booz Allen and saying he needed a
+brief medical leave in May to undergo treatment for epilepsy symptoms.
+As far as is known, he did not suffer from epilepsy. Booz Allen
+Epst_9780451494566_2p_all_r1.z.indd 78
+9/29/16 5:51 PM
+Raider of the Inner Sanctum | 79
+required a minimum of one month’s notice for foreign travel. By
+making the request, he lessened the likelihood that it would arouse
+undue suspicion when he departed for Hong Kong with stolen documents
+on May 18. This brief window left him some four weeks to
+take the lists that he coveted.
+Snowden carried out the heist with precision reminiscent of a
+Mission: Impossible movie caper. First, he needed to get passwords to
+up to twenty- four compartments at the National Threat Operations
+Center that he had not been read into. Even in the “open culture”
+of the NSA, this was not an easy challenge. He would be asking
+one or more intelligence professionals to break strict NSA rules
+that not only prohibited them from disclosing their passwords to an
+unauthorized party such as himself but required them to report any
+unauthorized person who asked to use their passwords. Remarkably,
+he accomplished this incredible feat. He gained access to twenty- four
+compartments containing the NSA’s most closely guarded secrets in
+a matter of a few weeks.
+Next, he had to find the lists he was seeking in a vast ocean of
+data. For this task, he used software applications called spiders to
+crawl through the data and find the files he was after. He deployed
+these robotic spiders, which presumably had been programmed in
+advance, soon after he began working at the center. According to the
+subsequent NSA damage assessment, Snowden’s spiders indexed
+well over one million documents. Many of those that he copied and
+moved were from Level 3 sensitive compartmented information,
+according to the NSA analysis. The spiders also made his penetration
+relatively safe. As previously mentioned, the Hawaii base did
+not have a real- time auditing system. So alarm bells did not go off in
+the security office when he indexed documents.
+Finally, Snowden had to find a way to transfer this data to a computer
+with an opened USB port. This task was complicated by a security
+precaution. Most of the computers at the center had had their
+ports sealed shut to prevent unauthorized downloads. Making the
+transfer even more difficult, he was working as an analyst in training
+in an open- plan office with closed- circuit security cameras. But it
+was not impossible. System administrators sometimes used service
+computers that had unsealed ports to back up data before they did
+Epst_9780451494566_2p_all_r1.z.indd 79
+9/29/16 5:51 PM
+80 | how america lost its secrets
+maintenance work. Even though Snowden was no longer a system
+administrator, he could still perhaps befriend a system administrator
+or even steal or borrow a service computer.
+Whatever the NSA’s and Booz Allen’s security measures, Snowden
+succeeded in getting the files. In a matter of a few weeks, he managed
+to download hundreds of thousands of Level 3 documents to an
+unsealed computer. He also took some less sensitive documents from
+the administrative file (which contained mainly Level 1 documents)
+at the end of April. These later acquisitions included an order from
+the FISA court issued on April 25, 2013.
+He had completed the operation by May 17, the last day he would
+ever enter the NSA facility. He transferred the data he had amassed
+on the service computer, including the lists of the computers in Russia
+and China that the NSA had succeeded in penetrating, onto storage
+devices, which he later said were thumb drives. Then he coolly
+walked past the security guards at the exit, who only seldom performed
+random checks on NSA employees.
+He carried out the entire operation with such brilliant stealth that
+he left few if any clues behind as to how he obtained his colleagues’
+passwords to multiple compartments, moved the data from many
+different supposedly sealed computers to an opened service machine,
+or downloaded these documents to multiple thumb drives without
+arousing suspicion. The NSA would not discover the theft for fifteen
+days.
+His departure from Hawaii was also well prepared. Lindsay Mills
+had departed that morning for a planned two- week visit to the outer
+islands. This trip allowed him to pack his belongings without saying
+anything to her that might be difficult for her to later explain. He
+simply left a note that she could show to authorities saying that he
+was away on a “business trip.” He informed Bay that he would have
+to go in for epilepsy tests on the following Monday and Tuesday. If
+the results weren’t good, he might have to be out even longer.
+Epst_9780451494566_2p_all_r1.z.indd 80
+9/29/16 5:51 PM
+chapter 9
+Escape Artist
+I’m not self- destructive. I don’t want to self- immolate and erase
+myself from the pages of history. But if we don’t take chances, we
+can’t win.
+— edward snowden, Moscow, 2014
+The next evening, May 18, Snowden drove to Honolulu International
+Airport. He left his leased car in the parking lot. He
+took with him only carry- on baggage, including a backpack and a
+laptop with a Tor sticker on it. “I took everything I had on my back,”
+he said, referring to the backpack. He also said that he took enough
+cash to pay for his fugitive life and he took the thumb drives containing
+the NSA’s keys to the kingdom.
+At this point, of course, Snowden was not wanted by the authorities.
+He had provided his employer and the NSA with a medical
+excuse for his absence from work so he would not be immediately
+missed. He had a valid passport, a credit card, and ID. Snowden’s destination
+was Hong Kong. After crossing the international date line,
+Snowden waited about three hours in the transit zone of Narita. He
+then boarded a plane to Hong Kong. After the four- hour flight from
+Narita, he arrived in Hong Kong early in the morning on May 20.
+He had visited Hong Kong at least once before, with Lindsay
+Mills, when he was stationed in Japan. According to Albert Ho, his
+Epst_9780451494566_2p_all_r1.z.indd 81
+9/29/16 5:51 PM
+82 | how america lost its secrets
+Hong Kong lawyer, Snowden stayed at a residence arranged for him
+in advance by a party whom Snowden knew prior to his arrival. As
+noted earlier, for the next ten days, Snowden did not use his credit
+card or leave any paper trail to his location. Wherever he was, “his
+first priority,” as he later told Greenwald, was to find a place safe
+from U.S. countermeasures. He brought with him a large number
+of electronic copies of NSA documents marked TS/SCI/NOFORN,
+which stood for “Top Secret, Sensitive Compartmented Information,
+and No Foreign Distribution.” According to government rules,
+data carrying these labels could not be removed from a governmentapproved
+“SCI facility.” But Snowden, who brought them with him
+into this semiautonomous zone in China, broke these rules.
+Wherever Snowden was staying, apparently he believed he was
+relatively safe. “That whole period was very carefully planned and
+orchestrated,” Snowden later told The Guardian in Moscow. On
+May 22, he sent an e-mail to Bay (who did not know he had left
+Hawaii) saying that his epilepsy tests came back with “bad” results,
+and he needed further medical attention. Here Snowden communicated
+directly first with Gellman and then with Greenwald. He
+e- mailed Gellman under the alias “Verax.”
+Already, via Poitras, he had provided Gellman with PowerPoint
+slides from an NSA presentation about a joint FBI- NSA- CIA
+operation code- named PRISM. He believed it qualified as whistleblowing
+because it revealed that the NSA, in intercepting e- mails,
+tweets, postings, and other web interactions about foreign terrorists,
+incidentally also picked up data about Americans. According to the
+rules imposed on the NSA by a 2007 presidential directive, whatever
+information was accidently picked up about Americans was supposed
+to be filtered out, and hundreds of compliance officers were to
+recheck the data every ninety days to assure that directive was being
+carried out. Even so, it was likely some data was not expunged in this
+process. So PRISM could cause embarrassment for the NSA.
+Snowden had not yet made arrangements to meet journalists, but
+now he proposed that Gellman join him in Hong Kong. In attempting
+to convince him of the urgency of the trip, he wrote that he had reason
+to believe that “omniscient State powers” imperiled “our freedom
+and way of life.” He noted, with a touch of modesty, “Perhaps
+Epst_9780451494566_2p_all_r1.z.indd 82
+9/29/16 5:51 PM
+Escape Artist | 83
+I am naive.” He also added dramatically, “I have risked my life and
+family.” Even so, Gellman declined coming to Hong Kong. (According
+to Greenwald, Gellman could not make the trip, because lawyers
+for The Washington Post were uneasy with having a reporter receive
+classified documents in a part of China.)
+On May 24, 2013, Snowden attempted to apply more pressure on
+Gellman by telling him that the story about the PRISM program
+had to be published by the Post within seventy- two hours. Gellman
+could not accede to such a condition, because the decision of when to
+publish a story was made not by him but by the editors of the newspaper.
+He told Snowden that the earliest the story could be published
+was June 6, 2013, which was well past Snowden’s deadline.
+Snowden next turned to Greenwald in Brazil. Both Poitras and
+Micah Lee had made great efforts to tutor Greenwald on encryption
+protocols, with Lee’s sending Greenwald a DVD by FedEx that would
+allow him to receive both encrypted messages and encrypted phone
+calls. Even then, Greenwald was unable to fully install it. As a result,
+Greenwald still had not met Snowden’s requisites on encrypting his
+computer.
+With Gellman uncertain, Greenwald was now essential to Snowden’s
+plan. If he was to have any newspaper outlet, he needed to
+persuade Greenwald to come to Hong Kong. At this point, he took
+matters into his own hands. On May 25, Snowden somewhat aggressively
+e- mailed Greenwald, saying, “I’ve been working on a major
+project with a mutual friend of ours. You recently had to decline
+short- term travel to meet with me.” Although he did not specify the
+“short- term travel” to which he referred, he added pointedly, “You
+need to be involved in this story.” He suggested that they immediately
+speak on the phone via a website that encrypts conversations.
+Snowden began the call by complaining, “I don’t like how this
+is developing.” He made it clear that he, not the journalist he had
+selected, was pulling the strings. If Greenwald wanted the scoop, he
+had to follow Snowden’s instructions, which included dividing the
+scoops between The Guardian and The Washington Post. According
+to his plan, Gellman would break the PRISM story in the Post, and
+Greenwald would break the “mass domestic spying” story in The
+Guardian. In addition, he insisted that The Guardian publish his per-
+Epst_9780451494566_2p_all_r1.z.indd 83
+9/29/16 5:51 PM
+84 | how america lost its secrets
+sonal manifesto alongside its story. As he envisioned it, the media
+event would also include a video component in which Greenwald
+would interview him.
+Greenwald agreed to this micromanaging, So Snowden said he
+would send him what he called a “welcome package” of documents
+to demonstrate his good faith. His plan also required a face- to- face
+meeting. Snowden told him, “The first order of business is to get you
+to Hong Kong.” The whole conversation lasted two hours, according
+to Greenwald.
+Snowden sent him twenty classified NSA documents labeled “Top
+Secret.” He also included in the package his personal manifesto,
+which asserted that the NSA was part of an international conspiracy
+of intelligence agencies that were working to “inflict upon the world
+a system of secret, pervasive surveillance from which there is no
+refuge.”
+Meanwhile, Snowden told Poitras he was sending her a number of
+NSA documents, including a FISA warrant that had been issued less
+than a month earlier. He wanted that FISA warrant to serve as the
+basis of Greenwald’s scoop. It was perfect whistle- blowing material
+for The Guardian because it ordered Verizon to turn over all its billing
+records for ninety days to the NSA. It was as close to a smoking
+gun as anything he had copied at the NSA. It would also get attention
+because James Clapper, the director of national intelligence, had
+stated before Congress just two months earlier that the NSA did not
+collect phone data in America. This warrant would allow The Guardian,
+in the best tradition of gotcha journalism, to catch Clapper in an
+apparent lie.
+Continuing his string pulling, Snowden instructed Poitras not to
+show the FISA warrant to Greenwald until they were safely aboard
+a plane to Hong Kong. That would prevent Greenwald from releasing
+the story previously. He also sent Poitras an entire encrypted
+file of NSA documents, saying it would “include my true name and
+details for the record, though it will be your decision as to whether
+or how to declare my involvement.” He did not send her the key to
+decipher the file, saying, “The key will follow when everything else
+is done.” He further told her that he preferred that her new film
+Epst_9780451494566_2p_all_r1.z.indd 84
+9/29/16 5:51 PM
+Escape Artist | 85
+focus on him as the sole perpetrator of the leak so that no one else at
+the NSA would be suspected.
+Poitras and Gellman were not the only journalists involved in
+the news event. Poitras also asked Appelbaum to help her interview
+Snowden about the NSA’s operations. She later said that she needed
+someone with technical expertise in government surveillance to test
+the bona fides of Citizen Four. She believed that Appelbaum, who
+had participated in her anti- NSA presentations in 2012, qualified for
+the position.
+Snowden previously had contact with Appelbaum. Appelbaum
+had communicated with Snowden under his Oahu CryptoParty alias
+about an obscure piece of software just a few weeks after Snowden
+had met with Runa Sandvik in Hawaii in December 2012. Appelbaum,
+in fact, had worked with Sandvik as a core developer of Tor
+software. Snowden allowed Appelbaum to put detailed questions to
+him concerning the secret operations of the NSA before he met with
+Poitras and Greenwald in Hong Kong. Indeed, Poitras joined him
+in asking Snowden via encrypted e- mails such questions as “What
+are some of the big surveillance programs that are active today
+and how do international partners aid the NSA?” “Does the NSA
+partner with other nations, like Israel?” and “Do private companies
+help the NSA?” Snowden answered all the questions to the satisfaction
+of Appelbaum and Poitras. (The interview was published on
+July 8, 2013, with Snowden’s approval on the website of Der Spiegel,
+the German weekly, which had also published the WikiLeaks
+documents.)
+As the days ticked away while Snowden was waiting for Greenwald
+in Hong Kong, Greenwald was awaiting a green light to go
+there from Janine Gibson, the editor of the Guardian website, who
+was based in New York. Under Gibson’s leadership, The Guardian’s
+website had effectively “gone into the business of publishing government
+secrets,” as the Guardian columnist Michael Wolff pointed
+out. Most of the documents had been supplied by Bradley Manning
+via WikiLeaks. Few if any of these previous documents The
+Guardian published were highly classified, and none were SCI top
+secret documents. The NSA documents Greenwald had received
+Epst_9780451494566_2p_all_r1.z.indd 85
+9/29/16 5:51 PM
+86 | how america lost its secrets
+from Citizen Four were another matter. They contained the sort of
+SCI communications intelligence data that no major newspaper had
+ever published before. Their disclosure might result in journalists’
+being imprisoned, because both British law and U.S. law criminalized
+the disclosure by anyone of communications intelligence. As a
+lawyer, Greenwald recognized this danger. On the other hand, the
+NSA documents were far more explosive than the WikiLeaks material
+and promised an even greater spike in circulation. So Greenwald
+assumed that Gibson would be willing to authorize their publication
+and provide the expenses for his trip to Hong Kong.
+He flew from Rio to New York on May 30 to meet in person
+with Gibson, who had concerns about publishing what were purported
+to be top secret documents that came from an anonymous
+source. She was certainly not willing to go along with Citizen Four’s
+demand that The Guardian publish his personal manifesto alongside
+the documents. Aside from its shrill and alarming tone, it sounded,
+as she told Greenwald, “a bit Ted Kaczynski- ish,” referring to the
+mathematician known as the Unabomber who had maimed or killed
+twenty- six people with anonymous mail bombs between 1978 and
+1995. Kaczynski had also demanded that newspapers publish his
+personal manifesto. Gibson explained to Greenwald, “It is going to
+sound crazy to some people.” Her concern was that it would detract
+from the credibility of the rest of the story. Snowden had also written
+to Greenwald to explain his position. “Even the Constitution is
+subverted when the appetites of power demand it,” Snowden said.
+Paraphrasing President Thomas Jefferson, he continued, “Let us
+speak no more of faith in man, but bind him down from mischief by
+the chains of cryptography.” Snowden, showing his cultlike faith in
+encryption, substituted “cryptography” for Jefferson’s word “constitution.”
+Gibson was unmoved. The stolen NSA documents were
+another matter. They were an enormous scoop that could have a
+greater impact than the WikiLeaks scoop.
+Gibson authorized Greenwald’s trip to Hong Kong on the condition
+that he take with him a Guardian staffer in whom she had
+confidence, the Scottish- born Ewen MacAskill, a sixty- one- year- old
+veteran journalist who had been the Washington bureau chief for
+The Guardian. His assignment was to evaluate the bona fides of the
+Epst_9780451494566_2p_all_r1.z.indd 86
+9/29/16 5:51 PM
+Escape Artist | 87
+anonymous source in Hong Kong for Gibson. Greenwald accepted
+her terms. Poitras, who would be accompanying them, would be
+paying her own way.
+In case The Guardian failed to publish the story, Snowden had a
+contingency plan in place. While Greenwald was negotiating with
+Gibson, Snowden arranged for Micah Lee, Poitras’s associate at the
+Freedom of the Press Foundation, to build a personal website for
+him. Writing to Lee from Hong Kong, first under his alias Anon108
+and later under his real name, Snowden said that he planned to post
+his “anti- surveillance manifesto.” He would also use it to post “a
+global petition against surveillance.” Snowden had Lee name the site
+“SupportOnlineRights.com.” According to Lee, the website would
+be built with a “dead man’s switch,” which would automatically
+trigger the release of NSA documents if Snowden was arrested. It
+was not clear whether Lee was doing this work as a freelancer or in
+his capacity as the chief technology officer for the Freedom of the
+Press Foundation. The website Lee built for Snowden proved unnecessary
+when Poitras e- mailed him on June 1 that The Guardian had
+approved the trip and she and Greenwald were booked on a Cathay
+Pacific flight to Hong Kong. They would arrive the next day.
+In his preparation to go public in Hong Kong, Snowden showed
+himself fully capable of orchestrating what would become a major
+news story. He not only picked the journalists who would break
+it but also instructed each of them as to the timing, sequence, and
+content of their initial disclosures. In the security of his unknown
+residence in Hong Kong, he also worked to carefully separate the
+purloined NSA documents into two very different caches. “I carefully
+evaluated every single document I disclosed,” Snowden
+explained to the Guardian journalists in early June. The documents
+in this first cache were selected to serve what he termed the “public
+interest.” In the hands of journalists, these selected documents,
+and the story he fashioned to accompany them, would burnish his
+image in the public consciousness as a whistle- blower. He did not
+turn over the second cache, telling Greenwald, “There are all sorts
+of documents that would have made a big impact that I didn’t turn
+over.”
+By the time he received the message from Poitras, Snowden had
+Epst_9780451494566_2p_all_r1.z.indd 87
+9/29/16 5:51 PM
+88 | how america lost its secrets
+finished his preparations for the journalists. With selected documents
+copied on a thumb drive, he moved from the residence where
+he had been staying for ten days to a venue for meeting the reporters.
+The place he chose, as noted earlier, was the Mira hotel in the
+Kowloon district of Hong Kong, where he checked in under his own
+name. He e- mailed Poitras his name and the address of the hotel;
+there was no longer any reason to hide his true identity.
+Epst_9780451494566_2p_all_r1.z.indd 88
+9/29/16 5:51 PM
+c h a p t e r 10
+Whistle- blower
+They elected me. The overseers . . . The [American] system failed
+comprehensively, and each level of oversight, each level of responsibility
+that should have addressed this, abdicated their responsibility.
+— edward snowden, Moscow, 2013
+While snowden in Hong Kong was attempting to reel in
+the journalists, Lindsay Mills returned to Honolulu from
+her “island- hopping” trip to find their house partially flooded and
+Snowden nowhere to be found. In a brief note Snowden left her, he
+said he was away on a business trip and indicated that, at least temporarily,
+their eight- year relationship was on hold.
+“I feel alone, lost, overwhelmed, and desperate for a reprieve from
+the bipolar nature of my current situation,” she wrote in her journal
+on June 2 (which would be June 3 across the international timeline
+in Hong Kong). “I’ve nearly lost my mind, family, and house over
+the past few weeks.” She also noted in her online journal, “Oh and
+I physically lost my memory [SIM] card with nearly all my adventure
+photos,” as well as other personal data. The loss would make it
+difficult to reconstruct her past activities with Snowden.
+In Hong Kong, if Snowden were following Lindsay’s online journal,
+he would have read that his girlfriend had returned home, lost
+her data, and needed a “reprieve” from the situation in which he had
+Epst_9780451494566_2p_all_r1.z.indd 89
+9/29/16 5:51 PM
+90 | how america lost its secrets
+put her. But because they were exchanging private text messages
+by then, he would not have needed to consult her public journal.
+Snowden was certainly aware that he would soon be the object of a
+manhunt that could involve those with whom he was acquainted. He
+instructed Poitras to mask their e- mail communications in cyberspace
+“so we don’t have a clue or record of your true name in your
+file communication chain.” Such precautions were necessary, he
+explained to her, because “every trick in the book is likely to be used
+in looking into this.” The journalists arrived the evening of June 2.
+The Mira hotel can be entered by guests both through a groundfloor
+lobby with a restaurant and a smaller third- floor lobby that
+connects to the Mira shopping mall. The instructions that Snowden
+sent Poitras on her arrival were an exercise in control: “On timing,
+regarding meeting up in Hong Kong, the first rendezvous attempt
+will be at 10 a.m. local time. We will meet in the hallway outside
+of the restaurant in the Mira Hotel. I will be working on a Rubik’s
+cube so that you can identify me. Approach me and ask if I know the
+hours of the restaurant. I’ll respond by stating that I’m not sure and
+suggest you try the lounge instead. I’ll offer to show you where it is,
+and at that point we’re good. You simply need to follow naturally.”
+According to Greenwald’s account, Snowden changed the plan to the
+upper lobby. “We were to go to the third floor,” Greenwald writes.
+“We were to wait on a couch near a ‘giant alligator,’ ” which Poitras
+said was a room decoration. (A hotel executive told me that the hotel
+knew of no plastic alligator on the third floor but possibly it had
+been temporarily parked there by a hotel guest.) They were then
+to give the recognition signal. Although these instructions provided
+the atmospherics of “an international spy thriller,” as Greenwald
+described them, Snowden hardly needed any spy tradecraft to recognize
+Greenwald and Poitras because there were many photographs
+of them on the Internet.
+In any case, they gave the recognition signal, twice, in the designated
+place, and a young man walked over to them holding
+a Rubik’s Cube. Greenwald noted, “The first thing I saw was the
+unsolved Rubik’s Cube, twirling in the man’s left hand.” The man
+said, “Hello,” and introduced himself as “Ed Snowden.”
+Greenwald was particularly surprised by Snowden’s boyish looks.
+Epst_9780451494566_2p_all_r1.z.indd 90
+9/29/16 5:51 PM
+Whistle- blower | 91
+“The initial impression was one of extreme confusion,” Greenwald
+wrote in his book. “I was expecting to meet somebody in his sixties
+or seventies, someone very senior in the agency, because I knew
+almost nothing about him prior to our arrival in Hong Kong.” His
+initial confusion was understandable. Snowden, it will be recalled,
+had falsely identified himself to them in an e- mail as a senior member
+of the intelligence community.
+Snowden led Greenwald and Poitras to the nearby elevator, and
+they went through various corridors of the hotel to his room on
+the tenth floor. It was mainly occupied by a king- sized bed, but it
+also featured a sleek writing desk in the corner, two chairs, and a
+modernistic lamp. The bathroom was behind a glass partition, which
+could be closed off by a black louver blind. There was also a small
+refrigerator in which Snowden asked them to stow their cell phones.
+Snowden, as we know, had already told Poitras that he wanted
+her to make a documentary of the meeting. She therefore wasted
+no time in mounting her camera on a tripod. “Minutes after meeting,
+I set up the camera,” she said. Snowden told her, “When you
+are involved in an action which is likely to get you indicted, you
+typically don’t have a camera rolling in the room.” Nevertheless,
+he allowed her to film his actions for the next eight days. One possible
+reason is that he had no intention of standing trial. In any case,
+as Poitras found out, Snowden was anything but camera shy. Over
+the next week, she would shoot over twenty hours of Snowden’s
+activities in that small room. It was essentially a one- man show, a
+presentation of him, by himself, for the appreciation of a global public.
+Poitras knew virtually nothing about her subject until ten minutes
+before she began filming him. She had not even googled him,
+because she was concerned that her Internet search might alert the
+NSA and law enforcement authorities. In an over- the- top waiver of
+his own privacy, he allowed her to film him washing in the bathroom,
+preening his hair in the mirror, napping on his bed, getting
+dressed, and packing his bag. He even permitted her to film a private
+computer exchange between him and Mills (who was in Honolulu).
+That day Mills informed Snowden that two government investigators
+had come to their home in Hawaii, asking her about Snowden’s
+whereabouts. When he had failed to show up for work on June 3 it
+Epst_9780451494566_2p_all_r1.z.indd 91
+9/29/16 5:51 PM
+92 | how america lost its secrets
+evidently set off alarm bells at Booz Allen and the NSA. Snowden
+expressed anger to the journalists in the room at the NSA’s intrusions
+on the privacy of his girlfriend.
+Snowden also performed his security procedures on camera,
+including stuffing bed pillows under the door to block any eavesdroppers
+and throwing a red blanket over his head, which he called
+jokingly his “magical cloak of power.” He explained to Greenwald
+that he donned his “cloak” when he turned on his laptop to prevent
+any hidden cameras in the room from spotting his password. He also
+checked the hotel phone for bugs. It was not without irony that he
+went through these security rituals to protect his data as he allowed
+Poitras to film NSA data on his computer screen. Because he planned
+to use these journalists as his outlets to go public in a few days, the
+security measures he performed while on camera would only serve
+a temporary purpose.
+The centerpiece of the planned video would take the form of an
+interview with Greenwald. Snowden himself provided the talking
+points. The filming would eventually provide Poitras with a featurelength
+documentary, Citizenfour, which would be commercially
+released in October 2014 and win an Academy Award for her.
+The next day, Ewen MacAskill, whom Poitras had not wanted
+Greenwald to bring to the initial meeting, joined Poitras and Greenwald
+in Snowden’s room. Snowden insisted that MacAskill also go
+through the ritual of stowing his cell phone in the minibar refrigerator.
+Not without irony, Snowden’s own phone can be seen on his bed
+recharging. Although MacAskill was sent by Gibson to the event to
+verify the source’s bona fides, he had apparently hardly been briefed.
+The questioning went as follows:
+macaskill: Sorry, I don’t know anything about you.
+snowden: OK, I work for—
+macaskill: Sorry, I don’t know even your name.
+snowden: Oh, sorry, my name is Edward Snowden. I go by Ed.
+MacAskill went on to ask him to enumerate the various positions
+he held during his career in intelligence. Snowden was not entirely
+Epst_9780451494566_2p_all_r1.z.indd 92
+9/29/16 5:51 PM
+Whistle- blower | 93
+truthful in describing himself. He said that he had been a senior
+adviser to the CIA, when he had been just a telecommunications support
+officer. He also said he had been a senior adviser at the Defense
+Intelligence Agency, even though, according to that intelligence
+service, he was never employed there. (He did speak at an interagency
+counterintelligence course the DIA had sponsored.) He said
+he had a $200,000- a- year salary from Booz Allen when, according
+to Booz Allen, it was $133,000. It is understandable that he wanted
+to impress these Guardian journalists in light of his young age and
+boyish appearance, even to the extent of meretriciously claiming
+in the video that he had been personally given the “authority” at
+the NSA to intercept President Obama’s private communications,
+which, according to an NSA spokeswoman, was not true. No NSA
+employee, and certainly no civilian contract worker, was given the
+authority to spy on the president of the United States, she insisted.
+Such career enhancements reinforced the fact that Snowden altered
+reality when it suited his purpose with journalists.
+Snowden had greatly exaggerated or misrepresented the positions
+he held with the CIA and the DIA, but no effort was made by
+the team of journalists to verify the information. Instead, MacAskill
+wrote to Janine Gibson in New York, “The Guinness is good.” It was
+a prearranged code by which MacAskill certified Snowden’s credibility
+for The Guardian. Gibson told Greenwald to proceed with the
+story. Snowden had already provided Poitras and Greenwald with
+thumb drives on which he had loaded the documents he wanted
+them to use.
+Greenwald wrote his first story about NSA transgressions based
+almost entirely on the FISA warrant involving Verizon’s cooperation
+that Snowden had copied from the administrative file. Before
+the story could be published, however, the Guardian policy required
+relevant American government officials be given the opportunity to
+respond. Gibson made the requisite call to the White House national
+security spokesperson, Caitlin Hayden, who arranged a conference
+call with the FBI’s deputy director, Sean Joyce, the NSA’s deputy
+director, Chris Inglis, and Robert Litt, the legal officer for the Office of
+the Director of National Intelligence. After duly taking into account
+Epst_9780451494566_2p_all_r1.z.indd 93
+9/29/16 5:51 PM
+94 | how america lost its secrets
+the response of these three officials, which included the admonition
+by Litt that “no serious news organization would publish this,” Gibson
+gave the green light to publish the story.
+The story broke on June 6. “NSA Collecting Phone Records of
+Millions of Verizon Customers Daily,” proclaimed the Guardian
+headline. Under Greenwald’s byline, it said, “Exclusive: Top secret
+court order requiring Verizon to hand over all call data shows scale
+of domestic surveillance under Obama.” Along with it was the FISA
+order. The PRISM story broke hours later in The Washington Post.
+Written by Gellman and Poitras, it claimed that the NSA and the
+FBI were tapping directly into the central servers of nine leading
+U.S. Internet companies, which were knowingly participating in the
+operation. The latter allegation turned out to be not entirely true,
+because some of the Internet companies cited in the story denied
+that they had knowingly participated. The back- to- back publication
+of these two stories by The Guardian and the Post, however, provided
+the explosive “shock,” at least in the global media, that Snowden had
+predicted.
+Snowden’s identity had not been revealed in either the Guardian
+or the Post story on June 6. Snowden, however, insisted on outing
+himself. He explained to Greenwald that he needed to “define himself”
+before the U.S. government “demonized” him as a spy. That
+self- definition would be accomplished by a twelve- minute video
+titled “Whistleblower.” Poitras extracted much of the material for
+the video from the twenty or so hours she had shot. In the filmed
+interview, Snowden voiced many of the same statements he had
+made in his manifesto, so he no longer needed to post that on the
+Internet. When he insisted on the immediate airing of the video,
+Greenwald told him that by going public in this way, he was saying
+“fuck you” to the American government. Snowden replied, “I want
+to identify myself as the person behind these disclosures.”
+On June 9, the video was posted on the Guardian website with the
+Freedom of the Press Foundation getting an on- screen credit. “My
+name is Ed Snowden,” the extraordinary disclosure began. He then
+described how the NSA was watching U.S. citizens. Even though the
+NSA press spokesperson subsequently disputed some of his more
+dramatic claims, such as his assertion that he had the authority at
+Epst_9780451494566_2p_all_r1.z.indd 94
+9/29/16 5:51 PM
+Whistle- blower | 95
+the NSA “to wiretap anyone, even the president,” the press largely
+accepted his claims as established facts. As for American surveillance,
+he declared, “I don’t want to live in a society that does those sorts of
+things.”
+The Guardian story accompanying the video carried the headline
+“Edward Snowden: The Whistleblower Behind the NSA Surveillance
+Revelations.” Overnight, Snowden became a global celebrity
+and, to much of the world, a hero.
+The next morning he packed his belongings into a backpack and
+moved, without notifying the front desk, to another room Poitras
+had rented at the Mira. Complicated schemes, especially when they
+involve transferring state secrets to unauthorized parties in a foreign
+country, do not necessarily go as planned. That was true of
+Snowden’s escape plan. Snowden had no plan to stay put and face
+the music. On the morning of June 10, though, there was apparently
+a problem. Robert Tibbo and Jonathan Man, the lawyers who, along
+with Albert Ho, had been retained for Snowden by an unidentified
+party, received an emergency phone call early in the morning telling
+them to help Snowden move to a safe location. Although Tibbo
+would not identify the person who had called, the message had been
+relayed to Man and him through Ho’s office. When Tibbo called
+Snowden offering to help him move, Snowden told him, “I can make
+myself unrecognizable.”
+Tibbo and Man immediately proceeded to the mall adjacent to
+the Mira hotel, where they met Snowden. After he signed a document

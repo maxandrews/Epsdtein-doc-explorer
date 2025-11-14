@@ -1,0 +1,1091 @@
+﻿Investment Management Division
+An Overview of the Current State of Cryptocurrencies and Blockchain
+Technology
+November 15, 2017
+Investment Strategy Group
+Today’s Discussion
+Investment
+Management
+Division
+I. The Cryptocurrency Marketplace
+II.
+III.
+IV.
+Blockchain Technology and Potential Uses
+How Cryptocurrencies Work
+Is Bitcoin a Viable Currency?
+V. Is Bitcoin a Viable Asset?
+VI.
+Cryptocurrency Risks
+VII. Key Takeaways
+Source: Investment Strategy Group
+1
+Cryptocurrencies Have Received Enormous Attention
+Investment
+Management
+Division
+1. Bitcoin Currency Value – Through November 14, 2017
+2. Cryptocurrencies with Market Capitalization over US$1 Billion
+$120
+7000
+6000
+6,590
+592%
+YTD
+$100
+107.5
+$80
+USD per Bitcoin (XBT)
+5000
+4000
+3000
+$60
+$40
+30.2
+2000
+$20
+22.6
+1000
+0
+2011 2012 2013 2014 2015 2016 2017
+$0
+Bitcoin Ethereum Bitcoin
+Cash
+7.8
+3.4 3.3
+1.8 1.8 1.7 1.7 1.6
+Ripple Dash Litecoin Monero NEO NEM IOTA Ethereum
+Classic
+• Bitcoin was conceived in 2008 by an anonymous inventor who is known by the pseudonym, Satoshi Nakamoto.
+• Since then, an estimated 2,000+ cryptocurrencies have come into existence, with a combined market cap of over $200bn. 1
+• There are an estimated 129 focused hedge funds 2 and 121 cryptocurrency exchanges globally. 3
+(1) Coinranking.com, (2) https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count, (3) https://cryptocoincharts.info/markets/info
+Source: Investment Strategy Group, Cryptocompare.com.
+2
+Cryptocurrencies have Garnered Diverging Views
+Timeline of Statements and Measures over Recent Months
+Investment
+Management
+Division
+Japanese
+government
+recognizes
+Bitcoin as
+legal tender
+Apr. 1, 2017
+China
+bans
+ICOs
+Sept. 4, 2017
+“It’s a
+fraud…worse than
+tulip bulbs” 1
+–J. Dimon
+Sept. 12, 2017
+South
+Korea
+bans
+ICOs
+Sept. 28, 2017
+Japan’s FSA
+approves 11
+operators of
+cryptocurrency
+exchanges
+Sept. 29, 2017
+“Still thinking about
+#Bitcoin. No
+conclusion - not
+endorsing/rejecting” 3
+- Lloyd Blankfein
+Oct. 3, 2017
+“Bitcoin is 'a ponzi
+scheme’”
+- DBS Group
+(David Gledhill)
+Nov. 14, 2017
+Sept. 11, 2017
+Sept. 17, 2017
+July 24, 2017
+US CFTC
+approves
+Bitcoin futures
+trading
+China bans
+cryptocurrency
+exchanges
+BIS publishes
+report weighing
+risks and
+benefits of
+cryptocurrencies
+Sept. 27, 2017
+“[Bitcoin is]
+certainly more than
+just a fad” 2
+– MS CEO, Gorman
+Sept. 29, 2017
+SEC
+charges two
+ICOs with
+fraud
+Oct. 13, 2017
+“Index of money
+laundering.”
+- Blackrock CEO
+Larry Fink
+(1) Barclays Investor Conference, September 12, 2017. (2) Wall Street Journal Event, September 27, 2017. (3) Twitter, October 3, 2017. (4) CNBC, November 14, 2017.
+Source: Investment Strategy Group, public news sources.
+3
+What is Blockchain Technology?
+Investment
+Management
+Division
+Illustrative Schematic: Centralized Network versus Distributed Network
+Centralized Network
+Distributed Network
+• Blockchain is the critical and differentiating infrastructure that underlies cryptocurrencies.
+• Unlike most networks today, which rely on a centralized hub, a blockchain is a public distributed network whose
+complete database can be accessed and maintained by each member of the network.
+• The blockchain is a shared and continually reconciled database. As new transactions occur, data is quickly
+disseminated to, verified, and incorporated across all nodes on the network.
+• Because it has no single maintainer, the blockchain’s history is resistant to editing by a malicious actor.
+Source: Investment Strategy Group, http://cryptocurrencyfacts.com/how-does-cryptocurrency-work-2/ .
+4
+Blockchain Technology Holds Potential for a Range of
+Applications
+Investment
+Management
+Division
+1. Financial Market Transactions
+2. Identity Validation and Security
+Client XYZ
+Current
+State
+T+ 2
+DMV
+Blockchain-
+Enabled
+Settlement
+T+ 0
+Credit Card Issuer
+US Dept. of State
+Online Retailer
+Mortgage Lender
+Secure Digital Identity
+• Banks are focused on blockchain technology for post-trade
+settlement and clearing, with aims to:
+� Streamline equities settlement from T+2 to T+0.
+• Potential to securely link identity and payment credentials to
+a unique individual.
+� Benefit peer-to-peer businesses reliant on counterparty
+trust.
+� Streamline compliance and anti-money laundering
+surveillance.
+• Goldman Sachs Global Investment Research expects limited blockchain adoption over the next 2-5 years, and broader
+acceptance after 5-10 years.
+─
+Capital market adoption may take over 10 years, given regulatory oversight and the multitude of participants.
+Source: Investment Strategy Group, GS Investment Research, Profiles in Innovation: Blockchain: https://360.gs.com/gs/portal/?st=1&action=action.binary&d=21760456&fn=/document.pdf.
+Goldman Sachs & Co LLC, Blockchain, The New Technology of Trust, http://www.goldmansachs.com/our-thinking/pages/blockchain/index.html 5
+What is a Cryptocurrency and
+Why is Blockchain Technology Important?
+Investment
+Management
+Division
+Common Features of Cryptocurrencies
+Common Features of
+Cryptocurrencies
+� Digital
+Attributes
+• Coin ownership is represented by entries on a digital
+ledger, not by a physical token.
+� Decentralization • No single entity controls the currency.
+� Open Source • All source code is available freely online.
+� Distributed
+Consensus
+� Pseudonymity
+� Cryptography
+(computerized encoding)
+• Each cryptocurrency uses a method for obtaining
+consensus on ownership without a central arbiter.
+• Coin ownership is not linked to real-world identities
+within the blockchain.
+• Several cryptographic techniques are used to verify
+transactions, protect identities, and limit supply.
+• A cryptocurrency is a decentralized digital coin. It allows users to make transactions and store money in a secure and
+pseudonymous manner.
+• All cryptocurrency transactions are recorded chronologically on a blockchain, which acts as the critical infrastructure
+underlying a cryptocurrency.
+• The process of verifying transactions and ensuring the validity of the blockchain is called “mining.”
+• Mining solves the “double-spending” problem that had plagued previous attempts to implement a digital currency.
+Source: Investment Strategy Group, http://cryptocurrencyfacts.com/how-does-cryptocurrency-work-2/ .
+6
+How Do Miners Process Individual Transactions?
+Investment
+Management
+Division
+Step 1: Bob wants to pay Alice 0.5 BTC
+Illustrative Schematic of a Bitcoin Transaction
+Step 2: Miners Verify the Transfer Request and add
+it to the next block
+Step 3: Block Containing Bob and Alice’s
+Transaction is Added to the Blockchain
+Bob
+Alice
+Miner
+B
+Bob owns 1BTC
+Previous transaction
+in which Bob was
+paid 1 BTC
+New transaction
+Miner
+A
+Bob wants to pay
+Alice 0.5BTC
+Does Bob have
+0.5BTC??
+Yes!
+Miner
+C
+1) Before sending any bitcoins, Bob must hold bitcoins
+in his wallet from a previous transaction (or by
+solving a block to earn the mining reward).
+2) Bob creates a new transaction in which he pays 0.5
+BTC (of his 1 BTC) to Alice.
+3) Bob broadcasts this transaction to the network for
+validation and inclusion in the blockchain.
+Bob has 1BTC
+Bob wants to pay
+Alice 0.5BTC
+Does Bob have
+0.5BTC??
+Yes!
+Record Bob’s
+0.5BTC Transfer
+to Alice
+Record Bob’s
+0.5BTC Transfer
+to Alice
+Bob owns 1BTC
+Bob wants to pay
+Alice 0.5BTC
+Does Bob have
+0.5BTC??
+Yes!
+Record Bob’s
+0.5BTC Transfer
+to Alice
+1) Miner B happens to be the first to solve this block
+and adds it to the blockchain. Miner B collects 12.5-
+bitcoin reward.
+2) If Bob’s transaction is included the block, Alice
+becomes the owner of 0.5 BTC, which will register
+in her wallet.
+• Consensus transaction validation creates a book of record for all transactions that have ever occurred.
+– Transactions may only occur if they are supported by evidence from previous transactions.
+– To send bitcoins, an owner’s wallet uses its private key to prove ownership of the referenced bitcoins.
+• Transaction processing typically take 10-20 minutes, but can take up to 18 hours if the network is congested.
+Source: Investment Strategy Group. 7
+What is Mining?
+Investment
+Management
+Division
+ASIC Mining Computer and a Mining Rig
+6.2”
+13.8”
+5.3”
+• Miners use highly specialized computers designed to run an algorithm that attempts to solve a cryptographic puzzle in order
+to add a new block on the blockchain. By design, a bitcoin block is created once every ten minutes.
+• The computing power required to solve the cryptographic puzzle is high and expensive; bitcoin mining consumes an
+estimated $1.3bn worth of electricity annually 1 —equivalent to Ireland’s annual electricity consumption.
+• In order to incentivize mining, the first miner to complete a block is rewarded 12.5 bitcoins. The global supply of bitcoins is
+capped at 21mil (currently ~16.5m) and follows a predetermined growth rate—the miners’ rewards halve every four years.
+• Given ~1-1.5m mining units globally, the likelihood of any one miner solving a block is low. Many miners join “mining
+pools,” which are cooperatives which share block rewards proportionate to contributed mining power.
+– Mining pools are highly concentrated; the top four pools represent over 50% of total mining power.
+(1) Bitcoin Energy Consumption Index: https://digiconomist.net/bitcoin-energy-consumption
+Source: Investment Strategy Group, http://cryptocurrencyfacts.com/how-does-cryptocurrency-work-2/.
+8
+ICOs Fund the Development of New Currencies
+Investment
+Management
+Division
+1. Approximate Funds Raised by ICOs by Calendar Year (US$ Milllions)
+2. Total Funds Raised by Month (US$ Millions): Angel and Seed Stage
+Internet VC versus ICO
+$4,000
+900
+Angel & Seed VC Funding (Internet)
+ICO Fundraising
+839
+Approximate Annual Funds Raised Through ICOs ($mil)
+$3,500
+$3,000
+$2,500
+$2,000
+$1,500
+$1,000
+$500
+$0
+$3,461
+$222
+$26 $14
+2014 2015 2016 2017 YTD
+Total Funds Raised ($Mn)
+800
+700
+600
+500
+400
+300
+200
+100
+0
+369
+346
+298
+262 271
+256
+259 268 278
+235
+235
+207
+190
+80
+638
+572
+397
+319
+230 237
+2 12 12 12 21
+5 15 25 19
+7/16 8/16 9/16 10/16 11/16 12/16 1/17 2/17 3/17 4/17 5/17 6/17 7/17 8/17 9/17
+• New blockchain-related projects are funded via an Initial Coin Offering (ICO). This process raises capital through token sales.
+• In an ICO, the object offered is either a new digital coin or a yet-undeveloped concept in search of funding. ICO investors
+purchase an ownership percentage of a future money supply or functionality.
+• While many ICOs support legitimate use cases, Autonomous Research asserts, “unfortunately, many ICOs are fraudulent.” 1
+• Rather than raising fiat currency, ICOs primarily raise capital in the form of Bitcoin and Ether, driving additional demand for
+the cryptocurrencies.
+(1) #Token Mania, Autonomous Research, July 2017.
+Source: Investment Strategy Group, Bloomberg, Goldman Sachs Global Investment Research, Cryptocompare.com.
+9
+Why Have Cryptocurrencies Rallied So Much?
+Investment
+Management
+Division
+1. Bitcoin Supply Over Time (Million Tokens)
+2. Currency Composition of Bitcoin Purchase Volume
+25
+100%
+US Dollar Japanese Yen South Korean Won Chinese Renminbi Euro Polish Zloty British Pound
+90%
+20
+80%
+Bitcoin Supply (Million)
+15
+10
+5
+Current Supply
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0
+2009
+2014
+2019
+2024
+2029
+2034
+2039
+2044
+2049
+2054
+2059
+2064
+2069
+2074
+2079
+2084
+2089
+2094
+2099
+2104
+2109
+2114
+2119
+2124
+2129
+2134
+2139
+0%
+2011 2012 2013 2014 2015 2016 2017
+• In addition to speculation, which has been the biggest driver of cryptocurrency appreciation, other drivers include:
+• Perceived Scarcity: Bitcoin’s 21 million token cap is expected to be reached in 2140 (16.5 million today). Many of the
+over 2,000 other cryptocurrencies, however, do not have a capped supply. Further, while unlikely, bitcoin’s token cap
+could be raised if a consensus of programmers decided so.
+• Desired Safe-haven: Increased global participation reflects desire for an asset independent from governments or central
+banks (“digital gold”). Many governments from which investors have sought diversification, however, have recently
+banned domestic crypto-exchanges.
+Source: Investment Strategy Group, Bloomberg, Cryptocompare.com.
+10
+As Bitcoin Ownership is Not Anonymous, Illicit Use has Fallen
+Investment
+Management
+Division
+Larry Fink on Bitcoin’s Illicit Use
+"Bitcoin just shows you how much demand for money
+laundering there is in the world. That’s all it is. It’s an
+index of money laundering.”
+– BlackRock CEO Larry Fink, October 13, 2017
+• Because bitcoin is pseudonymous, not anonymous, users’ real-world identities are ascertainable once the individual
+converts bitcoin to fiat currency.
+• Digital intelligence companies continually scan the blockchain to identify suspicious transaction activity.
+• The Blockchain Intelligence Group estimates that illegal transactions in bitcoin fell from ~50% of total volume in 2015
+to ~20% in 2016, and represent “significantly less than that” today.
+• As law enforcement has become better able to track bitcoin ransom, cybercriminals have begun to favor currencies that
+allow anonymity, such as Monero and Zcash, and even Ether.
+Source: Investment Strategy Group, Blockchain Intelligence Group, https://www.cnbc.com/2017/08/29/dark-web-finds-bitcoin-increasingly-more-of-a-problem-than-a-help-tries-otherdigital-currencies.html.
+11
+Sovereign Currencies Meet Three Criteria
+Investment
+Management
+Division
+1) They are used as a medium of exchange.
+– To represent a medium of exchange, an instrument must facilitate the transaction
+of goods or services between parities (US$ are used to buy a barrel of oil).
+2) They serve as unit of account.
+– A unit of account is a measurement which allows value to be accounted and
+compared (a barrel of WTI is worth ~$55).
+3) They are a store of value.
+– A store of value is an asset that can be saved, stored, and exchanged in the future
+for a predictable stable value (with 2% annual inflation, a nominal dollar today
+will be worth 82¢ in 10 years).
+Source: Investment Strategy Group, Do Digital Currencies Pose a Threat to Sovereign Currencies and Central Banks?, Daniel Heller, PIIE.
+12
+Do Cryptocurrencies Meet the Criteria for Currencies?
+1) Bitcoin is an Inefficient Medium of Exchange
+Investment
+Management
+Division
+Average Transaction Fees (US$ Monthly Average)
+6
+5
+4
+$ Per Transaction
+3
+2
+$3.4
+$2.1
+1
+0
+Jan-17 Mar-17 May-17 Jul-17 Sep-17 Nov-17
+• Processing is expensive. The average transaction cost is ~$3.40, rendering transfer of small fund balances uneconomical.
+• Processing is slow. Transaction processing typically takes a minimum of 10-20 minutes, but can take up to 18 hours if
+the network is congested (Visa and Mastercard authorize transactions in ~20 milliseconds).
+• Bitcoin is not broadly accepted. A mere 9k merchants accept bitcoin, compared to the 37mil that accept Visa and
+MasterCard, and the billions of merchants and people globally that accept US dollars. 1
+• Further, the IRS considers all cryptocurrency gains a taxable event (including for de minimis purchases).
+(1) Do Digital Currencies Pose a Threat to Sovereign Currencies and Central Banks?, Daniel Heller, PIIE.
+Source: Investment Strategy Group, Bloomberg, Cryptocompare.com. 13
+Do Cryptocurrencies Meet the Criteria for Currencies?
+2) Bitcoin is an Unreliable Unit of Account
+Investment
+Management
+Division
+Illustrative Pricing: US$ vs. Bitcoin as a Unit of Account
+January 2nd 2017:
+1 Bitcoin =
+$1,012 =
+1 Bosch Dishwasher ($1,079)
+November 14th 2017:
+1 Bitcoin =
+$6,590 =
+6 Bosch Dishwashers ($6,474)
+• Bitcoin’s rapid appreciation makes it an unsatisfactory candidate as a unit of account.
+• In January, one could have purchased a dishwasher for one bitcoin. Today, it would cost 1/6 th a bitcoin to buy the
+unit, implying severe deflation over the past several months.
+• In deflationary environments, people hoard their money in order to buy goods more cheaply at a later date, which has
+prompted most people to hoard their bitcoin.
+Source: Investment Strategy Group, Bloomberg, Cryptocompare.com. 14
+Do Cryptocurrencies Meet the Criteria for Currencies?
+3) Bitcoin is an Unstable Store of Value
+Investment
+Management
+Division
+1. Volatility: Bitcoin versus Most Volatile EM Currencies
+2. Bitcoin, Ether and Ripple versus S&P 500 Historical Drawdowns
+100%
+95.0%
+60
+Bitcoin Ether Ripple S&P 500 (Over Bitcoin's History) S&P 500 (Since 1945)
+47
+47
+5Y Annualized Volatility
+75%
+50%
+40
+20
+0
+-20
+33
+1
+22
+-19%
+0%
+-30%
+25%
+0%
+11.7% 11.9% 12.9%
+Turkey
+(TRY)
+Mexico
+(MXN)
+Colombia
+(COP)
+15.6% 16.1% 16.7%
+South Africa
+(ZAR)
+Brazil
+(BRL)
+Argentina
+(ARS)
+20.6%
+Russia
+(RUB)
+Bitcoin
+(XBT)
+-40
+-60
+-80
+Count of Drawdowns of 15% or More
+(Left Axis)
+-69%
+-67%
+-63%
+-57%
+Worst Historical Drawdown
+(Right Axis)
+-60%
+• Bitcoin’s annualized volatility of 95% dwarfs even the most volatile of EM currencies.
+• Bitcoin’s volatility is 8x the volatility of US equities. In terms of both count and magnitude, Bitcoin, Ether and Ripple have all
+experienced more severe drawdowns over their short histories than the S&P 500 has since 1945.
+• Bitcoin exchanges have thin liquidity, which plays a role in driving enormous price movement—so far to the upside, but which
+could cause a flash crash upon a large sell order. A ~$30 million sell order would likely move the market by 5%.
+• A store of value should predictably preserve wealth. Bitcoin is unable to do so, as it neither generates income nor grows with
+earnings.
+Source: Investment Strategy Group, Bloomberg, Coindesk.com. 15
+Compared to Commodities, Bitcoin’s Market Price is Dislocated
+Relative to its Marginal Production Cost
+Investment
+Management
+Division
+Oil, Gold and Bitcoin: Marginal Production Cost versus Current Market Price
+8000
+7000
+Marginal Production Cost
+Current Market Price
+(% above marginal production cost)
+$6,517
+(+350%)
+6000
+5000
+4000
+3000
+2000
+$1,278
+(+50%)
+$1200-1700
+1000
+0
+$57
+(+8%)
+$52.5
+$850
+Crude Oil (WTI) Gold Bitcoin
+• Bitcoin tokens possesses no physicality, a criteria for traditional commodities.
+• Compared to other commodities, Bitcoin’s market price stands far above its marginal production cost.
+– Gold miners’ and oil drillers’ revenues stand 50% and 8% above their marginal production costs, respectively.
+– Bitcoin miners’ revenue per bitcoin stands approximately 350% above their electricity expenditures.
+(1) Peter C.B. Phillips, Shu-Ping Shi and Jun Yu, “Testing for Multiple Bubbles: Historical Episodes of Exuberance and Collapse in the S&P 500,” International Economic Review, Oct 28, 2015.
+Source: Investment Strategy Group, Bloomberg. 16
+Bitcoin’s Market Cap is Dislocated Relative to that of Payment
+Processors
+Investment
+Management
+Division
+Relative Transaction Volume and Market Cap
+$10
+12m Transaction Volume ($Trillion)
+Market Cap as % of 12m Transaction Volume (Right)
+96.8%
+100%
+$9
+$8.9
+$8
+$7
+75%
+$6
+$5
+$4.8
+50%
+$4
+$3
+$2
+25%
+$1
+$0
+2.8% 3.3%
+$0.1
+Visa Mastercard Bitcoin
+0%
+• Traditional payment processors, Visa and Mastercard, each processed several trillion worth of transaction volumes in
+2016. Bitcoin has processed $111 billion of transactions over the last 12 months.
+– Bitcoin’s slow transaction time precipitated its recent “hard fork” in attempt to enhance processing capacity.
+• Whereas traditional payment processors’ market cap represents ~3% of their transaction volume, Bitcoin’s represents
+97%, suggesting its valuation is dislocated from its fundamental value and that speculation has driven its price.
+(1) “Future of Finance Payment Ecosystems,” Goldman Sachs Global Investment Research, August 3, 2017.
+Source: Investment Strategy Group, Bloomberg, Corporate Annual Reports, Cryptocompare.com. 17
+(1) Peter C.B. Phillips, Shu-Ping Shi and Jun Yu, “Testing for Multiple Bubbles: Historical Episodes of Exuberance and Collapse in the S&P 500,” International Economic Review, Oct 28, 2015.
+Source: Investment Strategy Group, Bloomberg. 18
+Bitcoin’s Historical Risk Premium is Unexplainable
+Investment
+Management
+Division
+1. Bitcoin Factor Exposures and Unexplained Premium 2. Tactical Hedge Funds’ Factor Exposures and Unexplained Premium
+1.2%
+Annual Risk Premium
+1.0%
+0.8%
+0.6%
+0.4%
+0.2%
+Equity
+Term
+Funding
+Liquidity
+Exchange Rate
+Emerging Market
+0.0%
+Tactical Trading Hedge Funds
+7.0%
+6.0%
+~341pp
+Annual Risk Premium
+5.0%
+4.0%
+3.0%
+2.0%
+2.8pp
+Factor Risk Premium
+Historical Risk Premium
+1.0%
+0.0%
+Tactical Trading Hedge Funds
+2.8%
+± 3.6%
+• Bitcoin’s 300%+ historical annual risk premium is idiosyncratic and cannot be explained by ISG’s multi-factor model.
+• An inability to understand sources of risk and return makes one incapable of predicting when performance will reverse.
+• For tactical hedge funds, half of the historical risk premium is explained by the factor model.
+(1) Peter C.B. Phillips, Shu-Ping Shi and Jun Yu, “Testing for Multiple Bubbles: Historical Episodes of Exuberance and Collapse in the S&P 500,” International Economic Review, Oct 28, 2015.
+Source: Investment Strategy Group, Bloomberg. 19
+Bitcoin’s Recent Performance is Suggestive of Bubble Territory
+Investment
+Management
+Division
+Bitcoin Performance in the Context of ISG Bubble Indicator
+• A bubble-detection test that measures explosive price behavior based on the S&P 500’s price-to-dividend ratio 1
+suggests only a 16% probability that the US stock market is currently in a bubble.
+• Bitcoin’s price performance, on the other hand, suggests the asset has been in bubble territory since early this year.
+Key Cryptocurrency Risks
+Investment
+Management
+Division
+• In addition to their extreme volatility, cryptocurrencies are vulnerable to:
+– Hacking of Exchanges
+– Unintentional Coding Error
+– Government Regulation
+– Central Bank Disruption
+– Developments in Quantum Computing (which would increase success of private key hacking)
+Source: Investment Strategy Group.
+20
+The Cryptocurrency Infrastructure is Young and
+Susceptible to Hacking
+Investment
+Management
+Division
+Timeline of Major Cryptocurrency Hacks and Amount Stolen
+2011
+- Allinvain – 25,000 BTC
+2012
+BitFloor – 24,000 BTC - - Bitcoin Savings and Trust – 46,703 BTC
+2013
+BIPS – 1,295 BTC - - Inputs.io – 4,100 BTC
+- Picostocks – 6,000 BTC
+2014
+Mt Gox – 75,000 BTC - - Flexcoin – 1,000 BTC
+Poloniex – undisclosed BTC -
+- Bitcurex – undisclosed BTC
+Canadian Bitcoins – undisclosed BTC -
+2015
+Coinapult – 150 BTC - - BitStamp – 18,866 BTC
+Bitfinex – 1,500 BTC - - BTER – 7,170 BTC
+Scrypt.CC – undisclosed BTC - - Purse.io – 10,235 BTC
+2016
+Bitfinex – $65mil -
+Gatecoin – $2mil -
+- Cryptsy – 13,000 BTC
+- Cointrader – undisclosed BTC
+- DAO – $55mil
+2017
+æternity blockchain – undisclosed - - CoinDash – $7mil
+Edgeless Casino – undisclosed -
+Parity (Ethereum) – ~$350mil -
+- Swarm City – $32.6mil
+- Bithumb – $1mil
+- Veritaseum – $8.4mil
+• Although cryptocurrencies cannot be spent without control of the corresponding private keys, care must be taken to
+protect those private keys. Many bitcoin owners allow exchanges to custody their private keys, which leaves them
+vulnerable:
+– If hackers are able to access owners’ private keys, they can deplete owners’ digital wallets.
+– As of August 2016, Reuters reported that a third of bitcoin exchanges had been hacked. 1
+– Ethereum’s recent Parity hack is the first time a coding error has resulted in a loss of funds.
+• Estimates vary but suggest that hackers have stolen at least several hundred million dollars of cryptocurrencies.
+(1) http://fortune.com/2016/08/29/risk-of-bitcoin-hacking-is-real/
+21
+Cryptocurrencies’ Legal and Regulatory Status Remains Uncertain
+Investment
+Management
+Division
+Country
+Illustrative
+Acceptance of
+Cryptocurrencies’ Status Key Regulator
+Cryptocurrencies 1
+Switzerland Assets, not Securities • FINMA
+Singapore Assets, not Securities • Monetary Authority of Singapore
+Japan Recognized as legal tender (Bitcoin only) • Financial Services Agency
+United Kingdom Private Currency • Financial Conduct Authority
+United States
+− Commodities, potentially securities
+(SEC has not yet made determination)
+− IRS treats as property for tax purposes
+(Exchanges, however, are not required to
+create 1099s).
+• SEC
+• CFTC
+• OCC
+• 50 States
+Russia Financial instruments, not currency • Central Bank of Russia
+• Russian Finance Ministry
+China Non-monetary digital asset • People’s Bank of China
+• The cryptocurrency world operates across geographic and jurisdictional borders, creating ambiguity as to its legal
+status.
+• Individual countries have taken differing views on cryptocurrencies.
+(1) Data according to Autonomous NEXT #Token Mania (July 2017)
+Source: Investment Strategy Group, Cryptocompare.com. 22
+Central Banks Have Begun Exploring Cryptocurrency Options
+Investment
+Management
+Division
+1. Central Bank Current State 2. Illustrative Potential State: Central Bank Cryptocurrencies
+• Sovereign central banks have begun exploring cryptocurrency options.
+• A retail central bank cryptocurrency would effectively give the public access to accounts at the central bank with the
+ability to transfer payments peer-to-peer.
+• Cryptocurrency proposals are being considered by several central banks, including Singapore’s MAS, China’s PBOC,
+Russia’s Central Bank, Sweden’s Riksbank and Ecuador’s Banco Central.
+• A successful central bank cryptocurrency could substantially reduce fraud and tax evasion.
+Source: Investment Strategy Group, “Central Bank Cryptocurrencies,” Morten Bech, Rodney Garratt, Bank of International Settlements.
+23
+Central Bank Cryptocurrencies Could Substantially Reduce Fraud
+Investment
+Management
+Division
+“Say there’s a grant to Nigeria for health stuff—if it’s digital money, they can track that it
+was paid to a certain person and when it was paid out. Then you can audit later and say,
+‘Did that really happen?’ You don’t want to tell donors that three percent went astray. Now
+that there’s digital traceability in a place like Nigeria, where corruption is a huge problem,
+we can bring that down. A lot of the optimism we have at the foundation about disease,
+education and financial services is because we’re sitting on top of a digital miracle.”
+– Bill Gates, September 25, 2017
+Source: Investment Strategy Group, “Brain Trust: A Rare Joint Interview with Microsoft CEO Satya Nadella and Bill Gates,” The Wall Street Journal, September 25, 2017.
+24
+Key Takeaways
+Investment
+Management
+Division
+• Blockchain technology, which underlies cryptocurrencies, is revolutionary, and likely
+to have many applications.
+• Cryptocurrencies are currently too volatile to be a medium of exchange, unit of
+account, or store of value, and have many vulnerabilities.
+• The cryptocurrency ecosystem will evolve substantially over time.
+• The current incarnation of cryptocurrencies is unlikely to persist, but we expect
+central bank digital currencies to prevail.
+Source: Investment Strategy Group.
+25
+Investment Management Division
+Economic and Market Monitors
+Economics Monitor
+Investment
+Management
+Division
+US Labor Market Data Period Actual Survey Prior Revised European PMI Data Period Actual Survey Prior Revised
+JOLTS Job Openings (k) Sep 6,093 6,075 6,082 6,090 Markit Eurozone Composite PMI Oct F 56.0 55.9 55.9 --
+Initial Jobless Claims (k) 4-Nov 239 232 229 -- Markit/BME Germany Composite PMI Oct F 56.6 56.9 56.9 --
+Continuing Claims (k) 28-Oct 1,901 1,885 1,884 -- Markit France Composite PMI Oct F 57.4 57.5 57.5 --
+Markit/ADACI Italy Composite PMI Oct 53.9 54.3 54.3 --
+US Consumer Sentiment Period Actual Survey Prior Revised Markit Spain Composite PMI Oct 55.1 54.6 56.4 --
+U. of Mich. Sentiment Nov P 97.8 100.8 100.7 --
+U. of Mich. 5-10 Yr Inflation Nov P 2.5% -- 2.5% -- European Activity Data Period Actual Survey Prior Revised
+Eurozone Retail Sales YoY Sep 3.7% 2.8% 1.2% 2.3%
+China Activity Data Period Actual Survey Prior Revised Italy Retail Sales YoY Sep 3.4% 0.5% -0.5% -0.1%
+Foreign Reserves Oct 3,109 3,110 3,109 -- Germany Industrial Prod. WDA YoY Sep 3.6% 4.5% 4.7% 4.6%
+Exports YoY Oct 6.9% 7.1% 8.1% 8.0% France Industrial Production YoY Sep 3.2% 3.1% 1.1% 1.0%
+Imports YoY Oct 17.2% 17.0% 18.7% 18.6% Italy Industrial Production WDA YoY Sep 2.4% 4.8% 5.7% 5.8%
+CPI YoY Oct 1.9% 1.8% 1.6% -- Spain Industrial Output SA YoY Sep 3.4% 3.1% 1.8% 1.9%
+• The US labor market continues to tighten; the small miss in claims is largely explained by Puerto Rico.
+• Chinese trade growth moderated; deals announced during President Trump’s visit are unlikely to reduce trade deficit.
+• Eurozone data came in mixed relative to consensus expectations, but still points to above-trend growth in the region.
+Source: Investment Strategy Group, Bloomberg.
+27
+Markets Monitor
+Investment
+Management
+Division
+1Y Price Range 11/14/2017 WTD Last Week¹ YTD 1Y Price Range 11/14/2017 WTD Last Week¹ YTD
+S&P 500 2,579 -0.1% -0.2% 15.2% MSCI AC World 573 -0.4% -0.4% 14.6%
+Cons Disc 738 0.4% 0.7% 13.9% MSCI EAFE 1,148 -0.8% -1.1% 10.7%
+Cons Staples 564 0.9% 2.1% 6.0% TOPIX 1,779 -1.2% 0.4% 17.1%
+Energy 503 -2.1% 1.1% -9.3% FTSE 100 7,414 -0.2% -1.7% 3.8%
+Financials 433 0.1% -2.7% 12.0% DAX 13,033 -0.7% -2.6% 13.5%
+Health Care 936 -0.3% -0.5% 17.4% IBEX 35 9,990 -1.0% -2.6% 6.8%
+Industrials 596 -0.9% -1.1% 10.7% Euro Stoxx 50 3,556 -1.0% -2.6% 8.1%
+Info Tech 1,106 -0.2% 0.0% 36.9% MSCI EM 60,154 -0.7% 0.2% 26.2%
+Materials 362 -0.6% -1.2% 15.9% MSCI China 88 -0.7% 2.4% 50.7%
+Real Estate 209 0.1% 3.2% 9.8% MSCI India 1,214 -1.3% -1.6% 23.5%
+Telecom 142 -1.7% -1.3% -19.8% MSCI Brazil 240,688 -1.9% -2.3% 15.4%
+Utilities 288 2.4% 0.4% 16.6% MSCI Russia 969 -0.3% 5.4% -3.0%
+NASDAQ 6,738 -0.2% -0.2% 25.2% USD Trade Weighted 81.16 -0.3% -0.5% -7.0%
+VIX 11.59 0.30 2.15 (2.45) EUR 1.1798 1.1% 0.5% 12.2%
+2yr Yield 1.69% 0.03% 0.04% 0.50% JPY 113.46 0.1% 0.5% 3.1%
+10yr Yield 2.37% -0.03% 0.07% -0.07% GBP 1.3165 -0.2% 0.9% 6.7%
+30yr Yield 2.83% -0.05% 0.07% -0.24% EM Currencies² -0.2% 0.0% 7.6%
+30yr AA Yield 3.83% -0.05% 0.14% -0.33% CNH 6.6357 0.4% -0.4% 5.1%
+HY Spread (bps) 360 0 21 -49 WTI Crude Oil 55.70 -1.8% 2.0% 3.7%
+LIBOR 1.42% 0.00% 0.02% 0.42% Gold Spot Price 1,280 0.4% 0.5% 11.1%
+1Y Low
+1Y Avg.
+Current
+1Y High
+• Equities were softer as concerns around tax reform outweighed a mostly positive Q3 earnings season. Bond yields
+rose globally and the dollar weakened, while oil continued to rally on geopolitical concerns.
+* Based on the MSCI EM Currency index.
+Source: Investment Strategy Group, Bloomberg.
+28
+Investment Management Division
+Appendix & Disclosures
+Appendix
+Investment
+Management
+Division
+• Allinvain - https://www.forbes.com/sites/timworstall/2011/06/17/bitcoin-the-first-500000-theft/#68fa3f5929b3
+• BitFloor - https://www.theverge.com/2012/9/5/3293375/bitfloor-bitcoin-exchange-suspended-theft
+• Bitcoin Savings and Trust - https://www.theverge.com/2012/8/27/3271637/bitcoin-savings-trust-pyramid-scheme-shuts-down
+• BIPS - https://www.coindesk.com/bitcoin-payment-processor-bips-attacked-1m-stolen/
+• Inputs.io - https://www.coindesk.com/hackers-steal-bitcoins-inputs-io-wallet-service/
+• Picostocks - https://bitcointalk.org/index.php?topic=576337#post_toc_58
+• Mt. Gox - https://www.forbes.com/sites/andygreenberg/2014/02/25/bitcoins-price-plummets-as-mt-gox-goes-dark-with-massive-hack-rumored/#5b7199ffce1f
+• Poloniex - https://www.coindesk.com/poloniex-loses-12-3-bitcoins-latest-bitcoin-exchange-hack/
+• Canadian Bitcoins - https://news.vice.com/article/over-100k-in-bitcoin-was-stolen-in-a-ridiculously-low-tech-heist
+• Flexcoin - https://www.coindesk.com/bitcoin-bank-flexcoin-close-600000-bitcoin-theft/
+• Bitcurex - https://www.coindesk.com/polish-bitcoin-exchange-bitcurex-targeted-hacking-attack/
+• Coinapult - https://bravenewcoin.com/news/bitcoin-exchange-bitfinex-integrates-bitgo-following-recent-hack/
+• Bitfinex - https://cointelegraph.com/news/breaking-bitfinex-hot-wallet-hacked-bitcoins-stolen
+• Scrypt.CC - http://insidebitcoins.com/news/cloud-mining-provider-scrypt-cc-drains-bitcoin-from-user-balances/34500
+• BitStamp - http://www.zdnet.com/article/bitstamp-bitcoin-exchange-suspended-amid-hack-concerns-heres-what-we-know/
+• BTER - https://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack/
+• Purse.io - https://www.cryptocoinsnews.com/purse-io-users-are-targeted-by-hackers-10-235-btc-stolen/
+• Bitfinex - http://fortune.com/2016/08/03/bitcoin-stolen-bitfinex-hack-hong-kong/
+• Gatecoin - https://siliconangle.com/blog/2016/05/17/cryptocurrency-exchange-gatecoin-hacked-2m-in-bitcoin-and-ethereum-stolen/
+• Cryptsy - https://www.coindesk.com/cryptsy-bankruptcy-millions-bitcoin-stolen/
+• Cointrader - https://www.pymnts.com/news/bitcoin-tracker/2016/obama-declares-bitcoin-a-national-currency/
+• DAO - https://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/
+• Aeternity blockchain - http://www.businessinsider.com/report-hackers-stole-32-million-in-ethereum-after-a-parity-breach-2017-7
+• Edgeless Casino - http://www.businessinsider.com/report-hackers-stole-32-million-in-ethereum-after-a-parity-breach-2017-7
+• Parity (Ethereum) - https://motherboard.vice.com/en_us/article/ywbqmg/parity-multi-signature-wallet-vulnerability-300-million-hard-fork
+• CoinDash - https://www.coindesk.com/coindash-ico-hacker-nets-additional-ether-theft-tops-10-million/
+• Swarm City - https://www.cnbc.com/2017/07/20/32-million-worth-of-digital-currency-ether-stolen-by-hackers.html
+• Bithumb - http://www.livebitcoinnews.com/south-korean-government-investigates-latest-bithumb-hack/
+• Veritaseum - https://www.coindesk.com/veritaseum-founder-claims-8-million-ico-token-stolen/
+30
+Important Information
+Investment
+Management
+Division
+Investment Strategy Group. The Investment Strategy Group (ISG) is part of the Investment Management Division of Goldman Sachs. The Investment Strategy Group
+(ISG) is focused on asset allocation strategy formation and market analysis for Private Wealth Management. Any information that references ISG, including their model
+portfolios, represents the views of ISG, is not research and is not a product of Global Investment Research. If shown, ISG Model Portfolios are provided for illustrative
+purposes only. Your actual asset allocation may look significantly different based on your particular circumstances and risk tolerance. Tactical tilts may involve a high
+degree of risk. No assurance can be made that profits will be achieved or that substantial losses will not be incurred.
+Economic and market forecasts presented herein reflect our judgment as of the date of this presentation and are subject to change without notice. These forecasts do not
+take into account the specific investment objectives, restrictions, tax and financial situation or other needs of any specific client. Actual data will vary and may not be
+reflected here. These forecasts are subject to high levels of uncertainty that may affect actual performance. Accordingly, these forecasts should be viewed as merely
+representative of a broad range of possible outcomes. These forecasts are estimated, based on assumptions, and are subject to significant revision and may change
+materially as economic and market conditions change. Goldman Sachs has no obligation to provide updates or changes to these forecasts. Case studies and examples are
+for illustrative purposes only. If applicable, a copy of Goldman Sachs Global Investment Research (GIR) Report used for GIR forecasts is available upon request.
+Not a Municipal Advisor. Except in circumstances where Goldman Sachs expressly agrees otherwise, Goldman Sachs is not acting as a municipal advisor and the
+opinions or views contained in this presentation are not intended to be, and do not constitute, advice, including within the meaning of Section 15B of the Securities
+Exchange Act of 1934.
+Entities Providing Services. This material has been approved for issue in the United Kingdom solely for the purposes of Section 21 of the Financial Services and Markets
+Act 2000 by Goldman Sachs International, Peterborough Court, 133 Fleet Street, London EC4A 2BB; by Goldman Sachs Canada, in connection with its distribution in
+Canada; in the United States by Goldman Sachs & Co. LLC; in Hong Kong by Goldman Sachs (Asia) L.L.C.; in Korea by Goldman Sachs (Asia) L.L.C., Seoul Branch; in
+Japan by Goldman Sachs (Japan) Ltd; in Australia by Goldman Sachs Australia Pty Ltd (ACN 006 797 897); and in Singapore by Goldman Sachs (Singapore) Pte.
+(Company Number: 19862165W).
+In Australia, this document, and any access to it, is intended only for a person that has first satisfied Goldman Sachs that: the person is a Sophisticated or Professional
+Investor for the purposes of section 708 of the Corporations Act of Australia; and the person is a wholesale client for the purpose of section 761G of the Corporations Act of
+Australia. To the extent that Goldman Sachs & Co. LLC (GSCo), Goldman Sachs (Asia) L.L.C. (GSALLC), and/or Goldman Sachs International (GSI) are providing
+financial services in Australia, GSCo, GSALLC and GSI are exempt from the requirement to hold an Australian financial services licence for the financial services they
+provide in Australia. GSCo is authorized and regulated by the U.S Securities and Exchange Commission under US laws; GSALLC is regulated by the Hong Kong Securities
+and Futures Commission under Hong Kong laws; and GSI is regulated by the UK Financial Conduct Authority and Prudential Regulation Authority.
+Investment Risks. Risks vary by the type of investment. For example, investments that involve futures, equity swaps, and other derivatives, as well as non-investment
+grade securities, give rise to substantial risk and are not available to or suitable for all investors. We have described some of the risks associated with certain investments
+below. Additional information regarding risks may be available in the materials provided in connection with specific investments. You should not enter into a transaction or
+make an investment unless you understand the terms of the transaction or investment and the nature and extent of the associated risks. You should also be satisfied that
+the investment is appropriate for you in light of your circumstances and financial condition.
+• Money Market Funds. Investments in money market funds are not insured or guaranteed by the Federal Deposit Insurance Corporation or any other
+government agency. Although money market funds seek to preserve the value of your investment at $1.00 per share, it is possible to lose money by
+investing in money market funds.
+• U.S. Registered Mutual Funds / ETFs or Exchange Traded Notes (ETNs). A Prospectus and, if available, a summary prospectus for the applicable
+mutual fund, ETF or ETN containing more information may be obtained from your Private Wealth Management team. Please consider a fund's
+investment objectives, risks, charges and expenses, and read the summary prospectus or the Prospectus carefully before investing, as they contain
+this and other information about the mutual fund.
+31
+Important Information
+Investment
+Management
+Division
+You may obtain documents for ETFs or ETNs for free by 1) visiting EDGAR on the SEC website at http://www.sec.gov/; 2) contacting your Private Wealth Management
+team; or 3) calling toll-free at 1-866-471-2526. Unlike traditional mutual funds, ETFs can trade at a discount or premium to the net asset value and are not directly
+redeemable by the fund.
+You should understand the risks associated with leveraged or inverse ETFs, ETNs or commodities futures-linked ETFs before investing. These types of securities may
+experience greater price movements than traditional ETFs and may not be appropriate for all investors. Most leveraged and inverse ETFs or ETNs seek to deliver
+multiples of the performance (or the inverse of the performance) of the underlying index or benchmark on a daily basis. Their performance over a longer period of time
+can vary significantly from the stated daily performance objectives or the underlying benchmark or index due to the effects of compounding. Performance differences may
+be magnified in a volatile market. Commodities futures-linked ETFs may perform differently than the spot price for the commodity itself, including due to the entering into
+and liquidating of futures or swap contracts on a continuous basis to maintain exposure (i.e., “rolling”) and disparities between near term future prices and long term future
+prices for the underlying commodity. You should not assume that a commodity-futures linked ETF will provide an effective hedge against other risks in your portfolio.
+• Alternative Investments. Alternative investments may involve a substantial degree of risk, including the risk of total loss of an investor’s capital and the use of leverage,
+and therefore may not be appropriate for all investors. Private equity, private real estate, hedge funds and other alternative investments structured as private investment
+funds are subject to less regulation than other types of pooled vehicles and liquidity may be limited. Investors in private investment funds should review the Offering
+Memorandum, the Subscription Agreement and any other applicable disclosures for risks and potential conflicts of interest. Terms and conditions governing private
+investments are contained in the applicable offering documents, which also include information regarding the liquidity of such investments, which may be limited.
+• Emerging Markets and Growth Markets. Investing in the securities of issuers in emerging markets and growth markets involves certain considerations, including:
+political and economic conditions, the potential difficulty of repatriating funds or enforcing contractual or other legal rights, and the small size of the securities markets in
+such countries coupled with a low volume of trading, resulting in potential lack of liquidity and in price volatility.
+• Equity Investments. Equity investments are subject to market risk, which means that the value of the securities may go up or down in respect to the prospects of
+individual companies, particular industry sectors and/or general economic conditions. The securities of small and mid-capitalization companies involve greater risks than
+those associated with larger, more established companies and may be subject to more abrupt or erratic price movements.
+• Fixed Income. Investments in fixed income securities are subject to the risks associated with debt securities generally, including credit/default, liquidity and interest rate
+risk. Any guarantee on an investment grade bond of a given country applies only if held to maturity.
+• Non-US Securities. Investing in non-US securities involve the risk of loss as a result of more or less non-US government regulation, less public information, less liquidity
+and greater volatility in the countries of domicile of the issuers of the securities and/or the jurisdiction in which these securities are traded. In addition, investors in
+securities such as ADRs/GDRs, whose values are influenced by foreign currencies, effectively assume currency risk.
+• Real Estate. Investments in real estate involve additional risks not typically associated with other asset classes, such as sensitivities to temporary or permanent
+reductions in property values for the geographic region(s) represented. Real estate investments (both through public and private markets) are also subject to changes in
+broader macroeconomic conditions, such as interest rates.
+• Structured Investments. Structured investments are complex, involve risk and are not suitable for all investors. Investors in structured investments assume the credit risk
+of the issuer or guarantor. If the issuer or guarantor defaults, you may lose your entire investment, even if you hold the product to maturity. Structured investments often
+perform differently from the asset(s) they reference. Credit ratings may pertain to the credit rating of the issuer and are not indicative of the market risk associated with the
+structured investment or the reference asset. Each structured investment is different, and for each investment you should consider 1) the possibility that at expiration you
+may be forced to own the reference asset at a depressed price; 2) limits on the ability to share in upside appreciation; 3) the potential for increased losses if the reference
+asset declines; and 4) potential inability to sell given the lack of a public trading market.
+32
+Important Information
+Investment
+Management
+Division
+Options. Options involve risk and are not suitable for all investors. The purchase of options can result in the loss of an entire investment and the risk of uncovered options
+is potentially unlimited. Please ensure that you have read and understood the current options disclosure document before entering into any standardized options
+transactions. The booklet entitled Characteristic and Risk of Standardized Options can be obtained from our sales representatives or at
+http://www.theocc.com/components/docs/riskstoc.pdf. Transaction costs may be significant in option strategies that require multiple purchases and sales of options, such
+as spreads. Supporting documentation for any comparisons, recommendations, statistics, technical data, or other information will be supplied upon request.
+• Buying Options - Investors who buy call (put) options risk loss of the entire premium paid if the underlying security finishes below (above) the strike price at
+expiration.
+• Selling Options - Investors who sell puts risk loss of the strike price less the premium received for selling the put.
+OTC Derivatives. To understand clearly the terms and conditions of any OTC derivative transaction you may enter into, you should carefully review the Master Agreement,
+including any related schedules, credit support documents, addenda and exhibits. You may be requested to post margin or collateral at levels consistent with the internal
+policies of Goldman Sachs to support written OTC derivatives.
+Prior to entering into an OTC derivative transaction you should be aware of the below general risks associated with OTC derivative transactions:
+– Liquidity Risk: There is no public market for OTC derivative transactions and, therefore, it may be difficult or impossible to liquidate an existing position on
+favorable terms.
+– Risk of Inability to Assign: OTC derivative transactions entered into with one or more affiliates of Goldman Sachs cannot be assigned or otherwise transferred
+without Goldman Sachs’ prior written consent and, therefore, it may be impossible for you to transfer any OTC derivative transaction to a third party.
+– Counterparty Credit Risk: Because Goldman Sachs may be obligated to make substantial payments to you as a condition of an OTC derivative transaction, you
+must evaluate the credit risk of doing business with Goldman Sachs. Depending on the type of transaction, your counterparty may be Goldman Sachs & Co. LLC, a
+registered U.S. broker-dealer, or other affiliate of The Goldman Sachs Group, Inc. As a broker dealer regulated by the Securities and Exchange Commission
+(“SEC”), Goldman Sachs & Co. LLC is subject to net capital, financial responsibility rules, and other regulatory requirements designed to protect customer assets.
+Other subsidiaries of The Goldman Sachs Group, Inc. may not be registered as a U.S. broker dealer and therefore are not be subject to similar SEC regulation.
+– Pricing and Valuation: The price of each OTC derivative transaction is individually negotiated between Goldman Sachs and each counterparty and Goldman Sachs
+does not represent or warrant that the prices for which it offers OTC derivative transactions are the best prices available. You may therefore have trouble establishing
+whether the price you have been offered for a particular OTC derivative transaction is fair. OTC derivatives may trade at a value that is different from the level
+inferred from interest rates, dividends and the underlyer. The difference may be due to factors including, but not limited to, expectations of future levels of interest
+rates and dividends, and the volatility of the underlyer prior to maturity. The market price of the OTC derivative transaction may be influenced by many unpredictable
+factors, including economic conditions, the creditworthiness of Goldman Sachs, the value of any underlyers, and certain actions taken by Goldman Sachs.
+– Early Termination Payments: The provisions of an OTC derivative transaction may allow for early termination and, in such cases, either you or Goldman Sachs
+may be required to make a potentially significant termination payment depending upon whether the OTC derivative transaction is in-the-money at the time of
+termination.
+– Indexes: Goldman Sachs does not warrant, and takes no responsibility for, the structure, method of computation or publication of any currency exchange rates,
+interest rates, indexes of such rates, or credit, equity or other indexes, unless Goldman Sachs specifically advises you otherwise.
+33
+Important Information
+Investment
+Management
+Division
+Indices. Any references to indices, benchmarks or other measure of relative market performance over a specified period of time are provided for your information only.
+Indices are unmanaged. The figures for the index reflect the reinvestment of all income or dividends, as applicable, but do not reflect the deduction of any fees or expenses
+which would reduce returns. Investors cannot invest directly in indices. Past performance is not indicative of future results which may vary.
+• S&P Indices (S&P 500 Index). “Standard & Poor’s®”, “S&P®” and “S&P 500® are registered trademarks of Standard & Poor’s Financial Services LLC (“Standard &
+Poor’s”) and are licensed for use by The Goldman Sachs Group, Inc. and its affiliates. The securities are not sponsored, endorsed, sold or promoted by Standard & Poor’s
+and Standard & Poor’s does not make any representation regarding the advisability of investing in the securities.
+• Dow Jones Indices (DJ Industrial Average). S&P is a registered trademark of Standard & Poor’s Financial Services LLC (“S&P”) and Dow Jones®, [DJIA®] [Dow Jones
+Industrial Average®] are trademarks of Dow Jones Trademark Holdings LLC (“Dow Jones”). The trademarks have been licensed to S&P Dow Jones Indices LLC and its
+affiliates and have been sublicensed for use for certain purposes by The Goldman Sachs Group, Inc. The Dow Jones Industrial Average is a product of S&P Dow Jones
+Indices LLC and/or its affiliates, and has been licensed for use by The Goldman Sachs Group, Inc. The securities are not sponsored, endorsed, sold or promoted by S&P
+Dow Jones Indices LLC, Dow Jones, S&P, or any of their respective affiliates (collectively, “S&P Dow Jones Indices”). S&P Dow Jones Indices make no representation or
+warranty, express or implied, to the owners of the securities or any member of the public regarding the advisability of investing in securities generally or in the securities
+particularly or the ability of the Dow Jones Industrial Average to track general market performance.
+• MSCI Indices (MSCI EAFE Index). The MSCI indices are the exclusive property of MSCI Inc. (“MSCI”). MSCI and the MSCI index names are service mark(s) of MSCI or
+its affiliates and are licensed for use for certain purposes by the Issuer. These securities, based on such index, have not been passed on by MSCI as to their legality or
+suitability, and are not issued, sponsored, endorsed, sold or promoted by MSCI, and MSCI bears no liability with respect to any such notes. No purchaser, seller or holder of
+the notes, or any other person or entity, should use or refer to any MSCI trade name, trademark or service mark to sponsor, endorse, market or promote the notes without
+first contacting MSCI to determine whether MSCI’s permission is required. Under no circumstances may any person or entity claim any affiliation with MSCI without the prior
+written permission of MSCI. The prospectus contains a more detailed description of the limited relationship MSCI has with the Issuer and any related securities.
+• Russell Indices (Russell 2000 Index). The Russell 2000® Index is a trademark of Russell Investment Group (“Russell”) and has been licensed for use by The Goldman
+Sachs Group, Inc.. The securities are not sponsored, endorsed, sold or promoted by Russell, and Russell makes no representation regarding the advisability of investing in
+the securities.
+• Tokyo Stock Exchange Indices. Indices including TOPIX (Tokyo Stock Price Index), calculated and published by Tokyo Stock Exchange, Inc. (TSE), are intellectual
+properties that belong to TSE. All rights to calculate, publicize, disseminate, and use the indices are reserved by TSE. ©Tokyo Stock Exchange, Inc. 2014. All rights
+Reserved.
+• EURO Stoxx 50. The EURO STOXX 50® is the intellectual property (including registered trademarks) of STOXX Limited, Zurich, Switzerland and/or its licensors
+(“Licensors”), which is used under license.
+34
+Important Information
+Investment
+Management
+Division
+Tax Information. Goldman Sachs does not provide legal, tax or accounting advice. You should obtain your own independent tax advice based on your particular
+circumstances.
+No Distribution; No Offer or Solicitation. This material may not, without Goldman Sachs' prior written consent, be (i) copied, photocopied or duplicated in any form, by any
+means, or (ii) distributed to any person that is not an employee, officer, director, or authorized agent of the recipient. This material is not an offer or solicitation with respect to
+the purchase or sale of a security in any jurisdiction in which such offer or solicitation is not authorized or to any person to whom it would be unlawful to make such offer or
+solicitation. This material is a solicitation of derivatives business generally, only for the purposes of, and to the extent it would otherwise be subject to, §§ 1.71 and 23.605 of
+the U.S. Commodity Exchange Act.
+Thank you for reviewing this presentation which is intended to discuss general market activity, industry or sector trends, or other broad-based economic, market or political
+conditions. It should not be construed as research. Any reference to a specific company or security is for illustrative purposes and does not constitute a recommendation to
+buy, sell, hold or directly invest in the company or its securities.
+© 2017 Goldman Sachs. All rights reserved. 35

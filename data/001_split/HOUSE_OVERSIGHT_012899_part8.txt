@@ -1,0 +1,1411 @@
+• Dynamics that add new Nodes or Links to a hypergraph, or remove existing ones.
+13.3 Atoms: Their Types and Weights
+This section reviews a variety of CogPrime
+Atom types and gives simple examples of each of them. The Atom types considered are drawn
+from those currently in use in the OpenCog system. This does not represent a complete list of
+Atom types referred to in the text of this book, nor a complete list of those used in OpenCog
+currently (though it does cover a substantial majority of those used in OpenCog currently,
+omitting only some with specialized importance or intended only for temporary use).
+The partial nature of the list given here reflects a more general point: The specific collection
+of Atom types in an OpenCog system is bound to change as the system is developed and experiment
+with. CogPrime specifies a certain collection of representational approaches and cognitive
+algorithms for acting on them; any of these approaches and algorithms may be implemented
+with a variety of sets of Atom types. The specific set of Atom types in the OpenCog system
+currently does not necessarily have a profound and lasting significance – the list might look a
+bit different five years from time of writing, based on various detailed changes.
+The treatment here is informal and intended to get across the general idea of what each
+Atom type does. A longer and more formal treatment of the Atom types is given in Part II,
+beginning in Chapter 20.
+13.3.1 Some Basic Atom Types
+We begin with ConceptNode – and note that a ConceptNode does not necessarily refer to a
+whole concept, but may refer to part of a concept – it is essentially a "basic semantic node"
+whose meaning comes from its links to other Atoms. It would be more accurately, but less
+tersely, named "concept or concept fragment or element node." A simple example would be a
+ConceptNode grouping nodes that are somehow related, e.g.
+ConceptNode: C
+InheritanceLink (ObjectNode: BW) C
+InheritanceLink (ObjectNode: BP) C
+InheritanceLink (ObjectNode: BN) C
+ReferenceLink BW (PhraseNode "Ben’s watch")
+ReferenceLink BP (PhraseNode "Ben’s passport")
+ReferenceLink BN (PhraseNode "Ben’s necklace")
+248 13 Local, Global and Glocal Knowledge Representation
+indicates the simple and uninteresting ConceptNode grouping three objects owned by Ben
+(note that the above-given Atoms don’t indicate the ownership relationship, they just link the
+three objects with textual descriptions). In this example, the ConceptNode links transparently
+to physical objects and English descriptions, but in general this won’t be the case – most
+ConceptNodes will look to the human eye like groupings of links of various types, that link to
+other nodes consisting of groupings of links of various types, etc.
+There are Atoms referring to basic, useful mathematical objects, e.g. NumberNodes like
+NumberNode #4
+NumberNode #3.44
+The numerical value of a NumberNode is explicitly referenced within the Atom.
+A core distinction is made between ordered links and unordered links; these are handled
+differently in the Atomspace software. A basic unordered link is the SetLink, which groups its
+arguments into a set. For instance, the ConceptNode C defined by
+ConceptNode C
+MemberLink A C
+MemberLink B C
+is equivalent to
+SetLink A B
+On the other hand, ListLinks are like SetLinks but ordered, and they play a fundamental role
+due to their relationship to predicates. Most predicates are assumed to take ordered arguments,
+so we may say e.g.
+EvaluationLink
+PredicateNode eat
+ListLink
+ConceptNode cat
+ConceptNode mouse
+to indicate that cats eat mice.
+Note that by an expression like
+ConceptNode cat
+is meant
+ConceptNode C
+ReferenceLink W C
+WordNode W #cat
+since it’s WordNodes rather than ConceptNodes that refer to words. (And note that the strength
+of the ReferenceLink would not be 1 in this case, because the word "cat" has multiple senses.)
+However, there is no harm nor formal incorrectness in the "ConceptNode cat" usage, since "cat"
+is just as valid a name for a ConceptNode as, say, "C."
+We’ve already introduced above the MemberLink, which is a link joining a member to the
+set that contains it. Notable is that the truth value of a MemberLink is fuzzy rather than
+probabilistic, and that PLN is able to inter-operate fuzzy and probabilistic values.
+SubsetLinks also exist, with the obvious meaning, e.g.
+ConceptNode cat
+ConceptNode animal
+SubsetLink cat animal
+13.3 Atoms: Their Types and Weights 249
+Note that SubsetLink refers to a purely extensional subset relationship, and that InheritanceLInk
+should be used for the generic "intensional + extensional" analogue of this – more
+on this below. SubsetLink could more consistently (with other link types) be named ExtensionalInheritanceLink,
+but SubsetLink is used because it’s shorter and more intuitive.
+There are links representing Boolean operations AND, OR and NOT. For instance, we may
+say
+ImplicationLink
+ANDLink
+ConceptNode young
+ConceptNode beautiful
+ConceptNode attractive
+or, using links and VariableNodes instead of ConceptNodes,
+AverageLink $X
+ImplicationLink
+ANDLink
+EvaluationLink young $X
+EvaluationLink beautiful $X
+EvaluationLink attractive $X
+NOTLink is a unary link, so e.g. we might say
+AverageLink $X
+ImplicationLink
+ANDLink
+EvaluationLink young $X
+EvaluationLink beautiful $X
+EvaluationLink
+NOT
+EvaluationLink poor $X
+EvaluationLink attractive $X
+ContextLink allows explicit contextualization of knowledge, which is used in PLN, e.g.
+ContextLink
+ConceptNode golf
+InheritanceLink
+ObjectNode BenGoertzel
+ConceptNode incompetent
+says that Ben Goertzel is incompetent in the context of golf.
+13.3.2 Variable Atoms
+We have already introduced VariableNodes above; it’s also possible to specify the type of a
+VariableNode via linking it to a VariableTypeNode via a TypedVariableLink, e.g.
+VariableTypeLink
+VariableNode $X
+VariableTypeNode ConceptNode
+which specifies that the variable $X should be filled with a ConceptNode.
+Variables are handled via quantifiers; the default quantifier being the AverageLink, so that
+the default interpretation of
+250 13 Local, Global and Glocal Knowledge Representation
+ImplicationLink
+InheritanceLink $X animal
+EvaluationLink
+PredicateNode: eat
+ListLink
+\$X
+ConceptNode: food
+is
+AverageLink $X
+ImplicationLink
+InheritanceLink $X animal
+EvaluationLink
+PredicateNode: eat
+ListLink
+\$X
+ConceptNode: food
+The AverageLink invokes an estimation of the average TruthValue of the embedded expression
+(in this case an ImplicationLink) over all possible values of the variable $X. If there are type
+restrictions regarding the variable $X, these are taken into account in conducting the averaging.
+For AllLink and Exist s-Link may be used in the same places as AverageLink, with uncertain
+truth value semantics defined in PLN theory using third-order probabilities. There is also a
+ScholemLink used to indicate variable dependencies for existentially quantified variables, used
+in cases of multiply nested existential quantifiers.
+EvaluationLink and MemberLink have overlapping semantics, allowing expression of the
+same conceptual/logical relationships in terms of predicates or sets, i.e.
+EvaluationLink
+PredicateNode: eat
+ListLink
+$X
+ConceptNode: food
+has the same semantics as
+MemberLink
+ListLink
+$X
+ConceptNode: food
+ConceptNode: EatingEvents
+The relation between the predicate "eat" and the concept "EatingEvents" is formally given by
+ExtensionalEquivalenceLink
+ConceptNode: EatingEvents
+SatisfyingSetLink
+PredicateNode: eat
+In other words, we say that "EatingEvents" is the SatisfyingSet of the predicate "eat": it is the
+set of entities that satisfy the predicate "eat". Note that the truth values of MemberLink and
+EvaluationLink are fuzzy rather than probabilistic.
+13.3 Atoms: Their Types and Weights 251
+13.3.3 Logical Links
+There is a host of link types embodying logical relationships as defined in the PLN logic system,
+e.g.
+• InheritanceLink
+• SubsetLink (aka ExtensionalInheritanceLink)
+• Intensional InheritanceLink
+which embody different sorts of inheritance, e.g.
+SubsetLink salmon fish
+IntensionalInheritanceLink whale fish
+InheritanceLink fish animal
+and then
+• SimilarityLink
+• ExtensionalSimilarityLink
+• IntensionalSimilarityLink
+which are symmetrical versions, e.g.
+SimilaritytLink shark barracuda
+IntensionalSimilarityLink shark dolphin
+ExtensionalSimiliarityLink American obese\_person
+There are also higher-order versions of these links, both asymmetric
+• ImplicationLink
+• ExtensionalImplicationLink
+• IntensionalImplicationLink
+and symmetric
+• EquivalenceLink
+• ExtensionalEquivalenceLink
+• IntensionalEquivalenceLink
+These are used between predicates and links, e.g.
+ImplicationLink
+EvaluationLink
+eat
+ListLink
+$X
+dirt
+EvaluationLink
+feel
+ListLInk
+$X
+sick
+or
+252 13 Local, Global and Glocal Knowledge Representation
+ImplicationLink
+EvaluationLink
+eat
+ListLink
+$X
+dirt
+InheritanceLink $X sick
+or
+ForAllLink $X, $Y, $Z
+ExtensionalEquivalenceLink
+EquivalenceLink
+$Z
+EvaluationLink
++
+ListLink
+$X
+$Y
+EquivalenceLink
+$Z
+EvaluationLink
++
+ListLink
+$Y
+$X
+Note, the latter is given as an extensional equivalence because it’s a pure mathematical equivalence.
+This is not the only case of pure extensional equivalence, but it’s an important one.
+13.3.4 Temporal Links
+There are also temporal versions of these links, such as
+• PredictiveImplicationLink
+• PredictiveAttractionLink
+• SequentialANDLink
+• SimultaneousANDLink
+which combine logical relation between the argument with temporal relation between their
+arguments. For instance, we might say
+PredictiveImplicationLink
+PredicateNode: JumpOffCliff
+PredicateNode: Dead
+or including arguments,
+PredictiveImplicationLink
+EvaluationLink JumpOffCliff $X
+EvaluationLink Dead $X
+The former version, without variable arguments given, shows the possibility of using higherorder
+logical links to join predicates without any explicit variables. Via using this format exclusively,
+one could avoid VariableAtoms entirely, using only higher-order functions in the manner
+13.3 Atoms: Their Types and Weights 253
+of pure functional programming formalisms like combinatory logic. However, this purely functional
+style has not proved convenient, so the Atomspace in practice combines functional-style
+representation with variable-based representation.
+Temporal links often come with specific temporal quantification, e.g.
+PredictiveImplicationLink <5 seconds>
+EvaluationLink JumpOffCliff $X
+EvaluationLink Dead $X
+indicating that the conclusion will generally follow the premise within 5 seconds. There is a
+system for managing fuzzy time intervals and their interrelationships, based on a fuzzy version
+of Allen Interval Algebra.
+SequentialANDLink is similar to PredictiveImplicationLink but its truth value is calculated
+differently. The truth value of
+SequentialANDLink <5 seconds>
+EvaluationLink JumpOffCliff $X
+EvaluationLink Dead $X
+indicates the likelihood of the sequence of events occurring in that order, with gap lying within
+the specified time interval. The truth value of the PredictiveImplicationLink version indicates
+the likelihood of the second event, conditional on the occurrence of the first event (within the
+given time interval restriction).
+There are also links representing basic temporal relationships, such as BeforeLink and AfterLink.
+These are used to refer to specific events, e.g. if X refers to the event of Ben waking
+up on July 15 2012, and Y refers to the event of Ben getting out of bed on July 15 2012, then
+one might have
+AfterLink X Y
+And there are TimeNodes (representing time-stamps such as temporal moments or intervals)
+and AtTimeLinks, so we may e.g. say
+AtTimeLink
+X
+TimeNode: 8:24AM Eastern Standard Time, July 15 2012 AD
+13.3.5 Associative Links
+There are links representing associative, attentional relationships,
+• HebbianLink
+• AsymmetricHebbianLink
+• InverseHebbianLink
+• SymmetricInverseHebbianLink
+These connote associations between their arguments, i.e. they connote that the entities represented
+by the two argument occurred in the same situation or context, for instance
+HebbianLink happy smiling
+AsymmetricHebbianLink dead rotten
+InverseHebbianLink dead breathing
+254 13 Local, Global and Glocal Knowledge Representation
+The asymmetric HebbianLink indicates that when the first argument is present in a situation,
+the second is also often present. The symmetric (default) version indicates that this relationship
+holds in both directions. The inverse versions indicate the negative relationship: e.g. when one
+argument is present in a situation, the other argument is often not present.
+13.3.6 Procedure Nodes
+There are nodes representing various sorts of procedures; these are kinds of ProcedureNode,
+e.g.
+• SchemaNode, indicating any procedure
+• GroundedSchemaNode, indicating any procedure associated in the system with a Combo
+program or C++ function allowing the procedure to be executed
+• PredicateNode, indicating any predicate that associates a list of arguments with an output
+truth value
+• GroundedPredicateNode, indicating a predicate associated in the system with a Combo
+program or C++ function allowing the predicate’s truth value to be evaluated on a given
+specific list of arguments
+ExecutionLinks and EvaluationLinks record the activity of SchemaNodes and PredicateNodes.
+We have seen many examples of EvaluationLinks in the above. Example ExecutionLinks
+would be:
+ExecutionLink step\_forward
+ExecutionLink step\_forward 5
+ExecutionLink
++
+ListLink
+NumberNode: 2
+NumberNode: 3
+The first example indicates that the schema "step forward" has been executed. The second
+example indicates that it has been executed with an argument of "5" (meaning, perhaps, that 5
+steps forward have been attempted). The last example indicates that the "+" schema has been
+executed on the argument list (2,3), presumably resulting in an output of 5.
+The output of a schema execution may be indicated using an ExecutionOutputLink, e.g.
+ExecutionOutputLink
++
+ListLink
+NumberNode: 2
+NumberNode: 3
+refers to the value "5" (as a NumberNode).
+13.3.7 Links for Special External Data Types
+Finally, there are also Atom types referring to specific types of data important to using OpenCog
+in specific contexts.
+13.3 Atoms: Their Types and Weights 255
+For instance, there are Atom types referring to general natural language data types, such as
+• WordNode
+• SentenceNode
+• WordInstanceNode
+• DocumentNode
+plus more specific ones referring to relationships that are part of link-grammar parses of sentences
+• FeatureNode
+• FeatureLink
+• LinkGrammarRelationshipNode
+• LinkGrammarDisjunctNode
+or RelEx semantic interpretations of sentences
+• DefinedLinguisticConceptNode
+• DefinedLinguisticRelationshipNode
+• PrepositionalRelationshipNode
+There are also Atom types corresponding to entities important for embodying OpenCog in
+a virtual world, e.g.
+• ObjectNode
+• AvatarNode
+• HumanoidNode
+• UnknownObjectNode
+• AccessoryNode
+13.3.8 Truth Values and Attention Values
+CogPrime Atoms (Nodes and Links) are quantified with truth values that, in their simplest
+form, have two components, one representing probability (strength) and the other representing
+weight of evidence; and also with attention values that have two components, short-term and
+long-term importance, representing the estimated value of the Atom on immediate and longterm
+time-scales.
+In practice many Atoms are labeled with CompositeTruthValues rather than elementary ones.
+A composite truth value contains many component truth values, representing truth values of
+the Atom in different contexts and according to different estimators.
+It is important to note that the CogPrime declarative knowledge representation is neither
+a neural net nor a semantic net, though it does have some commonalities with each of these
+traditional representations. It is not a neural net because it has no activation values, and involves
+no attempts at low-level brain modeling. However, attention values are very loosely analogous
+to time-averages of neural net activations. On the other hand, it is not a semantic net because
+of the broad scope of the Atoms in the network: for example, Atoms may represent percepts,
+procedures, or parts of concepts. Most CogPrime Atoms have no corresponding English label.
+However, most CogPrime
+Atoms do have probabilistic truth values, allowing logical semantics.
+256 13 Local, Global and Glocal Knowledge Representation
+13.4 Knowledge Representation via Attractor Neural Networks
+Now we turn to global, implicit knowledge representation – beginning with formal neural net
+models, briefly discussing the brain, and then turning back to CogPrime. Firstly, this section
+reviews some relevant material from the literature regarding the representation of knowledge
+using attractor neural nets. It is a mix of well-established fact with more speculative material.
+13.4.1 The Hopfield neural net model
+Hopfield networks [Hop82] are attractor neural networks often used as associative memories. A
+Hopfield network with N neurons can be trained to store a set of bipolar patterns P , where
+each pattern p has N bipolar (±1) values. A Hopfield net typically has symmetric weights with
+no self-connections. The weight of the connection between neurons i and j is denoted by w ij .
+In order to apply a Hopfield network to a given input pattern p, its activation state is set to
+the input pattern, and neurons are updated asynchronously, in random order, until the network
+converges to the closest fixed point. An often-used activation function for a neuron is:
+∑
+y i = sign(p i w ij y j )
+Training a Hopfield network, therefore, involves finding a set of weights w ij that stores the
+training patterns as attractors of its network dynamics, allowing future recall of these patterns
+from possibly noisy inputs.
+Originally, Hopfield used a Hebbian rule to determine weights:
+w ij =
+j≠i
+P∑
+p i p j
+p=1
+Typically, Hopfield networks are fully connected. Experimental evidence, however, suggests
+that the majority of the connections can be removed without significantly impacting the network’s
+capacity or dynamics. Our experimental work uses sparse Hopfield networks.
+13.4.1.1 Palimpsest Hopfield nets with a modified learning rule
+In [SV99] a new learning rule is presented, which both increases the Hopfield network capacity
+and turns it into a “palimpsest”, i.e., a network that can continuously learn new patterns, while
+forgetting old ones in an orderly fashion.
+Using this new training rule, weights are initially set to zero, and updated for each new
+pattern p to be learned according to:
+13.4 Knowledge Representation via Attractor Neural Networks 257
+N∑
+h ij = w ik p k
+k=1,k≠i,j
+∆w ij = 1 n (p ip j − h ij p j − h ji p i )
+13.4.2 Knowledge Representation via Cell Assemblies
+Hopfield nets and their ilk play a dual role: as computational algorithms, and as conceptual
+models of brain function. In CogPrime they are used as inspiration for slightly different, artificial
+economics based computational algorithms; but their hypothesized relevance to brain function
+is nevertheless of interest in a CogPrime context, as it gives some hints about the potential
+connection between low-level neural net mechanics and higher-level cognitive dynamics.
+Hopfield nets lead naturally to a hypothesis about neural knowledge representation, which
+holds that a distinct mental concept is represented in the brain as either:
+1. a set of “cell assemblies”, where each assembly is a network of neurons that are interlinked
+in such a way as to fire in a (perhaps nonlinearly) synchronized manner
+2. a distinct temporal activation pattern, which may occur in any one (or more) of a particular
+set of cell assemblies
+For instance, this hypothesis is perfectly coherent if one interprets a “mental concept” as a
+SMEPH (defined in Chapter 14) ConceptNode, i.e. a fuzzy set of perceptual stimuli to which
+the organism systematically reacts in different ways. Also, although we will focus mainly on
+declarative knowledge here, we note that the same basic representational ideas can be applied
+to procedural and episodic knowledge: these may be hypothesized to correspond to temporal
+activation patterns as characterized above.
+In the biology literature, perhaps the best-articulated modern theories championing the cell
+assembly view are those of Gunther Palm [Pal82, HAG07] and Susan Greenfield [SF05, CSG07].
+Palm focuses on the dynamics of the formation and interaction assemblies of cortical columns.
+Greenfield argues that each concept has a core cell assembly, and that when the concept rises
+to the focus of attention, it recruits a number of other neurons beyond its core characteristic
+assembly into a “transient ensemble.” 1
+It’s worth noting that there may be multiple redundant assemblies representing the same
+concept – and potentially recruiting similar transient assemblies when highly activated. The
+importance of repeated, slightly varied copies of the same subnetwork has been emphasized by
+Edelman [Ede93] among other neural theorists.
+1 The larger an ensemble is, she suggests, the more vivid it is as a conscious experience; an hypothesis that
+accords well with the hypothesis made in [Goe06b] that a more informationally intense pattern corresponds to
+a more intensely conscious quale – but we don’t need to digress extensively onto matters of consciousness for
+the present purposes.
+258 13 Local, Global and Glocal Knowledge Representation
+13.5 Neural Foundations of Learning
+Now we move from knowledge representation to learning – which is after all nothing but the
+adaptation of represented knowledge based on stimulus, reinforcement and spontaneous activity.
+While our focus in this chapter is on representation, it’s not possible for us to make our points
+about glocal knowledge representation in neural net type systems without discussing some
+aspects of learning in these systems.
+13.5.1 Hebbian Learning
+The most common and plausible assumption about learning in the brain is that synaptic connections
+between neurons are adapted via some variant of Hebbian learning. The original Hebbian
+learning rule, proposed by Donald Hebb in his 1949 book [Heb49], was roughly
+1. The weight of the synapse x → y increases if x and y fire at roughly the same time
+2. The weight of the synapse x → y decreases if x fires at a certain time but y does not
+Over the years since Hebb’s original proposal, many neurobiologists have sought evidence that
+the brain actually uses such a method. One of the things they have found, so far, is a lot of
+evidence for the following learning rule [DC02, LS05]:
+1. The weight of the synapse x → y increases if x fires shortly before y does
+2. The weight of the synapse x → y decreases if x fires shortly after y does
+The new thing here, not foreseen by Donald Hebb, is the “postsynaptic depression” involved in
+rule component 2.
+Now, the simple rule stated above does not sum up all the research recently done on Hebbiantype
+learning mechanisms in the brain. The real biological story underlying these approximate
+rules is quite complex, involving many particulars to do with various neurotransmitters. Illunderstood
+details aside, however, there is an increasing body of evidence that not only does
+this sort of learning occur in the brain, but it leads to distributed experience-based neural
+modification: that is, one instance synaptic modification causes another instance of synaptic
+modification, which causes another, and so forth 2 [Bi01].
+13.5.2 Virtual Synapses and Hebbian Learning Between Assemblies
+Hebbian learning is conventionally formulated in terms of individual neurons, but, it can be
+extended naturally to assemblies via defining “virtual synapses” between assemblies.
+Since assemblies are sets of neurons, one can view a synapse as linking two assemblies
+if it links two neurons, each of which is in one of the assemblies. One can then view
+two assemblies as being linked by a bundle of synapses. We can define the weight of the
+synaptic bundle from assembly A1 to assembly A2 as the number w so that (the change
+2 This has been observed in “model systems” consisting of neurons extracted from a brain and hooked together
+in a laboratory setting and monitored; measurement of such dynamics in vivo is obviously more difficult.
+13.5 Neural Foundations of Learning 259
+in the mean activation of A2 that occurs at time t+epsilon) is on average closest to w ×
+(the amount of energy flowing through the bundle from A1 to A2 at time t). So when A1 sends
+an amount x of energy along the synaptic bundle pointing from A1 to A2, then A2’s mean
+activation is on average incremented/decremented by an amount w × x.
+In a similar way, one can define the weight of a bundle of synapses between a certain static
+or temporal activation-pattern P1 in assembly A1, and another static or temporal activationpattern
+P2 in assembly A2. Namely, this may be defined as the number w so that (the amount
+of energy flowing through the bundle from A1 to A2 at time t)×w best approximates (the
+probability that P2 is present in A2 at time t+epsilon), when averaged over all times t during
+which P1 is present in A1.
+It is not hard to see that Hebbian learning on real synapses between neurons implies Hebbian
+learning on these virtual synapses between cell assemblies and activation-patterns.
+These ideas may be developed further to build a connection between neural knowledge representation
+and probabilistic logical knowledge representation such as is used in CogPrime’s
+Probabilistic Logic Networks formalism; this connection will be pursued at the end of Chapter
+34, once more relevant background has been presented.
+13.5.3 Neural Darwinism
+A notion quite similar to Hebbian learning between assemblies has been pursued by Nobelist
+Gerald Edelman in his theory of neuronal group selection, or “Neural Darwinism.” Edelman won
+a Nobel Prize for his work in immunology, which, like most modern immunology, was based on
+C. MacFarlane Burnet’s theory of “clonal selection” [Bur62], which states that antibody types
+in the mammalian immune system evolve by a form of natural selection. From his point of view,
+it was only natural to transfer the evolutionary idea from one mammalian body system (the
+immune system) to another (the brain).
+The starting point of Neural Darwinism is the observation that neuronal dynamics may be
+analyzed in terms of the behavior of neuronal groups. The strongest evidence in favor of this
+conjecture is physiological: many of the neurons of the neocortex are organized in clusters, each
+one containing say 10,000 to 50,000 neurons each. Once one has committed oneself to looking at
+such groups, the next step is to ask how these groups are organized, which leads to Edelman’s
+concept of “maps.”
+A “map,” in Edelman’s terminology, is a connected set of groups with the property that when
+one of the inter-group connections in the map is active, others will often tend to be active as
+well. Maps are not fixed over the life of an organism. They may be formed and destroyed in
+a very simple way: the connection between two neuronal groups may be “strengthened” by increasing
+the weights of the neurons connecting the one group with the other, and “weakened” by
+decreasing the weights of the neurons connecting the two groups. If we replace “map” with “cell
+assembly” we arrive at a concept very similar to the one described in the previous subsection.
+Edelman then makes the following hypothesis: the large-scale dynamics of the brain is dominated
+by the natural selection of maps. Those maps which are active when good results are
+obtained are strengthened, those maps which are active when bad results are obtained are
+weakened. And maps are continually mutated by the natural chaos of neural dynamics, thus
+providing new fodder for the selection process. By use of computer simulations, Edelman and his
+colleagues have shown that formal neural networks obeying this rule can carry out fairly compli-
+260 13 Local, Global and Glocal Knowledge Representation
+cated acts of perception. In general-evolution language, what is posited here is that organisms
+like humans contain chemical signals that signify organism-level success of various types, and
+that these signals serve as a “fitness function” correlating with evolutionary fitness of neuronal
+maps.
+In Neural Darwinism and his other related books and papers, Edelman goes far beyond this
+crude sketch and presents neuronal group selection as a collection of precise biological hypotheses,
+and presents evidence in favor of a number of these hypotheses. However, we consider that
+the basic concept of neuronal group selection is largely independent of the biological particularities
+in terms of which Edelman has phrased it. We suspect that the mutation and selection of
+“transformations” or “maps” is a necessary component of the dynamics of any intelligent system.
+As we will see later on (e.g. in Chapter 42 of Part 2, this business of maps is extremely
+important to CogPrime. CogPrime does not have simulated biological neurons and synapses,
+but it does have Nodes and Links that in some contexts play loosely similar roles. We sometimes
+think of CogPrime Nodes and Links as being very roughly analogous to Edelman’s neuronal
+clusters, and emergent intercluster links. And we have maps among CogPrime Nodes and Links,
+just as Edelman has maps among his neuronal clusters. Maps are not the sole bearers of meaning
+in CogPrime, but they are significant ones.
+There is a very natural connection between Edelman-style brain evolution and the ideas
+about cognitive evolution presented in Chapter 3. Edelman proposes a fairly clear mechanism
+via which patterns that survive a while in the brain are differentially likely to survive a long
+time: this is basic Hebbian learning, which in Edelman’s picture plays a role between neuronal
+groups. And, less directly, Edelman’s perspective also provides a mechanism by which intense
+patterns will be differentially selected in the brain: because on the level of neural maps, pattern
+intensity corresponds to the combination of compactness and functionality. Among a number
+of roughly equally useful maps serving the same function, the more compact one will be more
+likely to survive over time, because it is less likely to be disrupted by other brain processes
+(such as other neural maps seeking to absorb its component neuronal groups into themselves).
+Edelman’s neuroscience remains speculative, since so much remains unknown about human
+neural structure and dynamics; but it does provide a tentative and plausible connection between
+evolutionary neurodynamics and the more abstract sort of evolution that patternist philosophy
+posits to occur in the realm of mind-patterns.
+13.6 Glocal Memory
+A glocal memory is one that transcends the global/local dichotomy and incorporates both
+aspects in a tightly interconnected way. Here we make the glocal memory concept more precise,
+and describe its incarnation in the context of attractor neural nets (which is similar to its
+incarnation in CogPrime, to be elaborated in later chapters). Though our main interest here is
+in glocality in CogPrime, we also suggest that glocality may be a critical property to consider
+when analyzing human, animal and AI memory more broadly.
+The notion of glocal memory has implicitly occurred in a number of prior brain theories
+(without use of the neologism “glocal”), e.g. [Cal96] and [Goe01], but it has not previously been
+explicitly developed. However the concept has risen to the fore in our recent AI work and so
+we have chosen to flesh it out more fully in [HG08], [GPI + 10] and the present section.
+13.6 Glocal Memory 261
+Glocal memory overcomes the dichotomy between localized memory (in which each memory
+item is stored in a single location within an overall memory structure) and distributed memory
+(in which a memory item is stored as an aspect of a multi-component memory system, in such
+a way that the same set of multiple components stores a large number of memories). In a glocal
+memory system, most memory items are stored both locally and globally, with the property
+that eliciting either one of the two records of an item tends to also elicit the other one.
+Glocal memory applies to multiple forms of memory; however we will focus largely on perceptual
+and declarative memory in our detailed analyses here, so as to conserve space and maintain
+simplicity of discussion.
+The central idea of glocal memory is that (perceptual, declarative, episodic, procedural,
+etc.) items may be stored in memory in the form of paired structures that are called (key,
+map) pairs. Of course the idea of a “pair” is abstract, and such pairs may manifest themselves
+quite differently in different sorts of memory systems (e.g. brains versus non-neuromorphic AI
+systems). The key is a localized version of the item, and records some significant aspects of
+the items in a simple and crisp way. The map is a dispersed, distributed version of the item,
+which represents the item as a (to some extent, dynamically shifting) combination of fragments
+of other items. The map includes the key as a subset; activation of the key generally (but not
+necessarily always) causes activation of the map; and changes in the memory item will generally
+involve complexly coordinated changes on the key and map level both.
+Memory is one area where animal brain architecture differs radically from the von Neumann
+architecture underlying nearly all contemporary general-purpose computers. Von Neumann
+computers separate memory from processing, whereas in the human brain there is no such
+distinction. In fact, it’s arguable that in most cases the brain contains no memory apart from
+processing: human memories are generally constructed in the course of remembering [Ros88],
+which gives human memory a strong capability for “filling in gaps” of remembered experience
+and knowledge; and also causes problems with inaccurate remembering in many contexts
+[BF71, RM95] We believe the constructive aspect of memory is largely associated with its
+glocality.
+The remainder of this section presents a fuller formalization of the glocal memory concept,
+which is then taken up further in three later chapters:
+• Chapter ?? discusses the potential implementation of glocal memory in the human brain
+• Chapter ?? discusses the implementation of glocal memory in attractor neural net systems
+• Chapter 23 presents Glocal Economic Attention Networks (ECANs), rough analogues of
+glocal Hopfield nets that play a central role in CogPrime.
+Our hypothesis of the potential general importance of glocality as a property of memory
+systems (beyond just the CogPrime architecture) – remains somewhat speculative. The presence
+of glocality in human and animal memory is strongly suggested but not firmly demonstrated by
+available neuroscience data; and the general value of glocality in the context of artificial brains
+and minds is also not yet demonstrated as the whole field of artificial brain and mind building
+remains in its infancy. However, the utility of glocal memory for CogPrime is not tied to this
+more general, speculative theme – glocality may be useful in CogPrime even if we’re wrong that
+it plays a significant role in the brain and in intelligent systems more broadly.
+262 13 Local, Global and Glocal Knowledge Representation
+13.6.1 A Semi-Formal Model of Glocal Memory
+To explain the notion of glocal memory more precisely, we will introduce a simple semi-formal
+model of a system S that uses a memory to record information relevant to the actions it
+carries out. The overall concept of glocal memory should not be considered as restricted to
+this particular model. This model is not intended for maximal generality, but is intended to
+encompass a variety of current AI system designs and formal neurological models.
+In this model, we will consider S’s memory subsystem as a set of objects we’ll call “tokens,”
+embedded in some metric space. The metric in the space, which we will call the “basic distance”
+of the memory, generally will not be defined in terms of the semantics of the items stored in the
+memory; though it may come to shape these dynamics through the specific architecture and
+evolution of the memory. Note that these tokens are not intended as generally being mapped
+one-to-one onto meaningful items stored in the memory. The “tokens” are the raw materials
+that the memory arranges in various patterns in order to store items.
+We assume that each token, at each point in time, may meaningfully be assigned a certain
+quantitative “activation level.” Also, tokens may have other numerical or discrete quantities
+associated with them, depending on the particular memory architecture. Finally, tokens may
+relate other tokens, so that optionally a token may come equipped with an (ordered or unordered)
+list of other tokens.
+To understand the meaning of the activation levels, one should think about S’s memory
+subsystem as being coupled with an action-selection subsystem, that dynamically chooses the
+actions to be taken by the overall system in which the two subsystems are embedded. Each
+combination of actions, in each particular type of context, will generally be associated with the
+activation of certain tokens in memory.
+Then, as analysts of the system S, we may associate each token T with an “activation vector”
+v(T, t), whose value for each discrete time t consists of the activation of the token T at time t.
+So, the 50 ′ th entry of the vector corresponds to the activation of the token at the 50 ′ th time
+step.
+“Items stored in memory” over a certain period of time, may then be defined as clusters in
+the set of activation vectors associated with memory during that period of time. Note that the
+system S itself may explicitly recognize and remember patterns regarding what items are stored
+in its memory – but, from an external analyst’s perspective, the set of items in S’s memory is
+not restricted to the ones that S has explicitly recognized as memory items.
+The “localization” of a memory item may be defined as the degree to which the various tokens
+involved in the item are close to each other according to the metric in the memory metric-space.
+This degree may be formalized in various ways, but choosing a particular quantitative measure
+is not important here. A highly localized item may be called “local” and a not-very-localized
+item may be called “global.”
+We may define the “activation distance” of two tokens as the distance between their activation
+vectors. We may then say that a memory is “well aligned” to the extent that there is a correlation
+between the activation distance of tokens, and the basic distance of the memory metric-space.
+Given the above set-up, the basic notion of glocal memory can be enounced fairly simply. A
+glocal memory is one:
+• that is reasonably well-aligned (i.e. the correlation between activation and basic distance is
+significantly greater than random)
+13.6 Glocal Memory 263
+• in which most memory items come in pairs, consisting of one local item and one global
+item, so that activation of the local item (the “key”) frequently leads in the near future to
+activation of the global item (the “map”)
+Obviously, in the scope of all possible memory structures constructible within the above
+formalism, glocal memories are going to be very rare and special. But, we suggest that they are
+important, because they are generally going to be the most effective way for intelligent systems
+to structure their memories.
+Note also that many memories without glocal structure may be “well-aligned” in the above
+sense.
+An example of a predominantly local memory structure, in which nearly all significant memory
+items are local according to the above definition, is the Cyc logical reasoning engine [LG90].
+To cast the Cyc knowledge base in the present formal model, the tokens are logical predicates.
+Cyc does not have an in-built notion of activation, but one may conceive the activation of a
+logical formula in Cyc as the degree to which the formula is used in reasoning or query processing
+during a certain interval in time. And one may define a basic metric for Cyc by associating
+a predicate with its extension (the set of satisfying inputs), and defining the similarity of two
+predicates as the symmetric distance of their extensions. Cyc is reasonably well-aligned, but
+according to the dynamics of its querying and reasoning engines, it is basically a local memory
+structure without significant global memory structure.
+On the other hand, an example of a predominantly global memory structure, in which nearly
+all significant memory items are global according to the above definition, is the Hopfield associative
+memory network [Ami89]. Here memories are stored in the pattern of weights associated
+with synapses within a network of formal neurons, and each memory in general involves a large
+number of the neurons in the network. To cast the Hopfield net in the present formal model, the
+tokens are neurons and synapses; the activations are neural net activations; the basic distance
+between two neurons A and B may be defined as the percentage of the time that stimulating
+one of the neurons leads to the other one firing; and to calculate a basic distance involving a
+synapse, one may associate the synapse with its source and target neurons. With these definitions,
+a Hopfield network is a well-aligned memory, and (by intentional construction) a markedly
+global one. Local memory items will be very rare in a Hopfield net.
+While predominantly local and predominantly global memories may have great value for particular
+applications, our suggestion is that they also have inherent limitations. If so, this means
+that the most useful memories for general intelligence are going to be those that involve both
+local and global memory items in central roles. However, this is a more general and less risky
+claim than the assertion that glocal memory structure as defined above is important. Because,
+“glocal” as defined above doesn’t just mean “neither predominantly global nor predominantly
+local.” Rather, it refers to a specific pattern of coordination between local and global memory
+items – what we have called the “keys and maps” pattern.
+13.6.2 Glocal Memory in the Brain
+Science’s understanding of human brain dynamics is still very primitive, one manifestation of
+which is the fact that we really don’t understand how the brain represents knowledge, except
+in some very simple respects. So anything anyone says about knowledge representation in the
+brain, at this stage, has to be considered highly speculative. Existing neuroscience knowledge
+264 13 Local, Global and Glocal Knowledge Representation
+does imply constraints on how knowledge representation in the brain may work, but these are
+relatively loose constraints. These constraints do imply that, for instance, the brain is neither a
+relational database (in which information is stored in a wholly localized manner) nor a collection
+of “grandmother neurons” that respond individually to high-level percepts or concepts; nor a
+simple Hopfield type neural net (in which all memories are attractors globally distributed across
+the whole network). But they don’t tell us nearly enough to, for instance, create a formal neural
+net model that can confidently be said to represent knowledge in the manner of the human brain.
+As a first example of the current state of knowledge, we’ll discuss here a series of papers
+regarding the neural representation of visual stimuli [QaGKKF05, QKKF08], which deal with
+the fascinating discovery of a subset of neurons in the medial temporal lobe (MTL) that are
+selectively activated by strikingly different pictures of given individuals, landmarks or objects,
+and in some cases even by letter strings. For instance, in their 2005 paper titled ”Invariant visual
+representation by single neurons in the human brain”, it is noted that
+in one case, a unit responded only to three completely different images of the ex-president Bill Clinton.
+Another unit (from a different patient) responded only to images of The Beatles, another one to cartoons
+from The Simpson’s television series and another one to pictures of the basketball player Michael Jordan.
+Their 2008 follow-up paper backed away from the more extreme interpretation in the title as
+well as the conclusion, with the title “Sparse but not ‘Grandmother-cell’ coding in the medial
+temporal lobe.” As the authors emphasize there,
+Given the very sparse and abstract representation of visual information by these neurons, they could in
+principle be considered as ‘grandmother cells’. However, we give several arguments that make such an
+extreme interpretation unlikely.
+. . .
+MTL neurons are situated at the juncture of transformation of percepts into constructs that can be
+consciously recollected. These cells respond to percepts rather than to the detailed information falling
+on the retina. Thus, their activity reflects the full transformation that visual information undergoes
+through the ventral pathway. A crucial aspect of this transformation is the complementary development
+of both selectivity and invariance. The evidence presented here, obtained from recordings of single-neuron
+activity in humans, suggests that a subset of MTL neurons possesses a striking invariant representation
+for consciously perceived objects, responding to abstract concepts rather than more basic metric details.
+This representation is sparse, in the sense that responsive neurons fire only to very few stimuli (and are
+mostly silent except for their preferred stimuli), but it is far from a Grandmother-cell representation.
+The fact that the MTL represents conscious abstract information in such a sparse and invariant way is
+consistent with its prominent role in the consolidation of long-term semantic memories.
+It’s interesting to note how inadequate the [QKKF08] data really is for exploring the notion
+of glocal memory in the brain. Suppose it’s the case that individual visual memories correspond
+to keys consisting of small neuronal subnetworks, and maps consisting of larger neuronal
+subnetworks. Then it would be not at all surprising if neurons in the “key” network corresponding
+to a visual concept like “Bill Clinton’s face” would be found to respond differentially
+to the presentation of appropriate images. Yet, it would also be wrong to overinterpret such
+data as implying that the key network somehow comprises the “representation” of Bill Clinton’s
+face in the individual’s brain. In fact this key network would comprise only one aspect of said
+representation.
+In the glocal memory hypothesis, a visual memory like “Bill Clinton’s face” would be hypothesized
+to correspond to an attractor spanning a significant subnetwork of the individual’s brain
+13.6 Glocal Memory 265
+– but this subnetwork still might occupy only a small fraction of the neurons in the brain (say,
+1/100 or less), since there are very many neurons available. This attractor would constitute the
+map. But then, there would be a much smaller number of neurons serving as key to unlock
+this map: i.e. if a few of these key neurons were stimulated, then the overall attractor pattern
+in the map as a whole would unfold and come to play a significant role in the overall brain
+activity landscape. In prior publications [Goe97] the primary author explored this hypothesis
+in more detail in terms of the known architecture of the cortex and the mathematics of complex
+dynamical attractors.
+So, one possible interpretation of the [QKKF08] data is that the MTL neurons they’re
+measuring are part of key networks that correspond to broader map networks recording percepts.
+The map networks might then extend more broadly throughout the brain, beyond the MTL
+and into other perceptual and cognitive areas of cortex. Furthermore, in this case, if some MTL
+key neurons were removed, the maps might well regenerate the missing keys (as would happen
+e.g. in the glocal Hopfield model to be discussed in the following section).
+Related and interesting evidence for glocal memory in the brain comes from a recent study of
+semantic memory, illustrated in Figure ?? [PNR07]. Their research probed the architecture of
+semantic memory via comparing patients suffering from semantic dementia (SD) with patients
+suffering from three other neuropathologies, and found reasonably convincing evidence for what
+they call a “distributed-plus-hub” view of memory.
+The SD patients they studied displayed highly distinctive symptomology; for instance, their
+vocabularies and knowledge of the properties of everyday objects were strongly impaired,
+whereas their memories of recent events and other cognitive capacities remain perfectly intact.
+These patients also showed highly distinctive patterns of brain damage: focal brain lesions
+in their anterior temporal lobes (ATL), unlike the other patients who had either less severe or
+more widely distributed damage in their ATLs. This led [PNR07] to conclude that the ATL
+(being adjacent to the amygdala and limbic systems that process reward and emotion; and the
+anterior parts of the medial temporal lobe memory system, which processes episodic memory)
+is a “hub” for amodal semantic memory, drawing general semantic information from episodic
+memories based on emotional salience.
+So, in this view, the memory of something like a “banana” would contain a distributed aspect,
+spanning multiple brain systems, and also a localized aspect, centralized in the ATL.
+The distributed aspect would likely contain information on various particular aspects of bananas,
+including their sights, smells, and touches, the emotions they evoke, and the goals and
+motivations they relate to. The distributed and localized aspects would influence one another
+dynamically, but, the data [PNR07] gathered do not address dynamics and they don’t venture
+hypotheses in this direction.
+There is a relationship between the “distributed-plus-hub” view and [Dam00] better-known
+notion of a “convergence zone”, defined roughly as a location where the brain binds features together.
+A convergence zone, in [Dam00] perspective, is not a “store” of information but an agent
+capable of decoding a signal (and of reconstructing information). He also uses the metaphor
+that convergence zones behave like indexes drawing information from other areas of the brain –
+but they are dynamic rather than static indices, containing the instructions needed to recognize
+and combine the features constituting the memory of something. The mechanism involved in
+the distributed-plus-hub model is similar to a convergence zone, but with the important difference
+that hubs are less local: [PNR07] semantic hub may be thought of a kind of “cluster of
+convergence zones” consisting of a network of convergence zones for various semantic memories.
+266 13 Local, Global and Glocal Knowledge Representation
+Fig. 13.1: A Simplified Look at Feedback-Control in Uncertain Inference
+What is missing in [PNR07] and [Dam00] perspective is a vision of distributed memories
+as attractors. The idea of localized memories serving as indices into distributed knowledge
+stores is important, but is only half the picture of glocal memory: the creative, constructive,
+dynamical-attractor aspect of the distributed representation is the other half. The closest thing
+to a clear depiction of this aspect of glocal memory that seems to exist in the neuroscience
+literature is a portion of William Calvin’s theory of the “cerebral code” [Cal96]. Calvin proposes
+a set of quite specific mechanisms by which knowledge may be represented in the brain
+using complexly-structured strange attractors, and by which these strange attractors may be
+propagated throughout the brain. Figure 13.2 shows one aspect of his theory: how a distributed
+attractor may propagate from one part of the brain to another in pieces, with one portion of
+the attractor getting propagated first, and then seeding the formation in the destination brain
+region of a close approximation of the whole attractor.
+Calvin’s theory may be considered a genuinely glocal theory of memory. However, it also
+makes a large number of other specific commitments that are not part of the notion of glocality,
+such as his proposal of hexagonal meta-columns in the cortex, and his commitment to
+evolutionary learning as the primary driver of neural knowledge creation. We find these other
+13.6 Glocal Memory 267
+Fig. 13.2: Calvin’s Model of Distributed Attractors in the Brain
+hypotheses interesting and highly promising, yet feel it is also important to separate out the
+notion of glocal memory for separate consideration.
+Regarding specifics, our suggestion is that Calvin’s approach may overemphasize the distributed
+aspect of memory, not giving sufficient due to the relatively localized aspect as accounted
+for in the [QKKF08] results discussed above. In Calvin’s glocal approach, global memories
+are attractors and local memories are parts of attractors. We suggest a possible alternative,
+in which global memories are attractors and local memories are particular neuronal subnetworks
+such as the specialized ones identified by [QKKF08]. However, this alternative does not seem
+contradictory to Calvin’s overall conceptual approach, even though it is different from the particular
+proposals made in [Cal96].
+The above paragraphs are far from a complete survey of the relevant neuroscience literature;
+there are literally dozens of studies one could survey pointing toward the glocality of various
+sorts of human memory. Yet experimental neuroscience tools are still relatively primitive, and
+every one of these studies could be interpreted in various other ways. In the next couple decades,
+as neuroscience tools improve in accuracy, our understanding of the role of glocality in human
+memory will doubtless improve tremendously.
+268 13 Local, Global and Glocal Knowledge Representation
+13.6.3 Glocal Hopfield Networks
+The ideas in the previous section suggest that, if one wishes to construct an AGI, it is worth
+seriously considering using a memory with some sort of glocal structure. One research direction
+that follows naturally from this notion is “glocal neural networks.” In order to explore the nature
+of glocal neural networks in a relatively simple and tractable setting, we have formalized and
+implemented simple examples of “glocal Hopfield networks”: palimpsest Hopfield nets with the
+addition of neurons representing localized memories. While these specific networks are not used
+in CogPrime, they are quite similar to the ECAN networks that are used in CogPrime and
+described in Chapter 23 of Part 2.
+Essentially, we augment the standard Hopfield net architecture by adding a set of “key
+neurons.” These are a small percentage of the neurons in the network, and are intended to be
+roughly equinumerous to the number of memories the network is supposed to store. When the
+Hopfield net converges to an attractor A, then new links are created between the neurons that
+are active in A, and one of the key neurons. Which key neuron is chosen? The one that, when
+it is stimulated, gives rise to an attractor pattern maximally similar to A.
+The ultimate result of this is that, in addition to the distributed memory of attractors in the
+Hopfield net, one has a set of key neurons that in effect index the attractors. Each attractor
+corresponds to a single key neuron. In the glocal memory model, the key neurons are the keys
+and the Hopfield net attractors are the maps.
+This algorithm has been tested in sparse Hopfield nets, using both standard Hopfield net
+learning rules and Storkey’s modified palimpsest learning rule [SV99], which provides greater
+memory capacity in a continuous learning context. The use of key neurons turns out to slightly
+increase Hopfield net memory capacity, but this isn’t the main point. The main point is that
+one now has a local representation of each global memory, so that if one wants to create a
+link between the memory and something else, it’s extremely easy to do so – one just needs
+to link to the corresponding key neuron. Or, rather, one of the corresponding key neurons:
+depending on how many key neurons are allocated, one might end up with a number of key
+neurons corresponding to each memory, not just one.
+In order to transform a palimpsest Hopfield net into a glocal Hopfield net, the following steps
+are taken:
+1. Add a fixed number of “key neurons” to the network (removing other random neurons to
+keep the total number of neurons constant)
+2. When the network reaches an attractor, create links from the elements in the attractor to
+one of the key neurons
+3. The key neuron chosen for the previous step is the one that most closely matches the current
+attractor (which may be determined in several ways, to be discussed below)
+4. To avoid the increase of the number of links in the network, when new links are created in
+Step 2, other key-neuron links are then deleted (several approaches may be taken here, but
+the simplest is to remove the key-neuron links with the lowest-absolute-value weights)
+In the simple implementation of the above steps that we implemented, and described in
+[GPI + 10], Step 3 is carried out simply by comparing the weights of a key neuron’s links to the
+nodes in an attractor. A more sophisticated approach would be to select the key neuron with
+the highest activation during the transient interval immediately prior to convergence to the
+attractor.
+13.6 Glocal Memory 269
+The result of these modifications to the ordinary Hopfield net, is a Hopfield net that continually
+maintains a set of key neurons, each of which individually represents a certain attractor
+of the net.
+Note that these key neurons – in spite of being “symbolic” in nature – are learned rather
+than preprogrammed, and are every bit as adaptive as the attractors they correspond to. Furthermore,
+if a key neuron is removed, the glocal Hopfield net algorithm will eventually learn it
+back, so the robustness properties of Hopfield nets are retained.
+The results of experimenting with glocal Hopfield nets of this nature are summarized in
+[GPI + 10]. We studied Hopfield nets with connectivity around .1, and in this context we found
+that glocality
+• slightly increased memory capacity
+• massively increased the rate of convergence to the attractor, i.e. the speed of recall
+However, probably the most important consequence of glocality is a more qualitative one: it
+makes it far easier to link the Hopfield net into a larger system, as would occur if the Hopfield net
+were embedded in an integrative AGI architecture. Because a neuron external to the Hopfield
+net may now link to a memory in the Hopfield net by linking to the corresponding key neuron.
+13.6.4 Neural-Symbolic Glocality in CogPrime
+In CogPrime, we have explicitly sought to span the symbolic/emergentist pseudo-dichotomy,
+via creating an integrative knowledge representation that combines logic-based aspects with
+neural-net-like aspects. As reviewed in Chapter 6 above, these function not in the manner of
+multimodular systems, but rather via using (probabilistic) truth values and (attractor neural
+net like) attention values as weights on nodes and links of the same (hyper) graph. The nodes
+and links in this hypergraph are typed, like a standard semantic network approach for knowledge
+representation, so they’re able to handle all sorts of knowledge, from the most concrete
+perception and actuation related knowledge to the most abstract relationships. But they’re also
+weighted with values similar to neural net weights, and pass around quantities (importance
+values, discussed in Chapter 23 of Part 2) similar to neural net activations, allowing emergent
+attractor/assembly based knowledge representation similar to attractor neural nets.
+The concept of glocality lies at the heart of this combination, in a way that spans the pseudodichotomy:
+• Local knowledge is represented in abstract logical relationships stored in explicit logical
+form, and also in Hebbian-type associations between nodes and links.
+• Global knowledge is represented in large-scale patterns of node and link weights, which
+lead to large-scale patterns of network activity, which often take the form of attractors
+qualitatively similar to Hopfield net attractors. These attractors are called maps.
+The result of all this is that a concept like “cat” might be represented as a combination of:
+• A small number of logical relationships and strong associations, that constitute the “key”
+subnetwork for the “cat” concept.
+• A large network of weak associations, binding together various nodes and links of various
+types and various levels of abstraction, representing the “cat map”.
+270 13 Local, Global and Glocal Knowledge Representation
+The activation of the key will generally cause the activation of the map, and the activation of
+a significant percentage of the map will cause the activation of the rest of the map, including the
+key. Furthermore, if the key were for some reason forgotten, then after a significant amount of
+effort, the system would likely to be able to reconstitute it (perhaps with various small changes)
+from the information in the map. We conjecture that this particular kind of glocal memory will
+turn out to be very powerful for AGI, due to its ability to combine the strengths of formal
+logical inference with those of self-organizing attractor neural networks.
+As a simple example, consider the representation of a “tower”, in the context of an artificial
+agent that has built towers of blocks, and seen pictures of many other kinds of towers, and seen
+some tall building that it knows are somewhat like towers but perhaps not exactly towers. If
+this agent is reasonably conceptually advanced (say, at Piagetan the concrete operational level)
+then its mind will contain some declarative relationships partially characterizing the concept of
+“tower,” as well as its sensory and episodic examples, and its procedural knowledge about how
+to build towers.
+The key of the “tower” concept in the agent’s mind may consist of internal images and
+episodes regarding the towers it knows best, the essential operations it knows are useful for
+building towers (piling blocks atop blocks atop blocks...), and the core declarative relations
+summarizing “towerness” – and the whole “tower” map then consists of a much larger number
+of images, episodes, procedures and declarative relationships connected to “tower” and other
+related entities. If any portion of the map is removed – even if the key is removed – then the
+rest of the map can be approximately reconstituted, after some work. Some cognitive operations
+are best done on the localized representation – e.g. logical reasoning. Other operations, such as
+attention allocation and guidance of inference control, are best done using the globalized map
+representation.
+Chapter 14
+Representing Implicit Knowledge via Hypergraphs
+14.1 Introduction
+Explicit knowledge is easy to write about and talk about; implicit knowledge is equally important,
+but tends to get less attention in discussions of AI and psychology, simply because we don’t
+have as good a vocabulary for describing it, nor as good a collection of methods for measuring
+it. One way to deal with this problem is to describe implicit knowledge using language and
+methods typically reserved for explicit knowledge. This might seem intrinsically non-workable,
+but we argue that it actually makes a lot of sense. The same sort of networks that a system like
+CogPrime uses to represent knowledge explicitly, can also be used to represent the emergent
+knowledge that implicitly exists in an intelligent system’s complex structures and dynamics.
+We’ve noted that CogPrime uses an explicit representation of knowledge in terms of weighted
+labeled hypergraphs; and also uses other more neural net like mechanisms (e.g. the economic
+attention allocation network subsystem) to represent knowledge globally and implicitly. Cog-
+Prime combines these two sorts of representation according to the principle we have called
+glocality. In this chapter we pursue glocality a bit further – describing a means by which even
+implicitly represented knowledge can be modeled using weighted labeled hypergraphs similar to
+the ones used explicitly in CogPrime. This is conceptually important, in terms of making clear
+the fundamental similarities and differences between implicit and explicit knowledge representation;
+and it is also pragmatically meaningful due to its relevance to the CogPrime methods
+described in Chapter 42 of Part 2 that transform implicit into explicit knowledge.
+To avoid confusion with CogPrime’s explicit knowledge representation, we will refer to the
+hypergraphs in this chapter as composed of Vertices and Edges rather than Nodes and Links. In
+prior publications we have referred to "derived" or "emergent" hypergraphs of the sort described
+here using the acronym SMEPH, which stands for Self-Modifying, Evolving Probabilistic Hypergraphs.
+14.2 Key Vertex and Edge Types
+We begin by introducing a particular collection of Vertex and Edge types, to be used in modeling
+the internal structures of intelligent systems.
+The key SMEPH Vertex types are
+271
+272 14 Representing Implicit Knowledge via Hypergraphs
+• ConceptVertex, representing a set, for instance, an idea or a set of percepts
+• SchemaVertex, representing a procedure for doing something (perhaps something in the
+physical world, or perhaps an abstract mental action).
+The key SMEPH Edge types, using language drawn from Probabilistic Logic Networks (PLN)
+and elaborated in Chapter 34 below, are as follows:
+• ExtensionalInheritanceEdge (ExtInhEdge for short: an edge which, linking one Vertex or
+Edge to another, indicates that the former is a special case of the latter)
+• ExtensionalSimilarityEdge (ExtSim: which indicates that one Vertex or Edge is similar to
+another)
+• ExecutionEdge (a ternary edge, which joins S,B,C when S is a SchemaVertex and the result
+from applying S to B is C).
+So, in a SMEPH system, one is often looking at hypergraphs whose Vertices represent ideas or
+procedures, and whose Edges represent relationships of specialization, similarity or transformation
+among ideas and/or procedures.
+The semantics of the SMEPH edge types is given by PLN, but is simple and commonsensical.
+ExtInh and ExtSim Edges come with probabilistic weights indicating the extent of
+the relationship they denote (e.g. the ExtSimEdge joining the cat ConceptVertex to the dog
+ConceptVertex gets a higher probability weight than the one joining the cat ConceptVertex
+to the washing-machine ConceptVertex). The mathematics of transformations involving these
+probabilistic weights becomes quite involved - particularly when one introduces SchemaVertices
+corresponding to abstract mathematical operations, a step that enables SMEPH hypergraphs
+to have the complete mathematical power of standard logical formalisms like predicate calculus,
+but with the added advantage of a natural representation of uncertainty in terms of
+probabilities, as well as a natural representation of networks and webs of complex knowledge.
+14.3 Derived Hypergraphs
+We now describe how SMEPH hypergraphs may be used to model and describe intelligent
+systems. One can (in principle) draw a SMEPH hypergraph corresponding to any individual
+intelligent system, with Vertices and Edges for the concepts and processes in that system’s
+mind. This is called the derived hypergraph of that system.
+14.3.1 SMEPH Vertices
+A ConceptVertex in the derived hypergraph of a system corresponds to a structural pattern
+that persists over time in that system; whereas a SchemaVertex corresponds to a multi-timepoint
+dynamical pattern that recurs in that system’s dynamics. If one accepts the patternist
+definition of a mind as the set of patterns in an intelligent system, then it follows that the
+derived hypergraph of an intelligent system captures a significant fraction of the mind of that
+system.
+To phrase it a little differently, we may say that a ConceptVertex, in SMEPH, refers to the
+habitual pattern of activity observed in a system when some condition is met (this condition
+14.3 Derived Hypergraphs 273
+corresponding to the presence of a certain pattern). The condition may refer to something in
+the world external to the system, or to something internal. For instance, the condition may be
+observing a cat. In this case, the corresponding Concept vertex in the mind of Ben Goertzel
+is the pattern of activity observed in Ben Goertzel’s brain when his eyes are open and he’s
+looking in the direction of a cat. The notion of pattern of activity can be made rigorous using
+mathematical pattern theory, as is described in The Hidden Pattern [Goe06a].
+Note that logical predicates, on the SMEPH level, appear as particular kinds of Concepts,
+where the condition involves a predicate and an argument. For instance, suppose one wants to
+know what happens inside Ben’s mind when he eats cheese. Then there is a Concept corresponding
+to the condition of cheese-eating activity. But there may also be a Concept corresponding
+to eating activity in general. If the Concept denoting the activity of eating X is generally easily
+computable from the Concepts for X and eating individually, then the eating Concept is
+effectively acting as a predicate.
+A SMEPH SchemaVertex, on the other hand, is like a Concept that’s defined in a timedependent
+way. One type of Schema refers to a habitual dynamical pattern of activity occurring
+before and/or during some condition is met. For instance, the condition might be saying the
+word Hello. In that case the corresponding SchemaVertex in the mind of Ben Goertzel is the
+pattern of activity that generally occurs before he says Hello.
+Another type of Schema refers to a habitual dynamical pattern of activity occurring after
+some condition X is met. For instance, in the case of the Schema for adding two numbers, the
+precondition X consists of the two numbers and the concept of addition. The Schema is then
+what happens when the mind thinks of adding and thinks of two numbers.
+Finally, there are Schema that refer to habitual dynamical activity patterns occurring after
+some condition X is met and before some condition Y is met. In this case the Schema is viewed
+as transforming X into Y. For instance, if X is the condition of meeting someone who is not a
+friend, and Y is the condition of being friends with that person, then the habitually intervening
+activities constitute the Schema for making friends.
+14.3.2 SMEPH Edges
+SMEPH edge types fall into two categories: functional and logical. Functional edges connect
+Schema vertices to their input and outputs; logical edges refer mainly to conditional probabilities,
+and in general are to be interpreted according to the semantics of Probabilistic Logic
+Networks.
+Let us begin with logical edges. The simplest case is the Subset edge, which denotes a
+straightforward, extensional conditional probability. For instance, it may happen that whenever
+the Concept for cat is present in a system, the Concept for animal is as well. Then we would
+say
+Subset cat animal
+(Here we assume a notation where “R A B” denotes an Edge of type R between Vertices A and
+B.)
+On the other hand, it may be that 50% of the time that cat is present in the system, cute is
+present as well: then we would say
+Subset cat cute <.5>
+274 14 Representing Implicit Knowledge via Hypergraphs
+where the <.5> denotes the probability, which is a component of the Truth Value associated
+with the edge.
+Next, the most basic functional edge is the Execution edge, which is ternary and denotes a
+relation between a Schema, its input and its output, e.g.
+Execution father_of Ben_Goertzel Ted_Goertzel
+for a schema father_of that outputs the father of its argument.
+The ExecutionOutput (ExOut) edge denotes the output of a Schema in an implicit way, e.g.
+ExOut say_hello
+refers to a particular act of saying hello, whereas
+ExOut add_numbers {3, 4)
+refers to the Concept corresponding to 7. Note that this latter example involves a set of three
+entities: sets are also part of the basic SMEPH knowledge representation. A set may be thought
+of as a hypergraph edge that points to all its members.
+In this manner we may define a set of edges and vertices modeling the habitual activity
+patterns of a system when in different situations. This is called the derived hypergraph of the
+system. Note that this hypergraph can in principle be constructed no matter what happens
+inside the system: whether it’s a human brain, a formal neural network, Cyc, OCP, a quantum
+computer, etc. Of course, constructing the hypergraph in practice is quite a different story: for
+instance, we currently have no accurate way of measuring the habitual activity patterns inside
+the human brain. fMRI and PET and other neuroimaging technologies give only a crude view,
+though they are continually improving.
+Pattern theory enters more deeply here when one thoroughly fleshes out the Inheritance
+concept. Philosophers of logic have extensively debated the relationship between extensional
+inheritance (inheritance between sets based on their members) and intensional inheritance (inheritance
+between entity-types based on their properties). A variety of formal mechanisms have
+been proposed to capture this conceptual distinction; see (Wang, 2006, 1995 TODO make ref)
+for a review along with a novel approach utilizing uncertain term logic. Pattern theory provides
+a novel approach to defining intension: one may associate with each ConceptVertex in a system’s
+derived hypergraph the set of patterns associated with the structural pattern underlying that
+ConceptVertex. Then, one can define the strength of the IntensionalInheritanceEdge between
+two ConceptVertices A and B as the percentage of A’s pattern-set that is also contained in B’s
+pattern-set. According to this approach, for instance, one could have
+IntInhEdge whale fish <0.6>
+ExtInhEdge whale fish <0.0>
+since the fish and whale sets have common properties but no common members.
+14.4 Implications of Patternist Philosophy for Derived Hypergraphs
+of Intelligent Systems
+Patternist philosophy rears its head here and makes some definite hypotheses about the structure
+of derived hypergraphs. It suggests that derived hypergraphs should have a dual network
+14.4 Implications of Patternist Philosophy for Derived Hypergraphs of Intelligent Systems 275
+structure, and that in highly intelligent systems they should have subgraphs that constitute
+models of the whole hypergraph (these are self systems). SMEPH does not add anything to
+the patternist view on a philosophical level, but it gives a concrete instantiation to some of the
+general ideas of patternism. In this section we’ll articulate some "SMEPH principles", constituting
+important ideas from patternist philosophy as they manifest themselves in the SMEPH
+context.
+The logical edges in a SMEPH hypergraph are weighted with probabilities, as in the simple
+example given above. The functional edges may be probabilistically weighted as well, since some
+Schema may give certain results only some of the time. These probabilities are critical in terms
+of SMEPH’s model of system dynamics; they underly one of our SMEPH principles,
+Principle of Implicit Probabilistic Inference: In an intelligent system, the temporal
+evolution of the probabilities on the edges in the system’s derived hypergraph should approximately
+obey the rules of probability theory.
+The basic idea is that, even if a system - through its underlying dynamics - has no explicit
+connection to probability theory, it still must behave roughly as if it does, if it is going to be
+intelligent. The roughly part is important here; it’s well known that humans are not terribly
+accurate in explicitly carrying out formal probabilistic inferences. And yet, in practical contexts
+where they have experience, humans can make quite accurate judgments; which is all that’s
+required by the above principle, since it’s the contexts where experience has occurred that will
+make up a system’s derived hypergraph.
+Our next SMEPH principle is evolutionary, and states
+Principle of Implicit Evolution: In an intelligent system, new Schema and Concepts will
+continually be created, and the Schema and Concepts that are more useful for achieving system
+goals (as demonstrated via probabilistic implication of goal achievement) will tend to survive
+longer.
+Note that this principle can be fulfilled in many different ways. The important thing is that
+system goals are allowed to serve as a selective force.
+Another SMEPH dynamical principle pertains to a shorter time-scale than evolution, and
+states
+Principle of Attention Allocation: In an intelligent system, Schema and Concepts that
+are more useful for attaining short-term goals will tend to consume more of the system’s energy.
+(The balance of attention oriented toward goals pertaining to different time scales will vary from
+system to system.)
+Next, there is the
+Principle of Autopoesis: In an intelligent system, if one removes some part of the system
+and then allows the system’s natural dynamics to keep going, a decent approximation to that
+removed part will often be spontaneously reconstituted.
+And there is the
+276 14 Representing Implicit Knowledge via Hypergraphs
+Cognitive Equation Principle: In an intelligent system, many abstract patterns that are
+present in the system at a certain time as patterns among other Schema and Concepts, will at
+a near-future time be present in the system as patterns among elementary system components.
+The Cognitive Equation Principle, briefly discussed in Chapter 3, basically means that Concepts
+and Schema emergent in the system are recognized by the system and then embodied
+as elementary items in the system so that patterns among them in their emergent form become,
+with the passage of time, patterns among them in their directly-system-embodied form.
+This is a natural consequence of the way intelligent systems continually recognize patterns in
+themselves.
+Note that derived hypergraphs may be constructed corresponding to any complex system
+which demonstrates a variety of internal dynamical patterns depending on its situation. However,
+if a system is not intelligent, then according to the patternist philosophy evolution of its
+derived hypergraph can’t necessarily be expected to follow the above principles.
+14.4.1 SMEPH Principles in CogPrime
+We now more explicitly elaborate the application of these ideas in the CogPrime context. As
+noted above, in addition to explicit knowledge representation in terms of Nodes and Links,
+CogPrime also incorporates implicit knowledge representation in the form of what are called
+Maps: collections of Nodes and Links that tend to be utilized together within cognitive processes.
+These Maps constitute a CogPrime system’s derived hypergraph, which will not be identical
+to the hypergraph it uses for explicit knowledge representation. However, an interesting
+feedback loop arises here, in that the intelligence’s self-study will generally lead it to recognize
+large portions of its derived hypergraph as patterns in itself, and then embody these patterns
+within its concretely implemented knowledge hypergraph. This relates to the Cognitive Equation
+Principle defined above 3, in which an intelligent system continually recognizes patterns in
+itself and embodies these patterns in its own basic structure (so that new patterns may more
+easily emerge from them).
+Often it happens that a particular CogPrime node will serve as the center of a map, so that
+e.g. the Concept Link denoting cat will consist of a number of nodes and links roughly centered
+around a ConceptNode that is linked to the WordNode cat. But this is not guaranteed and
+some CogPrime maps are more diffuse than this with no particular center.
+Somewhat similarly, the key SMEPH dynamics are represented explicitly in CogPrime: probabilistic
+reasoning is carried out via explicit application of PLN on the CogPrime hypergraph,
+evolutionary learning is carried out via application of the MOSES optimization algorithm, and
+attention allocation is carried out via a combination of inference and evolutionary pattern mining.
+But the SMEPH dynamics also occur implicitly in CogPrime: emergent maps are reasoned
+on probabilistically as an indirect consequence of node-and-link level PLN activity; maps evolve
+as a consequence of the coordinated whole of CogPrime dynamics; and attention shifts between
+maps according to complex emergent dynamics.
+To see the need for maps, consider that even a Node that has a particular meaning attached
+to it - like the Iraq Node, say - doesn’t contain much of the meaning of Iraq in it. The meaning
+of Iraq lies in the Links attached to this Node, and the Links attached to their Nodes - and
+the other Nodes and Links not explicitly represented in the system, which will be created by
+14.4 Implications of Patternist Philosophy for Derived Hypergraphs of Intelligent Systems 277
+CogPrime’s cognitive algorithms based on the explicitly existent Nodes and Links related to
+the Iraq Node.
+This halo of Atoms related to the Iraq node is called the Iraq map. In general, some maps
+will center around a particular Atom, like this Iraq map, others may not have any particular
+identifiable center. CogPrime’s cognitive processes act directly on the level of Nodes and Links,
+but they must be analyzed in terms of their impact on maps as well. In SMEPH terms, Cog-
+Prime maps may be said to correspond to SMEPH ConceptNodes, and for instance bundles of
+Links between the Nodes belonging to a map may correspond to a SMEPH Link between two
+ConceptNodes.
+
+Chapter 15
+Emergent Networks of Intelligence
+15.1 Introduction
+When one is involved with engineering an AGI system, one thinks a lot about the aspects of
+the system one is explicitly building – what are the parts, how they fit together, how to test
+they’re properly working, and so forth. And yet, these explicitly engineered aspects are only a
+fraction of what’s important in an AGI system. At least as critical are the emergent aspects –
+the patterns that emerge once the system is up and running, interacting with the world and
+other agents, growing and developing and learning and self-modifying. SMEPH is one toolkit
+for describing some of these emergent patterns, but it’s only a start.
+In line with these general observations, most of this book will focus on the structures and
+processes that we have built, or intend to build, into the CogPrime system. But in a sense, these
+structures and processes are not the crux of CogPrime’s intended intelligence. The purpose
+of these pre-programmed structures and processes is to give rise to emergent structures and
+processes, in the course of CogPrime’s interaction with the world and the other minds within
+it. We will return to this theme of emergence at several points in later chapters, e.g. in the
+discussion of map formation in Chapter 42 of Part 2.
+Given the important of emergent structures – and specifically emergent network structures –
+for intelligence, it’s fortunate the scientific community has already generated a lot of knowledge
+about complex networks: both networks of physical or software elements, and networks of
+organization emergent from complex systems. As most of this knowledge has originated in
+fields other than AGI, or in pure mathematics, it tends to require some reinterpretation or
+tweaking to achieve maximal applicability in the AGI context; but we believe this effort will
+become increasingly worthwhile as the AGI field progresses, because network theory is likely
+to be very useful for describing the contents and interactions of AGI systems as they develop
+increasing intelligence.
+In this brief chapter we specifically focus on the emergence of certain large-scale network
+structures in a CogPrime knowledge store, presenting heuristic arguments as to why these
+structures can be expected to arise. We also comment on the way in which these emergent
+structures are expected to guide cognitive processes, and give rise to emergent cognitive processes.
+The following chapter expands on this theme in a particular direction, exploring the
+possible emergence of structures characterizing inter-cognitive reflection.
+279
+280 15 Emergent Networks of Intelligence
+15.2 Small World Networks
+One simple but potentially useful observation about CogPrime Atomspaces is that they are
+generally going to be small world networks [Buc03], rather than random graphs. A small world
+network is a graph in which the connectivities of the various nodes display a power law behavior
+– so that, loosely speaking, there are a few nodes with very many links, then more nodes with a
+modest number of links ... and finally, a huge number of nodes with very few links. This kind of
+network occurs in many natural and human systems, including citations among papers, financial
+arrangements among banks, links between Web pages and the spread of diseases among people
+or animals. In a weighted network like an Atomspace, "small-world-ness" must be defined in a
+manner taking the weights into account, and there are several obvious ways to do this. Figure
+15.1 depicts a small but prototypical small-worlds network, with a few "hub" nodes possessing
+far more neighbors than the others, and then some secondary hubs, etc.
+An excellent reference on network theory in general, including but not limited to small world
+networks, is Peter Csermely’s Weak Links [Cse06]. Many of the ideas in that work have apparent
+OpenCog applications, which are not elaborated here.
+Fig. 15.1: A typical, though small-sized, small-worlds network.
+One process via which small world networks commonly form is "preferential attachment"
+[Bar02]. This occurs in essence when "the rich get richer" – i.e. when nodes in the network
+grow new links, in a manner that causes them to preferentially grow links to nodes that already
+have more links. It is not hard to see that CogPrime’s ECAN dynamics will naturally lead to
+15.3 Dual Network Structure 281
+preferential attachment, because Atoms with more links will tend to get more STI, and thus
+will tend to get selected by more cognitive processes, which will cause them to grow more
+links. For this reason, in most circumstances, a CogPrime system in which most link-building
+cognitive processes rely heavily on ECAN to guide their activities will tend to contain a smallworld-network
+Atomspace. This is not rigorously guaranteed to be the case for any possible
+combination of environment and goals, but it is commonsensically likely to nearly always be
+the case.
+One consequence of the small worlds structure of the Atomspace is that, in exploring other
+properties of the Atom network, it is particularly important to look at the hub nodes. For
+instance, if one is studying whether hierarchical and heterarchical subnetworks of the Atomspace
+exist, and whether they are well-aligned with each other, it is important to look at hierarchical
+and heterarchical connections between hub nodes in particular (and secondary hubs, etc.). A
+pattern of hierarchical or dual network connection that only held up among the more sparsely
+connected nodes in a small-world network would be a strange thing, and perhaps not that
+cognitively useful.
+15.3 Dual Network Structure
+One of the key theoretical notions in patternist philosophy is that complex cognitive systems
+evolve internal dual network structures, comprising superposed, harmonized hierarchical and
+heterarchical networks. Now we explore some of the specific CogPrime structures and dynamics
+militating in favor of the emergence of dual networks.
+15.3.1 Hierarchical Networks
+The hierarchical nature of human linguistic concepts is well known, and is illustrated in Figure
+15.2 for the commonsense knowledge domain (using a graph drawn from WordNet, a huge concept
+hierarchy covering 50K+ English-language concepts), and in Figure 15.4 for a specialized
+knowledge subdomain, genetics. Due to this fact, a certain amount of hierarchy can be expected
+to emerge in the Atomspace of any linguistically savvy CogPrime, simply due to its modeling
+of the linguistic concepts that it hears and reads.
+Hierarchy also exists in the natural world apart from language, which is the reason that many
+sensorimotor-knowledge-focused AGI systems (e.g. DeSTIN and HTM, mentioned in Chapter
+4 above) feature hierarchical structures. In these cases the hierarchies are normally spatiotemporal
+in nature - with lower layers containing elements responding to more localized aspects
+of the perceptual field, and smaller, more localized groups of actuators. This kind of hierarchy
+certainly could emerge in an AGI system, but in CogPrime we have opted for a different route.
+If a CogPrime system is hybridized with a hierarchical sensorimotor network like one of those
+mentioned above, then the Atoms linked to the nodes in the hierarchical sensorimotor network
+will naturally possess hierarchical conceptual relationships, and will thus naturally grow hierarchical
+links between them (e.g. InheritanceLinks and IntensionalInheritanceLinks via PLN,
+AsymmetricHebbianLinks via ECAN).
+282 15 Emergent Networks of Intelligence
+Fig. 15.2: A typical, though small, subnetwork of WordNet’s hierarchical network.
+Once elements of hierarchical structure exist via the hierarchical structure of language and
+physical reality, then a richer and broader hierarchy can be expected to accumulate on top
+of it, because importance spreading and inference control will implicitly and automatically be
+guided by the existing hierarchy. That is, in the language of Chaotic Logic [Goe94] and patternist
+theory, hierarchical structure is an "autopoietic attractor" – once it’s there it will tend to enrich
+itself and maintain itself. AsymmetricHebbianLinks arranged in a hierarchy will tend to cause
+importance to spread up or down the hierarchy, which will lead other cognitive processes to look
+for patterns between Atoms and their hierarchical parents or children, thus potentially building
+more hierarchical links. Chains of InheritanceLinks pointing up and down the hierarchy will lead
+PLN to search for more hierarchical links – e.g. most simply, A → B → C where C is above
+B is above A in the hierarchy, will naturally lead inference to check the viability of A → C
+by deduction. There is also the possibility to introduce a special DefaultInheritanceLink, as
+discussed in Chapter 34 of Part 2, but this isn’t actually necessary to obtain the inferential
+maintenance of a robust hierarchical network.
+15.3.2 Associative, Heterarchical Networks
+Heterarchy is in essence a simpler structure than hierarchy: it simply refers to a network in
+which nodes are linked to other nodes with which they share important relationships. That is,
+there should be a tendency that if two nodes are often important in the same contexts or for
+15.3 Dual Network Structure 283
+Fig. 15.3: A typical, though small, subnetwork of the Gene Ontology’s hierarchical network.
+the same purposes, they should be linked together. Portrayals of typical heterarchical linkage
+patterns among natural language concepts are given in Figures 15.5 and 15.6. Just for fun,
+Figure 15.7 shows one person’s attempt to draw a heterarchical graph of the main concepts
+in one of Douglas Hofstadter’s books. Naturally, real concept heterarchies are far more large,
+complex and tangled than even this one.
+In CogPrime, ECAN enforces heterarchy via building SymmetricHebbianLinks, and PLN
+by building SimilarityLinks, IntensionalSimilarityLinks and ExtensionalSimilarityLinks. Furthermore,
+these various link types reinforce each other. PLN control is guided by importance
+spreading, which follows Hebbian links, so that a heterarchical Hebbian network tends to cause
+PLN to explore the formation of links following the same paths as the heterarchical Hebbian-
+Links. And importance can spread along logical links as well as explicit Hebbian links, so that
+the existence of a heterarchical logical network will tend to cause the formation of additional
+heterarchical Hebbian links. Heterarchy reinforces itself in "autopoietic attractor" style even
+more simply and directly than heterarchy.
+284 15 Emergent Networks of Intelligence
+Fig. 15.4: Small-scale portrayal of a portion of the spatiotemporal hierarchy in Jeff Hawkins’
+Hierarchical Temporal Memory architecture.
+15.3.3 Dual Networks
+Finally, if both hierarchical and heterarchical structures exist in an Atomspace, then both ECAN
+and PLN will naturally blend them together, because hierarchical and heterarchical links will
+feed into their link-creation processes and naturally be combined together to form new links.
+This will tend to produce a structure called a dual network, in which a hierarchy exists, along
+with a rich network of heterarchical links joining nodes in the hierarchy, with a particular density
+of links between nodes on the same hierarchical level. The dual network structure will emerge
+without any explicit engineering oriented toward it, simply via the existence of hierarchical
+and heterarchical networks, and the propensity of ECAN and PLN to be guided by both the
+hierarchical and heterarchical networks. The existence of a natural dual network structure in
+both linguistic and sensorimotor data will help the formation process along, and then creative
+cognition will enrich the dual network yet further than is directly necessitated by the external
+world.
+15.3 Dual Network Structure 285
+Fig. 15.5: Portions of a conceptual heterarchy centered on specific concepts.
+Fig. 15.6: A portion of a conceptual heterarchy, showing the "dangling links" leading this portion
+to the rest of the heterarchy.
+A rigorous mathematical analysis of the formation of hierarchical, heterarchical and dual
+networks in CogPrime systems has not yet been undertaken, and would certainly be an interesting
+enterprise. Similar to the theory of small world networks, there is ample ground here
+for both theorem-proving and heuristic experimentation. However, the qualitative points made
+here are sufficiently well-grounded in intuition and experience to be of some use guiding our
+286 15 Emergent Networks of Intelligence
+Fig. 15.7: A fanciful evocation of part of a reader’s conceptual heterarchy related to Douglas
+Hofstadter’s writings.
+ongoing work. One of the nice things about emergent network structures is that they are relatively
+straightforward to observe in an evolving, learning AGI system, via visualization and
+inspection of structures such at the Atomspace.
+Section V
+A Path to Human-Level AGI
+
+Chapter 16
+AGI Preschool
+Co-authored with Stephan Vladimir Bugaj
+16.1 Introduction
+In conversations with government funding sources or narrow AI researchers about AGI work, one
+of the topics that comes up most often is that of “evaluation and metrics” – i.e., AGI intelligence
+testing. We actually prefer to separate this into two topics: environments and methods for careful
+qualitative evaluation of AGI systems, versus metrics for precise measurement of AGI systems.
+The difficulty of formulating bulletproof metrics for partial progress toward advanced AGI
+has become evident throughout the field, and in Chapter 8 we have elaborated one plausible
+explanation for this phenomenon, the "trickiness" of cognitive synergy. [LWML09], summarizing
+a workshop on “Evaluation and Metrics for Human-Level AI” held in 2008, discusses some of
+the general difficulties involved in this type of assessment, and some requirements that any
+viable approach must fulfill. On the other hand, the lack of appropriate methods for careful
+qualitative evaluation of AGI systems has been much less discussed, but we consider it actually
+a more important issue – as well as an easier (though not easy) one to solve.
+We haven’t actually found the lack of quantitative intelligence metrics to be a major obstacle
+in our practical AGI work so far. Our OpenCogPrime implementation lags far behind the
+CogPrime design as articulated in Part 2 of this book, and according to the theory underlying
+CogPrime, the more interesting behaviors and dynamics of the system will occur only when all
+the parts of the system have been engineered to a reasonable level of completion and integrated
+together. So, the lack of a great set of metrics for evaluating the intelligence of our partiallybuilt
+system hasn’t impaired too much. Testing the intelligence of the current OpenCogPrime
+system is a bit like testing the flight capability of a partly-built airplane that only has stubs
+for wings, lacks tail-fins, has a much less efficient engine than the one that’s been designed for
+use in the first "real" version of the airplane, etc. There may be something to be learned from
+such preliminary tests, but making them highly rigorous isn’t a great use of effort, compared
+to working on finishing implementing the design according to the underlying theory.
+On the other hand, the problem of what environments and methods to use to qualitatively
+evaluate and study AGI progress, has been considerably more vexing to us in practice, as
+we’ve proceeded in our work on implementing and testing OpenCogPrime and developing the
+CogPrime theory. When developing a complex system, it’s nearly always valuable to see what
+this system does in some fairly rich, complex situations, in order to gain a better intuitive
+understanding of the parts and how they work together. In the context of human-level AGI, the
+theoretically best way to do this would be to embody one’s AGI system in a humanlike body
+289
+290 16 AGI Preschool
+and set it loose in the everyday human world; but of course, this isn’t feasible given the current
+state of development of robotics technology. So one must seek approximations. Toward this end
+we have embodied OpenCogPrime in non-player characters in video game style virtual worlds,
+and carried out preliminary experiments embodying OpenCogPrime in humanoid robots. These
+are reasonably good options but they have limitations and lead to subtle choices: what kind of
+game characters and game worlds, what kind of robot environments, etc.?
+One conclusion we have come to, based largely on the considerations in Chapter 11 on
+development and Chapter 9 on the importance of environment, is that it may make sense to
+embed early-stage proto-AGI and AGI systems in environments reminiscent of those used for
+teaching young human children. In this chapter we will explore this approach in some detail:
+emulation, in either physical reality or an multiuser online virtual world, of an environment
+similar to preschools used in early human childhood education. Complete specification of an
+“AGI Preschool” would require much more than a brief chapter; our goal here is to sketch the
+idea in broad outline, and give a few examples of the types of opportunities such an environment
+would afford for instruction, spontaneous learning and formal and informal evaluation of certain
+sorts of early-stage AGI systems.
+The material in this chapter will pop up fairly often later in the book. The AGI Preschool
+context will serve, throughout the following chapters, as a source of concrete examples of the
+various algorithms and structures. But it’s not proposed merely as an expository tool; we are
+making the very serious proposal that sending AGI systems to a virtual or robotic preschool is
+an excellent way – perhaps the best way – to foster the development of human-level human-like
+AGI.
+16.1.1 Contrast to Standard AI Evaluation Methodologies
+The reader steeped in the current AI literature may wonder why it’s necessary to introduce a
+new methodology and environment for evaluating AGI systems. There are already very many
+different ways of evaluating AI systems out there ... do we really need another?
+Certainly, the AI field has inspired many competitions, each of which tests some particular
+type or aspect of intelligent behavior. Examples include robot competitions, tournaments of
+computer chess, poker, backgammon and so forth at computer olympiads, trading-agent competition,

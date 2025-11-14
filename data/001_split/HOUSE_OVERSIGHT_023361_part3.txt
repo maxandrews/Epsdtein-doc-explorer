@@ -1,0 +1,428 @@
+The district court dismissed plaintiffs’ claims for negligence and NIED based on its conclusion that the plaintiffs failed to “allege or identify a duty owed to Plaintiffs” by the defendants. SPA55 (Terrorist Attacks I); cf. SPA232 n.6 (Terrorist Attacks V); SPA88 (Terrorist Attacks II). The court was simply wrong about this: plaintiffs expressly alleged a duty owed and violated by the defendants. See R.3916 (“By virtue of their participation in the conspiracy to commit acts of international terrorism against the United States, its nationals and allies, including the September 11th Attack, the defendants negligently, intentionally, recklessly, willfully and wantonly breached duties of care owed to plaintiffs and the employees of plaintiffs’ insureds.”) (emphasis added).
+ 
+Because the district court overlooked the plain language of the pleadings, it did not conduct an analysis of whether defendants did, in fact, owe plaintiffs a duty of care. Had it done so, it would have found the duty to be manifest. In New York, courts determine the “threshold question” of whether a duty of care exists “by balancing factors, including [1] the *141 reasonable expectations of parties and society generally, [2] the proliferation of claims, [3] the likelihood of unlimited or insurer-like liability, [4] disproportionate risk and reparation allocation, and [5] public policies affecting the expansion or limitation of new channels of liability.” Hamilton v. Beretta U.S.A. Corp., 96 N.Y.2d 222, 232 (2001), opinion after certified question answered, 264 F.3d 21 (2d Cir. 2001) (internal quotation marks and citation omitted). A defendant may have a duty of care with respect to a third-party’s actions “where there is a relationship either between defendant and a third-person tortfeasor that encompasses defendant’s actual control of the third person’s actions, or between defendant and plaintiff that requires defendant to protect plaintiff from the conduct of others.” Id. at 233. For example, New York recognizes the doctrine of negligent entrustment, whereby
+     One who supplies directly or through a third person a chattel for the use of another whom the supplier knows or has reason to know to be likely because of his youth, inexperience, or otherwise, to use it in a manner involving unreasonable risk of physical harm to himself and others whom the supplier should expect to share in or be endangered by its use, is subject to liability for physical harm resulting to them.
+ 
+ 
+Restatement (Second) of Torts (1965), § 390. See Splawnik v. DiCaprio, 540 N.Y.S.2d 615, 616-17 (N.Y. App. Div. 1989) (citing the negligent *142 entrustment doctrine and holding defendant liable for leaving gun with suicide victim because “the supplier owes a duty to foreseeable parties to withhold the chattel from the entrustee”).
+ 
+Here, where defendants are alleged to have known -- or at least been on notice of facts supporting a conclusion regarding -- the terrorist nature of the al-Qaeda network they supported, the factors weigh overwhelmingly in support of a duty of care. As the Seventh Circuit has concluded, lending material support to a terrorist organization, even without knowledge of its activities, satisfies the elements of negligence. Boim III, 549 F.3d at 693. A fortiori, providing support while knowing the character of the terrorist organization is like giving “a gun you know is loaded to a child .... [D]oing so is reckless and if the child shoots someone” the defendant “will be liable to the victim” even under the higher standard for recklessness. Id.
+ 
+Analogously, in Sickles v. Montgomery Ward & Co., a department store was held liable for negligence when an employee sold an air rifle to a father, knowing that it was intended as a gift to his son, and the son later shot the eye of another child. 167 N.Y.S.2d 977 (N.Y. Sup. Ct. 1957). The court found that the store clerk “should have known” it to be irresponsible *143 to sell the rifle, not only because of the “known propensities of young children in whose possession firearms are placed,” but also because the sale “was specifically proscribed by the Penal Law” and violated the “legislative policy of the State.” Id. at 979. Nor did the fact that the defendant sold the rifle to the father, rather than the boy directly, changes the analysis. Id. (“The naked legality of the sale to the parent, also in pari delicto, does not operate to relieve the defendant from liability.”) (emphasis added).
+ 
+Here, plaintiffs allege that defendants gave material support to persons and organizations they had every reason to suspect were terrorists, and did so either directly or through front institutions -- in clear violation of the United States’ policies against such actions. See Companion Brief at Point LA. The “reasonable expectations of parties and society generally” and “public policies affecting the expansion” of liability therefore weigh heavily in favor of recognizing a duty of care. Hamilton, 96 N.Y.2d at 232. Moreover, recognizing a duty would not give rise to a “likelihood of unlimited or insurer-like liability” or a “proliferation of claims” because the class of potential claimants is restricted to those injured by terrorist attacks and “does not extend beyond that limited class of plaintiffs to members of *144 the community at large.” Id. at 232-33. Finally, imposing a duty of care on those who provide material support to terrorists makes sense as a matter of “risk and reparation allocation,” id. at 232, because “[d]amages are a less effective remedy against terrorists and their organizations than against their financial angels.” Boim III, 549 F.3d at 690.
+ 
+As for plaintiffs’ NIED claims, the district court itself recognized that under New York law, NIED may be established under the “bystander theory,” whereby a defendant is negligent for conduct that is “a substantial factor in bringing about injuries to the plaintiff in consequence of shock or fright resulting from his or her contemporaneous observation of serious physical injury or death inflicted by the defendant’s conduct on a member of the plaintiff’s immediate family in his or her presence.” Bovsun v. Sanperi, 61 N.Y.2d 219, 223-24 (1984); see SPA54 (Terrorist Attacks I). A plaintiff need not have been physically present at the time of death or injury to recover under NIED. Bovsun, 61 N.Y.2d at 233. Here, plaintiffs -- many of them the surviving family members of 9/11 victims -- allege that the defendants’ knowing material support of al-Qaeda was instrumental in allowing the organization to develop and perpetrate the 9/11 attacks, e.g., JA3779-80, and fit easily under the bystander theory.
+ 
+*145 Given the express allegation of a duty of care in plaintiffs’ pleadings, the clear existence of defendants’ duty under traditional tort principles, and the deferential standard afforded to the complaint at the motion to dismiss stage, Matson, 631 F.3d at 72, the Court should vacate the dismissal of plaintiffs’ negligence and NIED claims.
+ 
+                    B. The District Court Wrongly Dismissed the Intentional Tort Claims
+The district court dismissed plaintiffs’ intentional tort claims for assault, battery, and IIED for a number of equally misguided reasons.
+ 
+                    1. Plaintiffs’ Claims Are Not Time-Barred.
+The court first held that all of the Federal Ins. plaintiffs’ claims are barred because they were filed outside of New York’s one-year limitations period that applies to these intentional torts. SPA232 n.6 (Terrorist Attacks V); SPA210 (Terrorist Attacks IV); SPA101-02 (DMI-Kamel); SPA87-88 (Terrorist Attacks II); SPA53 (Terrorist Attacks I) (citing Holmes v. Lorch, 329 F. Supp. 2d 516, 523 (S.D.N.Y. 2004)); N.Y. C.P.L.R. 215(3) (McKinney 2002)).
+ 
+The court failed to recognize, however, that certain of the Federal plaintiffs’ claims arise from injuries suffered in Pennsylvania and Virginia. Applying New York choice-of-law principles, the district court should have *146 found the Virginia and Pennsylvania-based claims timely under those States’ two-year statutes of limitations. Fin. One Pub. Co. v. Lehman Bros. Special Fin., Inc., 414 F.3d 325, 331 (2d Cir. 2005) (where “jurisdiction is grounded in diversity, we apply the forum state’s choice-of-law rules”); Neumeier v. Kuehner, 286 N.E.2d 454, 457-58 (N.Y. 1972) (where the plaintiff and defendant are domiciled in different states, New York courts generally apply the law of the state where the injury occurred.); Va. Code § 8.01-243(A) (two-year default statute of limitations for personal injury claims); Luddeke v. Amana Refrigeration, Inc., 387 S.E.2d 502, 504 (Va. 1990) (under Virginia law, both intentional infliction of emotional distress and assault and battery claims are subject to a two-year statute of limitations.); 42 Pa. Consol. Stat. §§ 5524(1) (two-year statute of limitations for assault and battery actions) & 5524(7) (two-year default statute of limitations for personal injury actions); Bougher v. Univ. of Pittsburgh, 882 F.2d 74 (3d Cir. 1989) (applying two year statute of limitations to a claim for intentional infliction of emotional distress); SPA53-54 (Terrorist Attacks I) (recognizing that the Federal plaintiffs filed their complaint less than two years after the 9/11 attacks).
+ 
+*147 For those claims that are subject to New York’s statute of limitations, the district court should have applied equitable tolling principles. All of plaintiffs’ claims arise from the defendants’ participation in the conspiracy to conduct terrorist attacks against the United States, which was designed to hide the identity of the participants from disclosure to the outside world. As a result, the statute of limitations was tolled until the plaintiffs reasonably should have become aware of the defendants’ involvement in the conspiracy, itself a question of fact to be determined through discovery. Yeadon v. New York Transit Auth., 719 F. Supp. 204, 209 (S.D.N.Y. 1989) (If “a defendant has concealed facts that are critical to a cause of action, then the statute of limitations is tolled until plaintiff discovers or with reasonable diligence should have discovered his claim”); In re Issuer Plaintiff Initial Pub. Offering Antitrust Litig., 00 CIV 7804 (LMM), 2004 WL 487222, at *5 (S.D.N.Y. Mar. 12, 2004). Given the clandestine nature of the conspiracy in which the defendants participated, equitable principles require that the statute of limitations be tolled. See Johnson v. Nyack Hosp., 86 F.3d 8, 12 (2d Cir. 1996) (holding that “[e]quitable tolling allows courts to extend the statute of limitations beyond the time of expiration as necessary to avoid inequitable circumstances”).
+ 
+                    *148 1. Plaintiffs Pleaded That Defendants Materially Supported al-Qaeda.
+The district court also dismissed many other non-Federal plaintiffs’ intentional tort claims for assault and battery, trespass, and wrongful death and survival on the ground that plaintiffs failed to allege that the defendants had “supported, aided and abetted, or conspired with the September 11 terrorists” in a manner that warranted liability. SPA101-02 (SAMBA I); SPA87-88 (Terrorist Attacks II); SPA53-54 (Terrorist Attacks I). The court dismissed corresponding wrongful death and survival claims, as well as the Federal Ins. plaintiffs’ trespass claims, on the same grounds. SPA231-32, 252-53 & n.12 (Terrorist Attacks V); SPA101-02 (SAMBA I); SPA88, 98 (Terrorist Attacks II); SPA53-54, 61-62 (Terrorist Attacks I).
+ 
+As the court recognized, however, because the ATA incorporates state tort law causes of action, liability under the plaintiffs’ intentional tort claims, wrongful death and survival claims, and trespass claims is necessarily coextensive with liability under the ATA. SPA88 (Terrorist Attacks II) (“If Plaintiffs state a claim for relief under the ATA, they will have also stated a claim for wrongful death and survival, the Federal Plaintiffs will have stated a claim for trespass, and the Aston and Burnett Plaintiffs will have stated claims for intentional infliction of emotional *149 distress.”). Because the complaints state claims under the ATA for knowingly providing material support to al-Qaeda, see supra Point LA & LB, the district court’s dismissal of plaintiffs’ intentional tort claims -- like its dismissal of the ATA claims -- should be vacated.
+ 
+                    2. Defendants Who Supported al-Qaeda Through Its Network Are Liable.
+Finally, in its most recent opinion, the district court held that the intentional tort claims against some defendants (precisely which ones, the court does not say) fail because plaintiffs “broaden the scope of liability to include those who allegedly aided, abetted, conspired and/or provided material support to other terrorist organizations that were affiliated with al Qaeda.” SPA231-32 (Terrorist Attacks V). The court appears to have concluded that because plaintiffs alleged that some defendants supported front charities and institutions in the larger al-Qaeda network that funnel money to the organization, rather than, say, wrote a check directly payable to “al Qaeda,” plaintiffs therefore have not alleged that defendants supported al-Qaeda at all.
+ 
+To the extent that this is what the court meant, then Judge Daniels -- who took over the MDL litigation after Judge Casey passed away -- advances a line of reasoning never endorsed by his predecessor. Indeed, *150 this line of reasoning would be contrary to the court’s own prior statements of law, if not its applications thereof. Cf. SPA24 (Terrorist Attacks I) (“The Court is not ruling as a matter of law that a defendant cannot be liable for contributions to organizations that are not themselves designated terrorists. But [the defendant must have] kn[own] the receiving organization to be a solicitor, collector, supporter, front or launderer for such an entity.”).
+ 
+More problematic than inconsistency, however, is the fact that the court’s rationale is incorrect. Support for a terrorist organization can be just as intentional if provided directly to the organization as if provided through an intermediary or agent certain to pass the funds to the terrorists. For this reason, courts have repeatedly recognized that material supporters of terrorism may be found liable “even where support wasn’t provided directly” to the attackers, but rather through “support to an alias or agent.” Goldberg, 660 F. Supp. 2d at 432; cf. Nat’l Council of Resistance of Iran, 373 F.3d at 157-58 (“Just as it is silly to suppose” that State Department designations of terrorist organizations did not survive organizational name changes, “so too it is implausible to think that Congress” did not “authorize the Secretary to prevent” terrorist organizations “from marshaling all the same support via juridically separate agents subject to its *151 control.”). And, such a rule would have provide a ready path for terrorist organizations to shield their financiers from liability -- simply by placing having the financier contribute to a cooperative intermediary. See Companion Brief at Point I.A.3 (describing implications of excluding from liability indirectly provided support for terrorism); see Boim III, 549 F.3d at 690-91 (shielding a financier from liability would exclude from the operation of the law precisely those parties most likely be deterred by the prospect of liability).
+ 
+Plaintiffs have consistently alleged in their pleadings that al-Qaeda operates through an integrated network of institutions and individuals. E.g., R.3779-80. The district court, for its part, cited no authority in support of its “al Qaeda-only” principle, which departs from both precedent and common sense. The dismissals of plaintiffs’ tort claims predicated upon it should be vacated.
+ 
+                    V. The Court Should Reverse The Dismissals Of NCB and the Sovereign Defendants Based Upon Doe v. Bin Laden
+The Court should reverse the dismissals of three defendants -- the Saudi Joint Relief Committee and Saudi Red Crescent Society (collectively, “Sovereign Defendants”) and National Commercial Bank (“NCB”) -- and remand for jurisdictional discovery on the basis of this Court’s recent *152 holding in Doe v. Bin Laden, which abrogated the basis upon which the district court dismissed the Sovereign Defendants and NCB. Plaintiffs previously raised this argument in their separate Motion to Summarily Vacate and Remand these three defendants. See Dkt. 243. In addition to the following, plaintiffs hereby incorporate by reference the arguments in their pending Motion.
+ 
+                    A. The Sovereign Defendants And NCB Were Dismissed Under Terrorist Attacks III.
+In Terrorist Attacks III, this Court held that the Foreign Sovereign Immunities Act’s (“FSIA”) torts exception, 28 U.S.C. § 1605(a)(5), did not provide subject-matter jurisdiction over sovereign entities engaging in terrorism, as defined under the FSIA’s terrorism exception, 28 U.S.C. § 1605A, but who nevertheless could not be sued under the terrorism exception because they were not designated as state sponsors of terrorism. See 538 F.3d 71, 75. In such cases, where the terrorism exception to sovereign immunity was unavailable, the Court reasoned, the FSIA’s torts exception could not provide an independent basis of jurisdiction because claims within the scope of the terrorism exception could not be “shoehorn[ed]” into the torts exception. Id. at 89.
+ 
+*153 Following Terrorist Attacks III, plaintiffs conceded before the district court that, to the extent that Terrorist Attacks III were applied, the decision supported dismissal of the Sovereign Defendants because they were also sovereign entities and plaintiffs had predicated subject matter jurisdiction upon the FSIA torts exception. See R.2148-2, at 23-24; SPA159-60 & n.4. However, plaintiffs expressly reserved the right to argue on appeal that the Second Circuit panel had misstated governing legal standards and that dismissals predicated upon Terrorist Attacks III should be reversed. R.2148-2, at 23-24.
+ 
+NCB also was dismissed under Terrorist Attacks III’s holding on the scope of the FSIA torts exception in § 1605(a)(5). SPA197-98 & n.12. The district court rejected plaintiffs’ argument that a lack of personal jurisdiction could not be the basis of dismissal because NCB was a sovereign. Id. at n.12; see Frontera Res. Azer. Corp. v. State Oil Co. of the Azer. Rep., 582 F.3d 393, 398-401 (2d Cir. 2009) (foreign states and their agents are not “persons” under the Due Process Clause, and thus not entitled to due process safeguards such as minimum-contacts personal jurisdictional analysis). Following Terrorist Attacks III, the court reasoned that “a potential finding as to NCB’s sovereign status would simply result *154 in NCB being immune from suit by virtue of the FSIA,” because the neither the torts exception (because the conduct alleged was terrorism) nor the terrorism exception (because NCB was not a designated sponsor of terrorism) would provide subject matter jurisdiction. SPA198 n.12.
+ 
+                    B. Doe Overruled Terrorist Attacks III
+While the appeals against the Sovereign Defendants and NCB have been pending, this Court has overruled Terrorist Attacks III’s holding on the scope of the FSIA torts exception, i.e., the basis for the dismissals of the Sovereign Defendants and NCB. Doe, 663 F.3d at 70-71. In Doe, this Court recognized that the “terrorism exception, rather than limiting the jurisdiction conferred by the noncommercial tort exception, provides an additional basis for jurisdiction.” Id. at 70. Therefore, the Court concluded, “the noncommercial tort exception can be a basis for a suit arising from the terrorist acts of September 11, 2001.” Id. at 66. The Court announced that Terrorist Attacks III had been overruled in this respect pursuant to this Circuit’s mini-en banc procedure. Id. at 70 n.10. Doe, therefore, is now the law of this Circuit.
+ 
+                    *155 C. The Court Should Reverse the Dismissals of the Sovereign Defendants and NCB and Remand For Jurisdictional Discovery
+Because this Court has overruled the basis of the dismissals of the Sovereign Defendants and NCB, reversal and remand is appropriate relief. See id. at 71; also see Carter v. Barry, 468 F.2d 821 (2d Cir. 1972) (per curiam) (granting motion to summarily reverse or give expedited consideration to district court’s order of dismissal). As a general rule “ ‘an appellate court must apply the law in effect at the time it renders its decision.’ ” Ahern v. Cnty. of Nassau, 118 F.3d 118, 121 (2d Cir. 1997) (quoting Thorpe v. Housing Auth., 393 U.S. 268, 281 (1969)). Here, that law has been established by Doe, an intervening decision, and Doe’s application to the Sovereign Defendants and NCB is straightforward. Cf. Rivera v. Heyman, 157 F.3d 101, 102 (2d Cir. 1998) (vacating the district court’s dismissal of a claim because of “a change in the law during the pendency of th[e] appeal”).
+ 
+Jurisdictional discovery is necessary for both the Sovereign Defendants and NCB. Plaintiffs have raised allegations against the Sovereign Defendants that are substantively identical to the ones raised in *156 Doe, which the Court found required jurisdictional discovery.116 Cf. Doe, 663 F.3d at 65, 71. Likewise, the district court previously noted the need for further jurisdictional discovery to resolve NCB’s status as a sovereign instrumentality in the first instance. See SPA12 (Terrorist Attacks I) (“NCB submits that it is an instrumentality of the Kingdom of Saudi Arabia”). Doe makes plain that the proper course of action in such situations is to reverse and remand for such discovery. Doe, 663 F.3d at 65.
+ 
+                    Conclusion
+For the foregoing reasons and those provided in plaintiffs’ brief addressing personal jurisdiction, the Court should reverse the district court’s dismissal of certain defendants from these proceedings, reinstate the claims dismissed against them, and remand for further proceedings consistent with those determinations.
+ 
+Footnotes
+	
+1
+	The court dismissed approximately 20 defendants pursuant to Rule 12(b)(6), only five of which are the subject of this appeal. The district court also granted motions to dismiss under Rule 12(b)(2) filed by approximately 60 defendants, of which 36 are appellees herein, and further granted motions to dismiss under Rule 12(b)(1) with respect to nine defendants who claimed sovereign immunity under the Foreign Sovereign Immunities Act (“FSIA”), three of which are appellees herein. The dismissals under Rule 12(b)(2) are addressed in Appellants’ Consolidated Brief with Respect to Personal Jurisdiction (“Companion Brief”) filed concurrently with this brief. This brief addresses only the dismissals under Rule 12(b)(6) and Rule 12(b)(1).
+	
+2
+	A previous Rule 54(b) partial final judgment was entered with respect to certain of the defendants dismissed in Terrorist Attacks I and Terrorist Attacks II. This Court’s decision affirming those dismissals is reported at 538 F.3d 71 (2d Cir. 2008) (“Terrorist Attacks III”).
+	
+3
+	There is no universally accepted way to transliterate Arabic names into English. The spellings used by plaintiffs are derived from common usage in source materials, the press, or government documents. Where quoting from a document, pleading, or decision, plaintiffs have used the spelling in the original.
+	
+4
+	Citations in the form “JA#” are to pages in the Joint Appendix. Citations in the form “SPA#” are to pages in the Special Appendix. Citations in the form “R.#” are to the docket number of documents in the record on appeal. Unless otherwise
+	
+5
+	JA1360-74, 1697-1750, 1918-25, 2119-2208, 2349-65, 2428-2547, 2559-2674, 2715-85, 2812-2954, 3085-3201, 3234-3494, 3965-4645, 4725-5369, 5471-5530, 5955-6103, 6123-6340.
+	
+6
+	The actual withdrawal has not been filed.
+	
+7
+	JA3602-04, 3776-78, 7863-64.
+	
+8
+	Final Report of the National Commission on Terrorist Attacks Upon the United States (“9/11 Commission Final Report”), available at http:// www.911commission.gov/report/911Report.pdf, p. 55; JA7864; R.1015, Ex. 2 (CIA Fact Sheet, Usama Bin Laden -- Islamic Extremist Fundraiser).
+	
+9
+	JA3602-07, 3776, 7864.
+	
+10
+	JA3777, 7864-65, 4186-91; R.1257, Ex. 4, pp. 17-18 (United States Government’s Evidentiary Proffer Supporting the Admissibility of Co-Conspirator Statements, United States v. Enaam Arnaout, 02-cr-892, (N.D. Il.) (incorporated by reference into the Federal FAC at ¶ 88 [JA3782] (hereinafter referred to as “Arnaout Evidentiary Proffer”); R.963, Ex. 1, pp. 4-5, 7-8, 10-11 (1996 CIA Report); R.209, Exs. 1 and 2 (June 2004 Press Releases issued by the U.S. Department of the Treasury regarding the designations of Aqeel Al Aqeel and Al Haramain Islamic Foundation); R.977, Ex. E, p. 4 (August 2002 FBI Report -- Interview with former Al Qaeda member Jamal Al Fadl); R.277, Ex. 6, p. 5 (November 29, 2001 letter from U.S. Department of the Treasury to Swiss officials regarding Muwafaq Foundation).
+	
+11
+	JA3777, 4186-91, 7865.
+	
+12
+	JA3777-78, 4186, 7865.
+	
+13
+	9/11 Commission Final Report, p. 56; JA7865.
+	
+14
+	9/11 Commission Final Report, p. 59; R.2059 (Order by Judge George B. Daniels holding that “1992 is the year prior to the 1993 attacks against the United States, and the year when it is alleged that Osama bin Laden and other senior al Qaeda leadership issued a formal fatwah, specifically calling for jihad against the United States and other Western allies.”).
+	
+15
+	JA3630-31.
+	
+16
+	JA3602-03, 3629-30, 3655-56, 3778-80, 3848-49.
+	
+17
+	JA3778-79.
+	
+18
+	JA3650-52, 3656-66, 3788-98, 3807-09, 3982-86, 4052-54, 4129-30, 4210-14, 4427-30, 4538-41, 7867-71, 7882-94; R.1257, Exs. 3, pp. 15-17 (Second Report of the United Nations Monitoring Group on Al Qaida) and Ex. 4, pp. 28-32 (Arnaout Evidentiary Proffer).
+	
+19
+	JA3673-90, 3693-3707, 3779, 3801-05, 3810, 3818, 3830, 3842, 3982, 4073-74, 4166-68, 4187-89, 4200-01, 4292, 4430, 4451-54, 4478-82, 4535, 4501-04, 4537-38, 6188-96, 7867-71, 7879-94; R.963, Ex. 1, pp. 4-5, 10-11 (1996 CIA Report); R.1257, Ex. 3, pp. 16-17 (Second Report of the United Nations Monitoring Group on Al Qaida); R.209, Ex. 2 (June 2004 Press Release issued by the U.S. Department of the Treasury regarding the designations of Aqeel Al Aqeel and Al Haramain Islamic Foundation); R.277, Ex. 6 (November 29, 2001 letter from U.S. Department of the Treasury to Swiss officials regarding Muwafaq Foundation); R.1031, Ex. 8, pp. 14-15 (INTERPOL Task Force Report, Financing of Terrorism and Charities, July 2003).
+	
+20
+	JA3602-3728, 3778-3821.
+	
+21
+	JA3778-3821, 4139-40.
+	
+22
+	JA3646-47, 3656-66, 3693-3707, 3714, 3717-22, 3802, 3812, 3818, 3862-68, 3982-86, 4166-68, 4210-14, 4451-54, 4478-82, 4496-4504, 6175-99, 7867-71, 7882-94; R.1257, Ex. 3, pp. 16-17 (Second Report of the United Nations Monitoring Group on Al Qaida); R.209, Ex. 1 and 2 (June 2004 Press Releases issued by the U.S. Department of the Treasury regarding the designations of Aqeel Al Aqeel and Al Haramain Islamic Foundation); R.1039, Ex. 4, p. 1 (September 9, 2004 Press Release from the U.S. Department of the Treasury regarding the designations of Soliman Al Buthe and the U.S. branch of Al Haramain Islamic Foundation); R.277, Ex. 6, (November 29, 2001 letter from U.S. Department of the Treasury to Swiss officials regarding Yassin al Kadi and Muwafaq Foundation).
+	
+23
+	JA3982-86, 4120-4214, 4166-68, 4451-54, 4478-82, 4496-4504, 6175-99.
+	
+24
+	JA3778-3821.
+	
+25
+	JA3983-84, 4211-12.
+	
+26
+	JA3792, 3795-96, 3803-04, 3809.
+	
+27
+	JA4188-89, 4200-01, 4535; R.1257, Ex. 3, p. 17 (Second Report of the United Nations Monitoring Group on Al Qaida); R.1031, Ex. 8, p. 15 (INTERPOL Task Force Report, Financing of Terrorism and Charities, July 2003).
+	
+28
+	JA3790-91, 4130, 6177-79; R.1257, Ex. 4, p. 18 (Arnaout Evidentiary Proffer).
+	
+29
+	JA3810, 4188-89, 4200-01, 6180.
+	
+30
+	JA3790-91, 4130, 6177-81; R.1257, Ex. 3, p. 17 (Second Report of the United Nations Monitoring Group on Al Qaida); R.977, Ex. H (September 2002 Press Release from the U.S. Department of the Treasury regarding the designation of Wa’el Hamza Jelaidan).
+	
+31
+	JA3791-92; R.277, Ex. 3 (Arnaout Evidentiary Proffer, Exhibit of the U.S. Government -- correspondence on MWL and IIRO letterhead discussing a meeting with Naseef and the agreement to launch attacks from MWL offices).
+	
+32
+	JA3791-92.
+	
+33
+	JA868-69, 2063, 3658-59, 3790-91, 4212, 4130, 6179.
+	
+34
+	JA878, 1842-43, 3705, 5686.
+	
+35
+	JA3790-91, 4212, 4130.
+	
+36
+	JA3791-92; R.277, Ex. 3, p. 3 (Arnaout Evidentiary Proffer, Exhibit of the U.S. Government).
+	
+37
+	JA3795; R.1257, Ex. 3, pp. 16 and 18 (Second Report of the United Nations Monitoring Group on Al Qaida); R.219, Ex. 1, pp. 3-8, 14 (U.S. Government’s Response Brief in Support of Decision of the Immigration Judge Denying Respondent Bail, In the Matter of Mohammad J. A. Khalifa Respondent, In Bond Proceedings, Case No. A29-457-661 -- stating that Khalifa, a known international terrorist, “has been providing support to terrorist groups which have undertaken bombings of civilian targets in [the Philippines], including theaters, and have kidnapped American citizens.”).
+	
+38
+	JA3660-61, 3714-15, 3795, 4052-53, 4538-39; R.963, Ex. 1, p. 8 (1996 CIA Report).
+	
+39
+	R.1762, Ex. 10, pp. 4-5 (Substitution for the Testimony of Khalid Sheikh Mohammed, U.S. v. Moussaoui).
+	
+40
+	JA3764, 4539; R.1257, Ex. 3, p. 18 (Second Report of the United Nations Monitoring Group on Al Qaida).
+	
+41
+	JA3794; R.963, Ex. 1, pp. 7-8 (1996 CIA Report).
+	
+42
+	JA1776-77.
+	
+43
+	R.209, Ex. 1, p. 1 (June 2004 Press Release issued by the U.S. Department of the Treasury regarding the designations of Aqeel Al Aqeel and Al Haramain Islamic Foundation).
+	
+44
+	JA2442-43; R.209, Ex. 2, p. 3 (June 2004 Press Release issued by the U.S. Department of the Treasury regarding the designations of Aqeel Al Aqeel and Al Haramain Islamic Foundation).
+	
+45
+	R.1039, Ex. 4 (September 9, 2004 Press Release from the U.S. Department of the Treasury regarding the designations of Soliman Al Buthe and the U.S. branch of Al Haramain Islamic Foundation).
+	
+46
+	JA2445-46.
+	
+47
+	R.1038, p. 19.
+	
+48
+	JA3813, 4451, 4502-04, 4478-81, 6189-90, 7867-71; R.277, Ex. 6, pp. 4-5 (November 29, 2001 letter from U.S. Department of the Treasury to Swiss officials regarding Yassin al Kadi and Muwafaq Foundation) and Ex. 7 (German Intelligence Report, Investigation of Yassin Qadi and Muwafaq).
+	
+49
+	JA4480-81, 4503, 7869-71; R.277, Exs. 6, p. 5 (November 29, 2001 letter from U.S. Department of the Treasury to Swiss officials regarding Yassin al Kadi and Muwafaq Foundation) and Ex. 7 (German Intelligence Report, Investigation of Yassin Qadi and Muwafaq).
+	
+50
+	JA6189.
+	
+51
+	JA4502, 6189, 7868-70.
+	
+52
+	JA3818, 4478, 6175; R.1257, Ex. 3, p. 16 (Second Report of the United Nations Monitoring Group on Al Qaida); R.1762, Ex. 5, p. 7 (October 22, 2003 Testimony of Former National Security Advisor Richard A. Clarke before the U.S. Senate Banking Committee).
+	
+53
+	JA3778-3780, 3782-3783, 3785-3786, 3790-3792, 3794-3795, 3802, 3808-3809, 3810.
+	
+54
+	JA3821-44, 4281-83, 4352-55, 4465-69, 5891-93, 6208-20, 7863-94.
+	
+55
+	JA3882.
+	
+56
+	Testimony of Lee S. Wolosky to the National Commission on Terrorist Attacks Upon the United States, April 1, 2003. See also Council on Foreign Relations, Terrorist Financing, Maurice R. Greenberg, William F. Wechsler, and Lee S. Wolosky, available at www.cfr.org/content/publications/.../ Terrorist_ Financing_TF.pdf.
+	
+57
+	JA3606-16, 3708-10, 3715-28, 3827-31, 3835-38, 4281-83, 4292, 4329-43, 4352-55, 4465-69, 4478-82, 4496-4504, 5981-93, 6208-20.
+	
+58
+	JA3606-16, 3835-38, 4329-42, 4352-55, 5981-93, 6208-20; R.1015, Exs. 2, pp. 1-2 (CIA Fact Sheet, Usama Bin Laden -- Islamic Extremist Fundraiser) and Ex. 3, p. 2 (March 24, 2004 Testimony of Former National Security Advisor Richard A. Clarke before the 9/11 Commission); R. 1257, Ex. 4 (Arnaout Evidentiary Proffer).
+	
+59
+	United States v. Bin Laden, et al, 397 F. Supp. 2d 465, 515-516, 518 (S.D.N.Y. 2005).
+	
+60
+	JA3606-16, 3837-38, 4334-35, 4354, 5983-84, 6212-14.
+	
+61
+	JA3835, 4333-54, 5998, 6215-17.
+	
+62
+	JA6209-10, 6237-38.
+	
+63
+	JA3827-31, 3715-22, 4073-74, 4281-83, 4292, 4465-69, 4478-82, 4496-4504, 6188-94, 7863-94.
+	
+64
+	JA3718-19, 4073, 4498, 4883, 6191.
+	
+65
+	JA3830, 3718-22, 4292, 4073-74, 4498-99, 7882-85.
+	
+66
+	JA3830, 4073-74, 4292, 4498, 7884-85
+	
+67
+	JA3718, 3831, 4478, 4501, 6175-99, 7885-93.
+	
+68
+	JA3716-17, 3827-28, 4281-83, 4466-71, R.1031, Ex. 8, p. 14 (INTERPOL Task Force Report, Financing of Terrorism and Charities, July 2003).
+	
+69
+	JA4282-83.
+	
+70
+	The other officials of Al Rajhi Bank who are defendant-appellees in this appeal are Abdullah al Rajhi, Saleh al Rajhi, and Sheik Saleh al-Hussayen. Together, these individuals and Suleiman al Rajhi are referred to as the “Al Rajhi Defendants.”
+	
+71
+	JA3828, 4281-83, 4465-69.
+	
+72
+	JA2569-70.
+	
+73
+	JA3607, 3836-37, 4334, 4353, 5982-83, 6212; R.1015, Ex. 2, p. 2 (CIA Fact Sheet, Usama Bin Laden -- Islamic Extremist Fundraiser).
+	
+74
+	JA3606-08, 3836, 4333-34, 5981, 6164, 6211.
+	
+75
+	JA3609, 3780, 3838, 3868-69, 4513, 4530-31, 5982, 6212; R.1257, Ex. 4, pp. 16-17, 27 (Arnaout Evidentiary Proffer); R.1030, Ex. P, p. 19 (9/11 Commission Monograph on Terrorist Financing).
+	
+76
+	JA3607, 4512-15, 4530, 5982, 6212; R.977, Ex. U (December 21, 2004 Press Release from the U.S. Department of the Treasury regarding the designation of Adel Abdul Jalil Batterjee).
+	
+77
+	JA4332, 5988, 6216.
+	
+78
+	JA3812, 3823; R.277, Ex. 5 (January 4, 2002 letter from the U.S. Department of the Treasury to Swiss officials regarding Yousef Nada); R.1031, Ex. 9 (August 29, 2002 Press Release from the U.S. Department of the Treasury regarding the designations of Yousef Nada-related entities); R.1762, Ex. 5, p. 10 (October 22, 2003 Testimony of Former National Security Advisor Richard A. Clarke before the U.S. Senate Banking Committee).
+	
+79
+	JA3838-39, 4365, 6208-09, 6236.
+	
+80
+	JA3724.
+	
+81
+	The pleadings allege that al Rajhi Bank senior officers Saleh al Rajhi, Suleiman al Rajhi’s brother and al Rajhi Bank’s Chairman, Abdullah al Rajhi, the bank’s General Manager, and Sheikh Saleh al Hussayen, a member of its Sharia Board, also participated directly and knowingly in al Rajhi Bank’s sponsorship of al Qaeda. JA828, 3715-18, 4281-83, 4465-69. By virtue of their positions and the pervasive character of al Rajhi Bank’s systematic sponsorship of al Qaeda, the allegations concerning their participation in al Rajhi bank’s sponsorship of al Qaeda are well founded. Id.
+	
+82
+	JA3866-68, 4465-69, 4496-4504; R.1031, Ex. 8, pp. 14-15 (INTERPOL Task Force Report, Financing of Terrorism and Charities, July 2003).
+	
+83
+	JA3785-86, 3866-68, 4467, 4500-01, 4529, 6164-65; R.977, Ex. G (Exhibit to Arnaout Evidentiary Proffer -- the “Golden Chain”); R.1762, Ex. 5, p. 6 (October 22, 2003 Testimony of Former National Security Advisor Richard A. Clarke before the U.S. Senate Banking Committee).
+	
+84
+	JA3785, 4467, 4500-01, 4529, 6164-65.
+	
+85
+	JA3785-86, 4467, 4500-01, 4529, 6164-65; R.1257, Ex. 4, pp. 18-19 (Arnaout Evidentiary Proffer); R.1030, Ex. P, pp. 102-103 (9/11 Commission Monograph on Terrorist Financing); R.1762, Ex. 5, p. 6 (October 22, 2003 Testimony of Former National Security Advisor Richard A. Clarke before the U.S. Senate Banking Committee).
+	
+86
+	JA4467, 4500-01, 4514-15, 4529, 6164-65; R.977, Ex. E, pp. 23-24 (August 2002 FBI Report -- Interview with former Al Qaeda member Jamal Al Fadl).
+	
+87
+	R.1030, Ex. P, p. 94 (9/11 Commission Monograph on Terrorist Financing).
+	
+88
+	R.1030, Ex. P, pp. 102-103 (9/11 Commission Monograph on Terrorist Financing).
+	
+89
+	R.1030, Ex. R, pp. 2-3 (CRS Report for Congress, Saudi Arabia, Terrorist Financing Issues, December 8, 2004).
+	
+90
+	JA3831, 3867-68, 4478, 4501, 6188-91, 7867.
+	
+91
+	JA3827-28, 3866-67, 4465-66.
+	
+92
+	9/11 Commission Final Report, pp. 169-170.
+	
+93
+	JA3785-86.
+	
+94
+	JA3710-14, 3845, 3870-71, 4394-4402.
+	
+95
+	9/11 Commission Monograph on Terrorist Financing, available at www.9-11commission.gov/staff.../911_TerrFin_Monograph.pdf.
+	
+96
+	JA4394-95, 5982-83, 6212-13.
+	
+97
+	JA4394.
+	
+98
+	JA3662, 3665, 3671, 3677-81, 4399-4401.
+	
+99
+	JA4024-30.
+	
+100
+	JA3785, 3870, 4318-19, 4529.
+	
+101
+	JA3832-33, 4302-05, 4314-20, 4528-45.
+	
+102
+	JA3870, 4528-45.
+	
+103
+	JA3724-28, 3832-33, 4302-05, 4314-20.
+	
+104
+	The district court dismissed the Burnett ATA claim against Al Rajhi Bank. SPA55-57 (Terrorist Attacks I). The district court also dismissed the remaining ATA claims against Al Rajhi Bank brought on behalf of the other plaintiff groups. SPA63, 65-66.
+	
+105
+	SPA99-103 (SAMBA I); SPA57-58 (Terrorist Attacks I). The district court also denied plaintiffs’ motions for leave to amend their pleadings, SPA103-04 (SAMBA I), and for reconsideration of the denial of their leave to amend, SPA111-15 (SAMBA II). See infra 82 n.113.
+	
+106
+	SPA245 (Terrorist Attacks V).
+	
+107
+	SPA246-47 (Terrorist Attacks V); SPA109-10 (DMI-Kamel); SPA59-60 (Terrorist Attacks I).
+	
+108
+	SPA246-47 (Terrorist Attacks V); SPA109-10 (DMI-Kamel); SPA59-60 (Terrorist Attacks I).
+	
+109
+	See infra pp. Point I.C (discussing treatment of support in mid-1990s).
+	
+110
+	See infra pp. Point I.B (discussing district court’s treatment of pleadings regarding defendants’ mental state).
+	
+111
+	SPA245-46 (Terrorist Attacks V); SPA106, 110 (DM-Kamel); SPA102-03 (SAMBA I); SPA55 (Terrorist Attacks I).
+	
+112
+	A bank’s provision of banking services constitutes material support of terrorism if the services were provided “knowing or intend[ing] that such provision would generally facilitate ... terrorist activities ...” Wultz, 755 F. Supp. 2d at 44-46; see also Linde, 384 F. Supp. 2d at 588 (“[G]iven plaintiffs’ allegations regarding the knowing and intentional nature of the Bank’s activities, there is nothing ‘routine’ about the services the Bank is alleged to provide”); Weiss, 453 F. Supp. 2d at 625 (“Where the Bank knows that the groups to which it provides services are engaged in terrorist activities even the provision of basic banking services may qualify as material support” (quotation marks and citation omitted)).
+	
+113
+	Contrary to the district court’s findings, SPA112-14 (SAMBA II), SPA103-04 (SAMBA I), the proposed amendments to plaintiffs’ pleadings clearly did sufficiently allege, inter alia, that Saudi American Bank had the requisite mental state when it provided material support to Osama bin Laden and al Qaeda. R.1926, pp. 3-6, n.10. Accordingly, if this court finds that the pleadings do not state a claim for relief, this Court should remand this claim for the district court to revisit its denial of the motion for reconsideration of its denial of the motion for leave to amend.
+	
+114
+	This report was published subsequent to the initial briefing below, and submitted in connection with plaintiffs’ opposition to NCB’s renewed motion to dismiss. However, the facts reflected in the report were of record from the outset, as reflected in plaintiffs” pleadings as to Al Rajhi Bank.
+	
+115
+	The annex lists nine treaties, including the Convention for the Suppression of Unlawful Seizure of Aircraft, done at the Hague on 16 December 1970; the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on 23 December 1971; and the International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on 15 December 1997.
+	
+116
+	See R.111-2, at 71-74. In the context of the previous appeal as to Saudi Arabia, this Court noted that plaintiffs’ allegations concerning the terror sponsorship activities of the Saudi government charities “include a wealth of detail (conscientiously cited to published and unpublished sources) that, if true, reflect close working arrangements between ostensible charities and terrorist networks, including al Qaeda.” Terrorist Attacks III, 538 F.3d at 76.
+	
+
+End of Document
+                                        	© 2019 Thomson Reuters. No claim to original U.S. Government Works.
+	
+
+
+
+In re: TERRORIST ATTACKS ON SEPTEMBER 11, 2001., 2012 WL 257568 (2012)
+		
+		
+
+
+ © 2019 Thomson Reuters. No claim to original U.S. Government Works.
+		
+

@@ -1,0 +1,1746 @@
+Second, companies should have an understanding of
+the business rationale for including the third party in the
+transaction. Among other things, the company should
+understand the role of and need for the third party and
+ensure that the contract terms specifically describe the services
+to be performed. Additional considerations include
+payment terms and how those payment terms compare to
+typical terms in that industry and country, as well as the
+timing of the third party’s introduction to the business.
+Moreover, companies may want to confirm and document
+that the third party is actually performing the work for
+which it is being paid and that its compensation is commensurate
+with the work being provided.
+Third, companies should undertake some form of
+ongoing monitoring of third-party relationships. 322 Where
+appropriate, this may include updating due diligence periodically,
+exercising audit rights, providing periodic training,
+and requesting annual compliance certifications by the
+third party.
+In addition to considering a company’s due diligence
+on third parties, DOJ and SEC also assess whether
+the company has informed third parties of the company’s
+60
+Compliance Program Case Study
+Recent DOJ and SEC actions relating to a financial institution’s real estate transactions with a government agency
+in China illustrate the benefits of implementing and enforcing a comprehensive risk-based compliance program. The
+case involved a joint venture real estate investment in the Luwan District of Shanghai, China, between a U.S.-based
+financial institution and a state-owned entity that functioned as the District’s real estate arm. The government entity
+conducted the transactions through two special purpose vehicles (“SPVs”), with the second SPV purchasing a 12%
+stake in a real estate project.
+The financial institution, through a robust compliance program, frequently trained its employees, imposed a
+comprehensive payment-approval process designed to prevent bribery, and staffed a compliance department with
+a direct reporting line to the board of directors. As appropriate given the industry, market, and size and structure of
+the transactions, the financial institution (1) provided extensive FCPA training to the senior executive responsible for
+the transactions and (2) conducted extensive due diligence on the transactions, the local government entity, and the
+SPVs. Due diligence on the entity included reviewing Chinese government records; speaking with sources familiar
+with the Shanghai real estate market; checking the government entity’s payment records and credit references;
+conducting an on-site visit and placing a pretextual telephone call to the entity’s offices; searching media sources;
+and conducting background checks on the entity’s principals. The financial institution vetted the SPVs by obtaining
+a letter with designated bank account information from a Chinese official associated with the government entity (the
+“Chinese Official”); using an international law firm to request and review 50 documents from the SPVs’ Canadian
+attorney; interviewing the attorney; and interviewing the SPVs’ management.
+Notwithstanding the financial institution’s robust compliance program and good faith enforcement of it, the
+company failed to learn that the Chinese Official personally owned nearly 50% of the second SPV (and therefore a
+nearly 6% stake in the joint venture) and that the SPV was used as a vehicle for corrupt payments. This failure was
+due, in large part, to misrepresentations by the Chinese Official, the financial institution’s executive in charge of
+the project, and the SPV’s attorney that the SPV was 100% owned and controlled by the government entity. DOJ
+and SEC declined to take enforcement action against the financial institution, and its executive pleaded guilty to
+conspiracy to violate the FCPA’s internal control provisions and also settled with SEC.
+compliance program and commitment to ethical and lawful
+business practices and, where appropriate, whether it
+has sought assurances from third parties, through certifications
+and otherwise, of reciprocal commitments. These can
+be meaningful ways to mitigate third-party risk.
+Confidential Reporting and Internal Investigation
+An effective compliance program should include a
+mechanism for an organization’s employees and others to
+report suspected or actual misconduct or violations of the
+company’s policies on a confidential basis and without fear of
+retaliation. 323 Companies may employ, for example, anonymous
+hotlines or ombudsmen. Moreover, once an allegation
+is made, companies should have in place an efficient, reliable,
+and properly funded process for investigating the allegation
+and documenting the company’s response, including any
+disciplinary or remediation measures taken. Companies will
+want to consider taking “lessons learned” from any reported
+violations and the outcome of any resulting investigation to
+update their internal controls and compliance program and
+focus future training on such issues, as appropriate.
+Continuous Improvement: Periodic Testing and
+Review
+Finally, a good compliance program should constantly
+evolve. A company’s business changes over time, as do the
+environments in which it operates, the nature of its customers,
+the laws that govern its actions, and the standards of its
+61
+industry. In addition, compliance programs that do not just
+exist on paper but are followed in practice will inevitably
+uncover compliance weaknesses and require enhancements.
+Consequently, DOJ and SEC evaluate whether companies
+regularly review and improve their compliance programs
+and not allow them to become stale.
+According to one survey, 64% of general counsel whose
+companies are subject to the FCPA say there is room for
+improvement in their FCPA training and compliance programs.
+324 An organization should take the time to review and
+test its controls, and it should think critically about its potential
+weaknesses and risk areas. For example, some companies
+have undertaken employee surveys to measure their compliance
+culture and strength of internal controls, identify best
+practices, and detect new risk areas. Other companies periodically
+test their internal controls with targeted audits to make
+certain that controls on paper are working in practice. DOJ
+and SEC will give meaningful credit to thoughtful efforts
+to create a sustainable compliance program if a problem is
+later discovered. Similarly, undertaking proactive evaluations
+before a problem strikes can lower the applicable penalty
+range under the U.S. Sentencing Guidelines. 325 Although the
+nature and the frequency of proactive evaluations may vary
+depending on the size and complexity of an organization, the
+idea behind such efforts is the same: continuous improvement
+and sustainability. 326
+Mergers and Acquisitions: Pre-Acquisition Due
+Diligence and Post-Acquisition Integration
+In the context of the FCPA, mergers and acquisitions
+present both risks and opportunities. A company
+that does not perform adequate FCPA due diligence prior
+to a merger or acquisition may face both legal and business
+risks. 327 Perhaps most commonly, inadequate due diligence
+can allow a course of bribery to continue—with all the
+attendant harms to a business’s profitability and reputation,
+as well as potential civil and criminal liability.
+In contrast, companies that conduct effective FCPA
+due diligence on their acquisition targets are able to evaluate
+more accurately each target’s value and negotiate for the
+costs of the bribery to be borne by the target. In addition,
+chapter 5
+Guiding Principles
+of Enforcement
+such actions demonstrate to DOJ and SEC a company’s
+commitment to compliance and are taken into account
+when evaluating any potential enforcement action. For
+example, DOJ and SEC declined to take enforcement
+action against an acquiring issuer when the issuer, among
+other things, uncovered the corruption at the company
+being acquired as part of due diligence, ensured that the
+corruption was voluntarily disclosed to the government,
+cooperated with the investigation, and incorporated the
+acquired company into its compliance program and internal
+controls. On the other hand, SEC took action against
+the acquired company, and DOJ took action against a subsidiary
+of the acquired company. 328 When pre-acquisition
+due diligence is not possible, DOJ has described procedures,
+contained in Opinion Procedure Release No. 08-02,
+pursuant to which companies can nevertheless be rewarded
+if they choose to conduct thorough post-acquisition FCPA
+due diligence. 329
+FCPA due diligence, however, is normally only a
+portion of the compliance process for mergers and acquisitions.
+DOJ and SEC evaluate whether the acquiring company
+promptly incorporated the acquired company into all
+of its internal controls, including its compliance program.
+Companies should consider training new employees, reevaluating
+third parties under company standards, and, where
+appropriate, conducting audits on new business units.
+For example, as a result of due diligence conducted
+by a California-based issuer before acquiring the majority
+interest in a joint venture, the issuer learned of corrupt payments
+to obtain business. However, the issuer only implemented
+its internal controls “halfway” so as not to “choke
+the sales engine and cause a distraction for the sales guys.”
+As a result, the improper payments continued, and the
+issuer was held liable for violating the FCPA’s internal controls
+and books and records provisions. 330
+62
+Other Guidance on Compliance and
+International Best Practices
+In addition to this guide, the U.S. Departments of
+Commerce and State have both issued publications that contain
+guidance regarding compliance programs. The Department
+of Commerce’s International Trade Administration has published
+Business Ethics: A Manual for Managing a Responsible
+Business Enterprise in Emerging Market Economies, 331 and the
+Department of State has published Fighting Global Corruption:
+Business Risk Management. 332
+There is also an emerging international consensus on
+compliance best practices, and a number of inter-governmental
+and non-governmental organizations have issued
+guidance regarding best practices for compliance. 333 Most
+notably, the OECD’s 2009 Anti-Bribery Recommendation
+and its Annex II, Good Practice Guidance on Internal
+Controls, Ethics, and Compliance, 334 published in February
+2010, were drafted based on consultations with the private
+sector and civil society and set forth specific good practices
+for ensuring effective compliance programs and measures
+for preventing and detecting foreign bribery. In addition,
+businesses may wish to refer to the following resources:
+• Asia-Pacific Economic Cooperation—Anti-
+Corruption Code of Conduct for Business; 335
+• International Chamber of Commerce—ICC Rules
+on Combating Corruption; 336
+• Transparency International—Business Principles for
+Countering Bribery; 337
+• United Nations Global Compact—The Ten
+Principles; 338
+• World Bank—Integrity Compliance
+Guidelines; 339 and
+• World Economic Forum—Partnering Against
+Corruption–Principles for Countering Bribery. 340
+Hypothetical: Third-Party Vetting
+Part 1: Consultants
+Company A, a U.S. issuer headquartered in Delaware, wants to start doing business in a country that poses high risks
+of corruption. Company A learns about a potential $50 million contract with the country’s Ministry of Immigration. This
+is a very attractive opportunity to Company A, both for its profitability and to open the door to future projects with the
+government. At the suggestion of the company’s senior vice president of international sales (Sales Executive), Company A
+hires a local businessman who assures them that he has strong ties to political and government leaders in the country and
+can help them win the contract. Company A enters into a consulting contract with the local businessman (Consultant). The
+agreement requires Consultant to use his best efforts to help the company win the business and provides for Consultant to
+receive a significant monthly retainer as well as a success fee of 3% of the value of any contract the company wins.
+What steps should Company A consider taking before hiring Consultant?
+There are several factors here that might lead Company A to perform heightened FCPA-related due diligence prior
+to retaining Consultant: (1) the market (high-risk country); (2) the size and significance of the deal to the company; (3) the
+company’s first time use of this particular consultant; (4) the consultant’s strong ties to political and government leaders;
+(5) the success fee structure of the contract; and (6) the vaguely-defined services to be provided. In order to minimize the
+likelihood of incurring FCPA liability, Company A should carefully vet Consultant and his role in the transaction, including
+close scrutiny of the relationship between Consultant and any Ministry of Immigration officials or other government officials.
+Although there is nothing inherently illegal about contracting with a third party that has close connections to politicians
+and government officials to perform legitimate services on a transaction, this type of relationship can be susceptible to
+corruption. Among other things, Company A may consider conducting due diligence on Consultant, including background
+(cont’d)
+63
+chapter 5
+Guiding Principles
+of Enforcement
+and reference checks; ensuring that the contract spells out exactly what services and deliverables (such as written status
+reports or other documentation) Consultant is providing; training Consultant on the FCPA and other anti-corruption laws;
+requiring Consultant to represent that he will abide by the FCPA and other anti-corruption laws; including audit rights in the
+contract (and exercising those rights); and ensuring that payments requested by Consultant have the proper supporting
+documentation before they are approved for payment.
+Part 2: Distributors and Local Partners
+Assume the following alternative facts:
+Instead of hiring Consultant, Company A retains an often-used local distributor (Distributor) to sell Company A’s
+products to the Ministry of Immigration In negotiating the pricing structure, Distributor, which had introduced the project
+to Company A, claims that the standard discount price to Distributor creates insufficient margin for Distributor to cover
+warehousing, distribution, installation, marketing, and training costs and requests an additional discount or rebate, or, in
+the alternative, a contribution to its marketing efforts, either in the form of a lump sum or as a percentage of the total
+contract. The requested discount/allowance is significantly larger than usual, although there is precedent at Company
+A for granting this level of discount in unique circumstances. Distributor further advises Company A that the Ministry’s
+procurement officials responsible for awarding the contract have expressed a strong preference for including a particular
+local company (Local Partner) in the transaction as a subcontractor of Company A to perform installation, training, and
+other services that would normally have been performed by Distributor or Company A. According to Distributor, the
+Ministry has a solid working relationship with Local Partner, and it would cause less disruption for Local Partner to perform
+most of the on-site work at the Ministry. One of the principals (Principal 1) of the Local Partner is an official in another
+government ministry.
+What additional compliance considerations do these alternative facts raise?
+As with Consultant in the first scenario above, Company A should carefully vet Distributor and Local Partner and their
+roles in the transaction in order to minimize the likelihood of incurring FCPA liability. While Company A has an established
+relationship with Distributor, the fact that Distributor has requested an additional discount warrants further inquiry into
+the economic justification for the change, particularly where, as here, the proposed transaction structure contemplates
+paying Local Partner to provide many of the same services that Distributor would otherwise provide. In many cases, it may
+be appropriate for distributors to receive larger discounts to account for unique circumstances in particular transactions.
+That said, a common mechanism to create additional margin for bribe payments is through excessive discounts or rebates
+to distributors. Accordingly, when a company has pre-existing relationships with distributors and other third parties,
+transaction-specific due diligence—including an analysis of payment terms to confirm that the payment is commensurate
+with the work being performed—can be critical even in circumstances where due diligence of the distributor or other third
+party raises no initial red flags.
+Company A should carefully scrutinize the relationship among Local Partner, Distributor, and Ministry of Immigration
+officials. While there is nothing inherently illegal about contracting with a third party that is recommended by the end-user,
+or even hiring a government official to perform legitimate services on a transaction unrelated to his or her government
+job, these facts raise additional red flags that warrant significant scrutiny. Among other things, Company A would be
+well-advised to require Principal 1 to verify that he will have no role in the Ministry of Immigration’s decision to award
+the contract to Company A, notify the Ministry of Immigration and his own ministry of his proposed involvement in the
+transaction, and certify that he will abide by the FCPA and other anti-corruption laws and that his involvement in the
+transaction is permitted under local law.
+(cont’d)
+64
+Assume the following additional facts:
+Under its company policy for a government transaction of this size, Company A requires both finance and compliance
+approval. The finance officer is concerned that the discounts to Distributor are significantly larger than what they have
+approved for similar work and will cut too deeply into Company A’s profit margin. The finance officer is also skeptical about
+including Local Partner to perform some of the same services that Company A is paying Distributor to perform. Unsatisfied
+with Sales Executive’s explanation, she requests a meeting with Distributor and Principal 1. At the meeting, Distributor
+and Principal 1 offer vague and inconsistent justifications for the payments and fail to provide any supporting analysis, and
+Principal 1 seems to have no real expertise in the industry. During a coffee break, Distributor comments to Sales Executive
+that the finance officer is naïve about “how business is done in my country.” Following the meeting, Sales Executive
+dismisses the finance officer’s concerns, assuring her that the proposed transaction structure is reasonable and legitimate.
+Sales Executive also reminds the finance officer that “the deal is key to their growth in the industry.”
+The compliance officer focuses his due diligence on vetting Distributor and Local Partner and hires a business investigative
+firm to conduct a background check. Distributor appears reputable, capable, and financially stable and is willing to take on
+real risk in the project, financial and otherwise. However, the compliance officer learns that Distributor has established an
+off-shore bank account for the transaction. The compliance officer further learns that Local Partner’s business was organized
+two years ago and appears financially stable but has no expertise in the industry and has established an off-shore shell
+company and bank account to conduct this transaction. The background check also reveals that Principal 1 is a former college
+roommate of a senior official of the Ministry of Immigration. The Sales Executive dismisses the compliance officer’s concerns,
+commenting that what Local Partner does with its payments “isn’t our problem.” Sales Executive also strongly objects to the
+compliance officer’s request to meet with Principal 1 to discuss the off-shore company and account, assuring him that it was
+done for legitimate tax purposes and complaining that if Company A continues to “harass” Local Partner and Distributor, they
+would partner with Company A’s chief competitor. The compliance officer and the finance officer discuss their concerns with
+each other but ultimately sign off on the deal even though their questions had not been answered. Their decision is motivated
+in large part by their conversation with Sales Executive, who told them that this was the region’s most important contract
+and that the detailed FCPA questionnaires and robust anti-corruption representations in the contracts placed the burden on
+Distributor and Local Partner to act ethically.
+Company A goes forward with the Distributor and Local Partner agreements and wins the contract after six months. The
+finance officer approves Company A’s payments to Local Partner via the offshore account, even though Local Partner’s invoices
+did not contain supporting detail or documentation of any services provided. Company A recorded the payments as legitimate
+operational expenses on its books and records. Sales Executive received a large year-end bonus due to the award of the contract.
+In fact, Local Partner and Distributor used part of the payments and discount margin, respectively, to funnel bribe payments
+to several Ministry of Immigration officials, including Principal 1’s former college roommate, in exchange for awarding the
+contract to Company A. Thousands of dollars are also wired to the personal offshore bank account of Sales Executive.
+How would DOJ and SEC evaluate the potential FCPA liability of Company A and its employees?
+This is not the case of a single “rogue employee” circumventing an otherwise robust compliance program. Although
+Company A’s finance and compliance officers had the correct instincts to scrutinize the structure and economics of the
+transaction and the role of the third parties, their due diligence was incomplete. When the initial inquiry identified significant
+red flags, they approved the transaction despite knowing that their concerns were unanswered or the answers they received
+raised additional concerns and red flags. Relying on due diligence questionnaires and anti-corruption representations is
+insufficient, particularly when the risks are readily apparent. Nor can Company A or its employees shield themselves from
+liability because it was Distributor and Local Partner—rather than Company A directly—that made the payments.
+The facts suggest that Sales Executive had actual knowledge of or was willfully blind to the consultant’s payment of
+the bribes. He also personally profited from the scheme (both from the kickback and from the bonus he received from the
+company) and intentionally discouraged the finance and compliance officers from learning the full story. Sales Executive is
+therefore subject to liability under the anti-bribery, books and records, and internal controls provisions of the FCPA, and
+others may be as well. Company A may also be liable for violations of the anti-bribery, books and records, and internal
+controls provisions of the FCPA given the number and significance of red flags that established a high probability of bribery
+and the role of employees and agents acting on the company’s behalf.
+65
+chapter 5
+Guiding Principles
+of Enforcement
+66
+
+chapter 6
+FCPA Penalties,
+Sanctions, and
+Remedies
+FCPA PENALTIES, SANCTIONS,
+AND REMEDIES
+What Are the Potential Consequences
+for Violations of the FCPA?
+The FCPA provides for different criminal and civil
+penalties for companies and individuals.
+Criminal Penalties
+For each violation of the anti-bribery provisions, the
+FCPA provides that corporations and other business entities
+are subject to a fine of up to $2 million. 341 Individuals,
+including officers, directors, stockholders, and agents of
+companies, are subject to a fine of up to $100,000 and
+imprisonment for up to five years. 342
+For each violation of the accounting provisions, the
+FCPA provides that corporations and other business entities
+are subject to a fine of up to $25 million. 343 Individuals
+are subject to a fine of up to $5 million and imprisonment
+for up to 20 years. 344
+Under the Alternative Fines Act, 18 U.S.C. § 3571(d),
+courts may impose significantly higher fines than those provided
+by the FCPA—up to twice the benefit that the defendant
+sought to obtain by making the corrupt payment, as
+long as the facts supporting the increased fines are included
+in the indictment and either proved to the jury beyond a
+reasonable doubt or admitted in a guilty plea proceeding. 345
+Fines imposed on individuals may not be paid by their
+employer or principal. 346
+U.S. Sentencing Guidelines
+When calculating penalties for violations of the FCPA,
+DOJ focuses its analysis on the U.S. Sentencing Guidelines
+(Guidelines) 347 in all of its resolutions, including guilty pleas,
+DPAs, and NPAs. The Guidelines provide a very detailed and
+predictable structure for calculating penalties for all federal
+crimes, including violations of the FCPA. To determine the
+appropriate penalty, the “offense level” is first calculated by
+examining both the severity of the crime and facts specific to
+the crime, with appropriate reductions for cooperation and
+acceptance of responsibility, and, for business entities, additional
+factors such as voluntary disclosure, cooperation, preexisting
+compliance programs, and remediation.
+The Guidelines provide for different penalties for the
+different provisions of the FCPA. The initial offense level
+for violations of the anti-bribery provisions is determined
+under § 2C1.1, while violations of the accounting provisions
+are assessed under § 2B1.1. For individuals, the initial
+offense level is modified by factors set forth in Chapters 3,
+4, and 5 of the Guidelines 348 to identify a final offense level.
+This final offense level, combined with other factors, is used
+68
+to determine whether the Guidelines would recommend
+that incarceration is appropriate, the length of any term of
+incarceration, and the appropriate amount of any fine. For
+corporations, the offense level is modified by factors particular
+to organizations as described in Chapter 8 to determine
+the applicable organizational penalty.
+For example, violations of the anti-bribery provisions
+are calculated pursuant to § 2C1.1. The offense level
+is determined by first identifying the base offense level; 349
+adding additional levels based on specific offense characteristics,
+including whether the offense involved more than
+one bribe, the value of the bribe or the benefit that was conferred,
+and the level of the public official; 350 adjusting the
+offense level based on the defendant’s role in the offense; 351
+and using the total offense level as well as the defendant’s
+criminal history category to determine the advisory guideline
+range. 352 For violations of the accounting provisions
+assessed under § 2B1.1, the procedure is generally the
+same, except that the specific offense characteristics differ.
+For instance, for violations of the FCPA’s accounting provisions,
+the offense level may be increased if a substantial
+part of the scheme occurred outside the United States or if
+the defendant was an officer or director of a publicly traded
+company at the time of the offense. 353
+For companies, the offense level is calculated pursuant
+to §§ 2C1.1 or 2B1.1 in the same way as for an
+individual—by starting with the base offense level and
+increasing it as warranted by any applicable specific
+offense characteristics. The organizational guidelines
+found in Chapter 8, however, provide the structure for
+determining the final advisory guideline fine range for
+organizations. The base fine consists of the greater of the
+amount corresponding to the total offense level, calculated
+pursuant to the Guidelines, or the pecuniary gain or
+loss from the offense. 354 This base fine is then multiplied
+by a culpability score that can either reduce the fine to as
+little as five percent of the base fine or increase the recommended
+fine to up to four times the amount of the base
+fine. 355 As described in § 8C2.5, this culpability score is
+calculated by taking into account numerous factors such
+as the size of the organization committing the criminal
+acts; the involvement in or tolerance of criminal activity
+by high-level personnel within the organization; and
+prior misconduct or obstructive behavior. The culpability
+score is reduced if the organization had an effective preexisting
+compliance program to prevent violations and if
+the organization voluntarily disclosed the offense, cooperated
+in the investigation, and accepted responsibility for
+the criminal conduct. 356
+Civil Penalties
+Although only DOJ has the authority to pursue criminal
+actions, both DOJ and SEC have civil enforcement
+authority under the FCPA. DOJ may pursue civil actions
+for anti-bribery violations by domestic concerns (and their
+officers, directors, employees, agents, or stockholders) and
+foreign nationals and companies for violations while in the
+United States, while SEC may pursue civil actions against
+issuers and their officers, directors, employees, agents, or
+stockholders for violations of the anti-bribery and the
+accounting provisions. 357
+For violations of the anti-bribery provisions, corporations
+and other business entities are subject to a civil
+penalty of up to $16,000 per violation. 358 Individuals,
+including officers, directors, stockholders, and agents of
+companies, are similarly subject to a civil penalty of up to
+$16,000 per violation, 359 which may not be paid by their
+employer or principal. 360
+For violations of the accounting provisions, SEC may
+obtain a civil penalty not to exceed the greater of (a) the
+gross amount of the pecuniary gain to the defendant as a
+result of the violations or (b) a specified dollar limitation.
+The specified dollar limitations are based on the egregiousness
+of the violation, ranging from $7,500 to $150,000 for
+an individual and $75,000 to $725,000 for a company. 361
+SEC may obtain civil penalties both in actions filed in federal
+court and in administrative proceedings. 362
+Collateral Consequences
+In addition to the criminal and civil penalties described
+above, individuals and companies who violate the FCPA may
+face significant collateral consequences, including suspension
+69
+or debarment from contracting with the federal government,
+cross-debarment by multilateral development banks, and the
+suspension or revocation of certain export privileges.
+Debarment
+Under federal guidelines governing procurement,
+an individual or company that violates the FCPA or other
+criminal statutes may be barred from doing business with the
+federal government. The Federal Acquisition Regulations
+(FAR) provide for the potential suspension or debarment
+of companies that contract with the government upon
+conviction of or civil judgment for bribery, falsification or
+destruction of records, the making of false statements, or
+“[c]ommission of any other offense indicating a lack of business
+integrity or business honesty that seriously and directly
+affects the present responsibility of a Government contractor
+or subcontractor.” 363 These measures are not intended
+to be punitive and may be imposed only if “in the public’s
+interest for the Government’s protection.” 364
+Under the FAR, a decision to debar or suspend is discretionary.
+The decision is not made by DOJ prosecutors or
+SEC staff, but instead by independent debarment authorities
+within each agency, such as the Department of Defense or
+the General Services Administration, which analyze a number
+of factors to determine whether a company should be suspended,
+debarred, or otherwise determined to be ineligible
+for government contracting. Such factors include whether
+the contractor has effective internal control systems in place,
+self-reported the misconduct in a timely manner, and has
+taken remedial measures. 365 If a cause for debarment exists,
+the contractor has the burden of demonstrating to the satisfaction
+of the debarring official that it is presently responsible
+and that debarment is not necessary. 366 Each federal department
+and agency determines the eligibility of contractors
+with whom it deals. However, if one department or agency
+debars or suspends a contractor, the debarment or suspension
+applies to the entire executive branch of the federal government,
+unless a department or agency shows compelling reasons
+not to debar or suspend the contractor. 367
+Although guilty pleas, DPAs, and NPAs do not result
+in automatic debarment from U.S. government contracting,
+chapter 6
+FCPA Penalties,
+Sanctions, and
+Remedies
+committing a federal crime and the factual admissions
+underlying a resolution are factors that the independent
+debarment authorities may consider. Moreover, indictment
+alone can lead to suspension of the right to do business
+with the government. 368 The U.S. Attorney’s Manual also
+provides that when a company engages in fraud against the
+government, a prosecutor may not negotiate away an agency’s
+right to debar or delist the company as part of the plea
+bargaining process. 369 In making debarment determinations,
+contracting agencies, including at the state and local
+level, may consult with DOJ in advance of awarding a contract.
+Depending on the circumstances, DOJ may provide
+information to contracting authorities in the context of
+the corporate settlement about the facts and circumstances
+underlying the criminal conduct and remediation measures
+undertaken by the company, if any. This information sharing
+is not advocacy, and the ultimate debarment decisions
+are squarely within the purview of the independent debarment
+authorities. In some situations, the contracting agency
+may impose its own oversight requirements in order for a
+company that has admitted to violations of federal law to be
+awarded federal contracts, such as the Corporate Integrity
+Agreements often required by the Department of Health
+and Human Services.
+Cross-Debarment by Multilateral Development
+Banks
+Multilateral Development Banks (MDBs), like the
+World Bank, also have the ability to debar companies and
+individuals for corrupt practices. 370 Each MDB has its own
+process for evaluating alleged corruption in connection
+with MDB-funded projects. When appropriate, DOJ and
+SEC work with MDBs to share evidence and refer cases.
+On April 9, 2010, the African Development Bank Group,
+the Asian Development Bank, the European Bank for
+70
+Reconstruction and Development, the Inter-American
+Development Bank Group, and the World Bank Group
+entered into an agreement under which entities debarred
+by one MDB will be sanctioned for the same misconduct
+by other signatory MDBs. 371 This cross-debarment agreement
+means that if a company is debarred by one MDB, it
+is debarred by all. 372
+Loss of Export Privileges
+Companies and individuals who violate the FCPA
+may face consequences under other regulatory regimes,
+such as the Arms Export Control Act (AECA), 22 U.S.C.
+§ 2751, et seq., and its implementing regulations, the
+International Traffic in Arms Regulations (ITAR), 22
+C.F.R. § 120, et seq. AECA and ITAR together provide
+for the suspension, revocation, amendment, or denial of an
+arms export license if an applicant has been indicted or convicted
+for violating the FCPA. 373 They also set forth certain
+factors for the Department of State’s Directorate of Defense
+Trade Controls (DDTC) 374 to consider when determining
+whether to grant, deny, or return without action license
+applications for certain types of defense materials. One of
+those factors is whether there is reasonable cause to believe
+that an applicant for a license has violated (or conspired
+to violate) the FCPA; if so, the Department of State “may
+disapprove the application.” 375 In addition, it is the policy
+of the Department of State not to consider applications for
+licenses involving any persons who have been convicted of
+violating the AECA or convicted of conspiracy to violate
+the AECA. 376 In an action related to the criminal resolution
+of a U.K. military products manufacturer, the DDTC
+imposed a “policy of denial” for export licenses on three of
+the company’s subsidiaries that were involved in violations
+of AECA and ITAR. 377
+When Is a Compliance Monitor or
+Independent Consultant Appropriate?
+One of the primary goals of both criminal prosecutions
+and civil enforcement actions against companies that
+violate the FCPA is ensuring that such conduct does not
+occur again. As a consequence, enhanced compliance and
+reporting requirements may be part of criminal and civil
+resolutions of FCPA matters. The amount of enhanced
+compliance and kind of reporting required varies according
+to the facts and circumstances of individual cases.
+In criminal cases, a company’s sentence, or a DPA or
+NPA with a company, may require the appointment of an
+independent corporate monitor. Whether a monitor is
+appropriate depends on the specific facts and circumstances
+of the case. In 2008, DOJ issued internal guidance regarding
+the selection and use of corporate monitors in DPAs
+and NPAs with companies. Additional guidance has since
+been issued. 378 A monitor is an independent third party who
+assesses and monitors a company’s adherence to the compliance
+requirements of an agreement that was designed to
+reduce the risk of recurrence of the company’s misconduct.
+Appointment of a monitor is not appropriate in all circumstances,
+but it may be appropriate, for example, where a company
+does not already have an effective internal compliance
+program or needs to establish necessary internal controls. In
+addition, companies are sometimes allowed to engage in selfmonitoring,
+typically in cases when the company has made
+a voluntary disclosure, has been fully cooperative, and has
+demonstrated a genuine commitment to reform.
+Factors DOJ and SEC Consider
+When Determining Whether a Compliance
+Monitor Is Appropriate Include:
+• Seriousness of the offense
+• Duration of the misconduct
+• Pervasiveness of the misconduct, including
+whether the conduct cuts across geographic and/
+or product lines
+• Nature and size of the company
+• Quality of the company’s compliance program at
+the time of the misconduct
+• Subsequent remediation efforts
+71
+In civil cases, a company may similarly be required
+to retain an independent compliance consultant or monitor
+to provide an independent, third-party review of the
+company’s internal controls. The consultant recommends
+improvements, to the extent necessary, which the company
+must adopt. When both DOJ and SEC require a company
+to retain a monitor, the two agencies have been able
+to coordinate their requirements so that the company can
+retain one monitor to fulfill both sets of requirements.
+The most successful monitoring relationships are
+those in which the company embraces the monitor or consultant.
+If the company takes the recommendations and
+suggestions seriously and uses the monitoring period as a
+time to find and fix any outstanding compliance issues, the
+company can emerge from the monitorship with a stronger,
+long-lasting compliance program.
+chapter 6
+FCPA Penalties,
+Sanctions, and
+Remedies
+72
+
+chapter 7
+Resolutions
+RESOLUTIONS
+What Are the Different Types of
+Resolutions with DOJ?
+Criminal Complaints, Informations, and Indictments
+Charges against individuals and companies are
+brought in three different ways under the Federal Rules of
+Criminal Procedure: criminal complaints, criminal informations,
+and indictments.
+DOJ may agree to resolve criminal FCPA matters
+against companies either through a declination or, in
+appropriate cases, a negotiated resolution resulting in a plea
+agreement, deferred prosecution agreement, or non-prosecution
+agreement. For individuals, a negotiated resolution
+will generally take the form of a plea agreement, which may
+include language regarding cooperation, or a non-prosecution
+cooperation agreement. When negotiated resolutions
+cannot be reached with companies or individuals, the matter
+may proceed to trial.
+Plea Agreements
+Plea agreements—whether with companies or
+individuals—are governed by Rule 11 of the Federal
+Rules of Criminal Procedure. The defendant generally
+admits to the facts supporting the charges, admits
+guilt, and is convicted of the charged crimes when the
+plea agreement is presented to and accepted by a court.
+The plea agreement may jointly recommend a sentence
+or fine, jointly recommend an analysis under the U.S.
+Sentencing Guidelines, or leave such items open for
+argument at the time of sentencing.
+Deferred Prosecution Agreements
+Under a deferred prosecution agreement, or a DPA
+as it is commonly known, DOJ files a charging document
+with the court, 379 but it simultaneously requests that the
+prosecution be deferred, that is, postponed for the purpose
+of allowing the company to demonstrate its good
+conduct. DPAs generally require a defendant to agree to
+pay a monetary penalty, waive the statute of limitations,
+cooperate with the government, admit the relevant facts,
+and enter into certain compliance and remediation commitments,
+potentially including a corporate compliance
+monitor. DPAs describe the company’s conduct, cooperation,
+and remediation, if any, and provide a calculation of
+the penalty pursuant to the U.S. Sentencing Guidelines.
+In addition to being publicly filed, DOJ places all of its
+DPAs on its website. If the company successfully completes
+the term of the agreement (typically two or three
+years), DOJ will then move to dismiss the filed charges. A
+company’s successful completion of a DPA is not treated
+as a criminal conviction.
+74
+Non-Prosecution Agreements
+Under a non-prosecution agreement, or an NPA as
+it is commonly known, DOJ maintains the right to file
+charges but refrains from doing so to allow the company
+to demonstrate its good conduct during the term of the
+NPA. Unlike a DPA, an NPA is not filed with a court but is
+instead maintained by the parties. In circumstances where
+an NPA is with a company for FCPA-related offenses, it is
+made available to the public through DOJ’s website. The
+requirements of an NPA are similar to those of a DPA,
+and generally require a waiver of the statute of limitations,
+ongoing cooperation, admission of the material facts, and
+compliance and remediation commitments, in addition to
+payment of a monetary penalty. If the company complies
+with the agreement throughout its term, DOJ does not file
+criminal charges. If an individual complies with the terms
+of his or her NPA, namely, truthful and complete cooperation
+and continued law-abiding conduct, DOJ will not pursue
+criminal charges.
+Declinations
+As discussed above, DOJ’s decision to bring or decline
+to bring an enforcement action under the FCPA is made
+pursuant to the Principles of Federal Prosecution, in the case
+of individuals, and the Principles of Federal Prosecution
+of Business Organizations, in the case of companies. As
+described, in the case of individuals, the Principles of Federal
+Prosecution advise prosecutors to weigh all relevant considerations,
+including:
+• federal law enforcement priorities;
+• the nature and seriousness of the offense;
+• the deterrent effect of prosecution;
+• the person’s culpability in connection with the
+offense;
+• the person’s history of criminal activity;
+• the person’s willingness to cooperate in the investigation
+or prosecution of others; and
+• the probable sentence or other consequences if the
+person is convicted. 380
+The Principles of Federal Prosecution provide additional
+commentary about each of these factors. For
+instance, they explain that prosecutors should take into
+account federal law enforcement priorities because federal
+law enforcement and judicial resources are not sufficient
+to permit prosecution of every alleged offense over which
+federal jurisdiction exists. The deterrent effect of prosecution
+should also be kept in mind because some offenses,
+“although seemingly not of great importance by themselves,
+if commonly committed would have a substantial cumulative
+impact on the community.” 381
+As discussed above, the Principles of Federal
+Prosecution of Business Organizations require prosecutors to
+consider nine factors when determining whether to prosecute
+a corporate entity for an FCPA violation, including the
+nature and seriousness of the offense; the pervasiveness of
+wrongdoing within the company; the company’s history of
+similar conduct; the existence and effectiveness of the company’s
+pre-existing compliance program; and the adequacy
+of remedies, such as civil or regulatory enforcement actions.
+Pursuant to these guidelines, DOJ has declined to
+prosecute both individuals and corporate entities in numerous
+cases based on the particular facts and circumstances
+presented in those matters, taking into account the available
+evidence. 382 To protect the privacy rights and other
+interests of the uncharged and other potentially interested
+parties, DOJ has a long-standing policy not to provide,
+without the party’s consent, non-public information on
+matters it has declined to prosecute. To put DOJ’s declinations
+in context, however, in the past two years alone, DOJ
+has declined several dozen cases against companies where
+potential FCPA violations were alleged.
+As mentioned above, there are rare occasions in
+which, in conjunction with the public filing of charges
+against an individual, it is appropriate to disclose that a
+company is not also being prosecuted. That was done in a
+recent case where a former employee was charged but the
+former corporate employer was not. 383
+75
+What Are the Different Types of
+Resolutions with SEC?
+Civil Injunctive Actions and Remedies
+In a civil injunctive action, SEC seeks a court order
+compelling the defendant to obey the law in the future.
+Violating such an order can result in civil or criminal contempt
+proceedings. Civil contempt sanctions, brought by
+SEC, are remedial rather than punitive in nature and serve
+one of two purposes: to compensate the party injured as a
+result of the violation of the injunction or force compliance
+with the terms of the injunction.
+Where a defendant has profited from a violation of
+law, SEC can obtain the equitable relief of disgorgement
+of ill-gotten gains and pre-judgment interest and can also
+obtain civil money penalties pursuant to Sections 21(d)(3)
+and 32(c) of the Exchange Act. SEC may also seek ancillary
+relief (such as an accounting from a defendant). Pursuant
+to Section 21(d)(5), SEC also may seek, and any federal
+court may grant, any other equitable relief that may be
+appropriate or necessary for the benefit of investors, such
+as enhanced remedial measures or the retention of an independent
+compliance consultant or monitor.
+Civil Administrative Actions and Remedies
+SEC has the ability to institute various types of administrative
+proceedings against a person or an entity that it
+believes has violated the law. This type of enforcement action
+is brought by SEC’s Enforcement Division and is litigated
+before an SEC administrative law judge (ALJ). The ALJ’s
+decision is subject to appeal directly to the Securities and
+Exchange Commission itself, and the Commission’s decision
+is in turn subject to review by a U.S. Court of Appeals.
+Administrative proceedings provide for a variety of
+relief. For regulated persons and entities, such as brokerdealers
+and investment advisers and persons associated with
+them, sanctions include censure, limitation on activities,
+suspension of up to twelve months, and bar from association
+or revocation of registration. For professionals such as
+attorneys and accountants, SEC can order in Rule 102(e)
+chapter 7
+Resolutions
+proceedings that the professional be censured, suspended,
+or barred from practicing before SEC. 384 SEC staff can seek
+an order from an administrative law judge requiring the
+respondent to cease and desist from any current or future
+violations of the securities laws. In addition, SEC can obtain
+disgorgement, pre-judgment interest, and civil money penalties
+in administrative proceedings under Section 21B
+of the Exchange Act, and also can obtain other equitable
+relief, such as enhanced remedial measures or the retention
+of an independent compliance consultant or monitor.
+Deferred Prosecution Agreements
+A deferred prosecution agreement is a written agreement
+between SEC and a potential cooperating individual
+or company in which SEC agrees to forego an enforcement
+action against the individual or company if the individual
+or company agrees to, among other things: (1) cooperate
+truthfully and fully in SEC’s investigation and related
+enforcement actions; (2) enter into a long-term tolling
+agreement; (3) comply with express prohibitions and/
+or undertakings during a period of deferred prosecution;
+and (4) under certain circumstances, agree either to admit
+or not to contest underlying facts that SEC could assert
+to establish a violation of the federal securities laws. If the
+agreement is violated during the period of deferred prosecution,
+SEC staff may recommend an enforcement action to
+the Commission against the individual or company for the
+original misconduct as well as any additional misconduct.
+Furthermore, if the Commission authorizes the enforcement
+action, SEC staff may use any factual admissions
+made by the cooperating individual or company in support
+of a motion for summary judgment, while maintaining the
+ability to bring an enforcement action for any additional
+misconduct at a later date.
+76
+In May of 2011, SEC entered into its first deferred
+prosecution agreement against a company for violating the
+FCPA. 385 In that case, a global manufacturer of steel pipe
+products violated the FCPA by bribing Uzbekistan government
+officials during a bidding process to supply pipelines
+for transporting oil and natural gas. The company made
+almost $5 million in profits when it was subsequently
+awarded several contracts by the Uzbekistan government.
+The company discovered the misconduct during a worldwide
+review of its operations and brought it to the government’s
+attention. In addition to self-reporting, the company
+conducted a thorough internal investigation; provided
+complete, real-time cooperation with SEC and DOJ staff;
+and undertook extensive remediation, including enhanced
+anti-corruption procedures and training. Under the terms
+of the DPA, the company paid $5.4 million in disgorgement
+and prejudgment interest. The company also paid a
+$3.5 million monetary penalty to resolve a criminal investigation
+by DOJ through an NPA. 386
+For further information about deferred prosecution
+agreements, see SEC’s Enforcement Manual. 387
+Non-Prosecution Agreements
+A non-prosecution agreement is a written agreement
+between SEC and a potential cooperating individual or company,
+entered into in limited and appropriate circumstances,
+that provides that SEC will not pursue an enforcement
+action against the individual or company if the individual or
+company agrees to, among other things: (1) cooperate truthfully
+and fully in SEC’s investigation and related enforcement
+actions; and (2) comply, under certain circumstances,
+with express undertakings. If the agreement is violated, SEC
+staff retains its ability to recommend an enforcement action
+to the Commission against the individual or company.
+For further information about non-prosecution
+agreements, see SEC’s Enforcement Manual. 388
+Enforcement Manual. The same factors that apply to SEC
+staff ’s determination of whether to recommend an enforcement
+action against an individual or entity apply to the
+decision to close an investigation without recommending
+enforcement action. 389
+Generally, SEC staff considers, among other things:
+• the seriousness of the conduct and potential violations;
+• the resources available to SEC staff to pursue the
+investigation;
+• the sufficiency and strength of the evidence;
+• the extent of potential investor harm if an action is
+not commenced; and
+• the age of the conduct underlying the potential
+violations.
+SEC has declined to take enforcement action against
+both individuals and companies based on the facts and circumstances
+present in those matters, where, for example,
+the conduct was not egregious, the company fully cooperated,
+and the company identified and remediated the
+misconduct quickly. SEC Enforcement Division policy is
+to notify individuals and entities at the earliest opportunity
+when the staff has determined not to recommend an
+enforcement action against them to the Commission. This
+notification takes the form of a termination letter.
+In order to protect the privacy rights and other interests
+of the uncharged and other potentially interested parties,
+SEC does not provide non-public information on matters
+it has declined to prosecute.
+What Are Some Examples of Past
+Declinations by DOJ and SEC?
+Neither DOJ nor SEC typically publicizes declinations
+but, to provide some insight into the process, the following
+are recent, anonymized examples of matters DOJ
+and SEC have declined to pursue:
+Termination Letters and Declinations
+As discussed above, SEC’s decision to bring or
+decline to bring an enforcement action under the FCPA is
+made pursuant to the guiding principles set forth in SEC’s
+Example 1: Public Company Declination
+DOJ and SEC declined to take enforcement action
+against a public U.S. company. Factors taken into consideration
+included:
+77
+• The company discovered that its employees had
+received competitor bid information from a third
+party with connections to the foreign government.
+• The company began an internal investigation,
+withdrew its contract bid, terminated the employees
+involved, severed ties to the third-party agent, and
+voluntarily disclosed the conduct to DOJ’s Antitrust
+Division, which also declined prosecution.
+• During the internal investigation, the company
+uncovered various FCPA red flags, including prior
+concerns about the third-party agent, all of which
+the company voluntarily disclosed to DOJ and SEC.
+• The company immediately took substantial steps to
+improve its compliance program.
+Example 2: Public Company Declination
+DOJ and SEC declined to take enforcement action
+against a public U.S. company. Factors taken into consideration
+included:
+• With knowledge of employees of the company’s
+subsidiary, a retained construction company
+paid relatively small bribes, which were wrongly
+approved by the company’s local law firm, to foreign
+building code inspectors.
+• When the company’s compliance department
+learned of the bribes, it immediately ended the
+conduct, terminated its relationship with the construction
+company and law firm, and terminated or
+disciplined the employees involved.
+• The company completed a thorough internal investigation
+and voluntarily disclosed to DOJ and SEC.
+• The company reorganized its compliance department,
+appointed a new compliance officer dedicated
+to anti-corruption, improved the training
+and compliance program, and undertook a
+review of all of the company’s international thirdparty
+relationships.
+Example 3: Public Company Declination
+DOJ and SEC declined to take enforcement action
+against a U.S. publicly held industrial services company for
+chapter 7
+Resolutions
+bribes paid by a small foreign subsidiary. Factors taken into
+consideration included:
+• The company self-reported the conduct to DOJ
+and SEC.
+• The total amount of the improper payments was
+relatively small, and the activity appeared to be
+an isolated incident by a single employee at the
+subsidiary.
+• The profits potentially obtained from the improper
+payments were very small.
+• The payments were detected by the company’s
+existing internal controls. The company’s audit
+committee conducted a thorough independent
+internal investigation. The results of the investigation
+were provided to the government.
+• The company cooperated fully with investigations
+by DOJ and SEC.
+• The company implemented significant remedial
+actions and enhanced its internal control structure.
+Example 4: Public Company Declination
+DOJ and SEC declined to take enforcement action
+against a U.S. publicly held oil-and-gas services company
+for small bribes paid by a foreign subsidiary’s customs agent.
+Factors taken into consideration included:
+• The company’s internal controls timely detected a
+potential bribe before a payment was made.
+• When company management learned of the
+potential bribe, management immediately reported
+the issue to the company’s General Counsel and
+Audit Committee and prevented the payment from
+occurring.
+• Within weeks of learning of the attempted bribe,
+the company provided in-person FCPA training
+to employees of the subsidiary and undertook
+78
+an extensive internal investigation to determine
+whether any of the company’s subsidiaries in the
+same region had engaged in misconduct.
+• The company self-reported the misconduct and the
+results of its internal investigation to DOJ and SEC.
+• The company cooperated fully with investigations
+by DOJ and SEC.
+• In addition to the immediate training at the relevant
+subsidiary, the company provided comprehensive
+FCPA training to all of its employees and conducted
+an extensive review of its anti-corruption compliance
+program.
+• The company enhanced its internal controls and
+record-keeping policies and procedures, including
+requiring periodic internal audits of customs
+payments.
+• As part of its remediation, the company directed that
+local lawyers rather than customs agents be used to
+handle its permits, with instructions that “no matter
+what, we don’t pay bribes”—a policy that resulted in
+a longer and costlier permit procedure.
+Example 5: Public Company Declination
+DOJ and SEC declined to take enforcement action
+against a U.S. publicly held consumer products company
+in connection with its acquisition of a foreign company.
+Factors taken into consideration included:
+• The company identified the potential improper
+payments to local government officials as part of its
+pre-acquisition due diligence.
+• The company promptly developed a comprehensive
+plan to investigate, correct, and remediate any
+FCPA issues after acquisition.
+• The company promptly self-reported the issues prior
+to acquisition and provided the results of its investigation
+to the government on a real-time basis.
+• The acquiring company’s existing internal controls
+and compliance program were robust.
+• After the acquisition closed, the company implemented
+a comprehensive remedial plan, ensured
+that all improper payments stopped, provided
+extensive FCPA training to employees of the new
+subsidiary, and promptly incorporated the new
+subsidiary into the company’s existing internal
+controls and compliance environment.
+Example 6: Private Company Declination
+In 2011, DOJ declined to take prosecutorial action
+against a privately held U.S. company and its foreign subsidiary.
+Factors taken into consideration included:
+• The company voluntarily disclosed bribes paid to
+social security officials in a foreign country.
+• The total amount of the bribes was small.
+• When discovered, the corrupt practices were immediately
+terminated.
+• The conduct was thoroughly investigated, and the
+results of the investigation were promptly provided
+to DOJ.
+• All individuals involved were either terminated
+or disciplined. The company also terminated its
+relationship with its foreign law firm.
+• The company instituted improved training and
+compliance programs commensurate with its size
+and risk exposure.
+79
+chapter 7
+Resolutions
+80
+
+chapter 8
+Whistleblower
+Provisions and
+Protections
+WHISTLEBLOWER PROVISIONS
+AND PROTECTIONS
+Assistance and information from a whistleblower who knows of possible securities
+law violations can be among the most powerful weapons in the law enforcement
+arsenal. Through their knowledge of the circumstances and individuals
+involved, whistleblowers can help SEC and DOJ identify potential violations
+much earlier than might otherwise have been possible, thus allowing SEC and
+DOJ to minimize the harm to investors, better preserve the integrity of the
+U.S. capital markets, and more swiftly hold accountable those responsible for
+unlawful conduct.
+The Sarbanes-Oxley Act of 2002 and the Dodd-Frank
+Act of 2010 both contain provisions affecting whistleblowers
+who report FCPA violations. Sarbanes-Oxley prohibits
+issuers from retaliating against whistleblowers and provides
+that employees who are retaliated against for reporting possible
+securities law violations may file a complaint with the
+Department of Labor, for which they would be eligible to
+receive reinstatement, back pay, and other compensation. 390
+Sarbanes-Oxley also prohibits retaliation against employee
+whistleblowers under the obstruction of justice statute. 391
+In 2010, the Dodd-Frank Act added Section 21F to
+the Exchange Act, addressing whistleblower incentives and
+protections. Section 21F authorizes SEC to provide monetary
+awards to eligible individuals who voluntarily come
+forward with high quality, original information that leads
+to an SEC enforcement action in which over $1,000,000 in
+sanctions is ordered. 392 The awards range is between 10%
+and 30% of the monetary sanctions recovered by the government.
+The Dodd-Frank Act also prohibits employers
+from retaliating against whistleblowers and creates a private
+right of action for employees who are retaliated against. 393
+Furthermore, businesses should be aware that retaliation
+against a whistleblower may also violate state, local,
+and foreign laws that provide protection of whistleblowers.
+82
+On August 12, 2011, the final rules for SEC’s
+Whistleblower Program became effective. These rules set
+forth the requirements for whistleblowers to be eligible for
+awards consideration, the factors that SEC will use to determine
+the amount of the award, the categories of individuals
+who are excluded from award consideration, and the categories
+of individuals who are subject to limitations in award
+considerations. 394 The final rules strengthen incentives for
+employees to report the suspected violations internally
+through internal compliance programs when appropriate,
+although it does not require an employee to do so in order
+to qualify for an award. 395
+Individuals with information about a possible violation
+of the federal securities laws, including FCPA violations,
+should submit that information to SEC either online
+through SEC’s Tips, Complaints, and Referrals (TCR)
+Intake and Resolution System (available at https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml)
+or by mailing
+or faxing a completed Form TCR to the Commission’s
+Office of the Whistleblower.
+Whistleblowers can submit information anonymously.
+To be considered under SEC’s whistleblower program
+as eligible for a reward, however, the information
+must be submitted on an anonymous whistleblower’s behalf
+by an attorney. 396 Whether or not a whistleblower reports
+anonymously, SEC is committed to protecting the identity
+of a whistleblower to the fullest extent possible under the
+statute. 397 SEC’s Office of the Whistleblower administers
+SEC’s Whistleblower Program and answers questions from
+the public regarding the program. Additional information
+regarding SEC’s Whistleblower Program, including
+answers to frequently asked questions, is available online at
+http://www.sec.gov/whistleblower.
+SEC Office of the Whistleblower
+100 F Street NE, Mail Stop 5971
+Washington, DC 20549
+Facsimile: (703) 813-9322
+Online Report Form: http://www.sec.gov/
+whistleblower
+83
+chapter 8
+Whistleblower
+Provisions and
+Protections
+84
+
+chapter 9
+DOJ Opinion
+Procedure
+DOJ OPINION PROCEDURE
+DOJ’s opinion procedure is a valuable mechanism for companies and individuals
+to determine whether proposed conduct would be prosecuted by DOJ
+under the FCPA. 398 Generally speaking, under the opinion procedure process,
+parties submit information to DOJ, after which DOJ issues an opinion about
+whether the proposed conduct falls within its enforcement policy. All of DOJ’s
+prior opinions are available online. 399 Parties interested in obtaining such an
+opinion should follow these steps: 400
+First, those seeking an opinion should evaluate whether
+their question relates to actual, prospective conduct. 401 The
+opinion procedure cannot be used to obtain opinions on
+purely historical conduct or on hypothetical questions. DOJ
+will not consider a request unless that portion of the transaction
+for which an opinion is sought involves only prospective
+conduct, although the transaction as a whole may have components
+that already have occurred. An executed contract
+is not a prerequisite and, in most—if not all—instances, an
+opinion request should be made before the requestor commits
+to proceed with a transaction. 402 Those seeking requests
+should be aware that FCPA opinions relate only to the
+FCPA’s anti-bribery provisions. 403
+Second, before making the request, the company or
+individual should check that they are either an issuer or a
+domestic concern, as only those categories of parties can
+receive an opinion. 404 If the transaction involves more than
+one issuer or domestic concern, consider making a request
+for an opinion jointly, as opinions only apply to the parties
+that request them. 405
+Third, those seeking an opinion must put their request
+in writing. The request must be specific and accompanied
+by all relevant and material information bearing on the conduct
+and circumstances for which an opinion is requested.
+Material information includes background information,
+complete copies of all operative documents, and detailed
+statements of all collateral or oral understandings, if any.
+Those seeking opinions are under an affirmative obligation
+to make full and true disclosures. 406 Materials disclosed to
+DOJ will not be made public without the consent of the
+party submitting them. 407
+86
+Fourth, the request must be signed. For corporate
+requestors, the signatory should be an appropriate senior
+officer with operational responsibility for the conduct that is
+the subject of the request and who has been designated by the
+corporation’s chief executive officer. In appropriate cases, DOJ
+also may require the chief executive officer to sign the request.
+Those signing the request must certify that it contains a true,
+correct, and complete disclosure with respect to the proposed
+conduct and the circumstances of the conduct. 408
+Fifth, an original and five copies of the request should
+be addressed to the Assistant Attorney General in charge of
+the Criminal Division, Attention: FCPA Opinion Group. 409
+The mailing address is P.O. Box 28188 Central Station,
+Washington, D.C. 20038. DOJ also asks that you send an
+electronic courtesy copy to FCPA.Fraud@usdoj.gov.
+DOJ will evaluate the request for an FCPA opinion. 410
+A party may withdraw a request for an opinion at any time
+prior to the release of an opinion. 411 If the request is complete
+and all the relevant information has been submitted, DOJ will
+respond to the request by issuing an opinion within 30 days. 412
+If the request is incomplete, DOJ will identify for the requestor
+what additional information or documents are required for
+DOJ to review the request. Such information must be provided
+to DOJ promptly. Once the additional information has
+been received, DOJ will issue an opinion within 30 days of
+receipt of that additional information. 413 DOJ’s FCPA opinions
+state whether, for purposes of DOJ’s present enforcement
+policy, the prospective conduct would violate either the issuer
+or domestic concern anti-bribery provisions of the FCPA. 414
+DOJ also may take other positions in the opinion as it considers
+appropriate. 415 To the extent that the opinion concludes
+that the proposed conduct would not violate the FCPA, a
+rebuttable presumption is created that the requestor’s conduct
+that was the basis of the opinion is in compliance with
+the FCPA. 416 In order to provide non-binding guidance to the
+business community, DOJ makes versions of its opinions publicly
+available on its website. 417
+If, after receiving an opinion, a party is concerned about
+prospective conduct that is beyond the scope of conduct specified
+in a previous request, the party may submit an additional
+request for an opinion using the procedures outlined above. 418
+87
+chapter 9
+DOJ Opinion
+Procedure
+88
+
+chapter 10
+Conclusion
+CONCLUSION
+The FCPA was designed to prevent corrupt practices, protect investors,
+and provide a fair playing field for those honest companies trying to win business
+based on quality and price rather than bribes. Following Congress’ leadership
+in enacting the FCPA 35 years ago, and through determined international
+diplomatic and law enforcement efforts in the time since, laws like the FCPA
+prohibiting foreign bribery have been enacted by most of the United States’
+major trading partners.
+This guide is designed to provide practical advice about, and useful insights
+into, our enforcement considerations. For businesses desiring to compete
+fairly in foreign markets, it is our goal to maximize those businesses’ ability
+to comply with the FCPA in the most effective and efficient way suitable to their
+business and the markets in which they operate. Through our ongoing efforts
+with the U.S. and international business and legal communities and nongovernmental
+organizations, DOJ and SEC can continue effectively to protect
+the integrity of our markets and reduce corruption around the world.
+90
+
+APPENDIX
+The Foreign
+Corrupt
+Practices Act
+THE FOREIGN CORRUPT
+PRACTICES ACT:
+15 U.S.C. §§ 78dd-1, 78dd-2, 78dd-3, 78m, 78ff
+15 U.S.C. § 78dd-1 [Section 30A of the Securities Exchange Act of
+1934] Prohibited foreign trade practices by issuers
+(a) Prohibition
+It shall be unlawful for any issuer which has a class of securities registered
+pursuant to section 78l of this title or which is required to file
+reports under section 78o(d) of this title, or for any officer, director,
+employee, or agent of such issuer or any stockholder thereof acting
+on behalf of such issuer, to make use of the mails or any means or
+instrumentality of interstate commerce corruptly in furtherance of an
+offer, payment, promise to pay, or authorization of the payment of any
+money, or offer, gift, promise to give, or authorization of the giving of
+anything of value to—
+(1) any foreign official for purposes of—
+(A) (i) influencing any act or decision of such foreign official in his
+official capacity, (ii) inducing such foreign official to do or omit to do
+any act in violation of the lawful duty of such official, or (iii) securing
+any improper advantage; or
+(B) inducing such foreign official to use his influence with a foreign
+government or instrumentality thereof to affect or influence any act
+or decision of such government or instrumentality, in order to assist
+such issuer in obtaining or retaining business for or with, or directing
+business to, any person;
+(2) any foreign political party or official thereof or any candidate for
+foreign political office for purposes of—
+(A) (i) influencing any act or decision of such party, official, or candidate
+in its or his official capacity, (ii) inducing such party, official, or
+candidate to do or omit to do an act in violation of the lawful duty of
+such party, official, or candidate, or (iii) securing any improper advantage;
+or
+(B) inducing such party, official, or candidate to use its or his influence
+with a foreign government or instrumentality thereof to affect or
+influence any act or decision of such government or instrumentality,
+in order to assist such issuer in obtaining or retaining business for or
+with, or directing business to, any person; or
+(3) any person, while knowing that all or a portion of such money or
+thing of value will be offered, given, or promised, directly or indirectly,
+to any foreign official, to any foreign political party or official thereof,
+or to any candidate for foreign political office, for purposes of—
+(A) (i) influencing any act or decision of such foreign official, political
+party, party official, or candidate in his or its official capacity, (ii)
+inducing such foreign official, political party, party official, or candidate
+to do or omit to do any act in violation of the lawful duty of
+such foreign official, political party, party official, or candidate, or (iii)
+securing any improper advantage; or
+(B) inducing such foreign official, political party, party official, or
+92
+candidate to use his or its influence with a foreign government or
+instrumentality thereof to affect or influence any act or decision of
+such government or instrumentality, in order to assist such issuer in
+obtaining or retaining business for or with, or directing business to,
+any person.
+(b) Exception for routine governmental action
+Subsections (a) and (g) of this section shall not apply to any facilitating
+or expediting payment to a foreign official, political party, or party
+official the purpose of which is to expedite or to secure the performance
+of a routine governmental action by a foreign official, political
+party, or party official.
+(c) Affirmative defenses
+It shall be an affirmative defense to actions under subsection (a) or (g)
+of this section that—
+(1) the payment, gift, offer, or promise of anything of value that was
+made, was lawful under the written laws and regulations of the foreign
+official’s, political party’s, party official’s, or candidate’s country; or
+(2) the payment, gift, offer, or promise of anything of value that was
+made, was a reasonable and bona fide expenditure, such as travel and
+lodging expenses, incurred by or on behalf of a foreign official, party,
+party official, or candidate and was directly related to—
+(A) the promotion, demonstration, or explanation of products or services;
+or
+(B) the execution or performance of a contract with a foreign government
+or agency thereof.
+(d) Guidelines by Attorney General
+Not later than one year after August 23, 1988, the Attorney General,
+after consultation with the Commission, the Secretary of Commerce,
+the United States Trade Representative, the Secretary of State, and the
+Secretary of the Treasury, and after obtaining the views of all interested
+persons through public notice and comment procedures, shall determine
+to what extent compliance with this section would be enhanced
+and the business community would be assisted by further clarification of
+the preceding provisions of this section and may, based on such determination
+and to the extent necessary and appropriate, issue—
+(1) guidelines describing specific types of conduct, associated with
+common types of export sales arrangements and business contracts,
+which for purposes of the Department of Justice’s present enforcement
+policy, the Attorney General determines would be in conformance
+with the preceding provisions of this section; and
+(2) general precautionary procedures which issuers may use on a voluntary
+basis to conform their conduct to the Department of Justice’s
+present enforcement policy regarding the preceding provisions of this
+section. The Attorney General shall issue the guidelines and procedures
+referred to in the preceding sentence in accordance with the provisions
+of subchapter II of chapter 5 of Title 5 and those guidelines and procedures
+shall be subject to the provisions of chapter 7 of that title.
+(e) Opinions of Attorney General
+(1) The Attorney General, after consultation with appropriate departments
+and agencies of the United States and after obtaining the views
+of all interested persons through public notice and comment procedures,
+shall establish a procedure to provide responses to specific
+inquiries by issuers concerning conformance of their conduct with the
+Department of Justice’s present enforcement policy regarding the preceding
+provisions of this section. The Attorney General shall, within
+30 days after receiving such a request, issue an opinion in response
+to that request. The opinion shall state whether or not certain specified
+prospective conduct would, for purposes of the Department of
+Justice’s present enforcement policy, violate the preceding provisions
+of this section. Additional requests for opinions may be filed with the
+Attorney General regarding other specified prospective conduct that
+is beyond the scope of conduct specified in previous requests. In any
+action brought under the applicable provisions of this section, there
+shall be a rebuttable presumption that conduct, which is specified in a
+request by an issuer and for which the Attorney General has issued an
+opinion that such conduct is in conformity with the Department of
+Justice’s present enforcement policy, is in compliance with the preceding
+provisions of this section. Such a presumption may be rebutted by
+a preponderance of the evidence. In considering the presumption for
+purposes of this paragraph, a court shall weight all relevant factors,
+including but not limited to whether the information submitted to
+the Attorney General was accurate and complete and whether it was
+within the scope of the conduct specified in any request received by
+the Attorney General. The Attorney General shall establish the procedure
+required by this paragraph in accordance with the provisions
+of subchapter II of chapter 5 of Title 5 and that procedure shall be
+subject to the provisions of chapter 7 of that title.
+(2) Any document or other material which is provided to, received by,
+or prepared in the Department of Justice or any other department or
+agency of the United States in connection with a request by an issuer
+under the procedure established under paragraph (1), shall be exempt
+from disclosure under section 552 of Title 5 and shall not, except
+with the consent of the issuer, be made publicly available, regardless of
+whether the Attorney General responds to such a request or the issuer
+withdraws such request before receiving a response.
+(3) Any issuer who has made a request to the Attorney General
+under paragraph (1) may withdraw such request prior to the time the
+Attorney General issues an opinion in response to such request. Any
+request so withdrawn shall have no force or effect.
+(4) The Attorney General shall, to the maximum extent practicable,
+provide timely guidance concerning the Department of Justice’s
+93
+present enforcement policy with respect to the preceding provisions
+of this section to potential exporters and small businesses that
+are unable to obtain specialized counsel on issues pertaining to such
+provisions. Such guidance shall be limited to responses to requests
+under paragraph (1) concerning conformity of specified prospective
+conduct with the Department of Justice’s present enforcement policy
+regarding the preceding provisions of this section and general explanations
+of compliance responsibilities and of potential liabilities under
+the preceding provisions of this section.
+(v) actions of a similar nature.
+APPENDIX
+The Foreign
+Corrupt
+Practices Act
+(f ) Definitions
+For purposes of this section:
+(1)(A) The term “foreign official” means any officer or employee of
+a foreign government or any department, agency, or instrumentality
+thereof, or of a public international organization, or any person acting
+in an official capacity for or on behalf of any such government or
+department, agency, or instrumentality, or for or on behalf of any such
+public international organization.
+(B) For purposes of subparagraph (A), the term “public international
+organization” means—
+(i) an organization that is designated by Executive Order pursuant
+to section 1 of the International Organizations Immunities Act (22
+U.S.C. § 288); or
+(ii) any other international organization that is designated by the
+President by Executive order for the purposes of this section, effective
+as of the date of publication of such order in the Federal Register.
+(2) (A) A person’s state of mind is “knowing” with respect to conduct,
+a circumstance, or a result if—
+(i) such person is aware that such person is engaging in such conduct,
+that such circumstance exists, or that such result is substantially certain
+to occur; or
+(ii) such person has a firm belief that such circumstance exists or that
+such result is substantially certain to occur.
+(B) When knowledge of the existence of a particular circumstance is
+required for an offense, such knowledge is established if a person is
+aware of a high probability of the existence of such circumstance, unless
+the person actually believes that such circumstance does not exist.
+(3)(A) The term “routine governmental action” means only an action
+which is ordinarily and commonly performed by a foreign official in—
+(i) obtaining permits, licenses, or other official documents to qualify a
+person to do business in a foreign country;
+(ii) processing governmental papers, such as visas and work orders;
+(iii) providing police protection, mail pick-up and delivery, or scheduling
+inspections associated with contract performance or inspections
+related to transit of goods across country;
+(iv) providing phone service, power and water supply, loading and
+unloading cargo, or protecting perishable products or commodities
+from deterioration; or
+(B) The term “routine governmental action” does not include any
+decision by a foreign official whether, or on what terms, to award
+new business to or to continue business with a particular party, or
+any action taken by a foreign official involved in the decision-making
+process to encourage a decision to award new business to or continue
+business with a particular party.
+(g) Alternative Jurisdiction
+(1) It shall also be unlawful for any issuer organized under the laws of
+the United States, or a State, territory, possession, or commonwealth
+of the United States or a political subdivision thereof and which has
+a class of securities registered pursuant to section 78l of this title or
+which is required to file reports under section 78o(d)) of this title, or
+for any United States person that is an officer, director, employee, or
+agent of such issuer or a stockholder thereof acting on behalf of such
+issuer, to corruptly do any act outside the United States in furtherance
+of an offer, payment, promise to pay, or authorization of the payment
+of any money, or offer, gift, promise to give, or authorization of the
+giving of anything of value to any of the persons or entities set forth
+in paragraphs (1), (2), and (3) of this subsection (a) of this section
+for the purposes set forth therein, irrespective of whether such issuer
+or such officer, director, employee, agent, or stockholder makes use
+of the mails or any means or instrumentality of interstate commerce
+in furtherance of such offer, gift, payment, promise, or authorization.
+(2) As used in this subsection, the term “United States person” means
+a national of the United States (as defined in section 101 of the
+Immigration and Nationality Act (8 U.S.C. § 1101)) or any corporation,
+partnership, association, joint-stock company, business trust,
+unincorporated organization, or sole proprietorship organized under
+the laws of the United States or any State, territory, possession, or commonwealth
+of the United States, or any political subdivision thereof.
+15 U.S.C. § 78dd-2 Prohibited foreign trade practices by domestic
+concerns
+(a) Prohibition
+It shall be unlawful for any domestic concern, other than an issuer
+which is subject to section 78dd-1 of this title, or for any officer, director,
+employee, or agent of such domestic concern or any stockholder
+thereof acting on behalf of such domestic concern, to make use of
+the mails or any means or instrumentality of interstate commerce
+94
+corruptly in furtherance of an offer, payment, promise to pay, or
+authorization of the payment of any money, or offer, gift, promise to
+give, or authorization of the giving of anything of value to—
+(1) any foreign official for purposes of—
+(A) (i) influencing any act or decision of such foreign official in his
+official capacity, (ii) inducing such foreign official to do or omit to do
+any act in violation of the lawful duty of such official, or (iii) securing
+any improper advantage; or
+(B) inducing such foreign official to use his influence with a foreign
+government or instrumentality thereof to affect or influence any act
+or decision of such government or instrumentality, in order to assist
+such domestic concern in obtaining or retaining business for or with,
+or directing business to, any person; or
+(2) any foreign political party or official thereof or any candidate for
+foreign political office for purposes of—
+(A) (i) influencing any act or decision of such party, official, or candidate
+in its or his official capacity, (ii) inducing such party, official, or candidate
+to do or omit to do an act in violation of the lawful duty of such
+party, official, or candidate, or (iii) securing any improper advantage; or
+(B) inducing such party, official, or candidate to use its or his influence
+with a foreign government or instrumentality thereof to affect or
+influence any act or decision of such government or instrumentality,
+in order to assist such domestic concern in obtaining or retaining business
+for or with, or directing business to, any person;
+(3) any person, while knowing that all or a portion of such money or
+thing of value will be offered, given, or promised, directly or indirectly,
+to any foreign official, to any foreign political party or official thereof,
+or to any candidate for foreign political office, for purposes of—
+(A) (i) influencing any act or decision of such foreign official, political
+party, party official, or candidate in his or its official capacity, (ii)
+inducing such foreign official, political party, party official, or candidate
+to do or omit to do any act in violation of the lawful duty of
+such foreign official, political party, party official, or candidate, or (iii)
+securing any improper advantage; or
+(B) inducing such foreign official, political party, party official, or
+candidate to use his or its influence with a foreign government or
+instrumentality thereof to affect or influence any act or decision of
+such government or instrumentality, in order to assist such domestic
+concern in obtaining or retaining business for or with, or directing
+business to, any person.
+(b) Exception for routine governmental action
+Subsections (a) and (i) of this section shall not apply to any facilitating
+or expediting payment to a foreign official, political party, or party
+official the purpose of which is to expedite or to secure the performance
+of a routine governmental action by a foreign official, political
+party, or party official.
+(c) Affirmative defenses
+It shall be an affirmative defense to actions under subsection (a) or (i)
+of this section that—
+(1) the payment, gift, offer, or promise of anything of value that was
+made, was lawful under the written laws and regulations of the foreign
+official’s, political party’s, party official’s, or candidate’s country; or
+(2) the payment, gift, offer, or promise of anything of value that was
+made, was a reasonable and bona fide expenditure, such as travel and
+lodging expenses, incurred by or on behalf of a foreign official, party,
+party official, or candidate and was directly related to—
+(A) the promotion, demonstration, or explanation of products or services;
+or
+(B) the execution or performance of a contract with a foreign government
+or agency thereof.
+(d) Injunctive relief
+(1) When it appears to the Attorney General that any domestic concern
+to which this section applies, or officer, director, employee, agent,
+or stockholder thereof, is engaged, or about to engage, in any act or
+practice constituting a violation of subsection (a) or (i) of this section,
+the Attorney General may, in his discretion, bring a civil action
+in an appropriate district court of the United States to enjoin such act
+or practice, and upon a proper showing, a permanent injunction or a
+temporary restraining order shall be granted without bond.
+(2) For the purpose of any civil investigation which, in the opinion of
+the Attorney General, is necessary and proper to enforce this section,
+the Attorney General or his designee are empowered to administer
+oaths and affirmations, subpoena witnesses, take evidence, and require
+the production of any books, papers, or other documents which the
+Attorney General deems relevant or material to such investigation.
+The attendance of witnesses and the production of documentary evidence
+may be required from any place in the United States, or any
+territory, possession, or commonwealth of the United States, at any
+designated place of hearing.
+(3) In case of contumacy by, or refusal to obey a subpoena issued to,
+any person, the Attorney General may invoke the aid of any court of
+the United States within the jurisdiction of which such investigation
+or proceeding is carried on, or where such person resides or carries
+on business, in requiring the attendance and testimony of witnesses
+and the production of books, papers, or other documents. Any such
+court may issue an order requiring such person to appear before the
+Attorney General or his designee, there to produce records, if so
+95
+ordered, or to give testimony touching the matter under investigation.
+Any failure to obey such order of the court may be punished by such
+court as a contempt thereof. All process in any such case may be served
+in the judicial district in which such person resides or may be found.
+The Attorney General may make such rules relating to civil investigations
+as may be necessary or appropriate to implement the provisions
+of this subsection.
+(e) Guidelines by Attorney General
+Not later than 6 months after August 23, 1988, the Attorney General,
+after consultation with the Securities and Exchange Commission, the
+Secretary of Commerce, the United States Trade Representative, the
+Secretary of State, and the Secretary of the Treasury, and after obtaining
+the views of all interested persons through public notice and comment
+procedures, shall determine to what extent compliance with
+this section would be enhanced and the business community would
+be assisted by further clarification of the preceding provisions of this
+section and may, based on such determination and to the extent necessary
+and appropriate, issue—
+(1) guidelines describing specific types of conduct, associated with
+common types of export sales arrangements and business contracts,
+which for purposes of the Department of Justice’s present enforcement
+policy, the Attorney General determines would be in conformance
+with the preceding provisions of this section; and
+(2) general precautionary procedures which domestic concerns may
+use on a voluntary basis to conform their conduct to the Department
+of Justice’s present enforcement policy regarding the preceding provisions
+of this section.
+The Attorney General shall issue the guidelines and procedures
+referred to in the preceding sentence in accordance with the provisions
+of subchapter II of chapter 5 of Title 5 and those guidelines and
+procedures shall be subject to the provisions of chapter 7 of that title.
+(f ) Opinions of Attorney General
+(1) The Attorney General, after consultation with appropriate departments
+and agencies of the United States and after obtaining the views of
+all interested persons through public notice and comment procedures,
+shall establish a procedure to provide responses to specific inquiries by
+domestic concerns concerning conformance of their conduct with the
+Department of Justice’s present enforcement policy regarding the preceding
+provisions of this section. The Attorney General shall, within
+30 days after receiving such a request, issue an opinion in response to
+that request. The opinion shall state whether or not certain specified
+prospective conduct would, for purposes of the Department of Justice’s
+present enforcement policy, violate the preceding provisions of this section.
+Additional requests for opinions may be filed with the Attorney
+General regarding other specified prospective conduct that is beyond
+the scope of conduct specified in previous requests. In any action
+brought under the applicable provisions of this section, there shall be
+a rebuttable presumption that conduct, which is specified in a request
+by a domestic concern and for which the Attorney General has issued
+an opinion that such conduct is in conformity with the Department of
+Justice’s present enforcement policy, is in compliance with the preceding
+provisions of this section. Such a presumption may be rebutted by a
+preponderance of the evidence. In considering the presumption for purposes
+of this paragraph, a court shall weigh all relevant factors, including
+but not limited to whether the information submitted to the Attorney
+General was accurate and complete and whether it was within the
+scope of the conduct specified in any request received by the Attorney
+General. The Attorney General shall establish the procedure required
+by this paragraph in accordance with the provisions of subchapter II of
+chapter 5 of Title 5 and that procedure shall be subject to the provisions
+of chapter 7 of that title.
+(2) Any document or other material which is provided to, received by,
+or prepared in the Department of Justice or any other department or
+agency of the United States in connection with a request by a domestic
+concern under the procedure established under paragraph (1), shall
+be exempt from disclosure under section 552 of Title 5 and shall not,
+except with the consent of the domestic concern, by made publicly
+available, regardless of whether the Attorney General response to
+such a request or the domestic concern withdraws such request before
+receiving a response.
+(3) Any domestic concern who has made a request to the Attorney
+General under paragraph (1) may withdraw such request prior to
+the time the Attorney General issues an opinion in response to such
+request. Any request so withdrawn shall have no force or effect.
+(4) The Attorney General shall, to the maximum extent practicable,
+provide timely guidance concerning the Department of Justice’s present
+enforcement policy with respect to the preceding provisions of
+this section to potential exporters and small businesses that are unable
+to obtain specialized counsel on issues pertaining to such provisions.
+Such guidance shall be limited to responses to requests under paragraph
+(1) concerning conformity of specified prospective conduct
+with the Department of Justice’s present enforcement policy regarding
+the preceding provisions of this section and general explanations
+of compliance responsibilities and of potential liabilities under the
+preceding provisions of this section.
+(g) Penalties
+(1)(A) Any domestic concern that is not a natural person and that
+violates subsection (a) or (i) of this section shall be fined not more
+than $2,000,000.
+APPENDIX
+The Foreign
+Corrupt
+Practices Act
+96
+(B) Any domestic concern that is not a natural person and that violates
+subsection (a) or (i) of this section shall be subject to a civil penalty
+of not more than $10,000 imposed in an action brought by the
+Attorney General.
+(2)(A) Any natural person that is an officer, director, employee, or
+agent of a domestic concern, or stockholder acting on behalf of such
+domestic concern, who willfully violates subsection (a) or (i) of this
+section shall be fined not more than $100,000 or imprisoned not
+more than 5 years, or both.
+(B) Any natural person that is an officer, director, employee, or agent
+of a domestic concern, or stockholder acting on behalf of such domestic
+concern, who violates subsection (a) or (i) of this section shall be
+subject to a civil penalty of not more than $10,000 imposed in an
+action brought by the Attorney General.
+(3) Whenever a fine is imposed under paragraph (2) upon any officer,
+director, employee, agent, or stockholder of a domestic concern, such
+fine may not be paid, directly or indirectly, by such domestic concern.
+(h) Definitions
+For purposes of this section:
+(1) The term “domestic concern” means—
+(A) any individual who is a citizen, national, or resident of the United
+States; and
+(B) any corporation, partnership, association, joint-stock company,
+business trust, unincorporated organization, or sole proprietorship
+which has its principal place of business in the United States, or which
+is organized under the laws of a State of the United States or a territory,
+possession, or commonwealth of the United States.
+(2)(A) The term “foreign official” means any officer or employee of
+a foreign government or any department, agency, or instrumentality
+thereof, or of a public international organization, or any person acting
+in an official capacity for or on behalf of any such government or
+department, agency, or instrumentality, or for or on behalf of any such
+public international organization.
+(B) For purposes of subparagraph (A), the term “public international
+organization” means—
+(i) an organization that has been designated by Executive order pursuant
+to Section 1 of the International Organizations Immunities Act
+(22 U.S.C. § 288); or
+(ii) any other international organization that is designated by the
+President by Executive order for the purposes of this section, effective
+as of the date of publication of such order in the Federal Register.
+(3)(A) A person’s state of mind is “knowing” with respect to conduct,
+a circumstance, or a result if—
+(i) such person is aware that such person is engaging in such conduct,
+that such circumstance exists, or that such result is substantially certain
+to occur; or
+(ii) such person has a firm belief that such circumstance exists or that
+such result is substantially certain to occur.
+(B) When knowledge of the existence of a particular circumstance
+is required for an offense, such knowledge is established if a person
+is aware of a high probability of the existence of such circumstance,
+unless the person actually believes that such circumstance does not
+exist.
+(4)(A) The term “routine governmental action” means only an action
+which is ordinarily and commonly performed by a foreign official in—
+(i) obtaining permits, licenses, or other official documents to qualify a
+person to do business in a foreign country;
+(ii) processing governmental papers, such as visas and work orders;
+(iii) providing police protection, mail pick-up and delivery, or scheduling
+inspections associated with contract performance or inspections
+related to transit of goods across country;
+(iv) providing phone service, power and water supply, loading and
+unloading cargo, or protecting perishable products or commodities
+from deterioration; or
+(v) actions of a similar nature.
+(B) The term “routine governmental action” does not include any
+decision by a foreign official whether, or on what terms, to award
+new business to or to continue business with a particular party, or
+any action taken by a foreign official involved in the decision-making
+process to encourage a decision to award new business to or continue
+business with a particular party.
+(5) The term “interstate commerce” means trade, commerce, transportation,
+or communication among the several States, or between any
+foreign country and any State or between any State and any place or
+ship outside thereof, and such term includes the intrastate use of—
+(A) a telephone or other interstate means of communication, or
+(B) any other interstate instrumentality.
+(i) Alternative Jurisdiction
+(1) It shall also be unlawful for any United States person to corruptly
+do any act outside the United States in furtherance of an offer, payment,
+promise to pay, or authorization of the payment of any money,
+or offer, gift, promise to give, or authorization of the giving of anything
+of value to any of the persons or entities set forth in paragraphs
+(1), (2), and (3) of subsection (a), for the purposes set forth therein,
+irrespective of whether such United States person makes use of the
+mails or any means or instrumentality of interstate commerce in furtherance
+of such offer, gift, payment, promise, or authorization.
+97
+(2) As used in this subsection, a “United States person” means

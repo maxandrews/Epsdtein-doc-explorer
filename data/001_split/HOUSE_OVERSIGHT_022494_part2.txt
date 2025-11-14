@@ -1,0 +1,1809 @@
+bribe payor in this situation “could have turned his back and
+walked away,” in the oil rig example, “he could not.” 175
+Businesses operating in high-risk countries may face
+real threats of violence or harm to their employees, and
+payments made in response to imminent threats to health
+or safety do not violate the FCPA. 176 If such a situation
+arises, and to ensure the safety of its employees, companies
+should immediately contact the appropriate U.S. embassy
+for assistance.
+Principles of Corporate Liability for
+Anti-Bribery Violations
+General principles of corporate liability apply to the
+FCPA. Thus, a company is liable when its directors, officers,
+employees, or agents, acting within the scope of their employment,
+commit FCPA violations intended, at least in part, to
+benefit the company. 177 Similarly, just as with any other statute,
+DOJ and SEC look to principles of parent-subsidiary
+and successor liability in evaluating corporate liability.
+Parent-Subsidiary Liability
+There are two ways in which a parent company may
+be liable for bribes paid by its subsidiary. First, a parent may
+have participated sufficiently in the activity to be directly
+liable for the conduct—as, for example, when it directed its
+subsidiary’s misconduct or otherwise directly participated
+in the bribe scheme.
+Second, a parent may be liable for its subsidiary’s conduct
+under traditional agency principles. The fundamental
+characteristic of agency is control. 178 Accordingly, DOJ and
+SEC evaluate the parent’s control—including the parent’s
+knowledge and direction of the subsidiary’s actions, both
+generally and in the context of the specific transaction—
+when evaluating whether a subsidiary is an agent of the parent.
+Although the formal relationship between the parent
+and subsidiary is important in this analysis, so are the practical
+realities of how the parent and subsidiary actually interact.
+If an agency relationship exists, a subsidiary’s actions
+and knowledge are imputed to its parent. 179 Moreover,
+under traditional principles of respondeat superior, a company
+is liable for the acts of its agents, including its employees,
+undertaken within the scope of their employment and
+intended, at least in part, to benefit the company. 180 Thus,
+if an agency relationship exists between a parent and a
+subsidiary, the parent is liable for bribery committed by
+the subsidiary’s employees. For example, SEC brought an
+administrative action against a parent for bribes paid by the
+president of its indirect, wholly owned subsidiary. In that
+matter, the subsidiary’s president reported directly to the
+CEO of the parent issuer, and the issuer routinely identified
+27
+the president as a member of its senior management in its
+annual filing with SEC and in annual reports. Additionally,
+the parent’s legal department approved the retention of the
+third-party agent through whom the bribes were arranged
+despite a lack of documented due diligence and an agency
+agreement that violated corporate policy; also, an official of
+the parent approved one of the payments to the third-party
+agent. 181 Under these circumstances, the parent company
+had sufficient knowledge and control of its subsidiary’s
+actions to be liable under the FCPA.
+Successor Liability
+Companies acquire a host of liabilities when they
+merge with or acquire another company, including those arising
+out of contracts, torts, regulations, and statutes. As a general
+legal matter, when a company merges with or acquires
+another company, the successor company assumes the predecessor
+company’s liabilities. 182 Successor liability is an integral
+component of corporate law and, among other things, prevents
+companies from avoiding liability by reorganizing. 183
+Successor liability applies to all kinds of civil and criminal
+liabilities, 184 and FCPA violations are no exception. Whether
+successor liability applies to a particular corporate transaction
+depends on the facts and the applicable state, federal,
+and foreign law. Successor liability does not, however, create
+liability where none existed before. For example, if an issuer
+were to acquire a foreign company that was not previously
+subject to the FCPA’s jurisdiction, the mere acquisition of
+that foreign company would not retroactively create FCPA
+liability for the acquiring issuer.
+DOJ and SEC encourage companies to conduct preacquisition
+due diligence and improve compliance programs
+and internal controls after acquisition for a variety
+of reasons. First, due diligence helps an acquiring company
+to accurately value the target company. Contracts obtained
+through bribes may be legally unenforceable, business
+obtained illegally may be lost when bribe payments are
+stopped, there may be liability for prior illegal conduct, and
+the prior corrupt acts may harm the acquiring company’s
+reputation and future business prospects. Identifying these
+issues before an acquisition allows companies to better
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+evaluate any potential post-acquisition liability and thus
+properly assess the target’s value. 185 Second, due diligence
+reduces the risk that the acquired company will continue to
+pay bribes. Proper pre-acquisition due diligence can identify
+business and regional risks and can also lay the foundation
+for a swift and successful post-acquisition integration
+into the acquiring company’s corporate control and compliance
+environment. Third, the consequences of potential
+violations uncovered through due diligence can be handled
+by the parties in an orderly and efficient manner through
+negotiation of the costs and responsibilities for the investigation
+and remediation. Finally, comprehensive due diligence
+demonstrates a genuine commitment to uncovering
+and preventing FCPA violations.
+In a significant number of instances, DOJ and
+SEC have declined to take action against companies
+that voluntarily disclosed and remediated conduct
+and cooperated with DOJ and SEC in the merger and
+acquisition context. 186 And DOJ and SEC have only
+taken action against successor companies in limited circumstances,
+generally in cases involving egregious and
+sustained violations or where the successor company
+directly participated in the violations or failed to stop the
+misconduct from continuing after the acquisition. In one
+case, a U.S.-based issuer was charged with books and records
+and internal controls violations for continuing a kickback
+scheme originated by its predecessor. 187 Another recent case
+involved a merger between two tobacco leaf merchants,
+where prior to the merger each company committed
+FCPA violations through its foreign subsidiaries, involving
+multiple countries over the course of many years. At each
+company, the bribes were directed by the parent company’s
+senior management. The two issuers then merged to form
+a new public company. Under these circumstances—the
+merger of two public companies that had each engaged in
+28
+Practical Tips to Reduce FCPA Risk in Mergers and Acquisitions
+Companies pursuing mergers or acquisitions can take certain steps to identify and potentially reduce FCPA risks:
+• M&A Opinion Procedure Release Requests: One option is to seek an opinion from DOJ in anticipation of a
+potential acquisition, such as occurred with Opinion Release 08-02 That case involved special circumstances,
+namely, severely limited pre-acquisition due diligence available to the potential acquiring company, and, because
+it was an opinion release (i e , providing certain assurances by DOJ concerning prospective conduct), it necessarily
+imposed demanding standards and prescriptive timeframes in return for specific assurances from DOJ, which
+SEC, as a matter of discretion, also honors Thus, obtaining an opinion from DOJ can be a good way to address
+specific due diligence challenges, but, because of the nature of such an opinion, it will likely contain more stringent
+requirements than may be necessary in all circumstances
+• M&A Risk-Based FCPA Due Diligence and Disclosure: As a practical matter, most acquisitions will typically not
+require the type of prospective assurances contained in an opinion from DOJ DOJ and SEC encourage companies
+engaging in mergers and acquisitions to: (1) conduct thorough risk-based FCPA and anti-corruption due diligence
+on potential new business acquisitions; (2) ensure that the acquiring company’s code of conduct and compliance
+policies and procedures regarding the FCPA and other anti-corruption laws apply as quickly as is practicable to
+newly acquired businesses or merged entities; (3) train the directors, officers, and employees of newly acquired
+businesses or merged entities, and when appropriate, train agents and business partners, on the FCPA and other
+relevant anti-corruption laws and the company’s code of conduct and compliance policies and procedures; (4)
+conduct an FCPA-specific audit of all newly acquired or merged businesses as quickly as practicable; and (5) disclose
+any corrupt payments discovered as part of its due diligence of newly acquired entities or merged entities DOJ
+and SEC will give meaningful credit to companies who undertake these actions, and, in appropriate circumstances,
+DOJ and SEC may consequently decline to bring enforcement actions
+bribery—both the new entity and the foreign subsidiaries
+were liable under the FCPA. The new parent entered into
+a non-prosecution agreement with DOJ and settled a civil
+action with SEC, while the company’s subsidiaries, which
+also merged, pleaded guilty. 188
+More often, DOJ and SEC have pursued enforcement
+actions against the predecessor company (rather
+than the acquiring company), particularly when the
+acquiring company uncovered and timely remedied the
+violations or when the government’s investigation of
+the predecessor company preceded the acquisition. In
+one such case, an Ohio-based health care company’s due
+diligence of an acquisition target uncovered FCPA violations
+by the target’s subsidiary, and, before the merger
+was completed, the subsidiary’s violations were disclosed
+to DOJ and SEC. The subsidiary pleaded guilty and
+paid a $2 million criminal fine, 189 the acquisition target
+settled with SEC and paid a $500,000 civil penalty, 190
+and no successor liability was sought against the acquiring
+entity. In another case, a Pennsylvania-based issuer
+that supplied heating and air conditioning products and
+services was subject to an ongoing investigation by DOJ
+and SEC at the time that it was acquired; DOJ and SEC
+resolved enforcement actions only against the predecessor
+company, which had by that time become a wholly owned
+subsidiary of the successor company. 191
+DOJ and SEC have also brought actions only against a
+predecessor company where its FCPA violations are discovered
+after acquisition. For example, when a Florida-based
+U.S. company discovered in post-acquisition due diligence
+that the telecommunications company (a domestic concern)
+it had acquired had engaged in foreign bribery, the
+successor company disclosed the FCPA violations to DOJ.
+It then conducted an internal investigation, cooperated
+fully with DOJ, and took appropriate remedial action—
+including terminating senior management at the acquired
+29
+company. No enforcement action was taken against the successor,
+but the predecessor company pleaded guilty to one
+count of violating the FCPA and agreed to pay a $2 million
+fine. 192 Later, four executives from the predecessor company
+were convicted of FCPA violations, three of whom received
+terms of imprisonment. 193
+On occasion, when an enforcement action has
+been taken against a predecessor company, the successor
+seeks assurances that it will not be subject to a future
+enforcement action. In one such case, a Dutch predecessor
+resolved FCPA charges with DOJ through a deferred
+prosecution agreement. 194 While both the predecessor
+and successor signed the agreement, which included a
+commitment to ongoing cooperation and an improved
+compliance program, only the predecessor company was
+charged; in signing the agreement, the successor company
+gained the certainty of conditional release from criminal
+liability, even though it was not being pursued for FCPA
+violations. 195 In another case, after a Connecticut-based
+company uncovered FCPA violations by a California
+company it sought to acquire, both companies voluntarily
+disclosed the conduct to DOJ and SEC. 196 The predecessor
+company resolved its criminal liability through a
+non-prosecution agreement with DOJ that included an
+$800,000 monetary penalty and also settled with SEC,
+paying a total of $1.1 million in disgorgement, pre-judgment
+interest, and civil penalties. The successor company
+proceeded with the acquisition and separately entered
+into a non-prosecution agreement with DOJ in which it
+agreed, among other things, to ensure full performance of
+the predecessor company’s non-prosecution agreement.
+This agreement provided certainty to the successor concerning
+its FCPA liability. 197
+Importantly, a successor company’s voluntary disclosure,
+appropriate due diligence, and implementation of an
+effective compliance program may also decrease the likelihood
+of an enforcement action regarding an acquired company’s
+post-acquisition conduct when pre-acquisition due
+diligence is not possible. 198
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+30
+Hypothetical: Successor Liability Where Acquired Company Was Not Previously
+Subject to the FCPA
+Company A is a Delaware corporation with its principal offices in the United States and whose shares are listed on
+a national U.S. exchange. Company A is considering acquiring Foreign Company, which is not an issuer or a domestic
+concern. Foreign Company takes no actions within the United States that would make it subject to territorial jurisdiction.
+Company A’s proposed acquisition would make Foreign Company a subsidiary of Company A.
+Scenario 1:
+Prior to acquiring Foreign Company, Company A engages in extensive due diligence of Foreign Company, including: (1)
+having its legal, accounting, and compliance departments review Foreign Company’s sales and financial data, its customer
+contracts, and its third-party and distributor agreements; (2) performing a risk-based analysis of Foreign Company’s customer
+base; (3) performing an audit of selected transactions engaged in by Foreign Company; and (4) engaging in discussions
+with Foreign Company’s general counsel, vice president of sales, and head of internal audit regarding all corruption risks,
+compliance efforts, and any other corruption-related issues that have surfaced at Foreign Company over the past ten years.
+This due diligence aims to determine whether Foreign Company has appropriate anti-corruption and compliance policies
+in place, whether Foreign Company’s employees have been adequately trained regarding those policies, how Foreign
+Company ensures that those policies are followed, and what remedial actions are taken if the policies are violated.
+During the course of its due diligence, Company A learns that Foreign Company has made several potentially
+improper payments in the form of an inflated commission to a third-party agent in connection with a government contract
+with Foreign Country. Immediately after the acquisition, Company A discloses the conduct to DOJ and SEC, suspends
+and terminates those employees and the third-party agent responsible for the payments, and makes certain that the
+illegal payments have stopped. It also quickly integrates Foreign Company into Company A’s own robust internal controls,
+including its anti-corruption and compliance policies, which it communicates to its new employees through required online
+and in-person training in the local language. Company A also requires Foreign Company’s third-party distributors and other
+agents to sign anti-corruption certifications, complete training, and sign new contracts that incorporate FCPA and anticorruption
+representations and warranties and audit rights.
+Based on these facts, could DOJ or SEC prosecute Company A?
+No. Although DOJ and SEC have jurisdiction over Company A because it is an issuer, neither could pursue Company
+A for conduct that occurred prior to its acquisition of Foreign Company. As Foreign Company was neither an issuer nor a
+domestic concern and was not subject to U.S. territorial jurisdiction, DOJ and SEC have no jurisdiction over its pre-acquisition
+misconduct. The acquisition of a company does not create jurisdiction where none existed before.
+Importantly, Company A’s extensive pre-acquisition due diligence allowed it to identify and halt the corruption. As
+there was no continuing misconduct post-acquisition, the FCPA was not violated.
+Scenario 2:
+Company A performs only minimal and pro forma pre-acquisition due diligence. It does not conduct a risk-based
+analysis, and its review of Foreign Company’s data, contracts, and third-party and distributor agreements is cursory.
+Company A acquires Foreign Company and makes it a wholly owned subsidiary. Although Company A circulates its
+compliance policies to all new personnel after the acquisition, it does not translate the compliance policies into the local
+language or train its new personnel or third-party agents on anti-corruption issues.
+A few months after the acquisition, an employee in Company A’s international sales office (Sales Employee) learns
+from a legacy Foreign Company employee that for years the government contract that generated most of Foreign
+Company’s revenues depended on inflated commissions to a third-party agent “to make the right person happy at Foreign
+Government Agency.” Sales Employee is told that unless the payments continue the business will likely be lost, which
+would mean that Company A’s new acquisition would quickly become a financial failure. The payments continue for two
+(cont’d)
+31
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+years after the acquisition. After another employee of Company A reports the long-running bribe scheme to a director at
+Foreign Government Agency, Company A stops the payments and DOJ and SEC investigate.
+Based on these facts, would DOJ or SEC charge Company A?
+Yes. DOJ and SEC have prosecuted companies like Company A in similar circumstances. Any charges would not,
+however, be premised upon successor liability, but rather on Company A’s post-acquisition bribe payments, which
+themselves created criminal and civil liability for Company A.
+Scenario 3:
+Under local law, Company A’s ability to conduct pre-acquisition due diligence on Foreign Company is limited. In the
+due diligence it does conduct, Company A determines that Foreign Company is doing business in high-risk countries
+and in high-risk industries but finds no red flags specific to Foreign Company’s operations. Post-acquisition, Company
+A conducts extensive due diligence and determines that Foreign Company had paid bribes to officials with Foreign
+Government Agency. Company A takes prompt action to remediate the problem, including following the measures set
+forth in Opinion Procedure Release No. 08-02. Among other actions, it voluntarily discloses the misconduct to DOJ and
+SEC, ensures all bribes are immediately stopped, takes remedial action against all parties involved in the corruption, and
+quickly incorporates Foreign Company into a robust compliance program and Company A’s other internal controls.
+Based on these facts, would DOJ or SEC prosecute Company A?
+DOJ and SEC have declined to prosecute companies like Company A in similar circumstances Companies can follow
+the measures set forth in Opinion Procedure Release No 08-02, or seek their own opinions, where adequate pre-acquisition
+due diligence is not possible
+Hypothetical: Successor Liability Where Acquired Company Was Already Subject to
+the FCPA
+Both Company A and Company B are Delaware corporations with their principal offices in the United States Both
+companies’ shares are listed on a national U S exchange
+Scenario 1:
+Company A is considering acquiring several of Company B’s business lines. Prior to the acquisition, Company A engages
+in extensive due diligence, including: (1) having its legal, accounting, and compliance departments review Company B’s
+sales and financial data, its customer contracts, and its third-party and distributor agreements; (2) performing a risk-based
+analysis of Company B’s customer base; (3) performing an audit of selected transactions engaged in by Company B; and
+(4) engaging in discussions with Company B’s general counsel, vice president of sales, and head of internal audit regarding
+all corruption risks, compliance efforts, and any other major corruption-related issues that have surfaced at Company B
+over the past ten years. This due diligence aims to determine whether Company B has appropriate anti-corruption and
+compliance policies in place, whether Company B’s employees have been adequately trained regarding those policies,
+how Company B ensures that those policies are followed, and what remedial actions are taken if the policies are violated.
+During the course of its due diligence, Company A learns that Company B has made several potentially improper
+payments in connection with a government contract with Foreign Country. As a condition of the acquisition, Company A
+requires Company B to disclose the misconduct to the government. Company A makes certain that the illegal payments
+(cont’d)
+32
+have stopped and quickly integrates Company B’s business lines into Company A’s own robust internal controls, including
+its anti-corruption and compliance policies, which it communicates to its new employees through required online and inperson
+training in the local language. Company A also requires Company B’s third-party distributors and other agents to
+sign anti-corruption certifications, complete training, and sign new contracts that incorporate FCPA and anti-corruption
+representations and warranties and audit rights.
+Based on these facts, would DOJ or SEC prosecute?
+DOJ and SEC have declined to prosecute companies like Company A in similar circumstances. DOJ and SEC
+encourage companies like Company A to conduct extensive FCPA due diligence. By uncovering the corruption, Company
+A put itself in a favorable position, and, because the corrupt payments have stopped, Company A has no continuing
+liability. Whether DOJ and SEC might charge Company B depends on facts and circumstances beyond the scope of this
+hypothetical. DOJ would consider its Principles of Federal Prosecution of Business Organizations and SEC would consider
+the factors contained in the Seaboard Report, both of which are discussed in Chapter 5. In general, the more egregious
+and long-standing the corruption, the more likely it is that DOJ and SEC would prosecute Company B. In certain limited
+circumstances, DOJ and SEC have in the past declined to bring charges against acquired companies, recognizing that
+acquiring companies may bear much of the reputational damage and costs associated with such charges.
+Scenario 2:
+Company A plans to acquire Company B Although, as in Scenario 1, Company A conducts extensive due diligence, it
+does not uncover the bribery until after the acquisition Company A then makes certain that the illegal payments stop and
+voluntarily discloses the misconduct to DOJ and SEC It quickly integrates Company B into Company A’s own robust internal
+controls, including its anti-corruption and compliance policies, which it communicates to its new employees through required
+online and in-person training in the local language Company A also requires Company B’s third-party distributors and other
+agents to sign anti-corruption certifications, complete training, and sign new contracts that incorporate FCPA and anticorruption
+representations and warranties and audit rights
+Based on these facts, would DOJ or SEC prosecute?
+Absent unusual circumstances not contemplated by this hypothetical, DOJ and SEC are unlikely to prosecute
+Company A for the pre-acquisition misconduct of Company B, provided that Company B still exists in a form that would
+allow it to be prosecuted separately (e.g., Company B is a subsidiary of Company A). DOJ and SEC understand that no
+due diligence is perfect and that society benefits when companies with strong compliance programs acquire and improve
+companies with weak ones. At the same time, however, neither the liability for corruption—nor the harms caused by it—
+are eliminated when one company acquires another. Whether DOJ and SEC will pursue a case against Company B (or, in
+unusual circumstances, Company A) will depend on consideration of all the factors in the Principles of Federal Prosecution
+of Business Organizations and the Seaboard Report, respectively.
+Scenario 3:
+Company A merges with Company B, which is in the same line of business and interacts with the same Foreign
+Government customers, and forms Company C Due diligence before the merger reveals that both Company A and
+Company B have been engaging in similar bribery In both cases, the bribery was extensive and known by high-level
+management within the companies
+Based on these facts, would DOJ or SEC prosecute?
+Yes. DOJ and SEC have prosecuted companies like Company C on the basis of successor liability. Company C is a
+combination of two companies that both violated the FCPA, and their merger does not eliminate their liability. In addition,
+since Company C is an ongoing concern, DOJ and SEC may impose a monitorship to ensure that the bribery has ceased
+and a compliance program is developed to prevent future misconduct.
+33
+Additional Principles of Criminal
+Liability for Anti-Bribery Violations:
+Aiding and Abetting and Conspiracy
+Under federal law, individuals or companies that aid
+or abet a crime, including an FCPA violation, are as guilty as
+if they had directly committed the offense themselves. The
+aiding and abetting statute provides that whoever “commits
+an offense against the United States or aids, abets, counsels,
+commands, induces or procures its commission,” or “willfully
+causes an act to be done which if directly performed
+by him or another would be an offense against the United
+States,” is punishable as a principal. 199 Aiding and abetting is
+not an independent crime, and the government must prove
+that an underlying FCPA violation was committed. 200
+Individuals and companies, including foreign nationals
+and companies, may also be liable for conspiring to
+violate the FCPA—i.e., for agreeing to commit an FCPA
+violation—even if they are not, or could not be, independently
+charged with a substantive FCPA violation. For
+instance, a foreign, non-issuer company could be convicted
+of conspiring with a domestic concern to violate the FCPA.
+Under certain circumstances, it could also be held liable
+for the domestic concern’s substantive FCPA violations
+under Pinkerton v. United States, which imposes liability on
+a defendant for reasonably foreseeable crimes committed
+by a co-conspirator in furtherance of a conspiracy that the
+defendant joined. 201
+A foreign company or individual may be held liable
+for aiding and abetting an FCPA violation or for conspiring
+to violate the FCPA, even if the foreign company or individual
+did not take any act in furtherance of the corrupt
+payment while in the territory of the United States. In conspiracy
+cases, the United States generally has jurisdiction
+over all the conspirators where at least one conspirator is
+an issuer, domestic concern, or commits a reasonably foreseeable
+overt act within the United States. 202 For example,
+if a foreign company or individual conspires to violate the
+FCPA with someone who commits an overt act within the
+United States, the United States can prosecute the foreign
+company or individual for the conspiracy. The same principle
+applies to aiding and abetting violations. For instance,
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+even though they took no action in the United States,
+Japanese and European companies were charged with conspiring
+with and aiding and abetting a domestic concern’s
+FCPA violations. 203
+Additional Principles of Civil Liability
+for Anti-Bribery Violations: Aiding and
+Abetting and Causing
+Both companies and individuals can be held civilly
+liable for aiding and abetting FCPA anti-bribery violations
+if they knowingly or recklessly provide substantial assistance
+to a violator. 204 Similarly, in the administrative proceeding
+context, companies and individuals may be held
+liable for causing FCPA violations. 205 This liability extends
+to the subsidiaries and agents of U.S. issuers.
+In one case, the U.S. subsidiary of a Swiss freight forwarding
+company was held civilly liable for paying bribes on
+behalf of its customers in several countries. 206 Although the
+U.S. subsidiary was not an issuer for purposes of the FCPA,
+it was an “agent” of several U.S. issuers. By paying bribes on
+behalf of its issuers’ customers, the subsidiary both directly
+violated and aided and abetted the issuers’ FCPA violations.
+What Is the Applicable Statute of
+Limitations?
+Statute of Limitations in Criminal Cases
+The FCPA’s anti-bribery and accounting provisions
+do not specify a statute of limitations for criminal actions.
+Accordingly, the general five-year limitations period set
+forth in 18 U.S.C. § 3282 applies to substantive criminal
+violations of the Act. 207
+In cases involving FCPA conspiracies, the government
+may be able to reach conduct occurring before the
+five-year limitations period applicable to conspiracies
+34
+under 18 U.S.C. § 371. For conspiracy offenses, the government
+generally need prove only that one act in furtherance
+of the conspiracy occurred during the limitations period,
+thus enabling the government to prosecute bribes paid or
+accounting violations occurring more than five years prior
+to the filing of formal charges. 208
+There are at least two ways in which the applicable
+limitations period is commonly extended. First, companies
+or individuals cooperating with DOJ may enter into
+a tolling agreement that voluntarily extends the limitations
+period. Second, under 18 U.S.C. § 3292, the government
+may seek a court order suspending the statute of limitations
+posed in a criminal case for up to three years in order to
+obtain evidence from foreign countries. Generally, the suspension
+period begins when the official request is made by
+the U.S. government to the foreign authority and ends on
+the date on which the foreign authority takes final action
+on the request. 209
+Statute of Limitations in Civil Actions
+In civil cases brought by SEC, the statute of limitations
+is set by 28 U.S.C. § 2462, which provides for a fiveyear
+limitation on any “suit or proceeding for the enforcement
+of any civil fine, penalty, or forfeiture.” The five-year
+period begins to run “when the claim first accrued.” The
+five-year limitations period applies to SEC actions seeking
+civil penalties, but it does not prevent SEC from
+seeking equitable remedies, such as an injunction or the
+disgorgement of ill-gotten gains, for conduct pre-dating
+the five-year period. In cases against individuals who are
+not residents of the United States, the statute is tolled for
+any period when the defendants are not “found within the
+United States in order that proper service may be made
+thereon.” 210 Furthermore, companies or individuals cooperating
+with SEC may enter into tolling agreements that
+voluntarily extend the limitations period.
+35
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+36
+
+chapter 3
+The FCPA:
+Accounting Provisions
+THE FCPA: ACCOUNTING
+PROVISIONS
+In addition to the anti-bribery provisions, the FCPA contains accounting provisions
+applicable to public companies. The FCPA’s accounting provisions operate
+in tandem with the anti-bribery provisions 211 and prohibit off-the-books
+accounting. Company management and investors rely on a company’s financial
+statements and internal accounting controls to ensure transparency in the financial
+health of the business, the risks undertaken, and the transactions between
+the company and its customers and business partners. The accounting provisions
+are designed to “strengthen the accuracy of the corporate books and
+records and the reliability of the audit process which constitute the foundations
+of our system of corporate disclosure.” 212
+The accounting provisions consist of two primary
+components. First, under the “books and records” provision,
+issuers must make and keep books, records, and
+accounts that, in reasonable detail, accurately and fairly
+reflect an issuer’s transactions and dispositions of an issuer’s
+assets. 213 Second, under the “internal controls” provision,
+issuers must devise and maintain a system of internal
+accounting controls sufficient to assure management’s control,
+authority, and responsibility over the firm’s assets. 214
+These components, and other aspects of the accounting
+provisions, are discussed in greater detail below.
+Although the accounting provisions were originally
+enacted as part of the FCPA, they do not apply only to bribery-related
+violations. Rather, the accounting provisions
+ensure that all public companies account for all of their
+assets and liabilities accurately and in reasonable detail,
+and they form the backbone for most accounting fraud and
+issuer disclosure cases brought by DOJ and SEC. 215
+38
+In the past, “corporate bribery has
+been concealed by the falsification of
+corporate books and records” and the
+accounting provisions “remove[] this
+avenue of coverup.”
+Senate Report No. 95-114, at 3 (1977)
+What Is Covered by the Accounting
+Provisions?
+Books and Records Provision
+Bribes, both foreign and domestic, are often mischaracterized
+in companies’ books and records. Section 13(b)(2)(A) of
+the Exchange Act (15 U.S.C. § 78m(b)(2)(A)), commonly
+called the “books and records” provision, requires issuers
+to “make and keep books, records, and accounts, which, in
+reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the issuer.” 216 The “in
+reasonable detail” qualification was adopted by Congress
+“in light of the concern that such a standard, if unqualified,
+might connote a degree of exactitude and precision which
+is unrealistic.” 217 The addition of this phrase was intended
+to make clear “that the issuer’s records should reflect transactions
+in conformity with accepted methods of recording
+economic events and effectively prevent off-the-books slush
+funds and payments of bribes.” 218
+The term “reasonable detail” is defined in the statute
+as the level of detail that would “satisfy prudent officials in
+the conduct of their own affairs.” 219 Thus, as Congress noted
+when it adopted this definition, “[t]he concept of reasonableness
+of necessity contemplates the weighing of a number of
+relevant factors, including the costs of compliance.” 220
+Although the standard is one of reasonable detail,
+it is never appropriate to mischaracterize transactions in a
+company’s books and records. 221 Bribes are often concealed
+under the guise of legitimate payments, such as commissions
+or consulting fees.
+In instances where all the elements of a violation of
+the anti-bribery provisions are not met—where, for example,
+there was no use of interstate commerce—companies
+nonetheless may be liable if the improper payments are inaccurately
+recorded. Consistent with the FCPA’s approach
+to prohibiting payments of any value that are made with a
+corrupt purpose, there is no materiality threshold under the
+books and records provision. In combination with the internal
+controls provision, the requirement that issuers maintain
+books and records that accurately and fairly reflect the
+corporation’s transactions “assure[s], among other things,
+that the assets of the issuer are used for proper corporate
+purpose[s].” 222 As with the anti-bribery provisions, DOJ’s
+and SEC’s enforcement of the books and records provision
+has typically involved misreporting of either large bribe payments
+or widespread inaccurate recording of smaller payments
+made as part of a systemic pattern of bribery.
+Bribes Have Been Mischaracterized As:
+• Commissions or Royalties
+• Consulting Fees
+• Sales and Marketing Expenses
+• Scientific Incentives or Studies
+• Travel and Entertainment Expenses
+• Rebates or Discounts
+• After Sales Service Fees
+• Miscellaneous Expenses
+• Petty Cash Withdrawals
+• Free Goods
+• Intercompany Accounts
+• Supplier / Vendor Payments
+• Write-offs
+• “Customs Intervention” Payments
+39
+Internal Controls Provision
+The payment of bribes often occurs in companies that
+have weak internal control environments. Internal controls
+over financial reporting are the processes used by companies
+to provide reasonable assurances regarding the reliability
+of financial reporting and the preparation of financial
+statements. They include various components, such as: a
+control environment that covers the tone set by the organization
+regarding integrity and ethics; risk assessments; control
+activities that cover policies and procedures designed
+to ensure that management directives are carried out (e.g.,
+approvals, authorizations, reconciliations, and segregation
+of duties); information and communication; and monitoring.
+Section 13(b)(2)(B) of the Exchange Act (15 U.S.C.
+§ 78m(b)(2)(B)), commonly called the “internal controls”
+provision, requires issuers to:
+devise and maintain a system of internal accounting
+controls sufficient to provide reasonable assurances
+that—
+(i) transactions are executed in accordance with management’s
+general or specific authorization;
+(ii) transactions are recorded as necessary (I) to permit
+preparation of financial statements in conformity
+with generally accepted accounting principles or any
+other criteria applicable to such statements, and (II)
+to maintain accountability for assets;
+(iii) access to assets is permitted only in accordance
+with management’s general or specific authorization;
+and
+(iv) the recorded accountability for assets is compared
+with the existing assets at reasonable intervals
+and appropriate action is taken with respect to any
+differences …. 223
+chapter 3
+The FCPA:
+Accounting Provisions
+An effective compliance program is a critical component
+of an issuer’s internal controls. Fundamentally,
+the design of a company’s internal controls must take into
+account the operational realities and risks attendant to the
+company’s business, such as: the nature of its products or
+services; how the products or services get to market; the
+nature of its work force; the degree of regulation; the extent
+of its government interaction; and the degree to which it
+has operations in countries with a high risk of corruption. A
+company’s compliance program should be tailored to these
+differences. Businesses whose operations expose them to a
+high risk of corruption will necessarily devise and employ
+different internal controls than businesses that have a lesser
+exposure to corruption, just as a financial services company
+would be expected to devise and employ different internal
+controls than a manufacturer.
+A 2008 case against a German manufacturer of industrial
+and consumer products illustrates a systemic internal
+controls problem involving bribery that was unprecedented
+in scale and geographic reach. From 2001 to 2007, the company
+created elaborate payment schemes—including slush
+Like the “reasonable detail” requirement in the
+books and records provision, the Act defines “reasonable
+assurances” as “such level of detail and degree of assurance
+as would satisfy prudent officials in the conduct of their
+own affairs.” 224
+The Act does not specify a particular set of controls
+that companies are required to implement. Rather, the
+internal controls provision gives companies the flexibility
+to develop and maintain a system of controls that is appropriate
+to their particular needs and circumstances.
+Companies with ineffective internal
+controls often face risks of embezzlement
+and self-dealing by employees, commercial
+bribery, export control problems, and
+violations of other U.S. and local laws.
+40
+funds, off-the-books accounts, and systematic payments to
+business consultants and other intermediaries—to facilitate
+bribery. Payments were made in ways that obscured their
+purpose and the ultimate recipients of the money. In some
+cases, employees obtained large amounts of cash from cash
+desks and then transported the cash in suitcases across international
+borders. Authorizations for some payments were
+placed on sticky notes and later removed to avoid any permanent
+record. The company made payments totaling approximately
+$1.36 billion through various mechanisms, including
+$805.5 million as bribes and $554.5 million for unknown
+purposes. 225 The company was charged with internal controls
+and books and records violations, along with anti-bribery
+violations, and paid over $1.6 billion to resolve the case with
+authorities in the United States and Germany. 226
+The types of internal control failures identified in the
+above example exist in many other cases where companies
+were charged with internal controls violations. 227 A 2010
+case against a multi-national automobile manufacturer
+involved bribery that occurred over a long period of time in
+multiple countries. 228 In that case, the company used dozens
+of ledger accounts, known internally as “internal third
+party accounts,” to maintain credit balances for the benefit
+of government officials. 229 The accounts were funded
+through several bogus pricing mechanisms, such as “price
+surcharges,” “price inclusions,” or excessive commissions. 230
+The company also used artificial discounts or rebates on
+sales contracts to generate the money to pay the bribes. 231
+The bribes also were made through phony sales intermediaries
+and corrupt business partners, as well as through the
+use of cash desks. 232 Sales executives would obtain cash from
+the company in amounts as high as hundreds of thousands
+of dollars, enabling the company to obscure the purpose
+and recipients of the money paid to government officials. 233
+In addition to bribery charges, the company was charged
+with internal controls and books and records violations.
+Good internal controls can prevent not only FCPA
+violations, but also other illegal or unethical conduct by the
+company, its subsidiaries, and its employees. DOJ and SEC
+have repeatedly brought FCPA cases that also involved
+other types of misconduct, such as financial fraud, 234
+commercial bribery, 235 export controls violations, 236 and
+embezzlement or self-dealing by company employees. 237
+Potential Reporting and Anti-Fraud Violations
+Issuers have reporting obligations under Section
+13(a) of the Exchange Act, which requires issuers to file
+an annual report that contains comprehensive information
+about the issuer. Failure to properly disclose material information
+about the issuer’s business, including material revenue,
+expenses, profits, assets, or liabilities related to bribery
+of foreign government officials, may give rise to anti-fraud
+and reporting violations under Sections 10(b) and 13(a) of
+the Exchange Act.
+For example, a California-based technology company
+was charged with reporting violations, in addition to violations
+of the FCPA’s anti-bribery and accounting provisions,
+when its bribery scheme led to material misstatements in its
+SEC filings. 238 The company was awarded contracts procured
+through bribery of Chinese officials that generated material
+revenue and profits. The revenue and profits helped the company
+offset losses incurred to develop new products expected
+to become the company’s future source of revenue growth.
+The company improperly recorded the bribe payments as
+sales commission expenses in its books and records.
+Companies engaged in bribery may also be engaged
+in activity that violates the anti-fraud and reporting provisions.
+For example, an oil and gas pipeline company and
+its employees engaged in a long-running scheme to use the
+company’s petty cash accounts in Nigeria to make a variety
+of corrupt payments to Nigerian tax and court officials
+using false invoices. 239 The company and its employees also
+engaged in a fraudulent scheme to minimize the company’s
+tax obligations in Bolivia by using false invoices to claim
+false offsets to its value-added tax obligations. The scheme
+resulted in material overstatements of the company’s net
+income in the company’s financial statements, which violated
+the Exchange Act’s anti-fraud and reporting provisions.
+Both schemes also violated the books and records
+and internal controls provisions.
+41
+What Are Management’s Other Obligations?
+Sarbanes-Oxley Act of 2002
+In 2002, in response to a series of accounting scandals
+involving U.S. companies, Congress enacted the Sarbanes-
+Oxley Act (Sarbanes-Oxley or SOX), 240 which strengthened
+the accounting requirements for issuers. All issuers
+must comply with Sarbanes-Oxley’s requirements, several
+of which have FCPA implications.
+SOX Section 302 (15 U.S.C. § 7241)—Responsibility
+of Corporate Officers for the Accuracy and Validity of
+Corporate Financial Reports
+Section 302 of Sarbanes-Oxley requires that a company’s
+“principal officers” (typically the Chief Executive
+Officer (CEO) and Chief Financial Officer (CFO)) take
+responsibility for and certify the integrity of their company’s
+financial reports on a quarterly basis. Under Exchange
+Act Rule 13a-14, which is commonly called the “SOX certification”
+rule, each periodic report filed by an issuer must
+include a certification signed by the issuer’s principal executive
+officer and principal financial officer that, among other
+things, states that: (i) based on the officer’s knowledge, the
+report contains no material misstatements or omissions;
+(ii) based on the officer’s knowledge, the relevant financial
+statements are accurate in all material respects; (iii) internal
+controls are properly designed; and (iv) the certifying
+officers have disclosed to the issuer’s audit committee and
+auditors all significant internal control deficiencies.
+SOX Section 404 (15 U.S.C. § 7262)—Reporting
+on the State of a Company’s Internal Controls over
+Financial Reporting
+Sarbanes-Oxley also strengthened a company’s
+required disclosures concerning the state of its internal control
+over financial reporting. Under Section 404, issuers are
+required to present in their annual reports management’s
+conclusion regarding the effectiveness of the company’s
+internal controls over financial reporting. This statement
+must also assess the effectiveness of such internal controls
+and procedures. In addition, the company’s independent
+chapter 3
+The FCPA:
+Accounting Provisions
+auditor must attest to and report on its assessment of the
+effectiveness of the company’s internal controls over financial
+reporting.
+As directed by Section 404, SEC has adopted
+rules requiring issuers and their independent auditors to
+report to the public on the effectiveness of the company’s
+internal controls over financial reporting. 241 These
+internal controls include those related to illegal acts and
+fraud—including acts of bribery—that could result in a
+material misstatement of the company’s financial statements.
+242 In 2007, SEC issued guidance on controls over
+financial reporting. 243
+SOX Section 802 (18 U.S.C. §§ 1519 and 1520)—
+Criminal Penalties for Altering Documents
+Section 802 of Sarbanes-Oxley prohibits altering,
+destroying, mutilating, concealing, or falsifying records,
+documents, or tangible objects with the intent to obstruct,
+impede, or influence a potential or actual federal investigation.
+This section also prohibits any accountant from knowingly
+and willfully violating the requirement that all audit
+or review papers be maintained for a period of five years.
+Who Is Covered by the Accounting
+Provisions?
+Civil Liability for Issuers, Subsidiaries, and Affiliates
+The FCPA’s accounting provisions apply to every
+issuer that has a class of securities registered pursuant to
+Section 12 of the Exchange Act or that is required to file
+annual or other periodic reports pursuant to Section 15(d)
+of the Exchange Act. 244 These provisions apply to any issuer
+whose securities trade on a national securities exchange in
+the United States, including foreign issuers with exchangetraded
+American Depository Receipts. 245 They also apply
+42
+to companies whose stock trades in the over-the-counter
+market in the United States and which file periodic reports
+with the Commission, such as annual and quarterly reports.
+Unlike the FCPA’s anti-bribery provisions, the accounting
+provisions do not apply to private companies. 246
+Although the FCPA’s accounting requirements are
+directed at “issuers,” an issuer’s books and records include
+those of its consolidated subsidiaries and affiliates. An issuer’s
+responsibility thus extends to ensuring that subsidiaries
+or affiliates under its control, including foreign subsidiaries
+and joint venture partners, comply with the accounting
+provisions. For instance, DOJ and SEC brought enforcement
+actions against a California company for violating the
+FCPA’s accounting provisions when two Chinese joint ventures
+in which it was a partner paid more than $400,000 in
+bribes over a four-year period to obtain business in China. 247
+Sales personnel in China made the illicit payments by obtaining
+cash advances from accounting personnel, who recorded
+the payments on the books as “business fees” or “travel and
+entertainment” expenses. Although the payments were made
+exclusively in China by Chinese employees of the joint venture,
+the California company failed to have adequate internal
+controls and failed to act on red flags indicating that its affiliates
+were engaged in bribery. The California company paid
+$1.15 million in civil disgorgement and a criminal monetary
+penalty of $1.7 million.
+Companies may not be able to exercise the same level
+of control over a minority-owned subsidiary or affiliate as
+they do over a majority or wholly owned entity. Therefore,
+if a parent company owns less than 50% of a subsidiary or
+affiliate, the parent is only required to use its best efforts
+to cause the minority-owned subsidiary or affiliate to
+devise and maintain a system of internal accounting controls
+consistent with the issuer’s own obligations under
+the FCPA. 248 In evaluating an issuer’s good faith efforts,
+all the circumstances—including “the relative degree of
+the issuer’s ownership of the domestic or foreign firm and
+the laws and practices governing the business operations
+of the country in which such firm is located”—are taken
+into account. 249
+Civil Liability for Individuals and Other Entities
+Companies (including subsidiaries of issuers) and
+individuals may also face civil liability for aiding and abetting
+or causing an issuer’s violation of the accounting provisions.
+250 For example, in April 2010, SEC charged four
+individuals—a Country Manager, a Senior Vice President
+of Sales, a Regional Financial Director, and an International
+Controller of a U.S. issuer—for their roles in schemes to
+bribe Kyrgyz and Thai government officials to purchase
+tobacco from their employer. The complaint alleged that,
+among other things, the individuals aided and abetted the
+issuer company’s violations of the books and records and
+internal controls provisions by “knowingly provid[ing]
+substantial assistance to” the parent company. 251 All four
+executives settled the charges against them, consenting to
+the entry of final judgments permanently enjoining them
+from violating the accounting and anti-bribery provisions,
+with two executives paying civil penalties. 252 As in other
+areas of federal securities law, corporate officers also can be
+held liable as control persons. 253
+Similarly, in October 2011, SEC brought an administrative
+action against a U.S. water valve manufacturer and
+a former employee of the company’s Chinese subsidiary
+for violations of the FCPA’s accounting provisions. 254 The
+Chinese subsidiary had made improper payments to employees
+of certain design institutes to create design specifications
+that favored the company’s valve products. The payments
+were disguised as sales commissions in the subsidiary’s books
+and records, thereby causing the U.S. issuer’s books and
+records to be inaccurate. The general manager of the subsidiary,
+who approved the payments and knew or should have
+known that they were improperly recorded, was ordered to
+cease-and-desist from committing or causing violations of
+the accounting provisions, among other charges. 255
+Additionally, individuals and entities can be held
+directly civilly liable for falsifying an issuer’s books and
+records or for circumventing internal controls. Exchange
+Act Rule 13b2-1 provides: “No person shall, directly or
+indirectly, falsify or cause to be falsified, any book, record
+or account subject to [the books and records provision] of
+the Securities Exchange Act.” 256 And Section 13(b)(5) of
+43
+the Exchange Act (15 U.S.C. § 78m(b)(5)) provides that
+“[n]o person shall knowingly circumvent or knowingly fail
+to implement a system of internal accounting controls or
+knowingly falsify any book, record, or account ….” 257 The
+Exchange Act defines “person” to include a “natural person,
+company, government, or political subdivision, agency, or
+instrumentality of a government.” 258
+An issuer’s officers and directors may also be held civilly
+liable for making false statements to a company’s auditor.
+Exchange Act Rule 13b2-2 prohibits officers and directors
+from making (or causing to be made) materially false
+or misleading statements, including an omission of material
+facts, to an accountant. This liability arises in connection
+with any audit, review, or examination of a company’s financial
+statements or in connection with the filing of any document
+with SEC. 259
+Finally, the principal executive and principal financial
+officer, or persons performing similar functions, can
+be held liable for violating Exchange Act Rule 13a-14 by
+signing false personal certifications required by SOX.
+Thus, for example, in January 2011, SEC charged the former
+CEO of a U.S. issuer for his role in schemes to bribe
+Iraqi government officials in connection with the United
+Nations Oil-For-Food Programme and to bribe Iraqi and
+Indonesian officials to purchase the company’s fuel additives.
+There, the company used false invoices and sham consulting
+contracts to support large bribes that were passed
+on to foreign officials through an agent, and the bribes were
+mischaracterized as legitimate commissions and travel fees
+in the company’s books and records. The officer directed
+and authorized the bribe payments and their false recording
+in the books and records. He also signed annual and quarterly
+SOX certifications in which he falsely represented that
+the company’s financial statements were fairly presented
+and the company’s internal controls sufficiently designed,
+as well as annual representations to the company’s external
+auditors where he falsely stated that he complied with the
+company’s code of ethics and was unaware of any violations
+of the code of ethics by anyone else. The officer was charged
+with aiding and abetting violations of the books and records
+and internal controls provisions, circumventing internal
+chapter 3
+The FCPA:
+Accounting Provisions
+controls, falsifying books and records, making false statements
+to accountants, and signing false certifications. 260 He
+consented to the entry of an injunction and paid disgorgement
+and a civil penalty. 261 He also later pleaded guilty in
+the United Kingdom to conspiring to corrupt Iraqi and
+Indonesian officials. 262
+Criminal Liability for Accounting Violations
+Criminal liability can be imposed on companies
+and individuals for knowingly failing to comply with the
+FCPA’s books and records or internal controls provisions. 263
+As with the FCPA’s anti-bribery provisions, individuals are
+only subject to the FCPA’s criminal penalties for violations
+of the accounting provisions if they acted “willfully.” 264
+For example, a French company was criminally
+charged with failure to implement internal controls and
+failure to keep accurate books and records, among other
+violations. 265 As part of its deferred prosecution agreement,
+the company admitted to numerous internal control failures,
+including failure to implement sufficient anti-bribery
+compliance policies, maintain a sufficient system for the
+selection and approval of consultants, and conduct appropriate
+audits of payments to purported “business consultants.”
+266 Likewise, a German company pleaded guilty to
+internal controls and books and records violations where,
+from 2001 through 2007, it made payments totaling
+approximately $1.36 billion through various mechanisms,
+including $805.5 million as bribes and $554.5 million for
+unknown purposes. 267
+Individuals can be held criminally liable for accounting
+violations. For example, a former managing director of a U.S.
+bank’s real estate business in China pleaded guilty to conspiring
+to evade internal accounting controls in order to transfer
+a multi-million dollar ownership interest in a Shanghai
+building to himself and a Chinese public official with whom
+44
+he had a personal friendship. The former managing director
+repeatedly made false representations to his employer about
+the transaction and the ownership interests involved. 268
+Conspiracy and Aiding and Abetting Liability
+As with the FCPA’s anti-bribery provisions, companies
+(including subsidiaries of issuers) and individuals may
+face criminal liability for conspiring to commit or for aiding
+and abetting violations of the accounting provisions.
+For example, the subsidiary of a Houston-based
+company pleaded guilty both to conspiring to commit and
+to aiding and abetting the company’s books and records
+and anti-bribery violations. 269 The subsidiary paid bribes
+of over $4 million and falsely characterized the payments
+as “commissions,” “fees,” or “legal services,” consequently
+causing the company’s books and records to be inaccurate.
+Although the subsidiary was not an issuer and therefore
+could not be charged directly with an accounting violation,
+it was criminally liable for its involvement in the parent
+company’s accounting violation.
+Similarly, a U.S. subsidiary of a Swiss freight forwarding
+company that was not an issuer was charged with
+conspiring to commit and with aiding and abetting the
+books and records violations of its customers, who were
+issuers and therefore subject to the FCPA’s accounting
+provisions. 270 The U.S. subsidiary substantially assisted the
+issuer-customers in violating the FCPA’s books and records
+provision by masking the true nature of the bribe payments
+in the invoices it submitted to the issuer-customers. 271 The
+subsidiary thus faced criminal liability for its involvement
+in the issuer-customers’ FCPA violations even though it
+was not itself subject to the FCPA’s accounting provisions.
+company’s operations and financial condition. A company’s
+financial statements should be complete and fairly represent
+the company’s financial condition. 272 Thus, under U.S.
+GAAP, any payments to foreign government officials must
+be properly accounted for in a company’s books, records,
+and financial statements.
+U.S. laws, including SEC Rules, require issuers to
+undergo an annual external audit of their financial statements
+and to make those audited financial statements available to
+the public by filing them with SEC. SEC Rules and the rules
+and standards issued by the Public Company Accounting
+Oversight Board (PCAOB) under SEC oversight, require
+external auditors to be independent of the companies that
+they audit. Independent auditors must comply with the rules
+and standards set forth by the PCAOB when they perform
+an audit of a public company. These audit standards govern,
+for example, the auditor’s responsibility concerning material
+errors, irregularities, or illegal acts by a client and its officers,
+directors, and employees. Additionally, the auditor has a
+responsibility to obtain an understanding of an entity’s internal
+controls over financial reporting as part of its audit and
+must communicate all significant deficiencies and material
+weaknesses identified during the audit to management and
+the audit committee. 273
+Under Section 10A of the Exchange Act, independent
+auditors who discover an illegal act, such as the payment
+of bribes to domestic or foreign government officials,
+have certain obligations in connection with their audits of
+public companies. 274 Generally, Section 10A requires auditors
+who become aware of illegal acts to report such acts to
+appropriate levels within the company and, if the company
+fails to take appropriate action, to notify SEC.
+Auditor Obligations
+All public companies in the United States must file
+annual financial statements that have been prepared in
+conformity with U.S. Generally Accepted Accounting
+Principles (U.S. GAAP). These accounting principles are
+among the most comprehensive in the world. U.S. GAAP
+requires an accounting of all assets, liabilities, revenue, and
+expenses as well as extensive disclosures concerning the
+45
+chapter 3
+The FCPA:
+Accounting Provisions
+46
+
+chapter 4
+Other Related
+U.S. Laws
+OTHER RELATED U.S. LAWS
+Businesses and individuals should be aware that conduct that violates the
+FCPA’s anti-bribery or accounting provisions may also violate other statutes or
+regulations. Moreover, payments to foreign government officials and intermediaries
+may violate these laws even if all of the elements of an FCPA violation
+are not present.
+Travel Act
+The Travel Act, 18 U.S.C. § 1952, prohibits travel
+in interstate or foreign commerce or using the mail or any
+facility in interstate or foreign commerce, with the intent
+to distribute the proceeds of any unlawful activity or to
+promote, manage, establish, or carry on any unlawful activity.
+275 “Unlawful activity” includes violations of not only
+the FCPA, but also state commercial bribery laws. Thus,
+bribery between private commercial enterprises may, in
+some circumstances, be covered by the Travel Act. Said differently,
+if a company pays kickbacks to an employee of a
+private company who is not a foreign official, such privateto-private
+bribery could possibly be charged under the
+Travel Act.
+DOJ has previously charged both individual and
+corporate defendants in FCPA cases with violations of
+the Travel Act. 276 For instance, an individual investor was
+convicted of conspiracy to violate the FCPA and the Travel
+Act in 2009 where the relevant “unlawful activity” under
+the Travel Act was an FCPA violation involving a bribery
+scheme in Azerbaijan. 277 Also in 2009, a California company
+that engaged in both bribery of foreign officials in violation
+of the FCPA and commercial bribery in violation of
+California state law pleaded guilty to conspiracy to violate
+the FCPA and the Travel Act, among other charges. 278
+Money Laundering
+Many FCPA cases also involve violations of antimoney
+laundering statutes. 279 For example, two Florida
+executives of a Miami-based telecommunications company
+were convicted of FCPA and money laundering conduct
+where they conducted financial transactions involving the
+proceeds of specified unlawful activities—violations of the
+FCPA, the criminal bribery laws of Haiti, and wire fraud—
+in order to conceal and disguise these proceeds. Notably,
+although foreign officials cannot be prosecuted for FCPA
+48
+violations, 280 three former Haitian officials involved in the
+same scheme were convicted of money laundering. 281
+Mail and Wire Fraud
+The mail and wire fraud statutes may also apply. In
+2006, for example, a wholly owned foreign subsidiary of
+a U.S. issuer pleaded guilty to both FCPA and wire fraud
+counts where the scheme included overbilling the subsidiary’s
+customers—both government and private—and
+using part of the overcharged money to pay kickbacks to the
+customers’ employees. The wire fraud charges alleged that
+the subsidiary had funds wired from its parent’s Oregon
+bank account to off-the-books bank accounts in South
+Korea that were controlled by the subsidiary. The funds,
+amounting to almost $2 million, were then paid to managers
+of state-owned and private steel production companies
+in China and South Korea as illegal commission payments
+and kickbacks that were disguised as refunds, commissions,
+and other seemingly legitimate expenses. 282
+sale of defense articles and services valued at $500,000 or
+more triggers disclosure requirements concerning fees and
+commissions, including bribes, in an aggregate amount of
+$100,000 or more. 285 Violations of AECA and ITAR can
+result in civil and criminal penalties. 286
+Tax Violations
+Individuals and companies who violate the FCPA may
+also violate U.S. tax law, which explicitly prohibits tax deductions
+for bribes, such as false sales “commissions” deductions
+intended to conceal corrupt payments. 287 Internal Revenue
+Service-Criminal Investigation has been involved in a number
+of FCPA investigations involving tax violations, as well as
+other financial crimes like money laundering.
+Certification and Reporting Violations
+Certain other licensing, certification, and reporting
+requirements imposed by the U.S. government can also be
+implicated in the foreign bribery context. For example, as
+a condition of its facilitation of direct loans and loan guarantees
+to a foreign purchaser of U.S. goods and services,
+the Export-Import Bank of the United States requires the
+U.S. supplier to make certifications concerning commissions,
+fees, or other payments paid in connection with the
+financial assistance and that it has not and will not violate
+the FCPA. 283 A false certification may give rise to criminal
+liability for false statements. 284
+Similarly, manufacturers, exporters, and brokers of
+certain defense articles and services are subject to registration,
+licensing, and reporting requirements under the
+Arms Export Control Act (AECA), 22 U.S.C. § 2751, et
+seq., and its implementing regulations, the International
+Traffic in Arms Regulations (ITAR), 22 C.F.R. § 120, et
+seq. For example, under AECA and ITAR, all manufacturers
+and exporters of defense articles and services must register
+with the Directorate of Defense Trade Controls. The
+49
+chapter 4
+Other Related
+U.S. Laws
+50
+
+chapter 5
+Guiding Principles
+of Enforcement
+GUIDING PRINCIPLES OF
+ENFORCEMENT
+What Does DOJ Consider When
+Deciding Whether to Open an
+Investigation or Bring Charges?
+Whether and how DOJ will commence, decline,
+or otherwise resolve an FCPA matter is guided by the
+Principles of Federal Prosecution in the case of individuals,
+and the Principles of Federal Prosecution of Business
+Organizations in the case of companies.
+DOJ Principles of Federal Prosecution
+The Principles of Federal Prosecution, set forth in
+Chapter 9-27.000 of the U.S. Attorney’s Manual, 288 provide
+guidance for DOJ prosecutors regarding initiating
+or declining prosecution, selecting charges, and plea-bargaining.
+The Principles of Federal Prosecution provide that
+prosecutors should recommend or commence federal prosecution
+if the putative defendant’s conduct constitutes a
+federal offense and the admissible evidence will probably be
+sufficient to obtain and sustain a conviction unless (1) no
+substantial federal interest would be served by prosecution;
+(2) the person is subject to effective prosecution in another
+jurisdiction; or (3) an adequate non-criminal alternative to
+prosecution exists. In assessing the existence of a substantial
+federal interest, the prosecutor is advised to “weigh all relevant
+considerations,” including the nature and seriousness
+of the offense; the deterrent effect of prosecution; the person’s
+culpability in connection with the offense; the person’s
+history with respect to criminal activity; the person’s
+willingness to cooperate in the investigation or prosecution
+of others; and the probable sentence or other consequences
+if the person is convicted. The Principles of Federal
+Prosecution also set out the considerations to be weighed
+when deciding whether to enter into a plea agreement with
+an individual defendant, including the nature and seriousness
+of the offense and the person’s willingness to cooperate,
+as well as the desirability of prompt and certain disposition
+of the case and the expense of trial and appeal. 289
+DOJ Principles of Federal Prosecution of Business
+Organizations
+The Principles of Federal Prosecution of Business
+Organizations, set forth in Chapter 9-28.000 of the U.S.
+Attorney’s Manual, 290 provide guidance regarding the resolun
+of cases involving corporate wrongdoing. The Principles
+tio
+of Federal Prosecution of Business Organizations recognize
+that resolution of corporate criminal cases by means other
+52
+than indictment, including non-prosecution and deferred
+prosecution agreements, may be appropriate in certain circumstances.
+Nine factors are considered in conducting an
+investigation, determining whether to charge a corporation,
+and negotiating plea or other agreements:
+• the nature and seriousness of the offense, including
+the risk of harm to the public;
+• the pervasiveness of wrongdoing within the corporation,
+including the complicity in, or the condoning
+of, the wrongdoing by corporate management;
+• the corporation’s history of similar misconduct,
+including prior criminal, civil, and regulatory
+enforcement actions against it;
+• the corporation’s timely and voluntary disclosure of
+wrongdoing and its willingness to cooperate in the
+investigation of its agents;
+• the existence and effectiveness of the corporation’s
+pre-existing compliance program;
+• the corporation’s remedial actions, including any
+efforts to implement an effective corporate compliance
+program or improve an existing one, replace
+responsible management, discipline or terminate
+wrongdoers, pay restitution, and cooperate with the
+relevant government agencies;
+• collateral consequences, including whether there
+is disproportionate harm to shareholders, pension
+holders, employees, and others not proven personally
+culpable, as well as impact on the public arising
+from the prosecution;
+• the adequacy of the prosecution of individuals
+responsible for the corporation’s malfeasance; and
+• the adequacy of remedies such as civil or regulatory
+enforcement actions.
+As these factors illustrate, in many investigations it
+will be appropriate for a prosecutor to consider a corporation’s
+pre-indictment conduct, including voluntary disclosure,
+cooperation, and remediation, in determining whether
+to seek an indictment. In assessing a corporation’s cooperation,
+prosecutors are prohibited from requesting attorneyclient
+privileged materials with two exceptions—when a
+corporation or its employee asserts an advice-of-counsel
+defense and when the attorney-client communications were
+in furtherance of a crime or fraud. Otherwise, an organization’s
+cooperation may only be assessed on the basis of
+whether it disclosed the relevant facts underlying an investigation—and
+not on the basis of whether it has waived its
+attorney-client privilege or work product protection. 291
+What Does SEC Consider When
+Deciding Whether to Open an
+Investigation or Bring Charges?
+SEC’s Enforcement Manual, published by SEC’s
+Enforcement Division and available on SEC’s website, 292
+sets forth information about how SEC conducts investigations,
+as well as the guiding principles that SEC staff
+considers when determining whether to open or close an
+investigation and whether civil charges are merited. There
+are various ways that potential FCPA violations come to
+the attention of SEC staff, including: tips from informants
+or whistleblowers; information developed in other investigations;
+self-reports or public disclosures by companies;
+referrals from other offices or agencies; public sources, such
+as media reports and trade publications; and proactive
+investigative techniques, including risk-based initiatives.
+Investigations can be formal, such as where SEC has issued
+a formal order of investigation that authorizes its staff to
+issue investigative subpoenas for testimony and documents,
+or informal, such as where the staff proceeds with the investigation
+without the use of investigative subpoenas.
+In determining whether to open an investigation and,
+if so, whether an enforcement action is warranted, SEC
+staff considers a number of factors, including: the statutes
+or rules potentially violated; the egregiousness of the potential
+violation; the potential magnitude of the violation;
+whether the potentially harmed group is particularly vulnerable
+or at risk; whether the conduct is ongoing; whether
+the conduct can be investigated efficiently and within the
+statute of limitations period; and whether other authorities,
+including federal or state agencies or regulators, might be
+better suited to investigate the conduct. SEC staff also may
+53
+consider whether the case involves a possibly widespread
+industry practice that should be addressed, whether the
+case involves a recidivist, and whether the matter gives SEC
+an opportunity to be visible in a community that might not
+otherwise be familiar with SEC or the protections afforded
+by the securities laws.
+For more information about the Enforcement
+Division’s procedures concerning investigations, enforcement
+actions, and cooperation with other regulators, see
+the Enforcement Manual at http://www.sec.gov/divisions/
+enforce.shtml.
+Self-Reporting, Cooperation, and
+Remedial Efforts
+While the conduct underlying any FCPA investigation
+is obviously a fundamental and threshold consideration
+in deciding what, if any, action to take, both DOJ
+and SEC place a high premium on self-reporting, along
+with cooperation and remedial efforts, in determining the
+appropriate resolution of FCPA matters.
+Criminal Cases
+Under DOJ’s Principles of Federal Prosecution of
+Business Organizations, federal prosecutors consider a
+company’s cooperation in determining how to resolve a
+corporate criminal case. Specifically, prosecutors consider
+whether the company made a voluntary and timely disprovide
+rel-
+closure as well as the company’s willingness to
+evant information and evidence and identify relevant actors
+inside and outside the company, including senior executives.
+In addition, prosecutors may consider a company’s
+remedial actions, including efforts to improve an existing
+compliance program or appropriate disciplining of wrongdoers.
+293 A company’s remedial measures should be meaningful
+and illustrate its recognition of the seriousness of the
+misconduct, for example, by taking steps to implement the
+personnel, operational, and organizational changes necessary
+to establish an awareness among employees that criminal
+conduct will not be tolerated. 294
+The Principles of Federal Prosecution similarly provide
+that prosecutors may consider an individual’s willingness
+chapter 5
+Guiding Principles
+of Enforcement
+to cooperate in deciding whether a prosecution should
+be undertaken and how it should be resolved. Although a
+willingness to cooperate will not, by itself, generally relieve
+a person of criminal liability, it may be given “serious consideration”
+in evaluating whether to enter into a plea agreement
+with a defendant, depending on the nature and value
+of the cooperation offered. 295
+The U.S. Sentencing Guidelines similarly take into
+account an individual defendant’s cooperation and voluntary
+disclosure. Under § 5K1.1, a defendant’s cooperation,
+if sufficiently substantial, may justify the government filing
+a motion for a reduced sentence. And under § 5K2.16, a
+defendant’s voluntary disclosure of an offense prior to its
+discovery—if the offense was unlikely to have been discovered
+otherwise—may warrant a downward departure in
+certain circumstances.
+Chapter 8 of the Sentencing Guidelines, which governs
+the sentencing of organizations, takes into account an
+organization’s remediation as part of an “effective compliance
+and ethics program.” One of the seven elements of
+such a program provides that after the detection of criminal
+conduct, “the organization shall take reasonable steps
+to respond appropriately to the criminal conduct and to
+prevent further similar criminal conduct, including making
+any necessary modifications to the organization’s
+compliance and ethics program.” 296 Having an effective
+compliance and ethics program may lead to a three-point
+reduction in an organization’s culpability score under
+§ 8C2.5, which affects the fine calculation under the
+Guidelines. Similarly, an organization’s self-reporting,
+cooperation, and acceptance of responsibility may lead to
+fine reductions under § 8C2.5(g) by decreasing the culpability
+score. Conversely, an organization will not qualify
+for the compliance program reduction when it unreasonably
+delayed reporting the offense. 297 Similar to § 5K1.1
+54
+for individuals, organizations can qualify for departures
+pursuant to § 8C4.1 of the Guidelines for cooperating in
+the prosecution of others.
+Civil Cases
+SEC’s Framework for Evaluating Cooperation by
+Companies
+SEC’s framework for evaluating cooperation by companies
+is set forth in its 2001 Report of Investigation Pursuant
+to Section 21(a) of the Securities Exchange Act of 1934 and
+Commission Statement on the Relationship of Cooperation to
+Agency Enforcement Decisions, which is commonly known
+as the Seaboard Report. 298 The report, which explained the
+Commission’s decision not to take enforcement action
+against a public company for certain accounting violations
+caused by its subsidiary, details the many factors SEC considers
+in determining whether, and to what extent, it grants leniency
+to companies for cooperating in its investigations and
+for related good corporate citizenship. Specifically, the report
+identifies four broad measures of a company’s cooperation:
+• self-policing prior to the discovery of the misconduct,
+including establishing effective compliance
+procedures and an appropriate tone at the top;
+• self-reporting of misconduct when it is discovered,
+including conducting a thorough review of the
+nature, extent, origins, and consequences of the misconduct,
+and promptly, completely, and effectively
+disclosing the misconduct to the public, to regulatory
+agencies, and to self-regulatory organizations;
+• remediation, including dismissing or appropriately
+disciplining wrongdoers, modifying and improving
+internal controls and procedures to prevent
+recurrence of the misconduct, and appropriately
+compensating those adversely affected; and
+• cooperation with law enforcement authorities,
+including providing SEC staff with all information
+relevant to the underlying violations and the
+company’s remedial efforts.
+Since every enforcement matter is different, this analytical
+framework sets forth general principles but does not
+limit SEC’s broad discretion to evaluate every case individually
+on its own unique facts and circumstances. Similar
+to SEC’s treatment of cooperating individuals, credit
+for cooperation by companies may range from taking no
+enforcement action to pursuing reduced sanctions in connection
+with enforcement actions.
+SEC’s Framework for Evaluating Cooperation by
+Individuals
+In 2010, SEC announced a new cooperation program
+for individuals. 299 SEC staff has a wide range of tools to
+facilitate and reward cooperation by individuals, from taking
+no enforcement action to pursuing reduced sanctions in
+connection with enforcement actions. Although the evaluation
+of cooperation depends on the specific circumstances,
+SEC generally evaluates four factors to determine whether,
+to what extent, and in what manner to credit cooperation
+by individuals:
+• the assistance provided by the cooperating individual
+in SEC’s investigation or related enforcement
+actions, including, among other things: the
+value and timeliness of the cooperation, including
+whether the individual was the first to report the
+misconduct to SEC or to offer his or her cooperation;
+whether the investigation was initiated based
+upon the information or other cooperation by the
+individual; the quality of the cooperation, including
+whether the individual was truthful and the
+cooperation was complete; the time and resources
+conserved as a result of the individual’s cooperation;
+and the nature of the cooperation, such as the
+type of assistance provided;
+• the importance of the matter in which the individual
+provided cooperation;
+• the societal interest in ensuring that the cooperating
+individual is held accountable for his or her
+misconduct, including the severity of the individual’s
+misconduct, the culpability of the individual,
+and the efforts undertaken by the individual to
+remediate the harm; and
+55
+• the appropriateness of a cooperation credit in light
+of the profile of the cooperating individual.
+Corporate Compliance Program
+In a global marketplace, an effective compliance program
+is a critical component of a company’s internal controls
+and is essential to detecting and preventing FCPA violations.
+300 Effective compliance programs are tailored to the
+company’s specific business and to the risks associated with
+that business. They are dynamic and evolve as the business
+and the markets change.
+An effective compliance program promotes “an organizational
+culture that encourages ethical conduct and a
+commitment to compliance with the law.” 301 Such a program
+protects a company’s reputation, ensures investor value and
+confidence, reduces uncertainty in business transactions, and
+secures a company’s assets. 302 A well-constructed, thoughtfully
+implemented, and consistently enforced compliance
+and ethics program helps prevent, detect, remediate, and
+report misconduct, including FCPA violations.
+In addition to considering whether a company has
+self-reported, cooperated, and taken appropriate remedial
+actions, DOJ and SEC also consider the adequacy of a
+company’s compliance program when deciding what, if any,
+action to take. The program may influence whether or not
+charges should be resolved through a deferred prosecution
+agreement (DPA) or non-prosecution agreement (NPA),
+as well as the appropriate length of any DPA or NPA, or
+the term of corporate probation. It will often affect the
+penalty amount and the need for a monitor or self-reporting.
+303 As discussed above, SEC’s Seaboard Report focuses,
+among other things, on a company’s self-policing prior to
+the discovery of the misconduct, including whether it had
+established effective compliance procedures. 304 Likewise,
+three of the nine factors set forth in DOJ’s Principles of
+Federal Prosecution of Business Organizations relate, either
+directly or indirectly, to a compliance program’s design and
+implementation, including the pervasiveness of wrongdoing
+within the company, the existence and effectiveness of
+the company’s pre-existing compliance program, and the
+company’s remedial actions. 305 DOJ also considers the U.S.
+chapter 5
+Guiding Principles
+of Enforcement
+Sentencing Guidelines’ elements of an effective compliance
+program, as set forth in § 8B2.1 of the Guidelines.
+These considerations reflect the recognition that
+a company’s failure to prevent every single violation does
+not necessarily mean that a particular company’s compliance
+program was not generally effective. DOJ and SEC
+understand that “no compliance program can ever prevent
+all criminal activity by a corporation’s employees,” 306 and
+they do not hold companies to a standard of perfection. An
+assessment of a company’s compliance program, including
+its design and good faith implementation and enforcement,
+is an important part of the government’s assessment of
+whether a violation occurred, and if so, what action should
+be taken. In appropriate circumstances, DOJ and SEC may
+decline to pursue charges against a company based on the
+company’s effective compliance program, or may otherwise
+seek to reward a company for its program, even when that
+program did not prevent the particular underlying FCPA
+violation that gave rise to the investigation. 307
+DOJ and SEC have no formulaic requirements
+regarding compliance programs. Rather, they employ a
+common-sense and pragmatic approach to evaluating compliance
+programs, making inquiries related to three basic
+questions:
+• Is the company’s compliance program well
+designed?
+• Is it being applied in good faith?
+• Does it work? 308
+This guide contains information regarding some of
+the basic elements DOJ and SEC consider when evaluating
+compliance programs. Although the focus is on compliance
+with the FCPA, given the existence of anti-corruption
+laws in many other countries, businesses should consider
+designing programs focused on anti-corruption compliance
+more broadly. 309
+56
+Hallmarks of Effective Compliance
+Programs
+Individual companies may have different compliance
+needs depending on their size and the particular risks associated
+with their businesses, among other factors. When it
+comes to compliance, there is no one-size-fits-all program.
+Thus, the discussion below is meant to provide insight into
+the aspects of compliance programs that DOJ and SEC
+assess, recognizing that companies may consider a variety
+of factors when making their own determination of what
+is appropriate for their specific business needs. 310 Indeed,
+small- and medium-size enterprises likely will have different
+compliance programs from large multi-national corporations,
+a fact DOJ and SEC take into account when evaluating
+companies’ compliance programs.
+Compliance programs that employ a “check-the-box”
+approach may be inefficient and, more importantly, ineffective.
+Because each compliance program should be tailored
+to an organization’s specific needs, risks, and challenges,
+the information provided below should not be considered
+a substitute for a company’s own assessment of the corporate
+compliance program most appropriate for that particular
+business organization. In the end, if designed carefully,
+implemented earnestly, and enforced fairly, a company’s
+compliance program—no matter how large or small the
+organization—will allow the company generally to prevent
+violations, detect those that do occur, and remediate them
+promptly and appropriately.
+Commitment from Senior Management and a
+Clearly Articulated Policy Against Corruption
+Within a business organization, compliance begins
+with the board of directors and senior executives setting
+the proper tone for the rest of the company. Managers and
+employees take their cues from these corporate leaders.
+Thus, DOJ and SEC consider the commitment of corporate
+leaders to a “culture of compliance” 311 and look to see
+if this high-level commitment is also reinforced and implemented
+by middle managers and employees at all levels of
+a business. A well-designed compliance program that is
+not enforced in good faith, such as when corporate management
+explicitly or implicitly encourages employees to
+engage in misconduct to achieve business objectives, will be
+ineffective. DOJ and SEC have often encountered companies
+with compliance programs that are strong on paper but
+that nevertheless have significant FCPA violations because
+management has failed to effectively implement the program
+even in the face of obvious signs of corruption. This
+may be the result of aggressive sales staff preventing compliance
+personnel from doing their jobs effectively and of
+senior management, more concerned with securing a valuable
+business opportunity than enforcing a culture of compliance,
+siding with the sales team. The higher the financial
+stakes of the transaction, the greater the temptation for
+management to choose profit over compliance.
+A strong ethical culture directly supports a strong
+compliance program. By adhering to ethical standards,
+senior managers will inspire middle managers to reinforce
+those standards. Compliant middle managers, in turn, will
+encourage employees to strive to attain those standards
+throughout the organizational structure. 312
+In short, compliance with the FCPA and ethical rules
+must start at the top. DOJ and SEC thus evaluate whether
+senior management has clearly articulated company standards,
+communicated them in unambiguous terms, adhered
+to them scrupulously, and disseminated them throughout
+the organization.
+Code of Conduct and Compliance Policies and
+Procedures
+A company’s code of conduct is often the foundation
+upon which an effective compliance program is built. As
+DOJ has repeatedly noted in its charging documents, the
+most effective codes are clear, concise, and accessible to all
+employees and to those conducting business on the company’s
+behalf. Indeed, it would be difficult to effectively
+implement a compliance program if it was not available in
+the local language so that employees in foreign subsidiaries
+can access and understand it. When assessing a compliance
+program, DOJ and SEC will review whether the company
+57
+has taken steps to make certain that the code of conduct
+remains current and effective and whether a company has
+periodically reviewed and updated its code.
+Whether a company has policies and procedures that
+outline responsibilities for compliance within the company,
+detail proper internal controls, auditing practices, and documentation
+policies, and set forth disciplinary procedures
+will also be considered by DOJ and SEC. These types of
+policies and procedures will depend on the size and nature
+of the business and the risks associated with the business.
+Effective policies and procedures require an in-depth
+understanding of the company’s business model, including
+its products and services, third-party agents, customers,
+government interactions, and industry and geographic
+risks. Among the risks that a company may need to address
+include the nature and extent of transactions with foreign
+governments, including payments to foreign officials; use
+of third parties; gifts, travel, and entertainment expenses;
+charitable and political donations; and facilitating and
+expediting payments. For example, some companies with
+global operations have created web-based approval processes
+to review and approve routine gifts, travel, and entertainment
+involving foreign officials and private customers
+with clear monetary limits and annual limitations. Many of
+these systems have built-in flexibility so that senior management,
+or in-house legal counsel, can be apprised of and, in
+appropriate circumstances, approve unique requests. These
+types of systems can be a good way to conserve corporate
+resources while, if properly implemented, preventing and
+detecting potential FCPA violations.
+Regardless of the specific policies and procedures
+implemented, these standards should apply to personnel at
+all levels of the company.
+Oversight, Autonomy, and Resources
+In appraising a compliance program, DOJ and SEC
+also consider whether a company has assigned responsibility
+for the oversight and implementation of a company’s
+compliance program to one or more specific senior
+executives within an organization. 313 Those individuals
+must have appropriate authority within the organization,
+chapter 5
+Guiding Principles
+of Enforcement
+adequate autonomy from management, and sufficient
+resources to ensure that the company’s compliance program
+is implemented effectively. 314 Adequate autonomy generally
+includes direct access to an organization’s governing
+authority, such as the board of directors and committees
+of the board of directors (e.g., the audit committee). 315
+Depending on the size and structure of an organization,
+it may be appropriate for day-to-day operational responsibility
+to be delegated to other specific individuals within
+a company. 316 DOJ and SEC recognize that the reporting
+structure will depend on the size and complexity of an
+organization. Moreover, the amount of resources devoted
+to compliance will depend on the company’s size, complexity,
+industry, geographical reach, and risks associated with
+the business. In assessing whether a company has reasonable
+internal controls, DOJ and SEC typically consider whether
+the company devoted adequate staffing and resources to the
+compliance program given the size, structure, and risk profile
+of the business.
+Risk Assessment
+Assessment of risk is fundamental to developing a
+strong compliance program, and is another factor DOJ
+and SEC evaluate when assessing a company’s compliance
+program. 317 One-size-fits-all compliance programs are
+generally ill-conceived and ineffective because resources
+inevitably are spread too thin, with too much focus on lowrisk
+markets and transactions to the detriment of high-risk
+areas. Devoting a disproportionate amount of time policing
+modest entertainment and gift-giving instead of focusing
+on large government bids, questionable payments to
+third-party consultants, or excessive discounts to resellers
+and distributors may indicate that a company’s compliance
+program is ineffective. A $50 million contract with a
+government agency in a high-risk country warrants greater
+58
+scrutiny than modest and routine gifts and entertainment.
+Similarly, performing identical due diligence on all thirdparty
+agents, irrespective of risk factors, is often counterproductive,
+diverting attention and resources away from
+those third parties that pose the most significant risks.
+DOJ and SEC will give meaningful credit to a company
+that implements in good faith a comprehensive, risk-based
+compliance program, even if that program does not prevent
+an infraction in a low risk area because greater attention
+and resources had been devoted to a higher risk area.
+Conversely, a company that fails to prevent an FCPA violation
+on an economically significant, high-risk transaction
+because it failed to perform a level of due diligence commensurate
+with the size and risk of the transaction is likely
+to receive reduced credit based on the quality and effectiveness
+of its compliance program.
+As a company’s risk for FCPA violations increases,
+that business should consider increasing its compliance
+procedures, including due diligence and periodic internal
+audits. The degree of appropriate due diligence is fact-specific
+and should vary based on industry, country, size, and
+nature of the transaction, and the method and amount of
+third-party compensation. Factors to consider, for instance,
+include risks presented by: the country and industry sector,
+the business opportunity, potential business partners, level
+of involvement with governments, amount of government
+regulation and oversight, and exposure to customs and
+immigration in conducting business affairs. When assessing
+a company’s compliance program, DOJ and SEC take into
+account whether and to what degree a company analyzes
+and addresses the particular risks it faces.
+Training and Continuing Advice
+Compliance policies cannot work unless effectively
+communicated throughout a company. Accordingly, DOJ
+and SEC will evaluate whether a company has taken steps to
+ensure that relevant policies and procedures have been communicated
+throughout the organization, including through
+periodic training and certification for all directors, officers,
+relevant employees, and, where appropriate, agents and
+business partners. 318 For example, many larger companies
+have implemented a mix of web-based and in-person training
+conducted at varying intervals. Such training typically
+covers company policies and procedures, instruction on
+applicable laws, practical advice to address real-life scenarios,
+and case studies. Regardless of how a company chooses
+to conduct its training, however, the information should
+be presented in a manner appropriate for the targeted audience,
+including providing training and training materials
+in the local language. For example, companies may want to
+consider providing different types of training to their sales
+personnel and accounting personnel with hypotheticals
+or sample situations that are similar to the situations they
+might encounter. In addition to the existence and scope of
+a company’s training program, a company should develop
+appropriate measures, depending on the size and sophistication
+of the particular company, to provide guidance and
+advice on complying with the company’s ethics and compliance
+program, including when such advice is needed
+urgently. Such measures will help ensure that the compliance
+program is understood and followed appropriately at
+all levels of the company.
+Incentives and Disciplinary Measures
+In addition to evaluating the design and implementation
+of a compliance program throughout an organization,
+enforcement of that program is fundamental to its effectiveness.
+319 A compliance program should apply from the
+board room to the supply room—no one should be beyond
+its reach. DOJ and SEC will thus consider whether, when
+enforcing a compliance program, a company has appropriate
+and clear disciplinary procedures, whether those procedures
+are applied reliably and promptly, and whether they
+are commensurate with the violation. Many companies
+have found that publicizing disciplinary actions internally,
+where appropriate under local law, can have an important
+deterrent effect, demonstrating that unethical and unlawful
+actions have swift and sure consequences.
+DOJ and SEC recognize that positive incentives can
+also drive compliant behavior. These incentives can take many
+59
+forms such as personnel evaluations and promotions, rewards
+for improving and developing a company’s compliance program,
+and rewards for ethics and compliance leadership. 320
+Some organizations, for example, have made adherence to
+compliance a significant metric for management’s bonuses so
+that compliance becomes an integral part of management’s
+everyday concern. Beyond financial incentives, some companies
+have highlighted compliance within their organizations
+by recognizing compliance professionals and internal audit
+staff. Others have made working in the company’s compliance
+organization a way to advance an employee’s career.
+SEC, for instance, has encouraged companies to embrace
+methods to incentivize ethical and lawful behavior:
+[M]ake integrity, ethics and compliance part of the
+promotion, compensation and evaluation processes
+as well. For at the end of the day, the most effective
+way to communicate that “doing the right thing” is a
+priority, is to reward it. Conversely, if employees are
+led to believe that, when it comes to compensation
+and career advancement, all that counts is short-term
+profitability, and that cutting ethical corners is an acceptable
+way of getting there, they’ll perform to that
+measure. To cite an example from a different walk
+of life: a college football coach can be told that the
+graduation rates of his players are what matters, but
+he’ll know differently if the sole focus of his contract
+extension talks or the decision to fire him is his winloss
+record. 321
+No matter what the disciplinary scheme or potential
+incentives a company decides to adopt, DOJ and SEC will
+consider whether they are fairly and consistently applied
+across the organization. No executive should be above compliance,
+no employee below compliance, and no person
+within an organization deemed too valuable to be disciplined,
+if warranted. Rewarding good behavior and sanctioning
+bad behavior reinforces a culture of compliance and
+ethics throughout an organization.
+Third-Party Due Diligence and Payments
+DOJ’s and SEC’s FCPA enforcement actions demonstrate
+that third parties, including agents, consultants,
+and distributors, are commonly used to conceal the payment
+of bribes to foreign officials in international business
+chapter 5
+Guiding Principles
+of Enforcement
+transactions. Risk-based due diligence is particularly important
+with third parties and will also be considered by DOJ
+and SEC in assessing the effectiveness of a company’s compliance
+program.
+Although the degree of appropriate due diligence
+may vary based on industry, country, size and nature of the
+transaction, and historical relationship with the third-party,
+some guiding principles always apply.
+First, as part of risk-based due diligence, companies
+should understand the qualifications and associations of
+its third-party partners, including its business reputation,
+and relationship, if any, with foreign officials. The degree of
+scrutiny should increase as red flags surface.

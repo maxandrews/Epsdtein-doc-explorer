@@ -1,0 +1,72 @@
+﻿Influence without force: the law of the Internet
+The past year has seen increasing backlash and fear towards the Internet and its constituents.
+Calls for government-mandated regulation are coming from all sides while Silicon Valley
+wonders how influence campaigns have managed to sway an election.
+It is tempting, especially for the affected parties, to see Russian influence campaigns and lack of
+internet regulation as the culprit for the general sense of malaise in the Western World and its
+descent into populism but that would miss two much bigger phenomena: worsening living
+conditions and incorrect conceptualization of the internet.
+Worsening living conditions
+The rapid growth of China and emerging markets as well as the rise of “non-material” capitalism
+caused capital to move up and out. It moved up, with the “rich getting richer”, because
+non-material capitalism (eg. finance, tech) scales better than traditional capitalism and it moved
+out towards emerging markets owing to globalization. The displacement of capital from
+middle-class Western world has led to progressively better living conditions for the world as a
+whole but worse living conditions at the individual level in Europe and the United States. This
+new world order is the culprit for the nationalism seen across these regions.
+Conceptualizing the Internet
+In “The True Believer” Eric Hoffer remarks “For men to plunge headlong into an undertaking of
+vast change, they must be intensely discontented yet not destitute. […] They must also have an
+extravagant conception of the prospects and potentialities of the future”, in other words for
+people to champion change they need to be unhappy yet sufficiently hopeful. The Internet has
+been the very enabler and carrier of this hope, as evidenced in the Arab Spring and Trump
+alike. For an industry to be able to shape minds and spread hopes of such a diverse and
+dispersed group of people is extraordinary.
+This realization enables us to posit that unlike any other booming industry, technology is unique.
+No other industry in the past has had the ability to create a new world, a domain in military lingo,
+where people have a virtual life, an identity and participate in their own unique flavor of “res
+publica”; where people are citizens as much as they are consumers. It is therefore useful to look
+at the Internet as the natural evolution of a Nation State, an entity in which there are myriads of
+co-existing tribes yet this State is not concerned with most of its traditional functions such as
+public defense, welfare and so forth.
+Looking at the Internet as a New Nation State is not merely an exercise in theoretical metaphors
+and awe for human ingenuity; it provides a practical mental model to address the problem of
+nationalism and worsening living conditions.
+Need for a social contract of the Internet
+But if the Internet is a State of its own, it lacks the characteristic kinetic force of a Sovereign
+State but wages its power through influence (in this sense it is more similar to the Vatican). If
+traditional states dictate through laws, the Internet does so through code. Whether the Trump
+campaign and Russia have understood the laws and leveraged the laws better than anyone
+else is not as important as realizing that the Internet and its dominant players, as State and
+major constituents, have a responsibility to create a more cohesive, transparent and equitable
+social contract:
+1. Leverage internet players’ assets for welfare:
+a. Use machine learning and the trove of data available on the Internet to improve
+people’s decision making abilities when it comes basic needs (e.g. optimizing
+healthcare, living location, school choices etc.)
+b. Use the power of networks to boost socially cohesive messages or provide safety
+(e.g: companies that help reporting sexual harassment or racial discrimination)
+2. Leverage the computational power and data availability to build crowd-based business
+models:
+a. Balance sheet based businesses that thrive on the law of large numbers are a
+good example of businesses that could provide a source of profit for Internet
+citizens (eg: LendingClub vs. traditional lenders)
+b. Rewards for reduction of information asymmetry is another avenue through which
+the public could benefit from the Internet
+But for the above framework to work and for the Internet to thrive while keeping its citizens
+happy, there are a number of technical challenges that need to be resolved:
+1. “One person, one vote” voting system but with the ability to preserve pseudo-anonymity
+2. Increase transparency on the “laws” of the Internet, its governing algorithms and
+protocol:
+a. Visibility and integrity: how do they work and how to verify they cannot be
+tampered with
+b. Accountability: who is held accountable in case of failure
+c. Explainability/Auditability: why the code has made a certain decision
+3. Improve the state of homomorphic encryption and machine learning protocols that work
+on data streams vs data at rest
+Solving the technical challenges above as well as funding companies and initiatives that fit in
+the framework for social welfare will oil the function of the Internet as a Nation State. This, in
+turn, will allow Internet citizens to express “intended behavior” as well as profit from scale. Being
+heard and improving living conditions are the best medicine against discontent and
+protectionism.
+

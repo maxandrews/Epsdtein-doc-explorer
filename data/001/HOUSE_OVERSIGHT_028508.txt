@@ -1,0 +1,219 @@
+From: Boris Nikolic 
+Sent: 6/6/2014 2:23:23 PM 
+To: Jeffrey Epstein (jeeyacation@gmail.com) [jeeyacation@gmail.com] 
+Subject: nanosatelites are getting hot 
+http://www.economist.com/news/leaders/21603441-where-nanosats-boldly-go-new-businesses-will-followunless-they-
+are-smothered-excessive  
+Technology — Full text articles 
+Satellites: Space: the next startup frontier 
+The Economist 
+AROUND 1,000 operational satellites are circling the Earth, some of them the size and weight of a large car. In the past 
+year they have been joined by junior offspring: 100 or so small satellites, some of them made up of one or more 10cm 
+(4-inch) cubes. They may be tiny, but each is vastly more capable than Sputnik, the first man-made satellite launched 
+by Russia in 1957. And many more are coming. 
+Space hardware used to cost so much that it was available only to generals, multinationals and the most privileged 
+scientists. No more. Many of these nanosats, as small satellites weighing no more than a few kilograms are called, 
+have been launched for small companies, startups and university departments, sometimes with finance raised on 
+crowdfunding websites. Their construction costs can be down in the tens of thousands of dollars, which makes them 
+thousands of times cheaper than today's big satellites. Admittedly, there is much they cannot do, but with that sort of 
+price differential, and some ingenious use of the abilities they do have, they could be surprisingly competitive players on 
+a number of fronts. In the next five years another 1,000 nanosats are expected to be launched. 
+Two trends are setting up nanosats for further success. Like people working on everything from robots to 3D printers, 
+nanosat builders are harvesting the benefits of ever better, ever cheaper components built for smartphones and other 
+consumer electronics. Some nanosats even contain complete smartphones, making use of the clever operating 
+systems, radios and cameras which phones now contain. For as long as phones go on getting cheaper and more 
+capable, so will nanosats. The cheapest so far—a tiny chipsat—was assembled for just $25, though it has yet to be 
+successfully launched. 
+The launch systems too are getting much cheaper. SpaceX, the innovative rocket-maker founded by Elon Musk, has 
+already brought down the costs of getting into space; it and its competitors could reduce them a lot further. The biggest 
+beneficiaries will at first be people who make big satellites. But more big satellites will mean more opportunities for 
+small satellites to piggy-back on their launches. And some companies are looking at cheap little launch systems tailored 
+specifically to the needs of the nanosatellite. One reason space engineers are notoriously conservative is that the costs 
+of failure are high. As making and launching satellites gets cheaper, it will be ever easier for innovative, risk-taking 
+nanosat-makers to orbit around the lumbering incumbents. 
+Size does impose limits. Nanosats cannot peer as closely at the Earth or carry out as many experiments as big 
+satellites. But for some jobs that does not matter. The plans that companies already have include using nanosats for 
+monitoring crops, studying the sun and tracking ships and aircraft. Such a system might have been able to track 
+Malaysian Airlines flight MH370, which went missing in March. 
+Nano can do 
+Yet not everyone is thrilled. One worry is that constellations of nanosats will mean a big increase in space junk; but, 
+operating in low-Earth orbit, they burn up on re-entry after a year or so. And being cheap, they can soon be replaced 
+with newer models. A more serious concern is that they are a "dual-use" technology: they could be used for military 
+purposes. In America this has led to onerous restrictions. 
+Barack Obama's administration has sensibly repealed a law of 1999 that required all satellites to be licensed by the 
+State Department as munitions under the International Traffic in Arms Regulations (ITAR). This could mean that most 
+commercial satellites will be removed from ITAR by the end of the year and their export administered by the Commerce 
+Department. But some satellite systems and spacecraft—including anything that can carry people into space—will 
+remain under ITAR. 
+HOUSE OVERSIGHT 028508 
+Care needs to be taken with military kit, but America's regulations still seem excessive. A regular review to distinguish 
+between systems that pose a real threat and ones that don't would be a help, as would better intelligence. Tight 
+restrictions on new technologies will not work, and will damage America's interests: exciting new ventures like nanosats 
+will simply move to countries from which they can be launched with greater ease. 
+Back to top 
+Nanosatellites: Nanosats are go! 
+The Economist 
+ALTHOUGH widely used, satellites are expensive to build and to launch. That began to change last year. On November 
+19th Orbital Sciences, an American company, launched a rocket from the Wallops Flight Facility in Virginia. It carried 29 
+satellites aloft and released them into low-Earth orbit, a record for a single mission. Thirty hours later, Kosmotras, a 
+Russian joint-venture, carried 32 satellites into a similar orbit. Then, in January 2014, Orbital Sciences carried 33 
+satellites up to the International Space Station (ISS), where they were cast off a month later. 
+Many of these 94 satellites were built in a standard format known as a CubeSat, a 10cm (4 inch) cube weighing 1.3kg 
+(2.91b) or less. Some comprised units of two or three cubes. After a decade of fits and starts, during which some 75 
+CubeSats were launched, satellites of this scale and other small satellites are moving from being experimental kit to 
+delivering useful scientific data and commercial services. 
+In the next five years or so some 1,000 nanosats, as small satellites of 1-10kg are called, are expected to be launched. 
+Some will be smaller than a CubeSat; others bigger and heavier. Some are like a matryoshka doll: the Russian launch 
+included a satellite that launched eight smaller ones, including four PocketQubes (a 5cm cube format). One of these 
+smaller satellites, developed in Peru, released its own tiny bird. 
+There will be upsets along the way. In April, as part of a mission by SpaceX, an American company, to resupply the 
+ISS, a small mothership was placed in orbit carrying 104 "sprites" (pictured below). Not much larger than a postage 
+stamp, these contain all the basic elements of a satellite, such as a radio, aerials, a solar cell and instruments. 
+Developed as part of a crowd-funded project called KickSat at Cornell University, each sprite cost just $25 in parts. 
+Their launch was free, courtesy of NASA, the American space agency. The sprites were designed to remain in orbit for 
+a few weeks collecting data before burning up on re-entry. Unfortunately, due to a fault with a timer, the mothership 
+failed to release them before it burned up on re-entry. A second mission is now being planned. 
+No going back 
+Despite that setback, the way ahead for satellite technology is clear. "You can now, with a single chip, create most of 
+the capabilities that you would have found in Sputnik, but, of course, orders of magnitude faster," says Mason Peck, a 
+former chief technologist at NASA and now a professor at Cornell University. 
+The most ambitious project to date is a flock of 28 nanosats, each one three CubeSats in size (ie, 30cm long). These 
+were carried to the ISS in January and released in batches (pictured at the beginning of this article) through a sort of 
+satellite shooter developed by NanoRacks, an American company. These nanosats came from Planet Labs, a firm 
+based in San Francisco. The satellites now take pictures as they scan the Earth more frequently than traditional ones 
+and at a fraction of the cost, albeit at a lower resolution. 
+Planet Labs, funded modestly with $65m of private investment, says its nanosats provide much of the performance of a 
+conventional satellite for a fraction of the cost. That reflects a lot of antiquated technology in the space business, much 
+of which can be bettered by the latest off-the-shelf equipment, says Will Marshall, Planet Labs' boss. There are other 
+cost-saving measures. Satellites are usually built in elaborate clean rooms, but Planet Labs assembles its nanosats in 
+"clean-enough" rooms in its downtown offices. The company expects to put another 100 nanosats into orbit in the next 
+12 to 18 months. 
+A few miles away, in another modest San Francisco office, Nanosatisfi is working on its ArduSats. These are open-
+source platforms and two have already gone up. They will contain an array of sensors and can carry out various 
+missions, such as locating things. More than 250,000 ships, for instance, now broadcast an automatic identification 
+signal than carries about 50 nautical miles. A fleet of small satellites in low orbit could pick up these signals and provide 
+frequent updates about the ships' positions without the vessels having to use costly dedicated satellite uplinks. Such a 
+system might have been able to track Malaysian Airlines flight MH370, which went missing in March. 
+HOUSE OVERSIGHT 028509 
+Farther south in Mountain View, Skybox captures high-resolution imaging data from its first satellite in orbit as it 
+prepares another 23 to launch in the coming years. Some things, though, can be shrunk only so far and larger satellites 
+are needed for a telescope to obtain the higher resolutions required for the firm's analysis. While Skybox's minisatellites 
+weigh around 100kg, a fairly common size for small satellites, the firm proved its concept to investors using CubeSats. 
+"Being able to put something in space at very low cost allows you to demonstrate the technology to get more money," 
+says Dan Berkenstock, one of the company's founders. 
+The CubeSat specification came out of the academic world in the late 1990s. Bob Twiggs, then at Stanford University 
+and now at Morehead State University, was frustrated by long delays on a large-satellite programme and set about 
+thinking how much satellite capability might be crammed into a much smaller craft that could be launched cheaply. 
+Space launches usually comprise one or more primary payloads and require ballast to balance the rocket. CubeSats, 
+reasoned Mr Twiggs, could take the place of some of this ballast, so long as they did not jeopardise the main mission. 
+The optimum size Mr Twiggs came up with was based on a box used to display Beanie Babies. Later, with Jordi Puig-
+Suari of California Polytechnic State University, it was turned into a full specification. Mr Twiggs also developed the 5cm 
+PocketQube, which has a maximum weight of 180 grammes. 
+Small satellites benefit from the constant improvements in price and performance being achieved by the consumer-
+electronics industry, particularly in smartphones. A typical phone is now likely to contain an accelerometer to measure 
+how fast it is moving, a magnetometer to detect magnetic fields and provide a compass reading, a GPS receiver to pick 
+up satellite data, multiple radios, a gyroscope to measure its position, a barometer to detect pressure, two cameras and 
+much more. 
+Last year the world's first "phonesat" went into orbit. It was a Google Nexus One smartphone incorporated into a three-
+unit CubeSat called STRaND-1. This was built by Surrey Satellite Technology, a British firm that specialises in small 
+satellites and which is part of the European Airbus group. The idea was to test the components of the smartphone in a 
+space environment. The phone was loaded with a number of experimental apps for such things as taking photographs 
+and recording magnetic fields during orbit. 
+Smartphones and other consumer electronics provide a wealth of ready-made technologies that can enable a CubeSat 
+to perform many of the functions of a satellite a hundred times heavier and much larger, but at substantially less cost. 
+Including the launch, a nanosat of CubeSat dimensions might cost $150,000-1m, rather than $200m-1 billion for a full-
+sized one. 
+Low cost and a tolerance of less-stringent standards allow multiple nanosats to be built faster. This allows for a higher 
+risk of failure. Nanosats have a relatively short life, which might be no more than a year or two in low-Earth orbit before 
+re-entering the atmosphere and burning up. Planet Labs, for one, expects to replace some of its nanosats with new 
+versions every year. 
+Into space in a flash 
+In an industry in which preparing some missions has taken decades, the speed at which nanosats can be developed 
+and put into orbit makes the biggest in the space business take notice. NASA has also found ways to leverage the 
+consumer-electronics industry, says Bruce Yost of the space agency's Ames Research Centre in California. His group 
+(some former members of which founded Planet Labs) has launched five phonesats and is now planning a small fleet of 
+them to experiment with communications between satellites. 
+Nanosat parts are readily available to researchers. One supplier, Pumpkin, operates from a residential San Francisco 
+neighbourhood. Andrew Kalman, its founder, started in 2000 selling standard components that Mr Twiggs and his 
+colleagues at Stanford needed. Pumpkin now sells items ranging from brackets for a few hundred dollars up to 
+complete systems for hundreds of thousands of dollars. The company has also supplied America's National 
+Reconnaissance Office with 12 three-unit CubeSats to help the agency demonstrate the technology. 
+Although many satellites already circle the globe taking pictures, some of the images may not be updated for days, 
+months or even years. Commercial services can provide relatively rapid satellite images on demand, a number of them 
+taking pictures down to a resolution of 50cm (ie, 50cm x 50cm per pixel, the legal limit in America for commercial 
+satellites, although military ones can peer closer). But such satellites may cover only part of the globe each day. Once 
+their fleets are complete, Planet Labs will offer images with resolutions of between 500cm to 300cm and Skybox, with 
+its bigger minisatellites, 90cm. The companies will provide pictures that can be updated in hours for a variety of 
+scientific and commercial applications. 
+They could, for instance, be used to track environmental conditions, illegal tree-felling or changes in the course of 
+rivers—which, even in their initial deployment, Planet Labs has discovered happen surprisingly often. The frequency of 
+HOUSE OVERSIGHT 028510 
+satellite passes opens up many new possibilities, says Skybox's Mr Berkenstock. His firm can offer a stream of 
+analysis, such as the number of trees in a forest or the number of cars at various times of the day in parking lots across 
+America. Transport patterns can be followed, infrastructure monitored, the planting of fields, plumes from smokestacks 
+and ships in ports can all be observed. Overlaying more and more data will provide much richer visualisation, adds Mr 
+Berkenstock. 
+Nor will all the nanosats be looking downwards. Sensors facing sideways and upwards from low-Earth orbit will allow 
+researchers to carry out a large number of experiments and to take measurements that have previously been too costly 
+to consider. This includes detecting solar and cosmic radiation, interactions between magnetic fields and other forces 
+which together make up what is called space weather. Measuring and predicting space weather could be used to 
+protect billion-dollar satellites and prevent astronauts from receiving high doses of radiation. Many satellites measure 
+aspects of space weather, but they tend to do so only in certain directions. Part of the failed KickSat experiment was to 
+use the sprites to see if arrays of inexpensive devices could constantly monitor such forces. 
+Nanosats may be inexpensive, but resisting gravity's inexorable pull comes with a price tag. Although there is no 
+standard price list for a launch, a CubeSat costs roughly $100,000 to put each 1.3kg unit into low-Earth orbit. A three-
+unit CubeSat might cost as much as $400,000. Jeff Foust, an analyst at Futron, a consultancy, studies launch costs 
+and says he has heard of charges as low as $30,000 for a single CubeSat launched on a Russian rocket. 
+These prices put nanosats in the reach not just of small firms, but also of start-ups and researchers relying on academic 
+grants. Some schools are also planning nanosat experiments. Bulk-buying launches for heavier combined payloads can 
+work out, per kilo, even cheaper. And these costs could come down, too. Elon Musk, SpaceX's boss, has consistently 
+predicted substantial price drops in launch costs, even to as little as $200 per kilo. The firm's Falcon 9 rocket recently 
+demonstrated a successful controlled descent of its booster stage, which would allow it to be reused. 
+There is plenty of innovation in putting smaller payloads into space. Interorbital Systems, a Californian company, 
+recently carried out a successful suborbital test flight of a small rocket (pictured right) designed to carry a 145kg 
+payload. The company has presold berths for dozens of CubeSats at $13,000-38,000 per unit, as well as its own 
+TubeSat format, which it offers to academia as kit and launch for $8,000. 
+NASA will test an air-launched system in 2016 with Generation Orbit, an Atlanta company. It uses a Gulfstream G-IV 
+executive jet to carry aloft a rocket which it fires off to put 45-50kg payloads into low-Earth orbit. NASA is also working 
+with Virgin Galactic, a private space venture led by Richard Branson. Virgin Galactic has developed its LauncherOne, 
+another air-launched rocket. It can be flown to a higher altitude and carry payloads up to 225kg. 
+Neither Generation Orbit or Virgin Galactic may come down much on price, as both see a profit to be made in offering 
+regular launches, even weekly ones. Operators whose nanosats ride shotgun as ballast in other missions do not have 
+much control over when they launch or the orbits they reach, says William Pomerantz, the head of special projects at 
+Virgin Galactic. John Olds, boss of Generation Orbit, says that as constellations of nanosats increase, placing them in a 
+precise orbit will be critical in keeping small-satellite networks operating. 
+The nanosat wars 
+Nanosats also face two other limiting factors: communications and propulsion. Those used for academic work 
+principally rely on amateur-radio frequencies, with basic equipment squeezed into the CubeSat form. Transmission and 
+reception are further hindered by the size of antennae or dishes, both on the ground and on the satellites. Many 
+academic projects set up their own listening stations and recruit space buffs who can use inexpensive kit, but these 
+work on an informal basis. Companies tend to use licensed frequencies and plump for more expensive radio gear to 
+handle their data flows. More development in communications equipment and investment in ground stations would 
+improve things. 
+The other bugbear, propulsion, is harder to solve. Currently, launch operators can prevent nanosats carrying hazardous 
+propellants that might be used to power them to another orbit. Nor have engineers had a reason to design tiny 
+spaceship engines using safer fuel. But they do now. Even a basic capability to push in one direction would allow 
+nanosats to remain in orbit longer, or allow a satellite that has been placed into low-Earth orbit, using an inexpensive 
+launch provider, to nudge itself to a higher geostationary orbit. And some might travel far beyond Earth. 
+Benjamin Longmier of the University of Michigan and founder of Aether Industries, which makes equipment for high-
+altitude research, has begun production of a nanosat propulsion system based on his previous work at the Johnson 
+Space Station in Texas. This is a rocket that uses ionised propellants accelerated by magnetic fields. He has been able 
+to scale this down to CubeSat size, using liquid water or solid iodine as the propellant. Dr Longmier says the system 
+HOUSE OVERSIGHT 028511 
+could allow a constellation of satellites to remain in the correct position relative to one another, move satellites to polar 
+orbit from less-expensive launch insertions or increase an orbit. 
+Surrey Satellite Technology's STRaND-1 also contained a couple of experimental propulsion systems. One is a re-entry 
+device that ejects a mixture of water and alcohol to tip the nanosat out of orbit at the end of its useful life. The other is 
+an array of pulsed-plasma thrusters which heat and evaporate a material to produce a charged gas to push the satellite 
+along. 
+NASA has plans to offer a $5m prize using a six-unit CubeSat for groups to demonstrate ways both to communicate 
+across large distances and display the effective use of unconventional propellants. Jennifer Gustetic, in charge of 
+NASA's prizes, says the winner will have to show that their systems are survivable and can be operated far out into 
+space. The programme is still at an early stage, but it could involve transporting the CubeSats for release into orbit 
+around the Moon. But NASA has competition. Dr Longmier believes his technology can beat NASA to the Moon without 
+the use of an additional spacecraft to carry the CubeSets there. And James Cutler, a satellite-propulsion expert now 
+also at the University of Michigan, thinks he can propel small birds even deeper into space. Let the nanosat wars begin. 
+Back to top 
+-thirds. 
+Back to top 
+HOUSE OVERSIGHT 028512 

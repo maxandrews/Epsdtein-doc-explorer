@@ -1,0 +1,1304 @@
+of the planets around gravity gradients to the joining of atoms along electric-charge
+gradients to form molecules. Our own urges, such as hunger and sleepiness, are driven
+by electro-chemical gradients in our bodies. And our brain’s functions, the electrical
+signals moving along ion channels in the synapses between our neurons, are simply
+atoms and electrons flowing “downhill” along yet more electrical and chemical gradients.
+104
+Forget clockwork analogies; our brains are closer to a system of canals and locks, with
+signals traveling like water from one state to another.
+As I sit here typing, I’m actually seeking equilibrium states in an n-dimensional
+topology of gradients. Take just one: heat. My body temperature is higher than the air
+temperature, so I radiate heat, which must be replenished in my core. Even the bacteria
+in my digestive tract use sensors to measure sugar concentrations in the liquid around
+them and whip their tail-like flagella to swim “upstream” where the sugar supply is
+richest. The natural state of all systems is to flow to lower energy states, a process that is
+broadly described by entropy (the tendency of things to go from ordered to disordered
+states; all things will fall apart eventually, including the universe itself).
+But how do you explain more complex behavior, such as our ability to make
+decisions? The answer is just more gradient descent.
+Our Brains
+As miraculous and inscrutable as our human intelligence is, science is coming around to
+the view that our brains operate the same way as any other complex system with layers
+and feedback loops, all pursuing what we mathematically call “optimization functions”
+but you could just as well call “flowing downhill” in some sense.
+The essence of intelligence is learning, and we do that by correlating inputs with
+positive or negatives scores (rewards or punishment). So, for a baby, “this sound” (your
+mother’s voice) is associated with other learned connections to your mother, such as food
+or comfort. Likewise, “this muscle motion brings my thumb closer to my mouth.” Over
+time and trial and error, the brain’s neural network reinforces those connections.
+Meanwhile “this muscle motion does not bring my thumb close to my mouth” is a
+negative correlation, and the brain will weaken those connections.
+However, this is too simplistic. The limits of gradient descent constitute the socalled
+local-minima problem (or local-maxima problem, if you’re doing a gradient
+ascent). If you are walking in a mountainous region and want to get home, always
+walking downhill will most likely get you to the next valley but not necessarily over the
+other mountains that lie around it and between you and home. For that, you need either a
+mental model (i.e., a map) of the topology so you know where to ascend to get out of the
+valley, or you need to switch between gradient descent and random walks so you can
+bounce your way out of the region.
+Which is, in fact, exactly what the mosquito does in following my scent: It
+descends when it’s in my plume and random-walks when it has lost the trail or hit an
+obstacle.
+AI
+So that’s nature. What about computers? Traditional software doesn’t work that way—it
+follows deterministic trees of hard logic: “If this, do that.” But software that interacts
+with the physical world tends to work more like the physical world. That means dealing
+with noisy inputs (sensors or human behavior) and providing probabilistic, not
+deterministic, results. And that, in turn, means more gradient descent.
+AI software is the best example of this, especially the kinds of AI that use
+artificial neural-network models (including convolutional, or “deep,” neural networks of
+many layers). In these, a typical process consists of “training” them by showing them
+105
+lots of examples of something you want them to learn (pictures of cats labeled “cat,” for
+example), along with examples of other random data (pictures of other things). This is
+called “supervised learning,” because the neural network is being taught by example,
+including the use of “adversarial training” with data that is not correlated to the desired
+result.
+These neural networks, like their biological models, consist of layers of thousands
+of nodes (“neurons,” in the analogy), each of which is connected to all the nodes in the
+layers above and below by connections that initially have random strength. The top layer
+is presented with data, and the bottom layer is given the correct answer. Any series of
+connections that happened to land on the right answer is made stronger (“rewarded”), and
+those that were wrong are made weaker (“punished”). Repeat tens of thousands of times
+and eventually you have a fully trained network for that kind of data.
+You can think of all the possible combinations of connections as like the surface
+of a planet, with hills and valleys. (Ignore for the moment that the surface is just 3D and
+the actual topology is many-dimensional.) The optimization that the network goes
+through as it learns is just a process of finding the deepest valley on the planet. This
+consists of the following steps:
+1. Define a “cost function” that determines how well the network solved the problem
+2. Run the network once and see how it did at that cost function
+3. Change the values of the connections and do it again. The difference between
+those two results is the direction, or “slope,” in which the network moved
+between the two trials.
+4. If the slope is pointed “downhill,” change the connections more in that direction.
+If it’s “uphill,” change them in the opposite direction.
+5. Repeat until there is no improvement in any direction. That means that you’re in
+a minimum.
+Congrats! But it’s probably a local minimum, or a little dip in the mountains, so you’re
+going to have to keep going if you want to do better. You can’t keep going downhill, and
+you don’t know where the absolute lowest point is, so you’re going to have to somehow
+find it. There are many ways to do that, but here are a few:
+1. Try lots of times with different random settings and share learning from each trial;
+essentially, you are shaking the system to see if it settles in a lower state. If one
+of the other trials found a lower valley, start with those settings.
+2. Don’t just go downhill but stumble around a bit like a drunk, too (this is called
+“stochastic gradient descent”). If you do this long enough, you’ll eventually find
+rock bottom. There’s a metaphor for life in that.
+3. Just look for “interesting” features, which are defined by diversity (edges or color
+changes, for example). Warning: This way can lead to madness—too much
+“interestingness” draws the network to optical illusions. So keep it sane, and
+emphasize the kinds of features that are likely to be real in nature, as opposed to
+artifacts or errors. This is called “regularization,” and there are lots of techniques
+for this, such as whether those kinds of features have been seen before (learned),
+106
+or are too “high frequency” (like static) rather than “low frequency” (more
+continuous, like actual real-world features).
+Just because AI systems sometimes end up in local minima, don’t conclude that this
+makes them any less like life. Humans—indeed, probably all life-forms—are often stuck
+in local minima.
+Take our understanding of the game of Go, which was taught and learned and
+optimized by humans for thousands of years. It took AIs less than three years to find out
+that we’d been playing it wrong all along and that there were better, almost alien,
+solutions to the game which we’d never considered—mostly because our brains don’t
+have the processing power to consider so many moves ahead.
+Even in chess, which is ten times easier and was thought to be understood, bruteforce
+machines could beat us at our own strategies. Chess, too, turned out, when
+explored by superior neural-network AI systems, to have weird but superior strategies
+we’d never considered, like sacrificing queens early to gain an obscure long-term
+advantage. It’s as if we had been playing 2D versions of games that actually existed in
+higher dimensions.
+If any of this sounds familiar, it’s because physics has been wrestling with these
+sorts of topological problems for decades. The notion of space being many-dimensional,
+and math reducing to understanding the geometries and interactions of “membranes”
+beyond the reach of our senses, is where Grand Unified Theorists go to die. But unlike
+multidimensional theoretical physics, AI is something we can actually experiment with
+and measure.
+So that’s what we’re going to do. The next few decades will be an explosive
+exploration of ways to think that 7 million years of evolution never found. We’re going
+to rock ourselves out of local minima and find deeper minima, maybe even global
+minima. And when we’re done, we may even have taught machines to seem as smart as
+a mosquito, forever descending the cosmic gradients to an ultimate goal, whatever that
+may be.
+107
+David Kaiser is a physicist atypically interested in the intersection of his science with
+politics and culture, about which he has written widely.
+In the first meeting (in Washington, Connecticut) that preceded the crafting of this
+book, he commented on the change in how “information” is viewed since Wiener’s time:
+the military-industrial, Cold War era. Back then, Wiener compared information,
+metaphorically, to entropy, in that it could not be conserved—i.e., monopolized; thus, he
+argued, our atomic secrets and other such classified matters would not remain secrets for
+long. Today, whereas (as Wiener might have expected) information, fake or not, is
+leaking all over the other Washington, information in the economic world has indeed
+been stockpiled, commodified, and monetized.
+This lockdown, David said, was “not all good, not all bad”—depending, I guess,
+on whether you’re sick of being pestered by ads for socks or European river cruises
+popping up in your browser minutes after you’ve bought them.
+To say nothing of information’s proliferation. David complained to the rest of us
+attending the meeting that in Wiener’s time, physicists could “take the entire Physical
+Review. It would sit comfortably in front of us in a manageable pile. Now we’re awash
+in fifty thousand open-source journals per minute,” full of god-knows-what. Neither of
+these developments would Wiener have anticipated, said David, prompting him to ask,
+“Do we need a new set of guiding metaphors?”
+108
+“INFORMATION” FOR WIENER, FOR SHANNON, AND FOR US
+David Kaiser
+David Kaiser is Germeshausen Professor of the History of Science and professor of
+physics at MIT, and head of its Program in Science, Technology & Society. He is the
+author of How the Hippies Saved Physics: Science, Counterculture, and the Quantum
+Revival and American Physics and the Cold War Bubble (forthcoming).
+In The Sleepwalkers, a sweeping history of scientific thought from ancient times through
+the Renaissance, Arthur Koestler identified a tension that has marked the most dramatic
+leaps of our cosmological imagination. In reading the great works of Nicolaus
+Copernicus and Johannes Kepler today, Koestler argued, we are struck as much by their
+strange unfamiliarity—their embeddedness in the magic or mysticism of an earlier age—
+as by their modern-sounding insights.
+I detect that same doubleness—the zig-zag origami folds of old and new—in
+Norbert Wiener’s classic The Human Use of Human Beings. First published in 1950 and
+revised in 1954, the book is in many ways extraordinarily prescient. Wiener, the MIT
+polymath, recognized before most observers that “society can only be understood through
+a study of the messages and the communication facilities which belong to it.” Wiener
+argued that feedback loops, the central feature of his theory of cybernetics, would play a
+determining role in social dynamics. Those loops would not only connect people with
+one another but connect people with machines, and—crucially—machines with
+machines.
+Wiener glimpsed a world in which information could be separated from its
+medium. People, or machines, could communicate patterns across vast distances and use
+them to fashion new items at the endpoints, without “moving a…particle of matter from
+one end of the line to the other,” a vision now realized in our world of networked 3D
+printers. Wiener also imagined machine-to-machine feedback loops driving huge
+advances in automation, even for tasks that had previously relied on human judgment.
+“The machine plays no favorites between manual labor and white-collar labor,” he
+observed.
+For all that, many of the central arguments in The Human Use of Human Beings
+seem closer to the 19th century than the 21st. In particular, although Wiener made
+reference throughout to Claude Shannon’s then-new work on information theory, he
+seems not to have fully embraced Shannon’s notion of information as consisting of
+irreducible, meaning-free bits. Since Wiener’s day, Shannon’s theory has come to
+undergird recent advances in “Big Data” and “deep learning,” which makes it all the
+more interesting to revisit Wiener’s cybernetic imagination. How might tomorrow’s
+artificial intelligence be different if practitioners were to re-invest in Wiener’s guiding
+vision of “information”?
+~ ~ ~
+When Wiener wrote The Human Use of Human Beings, his experiences of war-related
+research, and of what struck him as the moral ambiguities of intellectual life amid the
+military-industrial complex, were still fresh. Just a few years earlier, he had announced
+109
+in the pages of The Atlantic Monthly that he would not “publish any future work of mine
+which may do damage in the hands of irresponsible militarists.” 30 He remained
+ambivalent about the transformative power of new technologies, indulging in neither the
+boundless hype nor the digital utopianism of later pundits.
+“Progress imposes not only new possibilities for the future but new restrictions,”
+he wrote, in Human Use. He was concerned about human-made restrictions as well as
+technological ones, especially Cold War restrictions that threatened the flow of
+information so critical to cybernetic systems: “Under the impetus of Senator [Joseph]
+McCarthy and his imitators, the blind and excessive classification of military
+information” was driving political leaders in the United States to adopt a “secretive frame
+of mind paralleled in history only in the Venice of the Renaissance.” Wiener, echoing
+many outspoken veterans of the Manhattan Project, argued that the postwar obsession
+with secrecy—especially around nuclear weapons—stemmed from a misunderstanding of
+the scientific process. The only genuine secret about the production of nuclear weapons,
+he wrote, was whether such bombs could be built. Once that secret had been revealed,
+with the bombings of Hiroshima and Nagasaki, no amount of state-imposed secrecy
+would stop others from puzzling through chains of reasoning like those the Manhattan
+Project researchers had followed. As Wiener memorably put it, “There is no Maginot
+Line of the brain.”
+To drive this point home, Wiener borrowed Shannon’s fresh ideas about
+information theory. In 1948, Shannon, a mathematician and engineer working at Bell
+Labs, had published a pair of lengthy articles in the Bell System Technical Journal.
+Introducing the new work to a broad readership in 1949, mathematician Warren Weaver
+explained that in Shannon’s formulation, “the word information…is used in a special
+sense that must not be confused with its ordinary usage. In particular, information must
+not be confused with meaning.” 31 Linguists and poets might be concerned about the
+“semantic” aspects of communication, Weaver continued, but not engineers like
+Shannon. Rather, “this word ‘information’ in communication theory relates not so much
+to what you do say, as to what you could say.” In Shannon’s now-famous formulation,
+the information content of a string of symbols was given by the logarithm of the number
+of possible symbols from which a given string was chosen. Shannon’s key insight was
+that the information of a message was just like the entropy of a gas: a measure of the
+system’s disorder.
+Wiener borrowed this insight when composing Human Use. If information was
+like entropy, then it could not be conserved—or contained. Physicists in the 19th century
+had demonstrated that the total energy of a physical system must always remain the same,
+a perfect balance between the start and the end of a process. Not so for entropy, which
+would inexorably increase over time, an imperative that came to be known as the second
+law of thermodynamics. From that stark distinction—energy is conserved, whereas
+entropy must grow—followed enormous cosmic consequences. Time must flow forward;
+30
+Norbert Wiener, “A Scientist Rebels,” The Atlantic Monthly, January 1947.
+31
+Warren Weaver, “Recent Contributions to the Mathematical Theory of Communication,” in Claude
+Shannon & Warren Weaver, The Mathematical Theory of Communication (Urbana, IL: University of
+Illinois Press, 1949), p. 8 (emphasis in original). Shannon’s 1948 papers were republished in the same
+volume.
+110
+the future cannot be the same as the past. The universe could even be careening toward a
+“heat death,” some far-off time when the total stock of energy had uniformly dispersed,
+achieving a state of maximum entropy, after which no further change could occur.
+If information qua entropy could not be conserved, then Wiener concluded it was
+folly for military leaders to try to stockpile the “scientific know-how of the nation in
+static libraries and laboratories.” Indeed, “no amount of scientific research, carefully
+recorded in books and papers, and then put into our libraries with labels of secrecy, will
+be adequate to protect us for any length of time in a world where the effective level of
+information is perpetually advancing.” Any such efforts at secrecy, classification, or the
+containment of information would fail, Wiener argued, just as surely as hucksters’
+schemes for perpetual-motion machines faltered in the face of the second law of
+thermodynamics.
+Wiener criticized the American “orthodoxy” of free-market fundamentalism in
+much the same way. For most Americans, “questions of information will be evaluated
+according to a standard American criterion: a thing is valuable as a commodity for what it
+will bring in the open market.” Indeed, “the fate of information in the typically American
+world is to become something which can be bought or sold;” most people, he observed,
+“cannot conceive of a piece of information without an owner.” Wiener considered this
+view to be as wrong-headed as rampant military classification. Again he invoked
+Shannon’s insight: Since “information and entropy are not conserved,” they are “equally
+unsuited to being commodities.”
+~ ~ ~
+Information cannot be conserved—so far, so good. But did Wiener really have
+Shannon’s “information” in mind? The crux of Shannon’s argument, as Weaver had
+emphasized, was to distinguish a colloquial sense of “information,” as message with
+meaning, from an abstracted, rarefied notion of strings of symbols arrayed with some
+probability and selected from an enormous universe of gibberish. For Shannon,
+“information” could be quantified because its fundamental unit, the bit, was a unit of
+conveyance rather than understanding.
+When Wiener characterized “information” throughout Human Use, on the other
+hand, he tilted time and again to a classical, humanistic sense of the term. “A piece of
+information,” he wrote—tellingly, not a “bit” of information—“in order to contribute to
+the general information of the community, must say something substantially different
+from the community’s previous common stock of information.” This was why
+“schoolboys do not like Shakespeare,” he concluded: The Bard’s couplets may depart
+starkly from random bitstreams, but they had nonetheless become all too familiar to the
+sense-making public and “absorbed into the superficial clichés of the time.”
+At least the information content of Shakespeare had once seemed fresh. During
+the postwar boom years, Wiener fretted, the “enormous per capita bulk of
+communication”—ranging across newspapers and movies to radio, television, and
+books—had bred mediocrity, an informational reversion to the mean. “More and more
+we must accept a standardized inoffensive and insignificant product which, like the white
+bread of the bakeries, is made rather for its keeping and selling properties than for its
+food value.” “Heaven save us,” he pleaded, “from the first novels which are written
+because a young man desires the prestige of being a novelist rather than because he has
+111
+something to say! Heaven save us likewise from the mathematical papers which are
+correct and elegant but without body or spirit.” Wiener’s treatment of “information”
+sounded more like Matthew Arnold in 1869 32 than Claude Shannon in 1948—more
+“body and spirit” than “bit.” Wiener shared Arnold’s Romantic view of the “content
+producer” as well. “Properly speaking the artist, the writer, and the scientist should be
+moved by such an irresistible impulse to create that, even if they were not being paid for
+their work, they would be willing to pay to get the chance to do it.” L’art pour l’art, that
+19th-century cry: Artists should suffer for their work; the quest for meaningful expression
+should always trump lucre.
+To Wiener, this was the proper measure of “information”: body, spirit, aspiration,
+expression. Yet to argue against its commodification, Wiener reverted again to
+Shannon’s mathematics of information-as-entropy.
+~ ~ ~
+Flash forward to our day. In many ways, Wiener has been proved right. His vision of
+networked feedback loops driven by machine-to-machine communication has become a
+mundane feature of everyday life. From the earliest stirrings of the Internet Age,
+moreover, digital piracy has upended the view that “information”—in the form of songs,
+movies, books, or code—could remain contained. Put up a paywall here, and the content
+will diffuse over there, all so much informational entropy that cannot be conserved.
+On the other hand, enormous multinational corporations—some of the largest and
+most profitable in the world—now routinely disprove Wiener’s contention that
+“information” cannot be stockpiled or monetized. Ironically, the “information” they
+trade in is closer to Shannon’s definition than Wiener’s, Shannon’s mathematical proofs
+notwithstanding.
+While Google Books may help circulate hundreds of thousands of works of
+literature for free, Google itself—like Facebook, Amazon, Twitter, and their many
+imitators—has commandeered a baser form of “information” and exploited it for
+extraordinary profit. Petabytes of Shannon-like information—a seemingly meaningless
+stream of clicks, “likes,” and retweets, collected from virtually every person who has ever
+touched a networked computer—are sifted through proprietary “deep-learning”
+algorithms to micro-target everything from the advertisements we see to the news stories
+(fake or otherwise) we encounter while browsing the Web.
+Back in the early 1950s, Wiener had proposed that researchers study the
+structures and limitations of ants—in contrast to humans—so that machines might one
+day achieve the “almost indefinite intellectual expansion” that people (rather than insects)
+can attain. He found solace in the notion that machines could come to dominate us only
+“in the last stages of increasing entropy,” when “the statistical differences among
+individuals are nil.” Today’s data-mining algorithms turn Wiener’s approach on its head.
+They produce profit by exploiting our reptilian brains rather than imitating our cerebral
+cortexes, harvesting information from all our late-night, blog-addled, pleasure-seeking
+clickstreams—leveraging precisely the tiny, residual “statistical differences among
+individuals.”
+32
+Matthew Arnold, Culture and Anarchy, Jane Garnett, ed. (Oxford, U.K.: Oxford University Press, 2006).
+112
+To be sure, some recent achievements in artificial intelligence have been
+remarkably impressive. Computers can now produce visual artworks and musical
+compositions akin to those of recognized masters, creating just the sort of “information”
+that Wiener most prized. But by far the largest impact on society to date has come from
+the collection and manipulation of Shannon-like information, which has reshaped our
+shopping habits, political participation, personal relationships, expectations of privacy,
+and more.
+What might “deep learning” evolve into, if the fundamental currency becomes
+“information” as Wiener defined it? How might the field shift if re-animated by
+Wiener’s deep moral convictions, informed as they were by his prescient concerns about
+rampant militarism, runaway corporate profit-seeking, the self-limiting features of
+secrecy, and the reduction of human expression to interchangeable commodities?
+Perhaps “deep learning” might then become the cultivation of meaningful information
+rather than the relentless pursuit of potent, if meaningless, bits.
+113
+In the aforementioned Connecticut discussion on The Human Use of Human Beings, Neil
+Gershenfeld provided some fresh air, of a kind, by professing that he hated the book,
+which remark was met by universal laughter—as was his observation that computer
+science was one the worst things to happen to computers, or science. His overall
+contention was that Wiener missed the implications of the digital revolution that was
+happening around him—although some would say this charge can’t be leveled at
+someone on the ground floor and lacking clairvoyance.
+“The tail wagging the dog of my life,” he told us, “has been Fab Labs and the
+maker movement, and [when] Wiener talks about the threat of automation he misses the
+inverse, which is that access to the means for automation can empower people, and in
+Fab Labs, the corner I’ve been involved in, that’s an exponential.”
+In 2003, I visited Neil at MIT, where he runs the Center for Bits and Atoms.
+Hours later, I emerged from what had been an exuberant display of very weird stuff. He
+showed me the work of one student in his popular rapid-prototyping class (“How to
+Make Almost Anything”), a sculptor with no engineering background, who had made a
+portable personal space for screaming that saves up your screams and plays them back
+later. Another student in the class had made a Web browser that lets parrots navigate
+the Net. Neil himself was doing fundamental research on the roadmap to that sci-fi
+staple, a “universal replicator.” It was a visit that took me a couple of years to get my
+head around.
+Neil manages a global network of Fab Labs—small-scale manufacturing systems,
+enabled by digital technologies, which give people the wherewithal to build whatever
+they’d like. As guru of the maker movement, which merges digital communication and
+computation with fabrication, he sometimes feels outside the current heated debate on AI
+safety. “My ability to do research rests on tools that augment my capabilities,” he says.
+“Asking whether or not they are intelligent is as fruitful as asking how I know I exist—
+amusing philosophically, but not testable empirically.” What interests him is “how bits
+and atoms relate—the boundary between digital and physical. Scientifically, it’s the most
+exciting thing I know.”
+114
+SCALING
+Neil Gershenfeld
+Neil Gershenfeld is a physicist and director of MIT’s Center for Bits and Atoms. He is
+the author of FAB, co-author (with Alan Gershenfeld & Joel Cutcher-Gershenfeld) of
+Designing Reality, and founder of the global fab lab network.
+Discussions about artificial intelligence have been oddly ahistorical. They could better
+be described as manic-depressive; depending on how you count, we’re now in the fifth
+boom-bust cycle. Those swings mask the continuity in the underlying progress and the
+implications for where it’s headed.
+The cycles have come in roughly decade-long waves. First there were
+mainframes, which by their very existence were going to automate away work. That ran
+into the reality that it was hard to write programs to do tasks that were simple for people
+to do. Then came expert systems, which were going to codify and then replace the
+knowledge of experts. These ran into difficulty in assembling that knowledge and
+reasoning about cases not already covered. Perceptrons sought to get around these
+problems by modeling how the brain learns, but they were unable to do much of
+anything. Multilayer perceptrons could handle test problems that had tripped up those
+simpler networks, but their demonstrations did poorly on unstructured, real-world
+problems. We’re now in the deep-learning era, which is delivering on many of the early
+AI promises but in a way that’s considered hard to understand, with consequences
+ranging from intellectual to existential threats.
+Each of these stages was heralded as a revolutionary advance over the limitations
+of its predecessors, yet all effectively do the same thing: They make inferences from
+observations. How these approaches relate can be understood by how they scale—that is,
+how their performance depends on the difficulty of the problem they’re addressing. Both
+a light switch and a self-driving car must determine their operator’s intentions, but the
+former has just two options to choose from, whereas the latter has many more. The AIboom
+phases have started with promising examples in limited domains; the bust phases
+came with the failure of those demonstrations to handle the complexity of less-structured,
+practical problems.
+Less apparent is the steady progress we’ve made in mastering scaling. This
+progress rests on the technological distinction between linear and exponential functions—
+a distinction that was becoming evident at the dawn of AI but with implications for AI
+that weren’t appreciated until many years later.
+In one of the founding documents of the study of intelligent machines, The
+Human Use of Human Beings, Norbert Wiener does a remarkable job of identifying many
+of the most significant trends to arise since he wrote it, along with noting the people
+responsible for them and then consistently failing to recognize why these people’s work
+proved to be so important. Wiener is credited with creating the field of cybernetics; I’ve
+never understood what that is, but what’s missing from the book is at the heart of how AI
+has progressed. This history matters because of the echoes of it that persist to this day.
+Claude Shannon makes a cameo appearance in the book, in the context of his
+thoughts about the prospects for a chess-playing computer. Shannon was doing
+115
+something much more significant than speculating at the time: He was laying the
+foundations for the digital revolution. As a graduate student at MIT, he worked for
+Vannevar Bush on the Differential Analyzer. This was one of the last great analog
+computers, a room full of gears and shafts. Shannon’s frustration with the difficulty of
+solving problems this way led him in 1937 to write what might be the best master’s thesis
+ever. In it, he showed how electrical circuits could be designed to evaluate arbitrary
+logical expressions, introducing the basis for universal digital logic.
+After MIT, Shannon studied communications at Bell Labs. Analog telephone
+calls degraded with distance; the farther they traveled, the worse they sounded. Rather
+than continue to improve them incrementally, Shannon showed in 1948 that by
+communicating with symbols rather than continuous quantities, the behavior is very
+different. Converting speech waveforms to the binary values of 1 and 0 is an example,
+but many other sets of symbols can be (and are) used in digital communications. What
+matters is not the particular symbols but rather the ability to detect and correct errors.
+Shannon found that if the noise is above a threshold (which depends on the system
+design), then there are certain to be errors. But if the noise is below a threshold, then a
+linear increase in the physical resources representing the symbol results in an exponential
+decrease in the likelihood of making an error in correctly receiving the symbol. This
+relationship was the first of what we’d now call a threshold theorem.
+Such scaling falls off so quickly that the probability of an error can be so small as
+to effectively never happen. Each symbol sent multiplies rather than adds to the
+certainty, so that the probability of a mistake can go from 0.1 to 0.01 to 0.001, and so
+forth. This exponential decrease in communication errors made possible an exponential
+increase in the capacity of communication networks. And that eventually solved the
+problem of where the knowledge in an AI system came from.
+For many years, the fastest way to speed up a computation was to do nothing—
+just wait for computers to get faster. In the same way, there were years of AI projects
+that aimed to accumulate everyday knowledge by laboriously entering pieces of
+information. That didn’t scale; it could progress only as fast as the number of people
+doing the entering. But when phone calls, newspaper stories, and mail messages all
+moved onto the Internet, everyone doing any of those things became a data generator.
+The result was an exponential rather than a linear rate of knowledge accumulation.
+John von Neumann also has a cameo in The Human Use of Human Beings, for
+game theory. What Wiener missed here was von Neumann’s seminal role in digitizing
+computation. Whereas analog communication degraded with distance, analog computing
+(like the Differential Analyzer) degraded with time, accumulating errors as it progressed.
+Von Neumann presented in 1952 a result corresponding to Shannon’s for computation
+(they had met at the Institute for Advanced Study, in Princeton), showing that it was
+possible to compute reliably with an unreliable computing device by using symbols rather
+than continuous quantities. This was, again, a scaling argument, with a linear increase in
+the physical resources representing the symbol resulting in an exponential reduction in
+the error rate as long as the noise was below a threshold. That’s what makes it possible
+to have a billion transistors in a computer chip, with the last one as useful as the first one.
+This relationship led to an exponential increase in computing performance, which solved
+a second problem in AI: how to process exponentially increasing amounts of data.
+The third problem that scaling solved for AI was coming up with the rules for
+116
+reasoning without having to hire a programmer for each problem. Wiener recognized the
+role of feedback in machine learning, but he missed the key role of representation. It’s
+not possible to store all possible images in a self-driving car, or all possible sounds in a
+conversational computer; they have to be able to generalize from experience. The “deep”
+part of deep learning refers not to the (hoped-for) depth of insight but to the depth of the
+mathematical network layers used to make predictions. It turned out that a linear increase
+in network complexity led to an exponential increase in the expressive power of the
+network.
+If you lose your keys in a room, you can search for them. If you’re not sure
+which room they’re in, you have to search all the rooms in a building. If you’re not sure
+which building they’re in, you have to search all the rooms in all the buildings in a city.
+If you’re not sure which city they’re in, you have to search all the rooms in all the
+buildings in all the cities. In AI, finding the keys corresponds to things like a car safely
+following the road, or a computer correctly interpreting a spoken command, and the
+rooms and buildings and cities correspond to all of the options that have to be considered.
+This is called the curse of dimensionality.
+The solution to the curse of dimensionality came in using information about the
+problem to constrain the search. The search algorithms themselves are not new. But
+when applied to a deep-learning network, they adaptively build up representations of
+where to search. The price of this is that it’s no longer possible to exactly solve for the
+best answer to a problem, but typically all that’s needed is an answer that’s good enough.
+Taken together, it shouldn’t be surprising that these scaling laws have allowed
+machines to become effectively as capable as the corresponding stages of biological
+complexity. Neural networks started out with a goal of modeling how the brain works.
+That goal was abandoned as they evolved into mathematical abstractions unrelated to
+how neurons actually function. But now there’s a kind of convergence that can be
+thought of as forward- rather than reverse-engineering biology, as the results of deep
+learning echo brain layers and regions.
+One of the most difficult research projects I’ve managed paired what we’d now
+call data scientists with AI pioneers. It was a miserable experience in moving goalposts.
+As the former progressed in solving long-standing problems posed by the latter, this was
+deemed to not count because it wasn’t accompanied by corresponding leaps in
+understanding the solutions. What’s the value of a chess-playing computer if you can’t
+explain how it plays chess?
+The answer of course is that it can play chess. There is interesting emerging
+research that is applying AI to AI—that is, training networks to explain how they operate.
+But both brains and computer chips are hard to understand by watching their inner
+workings; they’re easily interpreted only by observing their external interfaces. We come
+to trust (or not) brains and computer chips alike based on experience that tests them
+rather than on explanations for how they work.
+Many branches of engineering are making a transition from what’s called
+imperative to declarative or generative design. This means that instead of explicitly
+designing a system with tools like CAD files, circuit schematics, and computer code, you
+describe what you want the system to do and then an automated search is done for
+designs that satisfy your goals and restrictions. This approach becomes necessary as
+design complexity exceeds what can be understood by a human designer. While that
+117
+might sound like a risk, human understanding comes with its own limits; engineering
+design is littered with what appeared to be good insights that have had bad consequences.
+Declarative design rests on all the advances in AI, plus the improving fidelity of
+simulations to virtually test designs.
+The mother of all design problems is the one that resulted in us. The way we’re
+designed resides in one of the oldest and most conserved parts of the genome, called the
+Hox genes. These are genes that regulate genes, in what are called developmental
+programs. Nothing in your genome stores the design of your body; your genome stores,
+rather, a series of steps to follow that results in your body. This is an exact parallel to
+how search is done in AI. There are too many possible body plans to search over, and
+most modifications would be either inconsequential or fatal. The Hox genes are a
+representation of a productive place for evolutionary search. It’s a kind of natural
+intelligence at the molecular level.
+AI has a mind-body problem, in that it has no body. Most work on AI is done in
+the cloud, running on virtual machines in computer centers where data are funneled. Our
+own intelligence is the result of a search algorithm (evolution) that was able to change
+our physical form as well as our programming—those are inextricably linked. If the
+history of AI can be understood as the working of scaling laws rather than a succession of
+fashions, then its future can be seen in the same way. What’s now being digitized, after
+communication and computation, is fabrication, bringing the programmability of bits to
+the world of atoms. By digitizing not just designs but the construction of materials, the
+same lessons that von Neumann and Shannon taught us apply to exponentially increasing
+fabricational complexity.
+I’ve defined digital materials to be those constructed from a discrete set of parts
+reversibly joined with a discrete set of relative positions and orientations. These
+attributes allow the global geometry to be determined from local constraints, assembly
+errors to be detected and corrected, heterogeneous materials to be joined, and structures
+to be disassembled rather than disposed of when they’re no longer needed. The amino
+acids that are the foundation of life and the Lego bricks that are the foundation of play
+share these properties.
+What’s interesting about amino acids is that they’re not interesting. They have
+attributes that are typical but not unusual, such as attracting or repelling water. But just
+twenty types of them are enough to make you. In the same way, twenty or so types of
+digital-material part types—conducting, insulating, rigid, flexible, magnetic, etc.—are
+enough to assemble the range of functions that go into making modern technologies like
+robots and computers.
+The connection between computation and fabrication was foreshadowed by the
+very pioneers whose work the edifice of computing is based on. Wiener hinted at this by
+linking material transportation with message transportation. John von Neumann is
+credited with modern computer architecture, something he actually wrote very little
+about; the final thing he studied, and wrote about beautifully and at length, was selfreproducing
+systems. As an abstraction of life, he modeled a machine that can
+communicate a computation that constructs itself. And the final thing Alan Turing, who
+is credited with the theoretical framework for computer science, studied was how the
+instructions in genes can give rise to physical forms. These questions address a topic
+absent from a typical computer-science education: the physical configuration of a
+118
+computation.
+Von Neumann and Turing posed their questions as theoretical studies, because it
+was beyond the technology of their day to realize them. But with the convergence of
+communication and computation with fabrication, these investigations are now becoming
+accessible experimentally. Making an assembler that can assemble itself from the parts
+that it’s assembling is a focus of my lab, along with collaborations to develop synthetic
+cells.
+The prospect of physically self-reproducing automata is potentially much scarier
+than fears of out-of-control AI, because it moves the intelligence out here to where we
+live. It could be a roadmap leading to Terminator’s Skynet robotic overlords. But it’s
+also a more hopeful prospect, because an ability to program atoms as well as bits enables
+designs to be shared globally while locally producing things like energy, food, and
+shelter—all of these are emerging as exciting early applications of digital fabrication.
+Wiener worried about the future of work, but he didn’t question implicit assumptions
+about the nature of work which are challenged when consumption can be replaced by
+creation.
+History suggests that neither utopian nor dystopian scenarios prevail; we
+generally end up muddling along somewhere in between. But history also suggests that
+we don’t have to wait on history. Gordon Moore in 1965 was able to use five years of the
+doubling of the specifications of integrated circuits to project what turned out to be fifty
+years of exponential improvements in digital technologies. We’ve spent many of those
+years responding to, rather than anticipating, its implications. We have more data
+available now than Gordon Moore did to project fifty years of doubling the performance
+of digital fabrication. With the benefit of hindsight, it should be possible to avoid the
+excesses of digital computing and communications this time around, and, from the outset,
+address issues like access and literacy.
+If the maker movement is the harbinger of a third digital revolution, the success of
+AI in meeting many of its own early goals can be seen as the crowning achievement of
+the first two digital revolutions. Although machine making and machine thinking might
+appear to be unrelated trends, they lie in each other’s futures. The same scaling trends
+that have made AI possible suggest that the current mania is a phase that will pass, to be
+followed by something even more significant: the merging of artificial and natural
+intelligence.
+It was an advance for atoms to form molecules, molecules to form organelles,
+organelles to form cells, cells to form organs, organs to form organisms, organisms to
+form families, families to form societies, and societies to form civilizations. This grand
+evolutionary loop can now be closed, with atoms arranging bits arranging atoms.
+119
+While Danny Hillis was an undergraduate at MIT, he built a computer out of Tinkertoys.
+It has around 10,000 wooden parts, plays tic-tac-toe, and never loses; it’s now in the
+Computer History Museum, in Mountain View, California.
+As a graduate student at the MIT Computer Science and Artificial Intelligence
+Laboratory in the early 1980s, Danny designed a massively parallel computer with
+64,000 processors. He named it the Connection Machine and founded what may have
+been the first AI company—Thinking Machines Corporation—to produce and market it.
+This was despite a lunch he had with Richard Feynman, at which the celebrated physicist
+remarked, “That is positively the dopiest idea I ever heard.” Maybe “despite” is the
+wrong word, since Feynman had a well-known predilection for playing with dopey ideas.
+In the event, he showed up on the day the company was incorporated and stayed on, for
+summer jobs and special assignments, to make invaluable contributions to its work.
+Danny has since established a number of technology companies, of which the
+latest is Applied Invention, which partners with commercial enterprises to develop
+technological solutions to their most intractable problems. He holds hundreds of U.S.
+patents, covering parallel computers, touch interfaces, disk arrays, forgery prevention
+methods, and a slew of electronic and mechanical devices. His imagination is apparently
+boundless, and here he sketches some possible scenarios that will result from our pursuit
+of a better and better AI.
+“Our thinking machines are more than metaphors,” he says. “The question is not,
+‘Will they be powerful enough to hurt us?’ (they will), or whether they will always act in
+our best interests (they won’t), but whether over the long term they can help us find our
+way—where we come out on the Panacea/Apocalypse continuum.”
+120
+THE FIRST MACHINE INTELLIGENCES
+W. Daniel Hillis
+W. Daniel “Danny” Hillis is an inventor, entrepreneur, and computer scientist, Judge
+Widney Professor of Engineering and Medicine at USC, and author of The Pattern on the
+Stone: The Simple Ideas That Make Computers Work.
+I have spoken of machines, but not only of machines having brains of brass and thews of
+iron. When human atoms are knit into an organization in which they are used, not in
+their full right as responsible human beings, but as cogs and levers and rods, it matters
+little that their raw material is flesh and blood. What is used as an element in a machine,
+is in fact an element in the machine. Whether we entrust our decisions to machines of
+metal, or to those machines of flesh and blood which are bureaus and vast laboratories
+and armies and corporations, we shall never receive the right answers to our questions
+unless we ask the right questions…. The hour is very late, and the choice of good and
+evil knocks at our door.
+—Norbert Wiener, The Human Use of Human Beings
+Norbert Wiener was ahead of his time in recognizing the potential danger of emergent
+intelligent machines. I believe he was even further ahead in recognizing that the first
+artificial intelligences had already begun to emerge. He was correct in identifying the
+corporations and bureaus that he called “machines of flesh and blood” as the first
+intelligent machines. He anticipated the dangers of creating artificial superintelligences
+with goals not necessarily aligned with our own.
+What is now clear, whether or not it was apparent to Wiener, is that these
+organizational superintelligences are not just made of humans, they are hybrids of
+humans and the information technologies that allow them to coordinate. Even in
+Wiener’s time, the “bureaus and vast laboratories and armies and corporations” could not
+operate without telephones, telegraphs, radios, and tabulating machines. Today they
+could not operate without networks of computers, databases, and decision support
+systems. These hybrid intelligences are technologically augmented networks of humans.
+These artificial intelligences have superhuman powers. They can know more than
+individual humans; they can sense more; they can make more complicated analyses and
+more complex plans. They can have vastly more resources and power than any single
+individual.
+Although we do not always perceive it, hybrid superintelligences such as nation
+states and corporations have their own emergent goals. Although they are built by and
+for humans, they often act like independent intelligent entities, and their actions are not
+always aligned to the interests of the people who created them. The state is not always
+for the citizen, nor the company for the shareholder. Nor do not-for-profits, religious
+orders, or political parties always act in furtherance of their founding principles.
+Intuitively, we recognize that their actions are guided by internal goals, which is why we
+personify them, both legally and in our habits of thought. When talking about “what
+China wants,” or “what General Motors is trying to do,” we are not speaking in
+metaphors. These organizations act as intelligences that perceive, decide, and act. Like
+the goals of individual humans, the goals of organizations are complex and often selfcontradictory,
+but they are true goals in the sense that they direct action. Those goals
+121
+depend somewhat on the goals of the people within the organization, but they are not
+identical.
+Any American knows how loose the tie is between the actions of the U.S.
+government and the diverse and often contradictory aims of its citizens. That is also true
+of corporations. For-profit corporations nominally serve multiple constituencies,
+including shareholders, senior executives, employees, and customers. These corporations
+differ in how they balance their loyalties and often behave in ways that serve none of
+their constituents. The “neurons” that carry their corporate thought are not just the
+human employees or the technologies that connect them; they are also coded into the
+policies, incentive structures, culture, and procedural habits of the corporation. The
+emergent corporate goals do not always reflect the values of the people who implement
+them. For instance, an oil company led and staffed by people who care about the
+environment may have incentive structures or policies that cause it to compromise
+environmental safety for the sake of corporate earnings. The components’ good
+intentions are not a guarantee of the emergent system’s good behavior.
+Governments and corporations, both built partly of humans, are naturally
+motivated to at least appear to share the goals of the humans they depend upon. They
+could not function without the people, so they need to keep them cooperative. When
+such organizations appear to behave altruistically, this is often part of their motive. I
+once complimented the CEO of a large corporation on the contribution his company
+made toward a humanitarian relief effort. The CEO responded, without a trace of irony,
+“Yes. We have decided to do more things like that to make our brand more likeable.”
+Individuals who compose a hybrid superintelligence may occasionally exert a
+“humanizing” influence—for example, an employee may break company policies to
+accommodate the needs of another human. The employee may act out of true human
+empathy, but we should not attribute any such empathy to the superintelligence itself.
+These hybrid machines have goals, and their citizens/customers/employees are some of
+the resources they use to accomplish them.
+We are close to being able to build superintelligences out of pure information
+technology, without human components. This is what people normally refer to as
+“artificial intelligence,” or AI. It is reasonable to ask what the attitudes of the
+hypothetical machine superintelligences will be toward humans. Will they, too, see
+humans as useful resources and a good relationship with us as worth preserving? Will
+they be constructed to have goals that are aligned with our own? Will a superintelligence
+even see these questions as important? What are the “right questions” that we should be
+asking? I believe that one of the most important is this: What relationship will various
+superintelligences have to one another?
+It is interesting to consider how the hybrid superintelligences currently deal with
+conflicts among themselves. Today, much of the ultimate power rests in the nation
+states, which claim authority over a patch of ground. Whether they are optimized to act
+in the interests of their citizens or those of a despotic ruler, nation states assert priority
+over other intelligences’ desires or goals within their geographic dominion. They claim a
+monopoly on the use of force and recognize only other nation states as peers. They are
+willing, if necessary, to demand great sacrifices of their citizens to enforce their authority,
+even to the point of sacrificing their citizens’ lives.
+122
+This geographical division of authority made logical sense when most of the
+actors were humans who spent their lives within a single nation state, but now that the
+actors of importance include geographically distributed hybrid intelligences such as
+multinational corporations, that logic is less obvious. Today we live in a complex
+transitional period, when distributed superintelligences still largely rely on the nation
+states to settle the arguments arising among them. Often, those arguments are resolved
+differently in different jurisdictions. It is becoming more difficult even to assign
+individual humans to nation states: International travelers living and working outside
+their native country, refugees, and immigrants (documented and not) are still dealt with
+as awkward exceptions. Superintelligences built purely of information technology will
+prove even more awkward for the territorial system of authority, since there is no reason
+why they need to be tied to physical resources in a single country—or even to any
+particular physical resources at all. An artificial intelligence might well exist “in the
+cloud” rather than at any physical location.
+I can imagine at least four scenarios for how machine superintelligences will
+relate to hybrid superintelligences.
+In one obvious scenario, multiple machine intelligences will ultimately be
+controlled by, and allied with, individual nation states. In this state/AI scenario, one can
+envision American and Chinese super-AIs wrestling each other for resources on behalf of
+their state. In some sense, these AIs would be citizens of their nation state in the way that
+many commercial corporations often act as “corporate citizens” today. In this scenario,
+the host nation states would presumably give the machine superintelligences the
+resources they needed to work for the state’s advantage. Or, to the degree that the
+superintelligences can influence their state governments, they will presumably do so to
+enhance their own power, for instance by garnering a larger share of the state’s resources.
+Nation states’ AIs might not want competing AIs to grow up within their jurisdiction. In
+this scenario, the superintelligences become an extension of the state, and vice versa.
+The state/AI scenario seems plausible, but it is not our current course. Our most
+powerful and rapidly improving artificial intelligences are controlled by for-profit
+corporations. This is the corporate/AI scenario, in which the balance of power between
+nation states and corporations becomes inverted. Today, the most powerful and
+intelligent collections of machines are probably owned by Google, but companies like
+Amazon, Baidu, Microsoft, Facebook, Apple, and IBM may not be far behind. These
+companies all see a business imperative to build artificial intelligences of their own. It is
+easy to imagine a future in which corporations independently build their own machine
+intelligences, protected within firewalls preventing the machines from taking advantage
+of one another’s knowledge. These machines will be designed to have goals aligned with
+those of the corporation. If this alignment is effective, nation states may continue to lag
+behind in developing their own artificial-intelligence capability and instead depend on
+their “corporate citizens” to do it for them. To the extent that corporations successfully
+control the goals, they will become more powerful and autonomous than nation states.
+Another scenario, perhaps the one people fear the most, is that artificial
+intelligences will not be aligned with either humans or hybrid superintelligences but will
+act solely in their own interest. They might even merge into a single machine
+superintelligence, since there may be no technical requirement for machine intelligences
+to maintain distinct identities. The attitude of a self-interested super-AI toward hybrid
+123
+superintelligences is likely to be competitive. Humans might be seen as minor
+annoyances, like ants at a picnic, but hybrid superintelligences—like corporations,
+organized religions, and nation states—could be existential threats. Like hybrid
+superintelligences, AIs might see humans mostly as useful tools to accomplish their
+goals, as pawns in their competition with the other superintelligences. Or we might
+simply be irrelevant. It is not impossible that a machine intelligence has already emerged
+and we simply do not recognize it as such. It may not wish to be noticed, or it may be so
+alien to us that we are incapable of perceiving it. This makes the self-interested AI
+scenario the most difficult to imagine. I believe the easy-to-imagine versions, like the
+humanoid intelligent robots of science fiction, are the least likely. Our most complex
+machines, like the Internet, have already grown beyond the detailed understanding of a
+single human, and their emergent behaviors may be well beyond our ken.
+The final scenario is that machine intelligences will not be allied with one another
+but instead will work to further the goals of humanity as a whole. In this optimistic
+scenario, AI could help us restore the balance of power between the individual and the
+corporation, between the citizen and the state. It could help us solve the problems that
+have been created by hybrid superintelligences that subvert the goals of humans. In this
+scenario, AIs will empower us by giving us access to processing capacity and knowledge
+currently available only to corporations and states. In effect, they could become
+extensions of our own individual intelligences, in furtherance of our human goals. They
+could make our weak individual intelligences strong. This prospect is both exciting and
+plausible. It is plausible because we have some choice in what we build, and we have a
+history of using technology to expand and augment our human capacities. As airplanes
+have given us wings and engines have given us muscles to move mountains, so our
+network of computers may amplify and extend our minds. We may not fully understand
+or control our destiny, but we have a chance to bend it in the direction of our values. The
+future is not something that will happen to us; it is something that we will build.
+Why Wiener Saw What Others Missed
+There is in electrical engineering a split which is known in Germany as the split between
+the technique of strong currents and the technique of weak currents, and which we know
+as the distinction between power and communication engineering. It is this split which
+separates the age just past from that in which we are now living.
+—Norbert Wiener, Cybernetics, or Control and
+Communication in the Animal and the Machine
+Cybernetics is the study of the how the weak can control the strong. Consider the
+defining metaphor of the field: the helmsman guiding a ship with a tiller. The
+helmsman’s goal is to control the heading of the ship, to keep it on the right course. The
+information, the message that is sent to the helmsman, comes from the compass or the
+stars, and the helmsman closes the feedback loop by sending the steering messages
+through the gentle force of his hand on the tiller. In this picture, we see the ship tossing
+in powerful wind and waves in the real world, controlled by the communication system
+of messages in the world of information.
+Yet the distinction between “real” and “information” is mostly a difference in
+perspective. The signals that carry messages, like the light of the stars and pressure of the
+124
+hand on the tiller, exist in a world of energy and forces, as does the helmsman. The weak
+forces that control the rudder are as real and physical as the strong forces that toss the
+ship. If we shift our cybernetics perspective from the ship to the helmsman, the pressures
+on the rudder become a strong force of muscles controlled by the weak signals in the
+mind of the helmsman. These messages in the helmsman’s mind are amplified into a
+physical force strong enough to steer the ship. Or instead, we can zoom out and take a
+large cybernetics perspective. We might see the ship itself as part of a vast trade
+network, part of a feedback loop that regulates the price of commodities through the flow
+of goods. In this perspective, the tiny ship is merely a messenger. So, the distinction
+between the physical world and the information world is a way to describe the
+relationship between the weak and the strong.
+Wiener chose to view the world from the vantage point and scale of the individual
+human. As a cyberneticist, he took the perspective of the weak protagonist embedded
+within a strong system, trying to make the best of limited powers. He incorporated this
+perspective in his very definition of information. “Information,” he said, “is a name for
+the content of what is exchanged with the outer world as we adjust to it, and make our
+adjustment felt upon it.” In his words, information is what we use to “live effectively
+within that environment.” 33 For Wiener, information is a way for the weak to effectively
+cope with the strong. This viewpoint is also reflected in Gregory Bateson’s definition of
+information as “a difference that makes a difference,” by which he meant the small
+difference that makes a big difference.
+The goal of cybernetics was to create a tiny model of the system using “weak
+currents” to amplify and control “strong currents” of the real world. The central insight
+was that a control problem could be solved by building an analogous system in the
+information space of messages and then amplifying solutions into the larger world of
+reality. Inherent in the motion of a control system is the concept of amplification, which
+makes the small big and the weak strong. Amplification allows the difference that makes
+a difference to make a difference.
+In this way of looking at the world, a control system needed to be as complex as
+the system it controlled. Cyberneticist W. Ross Ashby proved that this was true in a
+precise mathematical sense, in what is now called Ashby’s Law of Requisite Variety, or
+sometimes the First Law of Cybernetics. The law tells us that to control a system
+completely, the controller must be as complex as the controlled. Thus cyberneticists
+tended to see control systems as a kind of analog of the systems they governed, like the
+homunculus—the hypothetical little person inside the brain who controls the actual
+person.
+This notion of analogous structure is sometimes confused with the notion of
+analog encoding of messages, but the two are logically distinct. Norbert Wiener was
+much impressed with Vannevar Bush’s Digital Differential Analyzer, which could be
+reconfigured to match the structure of whatever problem it was given to solve but used
+digital signal encoding. Signals could be simplified to openly represent the relevant
+distinctions, allowing them to be more accurately communicated and stored. In digital
+signals, one needed only to preserve the difference in signals that made a difference. It is
+this distinction and signal coding that we commonly use to distinguish “analog” versus
+“digital.” Digital signal encoding was entirely compatible with cybernetic thinking—in
+33
+The Human Use of Human Beings (Boston: Houghton Mifflin, 1954), p. 17-18.
+125
+fact, enabling to it. What was constraining to cybernetics was the presumption of an
+analogy of structure between the controller and the controlled. By the 1930s, Kurt Gödel,
+Alonzo Church, and Alan Turing had all described universal systems of computation, in
+which the computation required no structural analogy to functions that were computed.
+These universal computers could also compute the functions of control.
+The analogy of structure between the controller and the controlled was central to
+the cybernetic perspective. Just as digital coding collapses the space of possible
+messages into a simplified version that represents only the difference that makes a
+difference, so the control system collapses the state space of a controlled system into a
+simplified model that reflects only the goals of the controller. Ashby’s Law does not
+imply that every controller must model every state of the system but only those states that
+matter for advancing the controller’s goals. Thus, in cybernetics, the goal of the
+controller becomes the perspective from which the world is viewed.
+Norbert Wiener adopted the perspective of the individual human relating to vast
+organizations and trying to “live effectively within that environment.” He took the
+perspective of the weak trying to influence the strong. Perhaps this is why he was able to
+notice the emergent goals of the “machines of flesh and blood” and anticipate some of the
+human challenges posed by these new intelligences, hybrid machine intelligences with
+goals of their own.
+126
+Venki Ramakrishnan is a Nobel Prize-winning biologist whose many scientific
+contributions include his work on the atomic structure of the ribosome—in effect, a huge
+molecular machine that reads our genes and makes proteins. His work would have been
+impossible without powerful computers. The Internet made his own work a lot easier
+and, he notes, acted as a leveler internationally: “When I grew up in India, if you wanted
+to get a book, it would show up six months or a year after it had already come out in the
+West. . . . Journals would arrive by surface mail a few months later. I didn’t have to
+deal with it, because I left India when I was nineteen, but I know Indian scientists had to
+deal with it. Today they have access to information at the click of a button. More
+important, they have access to lectures. They can listen to Richard Feynman. That
+would have been a dream of mine when I was growing up. They can just watch Richard
+Feynman on the Web. That’s a big leveling in the field.” And yet. . . “Along with the
+benefits [of the Web], there is now a huge amount of noise. You have all of these people
+spouting pseudoscientific jargon and pushing their own ideas as if they were science.”
+As president of the Royal Society, Venki worries, too, about the broader issue of
+trust: public trust in evidence-based scientific findings, but also trust among scientists,
+bolstered by rigorous checking of one another’s conclusions—trust that is in danger of
+eroding because of the “black box” character of deep-learning computers. “This
+[erosion] is going to happen more and more, as data sets get bigger, as we have genomewide
+studies, population studies, and all sorts of things,” he says. “How do we, as a
+science community, grapple with this and communicate to the public a sense of what
+science is about, what is reliable in science, what is uncertain in science, and what is just
+plain wrong in science?”
+127
+WILL COMPUTERS BECOME OUR OVERLORDS?
+Venki Ramakrishnan
+Venki Ramakrishnan is a scientist at the Medical Research Council Laboratory of
+Molecular Biology, Cambridge University; recipient of the Nobel Prize in Chemistry
+(2009); current president of the Royal Society; and the author of Gene Machine: The
+Race to Discover the Secrets of the Ribosome.
+A former colleague of mine, Gérard Bricogne, used to joke that carbon-based intelligence
+was simply a catalyst for the evolution of silicon-based intelligence. For quite a long
+time, both Hollywood movies and scientific Jeremiahs have been predicting our eventual
+capitulation to our computer overlords. We all await the singularity, which always seems
+to be just over the horizon.
+In a sense, computers have already taken over, facilitating virtually every aspect
+of our lives—from banking, travel, and utilities to the most intimate personal
+communication. I can see and talk to my grandson in New York for free. I remember
+when I first saw the 1968 movie 2001: A Space Odyssey, the audience laughed at the
+absurdly cheap cost of a picturephone call from space: $1.70, at a time when a longdistance
+call within the U.S. was $3 per minute.
+However, the convenience and power of computers is also something of a
+Faustian bargain, for it comes with a loss of control. Computers prevent us from doing
+things we want. Try getting on a flight if you arrive at the airport and the airline
+computer systems are down, as happened not so long ago to British Airways at Heathrow.
+The planes, pilots, and passengers were all there; even the air-traffic controls were
+working. But no flights for that airline were allowed to take off. Computers also make
+us do things we don’t want—by generating mailing lists and print labels to send us all
+millions of pieces of unwanted mail, which we humans have to sort, deliver, and dispose
+of.
+But you ain’t seen nothing yet. In the past, we programmed computers using
+algorithms we understood at least in principle. So when machines did amazing things
+like beating world chess champion Garry Kasparov, we could say that the victorious
+programs were designed with algorithms based on our own understanding—using, in this
+instance, the experience and advice of top grandmasters. Machines were simply faster at
+doing brute-force calculations, had prodigious amounts of memory, and were not prone to
+errors. One article described Deep Blue’s victory not as that of a computer, which was
+just a dumb machine, but as the victory of hundreds of programmers over Kasparov, a
+single individual.
+That way of programming is changing dramatically. After a long hiatus, the
+power of machine learning has taken off. Much of the change came when programmers,
+rather than trying to anticipate and code for every possible contingency, allowed
+computers to train themselves on data, using deep neural networks based on models of
+how our own brains learn. They use probabilistic methods to “learn” from large
+quantities of data; computers can recognize patterns and come up with conclusions on
+their own. A particularly powerful method is called reinforcement learning, by which the
+computer learns, without prior input, which variables are important and how much to
+128
+weight them to reach a certain goal. This method in some sense mimics how we learn as
+children. The results from these new approaches are amazing.
+Such a deep-learning program was used to teach a computer to play Go, a game
+that only a few years ago was thought to be beyond the reach of AI because it was so
+hard to calculate how well you were doing. It seemed that top Go players relied a great
+deal on intuition and a feel for position, so proficiency was thought to require a
+particularly human kind of intelligence. But the AlphaGo program produced by
+DeepMind, after being trained on thousands of high-level Go games played by humans
+and then millions of games with itself, was able to beat the top human players in short
+order. Even more amazingly, the related AlphaGo Zero program, which learned from
+scratch by playing itself, was stronger than the version trained initially on human games!
+It was as though the humans had been preventing the computer from reaching its true
+potential. The same method has recently been generalized: Starting from scratch, within
+just twenty-four hours, an equivalent AlphaZero chess program was able to beat today’s
+top “conventional” chess programs, which in turn have beaten the best humans.
+Progress has not been restricted to games. Computers are significantly better at
+image and voice recognition and speech synthesis than they used to be. They can detect
+tumors in radiographs earlier than most humans. Medical diagnostics and personalized
+medicine will improve substantially. Transportation by self-driving cars will keep us all
+safer, on average. My grandson may never have to acquire a driver’s license, because
+driving a car will be like riding a horse today—a hobby for the few. Dangerous
+activities, such as mining, and tedious repetitive work will be done by computers.
+Governments will offer better targeted, more personalized and efficient public services.
+AI could revolutionize education by analyzing an individual pupil’s needs and enabling
+customized teaching, so that each student can advance at an optimal rate.
+Along with these huge benefits, of course, will come alarming risks. With the
+vast amounts of personal data, computers will learn more about us than we may know
+about ourselves; the question of who owns data about us will be paramount. Moreover,
+data-based decisions will undoubtedly reflect social biases: Even an allegedly neutral
+intelligent system designed to predict loan risks, say, may conclude that mere
+membership in a particular minority group makes you more likely to default on a loan.
+While this is an obvious example that we could correct, the real danger is that we are not
+always aware of biases in the data and may simply perpetuate them.
+Machine learning may also perpetuate our own biases. When Netflix or Amazon
+tries to tell you what you might want to watch or buy, this is an application of machine
+learning. Currently such suggestions are sometimes laughable, but with time and more
+data they will get increasingly accurate, reinforcing our prejudices and likes and dislikes.
+Will we miss out on the random encounter that might persuade us to change our views by
+exposing us to new and conflicting ideas? Social media, given its influence on elections,
+is a particularly striking illustration of how the divide between people on different sides
+of the political spectrum can be accentuated.
+We may have already reached the stage where most governments are powerless to
+resist the combined clout of a few powerful multinational companies that control us and
+our digital future. The fight between dominant companies today is really a fight for
+control over our data. They will use their enormous influence to prevent regulation of
+data, because their interests lie in unfettered control of it. Moreover, they have the
+129
+financial resources to hire the most talented workers in the field, enhancing their power
+even further. We have been giving away valuable data for the sake of freebies like Gmail
+and Facebook, but as the journalist and author John Lanchester has pointed out in the
+London Review of Books, if it is free, then you are the product. Their real customers are
+the ones who pay them for access to knowledge about us, so that they can persuade us to
+buy their products or otherwise influence us. One way around the monopolistic control
+of data is to split the ownership of data away from firms that use them. Individuals
+would instead own and control access to their personal data (a model that would
+encourage competition, since people would be free to move their data to a company that
+offered better services). Finally, abuse of data is not limited to corporations: In
+totalitarian states, or even nominally democratic ones, governments know things about
+their citizens that Orwell could not have imagined. The use they make of this
+information may not always be transparent or possible to counter.
+The prospect of AI for military purposes is frightening. One can imagine
+intelligent systems being designed to act autonomously based on real-time data and able
+to act faster than the enemy, starting catastrophic wars. Such wars may not necessarily
+be conventional or even nuclear wars. Given how essential computer networks are to
+modern society, it is much more likely that AI wars will be fought in cyberspace. The
+consequences could be just as dire.
+~ ~ ~
+Despite this loss of control, we continue to march inexorably into a world in which AI
+will be everywhere: Individuals won’t be able to resist its convenience and power, and
+corporations and governments won’t be able to resist its competitive advantages. But
+important questions arise about the future of work. Computers have been responsible for
+considerable losses in blue-collar jobs in the last few decades, but until recently many
+white-collar jobs—jobs that “only humans can do”—were thought to be safe. Suddenly
+that no longer appears to be true. Accountants, many legal and medical professionals,
+financial analysts and stockbrokers, travel agents—in fact, a large fraction of white-collar
+jobs—will disappear as a result of sophisticated machine-learning programs. We face a
+future in which factories churn out goods with very few employees and the movement of
+goods is largely automated, as are many services. What’s left for humans to do?
+In 1930—long before the advent of computers, let alone AI—John Maynard
+Keynes wrote, in an essay called “Economic Possibilities for our Grandchildren,” that as
+a result of improvements in productivity, society could produce all its needs with a
+fifteen-hour work week. He also predicted, along with the growth of creative leisure, the
+end of money and wealth as a goal:
+We shall be able to afford to dare to assess the money-motive at its true value.
+The love of money as a possession—as distinguished from the love of money as
+a means to the enjoyments and realities of life—will be recognised for what it is,
+a somewhat disgusting morbidity, one of those semi-criminal, semi-pathological
+propensities which one hands over with a shudder to the specialists in mental
+disease.
+130
+Sadly, Keynes’s predictions did not come true. Although productivity did indeed
+increase, the system—possibly inherent in a market economy—did not result in humans
+working much shorter hours. Rather, what happened is what the anthropologist and
+anarchist David Graeber describes as the growth of “bullshit jobs.” 34 While jobs that
+produce essentials like food, shelter, and goods have been largely automated away, we
+have seen an enormous expansion of sectors like corporate law, academic and health
+administration (as opposed to actual teaching, research, and the practice of medicine),
+“human resources,” and public relations, not to mention new industries like financial
+services and telemarketing and ancillary industries in the so-called gig economy which
+serve those who are too busy doing all that additional work.
+How will societies cope with technology’s increasingly rapid destruction of entire
+professions and throwing large numbers of people out of work? Some argue that this
+concern is based on a false premise, because new jobs spring up that didn’t exist before,
+but as Graeber points out, these new jobs won’t necessarily be rewarding or fulfilling.
+During the first industrial revolution, it took almost a century before most people were
+better off. That revolution was possible only because the government of the time
+ruthlessly favored property rights over labor, and most people (and all women) did not
+have the vote. In today’s democratic societies, it is not clear that the population will
+tolerate such a dramatic upheaval of society based on the promise that “eventually”
+things will get better.
+Even that rosy vision will depend on a radical shake-up of education and lifelong
+learning. The Industrial Revolution did trigger enormous social change of this kind,
+including a shift to universal education. But it will not happen unless we make it happen:
+This is essentially about power, agency, and control. What’s next for, say, the forty-yearold
+taxi driver or truck driver in an era of autonomous vehicles?
+One idea that has been touted is that of a universal basic income, which will allow
+citizens to pursue their interests, retrain for new occupations, and generally be free to live
+a decent life. However, market economies, which are predicated on growing consumer
+demand over all else, may not tolerate this innovation. There is also a feeling among
+many that meaningful work is essential to human dignity and fulfillment. So another
+possibility is that the enormous wealth generated by increased productivity due to
+automation could be redistributed to jobs requiring human labor and creativity in fields
+such as the arts, music, social work, and other worthwhile pursuits. Ultimately, which
+jobs are rewarding or productive and which are “bullshit” is a matter of judgment and
+may vary from society to society, as well as over time.
+~ ~ ~
+So far, I’ve focused on AI’s practical consequences. As a scientist, what bothers me is
+our potential loss of understanding. We are now accumulating data at an incredible rate.
+In my own lab, an experiment generates over a terabyte of data a day. These data are
+massaged, analyzed, and reduced until there is an interpretable result. But in all of this
+data analysis, we believe we know what’s happening. We know what the programs are
+34
+https://strikemag.org/bullshit-jobs/
+131
+doing because we designed the algorithms at their heart. So when our computers
+generate a result, we feel that we intellectually grasp it.
+The new machine-learning programs are different. Having recognized patterns
+via deep neural networks, they come up with conclusions, and we have no idea exactly
+how. When they uncover relationships, we don’t understand it in the same way as if we
+had deduced those relationships ourselves using an underlying theoretical framework. As
+data sets become larger, we won’t be able to analyze them ourselves even with the help
+of computers; rather, we will rely entirely on computers to do the analysis for us. So if
+someone asks us how we know something, we will simply say it is because the machine
+analyzed the data and produced the conclusion.
+One day a computer may well come up with an entirely new result—e.g., a
+mathematical theorem whose proof, or even whose statement, no human can understand.
+That is philosophically different from the way we have been doing science. Or at least
+thought we had; some might argue that we don’t know how our own brains reach
+conclusions either, and that these new methods are a way of mimicking learning by the
+human brain. Nevertheless, I find this potential loss of understanding disturbing.
+Despite the remarkable advances in computing, the hype about AGI—a generalintelligence
+machine that will think like a human and possibly develop consciousness—
+smacks of science fiction to me, partly because we don’t understand the brain at that level
+of detail. Not only do we not understand what consciousness is, we don’t even
+understand a relatively simple problem like how we remember a phone number. In just
+that one question, there are all sorts of things to consider. How do we know it is a
+number? How do we associate it with a person, a name, face, and other characteristics?
+Even such seemingly trivial questions involve everything from high-level cognition and
+memory to how a cell stores information and how neurons interact.
+Moreover, that’s just one task among many that the brain does effortlessly.
+Whereas machines will no doubt do ever more amazing things, they’re unlikely to be a
+replacement for human thought and human creativity and vision. Eric Schmidt, former
+chairman of Google’s parent company, said in a recent interview at the London Science
+Museum that even designing a robot that would clear the table, wash the dishes, and put
+them away was a huge challenge. The calculations involved in figuring out all the
+movements the body has to make to throw a ball accurately or do slalom skiing are
+prodigious. The brain can do all these and also do mathematics and music, and invent
+games like chess and Go, not just play them. We tend to underestimate the complexity
+and creativity of the human brain and how amazingly general it is.
+If AI is to become more humanlike in its abilities, the machine-learning and
+neuroscience communities need to interact closely, something that is happening already.
+Some of today’s greatest exponents of machine learning—such as Geoffrey Hinton,
+Zoubin Ghahramani, and Demis Hassabis—have backgrounds in cognitive neuroscience,
+and their success has been at least in part due to attempts to model brainlike behavior in
+their algorithms. At the same time, neurobiology has also flourished. All sorts of tools
+have been developed to watch which neurons are firing and genetically manipulate them
+and see what’s happening in real time with inputs. Several countries have launched
+moon-shot neuroscience initiatives to see if we can crack the workings of the brain.
+Advances in AI and neuroscience seem to go hand in hand; each field can propel the
+other.
+132
+Many evolutionary scientists, and such philosophers as Daniel Dennett, have
+pointed out that the human brain is the result of billions of years of evolution. 35 Human
+intelligence is not the special characteristic we think it is, but just another survival
+mechanism not unlike our digestive or immune systems, both of which are also
+amazingly complex. Intelligence evolved because it allowed us to make sense of the
+world around us, to plan ahead, and thus cope with all sorts of unexpected things in order
+to survive. However, as Descartes stated, we humans define our very existence by our
+ability to think. So it is not surprising that, in an anthropomorphic way, our fears about
+AI reflect this belief that our intelligence is what makes us special.
+But if we step back and look at life on Earth, we see that we are far from the most
+resilient species. If we’re going to be taken over at some point, it will be by some of
+Earth’s oldest life-forms, like bacteria, which can live anywhere from Antarctica to deepsea
+thermal vents hotter than boiling water, or in acid environments that would melt you
+and me. So when people ask where we’re headed, we need to put the question in a
+broader context. I don’t know what sort of future AI will bring: whether AI will make
+humans subservient or obsolete or will be a useful and welcome enhancement of our
+abilities which will enrich our lives. But I am reasonably certain that computers will
+never be the overlords of bacteria.
+35
+See, for example, Dennett’s From Bacteria to Bach and Back: The Evolution of Minds (New York: W.
+W. Norton, 2017).
+133
+Alex “Sandy” Pentland, an exponent of what he has termed “social physics,” is
+interested in building powerful human-AI ecologies. He is concerned at the same time
+about the potential dangers of decision-making systems in which the data in effect take
+over and human creativity is relegated to the background.
+The advent of Big Data, he believes, has given us the opportunity to reinvent our
+civilization: “We can now begin to actually look at the details of social interaction and
+how those play out, and we’re no longer limited to averages like market indices or
+election results. This is an astounding change. The ability to see the details of the
+market, of political revolutions, and to be able to predict and control them is definitely a
+case of Promethean fire—it could be used for good or for ill. Big Data brings us to
+interesting times.”
+At our group meeting in Washington, Connecticut, he confessed that reading
+Norbert Wiener on the concept of feedback “felt like reading my own thoughts.”
+“After Wiener, people discovered or focused on the fact that there are genuinely
+chaotic systems that are just not predictable,” he said, “but if you look at human
+socioeconomic systems, there is a large percentage of variance you can account for and
+predict. . . . Today there is data from all sorts of digital devices, and from all of our
+transactions. The fact that everything is datafied means you can measure things in real
+time in most aspects of human life—and increasingly in every aspect of human life. The
+fact that we have interesting computers and machine-learning techniques means that you
+can build predictive models of human systems in ways you could never do before.”
+134
+THE HUMAN STRATEGY
+Alex “Sandy” Pentland
+Alex “Sandy” Pentland is Toshiba Professor and professor of media arts and sciences,
+MIT; director of the Human Dynamics and Connection Science labs and the Media Lab
+Entrepreneurship Program, and the author of Social Physics.
+In the last half-century, the idea of AI and intelligent robots has dominated thinking about
+the relationship between humans and computers. In part, this is because it’s easy to tell
+the stories about AI and robots, and in part because of early successes (e.g., theorem
+provers that reproduced most of Whitehead and Russell’s Principia Mathematica) and
+massive military funding. The earlier and broader vision of cybernetics, which
+considered the artificial as part of larger systems of feedback and mutual influence, faded
+from public awareness.
+However, in the intervening years the cybernetics vision has slowly grown and
+quietly taken over—to the point where it is “in the air.” State-of-the-art research in most
+engineering disciplines is now framed as feedback systems that are dynamic and driven
+by energy flows. Even AI is being recast as human/machine “advisor” systems, and the
+military is beginning large-scale funding in this area—something that should perhaps
+worry us more than drones and independent humanoid robots.
+But as science and engineering have adopted a more cybernetics-like stance, it has
+become clear that even the vision of cybernetics is far too small. It was originally
+centered on the embeddedness of the individual actor but not on the emergent properties
+of a network of actors. This is unsurprising, because the mathematics of networks did not
+exist until recently, so a quantitative science of how networks behave was impossible.
+We now know that study of the individual does not produce understanding of the system
+except in certain simple cases. Recent progress in this area was foreshadowed by
+understanding that “chaos,” and later “complexity,” were the typical behavior of systems,
+but we can now go far beyond these statistical understandings.
+We’re beginning to be able to analyze, predict, and even design the emergent
+behavior of complex heterogeneous networks. The cybernetics view of the connected
+individual actor can now be expanded to cover complex systems of connected individuals
+and machines, and the insights we obtain from this broader view are fundamentally
+different from those obtained from the cybernetics view. Thinking about the network is
+analogous to thinking about entire ecosystems. How would you guide ecosystems to
+grow in a good direction? What do you even mean by “a good direction”? Questions
+like this are beyond the boundary of traditional cybernetic thinking.
+Perhaps the most stunning realization is that humans are already beginning to use
+AI and machine learning to guide entire ecosystems, including ecosystems of people, thus
+creating human-AI ecologies. Now that everything is becoming “datafied,” we can
+measure most aspects of human life and, increasingly, aspects of all life. This, together
+with new, powerful machine-learning techniques, means that we can build models of
+these ecologies in ways we couldn’t before. Well-known examples are weather- and
+traffic-prediction models, which are being extended to predict the global climate and plan
+city growth and renewal. AI-aided engineering of the ecologies is already here.
+135
+Development of human-AI ecosystems is perhaps inevitable for a social species
+such as ourselves. We became social early in our evolution, millions of years ago. We
+began exchanging information with one another to stay alive, to increase our fitness. We
+developed writing to share abstract and complex ideas, and most recently we’ve
+developed computers to enhance our communication abilities. Now we’re developing AI
+and machine-learning models of ecosystems and sharing the predictions of those models
+to jointly shape our world through new laws and international agreements.
+We live in an unprecedented historic moment, in which the availability of vast
+amounts of human behavioral data and advances in machine learning enable us to tackle
+complex social problems through algorithmic decision making. The opportunities for
+such a human-AI ecology to have positive social impact through fairer and more
+transparent decisions are obvious. But there are also risks of a “tyranny of algorithms,”
+where unelected data experts are running the world. The choices we make now are
+perhaps even more momentous than those we faced in the 1950s, when AI and
+cybernetics were created. The issues look similar, but they’re not. We have moved down
+the road, and now the scope is larger. It’s not just AI robots versus individuals. It’s AI
+guiding entire ecologies.
+~ ~ ~
+How can we make a good human-artificial ecosystem, something that’s not a machine
+society but a cyberculture in which we can all live as humans—a culture with a human
+feel to it? We don’t want to think small—for example, to talk only of robots and selfdriving
+cars. We want this to be a global ecology. Think Skynet-size. But how would
+you make Skynet something that’s about the human fabric?
+The first thing to ask is: What’s the magic that makes the current AI work?
+Where is it wrong and where is it right?
+The good magic is that it has something called the credit-assignment function.
+What that lets you do is take “stupid neurons”—little linear functions—and figure out, in
+a big network, which ones are doing the work and strengthen them. It’s a way of taking a
+random bunch of switches all hooked together in a network and making them smart by
+giving them feedback about what works and what doesn’t. This sounds simple, but
+there’s some complicated math around it. That’s the magic that makes current AI work.
+The bad part of it is, because those little neurons are stupid, the things they learn
+don’t generalize very well. If an AI sees something it hasn’t seen before, or if the world
+changes a little bit, the AI is likely to make a horrible mistake. It has absolutely no sense
+of context. In some ways, it’s as far from Norbert Wiener’s original notion of
+cybernetics as you can get, because it isn’t contextualized; it’s a little idiot savant.
+But imagine that you took away those limitations: Imagine that instead of using
+dumb neurons, you used neurons in which real-world knowledge was embedded. Maybe
+instead of linear neurons, you used neurons that were functions in physics, and then you
+tried to fit physics data. Or maybe you put in a lot of knowledge about humans and how
+they interact with one another—the statistics and characteristics of humans.
+When you add this background knowledge and surround it with a good creditassignment
+function, then you can take observational data and use the credit-assignment
+function to reinforce the functions that are producing good answers. The result is an AI
+that works extremely well and can generalize. For instance, in solving physical
+136
+problems, it often takes only a couple of noisy data points to get something that’s a
+beautiful description of a phenomenon, because you’re putting in knowledge about how
+physics works. That’s in huge contrast to normal AI, which requires millions of training
+examples and is very sensitive to noise. By adding the appropriate background
+knowledge, you get much more intelligence.
+Similar to the physical-systems case, if we make neurons that know a lot about
+how humans learn from each other, then we can detect human fads and predict human
+behavior trends in surprisingly accurate and efficient ways. This “social physics” works
+because human behavior is determined as much by the patterns of our culture as by
+rational, individual thinking. These patterns can be described mathematically and
+employed to make accurate predictions.
+This idea of a credit-assignment function reinforcing connections between
+neurons that are doing the best work is the core of current AI. If you make those little
+neurons smarter, the AI gets smarter. So, what would happen if we replaced the neurons
+with people? People have lots of capabilities. They know lots of things about the world;
+they can perceive things in a broadly competent, human way. What would happen if you
+had a network of people in which you could reinforce the connections that were helping
+and minimize the connections that weren’t?
+That begins to sound like a society, or a company. We all live in a human social
+network. We’re reinforced for doing things that seem to help everybody and discouraged
+from doing things that are not appreciated. Culture is the result of this sort of human AI
+as applied to human problems; it is the process of building social structures by
+reinforcing the good connections and penalizing the bad. Once you’ve realized you can
+take this general AI framework and create a human AI, the question becomes, What’s the
+right way to do that? Is it a safe idea? Is it completely crazy?
+My students and I are looking at how people make decisions, on huge databases
+of financial decisions, business decisions, and many other sorts of decisions. What we’ve
+found is that humans often make decisions in a way that mimics AI credit-assignment
+algorithms and works to make the community smarter. A particularly interesting feature
+of this work is that it addresses a classic problem in evolution known as the groupselection
+problem. The core of this problem is: How can we select for culture in
+evolution, when it’s the individuals that reproduce? What you need is something that
+selects for the best cultures and the best groups but also selects for the best individuals,
+because they’re the units that transmit the genes.
+When you frame the question this way and go through the mathematical literature,
+you discover that there’s one generally best way to do this. It’s called “distributed
+Thompson sampling,” a mathematical algorithm used in choosing, out of a set of possible
+actions with unknown payoffs, the action that maximizes the expected reward in respect
+to the actions. The key is social sampling, a way of combining evidence, of exploring
+and exploiting at the same time. It has the unusual property of simultaneously being the
+best strategy both for the individual and for the group. If you use the group as the basis
+of selection, and then the group either gets wiped out or reinforced, you’re also selecting
+for successful individuals. If you select for individuals, and each individual does what’s
+good for him or her, then that’s automatically the best thing for the group. It’s an
+amazing alignment of interests and utilities, and it provides real insight into the question
+of how culture fits into natural selection.
+137
+Social sampling, very simply, is looking around you at the actions of people who
+are like you, finding what’s popular, and then copying it if it seems like a good idea to
+you. Idea propagation has this popularity function driving it, but individual adoption also
+is about figuring out how the idea works for the individual—a reflective attitude. When
+you combine social sampling and personal judgment, you get superior decision making.
+That’s amazing, because now we have a mathematical recipe for doing with humans what

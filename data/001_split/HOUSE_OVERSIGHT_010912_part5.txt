@@ -1,0 +1,1222 @@
+Chapter 9: So What ‘s New? 3/17/16 1
+The advantage of the simultaneous rates test over the standard lagged flows one is
+great. It avoids both lags, meaning the intended one to allow more capital to show
+its effect in more output, and the unintended one in the inherent unresponsiveness
+of accounts to market effects on capital already booked, while also gaining from the
+superiority of market measures of capital growth over book ones even when lags
+end. The method itself is no surprise because the math is high school algebra. The
+shock is in what it reveals. Solow and Denison were righter than they knew. There is
+no such thing as capital accumulation at the collective scale.
+Risk theory is probably both marginal novelty and marginal surprise. The part that
+might be new, although obvious in retrospect, is that assets take on the risk
+characteristics of their owners. We knew all along that people buy assets to fit their
+own risk profiles. There may be novelty in my idea that it works the same in the
+opposite direction. Assets once acquired are modified to fit those profiles better. A
+family home bought by a drug dealer might become a crack house bringing higher
+expected return at higher risk of confiscation by authorities.
+The next step was to connect risk profiles with age and gender. It seems well
+established that risk tolerance peaks in the teens and twenties, particularly in males.
+It drops steadily afterward for both sexes. R. A. Fisher in 1930, and Bob Trivers in
+1972, suggested why. Males, in humans, produce thousands of cheap sperm.
+Females produce eggs, which are few and expensive because they are packed with
+nutrients. Young males might end up leaving dozens of offspring or none. Nature
+arranges competition to determine which. Females are reasonably sure to leave a
+few. They have less to compete about. As both sexes get past their 20s, their
+remaining reproductive chances grow fewer and competitive ranking clearer. There
+is less to compete about. Risk tolerance grades steadily down with age, and capital
+owned reflects the change with lower risk and return. This gives the basic theme.
+The next key information was that human capital is owned disproportionately by
+the young. We own little else until independence at age 20 or so. Physical capital
+Chapter 9: So What ‘s New? 3/17/16 2
+builds from then on, and peaks near retirement. But human capital grows quickly in
+the 20s and thirties too, as most human and other depreciation is concentrated
+toward the end. These are persuasive reasons to think that human capital is the
+riskier and higher-return factor overall.
+The argument becomes complicated in that most investment in us before
+independence comes from parents rather than from self-invested work. Parents
+have a a strong say in what risks children run, so that parental risk tolerance
+governs too. But it governs most in pre-teen years, when parents themselves are
+passing through their own risk tolerance peaks. And human capital is probably the
+most versatile of assets in adjustment to our tastes for risk at the time. Cops can
+become robbers at will, and robbers can get religion.
+We should not slip into the error of concluding that an individual’s human capital is
+riskier than her physical capital at the same time. Both adjust to her current risk
+profile alike. That’s why the parable of the boss and her secretary falsifies the notion
+that pay compensates realized work and nothing else. That would make return of
+each in her human capital a little over 100% per day at the start of the last day, and
+100% per second at the start of the last second, even while their security portfolios
+reveal their time preference rates as a few percent per year. Human capital is not
+inherently risker, as hand grenades than nerf balls. Each cohort adapts all its wealth
+of both factors, counting balanced security portfolios as single assets, to its single
+characteristic risk profile. There may be novelty, but not much surprise, in this
+projection of the owner onto the asset rather than conversely.
+That parable helped confirm the pay rule and explain age-wage profiles. It brought
+another surprise along the way. I grew up being told that houses are safe
+investments. But in fact they are owned by about the same age group and gender
+mix that owns the business sector. The publicly traded corporate sector is a part of
+the business sector that has given up return for safety by providing instant liquidity
+to shareholders. The notion that houses are safe took a punch in the gut in 2008. The
+Chapter 9: So What ‘s New? 3/17/16 3
+notion that they ever were rests pretty much on evidence bolstered by government
+subsidies such as FHA and FNMA and FMAC which began before I was born. As it is, I
+don’t see enough evidence either way to assert whether houses or the publicly
+traded corporate sector, cap-weighting its stock and bonds, should be risker. But
+even that uncertainly is a surprise in view of what we all were taught.
+Depreciation theory is one of my favorites. It doesn’t upset the applecart as much as
+the pay rule does, because little economic theory depends on it. I love it because it
+reverses tradition precisely. National accounts model depreciation as declining
+exponentially. I model it as rising exponentially. It’s the same equation with a plus
+sign in place of a minus sign. I love its obviousness once we think about it. It follows
+when we remember the present value rule. Once we do, evidence for both factors
+makes more sense. Depreciation theory rounds out the pay rule in explaining how
+pay can rise or hold steady to the very end. And we see the same in businesses.
+Gross realized profit, analogous to pay, does not tend to decline as firms approach a
+date with the wrecking ball. My impression has been that rents go down when
+properties aren’t kept up or locations become unfashionable, but not with age in
+itself. When it’s time to demolish and rebuild, premises are more typically vacated
+with trade still running at norms. Gross realized profit is inevitably all depreciation
+on the last day, and would approach zero steadily if tradition were right.
+There may have been minor novelty in my derivation of my three fundamental
+theorems as at least subjective certitudes following from definitions, and in my idea
+itself of subjective as distinct from empirical certitude. A subjective certitude is one
+such that contrary evidence would falsify the convergence axioms. I have found little
+or no empirical certitude past the cogito. I concede that the idea of subjective
+certitude is impertinent. How dare we infer what people must think?
+We dare when we infer from definitions. I began with the somewhat unusual
+definition of capital (value) as perceived means of foreseen taste satisfactions. The
+usual “means of production” is equally valid, but less suited to my purpose here. I
+Chapter 9: So What ‘s New? 3/17/16 4
+then pictured a future instant’s worth of expected satisfaction. Its perceived value at
+that future moment would give its perceived value now save for differences
+explained by the time gap between. I adopted the old terms time preference or time
+discount rate to account for whatever they might be. There was no assumption as to
+whether the rate should prove positive or negative or zero, nor that the same rate
+should apply to other future instants. My goal was to leave not even the farthestfetched
+of loopholes. If I have succeeded, the present value rule followed as
+subjective certitude giving exact expectations, though not outcomes, for each future
+instant and thus for all together. Note that my depreciation theory follows, but with
+the caveat that the version I have shown adds the usual assumption that time
+preference is positive. That part is not certitude, although neither are we likely to
+doubt it.
+It was not hard to derive the maximand rule as the next step. Once we define tastes
+or more generally aims as whatever behavior reveals, the rest follows quickly.
+(Remember that I have no problem with mutually circular definitions.)
+There were probably a few heuristic novelties. The parable of the boss and her
+secretary might itself be new. So might the slave paradox with its parable of Phil and
+Bill. Many including Adam Smith have pointed out economic inefficiencies in slavery,
+moral criticism aside. I can’t recall mention of this most obvious one. Bill’s
+maintenance consumption was taste-satisfying cash flow to Bill, and capitalized in
+his present value to himself. It is pure expense to Phil once Bill is enslaved. If all but
+one of us were enslaved by the one left, national output would drop by substantially
+all maintenance consumption on the books of the one slaveowner.
+There may also be minor novelty in my analogy between accounting for the firm and
+accounting for human capital in Chapter 6. One possible example is my use of the
+term “decapitalization” to include depletion and liquidation in sale as well as
+depreciation. It simplifies to depreciation in the case of human capital because that
+factor cannot be alienated in reinvestment or gift or sale. One inference was that
+Chapter 9: So What ‘s New? 3/17/16 5
+deadweight loss, negative output, negative realized output and unrecovered
+decapitalization all mean the same. This is obvious enough, but may have been left
+implicit before.
+Chapter 9: So What ‘s New? 3/17/16 6
+CHAPTER 10: THREE PANTHEONS
+A few weeks ago I was being interviewed about my opera “Usher House”. How
+would I like to be remembered? With a straight face, I said I would like to be thought
+the best composer since Mahler, the best poet since Masefield, and the best
+economist since John Stuart Mill. The interviewer looked startled. Was she talking
+instead to the successor of Don Quixote, Emperor Norton and Walter Mitty?
+Probably. But not to worry. Fantasies are good things. They don’t become delusions
+until we start believing them. What I believe is that at least dozens of composers
+have the knack. There must be hundreds, considering the terrific film scores
+attributed to names new to me when I hang on for the credits. Each of us, very much
+including film composers, gives the world what we think it needs. We like to be
+appreciated, but we don’t give a fig what it wants. We won’t always agree on what it
+needs. We’ll defend to the death the other guy’s right to his message. But we prefer
+our own. That’s what my answer meant. We’re each the best. But I do have the
+temerity to limit the list to those few dozens or hundreds.
+Someone might also be surprised at my choice of benchmarks in verse and
+economics. Masefield and Mill? A consensus might have picked T. S. Elliot, say, and
+Lord Keynes. Masefield and Mill are likelier to be remembered as old-fashioned
+fuddy-duddies already outmoded when they wrote. But that’s me. I am Don Quixote.
+Not a single idol in my pantheons in those three fields was born after 1900, although
+that could change in economics.
+My pantheon in music is Bach, Beethoven, Schubert, Wagner and Mahler. Mahler,
+the last-born, died in 1911 at 51. What about Mozart? Clearly colossal. Listen to the
+slow movements of almost any of his piano concertos. Childlike simplicity, then a
+slight surprise, then another, and all at once we are on a trip through the stars. But
+my top five show us more. Mozart is too darned enigmatic. He is too darned coy. He
+is too darned third-personal. And I like breaking a sweat. Mozart is uniquely the
+Chapter 10: Three Pantheons 2/10/16 1
+greatest at what he does within the bounds he chooses to set. But I like answers as
+well as questions. The five in my pantheon give me those.
+Mozart is unrivalled at what he does because no one else plays the same game. What
+other composer has put such a premium on delicacy, on poise, on self-effacement?
+That doesn’t deny that he was a red-blooded mensch who loved hijinks and good
+times as much as the rest of us. His Rondo alla Turca is one of many masterpieces
+showing that side. But it only rounds out the impression of a flawless dinner
+companion. A maxim of classicism in the Greek spirit is “nothing in excess”. Mozart’s
+exuberance and hijinks were just the right amount.
+He was the master of moderation. His operas put passion mostly in the mouths of
+clowns and villains such as Papageno and Osmin and Queen of the Night. His
+sympathetic sorts have feelings too, but keep them circumspect. The perfect
+companion cares first about our feelings, not his. Mozart remains that even on our
+journeys together through the stars. We are kept safely away from the heat. We are
+allowed to feel anxiety because the world is so far below. That was half the point of
+the trip. The other half is the happy ending as he leads us safely home. Anxiety, but
+not in excess.
+That shows him as the master of levitation. Richard Strauss gives the example of
+Susanna’s aria “Voi che sapete” (you who know) from Figaro, an innocent ditty
+which somehow never lands on the tonic (home note) until the end. The beginning
+of Eine Kleine Nachtmusik (a little night music) does this again. But the slow
+movements of his piano concertos show it best.
+Mozart is not my pantheon, even so. He is moderation in excess. I like the game the
+others all play. I like a sense of the first person singular. The five in my pantheon
+also take us through the stars. But they take us closer. We feel the heat because they
+do. Listen to Bach’s chaconne for solo violin, or passacaglia and fugue for organ.
+Listen to the heilige dankgesang (holy song of thanksgiving) from Beethoven’s
+Chapter 10: Three Pantheons 2/10/16 2
+quartet opus 132. Listen to the slow movement of Schubert’s two-cello quintet opus
+163. Listen to Wagner’s liebestod (love death) from Tristan, or Mahler’s adagietto
+from his fifth symphony. This music plays for keeps.
+The polar opposite to Mozart would be Verdi. Like Mozart, he is not in my pantheon
+but close. For Verdi, no passion is too much. He is the master of contrast. He shakes
+our emotions back and forth as a dog shakes a rat. Lull and storm are each given
+enough time to pack the most punch in the other. He wants only opposites and
+extremes. What would the fastidious Franz Joseph have thought? He would have
+called the guard.
+Somewhere between Apollo and Dionysus, between relativism and frenzy, lies the
+true path. The five in my pantheon have found it.
+I seldom call myself a poet, since that’s already a tad vainglorious. For better or
+verse, I’m a Jack of that trade too. The true poets in my pantheon begin with Keats
+and Masefield. I haven’t found a clear choice for third. There are awesome things in
+Milton, Blake, Coleridge, Tennyson, Emily, Houseman, Robinson, Dowson, Yeats and
+others.
+Shakespeare, like Mozart, doesn’t figure in the center of the picture. I take him as the
+greatest mind and soul yet known, the greatest playwright, the greatest writer in
+general, and all of these because he taps to the bottom of what poetry can be. “Who
+is this whose grief/ Conjures the wandering stars, and makes them stand/ Like
+wonder-wounded hearers? It is I, /Hamlet the Dane”. Holy mackerel! But these are
+touches in his plays. Poetry, in his time, meant something too coiffed and pretty and
+mannered for my taste. You can take Venus and Adonis, the Rape of Lucrece, and
+the sonnets. That includes the petulant dark lady sonnets, which break the model of
+preciousness but find nothing better. Shakespeare simply came along too early. I
+credit Milton, in “Lycidas”, for discovering the true vein a few decades later.
+Chapter 10: Three Pantheons 2/10/16 3
+That leaves economics. Here I really have a one-man pantheon in Sir William Petty. I
+suppose that I am the only person to have looked at his portrait alongside Isaac
+Newton’s, in the Royal Society which they co-founded, and seen the two as
+intellectual equals. Mill seems a clear second, thanks to his superb paragraph on
+growth. The candidates for third seem well behind. Maybe Jevons or John Rae or
+Leon Walras. Time has not been kind to the teachings of Keynes. I would now rank
+his teacher Alfred Marshall higher. I like Myrdal’s magnificent ex ante – ex post
+distinction. Boehm Bawerk and the Austrian school are underrated. The pantheon
+might have room for him.
+Am I being too tough on later economists? We should not forget Schultz and Ben-
+Porath. Schultz’ greatest achievement, unless Mincer beat him, was in spotlighting
+human depreciation. That left me to ask where this huge flow goes. The answer
+becomes inescapable once we focus on the question. It gives the obvious solution to
+the age-wage problem. Everything in this book is obvious. Some of it, like that
+solution, is the obvious but unnoticed.
+Somebody, sooner or later, breaks the news about the emperor’s new clothes. You’d
+think Don Quixote would be the last to pipe up. No one in the world was more
+devoted to tradition and beautiful creatures of the mind. But it takes a fool. He was
+that, and so am I. Der reine tor. There have to be a few of us always. We’ll get a few
+windmills before they they get us.
+Chapter 10: Three Pantheons 2/10/16 4
+APPENDIX A: The Argument in Notation
+Output and Cash Flow
+My focus will be on absolute rather than per capita values. The usual custom gives
+capital letters for the former and lower-case ones for the latter. I will prefer the
+upper case for stocks and flows, and the lower one for rates. That need not hold true
+for Greek letters.
+The total return truism can be notated
+Y = !K T
++F ,
+(A1.1)
+where Y is output, K T
+is total capital and F is cash flow. Also
+F = τ +C P
+and τ = τ +
+−τ −
+, (A1.2)
+where τ (tau) is net transfer, τ +
+is transfer out, τ −
+is transfer in and C P
+is pure
+consumption (exhaust in taste satisfaction). Cash flow is the net of positive less
+negative components. I define them by
+F +
+= τ +
++C p
+, F −
+= τ −
+and F = F +
+−F −
+. (A1.2a)
+At the collective scale, where transfers cancel internally, these equations combine
+for
+Y = !K T
++C p
+and F = F +
+= C p
+. (A1.3)
+Math reminds us continually that “equals” does not necessarily mean “is”. (A1.1) and
+(A1.3), for example, do not mean that output is growth plus cash flow or growth plus
+APPENDIX A: The Argument in Notation 3/7/16 1
+pure consumption. Why? Output in itself means creation of economic value.
+Mathematically, that could include what I called “output exhaust”, meaning value
+exhausted as soon as created. I ruled that out as “free goods”, which happen every
+day but are neglected in economics as unable to influence behavior either before or
+after. That’s why “equals” cannot mean “is” in (A1.3). And neither does it in (A1.5).
+Rather both state that output provides cash flow offset plus total capital growth.
+This distinction helps everywhere in economics. We know for example that transfer
+out may be drawn either from capital in place or from concurrent output. The
+source of first kind is decaptialization D. But decaptialization also includes other
+components than transfer out. In Chapter 3, and again just now, I excluded output
+exhaust as free goods possible in math but neglected in economics. That makes
+decapitalization D the only source of pure consumption C P
+. And not all
+decapitalization is transfer or exhaust. Some is deadweight loss, defined in (A1.1) as
+any negative sum of capital growth !K T
+and cash flow F. That can show in
+D= D ρ
++D λ
+and D ρ
+= D τ
++C P
+. (A1.4)
+Here D ρ
+is recovered or realized decapitalization, D τ
+is “transfer depreciation” net
+of plowback into the same asset, and D λ
+is deadweight loss. λ is lambda. At the
+collective scale, where transfers cancel internally, (A1.4) becomes
+D ρ
+= C p
+.
+(A1.4a)
+The dispositions of transfer out may be reinvestment in other assets of the same
+owner, or may be gift to donees. Reinvestment can be interfactor as shown in
+Chapter 5. Transfer out from total capital of any individual, net of internal transfers,
+APPENDIX A: The Argument in Notation 3/7/16 2
+simplifies to gift. Transfer in gained by the owner’s total capital, net of the same
+internal transfers, is gift received. The math becomes
+τ +
+= γ +
+, γ = γ +
+−γ −
+, F +
+= γ +
++C p
+, F −
+= γ −
+and F = γ +C p
+(A1.5)
+at the scale of each individual’s total capital as a whole. Here γ (gamma) is net gift,
+γ +
+is gift and γ −
+is gift received.
+Divide (A1.1) by K T
+to find
+Y
+K T
+= ! K T
+K T
++ F K T
+. (A1.6)
+Define these three terms as productivity or rate of return r, total capital growth rate
+g and cash flow rate f. Then (A1.6) can be reexpressed as
+r = g + f .
+(A1.6a)
+(A1.3) combines with (A1.6) to show
+Y
+K T
+= ! K T
+K T
++ C p
+K T
+, at the collective scale. (A1.7)
+Define “pure consumption rate” c p
+as C p
+/K T
+, and substitute to show
+r = g + c p
+, at the collective scale. (A1.7a)
+APPENDIX A: The Argument in Notation 3/7/16 3
+(A1.1), (A1.6), (A1.7) and (A1.8) are alternative statements of the total return
+truism.
+In general, define g(Q)= !Q /Q for any variable Q. Note again that g in this book
+means growth rate of capital g(K T
+) rather than output. g in macro tradition usually
+means growth of output g(Y) . Total capital K
+T
+is the sum of human capital H and
+physical capital K. Their outputs respectively are work W and (net) profit P. Their
+counterparts to (A1.1) and (A1.6a) are
+W = !H+F(H) , r(H)= g(H)+ f(H) , P = !K +F(K) and r(K)= g(K)+ f(K) , (A1.8)
+where F(H), f(H), F(K) and f(K) are respectively “human cash flow”, “human cash
+flow rate”, “physical cash flow” and “physical cash flow rate”.
+Present Value and Present Cost
+If there were no such thing as time preference, present and future value would be
+the same. All economists known to me concede that we prefer present goods to
+future ones, although some like Joseph Schumpter have seen no good reason why. I
+suggest a reason in next generation theory.
+Present value theory, understood in essence by the Sumerians, considers what we
+now call future positive cash flows which are expected to be generated from
+external investments (transfer in, negative cash flow) made now or earlier. At the
+differential (infinitesimal) scale, we can write the associated future value as
+dFV(z)= F +
+(z)dz (2.1)
+at future moment z. The basic idea of present value PV is
+APPENDIX A: The Argument in Notation 3/7/16 4
+dPV(x)= F +
+(z)e −q(z−x) dz , (2.2)
+where q is the appropriate time discount rate.
+Note the implication
+F +
+(z)dz = dPV(x)e q(z−x) , (2.3)
+showing that q is the growth rate that raises the value of dPV(x) to F +
+(z)dz over
+period z− x . Since this differential component of asset value defers all positive cash
+flow until moment z , and cannot in itself be affected by later transfers in, q
+simplifies by (A1.6a) to rate of return. This was Boehm Bawerk’s insight, although
+he was not mathematical, in equating time preference rate to rate of return r. Thus
+(2.2) and (2.3) give
+dPV(x)dx = F +
+(z)e −r(z−x) dz and F +
+(z)dz = dPV(x)e r(z−x) , (A2.4)
+where r is the appropriate rate of return and time discount rate equivalently.
+But what determines appropriate r in these equations? Rate of return varies with
+risk among different assets at the same time, and varies over time with economic
+circumstances. Most sources I have seen treat r in (A2.4) as a variable to be
+integrated over (x, z). I myself long believed the same.
+My view now looks to the context. The asset as a whole will typically have received
+many differential investments before time x, and may receive many after. Each at
+inception will have been priced by the owner’s time preference rate then. But my
+theme in risk theory is that assets can be traded or modified to the current owner’s
+APPENDIX A: The Argument in Notation 3/7/16 5
+risk tolerance now. She discounts each expected future flow not by her foreseen
+time preference rate then, but by her time preference rate today. It seems to me that
+the appropriate discount rate r in (A2.4) is r(x). She will provide for anticipated
+changes in her time preference rate by factoring costs of trading the asset if
+tradeable, or modifying it if modifiable, into her evaluations of future value F +
+(z)dz ,
+and so from present value too. I consequently interpret (A2.4) to mean
+dPV(x)= F +
+(z)e −r(x)(z−x) dz and F +
+(z)dz = dPV(x)e r(x)(z−x) . (A2.5)
+The value of the whole asset V(x) at time x will be the sum or integral of present
+values of all foreseen cash flows both negative and positive over (x, ω ), where ω
+(omega) is the foreseen end point of flows. ω may be infinity ∞ . Thus
+ω
+V(x)= PV(x)= ∫ F(z)e −r(x)(z−x) dz , x <= z <= ω . (A2.6)
+x
+The terms value and total capital are interchangeable, as are their notations V and
+K T
+.
+Present cost PC(x) evaluates V(x) as the sum or integral of earlier negative cash
+flows compounded at rate r since moment of investment u, and not yet
+decapitalized in positive cash flow. The counterpart to (A2.1) becomes
+dIC(u)= F −
+(u)du and dPC(x)= dV(x)= dPV(x) , (A2.7)
+where IC is what I call “investment cost”. The counterparts to (A2.2) and (A2.3) are
+dV(x)= F −
+(u)e q(x−u) du and F −
+(u)du = dV(x)e −q(x−u) . (A2.8)
+APPENDIX A: The Argument in Notation 3/7/16 6
+q here equals some appropriate r by the same logic as before. Here again, we
+usually read interpretations of (A2.8) which treat the appropriate r as an integral
+of time preference or equivalently productivity rates over the interim (u,x). I
+however see dV(x) as determined by current rate r(x) whether derived by present
+cost or present value methods. If the original investor remains the current owner,
+and now finds her time preference rate different, she will have factored asset
+modification costs into her original decision to bid or invest. If not, she will have
+traded to someone whose time preference rate is better suited. My counterparts to
+(A2.1) and (A2.6) become
+dV(x)= dPC(x)= F −
+(u)e r(x)(x−u) dx and F −
+(u)du = dV(x)e −r(x)(x−u) (A2.9)
+and
+x
+V(x)= PC(x)= ∫ F(u)e r(x)(x−u) du . (A2.10)
+0
+These equations seem the most straightforward reconciliation of the maximand rule,
+the convergence axioms and the evidence supporting risk theory. They describe
+individual assets over time, sometimes passing from one owner to another, rather
+than a given owner’s total portfolio. We maximize return within current risk
+tolerance, recognize that it will change, and deduct present value of expected
+trading or asset modification costs from future value of flows while adding them to
+original value. This seems true to life. It allows discounting all expected positive
+flows over (x, z), and compounding all past negative ones over (0, x), at a single rate
+r(x) because of those adjustments to value or cost of flows. Tradition treats the
+flows as fixed givens, and the discount rate as a function of interim time between x
+and z or between 0 and x.
+APPENDIX A: The Argument in Notation 3/7/16 7
+My interpretation that the time discount rate/rate of return we naturally apply in
+evaluating both present cost and present value is our time preference rate now,
+rather than some retrospective or prospective average, might seem counterintuitive.
+I propose it, even so, as the “time discount rule”.
+Analogy to the Firm
+I follow convention by treating all transfer out as compensated by actual or imputed
+revenue. The part exhausted in taste satisfaction gets imputed revenue paid by the
+consumer satisfied. Not all revenue compensates transfer out, as revenue is usually
+defined as sales proceeds against which prior outside claims must be satisfied first.
+These are typically for labor and supplies in the case of the firm. Chapter 6 gave the
+logic in word equations. It begins with
+ρ − ρ c
+= ρ e
+,
+(A3.1)
+where ρ is revenue, ρ c
+is prior claims and ρ e
+is “earned revenue” as a residual.
+Earned revenue, also called gross realized output, is thus remaining share of overall
+revenue earned by the firm or other entity that performed the sales, collected the
+proceeds, and paid the outside claims on them.
+What the the firm or other contributor gives up to earn the earned revenue is the
+sum of its realized output Y ρ
+and its recovered decapitalization D ρ
+. Remember
+from (A1.4) that D ρ
+includes any pure consumption realized by the owner of the
+source asset, although that could not apply where the owner is taken as a firm. The
+sum of Y ρ
+and D ρ
+gives its gross realized output. Then
+Y ρ
+gross = ρ e
+= Y ρ
++ D ρ
+,
+(A3.2)
+where Y ρ
+gross is gross realized output. In Chapter 6, I also called Y ρ
+gross or ρ e
+“gross positive cash flow”. All mean the same. I will usually leave out the notation
+APPENDIX A: The Argument in Notation 3/7/16 8
+ρ e
+from now on, and refer to gross realized output Y ρ
+gross alone.
+Positive cash flow is that less plowback from revenue. This can be notated
+F +
+= Y ρ
+gross − ρ pb
+= Y ρ
++ D ρ
+− ρ pb
+,
+(A3.3)
+where ρ pb
+is plowback. Negative cash flow is transfer in, notatedτ −
+. Thus
+F −
+= τ −
+and F = F +
+− F −
+= Y ρ
++ D ρ
+− ρ pb
+− τ −
+.
+(A3.4)
+Cash flow F is the difference
+F = F +
+−F −
+= Y ρ
++D ρ
+− ρ pl
+−τ −
+.
+(A3.5)
+Gross output is gross realized output plus unrealized (or proprietary or selfinvested)
+output. This can show as
+Y gross
+= Y ρ
+gross + Y s
+= Y ρ
++D ρ
++ Y s
+.
+(A3.6)
+Think of the subscript s as meaning saved or self-invested. As all output is either
+realized or unrealized, we have
+Y = Y s
++ Y ρ
+.
+The terms saved, self-invested, unrealized and proprietary will be taken as
+interchangeable.
+APPENDIX A: The Argument in Notation 3/7/16 9
+(A3.6) combines with (A1.4) and (A1.5) to arrive at
+γ +
+= F +
+= Y ρ
+gross − ρ pl
+(A3.7)
+at the scale of the total capital of the individual or any set of individuals. This fact
+will prove helpful in adjusting the Ben-Porath model and in next generation theory.
+It should be borne in mind that transfer out and transfer in are both implicitly
+defined as net of plowback in the first place. Thus it would be wrong to suppose that
+negative cash flow is transfer in less plowback from revenue. That mistake would
+deduct plowback twice.
+The Growth Truism
+Growth of any asset of either factor is capitalization from outside plus capitalization
+from inside less decapitalization. This difference can also be called net capitalization.
+Capitalization from outside is simply transfer in τ −
+. What are the other two?
+Our first intuition would be that capitalization from inside is identical to unrealized
+output. Here we must be careful. Output is negative wherever the sum of growth
+(net capitalization) and cash flow falls below zero. This “deadweight loss” is
+implicitly uncovered decapitalization, meaning not recovered in cash flow. To
+subtract all including unrecovered decapitalization from the sum of transfer in and
+unrealized output would therefore subtract the unrecovered part twice.
+To make this clear, define positive and negative output by
+Y ( > 0) = max( Y,0) and Y ( < 0) = max( −Y,0) = λ ,
+APPENDIX A: The Argument in Notation 3/7/16 10
+where λ (lambda) is deadweight loss. Meanwhile negative output belongs in the
+unrealized component of output Y s
+as with all effects on net capitalization not
+explained by transfer in or plowback from revenue. It is the random negative
+component in free growth. Then define positive and negative output and realized
+output more fully by
+and
+Y s ( > 0) = max( Y s
+,0) , Y s ( < 0) = max( −Y s
+,0) = λ , Y s
+= Y s ( > 0) − λ , (A4.1)
+Y(> 0)= max(Y,0) , Y(< 0)= max(−Y,0)= λ and Y = Y(> 0)− λ . (A4.2)
+There is also indirect capitalization from inside in the form of plowback from
+revenue. The growth truism sums these inflows less outflows as
+!K T
+= τ −
++ Y s
+(> 0)+ ρ pl
+−D=τ −
++ Y s
++ ρ pl
+−D ρ
+, (A4.3)
+recalling that D ρ
+shows recovered (realized) decapitalization.
+At the scale of the total capital of any individual or set of them, (A1.5) and (A4.3)
+give
+!K T
+= γ −
++ Y s
++ ρ pl
+−C p
+. (A4.4)
+Human Cash Flow
+Although I can’t recall seeing the term “human cash flow” in any papers or textbooks
+of others, tradition defines the flow discounted to human capital as pay less Schultz’
+“pure investment”. The flow so discounted is implicitly cash flow. I rename pure
+investment “invested consumption,” and write the traditional view as
+APPENDIX A: The Argument in Notation 3/7/16 11
+F H
+= π −C s
+,
+(A5.1)
+where F H
+is human cash flow, π (pi) is pay, and C s
+is invested consumption. The
+subscript s, as usual, means saved or self-invested.
+Pay π can be defined as the worker’s literal or imputed revenue. Self-invested
+consumption C s
+can be defined as any investment in human capital other than
+through self-invested work. This makes C s
+all investment from outside in a sense.
+But that does not mean that it is limited to transfer in. There is also plowback from
+revenue (pay π ), as when we spend pay on textbooks or tuition. I model “pay
+plowback” π pl
+as minor in the world we know, but definitions must account for it.
+This I define
+C s
+= τ(H) −
++π pl
+or t(H) −
+= C s
+−π pl
+, (A5.2)
+where τ(H) −
+is “human transfer in”. This and (A1.2a), showing F −
+= τ −
+, give
+F(H) −
+= τ(H) −
+= C s
+−π pl
+.
+(A5.3)
+(A3.1) and (A3.2), analyzing the firm, derived
+ρ − ρ c
+= Y ρ
+gross = Y ρ
++D ρ
+.
+For human capital, this can show as
+π −π c
+= W ρ
+gross = W ρ
++D(H) ρ
+,
+(A5.4)
+APPENDIX A: The Argument in Notation 3/7/16 12
+reading “pay less prior claims on pay equals earned pay equals gross realized work
+equals realized work plus realized (recovered) human depreciation”.
+Prior claims means outflow (transfer out), from sources other than the direct
+receiver of revenue, which are recovered in it and owed back to them. Maintenance
+consumption can be defined as any transfer out from any asset of either factor,
+outside the human capital of the earner, which supports pay in the sense that any
+less maintenance consumption would have realized less pay. This meets every
+criterion of prior claims but one. Maintenance consumption is the prior claims
+meant by π c
+in (A5.5) if and only if it is actually recovered in pay or so intended.
+I gave my arguments that it is neither, but is rather exhausted in satisfying our taste
+for survival, in Chapter 6 and elsewhere. If I am right, (A5.4) gives
+π c
+= 0 and π = W ρ
++D(H) ρ
+= W ρ
+gross , (A5.5)
+so that pay would measure and compensate gross realized work. This is the pay rule.
+By (A3.3), positive cash flow is gross realized output less plowback from revenue.
+That comes to
+F(H) +
+= W ρ
+gross −π pl
+= π −π pl
+.
+(A5.6)
+Now we have
+F(H)= F(H) +
+−F(H) −
+= π −π pl
+−(C s
+−π pl
+)= π −π pl
+−C s
++π pl
+= π −C s
+,
+(A5.7)
+APPENDIX A: The Argument in Notation 3/7/16 13
+as the application of (A3.5) to human capital. This confirms the traditional view
+(A5.1) if (A5.5) is right in interpreting prior claims on pay as zero.
+If I was wrong there, and Quesnay and the physiocrats were right, some
+maintenance consumption would be recovered in revenue of its suppliers. Then I
+should have written something like C = C s
++C τ
++C p
+, where “transfer consumption”
+C τ
+was the value recovered by suppliers. This mathematical possibility, which I do
+not claim to have disproved, explains why I do not claim that the pay rule is logical
+certainty as a whole. I claim certitude only for its most surprising feature: human
+depreciation is expected to be recovered in pay. The rest follows only if (A5.5) is
+right as I think it is. Meanwhile (A5.5) also gives
+C = C s
++C p
+,
+(A5.8)
+where C is consumption.
+Saved work W s
+means the self-invested output of human capital. It includes the
+subliminal and effortless work of job experience as well as the effort and
+opportunity cost of literal schooling, and also includes any free growth of human
+capital. Then
+W = W s
++ W ρ
+.
+(A5.9)
+The growth truism (A4.3) for human capital becomes
+!H = C s
++ W s
+(> 0)−D(H)= C s
++ W s
+−D(H) ρ
+. (A5.10)
+Human Capital as Present Value
+Note
+APPENDIX A: The Argument in Notation 3/7/16 14
+g(F⎡
+⎣H
+⎤ ⎦ )= g(π −C )= 1 d
+s
+π −C s
+dt (π −C )= !π − !C s
+,
+s
+π −C s
+(A6.1)
+and also
+f(H)= F(H)
+H
+= π −C s
+H
+= π H − C s
+H .
+(A6.2)
+Pay π , literal and imputed, is the measure of gross realized work if I am right in
+(A5.5). I take this as meaning all adult productive activity not self-invested. Then the
+ratios π /H and C s
+/H , the ratio of invested consumption to human capital, might
+both be intuited as biological norms, like the generation length, which tend to hold
+steady over time. Meanwhile the definition f = F/K T
+in (A1.6) and (A1.6a) is
+applied to human capital as
+H = F(H)
+f(H) = π −C s
+f(H) .
+(A6.3)
+What we want is to quantify f(H) in order to reveal H from measured or modeled
+π −C s
+. Next generation theory measures cash flow rate of total capital, which
+simplifies to the pure consumption rate, at 3.5% a year as a reciprocal of the
+generation length. I argued that the risk component in rate of return is captured in
+cash flow rate, rather than growth rate, that return at any given moment varies only
+with risk, and that human capital as a whole should prove the riskier and higherreturn
+factor. Then f(H) should prove generally higher than 3.5% per year.
+That could give the key to quantifying collective human capital through (A6.3). I will
+not attempt that step here. A reason is that national accounts reflect pay mixed with
+APPENDIX A: The Argument in Notation 3/7/16 15
+profit when reporting income of proprietorships. I would rather trust an expert in
+national accounts to tease them apart, and to judge whatever pay should be imputed
+to people in the household sector not literally employed.
+The Level Payment Mortgage
+(A2.5) gives
+ω
+V(x)= F∫ F(z)e −r(x)(z−x) dz . (A7.1)
+0
+Consider the level payment mortgage. F(z) is the constant level payment while r(x)
+is the constant interest rate Here (A2.5) simplifies to
+V(x)= F
+∫
+ω
+x
+e −r(z−x) dz = Fe rx
+∫
+ω
+x
+e −rz dz = F ⎡1− e
+r ⎣
+−r(ω −x)
+⎤
+⎦ .
+(A7.2)
+As there is no self-invested output, and no negative cash flow after initial investment
+at time 0, decapitilization (amortization) simplifies to − !V(x). Thus
+D(x)= − V ′(x)= − d dx
+F
+⎡
+r ⎣
+1− e−rω e rx ⎤
+⎦ = F r e−rω
+d
+dx erx = F
+e rω erx ,
+(A7.3)
+confirming that amortization increases exponentially over the term of the mortgage.
+Depreciation Theory
+Depreciation can be defined as decapitalization which is a function of time since
+capitalization alone. When assets change hands, depreciation continues unchanged.
+Depletion and liquidation in sale, by contrast, are options available at any asset age.
+Amortization can be given the same definition as depreciation, but is customarily
+APPENDIX A: The Argument in Notation 3/7/16 16
+applied to paper rights such as the mortgage rather than to physical or human
+capital itself.
+Depreciation of those assets is not as simple as with the mortgage. Cash flow F and
+discount rate r are typically variables rather than constants. Depreciation theory
+avoids that complexity, much as accountants do, by treating each successive
+investment in an asset as if it were a separate asset depreciating in itself.
+(A2.5) through (A2.10) gave present value at time x of a differential foreseen
+positive cash flow at future time z as
+dPV(x)= F +
+(z)e −r(x)(z−x) dz ,
+(A8.1)
+where the differential present value arose from a earlier or concurrent negative
+cash flow invested at time u < = x . It was shown that all of asset value PV(x) at any
+time x can be explained as a sum or integral of such differential increments
+evolving with time alone from investment to eventual realization.
+Meanwhile all output within the differential increment of dPV is self invested.
+Growth dPV can be understood either as this self-invested output or equivalently
+the shortening discount period, as each means growth at rate r. At interim moment
+t it is
+dP V ′(t)= r(x)dPV(t)= F(z)e −r(x)(z−t ) dt = r(x)F(e)
+e r(x)z
+e r(x)t
+, x <= t <z . (A8.2)
+Thus present value rises exponentially as long as the moment of cash flow is
+deferred.
+APPENDIX A: The Argument in Notation 3/7/16 17
+At moment z, self-invested output ends and all change in value is explained by
+depreciation alone. It equals the entire accumulated value of dPV at final moment z.
+That is,
+D(z)dz = −dP V ′(z)dz = dPV(z)= dPV(x)e r(x)(z−x) .
+(A8.3)
+The following table shows some illustrations:
+Depreciation Factor e r(x)(z−x) if z− x is 50 Years
+Interim z− x (years): 0 10 20 30 40 50
+Factor if r(x) = .035: .174 .247 .350 .497 .705 1
+Factor if r(x) = .065: .039 .074 .142 .273 .522 1
+This exactly reverses the analysis applied in national accounts, which models the
+factor as decreasing rather than rising exponentially.
+It should be stressed that these equations and this table describe each successive
+differential increment of outside investment (transfer in), not assets overall or
+groups of them. If transfer in were constant and continuous in an asset or group,
+other things equal, overall depreciation would show as linear.
+Free Growth Theory
+By the total return truism (A1.6a), showing r = g + f, we derive
+g = r − f , dg = dr − df , and Δg = Δr − Δf . (A9.1)
+dg or Δg is “acceleration”, dr or Δr is “productivity gain” or “free growth rate”
+and −df or −Δf is “thrift gain”. Divide by acceleration to reach
+APPENDIX A: The Argument in Notation 3/7/16 18
+dr
+dg − df
+dg = drdt
+dtdg − dfdt
+dtdg = !r !g − f ! !g = 1 and Δr
+Δg − Δf
+Δg = 1 .
+(A9.2)
+drK T
+or ΔrK T
+give free growth as a flow, while −dfK T
+or −ΔdfK T
+give the flow of
+thrift.
+Define the “productivity index” or “free growth index” ϕ (phi) as !r / !g or Δr / Δg ,
+and the “thrift index” θ (theta) as − ! f / !g or −Δf / Δg . (A9.2) can then be put as
+ϕ +θ = 1 ,
+(A9.2a)
+in either the continuous time or discrete period sense.
+Free growth theory is the prediction that ϕ at the collective scale will average unity
+(the number one), implying that θ averages zero, when ϕ or θ is measured for
+each year or for shorter periods if practical. Thrift theory makes the opposite
+prediction θ →1 and ϕ → 0. The point is to compare simultaneous changes in
+acceleration and thrift, and then find the long-term average of these simultaneous
+observations, rather than compare long-term changes in the first place. If free
+growth is right, they will prove uncorrelated. That is exactly what the charts and
+tables show whenever data are available. Acceleration is as likely to coincide with
+unthrift, meaning increase in consumption rate C/K, as with thrift.
+Division of (A9.1) by acceleration was not essential to the logic. It added the
+convenience of index numbers totaling unity.
+The test should be as fine-grained as practical. If the Piketty-Zucman website
+showed quarterly or monthly data revealing any two of r , f and g, I would have
+averaged the largest number of shortest periods. What I try to compare is ex ante
+APPENDIX A: The Argument in Notation 3/7/16 19
+acceleration, measured as thrift −Δc , and ex post acceleration Δg at the same
+moment. Otherwise we don’t have the clearest test between free growth and thrift
+theories. Both agree that consumption can keep pace with output and capital over
+time. Free growth theory asserts that they keep pace continuously.
+Correlations tell the same story. Tables show that coefficients between r and g
+run about 1, as with the free growth index, while correlations between f and g run
+about zero.
+I do not claim that anyone but Mill and I has actually proposed free growth theory,
+nor that anyone at all has proposed thrift theory as here defined. It is my impression,
+not assertion, that modern consensus fits thrift theory given Harrod’s qualifier that
+attempted (ex ante) net saving (thrift) must not exceed the technological growth
+rate (warranted growth path). My impression is that Solow and modern tradition
+agree, but blunt Harrod’s knife edge. Free growth theory counters that the same
+growth arrives costlessly when ex ante net saving/investment is held at zero. Nor do
+I claim that data shown in my charts and tables prove free growth theory. Rather
+they demonstrate that all growth has proved free wherever measured to date.
+Saving/Investment
+Unlike Lord Keynes and modern tradition, I define saving and investment as
+synonymous from the start. I don’t strictly need either term. My “transfer in”,
+“unrealized output” and “plowback” arrive at the same thing. But I know I must do
+my best to write in a language already understood. I will usually say “investment” to
+mean saving/investment, and will use Keynes’ notation I for both.
+Keynes did not explicitly recognize human capital, although he very probably
+understood it. He treated investment in physical capital only. I notate this I(K). I also
+treat investment in total capital, to be notated I(K T
+). Each, as in Keynes, sums
+depreciation recovery and “net investment”. The latter, in my treatment, is
+APPENDIX A: The Argument in Notation 3/7/16 20
+considered in both ex ante and ex post versions. The subscripts xa and xp will show
+which.
+Ex ante net investment can be notated I(K T
+) xa
+and defined as identical to thrift flow
+−df(K T
+) or −Δf(K T
+) . Its rate is the same as thrift rate −df or −Δf . Ex post net
+investment is actual growth !K T
+or ΔK T
+/ Δt as a flow, and !g or ΔK T
+/(K T
+Δt) as a
+rate. Free growth theory, supported by data wherever tested, predicts that thrift or
+ex ante net investment at the collective scale sacrifices cash flow (pure
+consumption) with no growth to compensate. My interpretation is that the optimum
+collective ex ante net investment rate is zero, or equivalently that optimum
+investment is current cost depreciation plowback from both factors. Then optimum
+ex ante net investment becomes
+I(K T
+) xa
+, optimum = 0 , at the collective scale. (A9.3)
+(Net) output Y at that scale is total capital growth (net investment of both factors)
+plus pure consumption. Here too we can distinguish ex ante output as pure
+consumption plus ex ante investment, while ex post output is pure consumption plus
+ex post net investment. (9.3) gives
+Y xa
+optimum = C p
+, at the collective scale, (A9.4)
+where Y xa
+is ex ante output.
+Since (gross) investment equals net investment plus makeup for decaptalization,
+while decapitalization equals pure consumption C p
+collectively by (A1.4a), we can
+show I(K T
+) xa
+optimum = C p
+as an alternate statement of (A9.4).
+APPENDIX A: The Argument in Notation 3/7/16 21
+Summarizing,
+I(K T
+) xa
+optimum = Y xa
+optimum = C p
+, at the collective scale, (A9.5)
+if free growth theory is correct.
+Ex ante investment and output mean at cost. They are what we pay for. The practical
+importance of (A9.5) is as a guide to macroeconomic policy. It says that we cannot
+grow collectively by attempting to produce more than we consume. We do best by
+paying to produce just as much, and taking free growth as it comes.
+(A9.5) does not say that we cannot influence the growth tides. It says that we cannot
+do so by thrift. It seems to be me that growth theory lies somewhere in the province
+of historicism and institutionalism rather than in the mechanics of supply and
+demand. Judging from history, old and new, growth seems to find traction in free
+markets where laws and customs welcome it. These are institutions shaped by
+history.
+Free growth theory and its equations predict at the collective scale only. Clearly the
+Practical Pig can save out of the dissaving of his feckless brothers, while the
+individual life cycle is largely a story of each generation giving to the next.
+Adjusting the Ben-Porath Model
+Human capital begins at zero value at cohort age 0. Invested consumption C s
+starts
+now, and is immediately compounded by self-invested work of the young. This
+means all work before pay begins at age of adulthood and independence A. As
+human depreciation is expected to be recovered in pay, that flow too is put off until
+age A. Then cohort present cost at any earlier age x , as defined in (A2.10), is
+x
+H(x)= ∫ C s
+(z)e r(x)(x−z) dz , if x <=A . (A10.1)
+0
+APPENDIX A: The Argument in Notation 3/7/16 22
+I argued that outside investment in human young, including the unpaid work of
+parenting, might not be far from constant. School costs rise as parenting costs
+decline. (A10.1) in that case gives
+H(x)= C s
+(
+r(x) er(x)x −1) , if x <=A . (A10.2)
+At maturity (A10.1) becomes
+H(A)= ∫ C s
+(z)e r(A)(A−z) dz . (A10.3)
+0
+A
+H in adulthood is easiest to model at present value rather than present cost. Human
+cash flow is pay π less C s
+. Discounted cash flow becomes
+ω
+H(x)= ∫ (π −C s
+)(z)e r(x)(z−x) dz , if x >=A , (A10.4)
+x
+where r(z) now is best understood as time preference rate. This is identical to
+expected rate of return, as shown in the diamond ring parable. Note that there is no
+explicit adjustment for asset risk. I argue that human capital is not inherently riskier
+than physical capital, but rather adapts to the risk tolerance of its owner. It is riskier
+collectively because owned disproportionately by the risk-tolerant young. I treat
+risk profile as a function of the owner’s age, gender and wealth. (A10.4) describes
+cohort value, and so neglects individual differences in gender and wealth as already
+captured in the characteristics of the cohort.
+I model C s
+as negligible in adulthood because I see so little of it. That would reduce
+adult human cash flow to pay alone, and so simplify (A10.4) to
+APPENDIX A: The Argument in Notation 3/7/16 23
+ω
+H(x)= ∫ π(z)e −r(x)(z−x) dz , if C s
+= 0 and x ≥ A . (A10.5)
+x
+Now let’s add some detail and bring in physical capital. Like most, I model
+inheritance as zero and physical capital acquisition as beginning after age of
+independence A. That can be modeled as age 20. As human depreciation begins then
+at zero, if depreciation theory is right, gross realized work (pay) simplifies at first to
+realized work. This takes up all the new worker’s time and attention, yet
+simultaneously enables subliminal self-invested work in job experience.
+It seems reasonable to model pay at job entry as equal to the new worker’s
+maintenance consumption, on the reasoning that independence means reaching the
+ability to earn it. Thus nothing is left for investment in physical capital at first. But
+the quick buildup of job experience soon means pay left for investment. As I model
+no pay plowback, that means physical capital acquisition.
+Human depreciation rises slowly while the self-invested work of job experience
+diminishes, so that overall growth in human capital peaks and then declines.
+Physical capital owned does the same as we acquire it and then spend it on the
+young. Young arrive, on average, as a cohort reaches age 28.5 (my estimate of the
+generation length). The cohort of adults begins divesting its capital of both factors in
+nurture and schooling received by the young as invested consumption.
+The young reach independence on average when the adult cohort reaches age 57 (2
+x 28.5). Some young will have been born after parental age 28.5, and will continue to
+receive parental investment over the eight years remaining between age 57 and
+retirement modeled at age 65. But my model cannot account confidently for this
+eight year gap on the whole, or for the retirement period following, which runs
+twice as long. My hypothesis is that retirees are effectively employees hired by
+productives to help take care of the kids, while the eight-year gap might show a
+human capital reserve against nasty surprises.
+APPENDIX A: The Argument in Notation 3/7/16 24
+Retirement can be defined in principle as the period when our pay, literal or
+imputed, no longer covers our maintenance consumption needs. Human capital
+continues, even so, as long as we earn any imputed pay for helping take care of
+ourselves and others. Maintenance is not investment C s
+, and is not deducted in
+finding our cash flow and its present value.
+(A4.4) showed the growth truism for total capital of any individual as
+!K T
+= γ −
++ Y s
++ ρ pl
+−D ρ
+,
+recalling that γ −
+is gift received, Y s
+is self-invested (unrealized) output of both
+factors, ρ pl
+is plowback from realized output, and D ρ
+is recovered decapitalization.
+For the young under age A, I model K T
+as H alone, γ −
+as invested consumption
+provided by adults, Y s
+gross as self-invested work, which I model as all work, and D ρ
+as zero. Thus (A4.4) is interpreted as
+!K T
+= !H = C s
++ W s
+= C s
++ W = C s
++ rH , if age < = A , (A10.5)
+leading directly to (A10.1)
+For adults I model gift received γ −
+as zero. As physical capital acquisition is modeled
+as beginning at independence (age A), Y s
+now becomes self-invested output for both
+factors. Let this show as P s
+for physical capital. ρ pl
+means pay plowback π pl
+plus
+plowback from revenue of physical capital, as with the firm. That can show as ρ(K) pl
+.
+But I model π pl
+as zero because I see so little of it. Rather I allow reinvestment of pay
+APPENDIX A: The Argument in Notation 3/7/16 25
+into physical capital holdings. That can be notated π τ
+. I don’t allow transfer from
+physical to human capital in adults, which would mean invested consumption C s
+afforded from property cash flow, because I see so little adult C s
+(adult education)
+on which to spend it. That’s why I model π pl
+as zero. Meanwhile realized
+decapitalizaiton is decomposed into its human and physical components D(H) ρ
+and
+D(K) ρ
+. This adapts (A4.4) to
+!K T
+= !H+ !K = W s
++P s
++ ρ(K) pl
++π τ
+−D(H) ρ
+−D(K) ρ
+, if age >= A , (A10.6)
+and specifically
+(A10.7)
+!H = W s
+−D(H) ρ
+and !K = π τ
++P s
++ ρ(K) pl
+−D(K) ρ
+, if age >= A .
+Next Generation Theory
+The period of production, as defined by Jevons and Boehm Bawerk, gave the
+reciprocal of rate of production (rate of return Y /K T
+) if growth were zero. Output Y
+equals growth plus cash flow. Then Jevons and Boehm Bawerk really meant the
+period needed for output to make up for losses to cash flow. I call this the “cash flow
+period” T F
+, equal to the reciprocal of cash flow rate f. That is,
+T F
+= 1 f .
+(A11.1)
+Both modeled at the collective scale, where cash flow under the Y = I + C equation
+both would have accepted simplifies to consumption C. Adjustment to the Y rule
+corrects this to pure consumption C p
+. That would specify (A11.1) as
+APPENDIX A: The Argument in Notation 3/7/16 26
+T F
+= 1 C p
+, at the collective scale. (A11.1a)
+recalling that c p
+is pure consumption rate C p
+/K T
+.
+Rae, Jevons and Boehm Bawerk all got nowhere because they modeled physical
+capital only. Jevons, in particular, saw the productive cycle as the wage fund
+reproducing itself as it was used up in consumption per (A11.1). He was close.
+(A11.1a) models it as total capital reproducing itself as it is used up in pure
+consumption. My next generation theory, really Petty’s, posits the generation length
+as the deadline for transmitting all fitness (total capital) from each generation to the
+next.
+The generation length in R.A. Fisher’s sense is average age difference between both
+parents and all offspring from first births to last weighted equally. It is a flexible
+biological norm. It was probably well over 30 years before 1900 or so, when high
+infant mortality compelled longer breeding to ensure that two would survive to
+breed again. Contraception, known since Roman times, was then less practiced. It
+seems to run a little under 30 years today in industrial countries. I model it at 28.5
+years. That gives
+T F
+=28.5 years and c p
+= 1 T F
+= .035/ year . (A11.2)
+(A9.5), inferred from free growth theory, already gives
+I(K T
+) xa
+optimum = Y xa
+optimum = c p
+,
+at the collective scale.
+This shows that the output we actually control, meaning ex ante output, is optimized
+at just enough to make up losses to pure consumption. Next generation theory
+specifies that the loss and make-up period equals the generation length.
+APPENDIX A: The Argument in Notation 3/7/16 27
+Under the simplifying assumptions of the life cycle model adapted from Ben-Porath,
+we would meet that deadline by directing all adult gross realized output less
+property plowback ρ(K) pl
+to gift to the immediate generation of young received as
+their invested consumption. The young would add their part by compounding that
+outside investment into their human capital at the rate of their entire ex ante output.
+This would prove the most straightforward strategy to exhaust and replace all total
+capital by the deadline exactly. This is just as in my adjusted Ben-Porath model with
+the addition of the specified deadline.
+Here as there, I describe adults collectively and the young collectively. I will not
+attempt to model effects of kin selection in individual investment choices. But I have
+intended to lay a groundwork. Investment, in Hamilton’s sense, translates to gift γ +
+in economic terms. It is a flow of total capital (fitness) from donor to donee. At the
+individual scale, as well as for the group scale, it equals gross realized output less
+plowback. Gross realized output tends to be a continuous flow, as we see in pay,
+rather than one easily sped up or slowed down. This gives an idea of the time
+constraints I mentioned in critiquing Hamilton’s rule.
+APPENDIX A: The Argument in Notation 3/7/16 28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

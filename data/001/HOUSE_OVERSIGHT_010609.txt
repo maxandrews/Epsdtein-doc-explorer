@@ -1,0 +1,545 @@
+﻿Liquid Insight
+Trump’s effect on MXN
+22 September 2016
+Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com
+Key takeaways
+• We provide an empirical analysis of Donald Trump's potential effects on the Mexican
+peso
+• Our analysis suggests the exchange rate is perhaps as much as 15% undervalued
+• We remain neutral for now given US election risks are likely to remain high in the near
+term
+By Claudio Irigoyen and Ezequiel Aguirre
+Chart of the day: MXN may be as much as 15% undervalued
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Trump’s effect on MXN
+We provide an empirical analysis of Donald Trump’s effects on the Mexican peso. Our
+analysis suggests the exchange rate is perhaps as much as 15% undervalued. In our
+view, buying the Mexican peso likely would prove a profitable strategy if Hillary Clinton
+wins. However, we remain neutral for now given US election risks are likely to remain
+high in the near term.
+A model of MXN weekly returns including Trump
+We estimate a model of MXN returns with standard financial fundamentals that also
+includes Donald Trump’s RealClearPolitics polling average in the US presidential
+election. It is generally accepted now that Trump’s chances in the US election have been
+a major driver of the Mexican peso (Chart 1).
+Trading ideas and investment strategies discussed herein may give rise to significant risk and are not
+suitable for all investors. Investors should have experience in FX markets and the financial resources to
+absorb any losses arising from applying these ideas or strategies.
+BofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a
+result, investors should be aware that the firm may have a conflict of interest that could affect the
+objectivity of this report. Investors should consider this report as only a single factor in making
+their investment decision.
+Refer to important disclosures on page 6 to 7. Analyst Certification on page 5. 11668923
+Timestamp: 22 September 2016 12:30AM EDT
+Rates and Currencies Research
+Global
+Global Rates & Currencies Research
+MLI (UK)
+Claudio Irigoyen
+LatAm FI/FX Strategy/Economist
+MLPF&S
++1 646 855 1734
+claudio.irigoyen@baml.com
+Ezequiel Aguirre
+LatAm FI/FX Strategist
+MLPF&S
++1 646 855 9689
+ezequiel.aguirre@baml.com
+Adarsh Sinha
+FX Strategist
+Merrill Lynch (Hong Kong)
++852 3508 7155
+adarsh.sinha@baml.com
+Yang Chen
+Rates Strategist
+Merrill Lynch (Hong Kong)
++852 3508 8695
+ychen8@baml.com
+See Team Page for Full List of Contributors
+Recent Liquid Insight Publications
+21 Sep 2016 Eur FRA-OIS and 3s6s basis:
+tighter, despite wider credit spreads
+20 Sep 2016 BoJ preview: BoJ to try, try again
+19 Sep 2016 A cautiously hawkish Fed
+16 Sep 2016 UK inflation-linked – when the
+“pass-through” has passed through
+15 Sep 2016 Getting unreal
+14 Sep 2016 The real rate guide to FX
+13 Sep 2016 Consumption Gumption
+12 Sep 2016 UK: Better but not good
+9 Sep 2016 The Fed's cacophony of sound
+8 Sep 2016 EEMEA: The ECB buys EM too
+We estimate a regression of weekly returns on the MXN spot exchange rate on five
+variables: a basket of commodity currencies, US equities, the 10-year US bond yield, the
+two-year interest rate differential between MXN and USD swaps, and RealClearPolitics
+polling average for Donald Trump in the 2016 US presidential election. The estimated
+equation is
+R MXN = b0 + b1*R basket + b2*R SP500 + b3*dy 10 + b4*(r MXN – r USD ) + b5*RCP + e
+where R MXN is the MXN spot return, R basket is the commodity currency basket spot return,
+R SP500 is the SP500 index return, dy 10 is the 10-year US bond yield change, r MXN – r USD is
+the two-year swap rate differential (lagged one period), RCP is RealClearPolitics polling
+average for Donald Trump, and e is an error term. The commodity currency basket
+consists of BRL, CLP, COP, CAD, NOK and AUD with equal weights. The full data sample
+has weekly frequency and runs from 6/20/2012 to 9/21/2016.
+The model without Trump yields an R-squared coefficient of 0.50. Including Trump’s
+variable increases the coefficient to 0.63, a significant improvement (Chart 2). We use
+data only up to 1/27/2016 for parameter estimation of the financial variables. We use
+the full sample to estimate the parameter on Trump’s variable due to its shorter history.
+Chart 1: The Trump factor on the Mexican peso
+Chart 2: Forecasting MXN returns with and without Trump
+20
+19.5
+19
+18.5
+18
+17.5
+17
+16.5
+16
+15.5
+15
+Aug15 Nov15 Feb16 May16 Aug16
+48
+46
+44
+42
+40
+38
+36
+34
+32
+30
+20
+19
+18
+17
+16
+15
+14
+13
+12
+2014 2015 2016
+20
+19
+18
+17
+16
+15
+14
+13
+12
+MXN
+Trump's polling average
+Model (without Trump) Model (with Trump) MXN
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Source: BofA Merrill Lynch Global Research, Bloomberg
+A possible 15% negative shock on MXN
+According to the model that does not include Trump’s polling average, we estimate that
+MXN should be trading at around 16.50, more than 15% stronger than current levels
+(spot 19.72). Chart 2 shows the possible magnitude of the Trump effect on the Mexican
+peso.
+The model including Trump’s polling average appears to do a much better job at
+explaining the recent behavior of the Mexican peso. However, it still suggests that the
+currency has depreciated more than justified by Trump’s increase in recent polls. Based
+on Trump’s increase to 43.9% (RealClearPolitics polling average on 21 September) from
+39% (RealClearPolitics polling average on 29 June), our model suggests the Mexican
+peso should be trading at around 18.50, still almost 7% stronger than current levels.
+This, however, does not necessarily mean that MXN has oversold. The almost 5% gain in
+Trump’s polling average since June could have had an outsized effect on MXN if those
+gains took place in swing states, potentially leading to crucial Electoral College votes.
+Strategy: neutral MXN for now
+From a strategy standpoint, we recommend staying neutral the Mexican peso for now.
+We believe the Mexican peso would likely strengthen significantly if Hillary Clinton wins
+the US election. But there is still significant uncertainty. Net speculative long USD/MXN
+positions are somewhat stretched, but could increase much more (Chart 3).
+2 Liquid Insight | 22 September 2016
+The Bank of Mexico will meet on 29 September, and a 50bp rate hike is already priced in
+(Chart 4). A stronger hike, perhaps of 75bp, or a 50bp rate hike accompanied by a
+hawkish statement could lead to MXN strengthening in the very short run.
+Chart 3: Net speculative USD/MXN position in CFTC
+Chart 4: Bank of Mexico expected to hike
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+2013 2014 2015 2016
+20
+19
+18
+17
+16
+15
+14
+13
+12
+300
+250
+200
+150
+100
+50
+0
+2012 2013 2014 2015 2016
+6
+5
+4
+3
+2
+1
+0
+Net Dollar position
+Source: BofA Merrill Lynch Global Research, Bloomberg
+MXN
+Source: BofA Merrill Lynch Global Research, Bloomberg
+spread 1y TIIE ONR
+Notable Rates and FX Research
+* Global Rates & Currencies 2016 Year Ahead, 23 November 2015
+* USD/MXN builds momentum, FX Quant Trader, 19 Sep 2016
+* Central banks still the only game in town, Global Rates and FX Weekly, 15 Sep 2016
+* Land of the rising bond yield, US Rates Weekly, 16 Sep 2016
+* Policy uncertainty, Liquid Cross Border Flows, 19 Sep 2016
+Key trade ideas
+Top Rates and FX trades for 2016
+For rationale and details, refer to Global Rates & Currencies 2016 Year Ahead: The
+“Great Divorce”, 23 November, 2015
+Rates:
+Buy US 30y TIPS, entry: 1.2%, target: 70bp, stop loss: 1.55%
+Closed at 101bp (3 Mar 2016): Short USD 5y5y vs EUR 5y5y, entry: 115 bp, target: 160
+bp, stop-loss: 90 bp (3 Sep 2015)
+Long $100mn 6m5y ATMF UK vs $100.75mn US rates straddles, net take-in: $126K,
+target: +450K, stop: -$225K
+Sell 3y Fannie Mae debt vs Treasuries, entry: 6bp, stop: 2bp, target: 20bp
+Closed at 11bp - Long 12m Treasury bills vs OIS, entry: 1bp, target: -10bp, stop: 7bp
+FX:
+Closed at 6.5630 (26 May 2016): Buy USD/CNH 6m forward outright, entry: 6.5260,
+stop: 6.40
+Long a 12m USD/CNH forward outright, entry: 6.7485, target 7.00, stop: 6.67, current:
+6.7420 (26 May 2016)
+Closed at 0% - Buy EUR/USD 3m 1.10 call with a 16 Dec 1.1050 window KO, cost:
+0.55% EUR (spot: 1.0690)
+Buy 1y EUR/USD<1.00, USD/JPY<120 dual digital, cost: 7.0% USD (spot: 1.0690, 122.80)
+Liquid Insight | 22 September 2016 3
+Closed at 902 (10 Mar 2016): Buy AUD/KRW, entry: 832, target: 920, stop: 859 (revised
+from 790)
+Closed at 38.25 (18 Apr 2016): Sell TRY/JPY, entry: 43.40, target: 36.15, stop: 45.25
+Closed at 8.27: Sell USD/NOK spot 8.685, target: 8.27, stop-loss: 8.60 (revised from 9.00)
+New trades
+Rates:
+Mar17 FRA-OIS widener, entry: 6.25bp, target: 10bp, stop loss: 4bp (21 Sep 2016)
+* Despite recent tightening, richness of bonds vs OIS, upcoming TLTRO & corporate
+issuance point to renewed widening
+Existing open trades
+For a complete list of our open trade recommendations, as well as our trade
+recommendations closed over the last 12 months, please see: Global Rates and FX
+Weekly: Central banks still the only game in town 15 September 2016
+Rates:
+Pay 5y5y forward 3s6s basis, entry: 11.3bp, target: 13.3bp, stop: 10.3bp (10 Aug 2016)
+* Bank hedging flows on the back of sharp pickup in corp issuance suggests the
+widening of 3s6s basis is structural. It also hedges any aggressive ECB easing in Sep
+Buy 6m30y ATMF+25bp/+50bp/+75 bp payer ladders for a net premium of €950k on
+€100m notional (or 3.3 bp) (20 Jul 2016)
+*30y rates are at risk from the ECB tomorrow, especially if tweaks to the capital key are
+flagged already
+Buy 3-year 3.5% ZC RPI inflation caps, entry: 26.0c; current 37.5c (21 Oct 2015)
+*Sterling vulnerability due to the UK's large current account deficit makes being long
+inflation volatility attractive. Pairing this trade with a long-standing recommendation to
+be short 30-year UK breakevens is an attractive way to finance it.
+Closed at 0 (22 Jul 2016): Buy 167 Aug RXU6 call and buy 162 put, cost 118 cents (16
+Jun 2016)
+Closed at 55bp (12 Jul 2016): OATei 2018/2027 flattener; entry: 78.5bp, target: 40bp;
+stop-loss: 100bp (11 Mar 2016)
+FX:
+Short EURUSD 6m 1.0740/1.1500 risk reversal, cost: 0 (off 1.1077 spot)(6 Jul 2016)
+*EUR downside risks are underpriced. We think the post-referendum risk rally is
+overdone and could be at risk. Potential shocks include Brexit uncertainty, turbulence in
+Italy's banking sector, and political paralysis in Spain.
+Closed 1.0840 (1 Jul 2016): Buy 3m EURCHF 1.08/1.03 put spread for 0.76% Eur
+(7.75/8.05 ag 10.45 vols off 1.0930 spot)(1 Apr 2016)
+4 Liquid Insight | 22 September 2016
+* EUR is underpricing Brexit and that shorting Euro was a cheaper way to express such a
+view via options. CHF tends to perform strongly when risks become more localized.
+Closed on 28 Aug 2016: Buy EUR/USD 6m 1.00/1.20 strangle for 155 usd pips (off
+1.1020 spot, DF two-way vols 12.1/12.3) (29 Feb 2016)
+*Owning low delta EURUSD strangles may be an effective and cheap double hedge in the
+scenario that either the US enters a recession or the European debt crisis resurfaces.
+Options Risk Statement
+Potential Risk at Expiry & Options Limited Duration Risk
+Unlike owning or shorting a stock, employing any listed options strategy is by definition
+governed by a finite duration. The most severe risks associated with general options
+trading are total loss of capital invested and delivery/assignment risk, all of which can
+occur in a short period.
+Investor suitability
+The use of standardized options and other related derivatives instruments are
+considered unsuitable for many investors. Investors considering such strategies are
+encouraged to become familiar with the "Characteristics and Risks of Standardized
+Options" (an OCC authored white paper on options risks). U.S. investors should consult
+with a FINRA Registered Options Principal.
+For detailed information regarding the risks involved with investing in listed options:
+http://www.theocc.com/about/publications/character-risks.jsp.
+Analyst Certification
+I, Adarsh Sinha, hereby certify that the views expressed in this research report about
+securities and issuers accurately reflect the research model applied in such analysis. I
+also certify that no part of my compensation was, is, or will be, directly or indirectly,
+related to the specific recommendations or view expressed in this research report.
+Liquid Insight | 22 September 2016 5
+Disclosures
+Important Disclosures
+BofA Merrill Lynch Research Personnel (including the analyst(s) responsible for this report) receive compensation based upon, among other factors, the overall profitability of Bank of America
+Corporation, including profits derived from investment banking. The analyst(s) responsible for this report may also receive compensation based upon, among other factors, the overall
+profitability of the Bank’s sales and trading businesses relating to the class of securities or financial instruments for which such analyst is responsible.
+BofA Merrill Lynch Global Credit Research analysts regularly interact with sales and trading desk personnel in connection with their research, including to ascertain pricing and liquidity in the
+fixed income markets.
+Other Important Disclosures
+Prices are indicative and for information purposes only. Except as otherwise stated in the report, for the purpose of any recommendation in relation to: (i) an equity security, the price
+referenced is the publicly traded price of the security as of close of business on the day prior to the date of the report or, if the report is published during intraday trading, the price referenced is
+indicative of the traded price as of the date and time of the report; or (ii) a debt security (including equity preferred and CDS), prices are indicative as of the date and time of the report and are
+from various sources including Bank of America Merrill Lynch trading desks.
+The date and time of completion of the production of any recommendation in this report shall be the date and time of dissemination of this report as recorded in the report timestamp.
+This report may refer to fixed income securities that may not be offered or sold in one or more states or jurisdictions. Readers of this report are advised that any discussion, recommendation or
+other mention of such securities is not a solicitation or offer to transact in such securities. Investors should contact their BofA Merrill Lynch representative or Merrill Lynch Financial Global
+Wealth Management financial advisor for information relating to fixed income securities
+Rule 144A securities may be offered or sold only to persons in the U.S. who are Qualified Institutional Buyers within the meaning of Rule 144A under the Securities Act of 1933, as amended.
+SECURITIES DISCUSSED HEREIN MAY BE RATED BELOW INVESTMENT GRADE AND SHOULD THEREFORE ONLY BE CONSIDERED FOR INCLUSION IN ACCOUNTS QUALIFIED FOR SPECULATIVE
+INVESTMENT.
+Recipients who are not institutional investors or market professionals should seek the advice of their independent financial advisor before considering information in this report in connection
+with any investment decision, or for a necessary explanation of its contents.
+The securities discussed in this report may be traded over-the-counter. Retail sales and/or distribution of this report may be made only in states where these securities are exempt from
+registration or have been qualified for sale.
+Officers of MLPF&S or one or more of its affiliates (other than research analysts) may have a financial interest in securities of the issuer(s) or in related investments.
+This report, and the securities discussed herein, may not be eligible for distribution or sale in all countries or to certain categories of investors.
+BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+"BofA Merrill Lynch" includes Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S") and its affiliates. Investors should contact their BofA Merrill Lynch representative or
+Merrill Lynch Global Wealth Management financial advisor if they have questions concerning this report. "BofA Merrill Lynch" and "Merrill Lynch" are each global brands for BofA
+Merrill Lynch Global Research.
+Information relating to Non-US affiliates of BofA Merrill Lynch and Distribution of Affiliate Research Reports:
+MLPF&S distributes, or may in the future distribute, research reports of the following non-US affiliates in the US (short name: legal name, regulator): Merrill Lynch (South Africa): Merrill Lynch
+South Africa (Pty) Ltd., regulated by The Financial Service Board; MLI (UK): Merrill Lynch International, regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority
+(PRA); Merrill Lynch (Australia): Merrill Lynch Equities (Australia) Limited, regulated by the Australian Securities and Investments Commission; Merrill Lynch (Hong Kong): Merrill Lynch (Asia
+Pacific) Limited, regulated by the Hong Kong Securities and Futures Commission (HKSFC); Merrill Lynch (Singapore): Merrill Lynch (Singapore) Pte Ltd, regulated by the Monetary Authority of
+Singapore (MAS); Merrill Lynch (Canada): Merrill Lynch Canada Inc, regulated by the Investment Industry Regulatory Organization of Canada; Merrill Lynch (Mexico): Merrill Lynch Mexico, SA de
+CV, Casa de Bolsa, regulated by the Comisión Nacional Bancaria y de Valores; Merrill Lynch (Argentina): Merrill Lynch Argentina SA, regulated by Comisión Nacional de Valores; Merrill Lynch
+(Japan): Merrill Lynch Japan Securities Co., Ltd., regulated by the Financial Services Agency; Merrill Lynch (Seoul): Merrill Lynch International Incorporated (Seoul Branch) regulated by the
+Financial Supervisory Service; Merrill Lynch (Taiwan): Merrill Lynch Securities (Taiwan) Ltd., regulated by the Securities and Futures Bureau; DSP Merrill Lynch (India): DSP Merrill Lynch Limited,
+regulated by the Securities and Exchange Board of India; PT Merrill Lynch (Indonesia): PT Merrill Lynch Indonesia, regulated by Otoritas Jasa Keuangan (OJK); Merrill Lynch (Israel): Merrill Lynch
+Israel Limited, regulated by Israel Securities Authority; Merrill Lynch (Russia): OOO Merrill Lynch Securities, Moscow, regulated by the Central Bank of the Russian Federation; Merrill Lynch
+(DIFC): Merrill Lynch International (DIFC Branch), regulated by the Dubai Financial Services Authority (DFSA); Merrill Lynch (Spain): Merrill Lynch Capital Markets Espana, S.A.S.V., regulated by
+Comisión Nacional del Mercado De Valores; Merrill Lynch (Brazil): Bank of America Merrill Lynch Banco Multiplo S.A., regulated by Comissão de Valores Mobiliários; Merrill Lynch KSA Company,
+Merrill Lynch Kingdom of Saudi Arabia Company, regulated by the Capital Market Authority.
+This research report: has been approved for publication and is distributed in the United Kingdom (UK) to professional clients and eligible counterparties (as each is defined in the rules of the
+FCA and the PRA) by MLI (UK) and Bank of America Merrill Lynch International Limited, which are authorized by the PRA and regulated by the FCA and the PRA, and is distributed in the UK to
+retail clients (as defined in the rules of the FCA and the PRA) by Merrill Lynch International Bank Limited, London Branch, which is authorized by the Central Bank of Ireland and subject to
+limited regulation by the FCA and PRA - details about the extent of our regulation by the FCA and PRA are available from us on request; has been considered and distributed in Japan by Merrill
+Lynch (Japan), a registered securities dealer under the Financial Instruments and Exchange Act in Japan; is issued and distributed in Hong Kong by Merrill Lynch (Hong Kong) which is regulated
+by HKSFC (research reports containing any information in relation to, or advice on, futures contracts are not intended for issuance or distribution in Hong Kong and are not directed to, or
+intended for issuance or distribution to, or use by, any person in Hong Kong); is issued and distributed in Taiwan by Merrill Lynch (Taiwan); is issued and distributed in India by DSP Merrill Lynch
+(India); and is issued and distributed in Singapore to institutional investors and/or accredited investors (each as defined under the Financial Advisers Regulations) by Merrill Lynch International
+Bank Limited (Merchant Bank) (MLIBLMB) and Merrill Lynch (Singapore) (Company Registration Nos F 06872E and 198602883D respectively). MLIBLMB and Merrill Lynch (Singapore) are
+regulated by MAS. Bank of America N.A., Australian Branch (ARBN 064 874 531), AFS License 412901 (BANA Australia) and Merrill Lynch Equities (Australia) Limited (ABN 65 006 276 795), AFS
+License 235132 (MLEA) distribute this report in Australia only to 'Wholesale' clients as defined by s.761G of the Corporations Act 2001. With the exception of BANA Australia, neither MLEA nor
+any of its affiliates involved in preparing this research report is an Authorised Deposit-Taking Institution under the Banking Act 1959 nor regulated by the Australian Prudential Regulation
+Authority. No approval is required for publication or distribution of this report in Brazil and its local distribution is by Merrill Lynch (Brazil) in accordance with applicable regulations. Merrill Lynch
+(DIFC) is authorized and regulated by the DFSA. Research reports prepared and issued by Merrill Lynch (DIFC) are done so in accordance with the requirements of the DFSA conduct of business
+rules. Bank of America Merrill Lynch International Limited, Frankfurt Branch (BAMLI Frankfurt) distributes this report in Germany and is regulated by BaFin.
+This research report has been prepared and issued by MLPF&S and/or one or more of its non-US affiliates. MLPF&S is the distributor of this research report in the US and accepts full
+responsibility for research reports of its non-US affiliates distributed to MLPF&S clients in the US. Any US person receiving this research report and wishing to effect any transaction in any
+security discussed in the report should do so through MLPF&S and not such foreign affiliates. Hong Kong recipients of this research report should contact Merrill Lynch (Asia Pacific) Limited in
+respect of any matters relating to dealing in securities (and not futures contracts) or provision of specific advice on securities (and not futures contracts). Singapore recipients of this research
+report should contact Merrill Lynch International Bank Limited (Merchant Bank) and/or Merrill Lynch (Singapore) Pte Ltd in respect of any matters arising from, or in connection with, this
+research report.
+General Investment Related Disclosures:
+Taiwan Readers: Neither the information nor any opinion expressed herein constitutes an offer or a solicitation of an offer to transact in any securities or other financial instrument. No part of
+this report may be used or reproduced or quoted in any manner whatsoever in Taiwan by the press or any other person without the express written consent of BofA Merrill Lynch.
+6 Liquid Insight | 22 September 2016
+This research report provides general information only. Neither the information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities or
+other financial instrument or any derivative related to such securities or instruments (e.g., options, futures, warrants, and contracts for differences). This report is not intended to provide
+personal investment advice and it does not take into account the specific investment objectives, financial situation and the particular needs of any specific person. Investors should seek
+financial advice regarding the appropriateness of investing in financial instruments and implementing investment strategies discussed or recommended in this report and should understand
+that statements regarding future prospects may not be realized. Any decision to purchase or subscribe for securities in any offering must be based solely on existing public information on such
+security or the information in the prospectus or other offering document issued in connection with such offering, and not on this report.
+Securities and other financial instruments discussed in this report, or recommended, offered or sold by Merrill Lynch, are not insured by the Federal Deposit Insurance Corporation and are not
+deposits or other obligations of any insured depository institution (including, Bank of America, N.A.). Investments in general and, derivatives, in particular, involve numerous risks, including,
+among others, market risk, counterparty default risk and liquidity risk. No security, financial instrument or derivative is suitable for all investors. In some cases, securities and other financial
+instruments may be difficult to value or sell and reliable information about the value or risks related to the security or financial instrument may be difficult to obtain. Investors should note that
+income from such securities and other financial instruments, if any, may fluctuate and that price or value of such securities and instruments may rise or fall and, in some cases, investors may
+lose their entire principal investment. Past performance is not necessarily a guide to future performance. Levels and basis for taxation may change.
+Futures and options are not appropriate for all investors. Such financial instruments may expire worthless. Before investing in futures or options, clients must receive the appropriate risk
+disclosure documents. Investment strategies explained in this report may not be appropriate at all times. Costs of such strategies do not include commission or margin expenses.
+BofA Merrill Lynch is aware that the implementation of the ideas expressed in this report may depend upon an investor's ability to "short" securities or other financial instruments and that such
+action may be limited by regulations prohibiting or restricting "shortselling" in many jurisdictions. Investors are urged to seek advice regarding the applicability of such regulations prior to
+executing any short idea contained in this report.
+This report may contain a trading idea or recommendation which highlights a specific identified near-term catalyst or event impacting a security, issuer, industry sector or the market generally
+that presents a transaction opportunity, but does not have any impact on the analyst’s particular “Overweight” or “Underweight” rating (which is based on a three month trade horizon). Trading
+ideas and recommendations may differ directionally from the analyst’s rating on a security or issuer because they reflect the impact of a near-term catalyst or event.
+Foreign currency rates of exchange may adversely affect the value, price or income of any security or financial instrument mentioned in this report. Investors in such securities and instruments
+effectively assume currency risk.
+UK Readers: The protections provided by the U.K. regulatory regime, including the Financial Services Scheme, do not apply in general to business coordinated by BofA Merrill Lynch entities
+located outside of the United Kingdom. BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+MLPF&S or one of its affiliates is a regular issuer of traded financial instruments linked to securities that may have been recommended in this report. MLPF&S or one of its affiliates may, at any
+time, hold a trading position (long or short) in the securities and financial instruments discussed in this report.
+BofA Merrill Lynch, through business units other than BofA Merrill Lynch Global Research, may have issued and may in the future issue trading ideas or recommendations that are inconsistent
+with, and reach different conclusions from, the information presented in this report. Such ideas or recommendations reflect the different time frames, assumptions, views and analytical
+methods of the persons who prepared them, and BofA Merrill Lynch is under no obligation to ensure that such other trading ideas or recommendations are brought to the attention of any
+recipient of this report.
+In the event that the recipient received this report pursuant to a contract between the recipient and MLPF&S for the provision of research services for a separate fee, and in connection
+therewith MLPF&S may be deemed to be acting as an investment adviser, such status relates, if at all, solely to the person with whom MLPF&S has contracted directly and does not extend
+beyond the delivery of this report (unless otherwise agreed specifically in writing by MLPF&S). MLPF&S is and continues to act solely as a broker-dealer in connection with the execution of any
+transactions, including transactions in any securities mentioned in this report.
+Copyright and General Information regarding Research Reports:
+Copyright 2016 Bank of America Corporation. All rights reserved. This research report is prepared for the use of BofA Merrill Lynch clients and may not be redistributed, retransmitted or
+disclosed, in whole or in part, or in any form or manner, without the express written consent of BofA Merrill Lynch. BofA Merrill Lynch research reports are distributed simultaneously to internal
+and client websites and other portals by BofA Merrill Lynch and are not publicly-available materials. Any unauthorized use or disclosure is prohibited. Receipt and review of this research report
+constitutes your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or information contained in this report (including any investment
+recommendations, estimates or price targets) without first obtaining expressed permission from an authorized officer of BofA Merrill Lynch.
+Materials prepared by BofA Merrill Lynch Global Research personnel are based on public information. Facts and views presented in this material have not been reviewed by, and may not reflect
+information known to, professionals in other business areas of BofA Merrill Lynch, including investment banking personnel. BofA Merrill Lynch has established information barriers between
+BofA Merrill Lynch Global Research and certain business groups. As a result, BofA Merrill Lynch does not disclose certain client relationships with, or compensation received from, such issuers in
+research reports. To the extent this report discusses any legal proceeding or issues, it has not been prepared as nor is it intended to express any legal conclusion, opinion or advice. Investors
+should consult their own legal advisers as to issues of law relating to the subject matter of this report. BofA Merrill Lynch Global Research personnel’s knowledge of legal proceedings in which
+any BofA Merrill Lynch entity and/or its directors, officers and employees may be plaintiffs, defendants, co-defendants or co-plaintiffs with or involving issuers mentioned in this report is based
+on public information. Facts and views presented in this material that relate to any such proceedings have not been reviewed by, discussed with, and may not reflect information known to,
+professionals in other business areas of BofA Merrill Lynch in connection with the legal proceedings or matters relevant to such proceedings.
+This report has been prepared independently of any issuer of securities mentioned herein and not in connection with any proposed offering of securities or as agent of any issuer of any
+securities. None of MLPF&S, any of its affiliates or their research analysts has any authority whatsoever to make any representation or warranty on behalf of the issuer(s). BofA Merrill Lynch
+Global Research policy prohibits research personnel from disclosing a recommendation, investment rating, or investment thesis for review by an issuer prior to the publication of a research
+report containing such rating, recommendation or investment thesis.
+Any information relating to the tax status of financial instruments discussed herein is not intended to provide tax advice or to be used by anyone to provide tax advice. Investors are urged to
+seek tax advice based on their particular circumstances from an independent tax professional.
+The information herein (other than disclosure information relating to BofA Merrill Lynch and its affiliates) was obtained from various sources and we do not guarantee its accuracy. This report
+may contain links to third-party websites. BofA Merrill Lynch is not responsible for the content of any third-party website or any linked content contained in a third-party website. Content
+contained on such third-party websites is not part of this report and is not incorporated by reference into this report. The inclusion of a link in this report does not imply any endorsement by or
+any affiliation with BofA Merrill Lynch. Access to any third-party website is at your own risk, and you should always review the terms and privacy policies at third-party websites before
+submitting any personal information to them. BofA Merrill Lynch is not responsible for such terms and privacy policies and expressly disclaims any liability for them.
+All opinions, projections and estimates constitute the judgment of the author as of the date of the report and are subject to change without notice. Prices also are subject to change without
+notice. BofA Merrill Lynch is under no obligation to update this report and BofA Merrill Lynch's ability to publish research on the subject issuer(s) in the future is subject to applicable quiet
+periods. You should therefore assume that BofA Merrill Lynch will not update any fact, circumstance or opinion contained in this report.
+Certain outstanding reports may contain discussions and/or investment opinions relating to securities, financial instruments and/or issuers that are no longer current. Always refer to the most
+recent research report relating to an issuer prior to making an investment decision.
+In some cases, an issuer may be classified as Restricted or may be Under Review or Extended Review. In each case, investors should consider any investment opinion relating to such issuer (or
+its security and/or financial instruments) to be suspended or withdrawn and should not rely on the analyses and investment opinion(s) pertaining to such issuer (or its securities and/or
+financial instruments) nor should the analyses or opinion(s) be considered a solicitation of any kind. Sales persons and financial advisors affiliated with MLPF&S or any of its affiliates may not
+solicit purchases of securities or financial instruments that are Restricted or Under Review and may only solicit securities under Extended Review in accordance with firm policies.
+Neither BofA Merrill Lynch nor any officer or employee of BofA Merrill Lynch accepts any liability whatsoever for any direct, indirect or consequential damages or losses arising from any use of
+this report or its contents.
+Liquid Insight | 22 September 2016 7
+Research Analysts
+US
+Ralph Axel
+Rates Strategist
+MLPF&S
++1 646 855 6226
+ralph.axel@baml.com
+Shyam S.Rajan
+Rates Strategist
+MLPF&S
++1 646 855 9808
+shyam.rajan@baml.com
+John Shin
+FX Strategist
+MLPF&S
++1 646 855 9342
+joong.s.shin@baml.com
+Ian Gordon
+FX Strategist
+MLPF&S
++1 646 855 8749
+ian.gordon@baml.com
+Vadim Iaralov
+FX Strategist
+MLPF&S
++1 646 855 8732
+vadim.iaralov@baml.com
+Europe
+Ralf Preusser, CFA
+Rates Strategist
+MLI (UK)
++44 20 7995 7331
+ralf.preusser@baml.com
+Ruben Segura-Cayuela
+Europe Economist
+MLI (UK)
++44 20 7995 2102
+ruben.segura-cayuela@baml.com
+Mark Capleton
+Rates Strategist
+MLI (UK)
++44 20 7995 6118
+mark.capleton@baml.com
+Athanasios Vamvakidis
+FX Strategist
+MLI (UK)
++44 20 7995 0790
+athanasios.vamvakidis@baml.com
+Kamal Sharma
+FX Strategist
+MLI (UK)
++44 20 7996 4855
+ksharma32@baml.com
+Myria Kyriacou
+FX Strategist
+MLI (UK)
++44 20 7996 1728
+myria.kyriacou@baml.com
+Ruairi Hourihane
+Rates Strategist
+MLI (UK)
++44 20 7995 9531
+ruairi.hourihane@baml.com
+Sebastien Cross
+Rates Strategist
+MLI (UK)
++44 20 7996 7561
+sebastien.cross@baml.com
+Pac Rim
+Tony Morriss
+Rates Strategist
+Merrill Lynch (Australia)
++61 2 9226 5023
+tony.morriss@baml.com
+Adarsh Sinha
+FX Strategist
+Merrill Lynch (Hong Kong)
++852 3508 7155
+adarsh.sinha@baml.com
+Shuichi Ohsaki
+Rates Strategist
+Merrill Lynch (Japan)
++81 3 6225 7747
+shuichi.ohsaki@baml.com
+Yang Chen
+Rates Strategist
+Merrill Lynch (Hong Kong)
++852 3508 8695
+ychen8@baml.com
+Shusuke Yamada, CFA
+FX Strategist
+Merrill Lynch (Japan)
++81 3 6225 8515
+shusuke.yamada@baml.com
+Global Emerging Markets
+Claudio Irigoyen
+LatAm FI/FX Strategy/Economist
+MLPF&S
++1 646 855 1734
+claudio.irigoyen@baml.com
+David Hauner, CFA
+EEMEA Cross Asset Strategist
+MLI (UK)
++44 20 7996 1241
+david.hauner@baml.com
+Claudio Piron
+Emerging Asia FI/FX Strategist
+Merrill Lynch (Singapore)
++65 6591 0401
+claudio.piron@baml.com
+Trading ideas and investment strategies discussed
+herein may give rise to significant risk and are not
+suitable for all investors. Investors should have
+experience in FX markets and the financial resources
+to absorb any losses arising from applying these ideas
+or strategies.
+8 Liquid Insight | 22 September 2016

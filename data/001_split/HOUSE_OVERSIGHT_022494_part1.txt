@@ -1,0 +1,1822 @@
+﻿chapter 1
+Introduction
+FCPA
+A Resource Guide to the U.S. Foreign Corrupt Practices Act
+By the Criminal Division of the U.S. Department of Justice and
+the Enforcement Division of the U.S. Securities and Exchange Commission
+This guide is intended to provide information for businesses and individuals regarding the U.S. Foreign Corrupt Practices
+Act (FCPA). The guide has been prepared by the staff of the Criminal Division of the U.S. Department of Justice and the
+Enforcement Division of the U.S. Securities and Exchange Commission. It is non-binding, informal, and summary in nature, and
+the information contained herein does not constitute rules or regulations. As such, it is not intended to, does not, and may not
+be relied upon to create any rights, substantive or procedural, that are enforceable at law by any party, in any criminal, civil, or
+administrative matter. It is not intended to substitute for the advice of legal counsel on specific issues related to the FCPA. It does
+not in any way limit the enforcement intentions or litigating positions of the U.S. Department of Justice, the U.S. Securities and
+Exchange Commission, or any other U.S. government agency.
+Companies or individuals seeking an opinion concerning specific prospective conduct are encouraged to use the U.S.
+Department of Justice’s opinion procedure discussed in Chapter 9 of this guide.
+This guide is United States Government property. It is available to the public free of charge online at www.justice.gov/
+criminal/fraud/fcpa and www.sec.gov/spotlight/fcpa.shtml.
+A RESOURCE GUIDE TO THE
+U.S. FOREIGN CORRUPT PRACTICES ACT
+By the Criminal Division of the U.S. Department of Justice and
+the Enforcement Division of the U.S. Securities and Exchange Commission
+FOREWORD
+We are pleased to announce the publication of A Resource Guide to the U.S. Foreign Corrupt Practices Act. The Foreign
+Corrupt Practices Act (FCPA) is a critically important statute for combating corruption around the globe. Corruption has
+corrosive effects on democratic institutions, undermining public accountability and diverting public resources from important
+priorities such as health, education, and infrastructure. When business is won or lost based on how much a company is
+willing to pay in bribes rather than on the quality of its products and services, law-abiding companies are placed at a competitive
+disadvantage—and consumers lose. For these and other reasons, enforcing the FCPA is a continuing priority at the
+Department of Justice (DOJ) and the Securities and Exchange Commission (SEC).
+The Guide is the product of extensive efforts by experts at DOJ and SEC, and has benefited from valuable input from
+the Departments of Commerce and State. It endeavors to provide helpful information to enterprises of all shapes and sizes—
+from small businesses doing their first transactions abroad to multi-national corporations with subsidiaries around the world.
+The Guide addresses a wide variety of topics, including who and what is covered by the FCPA’s anti-bribery and accounting
+provisions; the definition of a “foreign official”; what constitute proper and improper gifts, travel and entertainment expenses;
+the nature of facilitating payments; how successor liability applies in the mergers and acquisitions context; the hallmarks of
+an effective corporate compliance program; and the different types of civil and criminal resolutions available in the FCPA
+context. On these and other topics, the Guide takes a multi-faceted approach, setting forth in detail the statutory requirements
+while also providing insight into DOJ and SEC enforcement practices through hypotheticals, examples of enforcement
+actions and anonymized declinations, and summaries of applicable case law and DOJ opinion releases.
+The Guide is an unprecedented undertaking by DOJ and SEC to provide the public with detailed information about
+our FCPA enforcement approach and priorities. We are proud of the many lawyers and staff who worked on this project,
+and hope that it will be a useful reference for companies, individuals, and others interested in our enforcement of the Act.
+Lanny A. Breuer
+Assistant Attorney General
+Criminal Division
+Department of Justice
+Robert S. Khuzami
+Director of Enforcement
+Securities and Exchange Commission
+November 14, 2012
+
+CONTENTS
+Chapter 1: INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+The Costs of Corruption 2
+Historical Background 3
+National Landscape: Interagency Efforts 4
+Department of Justice 4
+Securities and Exchange Commission 4
+Law Enforcement Partners 5
+Departments of Commerce and State 5
+International Landscape: Global Anti-Corruption Efforts 7
+OECD Working Group on Bribery and the Anti-Bribery Convention 7
+U.N. Convention Against Corruption 8
+Other Anti-Corruption Conventions 8
+Chapter 2: THE FCPA: ANTI-BRIBERY PROVISIONS . . . . . . . . . . . . . . . . . . . . 10
+Who Is Covered by the Anti-Bribery Provisions? 10
+Issuers—15 U.S.C. § 78dd-1 10
+Domestic Concerns—15 U.S.C. § 78dd-2 11
+Territorial Jurisdiction—15 U.S.C. § 78dd-3 11
+What Jurisdictional Conduct Triggers the Anti-Bribery Provisions? 11
+What Is Covered?—The Business Purpose Test 12
+What Does “Corruptly” Mean? 14
+What Does “Willfully” Mean and When Does It Apply? 14
+What Does “Anything of Value” Mean? 14
+Cash 15
+Gifts, Travel, Entertainment, and Other Things of Value 15
+Charitable Contributions 16
+Who Is a Foreign Official? 19
+Department, Agency, or Instrumentality of a Foreign Government 20
+Public International Organizations 21
+How Are Payments to Third Parties Treated? 21
+What Affirmative Defenses Are Available? 23
+The Local Law Defense 23
+Reasonable and Bona Fide Expenditures 24
+What Are Facilitating or Expediting Payments? 25
+Does the FCPA Apply to Cases of Extortion or Duress? 27
+Principles of Corporate Liability for Anti-Bribery Violations 27
+Parent-Subsidiary Liability 27
+Successor Liability 28
+Additional Principles of Criminal Liability for Anti-Bribery Violations: Aiding and Abetting and Conspiracy 34
+Additional Principles of Civil Liability for Anti-Bribery Violations: Aiding and Abetting and Causing 34
+What Is the Applicable Statute of Limitations? 34
+Statute of Limitations in Criminal Cases 34
+Statute of Limitations in Civil Actions 35
+Chapter 3: THE FCPA: ACCOUNTING PROVISIONS . . . . . . . . . . . . . . . . . . . . 38
+What Is Covered by the Accounting Provisions? 39
+Books and Records Provision 39
+Internal Controls Provision 40
+Potential Reporting and Anti-Fraud Violations 41
+What Are Management’s Other Obligations? 42
+Who Is Covered by the Accounting Provisions? 42
+Civil Liability for Issuers, Subsidiaries, and Affiliates 42
+Civil Liability for Individuals and Other Entities 43
+Criminal Liability for Accounting Violations 44
+Conspiracy and Aiding and Abetting Liability 45
+Auditor Obligations 45
+Chapter 4: OTHER RELATED U.S. LAWS . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Travel Act 48
+Money Laundering 48
+Mail and Wire Fraud 49
+Certification and Reporting Violations 49
+Tax Violations 49
+Chapter 5: GUIDING PRINCIPLES OF ENFORCEMENT . . . . . . . . . . . . . . . . . . 52
+What Does DOJ Consider When Deciding Whether to Open an Investigation or Bring Charges? 52
+DOJ Principles of Federal Prosecution 52
+DOJ Principles of Federal Prosecution of Business Organizations 52
+What Does SEC Consider When Deciding Whether to Open an Investigation or Bring Charges? 53
+Self-Reporting, Cooperation, and Remedial Efforts 54
+Criminal Cases 54
+Civil Cases 55
+Corporate Compliance Program 56
+Hallmarks of Effective Compliance Programs 57
+Commitment from Senior Management and a Clearly Articulated Policy Against Corruption 57
+Code of Conduct and Compliance Policies and Procedures 57
+Oversight, Autonomy, and Resources 58
+Risk Assessment 58
+Training and Continuing Advice 59
+Incentives and Disciplinary Measures 59
+Third-Party Due Diligence and Payments 60
+Confidential Reporting and Internal Investigation 61
+Continuous Improvement: Periodic Testing and Review 61
+Mergers and Acquisitions: Pre-Acquisition Due Diligence and Post-Acquisition Integration 62
+Other Guidance on Compliance and International Best Practices 63
+Chapter 6: FCPA PENALTIES, SANCTIONS, AND REMEDIES . . . . . . . . . . . . . . . 68
+What Are the Potential Consequences for Violations of the FCPA? 68
+Criminal Penalties 68
+U.S. Sentencing Guidelines 68
+Civil Penalties 69
+Collateral Consequences 69
+Debarment 70
+Cross-Debarment by Multilateral Development Banks 70
+Loss of Export Privileges 71
+When Is a Compliance Monitor or Independent Consultant Appropriate? 71
+Chapter 7: RESOLUTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
+What Are the Different Types of Resolutions with DOJ? 74
+Criminal Complaints, Informations, and Indictments 74
+Plea Agreements 74
+Deferred Prosecution Agreements 74
+Non-Prosecution Agreements 75
+Declinations 75
+What Are the Different Types of Resolutions with SEC? 76
+Civil Injunctive Actions and Remedies 76
+Civil Administrative Actions and Remedies 76
+Deferred Prosecution Agreements 76
+Non-Prosecution Agreements 77
+Termination Letters and Declinations 77
+What Are Some Examples of Past Declinations by DOJ and SEC? 77
+Chapter 8: WHISTLEBLOWER PROVISIONS AND PROTECTIONS . . . . . . . . . . . . . 82
+Chapter 9: DOJ OPINION PROCEDURE . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Chapter 10: CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+APPENDIX: THE FOREIGN CORRUPT PRACTICES ACT . . . . . . . . . . . . . . . . . . 92
+APPENDIX: ENDNOTES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104
+Corporate bribery is bad business. In our free market system it is basic that the
+sale of products should take place on the basis of price, quality, and service.
+Corporate bribery is fundamentally destructive of this basic tenet. Corporate
+bribery of foreign officials takes place primarily to assist corporations in gaining
+business. Thus foreign corporate bribery affects the very stability of overseas
+business. Foreign corporate bribes also affect our domestic competitive climate
+when domestic firms engage in such practices as a substitute for healthy competition
+for foreign business. 1 —United States Senate, 1977
+
+chapter 1
+Introduction
+INTRODUCTION
+Congress enacted the U.S. Foreign Corrupt Practices Act (FCPA or the Act) in
+1977 in response to revelations of widespread bribery of foreign officials by U.S.
+companies. The Act was intended to halt those corrupt practices, create a level
+playing field for honest businesses, and restore public confidence in the integrity
+of the marketplace. 2
+The FCPA contains both anti-bribery and accounting
+provisions. The anti-bribery provisions prohibit U.S. persons
+and businesses (domestic concerns), U.S. and foreign
+public companies listed on stock exchanges in the United
+States or which are required to file periodic reports with
+the Securities and Exchange Commission (issuers), and
+certain foreign persons and businesses acting while in the
+territory of the United States (territorial jurisdiction) from
+making corrupt payments to foreign officials to obtain or
+retain business. The accounting provisions require issuers
+to make and keep accurate books and records and to devise
+and maintain an adequate system of internal accounting
+controls. The accounting provisions also prohibit individuals
+and businesses from knowingly falsifying books and
+records or knowingly circumventing or failing to implement
+a system of internal controls.
+The Department of Justice (DOJ) and the
+Securities and Exchange Commission (SEC) share FCPA
+enforcement authority and are committed to fighting foreign
+bribery through robust enforcement. An important
+component of this effort is education, and this resource
+guide, prepared by DOJ and SEC staff, aims to provide
+businesses and individuals with information to help them
+abide by the law, detect and prevent FCPA violations, and
+implement effective compliance programs.
+The Costs of Corruption
+Corruption is a global problem. In the three decades
+since Congress enacted the FCPA, the extent of corporate
+bribery has become clearer and its ramifications in a transnational
+economy starker. Corruption impedes economic
+growth by diverting public resources from important priorities
+such as health, education, and infrastructure. It
+undermines democratic values and public accountability
+and weakens the rule of law. 3 And it threatens stability and
+security by facilitating criminal activity within and across
+2
+borders, such as the illegal trafficking of people, weapons,
+and drugs. 4 International corruption also undercuts good
+governance and impedes U.S. efforts to promote freedom
+and democracy, end poverty, and combat crime and terrorism
+across the globe. 5
+Corruption is also bad for business. Corruption is
+anti-competitive, leading to distorted prices and disadvantaging
+honest businesses that do not pay bribes. It increases
+the cost of doing business globally and inflates the cost of
+government contracts in developing countries. 6 Corruption
+also introduces significant uncertainty into business transactions:
+Contracts secured through bribery may be legally
+unenforceable, and paying bribes on one contract often
+results in corrupt officials making ever-increasing demands. 7
+Bribery has destructive effects within a business as well,
+undermining employee confidence in a company’s management
+and fostering a permissive atmosphere for other kinds
+of corporate misconduct, such as employee self-dealing,
+embezzlement, 8 financial fraud, 9 and anti-competitive
+behavior. 10 Bribery thus raises the risks of doing business,
+putting a company’s bottom line and reputation in jeopardy.
+Companies that pay bribes to win business ultimately
+undermine their own long-term interests and the best interests
+of their investors.
+Historical Background
+Congress enacted the FCPA in 1977 after revelations
+of widespread global corruption in the wake of the
+Watergate political scandal. SEC discovered that more than
+400 U.S. companies had paid hundreds of millions of dollars
+in bribes to foreign government officials to secure business
+overseas. 11 SEC reported that companies were using
+secret “slush funds” to make illegal campaign contributions
+in the United States and corrupt payments to foreign officials
+abroad and were falsifying their corporate financial
+records to conceal the payments. 12
+Congress viewed passage of the FCPA as critical
+to stopping corporate bribery, which had tarnished the
+image of U.S. businesses, impaired public confidence in
+the financial integrity of U.S. companies, and hampered
+the efficient functioning of the markets. 13 As Congress
+No problem does more to alienate citizens
+from their political leaders and institutions,
+and to undermine political stability and
+economic development, than endemic
+corruption among the government, political
+party leaders, judges, and bureaucrats.
+— USAID Anti-Corruption Strategy
+recognized when it passed the FCPA, corruption imposes
+enormous costs both at home and abroad, leading to market
+inefficiencies and instability, sub-standard products,
+and an unfair playing field for honest businesses. 14 By
+enacting a strong foreign bribery statute, Congress sought
+to minimize these destructive effects and help companies
+resist corrupt demands, while addressing the destructive
+foreign policy ramifications of transnational bribery.
+15 The Act also prohibited off-the-books accounting
+through provisions designed to “strengthen the accuracy
+of the corporate books and records and the reliability of
+the audit process which constitute the foundations of our
+system of corporate disclosure.” 16
+In 1988, Congress amended the FCPA to add two
+affirmative defenses: (1) the local law defense; and (2) the
+reasonable and bona fide promotional expense defense. 17
+Congress also requested that the President negotiate an
+international treaty with members of the Organisation
+for Economic Co-operation and Development (OECD)
+to prohibit bribery in international business transactions
+by many of the United States’ major trading partners. 18
+Subsequent negotiations at the OECD culminated in the
+Convention on Combating Bribery of Foreign Officials
+in International Business Transactions (Anti-Bribery
+Convention), which, among other things, required parties
+to make it a crime to bribe foreign officials. 19
+3
+DOJ Contact Information
+Deputy Chief (FCPA Unit)
+Fraud Section, Criminal Division
+Bond Building
+1400 New York Ave, N.W.
+Washington, DC 20005
+Telephone: (202) 514-7023
+Facsimile: (202) 514-7021
+Email: FCPA.Fraud@usdoj.gov
+In 1998, the FCPA was amended to conform to
+the requirements of the Anti-Bribery Convention. These
+amendments expanded the FCPA’s scope to: (1) include
+payments made to secure “any improper advantage”; (2)
+reach certain foreign persons who commit an act in furtherance
+of a foreign bribe while in the United States; (3)
+cover public international organizations in the definition
+of “foreign official”; (4) add an alternative basis for jurisdiction
+based on nationality; and (5) apply criminal penalties
+to foreign nationals employed by or acting as agents
+of U.S. companies. 20 The Anti-Bribery Convention came
+into force on February 15, 1999, with the United States
+as a founding party.
+National Landscape: Interagency
+Efforts
+DOJ and SEC share enforcement authority for the
+FCPA’s anti-bribery and accounting provisions. 21 They also
+work with many other federal agencies and law enforcement
+partners to investigate and prosecute FCPA violations,
+reduce bribery demands through good governance
+programs and other measures, and promote a fair playing
+field for U.S. companies doing business abroad.
+chapter 1
+Introduction
+directors, employees, agents, or stockholders acting on the
+issuer’s behalf. DOJ also has both criminal and civil enforcement
+responsibility for the FCPA’s anti-bribery provisions
+over “domestic concerns”—which include (a) U.S. citizens,
+nationals, and residents and (b) U.S. businesses and their
+officers, directors, employees, agents, or stockholders acting
+on the domestic concern’s behalf—and certain foreign
+persons and businesses that act in furtherance of an FCPA
+violation while in the territory of the United States. Within
+DOJ, the Fraud Section of the Criminal Division has primary
+responsibility for all FCPA matters. 22 FCPA matters
+are handled primarily by the FCPA Unit within the Fraud
+Section, regularly working jointly with U.S. Attorneys’
+Offices around the country.
+DOJ maintains a website dedicated to the FCPA and
+its enforcement at http://www.justice.gov/criminal/fraud/
+fcpa/. The website provides translations of the FCPA in
+numerous languages, relevant legislative history, and selected
+documents from FCPA-related prosecutions and resolutions
+since 1977, including charging documents, plea agreements,
+deferred prosecution agreements, non-prosecution agreements,
+press releases, and other relevant pleadings and court
+decisions. The website also provides copies of opinions issued
+in response to requests by companies and individuals under
+DOJ’s FCPA opinion procedure. The procedures for submitting
+a request for an opinion can be found at http://www.
+justice.gov/criminal/fraud/fcpa/docs/frgncrpt.pdf and are
+discussed further in Chapter 9. Individuals and companies
+wishing to disclose information about potential FCPA violations
+are encouraged to contact the FCPA Unit at the telephone
+number or email address above.
+Department of Justice
+DOJ has criminal FCPA enforcement authority
+over “issuers” (i.e., public companies) and their officers,
+Securities and Exchange Commission
+SEC is responsible for civil enforcement of the FCPA
+over issuers and their officers, directors, employees, agents,
+4
+SEC Contact Information
+FCPA Unit Chief
+Division of Enforcement
+U.S. Securities and Exchange Commission
+100 F Street, N.E.
+Washington, DC 20549
+Online: Tips, Complaints, and
+Referrals website
+http://www.sec.gov/complaint/tipscomplaint.shtml
+Office of Investor Education and Advocacy:
+(800) SEC-0330
+or stockholders acting on the issuer’s behalf. SEC’s Division
+of Enforcement has responsibility for investigating and
+prosecuting FCPA violations. In 2010, SEC’s Enforcement
+Division created a specialized FCPA Unit, with attorneys
+in Washington, D.C. and in regional offices around the
+country, to focus specifically on FCPA enforcement. The
+Unit investigates potential FCPA violations; facilitates
+coordination with DOJ’s FCPA program and with other
+federal and international law enforcement partners; uses its
+expert knowledge of the law to promote consistent enforcement
+of the FCPA; analyzes tips, complaints, and referrals
+regarding allegations of foreign bribery; and conducts public
+outreach to raise awareness of anti-corruption efforts
+and good corporate governance programs.
+The FCPA Unit maintains a “Spotlight on FCPA”
+section on SEC’s website at http://www.sec.gov/spotlight/
+fcpa.shtml. The website, which is updated regularly, provides
+general information about the Act, links to all SEC
+enforcement actions involving the FCPA, including both
+federal court actions and administrative proceedings, and
+contains other useful information.
+Individuals and companies with information about
+possible FCPA violations by issuers may report them to the
+Enforcement Division via SEC’s online Tips, Complaints
+and Referral system, http://www.sec.gov/complaint/tipscomplaint.shtml.
+They may also submit information to
+SEC’s Office of the Whistleblower through the same online
+system or by contacting the Office of the Whistleblower
+at (202) 551-4790. Additionally, investors with questions
+about the FCPA can call the Office of Investor Education
+and Advocacy at (800) SEC-0330.
+For more information about SEC’s Whistleblower
+Program, under which certain eligible whistleblowers may
+be entitled to a monetary award if their information leads to
+certain SEC actions, see Chapter 8.
+Law Enforcement Partners
+DOJ’s FCPA Unit regularly works with the Federal
+Bureau of Investigation (FBI) to investigate potential FCPA
+violations. The FBI’s International Corruption Unit has primary
+responsibility for international corruption and fraud
+investigations and coordinates the FBI’s national FCPA
+enforcement program. The FBI also has a dedicated FCPA
+squad of FBI special agents (located in the Washington
+Field Office) that is responsible for investigating many, and
+providing support for all, of the FBI’s FCPA investigations.
+In addition, the Department of Homeland Security and the
+Internal Revenue Service-Criminal Investigation regularly
+investigate potential FCPA violations. A number of other
+agencies are also involved in the fight against international
+corruption, including the Department of Treasury’s Office
+of Foreign Assets Control, which has helped lead a number
+of FCPA investigations.
+Departments of Commerce and State
+Besides enforcement efforts by DOJ and SEC,
+the U.S. government is also working to address corruption
+abroad and level the playing field for U.S. businesses
+through the efforts of the Departments of Commerce and
+State. Both Commerce and State advance anti-corruption
+and good governance initiatives globally and regularly
+assist U.S. companies doing business overseas in several
+5
+important ways. Both agencies encourage U.S. businesses
+to seek the assistance of U.S embassies when they are confronted
+with bribe solicitations or other corruption-related
+issues overseas. 23
+The Department of Commerce offers a number
+of important resources for businesses, including the
+International Trade Administration’s United States and
+Foreign Commercial Service (Commercial Service). The
+Commercial Service has export and industry specialists
+located in over 100 U.S. cities and 70 countries who are
+available to provide counseling and other assistance to U.S.
+businesses, particularly small and medium-sized companies,
+regarding exporting their products and services. Among
+other things, these specialists can help a U.S. company conduct
+due diligence when choosing business partners or agents
+overseas. The International Company Profile Program, for
+instance, can be part of a U.S. business’ evaluation of potential
+overseas business partners. 24 Businesses may contact the
+Commercial Service through its website, http://export.gov/
+eac/, or directly at its domestic and foreign offices. 25
+Additionally, the Department of Commerce’s Office
+of the General Counsel maintains a website, http://www.
+commerce.gov/os/ogc/transparency-and-anti-briberyinitiatives,
+that contains recent articles and speeches, links
+to translations of the FCPA, a catalogue of anti-corruption
+resources, and a list of international conventions and initiatives.
+The Trade Compliance Center in the Department
+of Commerce’s International Trade Administration hosts
+a website with anti-bribery resources, http://tcc.export.
+gov/Bribery. This website contains an online form through
+which U.S. companies can report allegations of foreign
+bribery by foreign competitors in international business
+transactions. 26 The Department of Commerce also provides
+information to companies through a number of U.S.
+and international publications designed to assist firms in
+complying with anti-corruption laws. For example, the
+Department of Commerce has included a new anti-corruption
+section in its Country Commercial Guides, prepared
+by market experts at U.S. embassies worldwide, that contains
+information on market conditions for more than 100 countries,
+including information on the FCPA for exporters. 27
+chapter 1
+Introduction
+The Department of Commerce has also published a guide,
+Business Ethics: A Manual for Managing a Responsible
+Business Enterprise in Emerging Market Economies, which
+contains information about corporate compliance programs
+for businesses involved in international trade. 28
+The Departments of Commerce and State also provide
+advocacy support, when determined to be in the
+national interest, for U.S. companies bidding for foreign
+government contracts. The Department of Commerce’s
+Advocacy Center, for example, supports U.S. businesses
+competing against foreign companies for international contracts,
+such as by arranging for the delivery of an advocacy
+message by U.S. government officials or assisting with unanticipated
+problems such as suspected bribery by a competitor.
+29 The Department of State’s Bureau of Economic and
+Business Affairs (specifically, its Office of Commercial and
+Business Affairs) similarly assists U.S. firms doing business
+overseas by providing advocacy on behalf of U.S. businesses
+and identifying risk areas for U.S. businesses; more information
+is available on its website, http://www.state.gov/e/
+eb/cba/. Also, the Department of State’s economic officers
+serving overseas provide commercial advocacy and support
+for U.S. companies at the many overseas diplomatic posts
+where the Commercial Service is not represented.
+The Department of State promotes U.S. government
+interests in addressing corruption internationally through
+country-to-country diplomatic engagement; development
+of and follow-through on international commitments relating
+to corruption; promotion of high-level political engagement
+(e.g., the G20 Anticorruption Action Plan); public
+outreach in foreign countries; and support for building
+the capacity of foreign partners to combat corruption. In
+fiscal year 2009, the U.S. government provided more than
+$1 billion for anti-corruption and related good governance
+assistance abroad.
+6
+The Department of State’s Bureau of International
+Narcotics and Law Enforcement Affairs (INL) manages
+U.S. participation in many multilateral anti-corruption
+political and legal initiatives at the global and regional level.
+INL also funds and coordinates significant efforts to assist
+countries with combating corruption through legal reform,
+training, and other capacity-building efforts. Inquiries about
+the U.S. government’s general anti-corruption efforts and
+implementation of global and regional anti-corruption initiatives
+may be directed to INL on its website, http://www.
+state.gov/j/inl/c/crime/corr/index.htm, or by email to:
+anticorruption@state.gov. In addition, the U.S. Agency for
+International Development (USAID) has developed several
+anti-corruption programs and publications, information
+about which can be found at http://www.usaid.gov/whatwe-do/democracy-human-rights-and-governance/promoting-accountability-transparency.
+Finally, the Department of
+State’s brochure “Fighting Global Corruption: Business Risk
+Management,” available at http://www.ogc.doc.gov/pdfs/
+Fighting_Global_Corruption.pdf, provides guidance about
+corporate compliance programs as well as international anticorruption
+initiatives.
+International Landscape: Global Anti-
+Corruption Efforts
+In recent years, there has been a growing international
+consensus that corruption must be combated, and the
+United States and other countries are parties to a number
+of international anti-corruption conventions. Under these
+conventions, countries that are parties undertake commitments
+to adopt a range of preventive and criminal law measures
+to combat corruption. The conventions incorporate
+review processes that allow the United States to monitor
+other countries to ensure that they are meeting their international
+obligations. Likewise, these processes in turn permit
+other parties to monitor the United States’ anti-corruption
+laws and enforcement to ensure that such enforcement and
+legal frameworks are consistent with the United States’ treaty
+obligations. 30 U.S. officials regularly address the subject of
+corruption with our foreign counterparts to raise awareness
+of the importance of fighting corruption and urge stronger
+enforcement of anti-corruption laws and policies.
+OECD Working Group on Bribery and the Anti-
+Bribery Convention
+The OECD was founded in 1961 to stimulate economic
+progress and world trade. As noted, the Anti-Bribery
+Convention requires its parties to criminalize the bribery
+of foreign public officials in international business transactions.
+31 As of November 1, 2012, there were 39 parties to
+the Anti-Bribery Convention: 34 OECD member countries
+(including the United States) and five non-OECD
+member countries (Argentina, Brazil, Bulgaria, the Russian
+Federation, and South Africa). All of these parties are
+also members of the OECD Working Group on Bribery
+(Working Group). 32
+The Working Group is responsible for monitoring the
+implementation of the Anti-Bribery Convention, the 2009
+Recommendation of the Council for Further Combating
+Bribery of Foreign Public Officials in International
+Business Transactions, and related instruments. Its members
+meet quarterly to review and monitor implementation
+of the Anti-Bribery Convention by member states around
+the world. Each party undergoes periodic peer review. 33
+This peer-review monitoring system is conducted in three
+phases. The Phase 1 review includes an in-depth assessment
+of each country’s domestic laws implementing the
+Convention. The Phase 2 review examines the effectiveness
+of each country’s laws and anti-bribery efforts. The final
+phase is a permanent cycle of peer review (the first cycle of
+which is referred to as the Phase 3 review) that evaluates
+a country’s enforcement actions and results, as well as the
+country’s efforts to address weaknesses identified during the
+Phase 2 review. 34 All of the monitoring reports for the parties
+to the Convention can be found on the OECD website
+and can be a useful resource about the foreign bribery laws
+of the OECD Working Group member countries. 35
+The United States was one of the first countries to
+undergo all three phases of review. The reports and appendices
+can be found on DOJ’s and SEC’s websites. 36 In its
+7
+Phase 3 review of the United States, which was completed
+in October 2010, the Working Group commended U.S.
+efforts to fight transnational bribery and highlighted a
+number of best practices developed by the United States.
+The report also noted areas where the United States’ antibribery
+efforts could be improved, including consolidating
+publicly available information on the application of
+the FCPA and enhancing awareness among small- and
+medium-sized companies about the prevention and detection
+of foreign bribery. This guide is, in part, a response to
+these Phase 3 recommendations and is intended to help
+businesses and individuals better understand the FCPA. 37
+U.N. Convention Against Corruption
+The United States is a state party to the United
+Nations Convention Against Corruption (UNCAC),
+which was adopted by the U.N. General Assembly on
+October 31, 2003, and entered into force on December
+14, 2005. 38 The United States ratified the UNCAC on
+October 30, 2006. The UNCAC requires parties to criminalize
+a wide range of corrupt acts, including domestic and
+foreign bribery and related offenses such as money laundering
+and obstruction of justice. The UNCAC also establishes
+guidelines for the creation of anti-corruption bodies,
+codes of conduct for public officials, transparent and objective
+systems of procurement, and enhanced accounting and
+auditing standards for the private sector. A peer review
+mechanism assesses the implementation of the UNCAC
+by parties to the Convention, with a focus in the first round
+on criminalization and law enforcement as well as international
+legal cooperation. 39 The United States has been
+reviewed under the Pilot Review Programme, the report
+of which is available on DOJ’s website. As of November 1,
+2012, 163 countries were parties to the UNCAC. 40
+chapter 1
+Introduction
+The IACAC requires parties (of which the United States
+is one) to criminalize both foreign and domestic bribery.
+A body known as the Mechanism for Follow-Up on
+the Implementation of the Inter-American Convention
+Against Corruption (MESICIC) monitors parties’ compliance
+with the IACAC. As of November 1, 2012, 31 countries
+were parties to MESICIC.
+The Council of Europe established the Group of
+States Against Corruption (GRECO) in 1999 to monitor
+countries’ compliance with the Council of Europe’s anticorruption
+standards, including the Council of Europe’s
+Criminal Law Convention on Corruption. 42 These standards
+include prohibitions on the solicitation and receipt of
+bribes, as well as foreign bribery. As of November 1, 2012,
+GRECO member states, which need not be members of
+the Council of Europe, include more than 45 European
+countries and the United States. 43
+The United States has been reviewed under both
+MESICIC and GRECO, and the reports generated by
+those reviews are available on DOJ’s website.
+Other Anti-Corruption Conventions
+The Inter-American Convention Against Corruption
+(IACAC) was the first international anti-corruption convention,
+adopted in March 1996 in Caracas, Venezuela,
+by members of the Organization of American States. 41
+8
+
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+THE FCPA: ANTI-BRIBERY
+PROVISIONS
+The FCPA addresses the problem of international corruption in two ways: (1)
+the anti-bribery provisions, which are discussed below, prohibit individuals
+and businesses from bribing foreign government officials in order to obtain
+or retain business and (2) the accounting provisions, which are discussed in
+Chapter 3, impose certain record keeping and internal control requirements
+on issuers, and prohibit individuals and companies from knowingly falsifying
+an issuer’s books and records or circumventing or failing to implement an issuer’s
+system of internal controls. Violations of the FCPA can lead to civil and
+criminal penalties, sanctions, and remedies, including fines, disgorgement,
+and/or imprisonment.
+In general, the FCPA prohibits offering to pay, paying,
+promising to pay, or authorizing the payment of money
+or anything of value to a foreign official in order to influence
+any act or decision of the foreign official in his or her
+official capacity or to secure any other improper advantage
+in order to obtain or retain business. 44
+Who Is Covered by the Anti-Bribery Provisions?
+The FCPA’s anti-bribery provisions apply broadly to
+three categories of persons and entities: (1) “issuers” and
+their officers, directors, employees, agents, and shareholders;
+(2) “domestic concerns” and their officers, directors,
+employees, agents, and shareholders; and (3) certain persons
+and entities, other than issuers and domestic concerns,
+acting while in the territory of the United States.
+Issuers—15 U.S.C. § 78dd-1
+Section 30A of the Securities Exchange Act of 1934
+(the Exchange Act), which can be found at 15 U.S.C.
+§ 78dd-1, contains the anti-bribery provision governing
+10
+How Can I Tell If My Company Is an “Issuer”?
+• It is listed on a national securities exchange in the
+United States (either stock or American Depository
+Receipts); or
+• The company’s stock trades in the over-thecounter
+market in the United States and the
+company is required to file SEC reports.
+• To see if your company files SEC reports, go to
+SEC’s website at http://www.sec.gov/edgar/
+searchedgar/webusers.htm.
+issuers. 45 A company is an “issuer” under the FCPA if it
+has a class of securities registered under Section 12 of the
+Exchange Act 46 or is required to file periodic and other
+reports with SEC under Section 15(d) of the Exchange
+Act. 47 In practice, this means that any company with a
+class of securities listed on a national securities exchange in
+the United States, or any company with a class of securities
+quoted in the over-the-counter market in the United
+States and required to file periodic reports with SEC, is an
+issuer. A company thus need not be a U.S. company to be
+an issuer. Foreign companies with American Depository
+Receipts that are listed on a U.S. exchange are also issuers. 48
+As of December 31, 2011, 965 foreign companies were registered
+with SEC. 49 Officers, directors, employees, agents,
+or stockholders acting on behalf of an issuer (whether U.S.
+or foreign nationals), and any co-conspirators, also can be
+prosecuted under the FCPA. 50
+Domestic Concerns—15 U.S.C. § 78dd-2
+The FCPA also applies to “domestic concerns.” 51 A
+domestic concern is any individual who is a citizen, national,
+or resident of the United States, or any corporation, partnership,
+association, joint-stock company, business trust,
+unincorporated organization, or sole proprietorship that is
+organized under the laws of the United States or its states,
+territories, possessions, or commonwealths or that has its
+principal place of business in the United States. 52 Officers,
+directors, employees, agents, or stockholders acting on
+behalf of a domestic concern, including foreign nationals or
+companies, are also covered. 53
+Territorial Jurisdiction—15 U.S.C. § 78dd-3
+The FCPA also applies to certain foreign nationals or
+entities that are not issuers or domestic concerns. 54 Since
+1998, the FCPA’s anti-bribery provisions have applied to
+foreign persons and foreign non-issuer entities that, either
+directly or through an agent, engage in any act in furtherance
+of a corrupt payment (or an offer, promise, or authorization
+to pay) while in the territory of the United States. 55
+Also, officers, directors, employees, agents, or stockholders
+acting on behalf of such persons or entities may be subject
+to the FCPA’s anti-bribery prohibitions. 56
+What Jurisdictional Conduct Triggers the Anti-
+Bribery Provisions?
+The FCPA’s anti-bribery provisions can apply to
+conduct both inside and outside the United States. Issuers
+and domestic concerns—as well as their officers, directors,
+employees, agents, or stockholders—may be prosecuted
+for using the U.S. mails or any means or instrumentality of
+interstate commerce in furtherance of a corrupt payment
+to a foreign official. The Act defines “interstate commerce”
+as “trade, commerce, transportation, or communication
+among the several States, or between any foreign country
+and any State or between any State and any place or ship
+outside thereof ….” 57 The term also includes the intrastate
+use of any interstate means of communication, or any other
+interstate instrumentality. 58 Thus, placing a telephone call or
+sending an e-mail, text message, or fax from, to, or through
+the United States involves interstate commerce—as does
+sending a wire transfer from or to a U.S. bank or otherwise
+using the U.S. banking system, or traveling across state borders
+or internationally to or from the United States.
+Those who are not issuers or domestic concerns may
+be prosecuted under the FCPA if they directly, or through
+an agent, engage in any act in furtherance of a corrupt payment
+while in the territory of the United States, regardless of
+11
+whether they utilize the U.S. mails or a means or instrumentality
+of interstate commerce. 59 Thus, for example, a foreign
+national who attends a meeting in the United States that furthers
+a foreign bribery scheme may be subject to prosecution,
+as may any co-conspirators, even if they did not themselves
+attend the meeting. A foreign national or company may also
+be liable under the FCPA if it aids and abets, conspires with,
+or acts as an agent of an issuer or domestic concern, regardless
+of whether the foreign national or company itself takes any
+action in the United States. 60
+In addition, under the “alternative jurisdiction” provision
+of the FCPA enacted in 1998, U.S. companies or
+persons may be subject to the anti-bribery provisions even
+if they act outside the United States. 61 The 1998 amendments
+to the FCPA expanded the jurisdictional coverage of
+the Act by establishing an alternative basis for jurisdiction,
+that is, jurisdiction based on the nationality principle. 62 In
+particular, the 1998 amendments removed the requirement
+that there be a use of interstate commerce (e.g., wire, email,
+telephone call) for acts in furtherance of a corrupt payment
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+to a foreign official by U.S. companies and persons occurring
+wholly outside of the United States. 63
+What Is Covered?—The Business
+Purpose Test
+The FCPA applies only to payments intended to
+induce or influence a foreign official to use his or her position
+“in order to assist … in obtaining or retaining business
+for or with, or directing business to, any person.” 64 This
+requirement is known as the “business purpose test” and is
+broadly interpreted. 65
+Not surprisingly, many enforcement actions involve
+bribes to obtain or retain government contracts. 66 The
+FCPA also prohibits bribes in the conduct of business or
+Hypothetical: FCPA Jurisdiction
+Company A, a Delaware company with its principal place of business in New York, is a large energy company that
+operates globally, including in a number of countries that have a high risk of corruption, such as Foreign Country. Company
+A’s shares are listed on a national U.S. stock exchange. Company A enters into an agreement with a European company
+(EuroCo) to submit a joint bid to the Oil Ministry to build a refinery in Foreign Country. EuroCo is not an issuer.
+Executives of Company A and EuroCo meet in New York to discuss how to win the bid and decide to hire a purported
+third-party consultant (Intermediary) and have him use part of his “commission” to bribe high-ranking officials within the
+Oil Ministry. Intermediary meets with executives at Company A and EuroCo in New York to finalize the scheme. Eventually,
+millions of dollars in bribes are funneled from the United States and Europe through Intermediary to high-ranking officials
+at the Oil Ministry, and Company A and EuroCo win the contract. A few years later, a front page article alleging that the
+contract was procured through bribery appears in Foreign Country, and DOJ and SEC begin investigating whether the
+FCPA was violated.
+Based on these facts, which entities fall within the FCPA’s jurisdiction?
+All of the entities easily fall within the FCPA’s jurisdiction. Company A is both an “issuer” and a “domestic concern”
+under the FCPA, and Intermediary is an “agent” of Company A. EuroCo and Intermediary are also subject to the FCPA’s
+territorial jurisdiction provision based on their conduct while in the United States. Moreover, even if EuroCo and Intermediary
+had never taken any actions in the territory of the United States, they can still be subject to jurisdiction under a traditional
+application of conspiracy law and may be subject to substantive FCPA charges under Pinkerton liability, namely, being liable
+for the reasonably foreseeable substantive FCPA crimes committed by a co-conspirator in furtherance of the conspiracy.
+12
+Examples of Actions Taken
+to Obtain or Retain Business
+• Winning a contract
+• Influencing the procurement process
+• Circumventing the rules for importation of
+products
+• Gaining access to non-public bid tender
+information
+• Evading taxes or penalties
+• Influencing the adjudication of lawsuits or
+enforcement actions
+• Obtaining exceptions to regulations
+• Avoiding contract termination
+held that payments to obtain favorable tax treatment can,
+under appropriate circumstances, violate the FCPA:
+Avoiding or lowering taxes reduces operating costs
+and thus increases profit margins, thereby freeing up
+funds that the business is otherwise legally obligated
+to expend. And this, in turn, enables it to take any
+number of actions to the disadvantage of competitors.
+Bribing foreign officials to lower taxes and customs
+duties certainly can provide an unfair advantage
+over competitors and thereby be of assistance to the
+payor in obtaining or retaining business.
+* * *
+[W]e hold that Congress intended for the FCPA
+to apply broadly to payments intended to assist the
+payor, either directly or indirectly, in obtaining or
+retaining business for some person, and that bribes
+paid to foreign tax officials to secure illegally reduced
+customs and tax liability constitute a type of payment
+that can fall within this broad coverage. 72
+to gain a business advantage. 67 For example, bribe payments
+made to secure favorable tax treatment, to reduce or eliminate
+customs duties, to obtain government action to prevent
+competitors from entering a market, or to circumvent
+a licensing or permit requirement, all satisfy the business
+purpose test. 68
+In 2004, the U.S. Court of Appeals for the Fifth Circuit
+addressed the business purpose test in United States v. Kay
+and held that bribes paid to obtain favorable tax treatment—
+which reduced a company’s customs duties and sales taxes
+on imports—could constitute payments made to “obtain
+or retain” business within the meaning of the FCPA. 69 The
+court explained that in enacting the FCPA, “Congress meant
+to prohibit a range of payments wider than only those that
+directly influence the acquisition or retention of government
+contracts or similar commercial or industrial arrangements.”
+70 The Kay court found that “[t]he congressional
+target was bribery paid to engender assistance in improving
+the business opportunities of the payor or his beneficiary,
+irrespective of whether that assistance be direct or indirect,
+and irrespective of whether it be related to administering
+the law, awarding, extending, or renewing a contract, or
+executing or preserving an agreement.” 71 Accordingly, Kay
+Paying Bribes to Customs Officials
+In 2010, a global freight forwarding company and
+six of its corporate customers in the oil and gas industry
+resolved charges that they paid bribes to customs
+officials. The companies bribed customs officials in more
+than ten countries in exchange for such benefits as:
+• evading customs duties on imported goods
+• improperly expediting the importation of goods
+and equipment
+• extending drilling contracts and lowering tax
+assessments
+• obtaining false documentation related to
+temporary import permits for drilling rigs
+• enabling the release of drilling rigs and other
+equipment from customs officials
+In many instances, the improper payments at issue
+allowed the company to carry out its existing business,
+which fell within the FCPA’s prohibition on corrupt
+payments made for the purpose of “retaining” business.
+The seven companies paid a total of more than $235
+million in civil and criminal sanctions and disgorgement.
+13
+In short, while the FCPA does not cover every type
+of bribe paid around the world for every purpose, it does
+apply broadly to bribes paid to help obtain or retain business,
+which can include payments made to secure a wide
+variety of unfair business advantages. 73
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+What Does “Corruptly” Mean?
+To violate the FCPA, an offer, promise, or authorization
+of a payment, or a payment, to a government official
+must be made “corruptly.” 74 As Congress noted when
+adopting the FCPA, the word “corruptly” means an intent
+or desire to wrongfully influence the recipient:
+The word “corruptly” is used in order to make clear
+that the offer, payment, promise, or gift, must be intended
+to induce the recipient to misuse his official
+position; for example, wrongfully to direct business
+to the payor or his client, to obtain preferential legislation
+or regulations, or to induce a foreign official to
+fail to perform an official function. 75
+Where corrupt intent is present, the FCPA prohibits
+paying, offering, or promising to pay money or anything
+of value (or authorizing the payment or offer). 76 By focusing
+on intent, the FCPA does not require that a corrupt
+act succeed in its purpose. 77 Nor must the foreign official
+actually solicit, accept, or receive the corrupt payment for
+the bribe payor to be liable. 78 For example, in one case, a
+specialty chemical company promised Iraqi government
+officials approximately $850,000 in bribes for an upcoming
+contract. Although the company did not, in the end, make
+the payment (the scheme was thwarted by the U.S. government’s
+investigation), the company still violated the FCPA
+and was held accountable. 79
+Also, as long as the offer, promise, authorization, or
+payment is made corruptly, the actor need not know the
+identity of the recipient; the attempt is sufficient. 80 Thus, an
+executive who authorizes others to pay “whoever you need
+to” in a foreign government to obtain a contract has violated
+the FCPA—even if no bribe is ultimately offered or paid.
+What Does “Willfully” Mean and When
+Does It Apply?
+In order for an individual defendant to be criminally
+liable under the FCPA, he or she must act “willfully.” 81 Proof
+of willfulness is not required to establish corporate criminal
+or civil liability, 82 though proof of corrupt intent is.
+The term “willfully” is not defined in the FCPA, but
+it has generally been construed by courts to connote an
+act committed voluntarily and purposefully, and with a
+bad purpose, i.e., with “knowledge that [a defendant] was
+doing a ‘bad’ act under the general rules of law.” 83 As the
+Supreme Court explained in Bryan v. United States, “[a]s a
+general matter, when used in the criminal context, a ‘willful’
+act is one undertaken with a ‘bad purpose.’ In other
+words, in order to establish a ‘willful’ violation of a statute,
+‘the Government must prove that the defendant acted with
+knowledge that his conduct was unlawful.’” 84
+Notably, as both the Second Circuit and Fifth Circuit
+Courts of Appeals have found, the FCPA does not require
+the government to prove that a defendant was specifically
+aware of the FCPA or knew that his conduct violated the
+FCPA. 85 To be guilty, a defendant must act with a bad purpose,
+i.e., know generally that his conduct is unlawful.
+What Does “Anything of Value” Mean?
+In enacting the FCPA, Congress recognized that bribes
+can come in many shapes and sizes—a broad range of unfair
+benefits 86 —and so the statute prohibits the corrupt “offer,
+payment, promise to pay, or authorization of the payment of
+any money, or offer, gift, promise to give, or authorization of
+the giving of anything of value to” a foreign official. 87
+An improper benefit can take many forms. While
+cases often involve payments of cash (sometimes in the
+guise of “consulting fees” or “commissions” given through
+intermediaries), others have involved travel expenses and
+14
+expensive gifts. Like the domestic bribery statute, the FCPA
+does not contain a minimum threshold amount for corrupt
+gifts or payments. 88 Indeed, what might be considered a
+modest payment in the United States could be a larger and
+much more significant amount in a foreign country.
+Regardless of size, for a gift or other payment to violate
+the statute, the payor must have corrupt intent—that is,
+the intent to improperly influence the government official.
+The corrupt intent requirement protects companies that
+engage in the ordinary and legitimate promotion of their
+businesses while targeting conduct that seeks to improperly
+induce officials into misusing their positions. Thus, it
+is difficult to envision any scenario in which the provision
+of cups of coffee, taxi fare, or company promotional items
+of nominal value would ever evidence corrupt intent, and
+neither DOJ nor SEC has ever pursued an investigation
+on the basis of such conduct. Moreover, as in all areas of
+federal law enforcement, DOJ and SEC exercise discretion
+in deciding which cases promote law enforcement priorities
+and justify investigation. Certain patterns, however,
+have emerged: DOJ’s and SEC’s anti-bribery enforcement
+actions have focused on small payments and gifts only when
+they comprise part of a systemic or long-standing course of
+conduct that evidences a scheme to corruptly pay foreign
+officials to obtain or retain business. These assessments are
+necessarily fact specific.
+Cash
+The most obvious form of corrupt payment is large
+amounts of cash. In some instances, companies have maintained
+cash funds specifically earmarked for use as bribes.
+One U.S. issuer headquartered in Germany disbursed corrupt
+payments from a corporate “cash desk” and used offshore
+bank accounts to bribe government officials to win
+contracts. 89 In another instance, a four-company joint venture
+used its agent to pay $5 million in bribes to a Nigerian
+political party. 90 The payments were made to the agent in
+suitcases of cash (typically in $1 million installments), and,
+in one instance, the trunk of a car when the cash did not fit
+into a suitcase. 91
+Gifts, Travel, Entertainment, and Other Things
+of Value
+A small gift or token of esteem or gratitude is often
+an appropriate way for business people to display respect
+for each other. Some hallmarks of appropriate gift-giving
+are when the gift is given openly and transparently, properly
+recorded in the giver’s books and records, provided only to
+reflect esteem or gratitude, and permitted under local law.
+Items of nominal value, such as cab fare, reasonable
+meals and entertainment expenses, or company promotional
+items, are unlikely to improperly influence an official,
+and, as a result, are not, without more, items that have
+resulted in enforcement action by DOJ or SEC. The larger
+or more extravagant the gift, however, the more likely it was
+given with an improper purpose. DOJ and SEC enforcement
+cases thus have involved single instances of large,
+extravagant gift-giving (such as sports cars, fur coats, and
+other luxury items) as well as widespread gifts of smaller
+items as part of a pattern of bribes. 92 For example, in one
+case brought by DOJ and SEC, a defendant gave a government
+official a country club membership fee and a generator,
+as well as household maintenance expenses, payment
+of cell phone bills, an automobile worth $20,000, and limousine
+services. The same official also received $250,000
+through a third-party agent. 93
+In addition, a number of FCPA enforcement actions
+have involved the corrupt payment of travel and entertainment
+expenses. Both DOJ and SEC have brought cases
+where these types of expenditures occurred in conjunction
+with other conduct reflecting systemic bribery or other
+clear indicia of corrupt intent.
+A case involving a California-based telecommunications
+company illustrates the types of improper travel
+and entertainment expenses that may violate the FCPA. 94
+Between 2002 and 2007, the company spent nearly $7 million
+on approximately 225 trips for its customers in order to
+obtain systems contracts in China, including for employees
+of Chinese state-owned companies to travel to popular tourist
+destinations in the United States. 95 Although the trips
+were purportedly for the individuals to conduct training at
+15
+Examples of Improper
+Travel and Entertainment
+• a $12,000 birthday trip for a government decisionmaker
+from Mexico that included visits to wineries
+and dinners
+• $10,000 spent on dinners, drinks, and
+entertainment for a government official
+• a trip to Italy for eight Iraqi government officials
+that consisted primarily of sightseeing and
+included $1,000 in “pocket money” for each
+official
+• a trip to Paris for a government official and his wife
+that consisted primarily of touring activities via a
+chauffeur-driven vehicle
+the company’s facilities, in reality, no training occurred on
+many of these trips and the company had no facilities at those
+locations. Approximately $670,000 of the $7 million was
+falsely recorded as “training” expenses. 96
+Likewise, a New Jersey-based telecommunications
+company spent millions of dollars on approximately 315
+trips for Chinese government officials, ostensibly to inspect
+factories and train the officials in using the company’s
+equipment. 97 In reality, during many of these trips, the officials
+spent little or no time visiting the company’s facilities,
+but instead visited tourist destinations such as Hawaii, Las
+Vegas, the Grand Canyon, Niagara Falls, Disney World,
+Universal Studios, and New York City. 98 Some of the trips
+were characterized as “factory inspections” or “training”
+with government customers but consisted primarily or
+entirely of sightseeing to locations chosen by the officials,
+typically lasting two weeks and costing between $25,000
+and $55,000 per trip. In some instances, the company gave
+the government officials $500 to $1,000 per day in spending
+money and paid all lodging, transportation, food,
+and entertainment expenses. The company either failed
+to record these expenses or improperly recorded them as
+“consulting fees” in its corporate books and records. The
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+company also failed to implement appropriate internal controls
+to monitor the provision of travel and other things of
+value to Chinese government officials. 99
+Companies also may violate the FCPA if they give
+payments or gifts to third parties, like an official’s family
+members, as an indirect way of corruptly influencing a foreign
+official. For example, one defendant paid personal bills
+and provided airline tickets to a cousin and close friend of
+the foreign official whose influence the defendant sought in
+obtaining contracts. 100 The defendant was convicted at trial
+and received a prison sentence. 101
+As part of an effective compliance program, a company
+should have clear and easily accessible guidelines
+and processes in place for gift-giving by the company’s
+directors, officers, employees, and agents. Though not
+necessarily appropriate for every business, many larger
+companies have automated gift-giving clearance processes
+and have set clear monetary thresholds for gifts
+along with annual limitations, with limited exceptions
+for gifts approved by appropriate management. Clear
+guidelines and processes can be an effective and efficient
+means for controlling gift-giving, deterring improper
+gifts, and protecting corporate assets.
+The FCPA does not prohibit gift-giving. Rather, just
+like its domestic bribery counterparts, the FCPA prohibits
+the payments of bribes, including those disguised as gifts.
+Charitable Contributions
+Companies often engage in charitable giving as part
+of legitimate local outreach. The FCPA does not prohibit
+charitable contributions or prevent corporations from acting
+as good corporate citizens. Companies, however, cannot
+use the pretense of charitable contributions as a way to
+funnel bribes to government officials.
+16
+For example, a pharmaceutical company used charitable
+donations to a small local castle restoration charity
+headed by a foreign government official to induce the official
+to direct business to the company. Although the charity
+was a bona fide charitable organization, internal documents
+at the pharmaceutical company’s subsidiary established that
+the payments were not viewed as charitable contributions
+but rather as “dues” the subsidiary was required to pay for
+assistance from the government official. The payments constituted
+a significant portion of the subsidiary’s total promotional
+donations budget and were structured to allow
+the subsidiary to exceed its authorized limits. The payments
+Hypothetical: Gifts, Travel, and Entertainment
+Company A is a large U.S. engineering company with global operations in more than 50 countries, including a
+number that have a high risk of corruption, such as Foreign Country. Company A’s stock is listed on a national U.S. stock
+exchange. In conducting its business internationally, Company A’s officers and employees come into regular contact with
+foreign officials, including officials in various ministries and state-owned entities. At a trade show, Company A has a booth
+at which it offers free pens, hats, t-shirts, and other similar promotional items with Company A’s logo. Company A also
+serves free coffee, other beverages, and snacks at the booth. Some of the visitors to the booth are foreign officials.
+Is Company A in violation of the FCPA?
+No. These are legitimate, bona fide expenditures made in connection with the promotion, demonstration, or
+explanation of Company A’s products or services There is nothing to suggest corrupt intent here The FCPA does not
+prevent companies from promoting their businesses in this way or providing legitimate hospitality, including to foreign
+officials Providing promotional items with company logos or free snacks as set forth above is an appropriate means of
+providing hospitality and promoting business Such conduct has never formed the basis for an FCPA enforcement action
+At the trade show, Company A invites a dozen current and prospective customers out for drinks, and pays
+the moderate bar tab. Some of the current and prospective customers are foreign officials under the FCPA. Is
+Company A in violation of the FCPA?
+No. Again, the FCPA was not designed to prohibit all forms of hospitality to foreign officials. While the cost here may
+be more substantial than the beverages, snacks, and promotional items provided at the booth, and the invitees specifically
+selected, there is still nothing to suggest corrupt intent.
+Two years ago, Company A won a long-term contract to supply goods and services to the state-owned Electricity
+Commission in Foreign Country. The Electricity Commission is 100% owned, controlled, and operated by the
+government of Foreign Country, and employees of the Electricity Commission are subject to Foreign Country’s
+domestic bribery laws. Some Company A executives are in Foreign Country for meetings with officials of the
+Electricity Commission. The General Manager of the Electricity Commission was recently married, and during the
+trip Company A executives present a moderately priced crystal vase to the General Manager as a wedding gift
+and token of esteem. Is Company A in violation of the FCPA?
+No. It is appropriate to provide reasonable gifts to foreign officials as tokens of esteem or gratitude. It is important that
+such gifts be made openly and transparently, properly recorded in a company’s books and records, and given only where
+appropriate under local law, customary where given, and reasonable for the occasion.
+During the course of the contract described above, Company A periodically provides training to Electricity
+Commission employees at its facilities in Michigan. The training is paid for by the Electricity Commission as part of
+the contract. Senior officials of the Electricity Commission inform Company A that they want to inspect the facilities
+and ensure that the training is working well. Company A pays for the airfare, hotel, and transportation for the
+(cont’d)
+17
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+Electricity Commission senior officials to travel to Michigan to inspect Company A’s facilities. Because it is a lengthy
+international flight, Company A agrees to pay for business class airfare, to which its own employees are entitled
+for lengthy flights. The foreign officials visit Michigan for several days, during which the senior officials perform an
+appropriate inspection. Company A executives take the officials to a moderately priced dinner, a baseball game,
+and a play. Do any of these actions violate the FCPA?
+No Neither the costs associated with training the employees nor the trip for the senior officials to the Company’s
+facilities in order to inspect them violates the FCPA Reasonable and bona fide promotional expenditures do not violate
+the FCPA Here, Company A is providing training to the Electricity Commission’s employees and is hosting the Electricity
+Commission senior officials Their review of the execution and performance of the contract is a legitimate business purpose
+Even the provision of business class airfare is reasonable under the circumstances, as are the meals and entertainment,
+which are only a small component of the business trip
+Would this analysis be different if Company A instead paid for the senior officials to travel first-class with their
+spouses for an all-expenses-paid, week-long trip to Las Vegas, where Company A has no facilities?
+Yes. This conduct almost certainly violates the FCPA because it evinces a corrupt intent. Here, the trip does not appear
+to be designed for any legitimate business purpose, is extravagant, includes expenses for the officials’ spouses, and therefore
+appears to be designed to corruptly curry favor with the foreign government officials. Moreover, if the trip were booked as a
+legitimate business expense—such as the provision of training at its facilities—Company A would also be in violation of the
+FCPA’s accounting provisions. Furthermore, this conduct suggests deficiencies in Company A’s internal controls.
+Company A’s contract with the Electricity Commission is going to expire, and the Electricity Commission is
+offering the next contract through its tender process. An employee of the Electricity Commission contacts
+Company A and offers to provide Company A with confidential, non-public bid information from Company A’s
+competitors if Company A will pay for a vacation to Paris for him and his girlfriend. Employees of Company A
+accede to the official’s request, pay for the vacation, receive the confidential bid information, and yet still do not
+win the contract. Has Company A violated the FCPA?
+Yes Company A has provided things of value to a foreign official for the purpose of inducing the official to misuse
+his office and to gain an improper advantage It does not matter that it was the foreign official who first suggested the
+illegal conduct or that Company A ultimately was not successful in winning the contract This conduct would also violate
+the FCPA’s accounting provisions if the trip were booked as a legitimate business expense and suggests deficiencies in
+Company A’s internal controls
+18
+also were not in compliance with the company’s internal
+policies, which provided that charitable donations generally
+should be made to healthcare institutions and relate to
+the practice of medicine. 102
+Proper due diligence and controls are critical for
+charitable giving. In general, the adequacy of measures
+taken to prevent misuse of charitable donations will depend
+on a risk-based analysis and the specific facts at hand. In
+Opinion Procedure Release No. 10-02, DOJ described the
+due diligence and controls that can minimize the likelihood
+of an FCPA violation. In that matter, a Eurasian-based subsidiary
+of a U.S. non-governmental organization was asked
+by an agency of a foreign government to make a grant to
+a local microfinance institution (MFI) as a prerequisite to
+the subsidiary’s transformation to bank status. The subsidiary
+proposed contributing $1.42 million to a local MFI to
+satisfy the request. The subsidiary undertook an extensive,
+three-stage due diligence process to select the proposed
+grantee and imposed significant controls on the proposed
+grant, including ongoing monitoring and auditing, earmarking
+funds for capacity building, prohibiting compensation
+of board members, and implementing anti-corruption
+compliance provisions. DOJ explained that it would
+not take any enforcement action because the company’s due
+diligence and the controls it planned to put in place sufficed
+to prevent an FCPA violation.
+Other opinion releases also address charitable-type
+grants or donations. Under the facts presented in those
+releases, DOJ approved the proposed grant or donation, 103
+based on due diligence measures and controls such as:
+• certifications by the recipient regarding compliance
+with the FCPA; 104
+• due diligence to confirm that none of the recipient’s
+officers were affiliated with the foreign government
+at issue; 105
+• a requirement that the recipient provide audited
+financial statements; 106
+• a written agreement with the recipient restricting
+the use of funds; 107
+• steps to ensure that the funds were transferred to a
+valid bank account; 108
+• confirmation that the charity’s commitments were
+met before funds were disbursed; 109 and
+• on-going monitoring of the efficacy of the
+program. 110
+Legitimate charitable giving does not violate the
+FCPA. Compliance with the FCPA merely requires that
+charitable giving not be used as a vehicle to conceal payments
+made to corruptly influence foreign officials.
+Five Questions to Consider When Making
+Charitable Payments in a Foreign Country:
+1 What is the purpose of the payment?
+2 Is the payment consistent with the company’s
+internal guidelines on charitable giving?
+3 Is the payment at the request of a foreign official?
+4 Is a foreign official associated with the charity
+and, if so, can the foreign official make decisions
+regarding your business in that country?
+5 Is the payment conditioned upon receiving
+business or other benefits?
+Who Is a Foreign Official?
+The FCPA’s anti-bribery provisions apply to corrupt
+payments made to (1) “any foreign official”; (2) “any foreign
+political party or official thereof ”; (3) “any candidate for
+foreign political office”; or (4) any person, while knowing
+that all or a portion of the payment will be offered, given, or
+promised to an individual falling within one of these three
+categories. 111 Although the statute distinguishes between a
+“foreign official,” “foreign political party or official thereof,”
+and “candidate for foreign political office,” the term “foreign
+official” in this guide generally refers to an individual
+falling within any of these three categories.
+The FCPA defines “foreign official” to include:
+any officer or employee of a foreign government or
+any department, agency, or instrumentality thereof,
+19
+or of a public international organization, or any person
+acting in an official capacity for or on behalf of
+any such government or department, agency, or instrumentality,
+or for or on behalf of any such public
+international organization. 112
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+As this language makes clear, the FCPA broadly
+applies to corrupt payments to “any” officer or employee
+of a foreign government and to those acting on the foreign
+government’s behalf. 113 The FCPA thus covers corrupt
+payments to low-ranking employees and high-level
+officials alike. 114
+The FCPA prohibits payments to foreign officials, not
+to foreign governments. 115 That said, companies contemplating
+contributions or donations to foreign governments
+should take steps to ensure that no monies are used for corrupt
+purposes, such as the personal benefit of individual
+foreign officials.
+Department, Agency, or Instrumentality of a
+Foreign Government
+Foreign officials under the FCPA include officers
+or employees of a department, agency, or instrumentality
+of a foreign government. When a foreign government
+is organized in a fashion similar to the U.S. system, what
+constitutes a government department or agency is typically
+clear (e.g., a ministry of energy, national security agency, or
+transportation authority). 116 However, governments can be
+organized in very different ways. 117 Many operate through
+state-owned and state-controlled entities, particularly in
+such areas as aerospace and defense manufacturing, banking
+and finance, healthcare and life sciences, energy and
+extractive industries, telecommunications, and transportation.
+118 By including officers or employees of agencies and
+instrumentalities within the definition of “foreign official,”
+the FCPA accounts for this variability.
+The term “instrumentality” is broad and can include
+state-owned or state-controlled entities. Whether a particular
+entity constitutes an “instrumentality” under the FCPA
+requires a fact-specific analysis of an entity’s ownership,
+control, status, and function. 119 A number of courts have
+approved final jury instructions providing a non-exclusive
+list of factors to be considered:
+• the foreign state’s extent of ownership of the entity;
+• the foreign state’s degree of control over the entity
+(including whether key officers and directors of
+the entity are, or are appointed by, government
+officials);
+• the foreign state’s characterization of the entity and
+its employees;
+• the circumstances surrounding the entity’s creation;
+• the purpose of the entity’s activities;
+• the entity’s obligations and privileges under the
+foreign state’s law;
+• the exclusive or controlling power vested in the
+entity to administer its designated functions;
+• the level of financial support by the foreign
+state (including subsidies, special tax treatment,
+government-mandated fees, and loans);
+• the entity’s provision of services to the jurisdiction’s
+residents;
+• whether the governmental end or purpose sought
+to be achieved is expressed in the policies of the
+foreign government; and
+• the general perception that the entity is performing
+official or governmental functions. 120
+Companies should consider these factors when evaluating
+the risk of FCPA violations and designing compliance
+programs.
+DOJ and SEC have pursued cases involving instrumentalities
+since the time of the FCPA’s enactment and
+have long used an analysis of ownership, control, status,
+and function to determine whether a particular entity is
+an agency or instrumentality of a foreign government.
+For example, the second-ever FCPA case charged by DOJ
+involved a California company that paid bribes through a
+Mexican corporation to two executives of a state-owned
+20
+Mexican national oil company. 121 And in the early 1980s,
+DOJ and SEC brought cases involving a $1 million bribe to
+the chairman of Trinidad and Tobago’s racing authority. 122
+DOJ and SEC continue to regularly bring FCPA
+cases involving bribes paid to employees of agencies and
+instrumentalities of foreign governments. In one such
+case, the subsidiary of a Swiss engineering company paid
+bribes to officials of a state-owned and controlled electricity
+commission. The commission was created by, owned
+by, and controlled by the Mexican government, and it had
+a monopoly on the transmission and distribution of electricity
+in Mexico. Many of the commission’s board members
+were cabinet-level government officials, and the director
+was appointed by Mexico’s president. 123 Similarly, in
+another recent case, Miami telecommunications executives
+were charged with paying bribes to employees of Haiti’s
+state-owned and controlled telecommunications company.
+The telecommunications company was 97% owned and
+100% controlled by the Haitian government, and its director
+was appointed by Haiti’s president. 124
+While no one factor is dispositive or necessarily more
+important than another, as a practical matter, an entity is
+unlikely to qualify as an instrumentality if a government
+does not own or control a majority of its shares. However,
+there are circumstances in which an entity would qualify
+as an instrumentality absent 50% or greater foreign government
+ownership, which is reflected in the limited number
+of DOJ or SEC enforcement actions brought in such
+situations. For example, in addition to being convicted of
+funneling millions of dollars in bribes to two sitting presidents
+in two different countries, a French issuer’s three
+subsidiaries were convicted of paying bribes to employees
+of a Malaysian telecommunications company that was 43%
+owned by Malaysia’s Ministry of Finance. There, notwithstanding
+its minority ownership stake in the company, the
+Ministry held the status of a “special shareholder,” had veto
+power over all major expenditures, and controlled important
+operational decisions. 125 In addition, most senior
+company officers were political appointees, including the
+Chairman and Director, the Chairman of the Board of the
+Tender Committee, and the Executive Director. 126 Thus,
+despite the Malaysian government having a minority shareholder
+position, the company was an instrumentality of the
+Malaysian government as the government nevertheless had
+substantial control over the company.
+Companies and individuals should also remember
+that, whether an entity is an instrumentality of a foreign
+government or a private entity, commercial (i.e., privateto-private)
+bribery may still violate the FCPA’s accounting
+provisions, the Travel Act, anti-money laundering laws, and
+other federal or foreign laws. Any type of corrupt payment
+thus carries a risk of prosecution.
+Public International Organizations
+In 1998, the FCPA was amended to expand the definition
+of “foreign official” to include employees and representatives
+of public international organizations. 127 A “public international
+organization” is any organization designated as such
+by Executive Order under the International Organizations
+Immunities Act, 22 U.S.C. § 288, or any other organization
+that the President so designates. 128 Currently, public international
+organizations include entities such as the World Bank,
+the International Monetary Fund, the World Intellectual
+Property Organization, the World Trade Organization, the
+OECD, the Organization of American States, and numerous
+others. A comprehensive list of organizations designated
+as “public international organizations” is contained in 22
+U.S.C. § 288 and can also be found on the U.S. Government
+Printing Office website at http://www.gpo.gov/fdsys/.
+How Are Payments to Third Parties
+Treated?
+The FCPA expressly prohibits corrupt payments
+made through third parties or intermediaries. 129 Specifically,
+it covers payments made to “any person, while knowing
+that all or a portion of such money or thing of value will
+be offered, given, or promised, directly or indirectly,” 130 to a
+foreign official. Many companies doing business in a foreign
+country retain a local individual or company to help them
+conduct business. Although these foreign agents may provide
+entirely legitimate advice regarding local customs and
+procedures and may help facilitate business transactions,
+21
+companies should be aware of the risks involved in engaging
+third-party agents or intermediaries. The fact that a
+bribe is paid by a third party does not eliminate the potential
+for criminal or civil FCPA liability. 131
+For instance, a four-company joint venture used
+two agents—a British lawyer and a Japanese trading
+company—to bribe Nigerian government officials in
+order to win a series of liquefied natural gas construction
+projects. 132 Together, the four multi-national corporations
+and the Japanese trading company paid a
+combined $1.7 billion in civil and criminal sanctions
+for their decade-long bribery scheme. In addition, the
+subsidiary of one of the companies pleaded guilty and a
+number of individuals, including the British lawyer and
+the former CEO of one of the companies’ subsidiaries,
+received significant prison terms.
+Similarly, a medical device manufacturer entered into
+a deferred prosecution agreement as the result of corrupt
+payments it authorized its local Chinese distributor to pay
+to Chinese officials. 133 Another company, a manufacturer
+of specialty chemicals, committed multiple FCPA violations
+through its agents in Iraq: a Canadian national and
+the Canadian’s companies. Among other acts, the Canadian
+national paid and promised to pay more than $1.5 million
+in bribes to officials of the Iraqi Ministry of Oil to secure
+sales of a fuel additive. Both the company and the Canadian
+national pleaded guilty to criminal charges and resolved
+civil enforcement actions by SEC. 134
+In another case, the U.S. subsidiary of a Swiss freight
+forwarding company was charged with paying bribes on
+behalf of its customers in several countries. 135 Although the
+U.S. subsidiary was not an issuer under the FCPA, it was an
+“agent” of several U.S. issuers and was thus charged directly
+with violating the FCPA. Charges against the freight forwarding
+company and seven of its customers resulted in
+over $236.5 million in sanctions. 136
+Because Congress anticipated the use of third-party
+agents in bribery schemes—for example, to avoid actual
+knowledge of a bribe—it defined the term “knowing” in a
+way that prevents individuals and businesses from avoiding
+liability by putting “any person” between themselves and
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+the foreign officials. 137 Under the FCPA, a person’s state of
+mind is “knowing” with respect to conduct, a circumstance,
+or a result if the person:
+• is aware that [he] is engaging in such conduct,
+that such circumstance exists, or that such result is
+substantially certain to occur; or
+• has a firm belief that such circumstance exists or
+that such result is substantially certain to occur. 138
+Thus, a person has the requisite knowledge when he is
+aware of a high probability of the existence of such circumstance,
+unless the person actually believes that such circumstance
+does not exist. 139 As Congress made clear, it meant to
+impose liability not only on those with actual knowledge
+of wrongdoing, but also on those who purposefully avoid
+actual knowledge:
+[T]he so-called “head-in-the-sand” problem—variously
+described in the pertinent authorities as “conscious
+disregard,” “willful blindness” or “deliberate
+ignorance”—should be covered so that management
+officials could not take refuge from the Act’s prohibitions
+by their unwarranted obliviousness to any
+action (or inaction), language or other “signaling device”
+that should reasonably alert them of the “high
+probability” of an FCPA violation. 140
+Common red flags associated with third parties include:
+• excessive commissions to third-party agents or
+consultants;
+• unreasonably large discounts to third-party
+distributors;
+• third-party “consulting agreements” that include
+only vaguely described services;
+• the third-party consultant is in a different line of
+business than that for which it has been engaged;
+• the third party is related to or closely associated
+with the foreign official;
+22
+• the third party became part of the transaction at
+the express request or insistence of the foreign
+official;
+• the third party is merely a shell company incorporated
+in an offshore jurisdiction; and
+• the third party requests payment to offshore
+bank accounts.
+Businesses may reduce the FCPA risks associated
+with third-party agents by implementing an effective compliance
+program, which includes due diligence of any prospective
+foreign agents.
+United States v. Kozeny, et al.
+In December 2011, the U.S. Court of Appeals
+for the Second Circuit upheld a conscious avoidance
+instruction given during the 2009 trial of a businessman
+who was convicted of conspiring to violate the FCPA’s
+anti-bribery provisions by agreeing to make payments to
+Azeri officials in a scheme to encourage the privatization
+of the Azerbaijan Republic’s state oil company. The
+court of appeals found that the instruction did not lack
+a factual predicate, citing evidence and testimony at
+trial demonstrating that the defendant knew corruption
+was pervasive in Azerbaijan; that he was aware of his
+business partner’s reputation for misconduct; that he
+had created two U.S. companies in order to shield
+himself and other investors from potential liability for
+payments made in violation of the FCPA; and that the
+defendant expressed concerns during a conference call
+about whether his business partner and company were
+bribing officials.
+The court of appeals also rejected the defendant’s
+contention that the conscious avoidance charge had
+improperly permitted the jury to convict him based on
+negligence, explaining that ample evidence in the record
+showed that the defendant had “serious concerns”
+about the legality of his partner’s business practices
+“and worked to avoid learning exactly what [he] was
+doing,” and noting that the district court had specifically
+instructed the jury not to convict based on negligence.
+What Affirmative Defenses Are
+Available?
+The FCPA’s anti-bribery provisions contain two affirmative
+defenses: (1) that the payment was lawful under the
+written laws of the foreign country (the “local law” defense),
+and (2) that the money was spent as part of demonstrating a
+product or performing a contractual obligation (the “reasonable
+and bona fide business expenditure” defense). Because
+these are affirmative defenses, the defendant bears the burden
+of proving them.
+The Local Law Defense
+For the local law defense to apply, a defendant must
+establish that “the payment, gift, offer, or promise of anything
+of value that was made, was lawful under the written
+laws and regulations of the foreign official’s, political
+party’s, party official’s, or candidate’s country.” 141 The defendant
+must establish that the payment was lawful under the
+foreign country’s written laws and regulations at the time
+of the offense. In creating the local law defense in 1988,
+Congress sought “to make clear that the absence of written
+laws in a foreign official’s country would not by itself be sufficient
+to satisfy this defense.” 142 Thus, the fact that bribes
+may not be prosecuted under local law is insufficient to
+establish the defense. In practice, the local law defense arises
+infrequently, as the written laws and regulations of countries
+rarely, if ever, permit corrupt payments. Nevertheless,
+if a defendant can establish that conduct that otherwise
+falls within the scope of the FCPA’s anti-bribery provisions
+was lawful under written, local law, he or she would have a
+defense to prosecution.
+In United States v. Kozeny, the defendant unsuccessfully
+sought to assert the local law defense regarding the law
+of Azerbaijan. The parties disputed the contents and applicability
+of Azeri law, and each presented expert reports and
+testimony on behalf of their conflicting interpretations. The
+court ruled that the defendant could not invoke the FCPA’s
+affirmative defense because Azeri law did not actually legalize
+the bribe payment. The court concluded that an exception
+under Azeri law relieving bribe payors who voluntarily
+23
+disclose bribe payments to the authorities of criminal liability
+did not make the bribes legal. 143
+Reasonable and Bona Fide Expenditures
+The FCPA allows companies to provide reasonable
+and bona fide travel and lodging expenses to a foreign
+official, and it is an affirmative defense where expenses
+are directly related to the promotion, demonstration, or
+explanation of a company’s products or services, or are
+related to a company’s execution or performance of a contract
+with a foreign government or agency. 144 Trips that
+are primarily for personal entertainment purposes, however,
+are not bona fide business expenses and may violate
+the FCPA’s anti-bribery provisions. 145 Moreover, when
+expenditures, bona fide or not, are mischaracterized in a
+company’s books and records, or where unauthorized or
+improper expenditures occur due to a failure to implement
+adequate internal controls, they may also violate
+the FCPA’s accounting provisions. Purposeful mischaracterization
+of expenditures may also, of course, indicate a
+corrupt intent.
+DOJ and SEC have consistently recognized that businesses,
+both foreign and domestic, are permitted to pay for
+reasonable expenses associated with the promotion of their
+products and services or the execution of existing contracts.
+In addition, DOJ has frequently provided guidance about
+legitimate promotional and contract-related expenses—
+addressing travel and lodging expenses in particular—
+through several opinion procedure releases. Under the circumstances
+presented in those releases, 146 DOJ opined that
+the following types of expenditures on behalf of foreign
+officials did not warrant FCPA enforcement action:
+• travel and expenses to visit company facilities or
+operations;
+• travel and expenses for training; and
+• product demonstration or promotional activities,
+including travel and expenses for meetings.
+Whether any particular payment is a bona fide expenditure
+necessarily requires a fact-specific analysis. But the
+following non-exhaustive list of safeguards, compiled from
+several releases, may be helpful to businesses in evaluating
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+whether a particular expenditure is appropriate or may risk
+violating the FCPA:
+• Do not select the particular officials who will participate
+in the party’s proposed trip or program 147
+or else select them based on pre-determined, meritbased
+criteria. 148
+• Pay all costs directly to travel and lodging vendors
+and/or reimburse costs only upon presentation of a
+receipt. 149
+• Do not advance funds or pay for reimbursements
+in cash. 150
+• Ensure that any stipends are reasonable approximations
+of costs likely to be incurred 151 and/or that
+expenses are limited to those that are necessary and
+reasonable. 152
+• Ensure the expenditures are transparent,
+both within the company and to the foreign
+government. 153
+• Do not condition payment of expenses on any
+action by the foreign official. 154
+• Obtain written confirmation that payment of the
+expenses is not contrary to local law. 155
+• Provide no additional compensation, stipends, or
+spending money beyond what is necessary to pay
+for actual expenses incurred. 156
+• Ensure that costs and expenses on behalf of the
+foreign officials will be accurately recorded in the
+company’s books and records. 157
+In sum, while certain expenditures are more likely to
+raise red flags, they will not give rise to prosecution if they
+are (1) reasonable, (2) bona fide, and (3) directly related
+to (4) the promotion, demonstration, or explanation of
+products or services or the execution or performance of
+a contract. 158
+24
+What Are Facilitating or Expediting
+Payments?
+The FCPA’s bribery prohibition contains a narrow
+exception for “facilitating or expediting payments” made in
+furtherance of routine governmental action. 159 The facilitating
+payments exception applies only when a payment is
+made to further “routine governmental action” that involves
+non-discretionary acts. 160 Examples of “routine governmental
+action” include processing visas, providing police protection
+or mail service, and supplying utilities like phone
+service, power, and water. Routine government action does
+not include a decision to award new business or to continue
+business with a particular party. 161 Nor does it include acts
+that are within an official’s discretion or that would constitute
+misuse of an official’s office. 162 Thus, paying an official a
+small amount to have the power turned on at a factory might
+be a facilitating payment; paying an inspector to ignore the
+fact that the company does not have a valid permit to operate
+the factory would not be a facilitating payment.
+Examples of “Routine Governmental Action”
+An action which is ordinarily and commonly
+performed by a foreign official in—
+• obtaining permits, licenses, or other official
+documents to qualify a person to do business in a
+foreign country;
+• processing governmental papers, such as visas and
+work orders;
+• providing police protection, mail pickup and
+delivery, or scheduling inspections associated with
+contract performance or inspections related to
+transit of goods across country;
+• providing phone service, power and water supply,
+loading and unloading cargo, or protecting
+perishable products or commodities from
+deterioration; or
+• actions of a similar nature.
+Whether a payment falls within the exception is not
+dependent on the size of the payment, though size can be
+telling, as a large payment is more suggestive of corrupt
+intent to influence a non-routine governmental action. But,
+like the FCPA’s anti-bribery provisions more generally, the
+facilitating payments exception focuses on the purpose of the
+payment rather than its value. For instance, an Oklahomabased
+corporation violated the FCPA when its subsidiary
+paid Argentine customs officials approximately $166,000
+to secure customs clearance for equipment and materials
+that lacked required certifications or could not be imported
+under local law and to pay a lower-than-applicable duty
+rate. The company’s Venezuelan subsidiary had also paid
+Venezuelan customs officials approximately $7,000 to permit
+the importation and exportation of equipment and materials
+not in compliance with local regulations and to avoid a full
+inspection of the imported goods. 163 In another case, three
+subsidiaries of a global supplier of oil drilling products and
+services were criminally charged with authorizing an agent to
+make at least 378 corrupt payments (totaling approximately
+$2.1 million) to Nigerian Customs Service officials for preferential
+treatment during the customs process, including the
+reduction or elimination of customs duties. 164
+Labeling a bribe as a “facilitating payment” in a company’s
+books and records does not make it one. A Swiss
+offshore drilling company, for example, recorded payments
+to its customs agent in the subsidiary’s “facilitating
+payment” account, even though company personnel
+believed the payments were, in fact, bribes. The company
+was charged with violating both the FCPA’s anti-bribery
+and accounting provisions. 165
+Although true facilitating payments are not illegal
+under the FCPA, they may still violate local law in the
+countries where the company is operating, and the OECD’s
+Working Group on Bribery recommends that all countries
+encourage companies to prohibit or discourage facilitating
+payments, which the United States has done regularly. 166
+In addition, other countries’ foreign bribery laws, such as
+the United Kingdom’s, may not contain an exception for
+facilitating payments. 167 Individuals and companies should
+therefore be aware that although true facilitating payments
+25
+are permissible under the FCPA, they may still subject a
+company or individual to sanctions. As with any expenditure,
+facilitating payments may still violate the FCPA if they are
+not properly recorded in an issuer’s books and records. 168
+chapter 2
+The FCPA:
+Anti-Bribery Provisions
+Hypothetical: Facilitating Payments
+Company A is a large multi-national mining company with operations in Foreign Country, where it recently identified
+a significant new ore deposit It has ready buyers for the new ore but has limited capacity to get it to market In order to
+increase the size and speed of its ore export, Company A will need to build a new road from its facility to the port that can
+accommodate larger trucks Company A retains an agent in Foreign Country to assist it in obtaining the required permits,
+including an environmental permit, to build the road The agent informs Company A’s vice president for international
+operations that he plans to make a one-time small cash payment to a clerk in the relevant government office to ensure
+that the clerk files and stamps the permit applications expeditiously, as the agent has experienced delays of three months
+when he has not made this “grease” payment The clerk has no discretion about whether to file and stamp the permit
+applications once the requisite filing fee has been paid The vice president authorizes the payment
+A few months later, the agent tells the vice president that he has run into a problem obtaining a necessary environmental
+permit. It turns out that the planned road construction would adversely impact an environmentally sensitive and protected
+local wetland. While the problem could be overcome by rerouting the road, such rerouting would cost Company A $1
+million more and would slow down construction by six months. It would also increase the transit time for the ore and
+reduce the number of monthly shipments. The agent tells the vice president that he is good friends with the director of
+Foreign Country’s Department of Natural Resources and that it would only take a modest cash payment to the director
+and the “problem would go away.” The vice president authorizes the payment, and the agent makes it. After receiving the
+payment, the director issues the permit, and Company A constructs its new road through the wetlands.
+Was the payment to the clerk a violation of the FCPA?
+No. Under these circumstances, the payment to the clerk would qualify as a facilitating payment, since it is a one-time,
+small payment to obtain a routine, non-discretionary governmental service that Company A is entitled to receive (i.e., the
+stamping and filing of the permit application). However, while the payment may qualify as an exception to the FCPA’s
+anti-bribery provisions, it may violate other laws, both in Foreign Country and elsewhere. In addition, if the payment is not
+accurately recorded, it could violate the FCPA’s books and records provision.
+Was the payment to the director a violation of the FCPA?
+Yes. The payment to the director of the Department of Natural Resources was in clear violation of the FCPA, since it
+was designed to corruptly influence a foreign official into improperly approving a permit. The issuance of the environmental
+permit was a discretionary act, and indeed, Company A should not have received it. Company A, its vice president, and the
+local agent may all be prosecuted for authorizing and paying the bribe.
+26
+Does the FCPA Apply to Cases of
+Extortion or Duress?
+Situations involving extortion or duress will not give
+rise to FCPA liability because a payment made in response to
+true extortionate demands under imminent threat of physical
+harm cannot be said to have been made with corrupt intent
+or for the purpose of obtaining or retaining business. 169 In
+enacting the FCPA, Congress recognized that real-world
+situations might arise in which a business is compelled to pay
+an official in order to avoid threats to health and safety. As
+Congress explained, “a payment to an official to keep an oil
+rig from being dynamited should not be held to be made with
+the requisite corrupt purpose.” 170
+Mere economic coercion, however, does not amount to
+extortion. As Congress noted when it enacted the FCPA:
+“The defense that the payment was demanded on the part of
+a government official as a price for gaining entry into a market
+or to obtain a contract would not suffice since at some
+point the U.S. company would make a conscious decision
+whether or not to pay a bribe.” 171 The fact that the payment
+was “first proposed by the recipient … does not alter the corrupt
+purpose on the part of the person paying the bribe.” 172
+This distinction between extortion and economic coercion
+was recognized by the court in United States v. Kozeny.
+There, the court concluded that although an individual who
+makes a payment under duress (i.e., upon threat of physical
+harm) will not be criminally liable under the FCPA, 173 a
+bribe payor who claims payment was demanded as a price for
+gaining market entry or obtaining a contract “cannot argue
+that he lacked the intent to bribe the official because he made
+the ‘conscious decision’ to pay the official.” 174 While the

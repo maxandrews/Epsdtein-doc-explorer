@@ -1,0 +1,1323 @@
+counterpart in Computer Network Offense. Even intelligence and military
+organizations, considered to be the best positioned to defend their own
+infrastructures, struggle to keep the constant onslaught of attackers with varying
+motives, skills and resources at bay.” 135 The long list of failed US government
+security attempts express a strange digital logic: The more essential it is that an
+organization keep a secret, the less it seems able to do so. A decade behind? That is
+the gap between a flip phone and an iPhone. In the hyperspeed world of technology
+it is like confronting a laser weapon with a hoplite. The losing race slips easily
+enough into Donald Rumsfeld’s aheader-behinder dynamic, the one that haunts the
+paradoxes of national power we face now. Are we killing more terrorists than the
+madrassas are producing? Rumsfeld wondered. We can ask: Are we plugging more
+machines with more layers, software and applications than we can protect? Are we
+making more bugs than we’re patching? (Yes and yes.) “Attackers are not like
+natural catastrophes,” Lindner and Gaycken write. “They can analyze their targets.”
+Bratus, a math genius who turned to computer science out of curiosity and now
+teaches at Dartmouth, has spent a fair amount of time trying to understand just
+what happens when a computer or a network is exploited by a hacker, or “pwned” in
+the funny idiom of Warez Dudes language. (The phrase means to take control, or to
+“own” a system. The spelling is an artifact of an overenthusiastic video-game death
+match gloat, in which one player killed another and in his rush to celebrate typed
+something along the lines of “I pwned you!” The mis-typing lives today: The highest
+award in hacking is known as The Pwnie.) Bratus calls the resulting, pwned device a
+134 “Exploit engineers”:Sergei Bratus, et al. “Chapter 13: ‘Weird Machine’ Patterns”
+in C. Blackwell and H. Zhu (eds.), Cyberpatterns, Springer International Publishing
+Switzerland 2014, p. 13
+135 Even intelligence: Felix “F.X” Lidner and Sandro Gaycken, “Back to Basics:
+Beyond Network Hygiene”, in Best Practices in Computer Network Defense: Incident
+Detection and Response, M.E. Hathaway (Ed.) IOS Press, 2014
+98
+“Weird Machine”: Computers or sensors or network webs silently made to do what
+is not intended. Made weird. Hacking is, after all, a kind of perverse programming. It
+involves slipping inside a target machine, and then driving it to do things it wasn’t
+intended to do, by giving it instructions its designers never knew it might receive. 136
+The process of developing and using computer bugs, Bratus found, is not unlike the
+most sophisticated software research. Hacker follow careful patterns. The best of
+them really conceive of whole systems in the way the finest data architects might.
+They look for particular designs, weaponize their code with a delicate elegance and
+aim relentlessly at total control. A normal machine does what you tell it. A weird
+machine does what someone else commands it to do.
+How is such a system born? Well, a potential software hole of the sort that produces
+a “Weird Machine” might be as simple as a failure to secure computer code after it is
+compiled – sort of like not locking the door on your house after you leave – or a
+programming oversight that means a machine can’t handle unexpected inputs. Take
+the technique of “fuzzing”, for example, a famously effective way to turn a normal
+machine into a weird one. The process involves confusing a digital security system
+by throwing unexpected data into normal, apparently safe-looking procedures like
+logging into a mail system or transferring money by wire. Think of all the
+“username” and “password” forms you see when you’re on the Internet. In a fuzzing
+attack, instead of placing a legitimate user name or email address in a registration
+field, hackers might add some unexpected characters known to cause a system to
+cough up a confused response. If you type in, joe@user.com!’ instead of
+joe@user.com as the machine expects, the !’ at the end of the address can baffle and
+stall a mis-programmed device. In some cases, that hiccup opens a vulnerability. A
+proficient programmer can then order the dazed computer, for instance, to open a
+door to the root of the system. It’s as if you could walk up to the teller at your local
+bank and shout “Xhsuhgnnsh!!” at her when she asks how you are doing – and in her
+confusion she lets you into the safe. You’ve made a weird machine of your bank.
+System designers in later generations have become much more sophisticated in
+trying to avoid such problems, not least because they’ve so often fingered the
+embarrassing or costly aftermath of these kinds of holes in their own code. “You do
+not understand how your program really works until it has been exploited,” Bratus
+has said, a sentiment that hints at the stomach-lurching moment many coders and
+their suddenly victimized users have now had. 137 You don’t understand yourself until
+you’ve been pwned. The odds that the endless possible glitches can ever be
+completely patched is honestly zero. Hackers continue to use classic exploits like
+136 It involves: Julian Bangert, Bratus et al. p2 “The Page-Fault Weird Machine:
+Lessons in Instruction-less Computing”, Presented as part of the 7th USENIX
+Workshop on Offensive Technologies, (Washington, D.C., 2013) available on
+www.usenix.org
+137 “You do not really understand”: Rebecca Shapiro, Sergey Bratus, Sean W.
+Smith, “’Weird Machines’ in ELF: A Spotlight on the Underappreciated Metadata”
+paper delivered 7th USENIX Workshop on Offensive Technologies, (Washington, D.C.,
+2013) available on www.usenix.org
+99
+fuzzing, back-doors, or rootkits – and to develop new, more intricate ways to steal a
+machine’s mind. This race for mastery is a sprint, one that heads ever deeper into
+the depths of a vulnerable system. The closer you are to the very core of a computer
+program or a network, the more control you have. Real mastery of the heart of a
+system would be like having a spy win the Presidency, turning the whole US
+government into a “Weird Machine”. That prize of immediate, high-level and totally
+“trusted” access remains the Warez Dude gold standard. 138
+The most dangerous – and therefore the most alluringly valuable – of these sorts of
+attacks, are known as “zero-day” exploits. The danger they represent only becomes
+apparent at some awful instant, “Day Zero”, when they are revealed to have been
+running wild inside some hapless network or machine. That first moment in the
+knowledge of the bug is like day zero in a cancer diagnosis, and it begins an
+immediate race to find and deliver a cure. Such completely unknown, secret
+vulnerabilities are fissures in the walls of computers that their manufacturers,
+system engineers, and security experts usually don’t realize are there. The dream of
+hackers and spies and greedy Warez Dudes is a version of this trick called an
+“Advanced Persistent Threat” – hidden, back-door access to a machine that endures
+even for years, through upgrades and security checks and system cleanups, all the
+while forcing the now-weird computer to do things its user won’t even be aware of:
+Send a copy of every keystroke to another machine, for instance, or serve as a
+robotic launching pad for attacks on other machines. All while acting like a perfectly
+normal machine.
+The best of the zero day exploits are based not on the idea of sneaking malicious
+software onto machines so much as on taking existing, trusted code and finding tiny
+holes that can be blasted into giant, insecure data tunnels. These tools for
+manipulation are digital opiates, in a sense, for connected nervous systems. Such
+attacks often rely on errors already knit into computer systems, or innocent
+seeming features that can be made dangerous. Every computer and software
+designer knows their systems are vulnerable. Mathematicians have proven you can
+never be absolutely sure a connected machine is safe. A mobile phone, for instance,
+contains nearly 30 million lines of code. The systems that run massive cloud
+computing basins like those at Google or Amazon are even larger, updated every
+day, and have to cope with unprecedented flows of data at very high speeds. Even
+expert programmers will leave four or five errors in every million lines of code. 139
+138 That prize: Sergey Bratus, Julian Bangert, Alexandar Gabrovsky, Anna Shubina,
+Daniel Bilar, and Michael E. Locasto, “Composition Patterns of Hacking”, Proceedings
+of Cyberpatterns (2012)
+139 Even expert progammers: For a good explanation of how a machine’s code can
+be turned against itself, see Sergey Bratus, Michael E. Locasto, Meredith l. Patterson,
+Len Sassaman, and Anna Shubina, “Exploit Programming: From Buffer Overflows to
+‘Weird Machines’ and Theory of Computation.” ;login December 2011, p. 13-21. The
+piece is co-authored by and in honor of Len Sassman, one of the leading thinkers of
+the Language Security or LangSec movement who died in 2011. Many of his talks,
+still available online, reflect an unusually powerful mix of philosophical and
+100
+Software and hardware manufacturers usually struggle to keep such exploits secret
+until they can deliver a fix, but this doesn’t always work. Secrets get out. And,
+anyhow, even once a patch is developed, it can take weeks or months before it’s
+widely installed. It’s not uncommon, therefore, that within hours of the
+announcement of a newly found zero day, attacks using that method explode around
+the net. Thousands of hackers try to take advantage of the vulnerability, to kick at
+the defensive corners of systems while they are down for repair or restart – or
+simply left vulnerable by slower-witted system administrators who don’t yet know
+that it is now open hunting season on a particular bit of code. Heartbleed, a “zero
+day” that permitted hackers to slip into your computer via holes in website and
+browser security, was disclosed to the world on April 7, 2014 – more than two years
+after it had apparently been put in place because of a programming error.
+Accidentally? By an overworked engineer? Deliberately? By some state security
+agency? In any event, two days after it was announced and long before it had been
+fully patched, attacks using the method grew from a few dozen per hour to millions
+as hackers tried to suck data from unsecured networks. 140 The exponential power of
+a connected system is as apparent in sickness as in health.
+4.
+In recent years, hacking has moved deeper still, beyond the level of software and
+USB drives and into the very atomic level of computers, the places where the
+electrons that make up bits and bytes float. The technical elegance of these microlevel
+hacks has been, often, breathtaking – exploits that look like Wagnerian operas
+compared to the Cap’n Crunch’s thin, reedy weird-machine whistle. As companies
+like Intel and AMD began packing more memory cells on silicon wafers, for example,
+they noticed magnetic interference flowing across the surface of their chips like
+waves. Electrical signals, recall, have a magnetic element, so more tiny digital cells,
+closer together, is like a bowl of interacting magnets. Physics would have predicted
+such a result. In 2014 security researchers Mark Seaborn and Thomas Dullien, who
+worked at Google, discovered that they could use the magnetic vibrations on two
+parallel rows of memory chips to flip the electrical state of a third row – sort of like
+using a magnet under a table to move a paperclip around – in a way that the system
+might never notice 141 . This permitted them to reach “off limits”, super secure areas
+of the machine’s memory where they could do what they wanted. They called the
+break, “Rowhammer” and it represented an ideal and essentially unfixable hole that
+affected nearly every small chipset made for a half a decade. They published the
+technical consideration about modern computing systems. See also Rebecca
+Shapiro, Sergey Bratus and Sean W. Smith, ““Weird Machines” in ELF: A Spotlight on
+the Underappreciated Metadata”, paper published online by Bratus.
+140 In any event: Leyla Bilge, Tudor Dumitras, “Before We Knew It: An Empirical
+Study of Zero-Day Attacks In the Real World,“ Paper presented at ACM CCS ’12, Oct
+16-18, 2012, p 10
+141 In 2014: Mark Seaborn and Thomas Dullien, “Exploiting the DRAM rowhammer
+bug to gain kernel privileges”, March 18. 2015, Google Project Zero blog
+101
+result immediately as a warning to possibly affected victims, but the exploit
+hummed at such a basic level of the system that it proved impossible to fully patch.
+It was like trying to patch physics.
+Connection changes the nature of an object. This has a particular impact on the
+security of our systems, and by extension, our own safety. Computer researcher
+Nathaniel Husted has described a world of “emergent vulnerabilities” – wormholes
+in software and hardware, communications or finance, that pop up in the connected
+universe unbidden and unplanned. “The fundamental aspect of emergent
+vulnerabilities and attacks,” Husted writes, “are that they appear benign until
+certain criticality conditions are met, at which point they become malignant.” 142
+These risks we don’t want sit right alongside all the things we do want from
+connectivity. In fact – and this is Hulsted’s point – they are the things we want from
+connectivity, perverted into danger.
+Paul Baran would have been impressed to see just how right he was, how
+connections between us now are like irresistible gravity waves – and how gravity
+always wins. In 2015, for instance, Israeli security developed an astonishing hack
+that proved that nearly spiritual claim that all objects were linked by connection–
+and demonstrated the way that slippery, hungry attacks can breach even the safestlooking
+arrangements. “It has been assumed that the physical separation of
+computers provides a reliable level of security,” Mordechai Guri and his team wrote
+in a paper describing how they had used one isolated machine to infect another.
+Physical separation is, in fact, one of the cardinal rules of safe computing, a kind of
+lemma to join Robert Morris Sr,’s “don’t connect” rule of network safety: Two
+machines, unconnected by a network, should not be able to affect each other.
+Imagine I put one kid with a flu in one classroom and a schoolmate of his in another
+building. The second kid should remain healthy. The Tel Aviv research team wanted
+to challenge this. They first placed two computers side by side on a desk,
+unconnected to each other by any wire or network. One machine was connected to
+the Internet. The other was completely isolated – it was “air gapped”, like the
+healthy kid in the distant building, a sort of digital “boy in the bubble,” in touch with
+only the air around it. Then, the researchers began their Houdini trick: Look! Watch
+us corrupt this completely unconnected machine! Running a set of programs on the
+network-connected machine, the Israeli team was able to warm the processor board
+of that computer like a revving car engine, eventually making it hot enough that the
+temperature changes were detected by sensors inside the secure, allegedly
+impregnable “boy in the bubble” machine sitting nearby. The heat wave triggered a
+fan system inside the clean machine, which in turn activated a piece of pre-installed
+malware that let the hot machine pwn the bubble machine through temperature
+variations. In a video demonstration of the exploit, you can watch the infecting
+machine glow ever hotter, issuing “thermal pings” as it sweats and then infects its
+142 “The fundamental aspect”: Nathaniel Husted “Analysis techniques for exploring
+emergent vulnerabilities and attacks on mobile devices” PhD. Thesis (available
+online from Indiana University, 2013) p. v
+102
+safe, “unconnected” neighbor. 143 The heat transfer had a simple message: Nothing is
+safe.
+Why put such effort, worthy of the deepest physics problems, into the challenge of
+sneaking into a cellphone undetected? Well, for Seaborn and Dullien, the drive was
+part of a “discover and publish” effort to keep the overall system clean. It is better to
+hack, discover and patch than to be hacked, and remain undiscovered. But these
+“good guy” engineers are racing against different, equivalently sophisticated, lessdecently
+inspired teams. The development and sale of zero-day bugs is, after all, a
+business. Modern versions of Cap’n Crunch whistles crack access to some of the
+most essential financial, political and security data stores on the planet. As the
+power and value of hacking targets has increased, so has the price of the exploits.
+Public “zero day markets” sponsored by companies like Google and Microsoft pay
+hundreds of thousands of dollars to researchers who discover holes in their
+systems. “Better to find them ourselves,” the thinking goes. Though that does not
+always make the embarrassment less acute when holes are spotted. At one of the
+most carefully watched public hacking competitions in early 2015, for instance, a
+skinny, smiling South Korean named Jung Hoon Lee took home $225,000 in prize
+money by pwning a series of some of the most important, common programs on the
+planet, Apple’s web browser Safari and Google’s Chrome among them. These
+systems had been constructed at the cost of hundreds of millions of dollars. They‘d
+been assembled under the gaze of some of the best PhD-led computer scientists in
+the world. Jung Hoon Lee’s exploits ran through their complete defenses in less than
+a minute. 144
+As good and fast as someone like Lee might be, he’s nothing compared to what the
+best hackers do. They don’t work in public or compete in hotel ballrooms. They
+don’t brag. And they develop ideas that make $225,000 look like a bargain. These
+successors to the Warez Dudes work for cybercriminal billionaires, for intelligence
+agencies, and even (often) just for themselves. They help find and deploy the sorts of
+really deep system exploits that enable brazen cyber thefts of millions of pieces of
+personal data or attacks like the Stuxnet virus, which caused thousands of Iranian
+nuclear centrifuges to vibrate themselves apart. And they do still more: Most of the
+attacks we’ve talked about so far occur in installed, running boxes. But the
+companies that make those boxes oversee a whole, vulnerable process of building
+and testing and designing and installing them. And it’s here, with billion dollar
+budgets at work, that some exploit teams make and leave vulnerabilities that they
+can later, ruthlessly exploit. Every step of that gestation – from sneaking secrets into
+early code bases to intercepting and rewiring routers as they ship overseas – is now
+an opportunity for secret control. Or for unanticipated risk, for “emergent
+143 In a video: For a description of this exploit see Mordechai Guri, Matan Monitz,
+Yisroel Mirski, Yuval Elovici, “BitWhisper: Covert Signaling Channel between Air-
+Gapped Computers using Thermal Manipulations” (2015) available on
+arXiv:1503.07919 [cs.CR]
+144 Jung Hoon Lee’s exploits: “Chrome, Firefox, Explorer, Safari Were All hacked at
+Pwn2Own Contest”, PC World via IDG News Service Mar 20, 2015
+103
+misbehavior” that defies simple analysis. You can’t predict where you might be
+attacked by merely looking at the possible holes in each piece. Rather, it’s the whole
+system that breeds risks. It acts in ways that the designer could not have predicted
+in advance. “Clearly the system itself is misbehaving,” the researcher Jeffrey Mogul
+writes of his study of various cases where networks are cracked in this fashion.
+“However, none of the components have failed per-se.” 145
+The complexity of the systems themselves has been, not surprisingly, mimicked in
+the design of hacking attacks. What was once done by a single Warez Dude is now
+handled with division of labor, technical specialization and intensive pre-attack
+research. Every innovation in “righteous malware” is quickly copied and used in
+dangerous attack tools. The clever modular design of Stuxnet, for instance, was
+studied by criminals and was found years later still echoing in weapons aimed at
+banks, credit card companies and health insurance firms. “We are not experts in
+military history, doctrine, or philosophy,” cybersecurity researchers Stephen Cobb
+and Andrew Lee have written, “so we are unaware of the correct word for the
+following category of weapons: the ones you deliver to your enemies in re-usable
+form.” Cyberattack systems can be dangerous not least because they boomerang.
+They are delivered intact, primed for re-use to enemies who may choose to bounce
+them back at your banks, hospitals and electrical grids. “Righteous malware is
+unique,” Cobb and Lee conclude. “You are giving away your weapons, tactics and
+designs simply by using them.” 146
+It’s not only American services hunting and using such backdoor keys and battering
+rams, of course; not only the NSA that sees its viruses retooled and reused.
+Computer security researchers describe opening up the laptops of unwary business
+travelers and finding the machines blasted inside by malware and other technical
+cancers, carefully planted by a half-dozen intelligence agencies and criminal
+organizations. It’s like discovering a closet full of spies in your house, each being
+careful not to step on the other’s toes as they watch and listen to your life. Why is my
+computer so slow, a government official in a Eurasian capital might ask. It is because
+it has been simultaneously pwned by Americans, Russians, Israelis, Chinese, and
+maybe a local Mafioso or two – and their code is not running smoothly.
+A couple of years ago I had a naïve moment when I thought, perhaps, it would be
+possible and in everyone’s interest to go back to those simpler, innocent Hacktic
+days, when information about vulnerabilities was widely shared and easily
+discussed – and holes were quickly patched as a result. I was thinking about the
+problem of cybertension between the US and China and suggested applying an
+145 “However”: Jeffrey C. Mogul, “Emergent (Mis)behavior vs. Complex Software
+Systems”, HP Labs Research Papers, 2006, HPL-2006-2
+146 “We are not experts”: Stephen Cobb and Andrew Lee, “Malware is Called
+Malicious for a Reason: The Risks of Weaponizing Code” in P. Brangetto, M.
+Maybaum, J. Stinissen eds., 6 th Annual Conference on Cyber Conflict (NATO
+Publications, 2014) 71-82
+104
+important idea of the scientist Dan Geer to the ever more fraught relations. 147
+Perhaps the US and China could work together to buy up and then publish all the
+zero days as they emerged, I thought. 148 Instead of the dangerous code falling into
+the hands of cybercriminals, Mafiosi and terrorists, the two countries could lead an
+effort to jointly buy any new exploit for five times what anyone else would pay – and
+then immediately publish what they had bought and the necessary patch. This
+would make the network safer for everyone. I should have known better.
+The US and China and other nations were (and are) buying world-class zero days.
+But they were never going to publish them. They were buying them to use.
+Sometimes against each other. Sometimes, unnervingly, against their own citizens.
+And they needed to keep on buying and developing and hiding such tools on an
+exhausting, never-ending security treadmill because, unlike traditional weapons,
+which could be stockpiled to use whenever they were needed in the future, the holes
+of the most valuable zero-days might be patched at any moment, making a once
+devastating bit of malware instantly useless. And, as the systems matured and
+accelerated, this meant that they had to run ever faster to keep up. Which further
+reduced their incentive to “buy and publish” what they did have. Little surprise then
+that all around the IT universe in recent years, the incidence of reporting dangerous
+bugs has been declining, even as we know the number of known security holes is
+certainly growing. 149
+Grab the five nearest electronic devices near you and you can be pretty sure each is
+vulnerable; which of course means you are vulnerable too. Not merely to the loss of
+your secrets, but also to perversion and control. This is the cold truth: that old
+hacker ethos, the one spread out so warmly on Amsterdam grass 20 years ago, the
+be liberal in what you accept frontier society instinct, is dead. Weird machines and
+normal machines, weird networks and normal ones, people made weird by
+technological manipulation and those who have note – they will all, inevitably, live
+side by side. The more essential machines become to our connected lives, the more
+avidly weird and hacked the networks will become. The incentive to whistle up
+control of the systems, and control of those of enmeshed in them, is the only thing
+that seems to grow faster than the system itself.
+This vulnerability of connected systems is an important mile marker in our route
+towards understanding some principles of power in a connected age. “Read over
+and over again the campaigns of Alexander, Hannibal, Caesar, Gustavus, Turenne,
+Eugene and Frederick,” Napoleon wrote once. “Make them your models. This is the
+5.
+147 I was thinking: Dan Geer, “Cybersecurity as Realpolitik”, speech delivered at
+BlackHat, August 6,2014
+148 Perhaps: Joshua Cooper Ramo “Talking Cyberthreat with China”, International
+Herald Tribune, July 10, 2013
+149 Little surprise: Linder Gayten Back to Basics p. 58
+105
+only way to become a great general and master the secrets of war.” 150 I sometimes
+feel the same reading over stories of zero-day attacks, clever hacks like
+“rowhammer” or the Tel Aviv heat hack. You can distill from each tale of a broken,
+once-secure systems an essential principle: The hackers rush always, relentlessly at
+the central core of a system. They aim to make it weird, to manipulate it madly from
+the inside out. Network power doesn’t merely come from that 10 million device-perday
+spread of global connectivity, after all, it also comes from incredible
+concentration of power inside certain systems we all rely on: Chips, data bases,
+centralized and gatekept platforms. Control of such hubs and roots of our world can
+influence everything; little wonder they are such an appealing target. “The
+conventional belief that all nuclear systems are ‘air gapped’ is a myth,” the Russian
+security researcher Eugene Kaspersky has warned. The result: “There are three
+types of people: Scared to death. Opportunists. Don’t care.” 151
+This sense that the systems are so vulnerable if you can get to their hearts is what
+lures hackers ever deeper, into the code kernels where the most basic instructions
+are decided. That they can often make machines weird by using the device’s own
+code against them, like some sort of autoimmune disease, is only a marker of the
+particular perversity of the problem here. Security researchers call such holes
+“vulnerabilities” in a system, but of course they are much more than weak spots.
+They are potentially fatal. In a way, the hot rush to touch and tickle and maliciously
+use these already waiting cancers reveals to us the essential Seventh Sense secret of
+the Warez Dudes: Connection makes an object vulnerable, yes; but it can also reveal
+the possibility of total control, of the fundamental root mastery of a connected
+system. Such a hole, when it is exposed by connection and then corruption, can be
+complete in the scope of its damage, devastating. Lord Acton’s famous line that
+“Absolute power corrupts absolutely,” twists in this age to something like “Absolute
+access corrupts absolutely.” Connection makes total exploitation, total control,
+possible.
+Every new generation of connected technologies is breeding essential black boxes,
+complex (not merely complicated!) containers filled with algorithmic levers and
+code tools for digital work that can be understood by only a few people, and
+exploited and used effectively – for good or ill – by a still smaller group. “The greater
+the dependence on a technology the greater the need to study and expose its inner
+workings,” one group of radical digital activists has argued in The Critical
+Engineering Manifesto. 152 They mean that as we turn our safety, freedom, and health
+over to a world of devices and their makers, we must know what goes on inside the
+very heart of such systems. It’s not merely that everything is connected now; it’s
+150 “Read over and over”: Napoleon, “Maxims” from Thomas Raphael Phillip, ed.,
+Roots of Strategy: The 5 Greatest Military Classics of All Time, (Stackpole Books 1985)
+p 432
+151 “There are three types:” Eugene Kaspersky Talk at the Press Club in Canberra,
+Australia (2013)
+152 “The greater the dependence”: “The Critical Engineering Manifesto,” The
+Critical Engineering Working Group, Berlin, October 2011-2014. Available online
+106
+also that everything is monitored. Remebered. Studied. The Warez Dudes’ drive to
+get ever closer to the core, to perform even that atomic level hacking, tells us
+something about just how much power is locked up in those central cores where
+this information accumulates. The 2600 hz whistle was, it seems, only the first of an
+endless series of battles for control of the roots and trunklines of modern power.
+All around us today, huge power accumulates to certain irreplaceable cores. We
+know this is a problem of connected age design: Giant search engines, certain
+algorithms, database or communications protocols overmaster us because they can
+gather so much data, so fast, and process it with unique fidelity. What makes a city?
+urban scholars often ask. We might wonder: What makes a platform for network
+power? The answer to both questions is the same: Density. 153 If the first cities of
+Aztecs or Mesopotamiaman civilization differed from early tribal clusters because of
+their density, the same is true for our first platforms of instant connection. Facebook
+is denser than AOL ever was. More people, more data, thicker connections. Future
+platforms will be denser still. And if cities and density were once sadly
+unanticipated accelerants to plague, poverty and revolution, we should be aware of
+the risks of our own tight-clustered centers of dense connection. The security of
+these cores that link us to each other and our essential data – when jacked by
+hackers, by companies, or even by fast algorithms we don’t understand – is
+important not merely because of the possibility of total control a breach might
+represent, but because they show us the very fact of such totalizing control exists.
+To infect, surprise, sicken – all this is alluringly possible and dreamable for anyone
+with a hunger for mastery. Imagine if you knew your government could be switched
+instantly and invisibly to malice. (Or, to effectiveness!) Or picture a nation of
+connected citizens wired for flash-started nationalism and hate. Such a possibility
+exists on linked systems. This potential for total, weird control of the cores – and
+thus total control of anyone connected to them – should force us to wonder a bit.
+Every evil thing beats in those central nodes: The power to manipulate, to master, to
+destroy even. With such access I can change what you know about the world, how
+you vote, where your money sits, what you remember, how soon we spot (or don’t)
+a slipped knot in your DNA.
+“Just like every drinking binge ends at vodka, so every hacking session ends at
+kernel.org” Thomas Dullien, the mathematician and good-guy hacker who won a
+Pwnie in 2015 for lifetime security achievement, observed once 154 . So much power
+in a connected system lies at its root: Kernel.org, for instance, is the reference copy
+for LINUX computer code that powers most digital machines on earth, sort of like
+the original DNA of the net. To manipulate Kernel.org would be to reach into the
+very spine of the Internet. If the aim is control, if it is to find and exploit the most
+fundamental of cracks in the surface of the black boxes, to get even deeper inside,
+153 What makes a city?: Colin McFarlane, “The geographies of urban density:
+topology, politics and the city.” Progress in Human Geography (2015) p. 2
+154 “Just like every drinking binge”: Halvar Flake/Thomas Dullien, “Why Johnny
+Can’t Tell If He Is Compromised,” speech delievered at Area41 Conference, (Zurich,
+June 2014)
+107
+then inevitably kernel.org or it’s equivalent in any system is the ultimate target.
+Hackers might start with beer (your phone), a few glasses of wine (your office email
+system), but what they really want is full blotto (kernel.org). Such central black
+boxes exist in any linked system and they represent, at once, both the greatest
+accomplishments of our most masterful systems designers and the point at which
+other, as masterful digital machinists direct their most relentless attacks.
+Dullien saw something else too as he considered the work of hackers. Comparing
+system cracking to drinking wasn’t an accidental, funny aside for him. Hacking was
+almost a kind of addiction. It became a chase after a bigger and bigger high, which in
+computing terms meant a race to compromise as many machines as possible. Rapid
+escalation, a loss of self-control, the need for more and more – all these are the
+hallmarks of the best widespread attacks, which aim to expand the “compromise
+boundary” until every machine has been made sick. This is why stealing source
+code, the original instructions that lay behind any computer program, are such a
+prize for Warez Dudes. Source code is the DNA of the black box, in a sense, it can be
+used break into other machines to, well, steal still more source code. This looked, to
+Dullien, an awful lot like addiction. And it’s not just lone teen hackers looking for a
+dopamine jump who were chasing machines with a blind addicts urgency. It infects
+governments too. “Surprising realization (at least for me) after the Snowden leaks,”
+Dullien observed. “Hacking is so addictive that entire organizations can become
+addicts and show addict-style behavior.” 155 This was the NSA or GHSQ or who knew
+what other intelligence service, for instance, in a feral hunger for more and more
+and eventually all data. And the ultimate high? Imagine if you could crack the CA, the
+Certificate Authority that provides proof that anyone working on a network is
+trustworthy. CA “trustworthiness guarantees” are keys that permit access to any
+computer, phone and network. The whole connected world depends on CAs to know
+if software is safe. To control the CA would be a dream for an addicted organization,
+like a set of keys to the local pharmacy. No lock would really serve much of a
+purpose. You could touch the beating heart of any machine on earth. The ultimate
+black box. We should all hope the CA, at least, always remains pristine in this
+dangerous world.
+It was hacked in the summer of 2011.
+6.
+Dullien’s observation that “every hacking binge ends at Kernel.org” touches
+something far deeper than just the world of hackers. Sure, that urgent drive to get to
+the very core of systems is a very specific, unquenchable digital thirst. It’s where the
+most power is, as we’ve seen. There’s a rush in getting there: When brain
+researchers found a spike in dopamine levels of university students engaged in
+password hacking, that was hardly a surprise to anyone who’s ever written or used
+155 ”Surprising realization”: Thomas Dullien, “Offensive Work and Addiction”,
+keynote presentation delivered at ISACA Nordic Conference (2014)
+108
+an exploit. 156 But the real drive to get inside is about more than an adrenaline rush.
+Remember that network power, the power that we’re trying to figure out how to
+bend and shape for our own security, exists in a kind of dynamic tension. It’s like a
+stretched, taut fabric spread between concentrated cores and billions of connected
+users or devices. The logic of spreading and distributed power, the force that makes
+the network bigger, is driven by Baran’s principle of open design, and by our own
+hunger for communications and connection and cool new devices. But there is
+another side to this tension.
+In a sense, over the years, a whole set of hot, infectious pressures descended on the
+network of values and friendships and easy cooperation of the Hack-Tic days. “Be
+generous in what you receive,” had let the networks of our age grow at an incredible
+pace, but at the price of vulnerability, of commercial ambition, and of an eerie
+technological lemma that what made the systems faster and stronger might also kill
+them. A change in culture of the digital elite, naturally, followed. The brutal,
+inarguable, profitable demands of power and politics had cracked apart the unique
+social webs of the HacTic era. I did not like watching this sad evolution; none of us
+did, but anyhow it has produced the world in which our new sensibility will have to
+operate. The openness that we loved and craved in so many areas of life, from our
+minds to our markets, had now become a liability. “I remember what the Internet
+was like before it was being watched and there had never been anything in the
+history of man that is like it,” Edward Snowden once observed, nostalgic for the
+datascape he saw melt away during his time at the NSA. 157 I realize now that there
+is a whole new generation of young programmers that won’t ever know that original
+generous ethos of a place like Hacktic, a fresh cohort of the digital age that operates
+at levels of technical mastery far beyond anything we might have imagined in the
+Citicorp Tower basement 20 years ago. They will confront endless battles to get
+inside and exploit and make “weird” the cores of network power. They will know
+and design and manage instead a world of gates, built for protection. Their instincts
+will be for opacity and control, not openness and generosity. Invariably this shift
+will affect the design of the systems this new generation builds which will, in turn,
+affect all of us.
+The black boxes and the crackers are in a dance, now, a sort of dangerous
+evolutionary waltz that offers a foretaste of what you and I will face as we consider
+the problems of attack and defense and strategy in a networked age 158 . It reminds
+156 There’s a rush: Wael Khalifa, Kenneth Revett and Abdel-Badeeh Salem “In the
+Hacker’s Eye: The Neurophysiology of a Computer Hacker”, in Global Security, Safety
+and Sustainability & e-Democracy Volume 99 of the series Lecture Notes of the
+Institute for Computer Sciences, Social Informatics and Telecommunications
+Engineering, (Berlin: Springer), 112-119
+157 “I remember what the Internet was like”: Snowden interview in CITIZENFOUR,
+Laura Poitras (2015)
+158 The black boxes: Nikos Virvilis, Dimitris Gritzalis, Theodoros Apostolopoulos,
+“Trusted Computing vs. Advanced Persistent Threats: Can a defender win this
+game?” 2013 IEEE 10th International Conference on Ubiquitous Intelligence &
+109
+me of an old puzzle of Chinese history: Why were the very strongest dynasties – the
+Han, the Ming, the Tang – always confronted by the best organized, most deadly
+rebels? The answer was rooted in a violent, greedy tango of the development of each
+side. The better a dynasty defended its farmers or its trade or its annual rice harvest,
+the more the rebels from the steppe had to become strategic and unified and
+powerful. When it was easy to pick off single farmers, then the rebels had no need to
+be well organized. They could be a bit lazy. Could snatch a year’s undefended
+harvest in an afternoon. But the stronger the empire, the stronger the rebels had to
+become 159 . Amsterdam in 1994 was a bunch of lone, weak, unprepared farmers.
+Twenty years later we have a digital empire, and the attackers it deserves are
+appearing, refined and evolved by this same competitive logic. They are better
+organized, smart, intent on getting to the heart of the black boxes of power. And the
+more we defend against them? The better they will become.
+That our most essential systems are vulnerable to loss of control is a chilly feeling. It
+is a reminder of the power of the people who know how to crash and manipulate –
+or build and operate – parts of our world most of us barely understand. It’s like
+discovering someone could take over your lungs or your heart. We don’t understand
+those devices either, most of us. But we depend on them entirely. Some of these
+hackers are moved to mischief by technical beauty. Some by the giddy smashing
+rush of breaking in, of touching the core. Others by greed or patriotism or by secret,
+zealous, unlawful obsessions. What the technically best of this group share,
+however, is a pressing desire to get as close as possible to the kernels where
+inarguable and even invisible code decisions are made, where digital DNA is printed
+in a sense, and where a total mastery of the binary guts of the system is possible.
+That Cap’n Crunch thrill, the dream of whistling up control over the thick, helpless
+trunk of a network, that remains the dream. Remember Conway’s Law: The design
+and activity and control of a network redounds on, even determines the real world.
+If the whole network is, in a sense, filled with holes, if it contains inherently the
+possibility of being turned into a “weird machine” – what does that mean for the real
+world?
+The Seventh Sense insight of this chapter, the key feeling, is that all the systems we
+rely on, that we think we control – financial or political or digital – can all be made
+weird and pwned by forces we cannot see and struggle to stop. Our markets, our
+elections, our knowledge – all of these, dependent on linked systems themselves,
+can become weird. We can no longer regard them as certain and harmless. The
+hacker’s drive to get to the kernels is not merely an information technology
+problem. It’s a larger statement about networks, about the way that power and
+danger are still and always one and the same. The desire to hack the cores of our
+world is a marker of just how profoundly, even secretly influential the kernels have
+become – in ways we’re just now beginning to understand. Bratus was right, that we
+don’t really understand any system until it’s been exploited, pwned. This is as true
+Computing and 2013 IEEE 10th International Conference on Autonomic & Trusted
+Computing
+159 But the stronger the empire: See Turchin, p. 3
+110
+for our minds as it is for our markets. The Seventh Sense feeds a bit on the trail of
+hackers; it is a way to tune our protective instincts. The cracks they find and use do
+tell us an awful lot. But not everything. For that we need to look beyond the people
+attacking. What we really need is a feel for the temprament of the fresh group of
+innovators and investors and technologists who run and own the dark cores of
+power now – and who, before long, may also run and pwn each of us as a result.
+111
+Chapter Seven:
+The New Caste
+In which we meet a powerful group defined, enabled and enriched by their mastery of
+the Seventh Sense.
+1.
+Looking back over several hundred years of European history, the Oxford professor
+David Priestland found that the movement of power might be scored by reviewing
+the alliances and hatreds and hopes of three distinct, interacting groups. He called
+them “castes”: merchants, soldiers and sages. By merchants, Priestland meant the
+bankers, traders and industrialists whose capital, goods and political power bent
+Europe’s once-feudal economy into something modern and industrial. 160 The Medici,
+Dutch coffee traders, Scottish cotton barons. By sages, he had in mind the
+churchmen and later the technocrats of various empires, the men who helped birth
+and then manage the problems of an Enlightened, urban social order: Locke,
+Bismarck, Disraeli. And by soldiers he had in mind both the great aristocratic
+warrior classes of Europe and upstart, genius figures like Napoleon or Wellington –
+men who handled martial force with the fresh, surpasssing brilliance of a paintbrush
+or chisel, not an instrument of mass murder.
+The aligned, shifting interests of these three castes, Priestland wrote, were like
+gears of sorts, each offering special leverage, meshing together to drive nations to
+great power. Mix the influence of France’s sage-bureaucrats with her artful soldiers
+and you get the French Imperial period. Marry the interests of Britain’s shrewd 17 th
+Century trading bankers with her martially inclined sailors and globe-spanning
+Victorian dominance results. Today, of course, the merchants and soldiers and sages
+of our era are also at work. They sit in sovereign wealth funds, wired situation
+rooms and madrasas, churches and research labs. The force of America’s merchants
+and financiers, bolstered by Washington’s security caste, defines much of American
+power. No other nation could, at the moment, comprehensively replace what the
+country does with such breadth, intensity and speed. And now, all around the globe,
+we’re seeing the emergence of what we might think of as a New Caste joining the
+merchants, soldiers and sages. This is the infotech caste.
+What was going on in that field in Amsterdam back in the summer of 1993 was
+nothing less than the birth of the first figures of a connected technological era, of a
+new elite. This caste I have in mind is defined by their personal proximity and
+fingertip feel for the linked machines that drive so much of our world. They
+represent a tiny fraction of our population, but operate with non-linear, massive
+levels of influence. This New Caste clusters, in ever tighter circles of intimacy,
+around the systems and networks we depend on. They are building new connected
+160 Looking back: David Priestland, Merchant, Soldier, Sage: A New History of Power,
+(New York: Penguin, 2013)
+112
+financial systems. Fresh AI designs. Protocols and platforms for secure
+communication. Maybe one million people can write object-oriented code at a high
+level. A hundred thousand of them can shape that code into some sort of innovative
+data structure. A few thousand might be able to use it to access and manage a large
+data center. But get down to the couple of dozen who know how Google or Intel or
+bitcoin really work, the group who can make machines seem to think, who know
+and use backdoors at that atomic level of hacking – well, then you have a tight,
+powerful elite. They are called system designers, algorithmic traders, growth
+hackers or any of a dozen hazy and somewhat unnamable lines of work that fuse
+network mastery with economic, political or social power. If connection changes the
+nature of an object it also elevates, to a level of rare power and influence, those who
+control that connection.
+Through the networks and black boxes they control, the group of transcendent
+talents working on search algorithms, data management and machine learning
+touch, at any one instant, more parts of our lives than any group of elites ever has.
+That many of them are billionaires as a result should hardly be a surprise. This is a
+caste marked by constant one upsmanship, by endless and compulsive innovation,
+by a cold and ceaseless fear of obsolescence. They are marked, of course, by a full
+expression of the Seventh Sense. Their every instinct for starting, financing, growing
+and using new firms or technologies or data-spinning biological tools reflects
+complete confidence in network power. If the leading figures of the Enlightenment
+shared a certainty near to faith that reason would unlock nearly any puzzle of mind
+or politics, the New Caste shares a certainty too, that connection can produce a new,
+better order. This caste battles with each other. They struggle for dominance over
+markets and – more profoundly – for control of the lucrative systems they have
+built.
+My point in this chapter is simple. It is to introduce this new and powerful caste and
+see what their successes and failures might tell us about the world we now all share.
+Even now, however, I think we can make this sobering judgment: Whatever nation
+cultivates and trains legions of this New Caste best will rule the future. Think of the
+legendary Xerox PARC research lab, which in the 1970s produced not just some of
+the best early members of the New Caste – like Alan Kay or John Seeley Brown– but
+also a series of fundamental inventions that generated trillions of dollars of value 161 .
+The mouse. Laser printing. A graphical user interface. PARC was arguably the most
+economically significant small group in human history, an entire Renaissance
+packed into a couple of dozen offices. Just as the nations that produced the finest
+mariners once dominated global commerce and decided political questions, so
+countries (or really any group – even terrorists or criminals or bankers) that can
+breed, train and equip and deploy members of this New Caste will possess a really
+unusual power. Calling them a “caste” is not accidental: There’s a way in which we
+are all now tied to the virtual spaces they control, much as serfs were once bound to
+the land by feudal lords. The Italian historian Giambattista Vico, in developing his
+161 Think of the legendary Xerox PARC: Chunka Mui, “The Lesson that Market
+Leaders are Failing to Learn from Xerox PARC”; Forbes Leadership Blog / Alan Kay
+113
+new, scientific view of history in the 18 th Century, once observed approvingly, “The
+Egyptians reduced all preceding world time to three ages, namely, the age of the
+gods, the age of the heroes and the age of men,” he wrote. “During these three ages,
+three languages had been spoken….Namely the hieroglyphic language, the symbolic
+language and the vulgar language of men.” 162 It’s hard not to feel the new age now
+arrives with its own baffling and incomprehensible modes of communication. A
+whole freshly demanded language.
+In all of human history only a few languages ever evolve to become honestly global
+in reach and influence – English now, French in the European centuries or Chinese
+in the Asian imperial era. But why English? Why not more decades of French?
+German? “Why a language becomes a global language has little to do with the
+number of people who speak it,” the British linguist and historian David Crystal has
+written. “It is much more to do with who those speakers are.” What made Latin a
+global influential language wasn’t that millions of people spoke it, rather it was who
+did: The elites at the very peak of 1,000 years of European power. What Latin had, in
+a sense, was the ears and tongues of some of history’s most influential men. 163 The
+private, technical language that connects the New Caste to their machines, to each
+other and to us is one of the sources of their power. Their code marks, like a trail,
+the path to the cores of a vast and modern power apparatus.
+You could, if you wanted, compare the New Caste a bit to an earlier generation of
+empire-deciding figures: Ocean explorers. Columbus, de Gama, Magellan. Backed by
+a primitive version of venture capital, the “risk finance” of trading houses, these
+discovery captains had a hunger to test their certain masteries – navigation, sailing,
+trade – against the uncertanties of geography, weather and luck. There was as much
+sheer nerve in these adventures as there was real knowledge. What lay five weeks’
+sailing time away from Cadiz? If you were willing to endure the difficulties, to
+believe in what might be out there – and your own ability to handle it – then fortune
+awaited. “Early intercontinental travelers not infrequently had to pay for access to
+distant shores by enduring bitter asceticism,” the German philosopher Peter
+Sloterdijk has written. 164 Months at sea, risks of ocean turmoil, starvation, endless
+boredom – all these sacrifices marked sailing adventure. But they knew the rewards
+for a real mastery of the sea: Fame, riches, knowledge, adventure. Sloterdijk cites
+Goethe, who reflecting on the power of nautical life in 1787, defined the edgy
+advantage of that ocean-mapping caste in his age: They had perspective. “No one
+who has never seen himself surrounded on all sides by nothing but sea,” he wrote,
+“can have a true conception of the world and his own relation to it.”
+162 “The Egyptians”: Giambattista Vico, The New Science, (Cornell Press, 1948) 69
+163 What Latin had: David Crystal, English as a Global Language. (2nd ed.
+Cambridge, UK: Cambridge University Press, 2003), 7 also Shahar Ronen, Bruno
+Gonçalves, Kevin Z. Hu, Alessandro Vespignani, Steven Pinker, and César A. Hidalgo.
+2014. “Links That Speak: The Global Language Network and Its Association with
+Global Fame.” Proc Natl Acad Sci USA 111 (52) (December 15): E5616–E5622
+164 “Early intercontinental travelers”: Peter Sloterdijk, In The World of Interior
+Capital, Polity 2013, Ch. 13
+114
+We might say the same about our New Caste, of their sense of the massive datascape
+on which we all sail and operate. They too head off to test their skills at coding,
+encryption, system design. They are almost all auto-didact – self taught as
+programmers or hackers or AI designers or investors. There is no established path
+to power for them, no route that has been marked before. No wonder the greatest
+figures of the era are college dropouts. This is a group that looks largely ahead:
+Their work demands constant upgrade. Every device is shipped imperfect. It’s not to
+say they are completely denuded of the Sixth Sense. That their feeling for history has
+been stripped. But if to be honestly in love with version 1.0 of your product and then
+to shred it for version 2,0 does demand a certain ahistoric distance. The New Caste
+explorers have a hunger for fresh worlds and landscapes. To get there they endure
+privations of long isolation – not so extreme as a long ship journey – but they
+burrow deeper and deeper into systems, construct new links and new gates, in
+closed rooms. “When building machine learning systems, making good decisions is a
+strategic skill,” the computer scientist Andrew Ng has said. “Every day you wake up
+and you are in some totally unique situation that no one in the planet has been in
+before. It’s not a fact, there’s no procedure.” 165
+This is our world now. No fact, yet. No procedure. A totally unique situation that
+demands a fresh instinct. We can follow Goethe into our own age: No one who has
+not seen and felt himself surrounded on all sides by networks can honestly
+understand. If that motto of the last great epochal shift was Dare to Know, it was
+certainly enacted by the sea captains. Discovery and risk were nothing but a nervy
+kind of scientific experiment, where the laboratory was the Earth’s surface and the
+tools of calculation were ships. And in our age? If we’re right that our historic
+mandate is Dare to Connect, well the New Caste is certainly doing that, furiously.
+They are working away at much that is hidden in our world, just like those old
+explorers. The billions of phones or sensors or AI-rooted sensor engines spilling out
+around our world are stripping away layer after layer of opacity. Pictures of far
+away places, traffic lessons learned from movement patterns recorded by GPSenabled
+phones, medical treatments refined by constant measurement – these are
+all knotted, one after another, into the fishnet.
+If the ocean voyages of that older explorer caste mapped our world, the voyages of
+the New Caste are as much inward as out. They move inside the world of connected
+systems. Remember: Network power is defined by dynamic tension – the pull
+between center and periphery. The same dynamism is at work with the New Caste.
+While they are, firmly, in the business of going out and opening our eyes to the
+world with wider, faster connection, they are also draping huge, essential parts of
+our lives with an impenetrable fustian: The essential algorithms of search engines,
+the code of machine learning tools, the design of micro-targetted political influence
+campaign. The sources of New Caste power are wrapped inside layers of complex
+computer code, machine learning and data security protocols that few people can
+165 “When building”: Andrew Ng, speech at GPU Technology Conference (March,
+2015)
+115
+completely understand. The French philosopher Bruno Latour, the father of “Actor
+Network Theory” has called this process “Black Boxing”. The better your phone
+works, the less you notice it. The more precisely some machine feeds you your news,
+the less you wonder what might I be missing? “Scientific and technical work,” he
+says, “is made invisible by its own success.” 166
+The operating system and network protocols of your tablet device are opaque to you
+now in a way they never would have been two decades ago (when even the casual
+user computer had to type to a C: prompt or wildly rage at a crashed “Blue Screen of
+Death” from time to time). But, in fact, the system is incalculably more complex.
+“Each of the parts inside a black box,” Latour remind us, “is a black box full of parts.”
+And it is in the winding and linking of all these pieces that action in a connected
+world is made possible. “It is by mistake or unfairness that our headlines read ‘Man
+Flies’”, Latour says. “B-52s do not fly,” he writes. “The US Air Force flies.” Every
+plane that ever makes it into the air does so because of the clicking coordination of
+thousands of linked, black boxed systems. Your stock portfolio or your computer or
+your bio-sensored heart is not a lone object; it’s a feature of a connected landscape.
+We’re surrounded now, connected to, essential black boxes we’ve no way of
+understanding and whose development and operation we’ve left to the New Caste.
+Look around you, how many screens do you see? Each is a billboard: New Caste at
+Work. It’s not only the hardware in our lives that I mean, but the bits of knitted
+programming that decide how we search, when we communicate, and if we can
+exchange information or money. The virtual and the real are in constant contact and
+it’s the New Caste that does the stapling. In fact, one of the magic tricks of power in
+the connected age is an ability to flop easily back and forth between network and
+reality. It suggests other dangers too. As legendary machine systems designer Leslie
+Lamport warns: Computer scientists collectively suffer from the confusion of language
+with reality. 167 Anyone who’s ever written a computer program knows this sense:
+You write some code. You compile and run the program to see what happens. You go
+back and work on the code some more to refine what you’ve done. You run it again.
+You touch the virtual; the real reacts. This seems in a way like the most trivial thing,
+the writing of a computer program or an AI bot or a trading order, but in fact
+166 The French philosopher: Bruno Latour, “On Technical Mediation – Philosophy,
+Sociology, Geneaology” in Common Knowledge, Fall 1994 Vol 3 No 2. p. 23
+167 It suggests other dangers: Leslie Lamport, “Computer Science and State
+Machines”, Contribution to a Festschrift honoring Willem-Paul de Roever on his
+retirement” (Redmond: Microsoft Research, 2008). In its entirety it runs: “Computer
+scientists collectively suffer from what I call the Whorfian syndrome—the confusion
+of language with reality. Since these devices are described in different languages,
+they must all be different. In fact, they are all naturally described as state machines.”
+The Whorfian problem is a linguistics observation about the way in which our
+thinking is limited by whatever language we have to describe what we see or
+contemplate.
+116
+something incredible is underway in this easy movement from machine to reality. 168
+The New Caste takes these moves, this easy slip from their keyboards and programs
+to our lives, for granted. They adjust code and networks and formulas; they watch
+the effects on us. They do it again. The idea that such a move is natural, comfortable
+even, reveals a new and important temprament. It draws a line betweent the people
+writing the code and those who are snapped about in the world they are coding.
+Do you know who decided what you see when you search? Do you understand what
+the data on your phone reveals about you? Who will snip at and work on your DNA?
+Your children? Are you trading stocks against some invisible high-velocity
+connected master who will always be one profitable nanosecond ahead of you? In
+this sense, network power involves something very much like the intentional
+creation of concealment. Your Internet search results, for instance, contain a sharp
+tension. Yes, data from all over the planet, from all of history sits rather amazingly in
+front of you. But that bit of computer code deciding what you see is engaged in a
+kind of digital book burning: It’s making whole sections of knowledge invisible even
+as it is unearthing an ever more precise answer for whatever question you have.
+What don’t you see? – is a question that hints not only at what is left out of your
+search horizon, but generally at the way in which connected systems establish
+necessary gates. Part of a Seventh Sense, then, is the ability not merely to look at the
+virtual world and know how it becomes insidiously real, but also to feel that all the
+connected points of the real world – markets, weapons, social movements – must be
+pulled upon by code and links and networks. “Any technology depended upon,” as
+The Critical Engineering Manifesto, says is “both a challenge and a threat.” 169 Human
+experience is, we know, unboxable, uncontainable – our joy, hopes, sense of
+freedom, these all defy boxing. Yet here, all around us, are containers that affect our
+every choice. Who knows what happens inside all the difficult boxes?
+The creeping, essential opacity of power now reveals a twisted puzzle, a really fresh
+aspect of this New Caste and the revolution they are making: As much as they are in
+the business of making knowledge widely and instantly available, they are also
+madly black boxing our world. This breeds a sly, unintended (I think) tension with
+Kant’s Enlightenment admonition to “Dare to Know.” Would you like to Dare to know
+why your computer is secure? How your genetic information will be studied and
+used? How encryption works? Mostly the answer to is: You can’t know. It’s too
+complex – and, anyhow, if we told you it would make the whole system less secure.
+There is nothing disingenuous here: You likely wouldn’t understand. It is too
+complex. You’d be lost at the first turn into strange technical language, where simple
+words like “object” or “edge” have specific, essential, different meanings. And telling
+you would, in fact, expose you and everyone else to all sorts of risks. It’s as if we’ve
+returned to that famous debate of millennia past, the one lingering between Athens
+and Jerusalem: Could the world be known and atomized and understood as the
+Greeks would have it? Or was mystery, inscrutability and opacity the nature of truth,
+168 This seems in a way: See, for instance, Bret Victor in his speech, “Inventing on
+Principle” at CUSEC 2012 Turing Complete Conference available online.
+169 “ Any technology depended upon”:The Critical Engineering Manifesto, as above.
+117
+apprehensible, the Rabbis said, only by its movements. Are we back at the first
+chapter of Genesis and its absolute prohibition against eating from the tree of
+knowledge. Or, from the Talmud, “For him who reflects about four things – what is
+above, what is below, what is before and what is behind – it would be better not to
+have come into the world.” 170 We want to reflect about what goes on inside the
+machines. Can we? Should we? How does Dare to know face off against these
+impenetrable systems.
+It is little surprise that places like Silicon Valley often leave a visitor with the feeling
+of a town where work is done in rooms within rooms within rooms. To drive along
+the dulled, anodyne asphalt stretch of road that runs in front of Sand Hill Road in
+Menlo Park almost hurts your head: Inside the offices on revolutions are dreamed,
+debated and funded. And it looks, for the most part, like a row of mildly prosperous
+dental practices. The real import of the work is, on the outside at least, nearly totally
+muted. The corporate structure of the most powerful tech companies are padded
+with this sort of deadening fustian too. Founders control the majority of voting
+stock; shareholders are more like lucky “users” than owners. Control, security and
+speed in decision-making are secured from the inside, free of exploit risk or
+interference. The companies are like computers. Of course the founders know where
+real powers sits. But this shouldn’t distract us from the human energy breathing in
+the code itself. The programs are “permeated by all the forms of contestation,
+feeling, identification, intensity, contextualization and decontextualization,
+signification, power relations, imaginings and embodiments that comprise any
+cultural object,” the computer science historian Adrian Mackenzie has written. 171
+Each of the parts of a black box is a black box. The famous billionaires of our
+technology age operate for the most part as their systems do. Their tight, wellengineered
+clusters of machines produce fortunes from connectivity, even as they
+obscure some of the deeper nature of the connections that are essential to their
+success. They are themselves at times obscured, human black boxes in a sense.
+“Linux is just an enabler,” the genius programmer Linus Torvalds once observed
+about the code language that undergirds much of the connected world. “It’s a solid
+base, but like all good, solid bases, it really is something that should be almost
+entirely hidden and out of people’s minds.” 172 It is a hard paradox for us. The work
+of the black boxes, of connected systems or protocols such Linux is miraculous. It is
+wonderful in so many ways. And the roots of it are, and seem like they have to be,
+obscure. But this cuts very fast into the arteries of a healthy democracy.
+“Democracy,” Arthur Schlesinger wrote in his famous post-war book The Vital
+Center, “has no defense-in-depth against the neuroses of industrialism.” It’s easy to
+see how the system might also have a weakened immunity to the subversive forces
+170 Or from the Talmud: See Leo Strauss, Persecution and the Art of Writing,
+(Glencoe, Ill.: Free Press, 1952), 21
+171 The programs: Adrian Mackenzie, Cutting code: Software and sociality, (New
+York: Peter Lang 2006) 5
+172 “Linux”: Andy Meek, “Linux creator explains why a truly secure computing
+platform will never exist” on bgr.com Sep. 25, 2015
+118
+of network power: Contagions of fear, manipulation of data, the subtle and invisible
+influence of the boxes we depend upon but don’t understand. 173 Recall Francis
+Bacon’s Enlightenment line? That human knowledge is human power? Well, what is
+computer knowledge? It is human power? Or something else, in its entire, hidden
+immensity? You have to wonder if this packing of insight and vision and control into
+black boxes, or the hands of a small New Caste will bleed us of our liberty as a result.
+“Our constitution is called a democracy because the power to make decisions is not
+in the hands of a minority but of the whole people,” Pericles reminded Athens in his
+Funeral Oration 2500 years ago. “We regard a man who takes no interest in politics
+not as harmless, but as useless.” 174 Vital engagement is the food of democratic life.
+To be baffled to the outside of the essential boxes of power then, seems an instant
+sort of cancer on liberty. What do we make of a man who takes no interest in the
+networks of networks that control the power to make decisions?
+Perhaps you’ve heard of the famous manufacturing trilema: You can get something
+made any two of good, fast and cheap. If you want that custom table made quickly
+and well, it won’t be cheap. If you want it good and cheap, you had best be prepared
+to wait. In networks a similar puzzle emerges in my mind. Systems can be any two of
+fast, open or secure. A computer system that is really secure can be open, but it will
+be very slow, inspecting each packet and instruction like a bank security guard
+watching customers in a bad neighborhood. Think of the like an airport. Want it to
+be fast? Secure too? Then it won’t be very fast. Mostly what we want today are fast,
+secure arrangements for our markets, our nations, our data. So these will become, I
+think, ever less open.
+It used to be that history was made in public: Big visible wars and social shifts and
+revolutions. Pericles in the Athenian square; the churning protests of Jefferson’s
+Paris or the massing of armies. Now, however, subtle manipulations of technology,
+invisible to most of us and maybe even accidental, maybe weird, will produce
+historic-scale external effects. Changes to the network design will become political
+and social exploits in a sense, living versions of that atomic-level “rowhammer” hack
+that work on the connective energy of our world. Already social network analysis
+can be used to manipulate voting patterns. Soon, it will be possibly to precisely
+target any potential voter with a message engineered like a custom-made drug,
+designed to bind right to the DNA of your habits and beliefs. It represents the
+possibility for the complete technical perversion of politics.
+As the New Caste operates on the systems that are at the core of connected politics
+and economics, on how we vote or think or shop, they will vibrate the system in
+invisible ways even when they don't mean to be nefarious. Improvements may be as
+dangerously unpredictable as bugs. Small changes to algorithms or links or
+protocols mean our whole system may be pwned before we’re quite aware. Such
+173 “Democracy”: Arthur M. Schlesinger, Jr., The Vital Center: The Politics of Freedom
+(Boston: Houghton Mifflin, 1949), 246
+174 “Our constitution”: Thucydides, A History of the Peloponnesian War, (Oxford:
+Oxford University Clarendon Press, 1881),119
+119
+adjustments will be started and managed and mined for fortunes, of course. The
+Seventh Sense feels the way in which power has shifted, is shifting, from public to
+private in this way, masked by coded language, hardware design, corporate
+structure and the demands for speed and safety we all agree on. Huge shifts in
+power will occur before we are even aware if we don’t have a sensibility to feel them
+out before they occur. Decisions about code, search, machine intelligence, DNA
+alteration rules in labs – all occurring in black box machines or corporations or
+governments. Several years ago it occurred to me in an unsettling flash: “The most
+important things that will happen in my life will happen in secret.”
+I’m not sure I’ve quite recovered from this insight yet.
+2.
+This same unnerving worry has troubled many people who think about connected
+machines, and for some time. It’s not only those among us who are pointlessly
+nostalgic for a different era of devices, when the default setting of our instincts was
+open, who now worry about this strange tension between function and opacity. And
+remember – I’m running through all this here so we can all understand how to really
+grab and use this new source of power in the service of what we desire, and to
+protect the things we care about. But: What are we to make of systems that work
+better when they are obscured from us? That we could never understand even if we
+could see inside? Documents such as The Critical Engineering Manifesto, pulled
+together by a collection of uneasy designers and engineers, reflect anxieties that stir
+even inside the hearts of many in the New Caste. “The Critical Engineer considers
+engineering to be the most transformative language of our time,” the Manifesto
+begins. “Each work of engineering engineers its user, proportional to that user’s
+dependency on it.” That is Conway’s or Wittfogel’s unsettling truth. The technical
+layout of a social network, a medical diagnostic tool or a financial market affects
+how we or our markets or our government (or our enemies) behave. We are, in a
+sense, being engineered by the damn opaque systems we are using.
+In 1965 the MIT computer scientist Joseph Weizenbaum found himself, somewhat
+unexpectedly, considering this same problem. 175 Weizenbaum had written a
+primitive computer program to perform what is now known as natural language
+processing, essentially a bit of code designed to translate what a user tells a
+computer into clear instructions. This is the work that converts your request to a
+machine for weather updates into a query that can be turned into an answer.
+Teaching a computer to answer a question such as “it is it raining?” demands layers
+of logic and calculation.
+In 1965, long before our era of simply talking to our phones or computers,
+Weizenbaum’s program was a revolutionary breakthrough. So after developing his
+algorithms, he wanted to find an intuitive demonstration. He decided to build a
+175 In 1965: Joseph Weizenbaum, Computer Power and Human Reason, W.H.
+Freeman and Company, 1976 p. 7
+120
+system that could, in a very limited sense, converse. The computer would take typed
+input from a user and then, based on what it understood, ask a question back to
+continue the conversation. The approach was borrowed from the psychological
+theories of Carl Rogers, an American therapist who believed the best way to talk to
+patients was with open ended, careful questions. Weizenbaum developed two
+programs. The first was called DOCTOR, a script that determined what the computer
+might say. The natural language processor responsible for carrying on the human
+side of the conversation he called ELIZA, after the heroine from Pygmalion, a poor
+cockney girl who is trained by a phonetics professor to pass as a duchess.
+Here is a discussion between ELIZA and a user that Weizenbaum recorded in 1965:
+Patient: “Men are all alike.”
+ELIZA: “IN WHAT WAY?”
+Patient: “They’re always bugging us about something or other.”
+ELIZA: “CAN YOU THINK OF A SPECIFIC EXAMPLE?”
+Patient: “Well, my boyfriend made me come here.”
+ELIZA: “YOUR BOYFRIEND MADE YOU COME HERE?”
+Patient: “He says I am depressed most of the time.”
+ELIZA: “I AM SORRY TO HEAR YOU ARE DEPRESSED.”
+Patient: “It’s true, I’m depressed most of the time.”
+ELIZA: “DO YOU THINK COMING HERE WILL HELP YOU TO NOT BE UNHAPPY?”
+Patient: “I need some help, that much seems certain.”
+Weizenbaum’s program quickly became famous around MIT. (The joke was that it
+was a better conversationalist than most of the awkward shoegazers studying at the
+Cambridge campus.) ELIZA gave users a chance to have a taste of a machine with
+something like a mind of its own. The program spread to other campuses, to
+different research institutions, and with every step of its success, Weizenbaum
+found himself more distressed. He summarized his worries in his 1972 masterpiece
+Computer Science and Human Reason. What troubled him was not ELIZA, but her
+users, the humans. Even when they were professional psychologists, many of them
+quickly considered it reasonable to think that one day the work of diagnosis and
+counseling might be turned over to machines. This felt like a natural next step in the
+ceaseless progress they were used to in their lives. Better refrigerators, stronger
+seat belts, faster jet planes, more plastic – why not a computer doing therapy? It
+121
+sounded kind of wonderful. “A number of practicing psychiatrists seriously believed
+the DOCTOR computer program could grow into a nearly completely automatic form
+of therapy,” Weizenbaum wrote. “I had thought it essential, as a prerequisite to the
+very possibility that one person might help another cope with his emotional
+problems, that the helper himself participate in the other’s experience.” To use a
+machine for such a task? He was horrified. Weizenbaum knew the empathy ELIZA
+was exuding was faked. It was just code. “Science,” he concluded, “has been gradually
+converted into a slow-acting poison.”
+“Would you mind leaving the room,” Weizenbaum’s secretary said to him once, lost
+in a particularly personal discussion with ELIZA. “The reaction,” he wrote, “showed
+me more clearly than anything I had seen hitherto the enormously exaggerated
+attributions even a well-educated audience is capable of making, even strives to
+make, to a technology it does not understand.” This was black boxing at its worst: “I
+have no idea how this thing works. And it’s wonderful!”
+What makes the New Caste so particularly powerful is that their essential work is to
+build and operate the cores that control these systems. And the more people they
+lure onto them, the more powerful the platforms – and the people who run them –
+become. “The computer programmer,” Weizenbaum wrote, summing up his lessons
+from ELIZA, “is a creator of universes for which he alone is the lawgiver.” Each of
+these cores represents a fusion of power and politics and technology like nothing
+the world has ever seen. They are assembled mostly from scratch, they represent
+the concentration of billions of connections, and their direction is determined by
+technological and market factors as much as by any democratic twitch.
+The strategic power of societies that train the best of the New Caste is probably selfevident
+by now. To educate and deploy masses of people capable of such
+transcendent design genius will mark a difference, an electric gating line between
+the nations that succeed and those that fail. But such training brings a real tension, if
+this group is allowed to really rip away at their work. What won’t they attack?
+Control over the protocols that answer questions, move money, protect data,
+analyze your DNA – it’s hard to think of any single locus of power that will ever be
+greater than the tight, gravitationally inevitable platforms emerging around us now.
+These essential webs are filled, as we’ve seen, with complex bugs and errors and
+loopholes. They depend on design decisions whose implications resonate for
+decades – both inside the black boxes and the external world that vibrates to their
+quiet demands. “If builders built buildings the same way programmers write
+programs,” one famous coding lemma runs, “then the first woodpecker who came
+along would destroy civilization.” Who would know if rot is spreading in these
+systems? Who would stop it? Recall Paul Virilo’s line that trains produced train
+accidents, planes produced airplane accidents. So: Black Boxes?
+As much as the work of the New Caste looks tactical in nature – what protocols to
+use, how to engineer networks or design machine boards – the reality is that most of
+what they do would be blind without a strategic urge. Behind even the smallest
+122
+advance, whether it is fingerprint recognition on your phone or some new autotranslation
+app, a set of careful, deterministic values and calculations linger. One
+feature that defines the New Caste is unadulterated, unquestioned faith in the
+continued network revolution, and that the values that underlie the best programs
+may be the values that should gird the world that depends on that same code. The
+danger here is clear enough. “Respect, understanding and love,” Weizenbaum wrote
+as he considered ELIZA’s effects, “are not technical problems.”
+The biggest of the platforms controlled by the New Caste herd together, remember,
+billions of people, bind them with ever thickening cords. The revealing tics of every
+movement in the virtual and every step or drive in the real world are marked down,
+remembered and scored. To operate the strategic levers of such a force is, in all
+reality, no less significant than leading a nation. The distinction between a CEO of a
+major connected firm and a head of state lies less in the depth and efficacy of their
+influence than in the questions of how they got such power, and how they might use
+it. The New Caste has an admirable conviction near to faith that their products are
+truly universal. They are absolute technological determinists. Watching their
+services and influence expand often has that strange aura of the irresistible force
+taking on an immovable object. They believe that their black boxes will bulldoze
+concerns of politics or history. And soon.
+Historical ambition of this scale, the sort that touches really countless lives, has
+always blended a commercial and technical mastery -- the moves of the East India
+Company turned as much on better ship design, maps and navigation as on imperial
+objectives. But the aim of the New Caste is the same as it was for those three older
+castes – the merchants, soldiers and sages: To put the tools they’ve mastered and
+built in the service of still more dominance. The commercial calculations of the most
+powerful figures of the New Caste carry a sense of seeing many moves ahead, a very
+real kind of chess. Their billion dollar acquisitions, investment in moon-shot R&D
+ideas, the hundred million dollar payouts for great engineers – all of these mark the
+astonishing scale of what they have in mind: To have and control ever more
+essential cores of power. Are they seduced by having a billion users? Sure, but not
+because of the billion users, but rather because of the seductive allure of the black
+box, of what it means to control such a central point of connection.
+4.
+I remember sitting with a member of the New Caste the week the first batch of
+mimeographed and laser-scanned Snowden papers were released, as we both
+discovered that everyone we knew was devouring the documents. Like a novel.
+People were texting one another – “Have you seen this?!” – and you couldn’t get
+through a dinner without a debate over the technical merits of what was on display.
+The Snowden files were fascinating to the New Caste in a way few others might
+understand, in the way a room of ballplayers might examine Ted Williams’s swing
+mechanics. Let me try to explain it this way: When I was younger, people called our
+generation – those of us born between 1965 and 1980 more or less – a generation of
+slackers. Generation X. Generation Nothing. There was an argument to be had about
+123
+the Baby Boomers. Had they been the most destructive, selfish generation in
+American history? A reaction against the selflessness of their parents? Retired to
+leave the rest of us to pay their future medical bills and oggle their underfunded
+pensions, to cope with the manipulated political system they’d sued into existence.
+Or had they left a legacy of tolerance, an echo of 1968’s optimisitic energy, a firming
+of American confidence. But, anyhow, Generation X? By comparison irrelevant: A
+collection of sad, passive slackers.
+But the great Internet companies were largely built by Generation X. The
+foundational experience of 1989 – the fall of the Berlin Wall – bred optimism. It
+created, in fact, the possibility for a new exploration. When we were told “Be
+generous in what you accept,” this seemed reasonable and, eventually, lucrative. The
+logic and power of networks became apparent by itself, the moment we began
+connecting the world. So linkage in trade and finance and friendship was pressed
+out into a new era of globalization, pushed as much by the smashing, enthusiastic
+removal of so many historical limits as it was by the technology itself. Yes WiFi and
+TCP/IP and other advances made wiring the world possible, but I wonder if they
+would have developed so quickly if the context for using them hadn’t provided a
+feedback loop of such quick profit and reward and, frankly, amazement. So, in this
+fashion, we laid the groundwork for a world of billion-plus user platforms. For a
+new concept of power.
+But the Snowden papers were a shock. We knew him, in a sense. His mannerisms
+and thinking and technical instincts harmonized with our own. It was as if the NSA
+had enrolled most of the digitally visible world into a twisted panopticon of a social
+network, one where your “membership” began the moment one of your data
+packets was sniffed or chased along fiber optic lines. Here was a secret three billionuser
+platform, in a sense, that had enmeshed, without their knowledge or
+permission, a tremendous chunk of humanity. People of interest. The one or two or
+three billion people swept into systems like the NSA’s Aurora fell victim to the
+powerful leverage of scaled systems: The more people monitored by the NSA, the
+more leads to follow, which meant still more people needed to be followed and
+knitted unwittingly into the web.
+No one in my generation who had been around tech for long was naïve. We knew
+that like soldiers coming back from a war there were things done on the network –
+the spreading of danger, of inequality, of pollution – that would have to be paid for
+in balance by the benefits the system promised to bring. The immensity of what had
+been built already in networks was clear enough; the even greater power yet to
+come as trillions of more connections piled together was implicit, obvious even. The
+perverse, sneaky side of this growth was known to anyone who’d spent time
+working a connected machine. But that people of our generation could on the one
+hand listen to “Karma Police” and on the other enact the sick OK Computer logic of
+surveillance, even name a British GCHQ monitoring program after the Radiohead
+song? The aim: Provide "either (a) a web browsing profile for every visible user on
+124
+the Internet, or (b) a user profile for every visible website on the Internet." 177 We’d
+not honestly thought the end of this would be a need to so deeply question or defend
+freedom or liberty.
+The whole idea of connectivity had begun with liberty, after all. The Fall of the Wall.
+We’d not known or expected to lose it through the very systems we’d constructed in
+the open space a 20-year peace had presented. So: We’d been naïve after all. We’d
+been united in a tacit claim that there was nothing bad about connectivity. We
+believed it for the most part and convinced others. We didn’t mean it that way, I felt
+the New Caste readers of the Snowden Papers were saying to each other, paging
+through the sick, ineffably banal logic of those NSA Power Point presentations. They
+were brochures for totalitarianism. If you have not read them, it is worth looking
+them over. They have, you’ll see, all the anodyne banality of insurance company
+pitches, even if the dull language was expressing something vivid, nothing less than
+the potential murder of some very basic rights. We were reading and discussing and
+debating the documents so avidly because, it seems to me, each of us had a kind of
+horror of what we might have done.
+Here was a massive technological and insidious web, a totalizing virtual machine of
+collection and analysis and instant observation and reaction. It relied, for its safe
+operation, on the humans in the loop of that sensing and seeing and machine
+thinking. And what was it, exactly, that the humans had appeared to do in the face of
+such urgent responsibility? Almost like that silly secretary chatting with the ELIZA
+machine, they had suspended their sense of warm humanity in the face of the
+magical charm of electrical promise. They had let the machine run. The whole
+system had been built and operated by members of the New Caste who were, in
+turn, beguiled and charmed out of a sense of certain essential limits as they stared at
+the beautiful face of machine power.
+Looking back on his formative years, before Europe was ground up in the First
+World War, the powerfully brilliant and sensitive economist John Maynard Keynes
+bitterly recalled the iron certainty of his set of friends and their confident, diffident
+arrogance: “We were not aware that civilization was a thin and precarious crust
+erected by the personality and the will of a very few, and only maintained by rules
+and conventions skillfully put across and guilefuly preserved. We had no respect for
+traditional wisdom or the restaints of custom.” 178 It was the war, then the
+depression, then a war which taught them this expensive lesson. What is fracturing
+around us now, with our own willful and diffident support, is that very thin and
+precarious crust, cracked and assembled as Keynes said by “the will of a very few”.
+What if those very few are the New Caste?
+177 The aim: GHCQ “Pullthrough Steering Group Meeting #16” available from
+theintercept.com
+178 “We were not aware”: John Maynard Keynes, “My Early Beliefs” in Two
+Memoirs: Dr. Melchior, a Defeated Enemy, and My Early Beliefs (New York: A.M.
+Kelley, 1949) 99
+125
+The essence of the Seventh Sense will be not merely to be beguiled by our
+technology, by the way it smashes old systems, not to ask “Could you please leave
+the room while I use bend these electrons to even more omnipotent control,” but
+rather – in the same instant as the networks snaps into its full power– to grasp the
+full nature of the connected age. To see how it might be used to further, not erode,
+the things we care most about. To ensure that if we are not among the very few, at
+least we can guarantee that their will bends towards justice. We will see, in a
+moment, just what that means in practice. How our best technology and our most
+avid hopes for what a technological, connected future could look like might just be
+yoked together. But before we can do that, there is one final question we need to
+answer about the networks all around us now: What, in the end, are they really for?�
+126
+Chapter Eight:
+“MapReduce”: The Compression of Space and Time
+In which we learn what networks are really, rather wonderfully, meant for.
+1.
+Starting in the springtime of 1997, the American scientist and inventor Danny Hillis
+began what has since become an every-few-months sort of ritual. He packed up
+from his home in Encino, a short drive over the Hollywood Hills from Los Angeles,
+and headed off for rural Texas for a few days that would largely defined by rock and
+dynamite. Hillis, who was born in 1956, has spent most of his life working at the
+electron level of the world, crafting some of the most significant computer
+processing systems of our age. So the sort of paleolithinc earth moving he was
+heading off to manage in Texas was a departure from his usual scale. His aim was to
+work on blasting and then refining a space in an isolated mountainside for the
+construction of a towering clock that he had designed, one intended to run for
+10,000 years. That ten-millennia span was not accidentally chosen. Humans, when
+Hillis began his work on the clock, had been around about that long already. We
+were, as he pictured it, at a midpoint on that 20,000 year stretch of time. Hillis and
+the group of tinkerers, thinkers, and engineers who had backed and designed the
+clock – people such as Amazon’s Jeff Bezos, spreadsheet inventor Mitch Kapor or
+investor Esther Dyson – were planning on a project that would stretch as close to
+eternity as they felt reasonable. “The Clock of the Long Now” they called it. I
+remember pulling into Danny’s driveway in Encino one afternoon as he prepared to
+depart for Texas and being struck by the contrast between the lovely, innofensive
+suburban blandness of Southern California and the tools he was taking with him to
+make an assault not merely on a mountain, but on a whole conception of time.
+I had met Hillis in an unusual fashion. I’d been asked to chair a committee that
+would award a million dollars to a figure who had made an essential contribution in
+the world of technology. The directors of the foundation behind the then-new prize
+had been, from the start, slyly dropping big names – Bill Gates! Steve Jobs! They
+hoped such a laureate would cast a bit of glamour on the first year of their award for
+“Contributions to Man’s Present Condition.” But when our committee sat down to
+talk it over, we knew that the boldfaced names didn’t want or need a prize. They
+certainly didn’t need a million dollars. As we considered people we all knew who’d
+made fundamental, essential contributions but had not been as boldfaced as they
+might have been, Danny Hillis’s name came up immediately.
+Hillis had developed a revolutionary “massively parallel” computer in the 1980s.
+The machine had helped create an entire discipline of high-speed computing by
+tying together tens of thousands of processors to tackle a problem at once.
+Traditional computers worked problems the way you or I might, step by step. Hillis’
+design was the equivalent of millions of minds, all moving at once. Coordinated,
+connected and awesomely fast. In the years since, he’d played a key role in a dozen
+127
+other breakthroughs, from designing artificial intelligences to fine-tuning classified
+military aircraft systems that depended on mathematics for their stability. When
+you wander into a deep part of Google’s technical database systems, you’re touching
+his work. When you talk to your phone, the interface bubbles with some of his
+patents. How did Baran’s 1960s idea of a survivable, packet-based system at
+ARPAnet become the Internet in the 1970s and 80s? Danny was part of a cluster of
+dirty-fingernail engineers – along with engineers such as Vint Cerf and Jon Postel –
+who’d done the work to make it possible. His centrality in that project was
+memorialized in a famous speech he once delivered in which he described having
+one of the very first email addresses in history – and then whipped out a sheaf of
+bound pages that represented the entire Internet address list at the time. It ran
+about 50 pages. To the extent there were membership cards in the New Caste,
+Danny’s would have had a very low number. It was an easy decision for our prize
+committee. No Bill Gates. No Steve Jobs. So, here’s how I met Danny Hillis: I called to
+tell him he had won a million dollars. (I recommend this as a way to start a
+friendship.)
+Hillis had been a tinkerer since he was a child and never seemed to have lost the
+pleasure of a wild intermingling of joy and practice. You couldn’t tell with him
+where passion ended and work started. He was so technically adept that he could
+inject even the coldest digital projects with a bit of hot emotion, like Bernini
+breathing life into a block of carved marble with one, “just so” grace note of his
+chisel. One of Hillis’s most famous projects, for instance, was a 15-foot high tic-tactoe
+playing tinkertoy robot he’d built when he was 20 years old, in his second year
+as an undergraduate at MIT in 1975. Made from 10,000 wooden spindles and poles,
+it was an early attempt of his to show how machines, even simple ones, might
+seduce us with both brains and looks. The effect of a giant tinkertoy pile sitting there
+at The Massachusets Institute of Technology had to make you giggle, even as your
+mind boggled at the fact that this heap of sticks, strings and dials was beating you
+again and again at a child’s game. Hillis was an artist as much as an inventor – one
+reason he’d not become Bill Gates or Steve Jobs. (And why Gates and Jobs
+maintained a consistent, admiring respect for him.) He’d once spent a decade at
+Disney designing rides or thinking up new dreams as a kind of real-world mayor of
+Tomorrowland. He liked to joke that he knew he was at the right place when, on his
+first day, he asked where he might find a parachute harness for an experiment and
+heard, in response, “What size?”
+Hillis was an avid reader, and he has the habit to think of his bleeding-edge work in
+the context of long historical gulps. Conversations with him often tie back to
+Paleocene era biology or some other deep root. That long-term view, married to his
+unmatched hands-on feel for complicated systems, made him the ideal designer for
+the clock, a machine intended to last millennia. The problems associated with such
+an undertaking were, honestly, as unreal as you might expect. How to power the
+clock? (Hand winding, the better to ensure it was not forgotten.) How to protect it?
+(Put in the middle of nowhere.) Did you need to plan for global climate change? (Yes.
+The design was adjusted to accommodate shifts in the earth’s spin when the planet’s
+icecaps melt off.) Do you write a users’ manual for people 10,000 years from now?
+128
+(Yes.) Do you write it in English? (To be determined!) Working with composer Brian
+Eno on the sound of the clock chime, and with a team of geologists and physicists,
+Hillis had made the clock into a natural extension of his tinkertoy computer, a device
+that both served a purpose and sent a message. If there was an emotion it conveyed,
+a feeling that it tickled in the way Bernini’s Apollo and Daphne might inspire terror
+or joy or faith, it was meant to be awe.
+Stewart Brand, one of the supporters of the clock and an early member of the New
+Caste too, would tell you that the idea for the clock had emerged from a desire to
+emphasize, to physicalize in a way no one could forget, the importance of longerterm
+thinking. We’d all arrived now, Brand and the other clock masters worried, at a
+moment in history when no one had a view that extended much past their own lives
+– or sometimes past the next election, or year, or the next financial quarter. Our
+modern “on to the next thing” economics and politics were eroding every slow,
+patient instinct. “Civilization is revving itself into a pathetically short attention
+span,” one manifesto for the clock began. “What we propose is both a mechanism
+and a myth.” 179 With its steady 10,000 year ticking, the Clock of the Long Now was
+meant to make us think in longer jumps. The human winding mechanism, for
+instance: Generations of clock-winders had to share in the work, and they would be
+connected in a long thread over the 10,000 years. A sacred priesthood of time.
+Moving slowly. As I spent time thinking, dreaming about the clock, I found myself
+too craving the solidity and patient isolation it promised. Who among us these days
+doesn’t want a break from the instant nowness of our age?
+Yet, the more I understood the clock, the more I realized something else was at
+work. Stop for a moment to consider who was backing and building the device. It
+was a cluster of people who had, as a common link, the fact that they had their hands
+honestly sunk into the guts of the Internet. Hillis, after all, had been waving more
+than that slim book of email addresses when he talked about the early days of the
+Internet. He was waving the credentials of a man who had been living in the virtual
+cyber neighborhood of Web connections from its very first days. He was as close to a
+native of the connected, fiber optic, light-speed world as you could find.
+All the names supporting the clock smelled similarly of burning electrons: Jeff Bezos
+had built Amazon into a high-speed marketplace whose backbone was the Web
+itself. Another backer, Mitch Kapor, had cracked apart several centuries of slow
+accounting habits when he created Lotus 1-2-3, the first successful computer
+spreadsheet program in 1983, software that permitted you to see and change your
+whole business one keystroke at a time. Kapor’s software helped move finance from
+quarter-by-quarter calculations to a really instant-by-instant sort of business – more
+or less the opposite of the “long time frame” the clock team was aiming to preserve.
+Esther Dyson was one of the earliest, best investors in network companies. This was
+a collection of men and women unified by a genius for connected change, sure, but
+also by a desire for ever faster clock speeds, ever speedier delivery, ever faster
+179 “Civilization is revving itself”: Stewart Brand, The Clock of the Long Now: Time
+and Responsibility. (New York: Basic Books, 1999) 2
+129
+processing. They had lived this. Enabled it. Profited from it. If there was ever a
+group you might hope to take aside, pull into a quiet room and ask gently What are
+the really networks for, anyway? this would be it.
+The act of keeping time, of marking it, is embedded in the nature of any age. Our
+lives are, after all, dictated by timetables: School schedules, the seasons, rush hour,
+the burning candle of birth-love-marriage-death. Time, in the days before industry,
+was measured by nature’s schedule. How long it took a crop to mature. The
+solstices. A beehive filling with honey. It was marked by moving tides and shifting
+seasons, and it demanded a slowness, a personal presence on the shores, in the
+oceans, atop the fields over generations. “Summer afternoon,” the novelist Henry
+James remarked in a précis of a slower age he felt passing away in 1895. “To me
+those have always been the two most beautiful words in the English language.” 180

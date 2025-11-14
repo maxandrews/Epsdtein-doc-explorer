@@ -1,0 +1,1338 @@
+the machines? Ever since, debate over the risks of autonomous control has remained
+associated with the debate over the powers and limitations of digitally coded machines.
+Despite their astonishing powers, little real autonomy has been observed. This is a
+dangerous assumption. What if digital computing is being superseded by something
+else?
+Electronics underwent two fundamental transitions over the past hundred years:
+from analog to digital and from vacuum tubes to solid state. That these transitions
+occurred together does not mean they are inextricably linked. Just as digital computation
+was implemented using vacuum tube components, analog computation can be
+implemented in solid state. Analog computation is alive and well, even though vacuum
+tubes are commercially extinct.
+There is no precise distinction between analog and digital computing. In general,
+digital computing deals with integers, binary sequences, deterministic logic, and time that
+is idealized into discrete increments, whereas analog computing deals with real numbers,
+nondeterministic logic, and continuous functions, including time as it exists as a
+continuum in the real world.
+Imagine you need to find the middle of a road. You can measure its width using
+any available increment and then digitally compute the middle to the nearest increment.
+Or you can use a piece of string as an analog computer, mapping the width of the road to
+the length of the string and finding the middle, without being limited to increments, by
+doubling the string back upon itself.
+Many systems operate across both analog and digital regimes. A tree integrates a
+wide range of inputs as continuous functions, but if you cut down that tree, you find that
+it has been counting the years digitally all along.
+37
+In analog computing, complexity resides in network topology, not in code.
+Information is processed as continuous functions of values such as voltage and relative
+pulse frequency rather than by logical operations on discrete strings of bits. Digital
+computing, intolerant of error or ambiguity, depends upon error correction at every step
+along the way. Analog computing tolerates errors, allowing you to live with them.
+Nature uses digital coding for the storage, replication, and recombination of
+sequences of nucleotides, but relies on analog computing, running on nervous systems,
+for intelligence and control. The genetic system in every living cell is a stored-program
+computer. Brains aren’t.
+Digital computers execute transformations between two species of bits: bits
+representing differences in space and bits representing differences in time. The
+transformations between these two forms of information, sequence and structure, are
+governed by the computer’s programming, and as long as computers require human
+programmers, we retain control.
+Analog computers also mediate transformations between two forms of
+information: structure in space and behavior in time. There is no code and no
+programming. Somehow—and we don’t fully understand how—Nature evolved analog
+computers known as nervous systems, which embody information absorbed from the
+world. They learn. One of the things they learn is control. They learn to control their
+own behavior, and they learn to control their environment to the extent that they can.
+Computer science has a long history—going back to before there even was
+computer science—of implementing neural networks, but for the most part these have
+been simulations of neural networks by digital computers, not neural networks as evolved
+in the wild by Nature herself. This is starting to change: from the bottom up, as the
+threefold drivers of drone warfare, autonomous vehicles, and cell phones push the
+development of neuromorphic microprocessors that implement actual neural networks,
+rather than simulations of neural networks, directly in silicon (and other potential
+substrates); and from the top down, as our largest and most successful enterprises
+increasingly turn to analog computation in their infiltration and control of the world.
+While we argue about the intelligence of digital computers, analog computing is
+quietly supervening upon the digital, in the same way that analog components like
+vacuum tubes were repurposed to build digital computers in the aftermath of World War
+II. Individually deterministic finite-state processors, running finite codes, are forming
+large-scale, nondeterministic, non-finite-state metazoan organisms running wild in the
+real world. The resulting hybrid analog/digital systems treat streams of bits collectively,
+the way the flow of electrons is treated in a vacuum tube, rather than individually, as bits
+are treated by the discrete-state devices generating the flow. Bits are the new electrons.
+Analog is back, and its nature is to assume control.
+Governing everything from the flow of goods to the flow of traffic to the flow of
+ideas, these systems operate statistically, as pulse-frequency coded information is
+processed in a neuron or a brain. The emergence of intelligence gets the attention of
+Homo sapiens, but what we should be worried about is the emergence of control.
+~ ~ ~
+38
+Imagine it is 1958 and you are trying to defend the continental United States against
+airborne attack. To distinguish hostile aircraft, one of the things you need, besides a
+network of computers and early-warning radar sites, is a map of all commercial air
+traffic, updated in real time. The United States built such a system and named it SAGE
+(Semi-Automatic Ground Environment). SAGE in turn spawned Sabre, the first
+integrated reservation system for booking airline travel in real time. Sabre and its
+progeny soon became not just a map as to what seats were available but also a system
+that began to control, with decentralized intelligence, where airliners would fly, and
+when.
+But isn’t there a control room somewhere, with someone at the controls? Maybe
+not. Say, for example, you build a system to map highway traffic in real time, simply by
+giving cars access to the map in exchange for reporting their own speed and location at
+the time. The result is a fully decentralized control system. Nowhere is there any
+controlling model of the system except the system itself.
+Imagine it is the first decade of the 21st century and you want to track the
+complexity of human relationships in real time. For social life at a small college, you
+could construct a central database and keep it up to date, but its upkeep would become
+overwhelming if taken to any larger scale. Better to pass out free copies of a simple
+semi-autonomous code, hosted locally, and let the social network update itself. This code
+is executed by digital computers, but the analog computing performed by the system as a
+whole far exceeds the complexity of the underlying code. The resulting pulse-frequency
+coded model of the social graph becomes the social graph. It spreads wildly across the
+campus and then the world.
+What if you wanted to build a machine to capture what everything known to the
+human species means? With Moore’s Law behind you, it doesn’t take too long to digitize
+all the information in the world. You scan every book ever printed, collect every email
+ever written, and gather forty-nine years of video every twenty-four hours, while tracking
+where people are and what they do, in real time. But how do you capture the meaning?
+Even in the age of all things digital, this cannot be defined in any strictly logical
+sense, because meaning, among humans, isn’t fundamentally logical. The best you can
+do, once you have collected all possible answers, is to invite well-defined questions and
+compile a pulse-frequency weighted map of how everything connects. Before you know
+it, your system will not only be observing and mapping the meaning of things, it will start
+constructing meaning as well. In time, it will control meaning, in the same way as the
+traffic map starts to control the flow of traffic even though no one seems to be in control.
+~ ~ ~
+There are three laws of artificial intelligence. The first, known as Ashby’s Law, after
+cybernetician W. Ross Ashby, author of Design for a Brain, states that any effective
+control system must be as complex as the system it controls.
+The second law, articulated by John von Neumann, states that the defining
+characteristic of a complex system is that it constitutes its own simplest behavioral
+description. The simplest complete model of an organism is the organism itself. Trying
+to reduce the system’s behavior to any formal description makes things more
+complicated, not less.
+39
+The third law states that any system simple enough to be understandable will not
+be complicated enough to behave intelligently, while any system complicated enough to
+behave intelligently will be too complicated to understand.
+The Third Law offers comfort to those who believe that until we understand
+intelligence, we need not worry about superhuman intelligence arising among machines.
+But there is a loophole in the Third Law. It is entirely possible to build something
+without understanding it. You don’t need to fully understand how a brain works in order
+to build one that works. This is a loophole that no amount of supervision over algorithms
+by programmers and their ethical advisors can ever close. Provably “good” AI is a myth.
+Our relationship with true AI will always be a matter of faith, not proof.
+We worry too much about machine intelligence and not enough about selfreproduction,
+communication, and control. The next revolution in computing will be
+signaled by the rise of analog systems over which digital programming no longer has
+control. Nature’s response to those who believe they can build machines to control
+everything will be to allow them to build a machine that controls them instead.
+40
+Dan Dennett is the philosopher of choice in the AI community. He is perhaps best
+known in cognitive science for his concept of intentional systems and his model of human
+consciousness, which sketches a computational architecture for realizing the stream of
+consciousness in the massively parallel cerebral cortex. That uncompromising
+computationalism has been opposed by philosophers such as John Searle, David
+Chalmers, and the late Jerry Fodor, who have protested that the most important aspects
+of consciousness—intentionality and subjective qualia—cannot be computed.
+Twenty-five years ago, I was visiting Marvin Minsky, one of the original AI
+pioneers, and asked him about Dan. “He’s our best current philosopher—the next
+Bertrand Russell,” said Marvin, adding that unlike traditional philosophers, Dan was a
+student of neuroscience, linguistics, artificial intelligence, computer science, and
+psychology: “He’s redefining and reforming the role of the philosopher. Of course, Dan
+doesn’t understand my Society-of-Mind theory, but nobody’s perfect.”
+Dan’s view of the efforts of AI researchers to create superintelligent AIs is
+relentlessly levelheaded. What, me worry? In this essay, he reminds us that AIs, above
+all, should be regarded—and treated—as tools and not as humanoid colleagues.
+He has been interested in information theory since his graduate school days at
+Oxford. In fact, he told me that early in his career he was keenly interested in writing a
+book about Wiener’s cybernetic ideas. As a thinker who embraces the scientific method,
+one of his charms is his willingness to be wrong. Of a recent piece entitled “What Is
+Information?” he has announced, “I stand by it, but it’s under revision. I’m already
+moving beyond it and realizing there’s a better way of tackling some of these issues.” He
+will most likely remain cool and collected on the subject of AI research, although he has
+acknowledged, often, that his own ideas evolve—as anyone’s ideas should.
+41
+WHAT CAN WE DO?
+Daniel C. Dennett
+Daniel C. Dennett is University Professor and Austin B. Fletcher Professor of
+Philosophy and director of the Center for Cognitive Studies at Tufts University. He is the
+author of a dozen books, including Consciousness Explained and, most recently, From
+Bacteria to Bach and Back: The Evolution of Minds.
+Many have reflected on the irony of reading a great book when you are too young to
+appreciate it. Consigning a classic to the already read stack and thereby insulating
+yourself against any further influence while gleaning only a few ill-understood ideas from
+it is a recipe for neglect that is seldom benign. This struck me with particular force when
+I reread The Human Use of Human Beings more than sixty years after my juvenile
+encounter. We should all make it a regular practice to reread books from our youth,
+where we are apt to discover clear previews of some of our own later “discoveries” and
+“inventions,” along with a wealth of insights to which we were bound to be impervious
+until our minds had been torn and tattered, exercised and enlarged by confrontations with
+life’s problems.
+Writing at a time when vacuum tubes were still the primary electronic building
+blocks and there were only a few actual computers in operation, Norbert Wiener
+imagined the future we now contend with in impressive detail and with few clear
+mistakes. Alan Turing’s famous 1950 article “Computing Machinery and Intelligence,”
+in the philosophy journal Mind, foresaw the development of AI, and so did Wiener, but
+Wiener saw farther and deeper, recognizing that AI would not just imitate—and
+replace—human beings in many intelligent activities but change human beings in the
+process.
+We are but whirlpools in a river of ever-flowing water. We are not stuff that abides, but
+patterns that perpetuate themselves. (p. 96)
+When that was written, it could be comfortably dismissed as yet another bit of
+Heraclitean overstatement. Yeah, yeah, you can never step in the same river twice. But
+it contains the seeds of the revolution in outlook. Today we know how to think about
+complex adaptive systems, strange attractors, extended minds, and homeostasis, a change
+in perspective that promises to erase the “explanatory gap” 8 between mind and
+mechanism, spirit and matter, a gap that is still ardently defended by latter-day Cartesians
+who cannot bear the thought that we—we ourselves—are self-perpetuating patterns of
+information-bearing matter, not “stuff that abides.” Those patterns are remarkably
+resilient and self-restoring but at the same time protean, opportunistic, selfish exploiters
+of whatever new is available to harness in their quest for perpetuation. And here is where
+things get dicey, as Wiener recognized. When attractive opportunities abound, we are apt
+to be willing to pay a little and accept some small, even trivial, cost-of-doing-business for
+access to new powers. And pretty soon we become so dependent on our new tools that
+we lose the ability to thrive without them. Options become obligatory.
+8
+Joseph Levine, “Materialism and Qualia: The Explanatory Gap,” Pacific Philosophical Quarterly 64, pp.
+354-61 (1983).
+42
+It’s an old, old story, with many well-known chapters in evolutionary history.
+Most mammals can synthesize their own vitamin C, but primates, having opted for a diet
+composed largely of fruit, lost the innate ability. We are now obligate ingesters of
+vitamin C, but not obligate frugivores like our primate cousins, since we have opted for
+technology that allows us to make, and take, vitamins as needed. The self-perpetuating
+patterns that we call human beings are now dependent on clothes, cooked food, vitamins,
+vaccinations, . . . credit cards, smartphones, and the Internet. And—tomorrow if not
+already today—AI.
+Wiener foresaw the problems that Turing and the other optimists have largely
+overlooked. The real danger, he said, is
+that such machines, though helpless by themselves, may be used by a human being or a
+block of human beings to increase their control over the rest of the race or that political
+leaders may attempt to control their populations by means not of machines themselves
+but through political techniques as narrow and indifferent to human possibility as if they
+had, in fact, been conceived mechanically. (p. 181)
+The power, he recognized, lay primarily in the algorithms, not the hardware they run on,
+although the hardware of today makes practically possible algorithms that would have
+seemed preposterously cumbersome in Wiener’s day. What can we say about these
+“techniques” that are “narrow and indifferent to human possibility”? They have been
+introduced again and again, some obviously benign, some obviously dangerous, and
+many in the omnipresent middle ground of controversy.
+Consider a few of the skirmishes. My late friend Joe Weizenbaum, Wiener’s
+successor as MIT’s Jeremiah of hi-tech, loved to observe that credit cards, whatever their
+virtues, also provided an inexpensive and almost foolproof way for the government, or
+corporations, to track the travels and habits and desires of individuals. The anonymity of
+cash has been largely underappreciated, except by drug dealers and other criminals, and
+now it may be going extinct. This may make money laundering a more difficult technical
+challenge in the future, but the AI pattern finders arrayed against it have the side effect of
+making us all more transparent to any “block of human beings” that may “attempt to
+control” us.
+Looking to the arts, the innovation of digital audio and video recording lets us pay
+a small price (in the eyes of all but the most ardent audiophiles and film lovers) when we
+abandon analog formats, and in return provides easy—all too easy?—reproduction of
+artworks with almost perfect fidelity. But there is a huge hidden cost. Orwell’s Ministry
+of Truth is now a practical possibility. AI techniques for creating all-but-undetectable
+forgeries of “recordings” of encounters are now becoming available which will render
+obsolete the tools of investigation we have come to take for granted in the last hundred
+and fifty years. Will we simply abandon the brief Age of Photographic Evidence and
+return to the earlier world in which human memory and trust provided the gold standard,
+or will we develop new techniques of defense and offense in the arms race of truth? (We
+can imagine a return to analog film-exposed-to-light, kept in “tamper-proof” systems
+until shown to juries, etc., but how long would it be before somebody figured out a way
+to infect such systems with doubt? One of the disturbing lessons of recent experience is
+that the task of destroying a reputation for credibility is much less expensive than the task
+of protecting such a reputation.) Wiener saw the phenomenon at its most general: “…in
+43
+the long run, there is no distinction between arming ourselves and arming our enemies.”
+(p. 129) The Information Age is also the Dysinformation Age.
+What can we do? We need to rethink our priorities with the help of the passionate
+but flawed analyses of Wiener, Weizenbaum, and the other serious critics of our
+technophilia. A key phrase, it seems to me, is Wiener’s almost offhand observation,
+above, that “these machines” are “helpless by themselves.” As I have been arguing
+recently, we’re making tools, not colleagues, and the great danger is not appreciating the
+difference, which we should strive to accentuate, marking and defending it with political
+and legal innovations.
+Perhaps the best way to see what is being missed is to note that Alan Turing
+himself suffered an entirely understandable failure of imagination in his formulation of
+the famous Turing Test. As everyone knows, it is an adaptation of his “imitation game,”
+in which a man, hidden from view and communicating verbally with a judge, tries to
+convince the judge that he is in fact a woman, while a woman, also hidden and
+communicating with the judge, tries to convince the judge that she is the woman. Turing
+reasoned that this would be a demanding challenge for a man (or for a woman pretending
+to be a man), exploiting a wealth of knowledge about how the other sex thinks and acts,
+what they tend to favor or ignore. Surely (ding!) 9 , any man who could beat a woman at
+being perceived to be a woman would be an intelligent agent. What Turing did not
+foresee is the power of deep-learning AI to acquire this wealth of information in an
+exploitable form without having to understand it. Turing imagined an astute and
+imaginative (and hence conscious) agent who cunningly designed his responses based on
+his detailed “theory” of what women are likely to do and say. Top-down intelligent
+design, in short. He certainly didn’t think that a man, winning the imitation game, would
+somehow become a woman; he imagined that there would still be a man’s consciousness
+guiding the show. The hidden premise in Turing’s almost-argument was: Only a
+conscious, intelligent agent could devise and control a winning strategy in the imitation
+game. And so it was persuasive to Turing (and others, including me, still a stalwart
+defender of the Turing Test) to argue that a “computing machine” that could pass as
+human in a contest with a human might not be conscious in just the way a human being
+is, but would nevertheless have to be a conscious agent of some kind. I think this is still a
+defensible position—the only defensible position—but you have to understand how
+resourceful and ingenious a judge would have to be to expose the shallowness of the
+façade that a deep-learning AI (a tool, not a colleague) could present.
+What Turing didn’t foresee is the uncanny ability of superfast computers to sift
+mindlessly through Big Data, of which the Internet provides an inexhaustible supply,
+finding probabilistic patterns in human activity that could be used to pop “authentic”-
+seeming responses into the output for almost any probe a judge would think to offer.
+Wiener also underestimates this possibility, seeing the tell-tale weakness of a machine in
+not being able to
+take into account the vast range of probability that characterizes the human
+situation. (p.181)
+9
+The surely alarm (the habit of having a bell ring in your head whenever you see the word in an argument)
+is described and defended by me in Intuition Pumps and Other Tools for Thinking (2013).
+44
+But taking into account that range of probability is just where the new AI excels.
+The only chink in the armor of AI is that word “vast”; human possibilities, thanks to
+language and the culture that it spawns, are truly Vast. 10 No matter how many patterns
+we may find with AI in the flood of data that has so far found its way onto the Internet,
+there are Vastly more possibilities that have never been recorded there. Only a fraction
+(but not a Vanishing fraction) of the world’s accumulated wisdom and design and
+repartee and silliness has made it onto the Internet, but probably a better tactic for the
+judge to adopt when confronting a candidate in the Turing Test is not to search for such
+items but to create them anew. AI in its current manifestations is parasitic on human
+intelligence. It quite indiscriminately gorges on whatever has been produced by human
+creators and extracts the patterns to be found there—including some of our most
+pernicious habits. 11 These machines do not (yet) have the goals or strategies or capacities
+for self-criticism and innovation to permit them to transcend their databases by
+reflectively thinking about their own thinking and their own goals. They are, as Wiener
+says, helpless, not in the sense of being shackled agents or disabled agents but in the
+sense of not being agents at all—not having the capacity to be “moved by reasons” (as
+Kant put it) presented to them. It is important that we keep it that way, which will take
+some doing.
+One of the flaws in Weizenbaum’s book Computer Power and Human Reason,
+something I tried in vain to convince him of in many hours of discussion, is that he could
+never decide which of two theses he wanted to defend: AI is impossible! or AI is possible
+but evil! He wanted to argue, with John Searle and Roger Penrose, that “Strong AI” is
+impossible, but there are no good arguments for that conclusion. After all, everything we
+now know suggests that, as I have put it, we are robots made of robots made of robots. . .
+down to the motor proteins and their ilk, with no magical ingredients thrown in along the
+way. Weizenbaum’s more important and defensible message was that we should not
+strive to create Strong AI and should be extremely cautious about the AI systems that we
+can create and have already created. As one might expect, the defensible thesis is a
+hybrid: AI (Strong AI) is possible in principle but not desirable. The AI that’s practically
+possible is not necessarily evil—unless it is mistaken for Strong AI!
+The gap between today’s systems and the science-fictional systems dominating
+the popular imagination is still huge, though many folks, both lay and expert, manage to
+underestimate it. Let’s consider IBM’s Watson, which can stand as a worthy landmark
+for our imaginations for the time being. It is the result of a very large-scale R&D process
+extending over many person-centuries of intelligent design, and as George Church notes
+in these pages, it uses thousands of times more energy than a human brain (a
+technological limitation that, as he also notes, may be temporary). Its victory in
+Jeopardy! was a genuine triumph, made possible by the formulaic restrictions of the
+Jeopardy! rules, but in order for it to compete, even these rules had to be revised (one of
+10
+In Darwin’s Dangerous Idea, 1995, p. 109, I coined the capitalized version, Vast, meaning Very much
+more than ASTronomical, and its complement, Vanishing, to replace the usual exaggerations infinite and
+infinitesimal for discussions of those possibilities that are not officially infinite but nevertheless infinite for
+all practical purposes.
+11
+Aylin Caliskan-Islam, Joanna J. Bryson & Arvind Narayanan, “Semantics derived automatically from
+language corpora contain human-like biases,” Science, 14 April 2017, 356: 6334, pp. 183-6. DOI:
+10.1126/science.aal4230.
+45
+those trade-offs: you give up a little versatility, a little humanity, and get a crowdpleasing
+show). Watson is not good company, in spite of misleading ads from IBM that
+suggest a general conversational ability, and turning Watson into a plausibly
+multidimensional agent would be like turning a hand calculator into Watson. Watson
+could be a useful core faculty for such an agent, but more like a cerebellum or an
+amygdala than a mind—at best, a special-purpose subsystem that could play a big
+supporting role, but not remotely up to the task of framing purposes and plans and
+building insightfully on its conversational experiences.
+Why would we want to create a thinking, creative agent out of Watson? Perhaps
+Turing’s brilliant idea of an operational test has lured us into a trap: the quest to create at
+least the illusion of a real person behind the screen, bridging the “uncanny valley.” The
+danger, here, is that ever since Turing posed his challenge—which was, after all, a
+challenge to fool the judges—AI creators have attempted to paper over the valley with
+cutesy humanoid touches, Disneyfication effects that will enchant and disarm the
+uninitiated. Weizenbaum’s ELIZA was the pioneer example of such superficial illusionmaking,
+and it was his dismay at the ease with which his laughably simple and shallow
+program could persuade people they were having a serious heart-to-heart conversation
+that first sent him on his mission.
+He was right to be worried. If there is one thing we have learned from the
+restricted Turing Test competitions for the Loebner Prize, it is that even very intelligent
+people who aren’t tuned in to the possibilities and shortcuts of computer programming
+are readily taken in by simple tricks. The attitudes of people in AI toward these methods
+of dissembling at the “user interface” have ranged from contempt to celebration, with a
+general appreciation that the tricks are not deep but can be potent. One shift in attitude
+that would be very welcome is a candid acknowledgment that humanoid embellishments
+are false advertising—something to condemn, not applaud.
+How could that be accomplished? Once we recognize that people are starting to
+make life-or-death decisions largely on the basis of “advice” from AI systems whose
+inner operations are unfathomable in practice, we can see a good reason why those who
+in any way encourage people to put more trust in these systems than they warrant should
+be held morally and legally accountable. AI systems are very powerful tools—so
+powerful that even experts will have good reason not to trust their own judgment over the
+“judgments” delivered by their tools. But then, if these tool users are going to benefit,
+financially or otherwise, from driving these tools through terra incognita, they need to
+make sure they know how to do this responsibly, with maximum control and justification.
+Licensing and bonding operators, just as we license pharmacists (and crane operators!)
+and other specialists whose errors and misjudgments can have dire consequences, can,
+with pressure from insurance companies and other underwriters, oblige creators of AI
+systems to go to extraordinary lengths to search for and reveal weaknesses and gaps in
+their products, and to train those entitled to operate them.
+One can imagine a sort of inverted Turing Test in which the judge is on trial; until
+he or she can spot the weaknesses, the overstepped boundaries, the gaps in a system, no
+license to operate will be issued. The mental training required to achieve certification as
+a judge will be demanding. The urge to adopt the intentional stance, our normal tactic
+whenever we encounter what seems to be an intelligent agent, is almost overpoweringly
+strong. Indeed, the capacity to resist the allure of treating an apparent person as a person
+46
+is an ugly talent, reeking of racism or species-ism. Many people would find the
+cultivation of such a ruthlessly skeptical approach morally repugnant, and we can
+anticipate that even the most proficient system-users would occasionally succumb to the
+temptation to “befriend” their tools, if only to assuage their discomfort with the execution
+of their duties. No matter how scrupulously the AI designers launder the phony “human”
+touches out of their wares, we can expect novel habits of thought, conversational gambits
+and ruses, traps and bluffs to arise in this novel setting for human action. The comically
+long lists of known side effects of new drugs advertised on television will be dwarfed by
+the obligatory revelations of the sorts of questions that cannot be responsibly answered
+by particular systems, with heavy penalties for those who “overlook” flaws in their
+products. It is widely noted that a considerable part of the growing economic inequality
+in today’s world is due to the wealth accumulated by digital entrepreneurs; we should
+enact legislation that puts their deep pockets in escrow for the public good. Some of the
+deepest pockets are voluntarily out in front of these obligations to serve society first and
+make money secondarily, but we shouldn’t rely on good will alone.
+We don’t need artificial conscious agents. There is a surfeit of natural conscious
+agents, enough to handle whatever tasks should be reserved for such special and
+privileged entities. We need intelligent tools. Tools do not have rights, and should not
+have feelings that could be hurt, or be able to respond with resentment to “abuses” rained
+on them by inept users. 12 One of the reasons for not making artificial conscious agents is
+that however autonomous they might become (and in principle, they can be as
+autonomous, as self-enhancing or self-creating, as any person), they would not—without
+special provision, which might be waived—share with us natural conscious agents our
+vulnerability or our mortality.
+I once posed a challenge to students in a seminar at Tufts I co-taught with
+Matthias Scheutz on artificial agents and autonomy: Give me the specs for a robot that
+could sign a binding contract with you—not as a surrogate for some human owner but on
+its own. This isn’t a question of getting it to understand the clauses or manipulate a pen
+on a piece of paper but of having and deserving legal status as a morally responsible
+agent. Small children can’t sign such contracts, nor can those disabled people whose
+legal status requires them to be under the care and responsibility of guardians of one sort
+or another. The problem for robots who might want to attain such an exalted status is
+that, like Superman, they are too invulnerable to be able to make a credible promise. If
+they were to renege, what would happen? What would be the penalty for promisebreaking?
+Being locked in a cell or, more plausibly, dismantled? Being locked up is
+barely an inconvenience for an AI unless we first install artificial wanderlust that cannot
+be ignored or disabled by the AI on its own (and it would be systematically difficult to
+make this a foolproof solution, given the presumed cunning and self-knowledge of the
+AI); and dismantling an AI (either a robot or a bedridden agent like Watson) is not killing
+it, if the information stored in its design and software is preserved. The very ease of
+digital recording and transmitting—the breakthrough that permits software and data to be,
+12
+Joanna J. Bryson, “Robots Should Be Slaves,” in Close Engagement with Artificial Companions, Yorick
+Wilks, ed., (Amsterdam, The Netherlands: John Benjamins, 2010), pp. 63-74;
+http://www.cs.bath.ac.uk/~jjb/ftp/Bryson-Slaves-Book09.html.
+_____________, “Patiency Is Not a Virtue: AI and the Design of Ethical Systems,”
+https://www.cs.bath.ac.uk/~jjb/ftp/Bryson-Patiency-AAAISS16.pdf.
+47
+in effect, immortal—removes robots from the world of the vulnerable (at least robots of
+the usually imagined sorts, with digital software and memories). If this isn’t obvious,
+think about how human morality would be affected if we could make “backups” of
+people every week, say. Diving headfirst on Saturday off a high bridge without benefit
+of bungee cord would be a rush that you wouldn’t remember when your Friday night
+backup was put online Sunday morning, but you could enjoy the videotape of your
+apparent demise thereafter.
+So what we are creating are not—should not be—conscious, humanoid agents but
+an entirely new sort of entities, rather like oracles, with no conscience, no fear of death,
+no distracting loves and hates, no personality (but all sorts of foibles and quirks that
+would no doubt be identified as the “personality” of the system): boxes of truths (if we’re
+lucky) almost certainly contaminated with a scattering of falsehoods. It will be hard
+enough learning to live with them without distracting ourselves with fantasies about the
+Singularity in which these AIs will enslave us, literally. The human use of human beings
+will soon be changed—once again—forever, but we can take the tiller and steer between
+some of the hazards if we take responsibility for our trajectory.
+48
+The roboticist Rodney Brooks, featured in Errol Morris’s 1997 documentary Fast,
+Cheap and Out of Control along with a lion-tamer, a topiarist, and an expert on the
+naked mole rat, was described by one reviewer as “smiling with a wild gleam in his eye.”
+But that’s pretty much true of most visionaries.
+A few years later in his career, Brooks, as befits one of the world’s leading
+roboticists, suggested that “we overanthropomorphize humans, who are after all mere
+machines.” He went on to present a warm-hearted vision of a coming AI world in which
+“the distinction between us and robots is going to disappear.” He also admitted to
+something of a divided worldview. “Like a religious scientist, I maintain two sets of
+inconsistent beliefs and act on each of them in different circumstances,” he wrote. “It is
+this transcendence between belief systems that I think will be what enables mankind to
+ultimately accept robots as emotional machines, and thereafter start to empathize with
+them and attribute free will, respect, and ultimately rights to them.”
+That was in 2002. In these pages, he takes a somewhat more jaundiced, albeit
+narrower, view; he is alarmed by the extent to which we have come to rely on pervasive
+systems that are not just exploitative but also vulnerable, as a result of the too-rapid
+development of software engineering—an advance that seems to have outstripped the
+imposition of reliably effective safeguards.
+49
+THE INHUMAN MESS OUR MACHINES HAVE GOTTEN US INTO
+Rodney Brooks
+Rodney Brooks is a computer scientist; Panasonic Professor of Robotics, emeritus, MIT;
+former director, MIT Computer Science Lab; and founder, chairman, and CTO of
+Rethink Robotics. He is the author of Flesh and Machines.
+Mathematicians and scientists are often limited in how they see the big picture, beyond
+their particular field, by the tools and metaphors they use in their work. Norbert Wiener
+is no exception, and I might guess that neither am I.
+When he wrote The Human Use of Human Beings, Wiener was straddling the end
+of the era of understanding machines and animals simply as physical processes and the
+beginning of our current era of understanding machines and animals as computational
+processes. I suspect there will be future eras whose tools will look as distinct from the
+tools of the two eras Wiener straddled as those tools did from each other.
+Wiener was a giant of the earlier era and built on the tools developed since the
+time of Newton and Leibniz to describe and analyze continuous processes in the physical
+world. In 1948 he published Cybernetics, a word he coined to describe the science of
+communication and control in both machines and animals. Today we would refer to the
+ideas in this book as control theory, an indispensable discipline for the design and
+analysis of physical machines, while mostly neglecting Wiener’s claims about the science
+of communication. Wiener’s innovations were largely driven by his work during the
+Second World War on mechanisms to aim and fire anti-aircraft guns. He brought
+mathematical rigor to the design of the sorts of technology whose design processes had
+been largely heuristic in nature: from the Roman waterworks through Watt’s steam
+engine to the early development of automobiles.
+One can imagine a different contingent version of our intellectual and
+technological history had Alan Turing and John von Neumann, both of whom made
+major contributions to the foundations of computing, not appeared on the scene. Turing
+contributed a fundamental model of computation—now known as a Turing Machine—in
+his paper “On Computable Numbers with an Application to the Entscheidungsproblem,”
+written and revised in 1936 and published in 1937. In these machines, a linear tape of
+symbols from a finite alphabet encodes the input for a computational problem and also
+provides the working space for the computation. A different machine was required for
+each separate computational problem; later work by others would show that in one
+particular machine, now known as a Universal Turing Machine, an arbitrary set of
+computing instructions could be encoded on that same tape.
+In the 1940s, von Neumann developed an abstract self-reproducing machine
+called a cellular automaton. In this case it occupied a finite subset of an infinite twodimensional
+array of squares each containing a single symbol from a finite alphabet of
+twenty-nine distinct symbols—the rest of the infinite array starts out blank. The single
+symbols in each square change in lockstep, based on a complex but finite rule about the
+current symbol in that square and its immediate neighbors. Under the complex rule that
+von Neumann developed, most of the symbols in most of the squares stay the same and a
+few change at each step. So when one looks at the non-blank squares, it appears that
+50
+there is a constant structure with some activity going on inside it. When von Neumann’s
+abstract machine reproduced, it made a copy of itself in another region of the plane.
+Within the “machine” was a horizontal line of squares which acted as a finite linear tape,
+using a subset of the finite alphabet. It was the symbols in those squares that encoded the
+machine of which they were a part. During the machine’s reproduction, the “tape” could
+move either left or right and was both interpreted (transcribed) as the instructions
+(translation) for the new “machine” being built and then copied (replicated)—with the
+new copy being placed inside the new machine for further reproduction. Francis Crick
+and James Watson later showed, in 1953, how such a tape could be instantiated in
+biology by a long DNA molecule with its finite alphabet of four nucleobases: guanine,
+cytosine, adenine, and thymine (G, C, A, and T). 13 As in von Neumann’s machine, in
+biological reproduction the linear sequence of symbols in DNA is interpreted—through
+transcription into RNA molecules, which then are translated into proteins, the structures
+that make up a new cell—and the DNA is replicated and encased in the new cell.
+A second foundational piece of work was in a 1945 “First Draft” report on the
+design for a digital computer, wherein von Neumann advocated for a memory that could
+contain both instructions and data. 14 This is now known as a von Neumann architecture
+computer—as distinct from a Harvard architecture computer, where there are two
+separate memories, one for instructions and one for data. The vast majority of computer
+chips built in the era of Moore’s Law are based on the von Neumann architecture,
+including those powering our data centers, our laptops, and our smartphones. Von
+Neumann’s digital-computer architecture is conceptually the same generalization—from
+early digital computers constructed with electromagnetic relays at both Harvard
+University and Bletchley Park—that occurs in going from a special-purpose Turing
+Machine to a Universal Turing Machine. Furthermore, his self-replicating automata
+share a fundamental similarity with both the construction of a Turing Machine and the
+mechanism of DNA-based reproducing biological cells. There is to this day scholarly
+debate over whether von Neumann saw the cross connections between these three pieces
+of work, Turing’s and his two. Turing’s revision of his paper was done while he and von
+Neumann were both at Princeton; indeed, after getting his PhD, Turing almost stayed on
+as von Neumann’s postdoc.
+Without Turing and von Neumann, the cybernetics of Wiener might have
+remained a dominant mode of thought and driver of technology for much longer than its
+brief moment of supremacy. In this imaginary version of history, we might well live
+today in an actual steam-punk world and not just get to observe its fantastical
+instantiations at Maker Faires!
+My point is that Wiener thought about the world—physical, biological, and (in
+Human Use) sociological—in a particular way. He analyzed the world as continuous
+variables, as he explains in chapter 1 along with a nod to thermodynamics through an
+overlay of Gibbs statistics. He also shoehorns in a weak and unconvincing model of
+information as message-passing between and among both physical and biological entities.
+To me, and from today’s vantage point seventy years on, his tools seem woefully
+13
+“A Structure for Deoxyribose Nucleic Acid,” Nature 171, 737–738 (1953).
+14
+https://en.wikipedia.org//wiki/First_Draft_of_a_Report_on_the_EDVAC#Controversy. Von Neumann is
+listed as the only author, whereas others contributed to the concepts he laid out; thus credit for the
+architecture has gone to him alone.
+51
+inadequate for describing the mechanisms underlying biological systems, and so he
+missed out on how similar mechanisms might eventually be embodied in technological
+computational systems—as now they have been. Today’s dominant technologies were
+developed in the world of Turing and von Neumann, rather than the world of Wiener.
+In the first industrial revolution, energy from a steam engine or a water wheel was
+used by human workers to replace their own energy. Instead of being a source of energy
+for physical work, people became modulators of how a large source of energy was used.
+But because steam engines and water wheels had to be large to be an efficient use of
+capital, and because in the 18th century the only technology for spatial distribution of
+energy was mechanical and worked only at very short range, many workers needed to be
+crowded around the source of energy. Wiener correctly argues that the ability to transmit
+energy as electricity caused a second industrial revolution. Now the source of energy
+could be distant from where it was used, and from the beginning of the 20th century,
+manufacturing could be much more dispersed as electrical-distribution grids were built.
+Wiener then argues that a further new technology, that of the nascent
+computational machines of his time, will provide yet another revolution. The machines
+he talks about seem to be both analog and (perhaps) digital in nature; and he points out, in
+The Human Use of Human Beings, that since they will be able to make decisions, both
+blue-collar and white-collar workers may be reduced to being mere cogs in a much bigger
+machine. He fears that humans might use and abuse one another through organizational
+structures that this capability will encourage. We have certainly seen this play out in the
+last sixty years, and that disruption is far from over.
+However, his physics-based view of computation protected him from realizing
+just how bad things might get. He saw machines’ ability to communicate as providing a
+new and more inhuman way of exerting command and control. He missed that within a
+few decades computation systems would become more like biological systems, and it
+seems, from his descriptions in chapter 10 of his own work on modeling some aspects of
+biology, that he woefully underappreciated the many orders of magnitude of further
+complexity of biology over physics. We are in a much more complex situation today
+than he foresaw, and I am worried that it is much more pernicious than even his worst
+imagined fears.
+In the 1960s, computation became firmly based on the foundations set out by
+Turing and von Neumann, and it was digital computation, based on the idea of finite
+alphabets which they both used. An arbitrarily long sequence, or string, formed by
+characters from a finite alphabet, can be encoded as a unique integer. As with Turing
+Machines themselves, the formalism for computation became that of computing an
+integer-valued function of a single integer-valued input.
+Turing and von Neumann both died in the 1950s and at that time this is how they
+saw computation. Neither foresaw the exponential increase in computing capability that
+Moore’s Law would bring—nor how pervasive computing machinery would become.
+Nor did they foresee two developments in our modeling of computation, each of which
+poses a great threat to human society.
+The first is rooted in the abstractions they adopted. In the fifty-year, Moore’s
+Law–fueled race to produce software that could exploit the doubling of computer
+capability every two years, the typical care and certification of engineering disciplines
+was thrown by the wayside. Software engineering was fast and prone to failures. This
+52
+rapid development of software without standards of correctness has opened up many
+routes to exploit von Neumann architecture’s storage of data and instructions in the same
+memory. One of the most common routes, known as “buffer overrun,” involves an input
+number (or long string of characters) that is bigger than the programmer expected and
+overflows into where the instructions are stored. By carefully designing an input number
+that is too big by far, someone using a piece of software can infect it with instructions not
+intended by the programmer, and thus change what it does. This is the basis for creating
+a computer virus—so named for its similarity to a biological virus. The latter injects
+extra DNA into a cell, and that cell’s transcription and translation mechanism blindly
+interprets it, making proteins that may be harmful to the host cell. Furthermore, the
+replication mechanism for the cell takes care of multiplying the virus. Thus, a small
+foreign entity can take control of a much bigger entity and bend its behavior in
+unexpected ways.
+These and other forms of digital attacks have taken the security of our everyday
+lives from us. We rely on computers for almost everything now. We rely on computers
+for our infrastructure of electricity, gas, roads, cars, trains, and airplanes; these are all
+vulnerable. We rely on computers for our banking, our payment of bills, our retirement
+accounts, our mortgages, our purchasing of goods and services—these, too, are all
+vulnerable. We rely on computers for our entertainment, our communications both
+business and personal, our physical security at home, our information about the world,
+and our voting systems—all vulnerable. None of this will get fixed anytime soon. In the
+meantime, many aspects of our society are open to vicious attacks, whether by
+freelancing criminals or nation-state adversaries.
+The second development is that computation has gone beyond simply computing
+functions. Instead, programs remain online continuously, and so they can gather data
+about a sequence of queries. Under the Wiener/Turing/von Neumann scheme, we might
+think of the communication pattern for a Web browser to be:
+Now instead it can look like this:
+User: Give me Web page A.
+Browser: Here is Web page A.
+…
+User: Give me Web page B.
+Browser: Here is Web page B.
+User: Give me Web page A.
+Browser: Here is Web page A. [And I will secretly
+remember that you asked for Web page A.]
+…
+User: Give me Web page B.
+Browser: Here is Web page B. [I see a correlation between
+its contents and that of the earlier requested Web page A, so I will
+update my model of you, the user, and transmit it to the company
+that produced me.]
+53
+When the machine no longer simply computes a function but instead maintains a
+state, it can start to make inferences about the human by the sequence of requests
+presented to it. And when different programs correlate across different request streams—
+say, correlating Web-page searches with social-media posts, or the payment for services
+on another platform, or the dwell time on a particular advertisement, or where the user
+has walked or driven with their GPS-enabled smartphone—the total systems of many
+programs communicating with one another and with databases leads to a whole new loss
+of privacy. The great exploitative leap made by so many West Coast companies has been
+to monetize those inferences without the knowing permission of the person generating the
+interactions with the computing machine platforms.
+Wiener, Turing, and von Neumann could not foresee the complexity of those
+platforms, wherein the legal mumbo-jumbo of the terms-of-use contracts the humans
+willingly enter into, without an inkling of what they entail, leads them to give up rights
+they would never concede in a one-on-one interaction with another human being. The
+computation platforms have become a shield behind which some companies hide in order
+to inhumanly exploit others. In certain other countries, the governments carry out these
+manipulations, and there the goal is not profits but the suppression of dissent.
+Humankind has gotten itself into a fine pickle: We are being exploited by
+companies that paradoxically deliver services we crave, and at the same time our lives
+depend on many software-enabled systems that are open to attack. Getting ourselves out
+of this mess will be a long-term project. It will involve engineering, legislation, and most
+important, moral leadership. Moral leadership is the first and biggest challenge.
+54
+I first met Frank Wilczek in the 1980s, when he invited me to his home in Princeton to
+talk about anyons. “The address is 112 Mercer Street,” he wrote. “Look for the house
+with no driveway.” So there I was, a few hours later, in Einstein’s old living room,
+talking to a future recipient of the Nobel Prize in physics. If Frank was as impressed as I
+was by the surroundings, you’d never guess it. His only comment concerned the difficulty
+of finding a parking place in front of a “house with no driveway.”
+Unlike most theoretical physicists, Frank has long had a keen interest in AI, as
+witnessed in these three “Observations”:
+1.“Francis Crick called it ‘the Astonishing Hypothesis’: that consciousness, also
+known as Mind, is an emergent property of matter,” which, if true, indicates that “all
+intelligence is machine intelligence. What distinguishes natural from artificial
+intelligence is not what it is, but only how it is made.”
+2. “Artificial intelligence is not the product of an alien invasion. It is an artifact
+of a particular human culture and reflects the values of that culture.”
+3. “David Hume’s striking statement ‘Reason Is, and Ought only to Be, the Slave
+of the Passions’ was written in 1738 [and] was, of course, meant to apply to human
+reason and human passions. . . . But Hume’s logical/philosophical point remains valid
+for AI. Simply put: Incentives, not abstract logic, drive behavior.”
+He notes that “the big story of the 20th and the 21st century is that [as]
+computing develops, we learn how to calculate the consequences of the [fundamental]
+laws better and better. There’s also a feedback cycle: When you understand matter
+better, you can design better computers, which will enable you to calculate better. It’s
+kind of an ascending helix.”
+Here he argues that human intelligence, for now, holds the advantage—yet our
+future, unbounded by our solar system and doubtless also by our galaxy, will never be
+realized without the help of our AIs.
+55
+THE UNITY OF INTELLIGENCE
+Frank Wilczek
+Frank Wilczek is Herman Feshbach Professor of Physics at MIT, recipient of the 2004
+Nobel Prize in physics, and the author of A Beautiful Question: Finding Nature’s Deep
+Design.
+I. A Simple Answer to Contentious Questions:
+• Can an artificial intelligence be conscious?
+• Can an artificial intelligence be creative?
+• Can an artificial intelligence be evil?
+Those questions are often posed today, both in popular media and in scientifically
+informed debates. But the discussions never seem to converge. Here I’ll begin by
+answering them as follows:
+Based on physiological psychology, neurobiology, and physics, it would be very
+surprising if the answers were not Yes, Yes, and Yes. The reason is simple, yet
+profound: Evidence from those fields makes it overwhelmingly likely that there is no
+sharp divide between natural and artificial intelligence.
+In his 1994 book of that title, the renowned biologist Francis Crick proposed an
+“astonishing hypothesis”: that mind emerges from matter. He famously claimed that
+mind, in all its aspects, is “no more than the behavior of a vast assembly of nerve cells
+and their associated molecules.”
+The “astonishing hypothesis” is in fact the foundation of modern neuroscience.
+People try to understand how minds work by understanding how brains function; and
+they try to understand how brains function by studying how information is encoded in
+electrical and chemical signals, transformed by physical processes, and used to control
+behavior. In that scientific endeavor, they make no allowance for extraphysical behavior.
+So far, in thousands of exquisite experiments, that strategy has never failed. It has never
+proved necessary to allow for the influence of consciousness or creativity unmoored from
+brain activity to explain any observed fact of psychophysics or neurobiology. No one has
+ever stumbled upon a power of mind which is separate from conventional physical events
+in biological organisms. While there are many things we do not understand about brains,
+and about minds, the “astonishing hypothesis” has held intact.
+If we broaden our view beyond neurobiology to consider the whole range of
+scientific experimentation, the case becomes still more compelling. In modern physics,
+the foci of interest are often extremely delicate phenomena. To investigate them,
+experimenters must take many precautions against contamination by “noise.” They often
+find it necessary to construct elaborate shielding against stray electric and magnetic
+fields; to compensate for tiny vibrations due to micro-earthquakes or passing cars; to
+work at extremely low temperatures and in high vacuum, and so forth. But there’s a
+notable exception: They have never found it necessary to make allowances for what
+people nearby (or, for that matter, far away) are thinking. No “thought waves,” separate
+from known physical processes yet capable of influencing physical events, seem to exist.
+That conclusion, taken at face value, erases the distinction between natural and
+artificial intelligence. It implies that if we were to duplicate, or accurately simulate, the
+physical processes occurring in a brain—as, in principle, we can—and wire up its input
+56
+and output to sense organs and muscles, then we would reproduce, in a physical artifact,
+the observed manifestations of natural intelligence. Nothing observable would be
+missing. As an observer, I’d have no less (and no more) reason to ascribe consciousness,
+creativity, or evil to that artifact than I do to ascribe those properties to its natural
+counterparts, like other human beings.
+Thus, by combining Crick’s “astonishing hypothesis” in neurobiology with
+powerful evidence from physics, we deduce that natural intelligence is a special case of
+artificial intelligence. That conclusion deserves a name, and I will call it “the astonishing
+corollary.”
+With that, we have the answer to our three questions. Since consciousness,
+creativity, and evil are obvious features of natural human intelligence, they are possible
+features of artificial intelligence.
+A hundred years ago, or even fifty, to believe the hypothesis that mind emerges
+from matter, and to infer our corollary that natural intelligence is a special case of
+artificial intelligence, would have been leaps of faith. In view of the many surrounding
+gaps—chasms, really—in contemporary understanding of biology and physics, they were
+genuinely doubtful propositions. But epochal developments in those areas have changed
+the picture:
+In biology: A century ago, not only thought but also metabolism, heredity, and
+perception were deeply mysterious aspects of life that defied physical explanation.
+Today, of course, we have extremely rich and detailed accounts of metabolism, heredity,
+and many aspects of perception, from the bottom up, starting at the molecular level.
+In physics: After a century of quantum physics and its application to materials,
+physicists have discovered, over and over, how rich and strange the behavior of matter
+can be. Superconductors, lasers, and many other wonders demonstrate that large
+assemblies of molecular units, each simple in itself, can exhibit qualitatively new,
+“emergent” behavior, while remaining fully obedient to the laws of physics. Chemistry,
+including biochemistry, is a cornucopia of emergent phenomena, all now quite firmly
+grounded in physics. The pioneering physicist Philip Anderson, in an essay titled “More
+Is Different,” offers a classic discussion of emergence. He begins by acknowledging that
+“the reductionist hypothesis [i.e., the completeness of physical explanations based on
+known interactions of simple parts] may still be a topic for controversy among
+philosophers, but among the great majority of active scientists I think it is accepted
+without question.” But he goes on to emphasize that “[t]he behavior of large and
+complex aggregates of elementary particles, it turns out, is not to be understood in terms
+of a simple extrapolation of the properties of a few particles.” 15 Each new level of size
+and complexity supports new forms of organization, whose patterns encode information
+in new ways and whose behavior is best described using new concepts.
+Electronic computers are a magnificent example of emergence. Here, all the
+cards are on the table. Engineers routinely design, from the bottom up, based on known
+(and quite sophisticated) physical principles, machines that process information in
+extremely impressive ways. Your iPhone can beat you at chess, quickly collect and
+deliver information about anything, and take great pictures, too. Because the process
+whereby computers, smartphones, and other intelligent objects are designed and
+manufactured is completely transparent, there can be no doubt that their wonderful
+15
+Science, 4 August 1972, Vol. 177, No. 4047, pp. 393-96.
+57
+capabilities emerge from regular physical processses, which we can trace down to the
+level of electrons, photons, quarks, and gluons. Evidently, brute matter can get pretty
+smart.
+Let me summarize the argument. From two strongly supported hypotheses, we’ve
+drawn a straightforward conclusion:
+• Human mind emerges from matter.
+• Matter is what physics says it is.
+• Therefore, the human mind emerges from physical processes we
+understand and can reproduce artificially.
+• Therefore, natural intelligence is a special case of artificial
+intelligence.
+Of course, our “astonishing corollary” could fail; the first two lines of this
+argument are hypotheses. But their failure would have to bring in a foundation-shattering
+discovery—a significant new phenomenon, with large-scale physical consequences,
+which takes place in unremarkable, well-studied physical circumstances (i.e., the
+materials, temperatures, and pressures inside human brains) yet which has somehow
+managed for many decades to elude determined investigators armed with sophisticated
+instruments. Such a discovery would be. . . astonishing.
+II. The Future of Intelligence
+It is part of human nature to improve on human bodies and minds. Historically, clothing,
+eyeglasses, and watches are examples of increasingly sophisticated augmentations that
+enhance our toughness, perception, and awareness. They are major improvements to the
+natural human endowment, whose familiarity should not blind us to their depth. Today
+smartphones and the Internet are bringing the human drive toward augmentation into
+realms more central to our identity as intelligent beings. They are giving us, in effect,
+quick access to a vast collective awareness and a vast collective memory.
+At the same time, autonomous artificial intelligences have become world
+champions in a wide variety of “cerebral” games, such as chess and Go, and have taken
+over many sophisticated pattern-recognition tasks, such as reconstructing what happened
+during complex reactions at the Large Hadron Collider from a blizzard of emerging
+particle tracks, to find new particles; or gathering clues from fuzzy X-ray, fMRI, and
+other types of images, to diagnose medical problems.
+Where is this drive toward self-enhancement and innovation taking us? While the
+precise sequence of events and the timescale over which they’ll play out is impossible to
+predict (or, at least, beyond me), some basic considerations suggest that eventually the
+most powerful embodiments of mind will be quite different things from human brains as
+we know them today.
+Consider six factors whereby information-processing technology exceeds human
+capabilities—vastly, qualitatively, or both:
+• Speed: The orchestrated motion of electrons, which is the heart of modern
+artificial information-processing, can be much faster than the processes of
+diffusion and chemical change by which brains operate. Typical modern
+computer clock rates approach 10 gigahertz, corresponding to 10 billion
+operations per second. No single measure of speed applies to the bewildering
+variety of brain processes, but one fundamental limitation is latency of action
+58
+potentials, which limits their spacing to a few 10s per second. It is probably
+no accident that the “frame rate,” at which we can distinguish that movies are
+actually a sequence of stills, is about 40 per second. Thus, electronic
+processing is close to a billion times faster.
+• Size: The linear dimension of a typical neuron is about 10 microns.
+Molecular dimensions, which set a practical limit, are about 10,000 times
+smaller, and artificial processing units are approaching that scale. Smallness
+makes communication more efficient.
+• Stability: Whereas human memory is essentially continuous (analog),
+artificial memory can incorporate discrete (digital) features. Whereas analog
+quantities can erode, digital quantities can be stored, refreshed, and
+maintained with complete accuracy.
+• Duty Cycle: Human brains grow tired with effort. They need time off to take
+nourishment and to sleep. They carry the burden of aging. Most profoundly:
+They die.
+• Modularity (open architecture): Because artificial information processors can
+support precisely defined digital interfaces, they can readily assimilate new
+modules. Thus, if we want a computer to “see” ultraviolet or infrared or
+“hear” ultrasound, we can feed the output from an appropriate sensor directly
+into its “nervous system.” The architecture of brains is much more closed and
+opaque, and the human immune system actively resists implants.
+• Quantum readiness: One case of modularity deserves special mention,
+because of its long-term potential. Recently physicists and information
+scientists have come to appreciate that the principles of quantum mechanics
+support new computing principles, which can empower qualitatively new
+forms of information processing and (plausibly) new levels of intelligence.
+But these possibilities rely on aspects of quantum behavior which are quite
+delicate and seem especially unsuitable for interfacing with the warm, wet,
+messy enviroment of human brains.
+Evidently, as platforms for intelligence, human brains are far from optimal. Still,
+although versatile housekeeping robots or mechanical soldiers would find ready, lucrative
+markets, at present there is no machine that approaches the kind of general-purpose
+human intelligence those applications would require. Despite their relative weakness on
+many fronts, human brains have some big advantages over their artificial competitors.
+Let me mention five:
+• Three-dimensionality: Although, as noted, the linear dimensions of existing
+artificial processing units are vastly smaller than those of brains, the procedure by
+which they’re made—centered on lithography (basically, etching)—is essentially
+two-dimensional. That is revealed visibly in the geometry of computer boards
+and chips. Of course, one can stack boards, but the spacing between layers is
+much larger, and communication much less efficient, than within layers. Brains
+make better use of all three dimensions.
+• Self-repair: Human brains can recover from, or work around, many kinds of
+injuries or errors. Computers often must be repaired or rebooted externally.
+59
+• Connectivity: Human neurons typically support several hundred connections
+(synapses). Moreover, the complex pattern of these connections is very
+meaningful. (See our next point.) Computer units typically make only a handful
+of connections, in regular, fixed patterns.
+• Development (self-assembly with interactive sculpting): The human brain grows
+its units by cell divisions and orchestrates them into coherent structures by
+movement and folding. It also proliferates an abundance of connections among
+the cells. An important part of its sculpting occurs through active processes
+during infancy and childhood, as the individual interacts with his or her
+environment. In this process, many connections are winnowed away, while others
+are strengthened, depending on their effectiveness in use. Thus, the fine structure
+of the brain is tuned through interaction with the external world—a rich source of
+information and feedback!
+• Integration (sensors and actuators): The human brain comes equipped with a
+variety of sensory organs, notably including its outgrowth eyes, and with versatile
+actuators, including hands that build, legs that walk, and mouths that speak.
+Those sensors and actuators are seamlessy integrated into the brain’s informationprocessing
+centers, having been honed over millions of years of natural selection.
+We interpret their raw signals and control their large-scale actions with minimal
+conscious attention. The flip side is that we don’t know how we do it, and the
+implementation is opaque. It’s proving surprisingly difficult to reach human
+standards on these “routine” input-output functions.
+These advantages of human brains over currently engineered artifacts are
+profound. Human brains supply an inspiring existence proof, showing us several ways
+we can get more out of matter. When, if ever, will our engineering catch up?
+I don’t know for sure, but let me offer some informed opinions. The challenges
+of three-dimensionality and, to a lesser extent, self-repair don’t look overwhelming.
+They present some tough engineering problems, but many incremental improvements are
+easy to imagine, and there are clear paths forward. And while the powers of human eyes,
+hands, and other sensory organs and actuators are wonderfully effective, their abilities are
+far from exhausting any physical limits. Optical systems can take pictures with higher
+resolution in space, time, and color, and in more regions of the electromagnetic spectrum;
+robots can move faster and be stronger; and so forth. In these domains, the components
+necessary for superhuman performance, along many axes, are already available. The
+bottleneck is getting information into and out of them, rapidly, in the language of the
+information-processing units.
+And this brings us to the remaining, and I think most profound, advantages of
+brains over artificial devices, which stem from their connectivity and interactive
+development. Those two advantages are synergistic, since it is interactive development
+that sculpts the massively wired but sprawling structure of the infant brain, enabled by
+exponential growth of neurons and synapses, to get tuned into the extraordinary
+instrument it becomes. Computer scientists are beginning to discover the power of the
+brain’s architecture: Neural nets, whose basic design, as their name suggests, was directly
+inspired by the brain’s, have scored some spectacular successes in game playing and
+pattern recognition, as noted. But present-day engineering has nothing comparable—in
+60
+the (currently) esoteric domain of self-reproducing machines—to the power and
+versatility of neurons and their synapses. This could become a new, great frontier of
+research. Here too, biology might point the way, as we come to understand biological
+development well enough to imitate its essence.
+Altogether, the advantages of artificial over natural intelligence appear
+permanent, while the advantages of natural over artificial intelligence, though substantial
+at present, appear transient. I’d guess that it will be many decades before engineering
+catches up, but—barring catastrophic wars, climate change, or plagues, so that
+technological progress stays vigorous—few centuries.
+If that’s right, we can look forward to several generations during which humans,
+empowered and augmented by smart devices, coexist with increasingly capable
+autonomous AIs. There will be a complex, rapidly changing ecology of intelligence, and
+rapid evolution in consequence. Given the intrinsic advantages that engineered devices
+will eventually offer, the vanguard of that evolution will be cyborgs and superminds,
+rather than lightly adorned Homo sapiens.
+Another important impetus will come from the exploration of hostile
+environments, both on Earth (e.g., the deep ocean) and, especially, in space. The human
+body is poorly adapted to conditions outside a narrow band of temperatures, pressures,
+and atmospheric composition. It needs a wide variety of specific, complex nutrients, and
+plenty of water. Also, it is not radiation-hardened. As the manned space program has
+amply demonstrated, it is difficult and expensive to maintain humans outside their
+terrestrial comfort zone. Cyborgs or autonomous AIs could be much more effective in
+these explorations. Quantum AIs, with their sensitivity to noise, might even be happier in
+the cold and dark of deep space.
+In a moving passage from his 1935 novel Odd John, science fiction’s singular
+genius Olaf Stapledon has his hero, a superhuman (mutant) intelligence, describe Homo
+sapiens as “the Archaeopteryx of the spirit.” He says this, fondly, to his friend and
+biographer, who is a normal human. Archaeopteryx was a noble creature, and a bridge to
+greater ones.
+61
+I was introduced to Max Tegmark some years ago by his MIT colleague Alan Guth, the
+father of the inflationary universe. A distinguished theoretical physicist and cosmologist
+himself, Max’s principal concern nowadays is the looming existential risk posed by the
+creation of an AGI (artificial general intelligence—that is, one that matches human
+intelligence). Four years ago, Max co-founded, with Jaan Tallinn and others, the Future
+of Life Institute (FLI), which bills itself as “an outreach organization working to ensure
+that tomorrow’s most powerful technologies are beneficial for humanity.” While on a
+book tour in London, he was in the midst of planning for FLI, and he admits being driven
+to tears in a tube station after a trip to the London Science Museum, with its exhibitions
+spanning the gamut of humanity’s technological achievements. Was all that impressive
+progress in vain?
+FLI’s scientific advisory board includes Elon Musk, Frank Wilczek, George
+Church, Stuart Russell, and the Oxford philosopher Nick Bostrom, who dreamed up an
+oft-quoted Gedankenexperiment that results in a world full of paper clips and nothing
+else, produced by an (apparently) well-meaning AGI who was just following orders. The
+Institute sponsors conferences (Puerto Rico 2015, Asilomar 2017) on AI safety issues and
+in 2018 instituted a grants competition focusing on research in aid of maximizing the
+societal benefits of AGI.
+While Max is sometimes listed—by the non-cognoscenti—on the side of the
+scaremongers, he believes, like Frank Wilczek, in a future that will immensely benefit
+from AGI if, in the attempt to create it, we can keep the human species from being
+sidelined.
+62
+LET’S ASPIRE TO MORE THAN MAKING OURSELVES OBSOLETE
+Max Tegmark
+Max Tegmark is an MIT physicist and AI researcher; president of the Future of Life
+Institute; scientific director of the Foundational Questions Institute; and the author
+of Our Mathematical Universe and Life 3.0: Being Human in the Age of Artificial
+Intelligence.
+Although there’s great controversy about how and when AI will impact humanity, the
+situation is clearer from a cosmic perspective: The technology-developing life that has
+evolved on Earth is rushing to make itself obsolete without devoting much serious
+thought to the consequences. This strikes me as embarrassingly lame, given that we can
+create amazing opportunities for humanity to flourish like never before, if we dare to
+steer a more ambitious course.
+13.8 billion years after its birth, our Universe has become aware of itself. On a
+small blue planet, tiny conscious parts of our Universe have discovered that what they
+once thought was the sum total of existence was a minute part of something far grander: a
+solar system in a galaxy in a universe with over 100 billion other galaxies, arranged into
+an elaborate pattern of groups, clusters, and superclusters.
+Consciousness is the cosmic awakening; it transformed our Universe from a
+mindless zombie with no self-awareness into a living ecosystem harboring self-reflection,
+beauty, hope, meaning, and purpose. Had that awakening never taken place, our
+Universe would have been pointless—a gigantic waste of space. Should our Universe go
+back to sleep permanently due to some cosmic calamity or self-inflicted mishap, it will
+become meaningless again.
+On the other hand, things could get even better. We don’t yet know whether we
+humans are the only stargazers in the cosmos, or even the first, but we’ve already learned
+enough about our Universe to know that it has the potential to wake up much more fully
+than it has thus far. AI pioneers such as Norbert Wiener have taught us that a further
+awakening of our Universe’s ability to process and experience information need not
+require eons of additional evolution but perhaps mere decades of human scientific
+ingenuity.
+We may be like that first glimmer of self-awareness you experienced when you
+emerged from sleep this morning, a premonition of the much greater consciousness that
+would arrive once you opened your eyes and fully awoke. Perhaps artificial
+superintelligence will enable life to spread throughout the cosmos and flourish for
+billions or trillions of years, and perhaps this will be because of decisions we make here,
+on our planet, in our lifetime.
+Or humanity may soon go extinct, through some self-inflicted calamity caused by
+the power of our technology growing faster than the wisdom with which we manage it.
+The evolving debate about AI’s societal impact
+Many thinkers dismiss the idea of superintelligence as science fiction, because they view
+intelligence as something mysterious that can exist only in biological organisms—
+especially humans—and as fundamentally limited to what today’s humans can do. But
+from my perspective as a physicist, intelligence is simply a certain kind of information
+63
+processing performed by elementary particles moving around, and there’s no law of
+physics that says one can’t build machines more intelligent in every way than we are, and
+able to seed cosmic life. This suggests that we’ve seen just the tip of the intelligence
+iceberg; there’s an amazing potential to unlock the full intelligence latent in nature and
+use it to help humanity flourish—or flounder.
+Others, including some of the authors in this volume, dismiss the building of an
+AGI (Artificial General Intelligence—an entity able to accomplish any cognitive task at
+least as well as humans) not because they consider it physically impossible but because
+they deem it too difficult for humans to pull off in less than a century. Among
+professional AI researchers, both types of dismissal have become minority views because
+of recent breakthroughs. There is a strong expectation that AGI will be achieved within a
+century, and the median forecast is only decades away. A recent survey of AI researchers
+by Vincent Muller and Nick Bostrom concludes:
+[T]he results reveal a view among experts that AI systems will probably (over
+50%) reach overall human ability by 2040-50, and very likely (with 90%
+probability) by 2075. From reaching human ability, it will move on to
+superintelligence in 2 years (10%) to 30 years (75%) thereafter. 16
+In the cosmic perspective of gigayears, it makes little difference whether AGI
+arrives in thirty or three hundred years, so let’s focus on the implications rather than the
+timing.
+First, we humans discovered how to replicate some natural processes with
+machines, making our own heat, light, and mechanical horsepower. Gradually we
+realized that our bodies were also machines, and the discovery of nerve cells blurred the
+boundary between body and mind. Finally, we started building machines that could
+outperform not only our muscles but our minds as well. We’ve now been eclipsed by
+machines in the performance of many narrow cognitive tasks, ranging from memorization
+and arithmetic to game play, and we are in the process of being overtaken in many more,
+from driving to investing to medical diagnosing. If the AI community succeeds in its
+original goal of building AGI, then we will have, by definition, been eclipsed at all
+cognitive tasks.
+This begs many obvious questions. For example, will whoever or whatever
+controls the AGI control Earth? Should we aim to control superintelligent machines? If
+not, can we ensure that they understand, adopt, and retain human values? As Norbert
+Wiener put it in The Human Use of Human Beings:
+Woe to us if we let [the machine] decide our conduct, unless we have previously
+examined the laws of its action, and know fully that its conduct will be carried
+out on principles acceptable to us! On the other hand, the machine . . . , which
+can learn and can make decisions on the basis of its learning, will in no way be
+obliged to make such decisions as we should have made, or will be acceptable to
+us.
+16
+Vincent C. Müller & Nick Bostrom, “Future Progress in Artificial Intelligence: A Survey of Expert
+Opinion,” in Fundamental Issues of Artificial Intelligence, Vincent C. Muller, ed. (Springer International
+Publishing Switzerland, 2016), pp. 555-72. https://nickbostrom.com/papers/survey.pdf.
+64
+And who are the “us”? Who should deem “such decisions . . . acceptable”? Even
+if future powers decide to help humans survive and flourish, how will we find meaning
+and purpose in our lives if we aren’t needed for anything?
+The debate about the societal impact of AI has changed dramatically in the last
+few years. In 2014, what little public talk there was of AI risk tended to be dismissed as
+Luddite scaremongering, for one of two logically incompatible reasons:
+(1) AGI was overhyped and wouldn’t happen for at least another century.
+(2) AGI would probably happen sooner but was virtually guaranteed to be
+beneficial.
+Today, talk of AI’s societal impact is everywhere, and work on AI safety and AI
+ethics has moved into companies, universities, and academic conferences. The
+controversial position on AI safety research is no longer to advocate for it but to dismiss
+it. Whereas the open letter that emerged from the 2015 Puerto Rico AI conference (and
+helped mainstream AI safety) spoke only in vague terms about the importance of keeping
+AI beneficial, the 2017 Asilomar AI Principles (see below) had real teeth: They explicitly
+mention recursive self-improvement, superintelligence, and existential risk, and were
+signed by AI industry leaders and over a thousand AI researchers from around the world.
+Nonetheless, most discussion is limited to the near-term impact of narrow AI and
+the broader community pays only limited attention to the dramatic transformations that
+AGI may soon bring to life on Earth. Why?
+Why we’re rushing to make ourselves obsolete, and why we avoid talking about it
+First of all, there’s simple economics. Whenever we figure out how to make another type
+of human work obsolete by building machines that do it better and cheaper, most of
+society gains: Those who build and use the machines make profits, and consumers get
+more affordable products. This will be as true of future investor AGIs and scientist AGIs
+as it was of weaving machines, excavators, and industrial robots. In the past, displaced
+workers usually found new jobs, but this basic economic incentive will remain even if
+that is no longer the case. The existence of affordable AGI means, by definition,
+that all jobs can be done more cheaply by machines, so anyone claiming that “people will
+always find new well-paying jobs” is in effect claiming that AI researchers will fail to
+build AGI.
+Second, Homo sapiens is by nature curious, which will motivate the scientific
+quest for understanding intelligence and developing AGI even without economic
+incentives. Although curiosity is one of the most celebrated human attributes, it can
+cause problems when it fosters technology we haven’t yet learned how to manage wisely.
+Sheer scientific curiosity without profit motive contributed to the discovery of nuclear
+weapons and tools for engineering pandemics, so it’s not unthinkable that the old adage
+“Curiosity killed the cat” will turn out to apply to the human species as well.
+Third, we’re mortal. This explains the near unanimous support for developing
+new technologies that help us live longer, healthier lives, which strongly motivates
+current AI research. AGI can clearly aid medical research even more. Some thinkers
+even aspire to near immortality via cyborgization or uploading.
+We’re thus on the slippery slope toward AGI, with strong incentives to keep
+sliding downward, even though the consequence will by definition be our economic
+obsolescence. We will no longer be needed for anything, because all jobs can be done
+65
+more efficiently by machines. The successful creation of AGI would be the biggest event
+in human history, so why is there so little serious discussion of what it might lead to?
+Here again, the answer involves multiple reasons.
+First, as Upton Sinclair famously quipped, “It is difficult to get a man to
+understand something, when his salary depends on his not understanding it.” 17 For
+example, spokesmen for tech companies or university research groups often claim there
+are no risks attached to their activities even if they privately think otherwise. Sinclair’s
+observation may help explain not only reactions to risks from smoking and climate
+change but also why some treat technology as a new religion whose central articles of
+faith are that more technology is always better and whose heretics are clueless
+scaremongering Luddites.
+Second, humans have a long track record of wishful thinking, flawed
+extrapolation of the past, and underestimation of emerging technologies. Darwinian
+evolution endowed us with powerful fear of concrete threats, not of abstract threats from
+future technologies that are hard to visualize or even imagine. Consider trying to warn
+people in 1930 of a future nuclear arms race, when you couldn’t show them a single
+nuclear explosion video and nobody even knew how to build such weapons. Even top
+scientists can underestimate uncertainty, making forecasts that are either too optimistic—
+Where are those fusion reactors and flying cars?—or too pessimistic. Ernest Rutherford,
+arguably the greatest nuclear physicist of his time, said in 1933—less than twenty-four
+hours before Leo Szilard conceived of the nuclear chain reaction—that nuclear energy
+was “moonshine.” Essentially nobody at that time saw the nuclear arms race coming.
+Third, psychologists have discovered that we tend to avoid thinking of disturbing
+threats when we believe there’s nothing we can do about them anyway. In this case,
+however, there are many constructive things we can do, if we can get ourselves to start
+thinking about the issue.
+What can we do?
+I’m advocating a strategy change from “Let’s rush to build technology that makes us
+obsolete—what could possibly go wrong?” to “Let’s envision an inspiring future and
+steer toward it.”
+To motivate the effort required for steering, this strategy begins by envisioning an
+enticing destination. Although Hollywood’s futures tend to be dystopian, the fact is that
+AGI can help life flourish as never before. Everything I love about civilization is the
+product of intelligence, so if we can amplify our own intelligence with AGI, we have the
+potential to solve today’s and tomorrow’s thorniest problems, including disease, climate
+change, and poverty. The more detailed we can make our shared positive visions for the
+future, the more motivated we will be to work together to realize them.
+What should we do in terms of steering? The twenty-three Asilomar principles
+adopted in 2017 offer plenty of guidance, including these short-term goals:
+(1) An arms race in lethal autonomous weapons should be avoided.
+(2) The economic prosperity created by AI should be shared broadly, to benefit all
+of humanity.
+17
+Upton Sinclair, I, Candidate for Governor: And How I Got Licked (Berkeley CA: University of
+California Press, 1994), p. 109.
+66
+(3) Investments in AI should be accompanied by funding for research on ensuring
+its beneficial use. . . . How can we make future AI systems highly robust, so that they do
+what we want without malfunctioning or getting hacked. 18
+The first two involve not getting stuck in suboptimal Nash equilibria. An out-ofcontrol
+arms race in lethal autonomous weapons that drives the price of automated
+anonymous assassination toward zero will be very hard to stop once it gains momentum.
+The second goal would require reversing the current trend in some Western countries
+where sectors of the population are getting poorer in absolute terms, fueling anger,
+resentment, and polarization. Unless the third goal can be met, all the wonderful AI
+technology we create might harm us, either accidentally or deliberately.
+AI safety research must be carried out with a strict deadline in mind: Before AGI
+arrives, we need to figure out how to make AI understand, adopt, and retain our goals.
+The more intelligent and powerful machines get, the more important it becomes to align
+their goals with ours. As long as we build relatively dumb machines, the question isn’t
+whether human goals will prevail but merely how much trouble the machines can cause
+before we solve the goal-alignment problem. If a superintelligence is ever unleashed,
+however, it will be the other way around: Since intelligence is the ability to accomplish
+goals, a superintelligent AI is by definition much better at accomplishing its goals than
+we humans are at accomplishing ours, and will therefore prevail.
+In other words, the real risk with AGI isn’t malice but competence. A
+superintelligent AGI will be extremely good at accomplishing its goals, and if those goals
+aren’t aligned with ours, we’re in trouble. People don’t think twice about flooding
+anthills to build hydroelectric dams, so let’s not place humanity in the position of those
+ants. Most researchers argue that if we end up creating superintelligence, we should
+make sure it’s what AI-safety pioneer Eliezer Yudkowsky has termed “friendly AI”—AI
+whose goals are in some deep sense beneficial.
+The moral question of what these goals should be is just as urgent as the technical
+questions about goal alignment. For example, what sort of society are we hoping to
+create, where we find meaning and purpose in our lives even though we, strictly
+speaking, aren’t needed? I’m often given the following glib response to this
+question: “Let’s build machines that are smarter than us and then let them figure out the
+answer!” This mistakenly equates intelligence with morality. Intelligence isn’t good or
+evil but morally neutral. It’s simply an ability to accomplish complex goals, good or bad.
+We can’t conclude that things would have been better if Hitler had been more intelligent.
+Indeed, postponing work on ethical issues until after goal-aligned AGI is built would be
+irresponsible and potentially disastrous. A perfectly obedient superintelligence whose
+goals automatically align with those of its human owner would be like Nazi SS-
+Obersturmbannführer Adolf Eichmann on steroids. Lacking moral compass or
+inhibitions of its own, it would, with ruthless efficiency, implement its owner’s goals,
+whatever they might be. 19
+When I speak of the need to analyze technology risk, I’m sometimes accused of
+scaremongering. But here at MIT, where I work, we know that such risk analysis isn’t
+scaremongering: It’s safety engineering. Before the moon-landing mission, NASA
+18
+https://futureoflife.org/ai-principles/
+19
+See, for example, Hannah Arendt, Eichmann in Jerusalem: A Report on the Banality of Evil (New York:
+Penguin Classics, 2006).
+67
+systematically thought through everything that could possibly go wrong when putting
+astronauts on top of a 110-meter rocket full of highly flammable fuel and launching them
+to a place where nobody could help them—and there were lots of things that could go
+wrong. Was this scaremongering? No, this was the safety engineering that ensured the
+mission’s success. Similarly, we should analyze what could go wrong with AI to ensure
+that it goes right.
+Outlook
+In summary, if our technology outpaces the wisdom with which we manage it, it can lead
+to our extinction. It’s already caused the extinction of from 20 to 50 percent of all
+species on Earth, by some estimates, 20 and it would be ironic if we’re next in line. It
+would also be pathetic, given that the opportunities offered by AGI are literally
+astronomical, potentially enabling life to flourish for billions of years not only on Earth
+but also throughout much of our cosmos.
+Instead of squandering this opportunity through unscientific risk denial and poor
+planning, let’s be ambitious! Homo sapiens is inspiringly ambitious, as reflected in
+William Ernest Henley’s famous lines from Invictus: “I am the master of my fate, / I am
+the captain of my soul.” Rather than drifting like a rudderless ship toward our own
+obsolescence, let’s take on and overcome the technical and societal challenges standing
+between us and a good high-tech future. What about the existential challenges related to
+morality, goals, and meaning? There’s no meaning encoded in the laws of physics, so
+instead of passively waiting for our Universe to give meaning to us, let’s acknowledge
+and celebrate that it’s we conscious beings who give meaning to our Universe. Let’s
+create our own meaning, based on something more profound than having jobs. AGI can
+enable us to finally become the masters of our own destiny. Let’s make that destiny a
+truly inspiring one!
+20
+See Elizabeth Kolbert, The Sixth Extinction: An Unnatural History (New York: Henry Holt, 2014).
+68
+Jaan Tallinn grew up in Estonia, becoming one of its few computer game developers,
+when that nation was still a Soviet Socialist Republic. Here he compares the dissidents
+who brought down the Iron Curtain to the dissidents who are sounding the alarm about
+rapid advances in artificial intelligence. He locates the roots of the current AI
+dissidence, paradoxically, among such pioneers of the AI field as Wiener, Alan Turing,
+and I. J. Good.
+Jaan’s preoccupation is with existential risk, AI being among the most extreme of
+many. In 2012, he co-founded the Centre for the Study of Existential Risk—an
+interdisciplinary research institute that works to mitigate risks “associated with
+emerging technologies and human activity”—at the University of Cambridge, along with
+philosopher Huw Price and Martin Rees, the Astronomer Royal.
+He once described himself to me as “a convinced consequentialist”—convinced
+enough to have given away much of his entrepreneurial wealth to the Future of Life
+Institute (of which he is a co-founder), the Machine Intelligence Research Institute, and
+other such organizations working on risk reduction. Max Tegmark has written about
+him: “If you’re an intelligent life-form reading this text millions of years from now and
+marveling at how life is flourishing, you may owe your existence to Jaan.”
+On a recent visit to London, Jaan and I participated on an AI panel for the
+Serpentine Gallery’s Marathon at London’s City Hall, under the aegis of Hans Ulrich
+Obrist (another contributor to this volume). This being the art world, there was a
+glamorous dinner party that night in a mansion filled with London’s beautiful people—
+artists, fashion models, oligarchs, stars of stage and screen. After working the room in
+his unaffected manner (“Hi, I’m Jaan”), he suddenly said, “Time for hip-hop dancing,”
+dropped to the floor on one hand, and began demonstrating his spectacular moves to the
+bemused A-listers. Then off he went into the dance-club subculture, which is apparently
+how he ends every evening when he’s on the road. Who knew?
+69
+DISSIDENT MESSAGES
+Jaan Tallinn
+Jaan Tallin, a computer programmer, theoretical physicist, and investor, is a codeveloper
+of Skype and Kazaa.
+In March 2009, I found myself in a bland franchise eatery next to a noisy California
+freeway. I was there to meet a young man whose blog I had been following. To make
+himself recognizable, he wore a button with a text on it: Speak the truth even if your voice
+trembles. His name was Eliezer Yudkowsky, and we spent the next four hours discussing
+the message he had for the world—a message that had brought me to that eatery and
+would end up dominating my subsequent work.
+The First Message: the Soviet Occupation
+In The Human Use of Human Beings, Norbert Wiener looked at the world through the
+lens of communication. He saw a universe that was marching to the tune of the second
+law of thermodynamics toward its inevitable heat death. In such a universe, the only
+(meta)stable entities are messages—patterns of information that propagate through time,
+like waves propagating across the surface of a lake. Even we humans can be considered
+messages, because the atoms in our bodies are too fleeting to attach our identities to.
+Instead, we are the “message” that our bodily functions maintain. As Wiener put it: “It is
+the pattern maintained by this homeostasis, which is the touchstone of our personal
+identity.”
+I’m more used to treating processes and computation as the fundamental building
+blocks of the world. That said, Wiener’s lens brings out some interesting aspects of the
+world which might otherwise have remained in the background and which to a large
+degree shaped my life. These are two messages, both of which have their roots in the
+Second World War. They started out as quiet dissident messages—messages that people
+didn’t pay much attention to, even if they silently and perhaps subconsciously concurred.
+The first message was: The Soviet Union is composed of a series of illegitimate
+occupations. These occupations must end.
+As an Estonian, I grew up behind the Iron Curtain and had a front row seat when
+it fell. I heard this first message in the nostalgic reminiscences of my grandparents and in
+between the harsh noises jamming the Voice of America. It grew louder during the
+Gorbachev era, as the state became more lenient in its treatment of dissidents, and
+reached a crescendo in the Estonian Singing Revolution of the late 1980s.
+In my teens, I witnessed the message spread out across widening circles of
+people, starting with the active dissidents, who had voiced it for half a century at great
+cost to themselves, proceeding to the artists and literati, and ending up among the Party
+members and politicians who had switched sides. This new elite comprised an eclectic
+mix of people: those original dissidents who had managed to survive the repression,
+public intellectuals, and (to the great annoyance of the surviving dissidents) even former
+Communists. The remaining dogmatists—even the prominent ones—were eventually
+marginalized, some of them retreating to Russia.
+Interestingly, as the message propagated from one group to the next, it evolved. It
+started in pure and uncompromising form (“The occupation must end!”) among the
+dissidents who considered the truth more important than their personal freedom. The
+70
+mainstream groups, who had more to lose, initially qualified and diluted the message,
+taking positions like, “It would make sense in the long term to delegate control over local
+matters.” (There were always exceptions: Some public intellectuals proclaimed the
+original dissident message verbatim.) Finally, the original message—being, simply,
+true—won out over its diluted versions. Estonia regained its independence in 1991, and
+the last Soviet troops left three years later.
+The people who took the risk and spoke the truth in Estonia and elsewhere in the
+Eastern Bloc played a monumental role in the eventual outcome—an outcome that
+changed the lives of hundreds of millions of people, myself included. They spoke the
+truth, even as their voices trembled.
+The Second Message: AI Risk
+My exposure to the second revolutionary message was via Yudkowsky’s blog—the blog
+that compelled me to reach out and arrange that meeting in California. The message was:
+Continued progress in AI can precipitate a change of cosmic proportions—a runaway
+process that will likely kill everyone. We need to put in a lot of extra effort to avoid that
+outcome.
+After my meeting with Yudkowsky, the first thing I did was try to interest my
+Skype colleagues and close collaborators in his warning. I failed. The message was too
+crazy, too dissident. Its time had not yet come.
+Only later did I learn that Yudkowsky wasn’t the original dissident speaking this
+particular truth. In April 2000, there was a lengthy opinion piece in Wired titled, “Why

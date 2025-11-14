@@ -1,0 +1,62 @@
+﻿Trading Algorithm by Gennady
+Mashtalyar
+Brexit day or how does my algorithm react to large one-side
+movements
+Dear Jeffrey,
+I was thinking how to better answer your question regarding risks associated with a large
+opposite side movement against my algorithm’s logic. I decided to test-run Brexit day on
+GBP/USD to provide you with a practical example of how my algorithm would react to a sudden
+18 cents price movement down in a day*.
+**Red lines represent open and close positions for short contracts. Blue lines represent open and close positions for long contracts.
+As you can see from a picture above, pound was dropping for 7 consecutive hours from 1.50 to
+1.32 against the dollar during Asian trading hours on June 24 th (during votes count in the UK).
+Seven hours long 18 cents movements are extremely rare in currency markets. However, 3
+cents movements are very common and can be predicted beforehand. For instance, currency
+traders can expect increased volatility every time the Fed member speaks, U.S. releases
+unemployment data, Draghi talks about QE efficiency, or elections take place. These days and
+hours are well known beforehand. Professional and responsible investors must have case A
+and B planned out before any influential data release.
+*I can only test my algorithm for 24 hour timeframes from 00:00 to 23:59 of a day with my current hardware and
+software, thus this particular example includes short trades opened before the 18 cent drop and they are working
+well as a hedge.
+While this particular example above illustrates good results by the end of the day (+$7,848 and
+$1,600 maximum drawdown from starting balance), there are certainly markets situations that
+require large margins and can not be expected beforehand. These are usually terrorist attacks,
+sudden nature disasters, or even FOX News releasing FBI renewal investigation over Clinton
+and following speculation on Trump’s lead prior U.S. elections.
+The Brexit day example is certainly a good case scenario for my algorithm. It provides algorithm
+with a large volatility and many profitable opportunities. However, there are other large one-side
+price movements in financial markets that can destroy not only my model, but many other
+trading strategies if wrong side position is held. In the last month financial markets experienced
+pound flash-crash in the middle of a random night. GBP/USD dropped for about 10 cents in 2
+minutes and jumped back. Many got rich and many got poor for 120 seconds while in their
+sleep. The only thing that secures investments is responsible trading, which is placing stop
+losses and not risking more than some percentage per trade.
+As a CFA Candidate and a prospective algorithmic hedge-fund manager I cannot say investing
+even in T-Bills is 100% safe and can only say currency trading involves high risk. The only thing
+I can assure tell you (in my personal opinion) that $10,000 is a lowest safe responsible sum of
+money needed to operate with the model where $5,000 is used for margin alone and $5,000 is
+set to be used as a bad case scenario expected drawdown value or a stop loss.
+P.S. Jeffrey, I want to introduce you to some algorithmic trading concepts and terms needed to
+understand trading algorithms better.
+• Algorithmic trading is highly dependent on statistics and averages over a long-term
+history.
+• Drawdown – maximal losing dollar amount for open or closed positions from starting
+balance.
+• Algorithm ceiling – largest amount of money an algorithm can work with (large trades can
+influence market conditions against an algorithm).
+• Percentage of profit and loss trades: 53.99% profit and 46.01% loss trades this summer
+on a “back-test”
+• Average profit trade: $20.74 this summer on a “back-test”
+• Average loss trade: $14.13 this summer on a “back-test”
+• Number of trades per time period: 45,221
+P.P.S. Drawdown value for a condition where price goes down, my algorithm buys a long
+contract every minute and does not hold short contracts can be estimated in the Excel file
+attached to the email (Estimation of losing P&L).
+2
+Results of a scenario where a currency pair loses 0.0001 from 1.11 to 1.0741 (3.59 cents total)
+every single minute for 360 consecutive minutes can be seen below. This is an extreme case
+scenario of a pair losing its value for 6 consecutive hours without any retracement. Please, take
+a note that duration and consistency of a price drop are much more important than the value a
+drop itself.
+3

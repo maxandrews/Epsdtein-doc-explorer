@@ -1,0 +1,1055 @@
+﻿CONFIDENTIAL
+Global Utility White Paper
+A Primer on Long/Short Investing in the
+Global Utilities & Infrastructure Sector
+Jos Shaver
+Portfolio Manager
+Electron Capital Partners LLC
+March 08, 2013
+For exclusive of Jeffrey Epstein
+Global Utility White Paper
+CONFIDENTIAL
+1. Executive Summary ................................................................................................................................................ 3
+2. Structural Change – Advantageous Time for Global Utility Sector Long/Short Investing ..................................... 5
+� Structural Change in Electron’s Research Process ....................................................................................... 5
+� Structural Change Cycle ............................................................................................................................... 5
+� Investors Not Positioned for Structural Change Pickup ............................................................................... 5
+o Long‐Only Investors Substantially Underweight but Hedge Funds Turning ......................................... 5
+3. Regional Structural Changes Driving Alpha Opportunity ....................................................................................... 7
+� US Utilities ................................................................................................................................................... 7
+� European Utilities ........................................................................................................................................ 9
+� Asian Utilities ............................................................................................................................................. 10
+� Japanese Utilities ....................................................................................................................................... 11
+� Latam Utilities ............................................................................................................................................ 12
+4. Global Structural Changes Driving Alpha Opportunity ......................................................................................... 12
+� Power Prices are Skewed to the Upside .................................................................................................... 12
+� Capex (ex‐US) is Rebounding Post‐Recession ............................................................................................ 14
+5. Substantial Alpha Opportunities Follow Periods of Underperformance .............................................................. 14
+� Record Duration and Depth of Underperformance ................................................................................... 14
+� Reasons for Underperformance ................................................................................................................ 15
+� Potential Exists for Sharp Outperformance ............................................................................................... 15
+o Post‐Dotcom Rallies ............................................................................................................................ 16
+o Japan Rallies ....................................................................................................................................... 17
+o Potential for Yield Catch‐up ................................................................................................................ 18
+6. Interest Rate Risk – A Common Misperception .................................................................................................... 19
+Appendix 1: The Team and Our Process ...................................................................................................................... 20
+� Electron Focus ............................................................................................................................................ 20
+� Electron Team ............................................................................................................................................ 20
+� Track Record (7 years) ............................................................................................................................... 20
+� Process ....................................................................................................................................................... 20
+o Why We Take a Global Approach ‐ The “Greatest Gift” ..................................................................... 21
+o Capitalizing on Structural Change Timing ........................................................................................... 22
+� Portfolio Construction ............................................................................................................................... 22
+� Shorting Global Utilities ............................................................................................................................. 23
+o Experience with Dividends and Investor Behavior ............................................................................. 23
+o Key to Electron’s Process to Identify Dividend Change Candidates ................................................... 23
+Appendix 2: Global Utility Sector Background ............................................................................................................. 25
+For exclusive of Jeffrey Epstein
+2
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+1. Executive Summary
+This White Paper discusses Electron Capital’s (“Electron”) views on the global utility sector and outlines why
+now is a particularly advantageous time for long/short investing in the sector using Electron’s research
+approach that focuses on structural change.
+Electron’s 5 investment professionals, working together an average of 6 years, have generated a 7‐year track
+record of long/short investing in the global utility sector. Returns have annualized 10.3% and have been
+characterized by strong alpha generation (80% of returns; Jensen’s alpha calculation) in a dismally‐performing
+global sector (‐0.2% absolute).
+Electron will continue its approach with the Electron Global Fund, an absolute return product. (See
+Appendices 1 and 2 for Electron’s process and the sector’s history.)
+Electron invests in a deep universe of utility and infrastructure stocks, comprising 375 companies with a
+market cap of $2.8 trillion. Our approach is truly global as 40‐60% of the portfolio’s historical gross has been
+allocated outside the US. Stocks covered include the electric, gas, water and waste utilities in addition to
+infrastructure companies (defined as those levered to utilities or utility‐like). For the sake of simplicity, the
+rest of this White Paper will focus on the electric utilities, the largest subsector; we refer to this subsector
+when we reference “utility”.
+� Advantageous time to be long/short investing in the global utility sector (Section 2).
+o Structural change in the sector has been accelerating after a recession‐induced slowdown.
+o Long‐only investors are not positioned for such structural change in what is the world’s most
+underweight sector.
+o We believe hedge fund investors have already begun to make this turn as evidenced by a
+significant increase in net exposure over the last 6 months.
+� Structural changes will drive the largest alpha opportunities in all major regions (Section 3).
+o US utilities will face the strongest headwinds, yet structural change will occur which will drive
+alpha opportunities. We believe the most interesting US structural changes will have a magnified
+effect internationally given commodity interlinkages.
+o European and Asian utilities offer the most abundant and attractive alpha opportunities.
+o Japan and Latam will be more trading markets over the near term.
+� Some structural changes will have a global impact (Section 4).
+o The shale gas and coal price washout (with its knock‐on effect on global power prices) is largely
+over; the global utility sector has substantial optionality to any increase in power prices due to
+natural gas and coal prices, which will be heavily influenced by trends in the US.
+• On the supply side, US spot gas at $3.42/mmbtu is below the breakeven full‐cycle
+natural gas production cost of $3.50‐4.00/mmbtu. We believe this provides downside
+protection to the current gas price despite the proliferation of shale gas.
+• Potential additional demand for natural gas is enormous:
+� In the US power sector (37% of demand), EPA mandates will force coal plant
+closures (e.g. potentially adding 10% to natural gas demand) and increase the
+marginal switching cost for the most efficient plants to $4/mmbtu, providing a
+runway for structurally higher gas demand/prices.
+� Other large potential structural sources of demand arise from LNG exports
+(also 10% of US demand), a gas‐intensive industrial renaissance (also 10%), and
+substitution of LNG/CNG for oil‐based vehicle fuels.
+For exclusive of Jeffrey Epstein
+3
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+o
+• Leverage to higher power prices can be substantial. For example, in the US every
+$1/mmbtu improvement in natural gas prices increases Exelon’s long‐term earnings by
+more than 20%, whereas for pure generators such as NRG the leverage exceeds 30%.
+• In Europe, where power is generated at close to cash production cost in many markets,
+even a modest (e.g. 10%) combination of changes in coal, carbon and Euro prices can
+have a 25‐50% earnings impact on several European utilities.
+Global utility capex (ex‐US) is rebounding after a recession‐driven slowdown:
+• System‐enhancing transmission capex is accelerating in Europe and Asia and is firm in
+the US.
+• US, European and Asian utilities are building much of the infrastructure needed to
+capitalize on the global shale gas boom underway.
+• In emerging markets, infrastructure spending is occurring across the entire value chain.
+� Substantial alpha opportunities follow periods of underperformance (Section 5).
+o Current MSCI World Utility Index underperformance against the MSCI World Index is the deepest
+(‐67%) and longest (4 years) of the modern utility era, caused by a perfect storm of factors (see
+page 15).
+o Despite the strong rally in equity markets since the depths of the financial crisis, the global utility
+sector is still down ‐11% in absolute terms and has underperformed the second‐worst sector
+(telecom) over the same period by ‐23%. Previous periods of underperformance have set the
+stage for substantial alpha opportunities driven by fundamental investors re‐entering the sector.
+o The global utility sector does not need to outperform for Electron to generate solid performance;
+80% of our 7‐year return (10.3% per annum) is from alpha (Jensen’s alpha calculation).
+� Investing in the global utility sector does not mean taking undue interest rate risk (Section 6).
+o The interest rate sensitivity of the sector has declined steadily since the modern utility era began
+in the early 1990s. US utilities remain the most interest rate‐sensitive companies regionally.
+o We track interest rate risk for all positions in our risk model, and the portfolio’s net interest rate
+risk is kept within acceptable limits as we select stocks. In addition, Electron’s return correlation
+to interest rates historically is slightly lower than the HFRI Equity Hedge Index’s return
+correlation to interest rates.
+o This process has worked well for us as Electron has posted strong returns and alpha generation in
+both increasing and declining interest rate environments.
+�
+Investors should always have an allocation to the global utility sector.
+o This is a large‐cap, dividend‐generating sector that is vitally important to national economies, and
+which is subject to undercurrents of deregulation and competition. This has produced ample
+long/short opportunities in the past and will continue to do so for the foreseeable future.
+o Moreover, an allocation to global utilities provides a diversification benefit to investor
+portfolios. The risks affecting a global utility sector fund are very different from those affecting
+other long/short funds and diversification enables higher returns per unit of risk. Electron’s 7‐
+year track record correlation to the S&P 500 and HFRI Equity Hedge indices is .41 and .68,
+respectively (.18 and .55, respectively, in down markets).
+For exclusive of Jeffrey Epstein
+4
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+2. Structural Change – Advantageous Time for Global Utility Sector Long/Short Investing
+The high level of structural change occurring around the globe makes this a particularly advantageous time
+to be long/short investing in the global utility sector. The various examples for each region, the importance
+of structural change to each region and the opportunities are listed in Section 3.
+�
+Structural Change in Electron’s Research Process
+Since the original Electron was formed in 2004, Electron’s research process has focused on structural
+change to determine its impact on the underlying future earnings potential of our companies (see
+Appendix 1, page 22). Whenever there is structural change, distortions and inefficiencies arise. These
+invariably result in both winners and losers among utility stocks, in large part because of the heavy
+influence of public policy on the sector (e.g. governments and regulators). Policymakers will never want to
+knowingly provide windfall profits to utilities; if a structural change is producing a winner, we look for the
+loser. If a loser cannot be found, we keep looking: the loser will eventually surface.
+�
+Structural Change Cycle
+As cycles are an important feature of life, so are cycles of structural change important in the global
+industry. During the recession following the financial crisis, the activity level of structural change did
+slow down around the globe. This is not surprising as governments, regulators and other stakeholders
+slowed the pace of structural change (i.e. a hunkering down mentality took hold among utility
+stakeholders) and companies slowed their rate of capital spending (because of uncertain economic
+growth prospects). As time has passed, the outlook for global growth has stabilized, tail risks have been
+managed and confidence has returned, and companies have begun spending previously‐delayed capex
+needed to ensure system reliability. This collectively has prompted utility stakeholders to pick up the
+pace of structural change. Given that we track structural change globally, we estimate that this inflection
+point of increased structural change occurred approximately 12‐18 months ago.
+�
+Investors Not Positioned for Structural Change Pickup
+That we are at an inflection point for a pickup in structural change is underappreciated by the market.
+Moreover, it is occurring at a time when there are fewer eyes focused on global utilities. The
+underappreciated pickup in structural change activity levels combined with low investor involvement
+spells opportunity for the Electron Global Fund as it plays to the Electron team’s competitive advantage.
+This driver was critical to the investment professionals’ decision to re‐launch the independent Electron.
+o
+Long‐Only Investors Substantially Underweight but Hedge Funds Turning
+The global utility sector is the world’s most‐underweight sector by a large margin. Moreover, the
+underweighting has dipped to a comparably extreme level only 4 times (including now) over the last
+10 years. Each time this extreme has been crossed, over the next 24 months global utilities rose by
+38% on an absolute basis and outperformed the global broad market by 20%, on average.
+For exclusive of Jeffrey Epstein
+5
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Global Sector Positioning
+Substantially
+underweight
+Source: Bank of America Merrill Lynch Global Fund Manager Survey, Feb 12, 2013
+Net % Overweight Global Utilities
++1σ underweight vs mean
+‐1σ underweight vs mean
+Red circle =
+crossing below
+1σ underweight
+Source: Bank of America Merrill Lynch Global Fund Manager Survey, Feb 12, 2013
+The sector has been not only a substantial long‐only underweight, but also a wholesale short for
+many macro/generalist hedge funds. However, it is very interesting to note that an inflection point
+appears to have occurred in the middle of 2012, with hedge funds increasing their net exposure to
+the global utility sector after a long period of reducing net. The long/short ratio of utility stocks held
+by hedge funds fell from 3.0x in Jan 08 to about 1.7x in Jan 12 (4 years), but has since risen by 60% to
+2.7x, which is more than twice the increase for hedge funds’ overall net exposure during the same
+period (source: Goldman Sachs).
+Based on discussions with the Street, it appears that this short exposure has been expressed via ETFs,
+regional utility indices or large bellwether index utility proxies. Individual name crowdedness has
+continued to remain at a low level (e.g., utilities rarely show up Goldman Sachs Hedge Fund VIP list –
+ticker GSTHHVIP). Today, utilities account for the lowest in gross assets held of the 10 global
+sectors. (Source: Goldman Sachs Hedge Fund Trend Monitor analysis of 700 hedge funds with $1.3
+trillion in gross assets.)
+In addition, global QE programs have boosted demand for higher‐beta stocks, which has contributed
+to the recent relative underperformance of and lack of interest in utilities. However (see below), the
+underperformance of US utilities has diminished with each successive QE round (QE1
+For exclusive of Jeffrey Epstein
+6
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+underperformance ‐39%, QE2 ‐12%, QE3 ‐5%), which signals exhaustion of selling pressure as the
+relative value of the S&P versus utilities has stretched further. Given widespread use of QE, a similar
+effect can be found in other regions.
+US Utilities Price/S&P 500 Price
+Source: Bloomberg
+3. Regional Structural Changes Driving Alpha Opportunity
+Structural changes are occurring in all regions. Those in which Electron is currently investing or tracking closely
+are as follows:
+�
+US Utilities
+Of the global utility markets, we expect the US utilities market to face the strongest headwinds and be
+the least‐attractive market for alpha generation over the next 2 years. Since the financial crisis, the US
+has been the best‐performing region for utilities of all the developed markets, outperforming European
+utilities by 40% over the last 4 years, and it is the region which is only slightly underweight by investors.
+The US is the most defensive of all regions because of the large weighting of regulated names. Since 2008,
+US utility earnings have been flat (versus a ‐45% decline in Europe), as consistent regulated earnings
+growth of 3‐5% offset unregulated utility earnings declines resulting from lower power prices driven by
+falling natural gas prices. Notwithstanding flat earnings growth, investors have re‐rated the US utility
+sector’s PE multiple relative to the S&P as they sought more yield in a low‐yielding QE environment.
+Today, US utilities are close to the sector’s pre‐crisis record valuation peak (trading at a 7% PE premium to
+the S&P 500) when investors were discounting higher earnings growth from tightening power markets
+(see below).
+For exclusive of Jeffrey Epstein
+7
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Close to record
+relative PE
+Source: Bloomberg
+While we will continue to see solid growth from the regulated names, and a total return argument can
+still be made that justifies the current premium valuation of US utilities, we do see capex growth starting
+to level off. This is the opposite of what will happen in Europe and Asia, where we expect regulatory capex
+to increase. Moreover, we believe US utility regulators will continue to pressure returns on equity
+(ROEs) as interest rates remain low. We believe there is greater opportunity among companies with nonregulated
+power generation assets, as we expect firm natural gas and thus power prices to flow through
+to earnings. Note, for example, that every $1/mmbtu improvement in natural gas prices would increase
+Exelon’s long‐term earnings by more than 20%, whereas for pure generators such as NRG the leverage
+exceeds 30%.
+Below is a partial list of structural changes driving long/short opportunities in the US:
+Electron’s structural changes: US
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+Coal retirements’ impact on power markets
+Change in competitive generation market structure as a result of the shale gas boom
+Transmission spending to integrate renewables/improve reliability, and its impact on power prices
+Obama initiatives on climate change legislation, and the EPA threat
+Energy efficiency initiatives – utility uncoupling , demand growth
+Nuclear assets facing closure – impact on power markets
+Renewables’ power markets distortions (impact on peak and off‐peak power prices)
+Increased infrastructure spending to move shale gas from basins
+LNG export impact on gas and power markets
+Regulatory ROE changes with low rates, higher capex, declining load growth, commodity price changes
+Increased generator retail selling versus wholesale
+Capacity market in TX, CA
+State generation subsidy impacts on capacity markets
+M&A and asset divestitures’ impact on power markets and utility risk profiles
+Oil‐to‐gas residential switching
+Electric vehicle demand impact
+Regional load growth changes – manufacturing renaissance, state taxes, etc.
+8
+Electron Capital Partners, LLC
+For exclusive of Jeffrey Epstein
+Global Utility White Paper
+CONFIDENTIAL
+�
+European Utilities
+We believe European utilities have the potential not only for the strongest outperformance but also for
+the greatest alpha generation. Since the financial crisis, European utility earnings have declined
+approximately ‐45% which is slightly less than European broader market earnings declines of ‐51% (Stoxx
+600 or SXXP) and ‐58% (Stoxx 50 or SX5E). Prior to the crisis, European utilities used to trade at a 20%
+premium to the broader market. During the recovery, European utilities suffered a ‐43% derating and
+now trade at a 31% PE discount to the broader market. Most of this derating is explained by the
+European utilities’ lack of participation in the European broad market PE multiple re‐rating (SX5E +115%,
+SXXP +76%) since the recovery beginning in 2009. Moreover, approximately 40% of the sector is now
+trading below book value.
+Clearly, investors appear to believe that earnings have troughed for European companies broadly, but not
+for European utilities. Concerns about political intervention along with low power and carbon prices have
+prevented a re‐rating of the sector. However, we are comfortable that we are close to a bottom, and that
+optionality is asymmetrically skewed to the upside for the European utilities, as many generation assets
+are producing power at close to cash cost.
+Relative to US utilities, European utilities have underperformed by ‐40% and the relative PE has de‐rated
+by ‐11% since the crisis. The average European utility’s relative dividend yield is now 95% higher than that
+of US peers before the crisis. Although some would argue that dividend cuts are coming (we agree
+broadly, and see several interesting short opportunities), we do not see the entire sector’s dividends
+being cut by 50%, as stock prices imply. As such, the sector today has dividend support even though some
+dividend cuts will undoubtedly happen.
+In addition to dividends, potentially higher power prices from both higher European coal and carbon
+prices could also provide support. At present, the carbon market (EU ETS) in Europe is dysfunctional, with
+carbon trading at €5/tonne, well below the cost required to spur investment in low‐carbon generating
+capacity. We expect the carbon market to be restructured (already being discussed), thus raising the
+price of carbon and increasing power prices. Moreover, with China’s GDP growth reaccelerating and 70%
+of the resulting rise in electricity production generated from coal, we would anticipate a modest growth in
+coal consumption in the Asian seaborne market, thereby supporting South African and European coal
+prices. Given our view of rising US natural gas prices, we expect coal exports from the US to Europe to
+fall. These are all factors that should support European coal prices even before accounting for greater
+demand for coal that might come from Europe should growth return. Notwithstanding, short
+opportunities will remain in several European markets due to the influence of renewables.
+Moreover, if the European Central Bank were to lower its Main Refinancing Operations rate, currently 75
+bps, and provide other monetary policy support, we would expect not only increased demand for
+electricity (which would increase coal consumption) but also a weaker Euro would increase the Euro price
+of coal (in Europe) and thus power prices. There are a number of factors at work here, and it is difficult to
+predict levels with any degree of accuracy, but even small changes would have a significant impact on
+the sector. For example, a combination of a +10% increase in coal prices, ‐10% decrease in the Euro/$
+exchange rate, and a rise in the carbon credit price from €5 to €10/tonne would produce 25‐50% earnings
+upside in many continental European utilities.
+Below is a partial list of structural changes driving long/short opportunities in Europe:
+For exclusive of Jeffrey Epstein
+9
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Electron’s structural changes: Europe
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+EU energy efficiency directive and load growth
+EU ETS (carbon market) changes
+Renewables build and power market distortions
+Mismatches between tariff rises and costs/capex
+Infrastructure spending impact on energy costs and power/gas competition
+UK capacity markets
+Large combustion plant directive (LCPD) (UK)
+Power market impact of nuclear phase outs (Germany) and new nuclear build (UK)
+Political interference on the continent (taxes, return formulas, tariffs)
+M&A, divestitures, privatizations’ impact on power markets and changing utilities’ risk profiles
+Bifurcation of sector valuation because of WACC changes
+European gas price delinkage from oil
+Ongoing renegotiation of Gazprom contracts
+European utility non‐regulated investments moving offshore
+Erosion of the Italian power price premium
+New Italian water regulations
+Shale gas potential in Europe
+Implementation of Russian RAB‐based regulation
+Electric vehicles
+�
+Asian Utilities
+The Asian utility sector is a tale of two worlds. One enjoys a stable regulatory environment and solid
+power purchase agreements, as in Hong Kong and Thailand; the other is a victim of government
+intervention, as in Korea and China. The two worlds can coexist in the same country, for example in
+Malaysia where independent power producers enjoy solid power purchase agreements while utility
+Tenaga, which is a large employer and which faces the consumer directly, suffers from political meddling.
+Capex cycles and potential regulatory changes, respectively, tend to dominate performance of the two
+sides. For example, Korea Electric Power has outperformed sharply at times in the past on even small
+steps toward fuel cost passthrough implementation. In India’s chaotic power markets, outperformance
+could arise from even small steps toward implementation of urgently‐needed reform, e.g. any movement
+to improve access to fuel supply (notably coal) for independent power producers. The dichotomy
+between the two “worlds” of the Asian utility sector provides ample opportunities to generate alpha.
+The vast population and developing nature of the region, and consequent issues of energy security and
+environmental sustainability, create additional forces for structural change. For example, as China
+increasingly promotes natural gas usage, we will see gradual pricing reform, more natural gas imports,
+greater natural gas vehicle adoption and accelerating shale gas development.
+Below is a partial list of structural changes driving long/short opportunities in Asia‐Pacific (ex‐Japan):
+10
+Electron Capital Partners, LLC
+For exclusive of Jeffrey Epstein
+Global Utility White Paper
+CONFIDENTIAL
+Electron’s structural changes: Asia‐Pacific ex‐Japan
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�
+China power market policy changes to address record pollution levels
+Impact on China’s power market of selective coal plant approvals
+Accelerating development of shale gas in China
+Urgently‐needed power reform in India to address fuel, power tariff and grid issues
+Potential carbon trading and Renewable Portfolio Standards (RPS) in China
+Increasing promotion of natural gas usage and price reform in China
+Fuel cost passthrough implementation amid a potential power shortage in Korea
+Continued support for nuclear power by China – new‐build approval delay impact
+Increased robustness of fuel cost passthrough regimes
+Indian import duties on equipment
+Increasing pressure on electricity tariffs in HK
+Rising Australian domestic gas prices on LNG export arbitrage
+Australian carbon market future
+Consolidation of the Australian supply market into an oligopoly
+Australian state regulatory evolution (e.g., electricity in Queensland)
+�
+Japanese Utilities
+The impact of the Fukushima incident on Japanese utilities will last for years. Nuclear policy will continue
+to be reviewed – notably the decision whether to restart nuclear power plants – which will affect the
+utilities’ long‐term fuel mix and therefore cost base.
+For example, Kansai Electric Power, which has the largest exposure to nuclear generation after Tokyo
+Electric, stopped paying dividends after the nuclear shutdown. Every 1% change in its nuclear fleet
+utilization rate will affect earning by almost 10% over a normalized level; nuclear policy decisions can thus
+create outcomes for share prices of +/‐ 50%.
+The ripples from changing nuclear policy will have a long‐lasting impact, both negative and positive, on
+companies involved in the nuclear value chain (e.g., reactor manufacturers such as Mitsubishi Heavy) and
+other power‐related sectors such as gas and renewable energy. Relative to other regions, Japanese
+utilities will be the most affected by macro factors (e.g. the Yen, interest rates, fossil fuel prices, etc.).
+Below is a partial list of structural changes driving long/short opportunities in Japan:
+Electron’s structural changes: Japan
+�
+�
+�
+�
+�
+Fukushima incident’s impact on Japan’s power‐related sectors such as LNG and power equipment
+Derating of sector as a result of the government’s response to Fukushima
+Restart of nuclear plants with Abe administration and prefecture support
+Fuel cost impact from Yen depreciation
+Movement to higher value‐added renewable energy systems
+11
+Electron Capital Partners, LLC
+For exclusive of Jeffrey Epstein
+Global Utility White Paper
+CONFIDENTIAL
+�
+Latam Utilities
+Latin America will be a trading market for the next year or two. These markets, with the exception of
+Chile, are subject to significant government intervention, which follows long cycles; Brazil is early in the
+interventionist cycle (e.g., Brazilian President Dilma Rousseff’s recent politicization of electricity tariffs),
+while other countries such as Argentina are closer to the end.
+Below is a partial list of structural changes driving long/short opportunities in Latin America:
+Electron’s structural changes: Latin America
+�
+�
+�
+Brazil’s tariff intervention and consequent derating of sector
+Argentina’s increasingly urgent need for system investment and tariff increases
+Shale gas development in Argentina and its impact on power prices and regional markets
+4. Global Structural Changes Driving Alpha Opportunity
+In addition to region‐specific structural changes, there are structural changes that have a global impact on the
+utility sector.
+�
+Power Prices are Skewed to the Upside
+The cost of natural gas and coal sets the marginal power price in many power markets around the globe.
+The rapid rise in US shale production that began in 2007 caused domestic gas prices to decline much more
+rapidly than other fuels and put downward pressure on power prices both in the US and globally. For US
+gas‐fired generator Calpine, lower fuel costs offset lower power prices and the company emerged a
+relative winner. Virtually all other US generators employ a mix of assets fired by costlier fuels and suffered
+a tremendous margin squeeze, with – in the most extreme example – coal‐fired generator Dynegy
+declaring bankruptcy in 2012. We believe the downward trend in US natural gas prices has flattened for
+reasons noted below, and upward optionality remains, which will affect power prices not only in the US
+but also Europe and Asia given cross‐border commodity linkages.
+In Europe, in an example of the regional, non‐correlated character of the global utility sector, a quite
+different dynamic has taken shape, with coal‐generated power margins remaining attractive relative to
+natural gas‐fired generation margins. Coal prices in Europe have declined as a result of cheaper US and
+Colombian coal imports (because of US shale gas) and the knock‐on effect of softening Asian coal prices.
+Carbon costs (i.e. EU ETS) embedded in power prices also have declined, from €16/tonne 2 years ago to
+€5/tonne today, largely as a result of the European recession. With European natural gas prices at 3x US
+prices (unlike in the US, natural gas prices in Europe are linked by convention to oil), European utilities
+have been minimizing natural gas generation and maximizing coal generation. So, unlike the situation in
+the US, coal generators such as Drax in the UK have enjoyed better margins on higher power output (see
+below) as gas plants sit underutilized.
+12
+Electron Capital Partners, LLC
+For exclusive of Jeffrey Epstein
+Global Utility White Paper
+CONFIDENTIAL
+Source: Bloomberg, Electron Capital Partners
+We believe a floor price exists for natural gas despite shale production. We fully acknowledge that the
+US has large reserves of shale gas awaiting development. However, the current spot price ($3.42/mmbtu)
+sits below the breakeven full‐cycle cost of most US basins ($3.50‐$4.00/mmbtu), which has led producers
+to focus on liquids‐rich plays and de‐emphasize dry‐gas production. Accordingly, the gas rig count is at a
+decade low and the Energy Information Administration expects gas production to be flat through 2014.
+With the wide spread between oil and U.S. natural gas prices likely to continue, we expect the growth in
+liquids shale production to remain much higher than gas.
+On the demand side, the power sector is the largest consumer (37%) of natural gas in the US. At prices
+below $5/mmbtu, coal switching begins, and at prices below $3/mmbtu, gas‐fired power generating units
+become competitive against even the most efficient coal units. Importantly, the breakeven point for coalto‐gas
+switching will rise materially due to EPA mandates. By 2015, these standards move the breakeven
+point for the most efficient coal units from $3/mmbtu to approximately $4/mmbtu, close to where
+current forward prices sit.
+Large potential structural changes in demand create upside optionality. There has been much media
+focus on the growth of shale gas production, so much so that we believe potential demand drivers are
+underappreciated. For example, currently‐planned US coal plant retirements, if repowered with gas,
+would support an additional 6 billion cubic feet per day (bcf/d) of gas demand, adding nearly 10% to total
+US demand. In addition, we see the potential for LNG exports to exceed another 6 bcf/d (27 bcf/d of
+project capacity awaits US Department of Energy approval). Cheap gas is also spurring an industrial
+resurgence, with new petrochemical plants being proposed in the Gulf and traditional coal users such as
+steel mills contemplating refiring their facilities with gas instead of metallurgical coal. Longer term, LNG
+as a vehicle fuel substitute for long haul trucks and CNG for lighter vehicles could also add materially to
+gas demand. Given the number of possible structural demand changes and the enormous potential from
+each, we believe the optionality for natural gas prices is clearly to the upside.
+We believe the recent trend of softer US natural gas prices leading to a deflationary impact on global
+utility sector earnings is, then, largely played out. Longer‐term, we see many positive demand
+For exclusive of Jeffrey Epstein
+13
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+fundamentals that are supportive of higher natural gas prices; while we don’t expect a return to the
+commodity boom times of 2003‐2007, a turn in trend will be very supportive of higher share prices.
+�
+Capex (ex‐US) is Rebounding Post‐Recession
+Capital spending precedes earnings, and utility capex (ex‐US) is rebounding after a recession‐driven
+slowdown. In particular, transmission spending is accelerating in Europe (Germany, Spain, France) and
+Asia while remaining firm in the US. Transmission capex not only enhances system reliability but also
+system efficiency, by enabling the delivery of the most efficient generation to meet demand. Many
+transmission grids face bottlenecks because of the inclusion of intermittent renewable generation in areas
+with ample wind and solar resources but located far from customers. Companies such as Northeast
+Utilities (US), National Grid (UK) and Elia (Belgium/Germany) are prime beneficiaries of this transmission
+capital spending, along with equipment providers such as ABB (Switzerland).
+In addition, many global utilities will be viewed as back‐door beneficiaries of the shale gas boom
+globally given the substantial amount of capex required to build new or upgrade existing infra‐structure.
+US utilities are building much of the infrastructure to export gas out of the shale basins (Dominion,
+NiSource) and are building LNG liquefaction facilities (Dominion, Sempra) that are at the front of the
+queue for US Department of Energy approval. Several European utilities, such as GDF Suez
+(Belgium/France) and Gas Natural (Spain), and Asian utilities such as Kunlun Energy and ENN Energy
+(China; note that China has 2x the shale gas reserves of the US) are exposed to LNG infrastructure
+spending.
+Finally, because of emerging markets’ growth rates and a higher intensity of energy use, emerging market
+utilities will benefit from infrastructure spending across the entire utility value chain.
+5. Substantial Alpha Opportunities Follow Periods of Underperformance
+The global utility sector has experienced record underperformance and often this precedes substantial
+alpha opportunities.
+�
+Record Duration and Depth of Underperformance
+We have analyzed the price performance of the global utility sector since 1995, when MSCI introduced its
+Global Sectors. Although the period includes only 18 years of data, this is the relevant time frame as it
+effectively covers the entire period of industry deregulation (see Appendix 2, page 25).
+As can be seen below, the current period of global utility underperformance is the deepest (‐67%) and
+longest (4 years) of the modern utility era. Even with the strong rally in equity markets since the financial
+crisis, the global utility sector is still down ‐11% on an absolute basis. It has not only been the worstperforming
+MSCI global sector but has also underperformed the second‐worst global sector by ‐23%.
+For exclusive of Jeffrey Epstein
+14
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Source: Bloomberg
+Price
+MSCI Global Sectors
+1/1/2009 12/31/2012 Performance
+Consumer Discretionary 68.5 132.4 93%
+Information Technology 54.2 96.9 79%
+Materials 146.1 237.2 62%
+Industrial 101.4 155.8 54%
+Consumer Staples 104.7 160.5 53%
+Health Care 89.1 128.4 44%
+Energy 181.9 238.9 31%
+Financials 63.0 82.0 30%
+Telecom 51.0 56.9 12%
+Utilities 113.4 100.9 ‐11%
+Source: Bloomberg
+�
+Reasons for Underperformance
+Much of this recent underperformance can be explained by investors’ textbook preference, coming out of
+recession, to add high‐beta stocks and shed low‐growth utilities. This was exacerbated by:
+o soft power demand growth (particularly in Europe);
+o generation overcapacity;
+o delays in capital spending;
+o lower commodity prices (particularly as a result of US shale gas production);
+o central banks’ quantitative easing;
+o political interference (notably in Europe);
+o high debt loads;
+o the Fukushima nuclear disaster in Japan; and
+o concerns about interest rate rises from today’s very low levels.
+It is hard to imagine a more perfect storm for the global utility sector than that which has played out
+over the past 4 years.
+�
+Potential Exists for Sharp Outperformance
+Globally or regionally, it is not unusual to find long and/or sharp periods of utility underperformance (as
+with the current record period). During such periods, when combined with wholesale shorts and market
+underweighting, the sector becomes poised for extended outperformance rallies. This results from
+fundamental investors (both long/short and long‐only) rotating into the sector en masse, bidding up the
+best value and growth utilities and underweighting or shorting utilities with poor business
+For exclusive of Jeffrey Epstein
+15
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+models/prospects. This can be triggered by improving sector fundamentals, better data points, or
+conversely by events that instead lower investors’ perception of economic growth prospects (e.g., policy
+errors, rising European sovereign yields, higher commodity prices, etc.).
+As noted above (page 5), each time the sector’s underweighting reaches 1 standard deviation below the
+mean, over the next 24 months global utilities rise by 38% on an absolute basis and outperform the global
+broad market by 20%, on average (see graph below).
+Cumulative
+outperformance
+Source: Bank of America Merrill Lynch, Bloomberg
+When these outperformance rallies occur, the potential massive alpha opportunity can be substantially
+greater than the return from a fund’s net position.
+As examples, we highlight the lessons from the dotcom period (second only to today’s record
+underperformance) and lessons from Japan (given the deleveraging environment of today).
+o
+Post‐Dotcom Rallies
+The last time we saw underperformance anywhere close to today’s magnitude was during the 3‐
+year run‐up to the dotcom bust (see graph below) as investors grabbed for growth in the “new
+economy”. During the run‐up (Jan 97‐Jan 00), tech and telecom were the best‐performing sectors,
++322% and +162%, respectively. The global utilities sector was the second‐worst‐performing global
+sector, +12% and in line with the +9% worst‐performing materials sector.
+For exclusive of Jeffrey Epstein
+16
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Source: Bloomberg
+Of course, not all investors sold utilities – some were astute buyers. Warren Buffett (at the time,
+thought to be a bit out of touch with the new economy) acquired $12 billion worth of utility assets
+between 1999 and 2002, namely MidAmerican ($9 billion), Kern River Gas Transmission ($960 million)
+and Northern Natural Gas ($1.9 billion).
+Following the dotcom bust (Mar 00‐Sep 01), global utilities staged a sharp catch‐up rally over a 1.5‐
+year period, generating +33% outperformance (‐5% absolute). During this period, US utilities (which
+previously were the worst‐performing region for utilities during the run‐up) outperformed +68%
+(+37% absolute). But the averages conceal some outsized moves in utility stocks as investors
+returned to the sector en masse. Early investors realized enormous absolute returns on low‐beta US
+utility stocks (e.g. SO +114%, ETR +114%, FE +99%, AEP +91%, PEG +78%) while the S&P sank ‐31%.
+Still, investors were discriminating as several stocks (e.g., CVA ‐45%, AES ‐34%, EIX ‐19%, PCG ‐16%,
+NU ‐3%) suffered absolute declines.
+In Europe, the UK water utility stocks (among the lowest‐beta/volatility stocks in the global sector)
+were wholly ignored during the dotcom rally despite their improving fundamentals. Following the
+dotcom bust (Mar 00‐Sep 01) they also staged a fierce outperformance rally, and early fundamental
+investors realized very attractive absolute returns (e.g. Pennon +80%, Severn Trent +52% and United
+Utilities +21%), and enormous outperformance of the broader market (FTSE 100 Index ‐33%). This is
+all the more impressive when you consider that these water utility stocks have betas of
+approximately .43, less than half that of the broad market.
+Again, fundamental investors were discerning as several European utilities experienced absolute
+declined during this same period (e.g., EDP ‐31%, Enel ‐30%, Endesa ‐20%, Centrica ‐19%).
+o
+Japan Rallies
+Japan offers insights into potential utility outperformance during periods of private sector
+deleveraging similar to what developed markets have experienced since the financial crisis.
+Richard Koo, Chief Economist of the Nomura Research Institute, cites two major policy errors that
+extended Japan’s long balance sheet recession: increased taxes in 1997 and expenditure cuts in 2001.
+Both policy errors were preceded by a long or sharp period of utility underperformance relative to
+For exclusive of Jeffrey Epstein
+17
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+the broader market. Following the policy errors, Japanese utilities staged exceptionally strong
+outperformance rallies lasting over 1.5 years, on average, and outperforming the Topix by 30‐40%
+(graph below).
+Source: Nomura Research Institute, Bloomberg
+During the Jan 97–Nov 98 policy error period, fundamental investors bid up the better prospects
+(Tokyo Electric Power and Osaka Gas each rose 34%) while the Topix declined by ‐19. During this
+same period, some Japanese utilities also posted sharp absolute declines, such as Hokkaido Gas ‐49%,
+Saibu Gas ‐30% and Okinawa Electric ‐27%. During the May 01‐May 03 policy error period, Okinawa
+Electric and Hokkaido Gas rallied +40% and +23%, respectively, while the Topix declined ‐44% and
+Tokyo Electric Power and Osaka Gas declined ‐13% and ‐7%, respectively.
+The Japanese utility experience is very interesting as several economists question whether the US is
+currently committing similar policy errors while deleveraging is still occurring in the private sector
+(e.g. the US just increased income and payroll taxes and is implementing austerity measures). The
+Japanese experience demonstrates the potential for strong outperformance rallies during periods of
+deleveraging, demonstrating the alpha opportunity arising from an influx of fundamental investors
+into the sector after periods of limited interest.
+o
+Potential for Yield Catch‐up
+Unlike other income‐oriented investments such as Treasuries, German bunds, UK gilts, investmentgrade
+bonds, high‐yield bonds, emerging market bonds and MLPs, all of which have rallied strongly –
+some believe as the result of a yield bubble – the global utility sector has been left behind; yet
+certain parts offer a compelling investment yield opportunity today. If some fixed income cross‐over
+investors become more concerned about inflation (because of economic growth), yet continue to be
+squeezed by the QE programs of the Fed, BOE, BOJ, etc., then they could begin shifting into global
+utilities. This seems logical, as such investors would look for the closest bond proxies in the equity
+market, the utility sector, rather than bypass utilities for high‐beta broad market stocks. Given the
+enormous amounts of capital controlled by fixed income cross‐over investors, even a small
+reweighting could have a significant effect in bidding utility stock prices up and yields down.
+For exclusive of Jeffrey Epstein
+18
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+6. Interest Rate Risk – A Common Misperception
+We find a common misperception among investors to be the degree of interest rate risk in the global utility
+sector, as interest rate sensitivity has declined steadily since the modern utility industry came into being in
+the early 1990s.
+There is a relatively higher degree of interest rate risk in the defensive, fully‐regulated utilities given their
+bond‐like returns and the capital‐intensive nature of the industry, which demands heavy use of debt financing.
+Such defensive fully‐regulated utilities can be found in all regions, however the highest concentration is found
+in the US. European, Asian and Latam utilities are more levered to economic growth and therefore tend to be
+no more interest rate‐sensitive than broad market equities.
+Even the performance of the more interest rate‐sensitive US utilities is not fully determined by interest rates.
+For example, during the market rally from fall 2002 to summer 2007, the US utility sector generated a nonbeta‐adjusted
+annualized total return 5.2% higher (2.8% from better price appreciation and 2.4% from
+dividend reinvestment) than the S&P 500, while the 10‐year Treasury yield rose from 3.6% to 4.9% (+130 bps)
+over this period. Valuation re‐rating and earnings growth from generators, as economic growth tightened
+power markets and raised commodity prices, outweighed the negative impact of rising interest rates.
+We would note furthermore that yield relationships have moved to unprecedented extremes such that, for
+example, the dividend yield for US regulated utilities versus the 10‐year Treasury yield currently sits at 7
+standard deviations above the mean from the historical pre‐2008 environment (see graph below). An even
+more dramatic relationship exists for the European utilities. This suggests that policy rates are at such levels
+that there is substantial cushion against rising rates.
+Source: Bloomberg
+Finally, we track interest rate risk in the Electron risk model for all positions. We are not looking to make
+macro calls, and the portfolio’s net interest rate risk is kept within acceptable limits as we select stocks in the
+global utility sector. This process has worked well for us as over 7 years we have posted strong returns and
+alpha generation in both rising and falling interest rate environments. As a result, many investors are
+pleasantly surprised to learn that despite perceptions of the global utility sector’s interest rate sensitivity,
+Electron’s return correlation to interest rates is slightly lower than the HFRI Equity Hedge Index’s return
+correlation to interest rates.
+For exclusive of Jeffrey Epstein
+19
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Appendix 1: The Team and Our Process
+�
+Electron Focus
+Electron’s universe of utility and infrastructure stocks is deep, comprising 375 companies with a market
+cap of $2.8 trillion. Stocks covered include the electric, gas, water and waste utilities in addition to
+infrastructure companies (defined as those levered to utilities or utility‐like). Our approach is truly global
+as 40‐60% of the portfolio’s historical gross has been allocated outside the US.
+�
+Electron Team
+Electron’s cohesive, long‐standing team consists of 8 members, including 5 investment professionals who
+have worked (with Jos Shaver as Portfolio Manager) at SAC Capital and the original Electron Capital for an
+average of 6 years. In addition, 4 of the 5 investment professionals have lived outside the US, a distinct
+competitive advantage given our global approach. Each investment professional brings his/her own
+specific expertise and diligent research to our process, working collaboratively across regions to conduct
+deep‐dive research on the most compelling opportunities in the global utility sector.
+The other members of Electron complement the skills and experience of the investment team. Electron’s
+experienced operations/investor relations professionals are former Intrepid Capital employees who
+worked with the Electron team during the first iteration of Electron (2005–2008) when the firm had a
+services agreement with Intrepid Capital.
+Finally, a Senior Advisory Board consisting of former C‐level utility executives from around the globe has
+been with the team since the launch of the original Electron Capital in 2005, and all have rejoined for
+Electron’s re‐launch.
+As Portfolio Manager, Jos Shaver has covered the global utility and infrastructure sectors for the past 21
+years, and his sector perspective benefits from his having lived 10 years abroad (5 years in Asia covering
+the Asian utilities and 5 years in Europe covering European utilities) and 11 years in the US. In addition, as
+Managing Partner, Jos controls all major decisions at Electron.
+�
+Track Record (7 years)
+Electron’s 7‐year track record (3 years audited from the original Electron and 4 years from SAC Capital)
+has annualized 10.3% since inception and has been characterized by strong alpha generation on both the
+long and short side (80% of returns, based on Jensen’s alpha calculation). Electron generated this 7‐year
+track record during an exceptionally challenging period for global utilities – the MSCI World Utility Index
+has been the worst‐performing MSCI Global Sector ex‐financials over the track record period, down ‐0.2%.
+Notwithstanding, Electron’s track record has bested the MSCI World Utility, S&P 500 and HFRI indices by
+91%, 67% and 61%, respectively.
+�
+Process
+First, given Electron’s global approach to utility research, we tend to have a clear competitive advantage
+with respect to early recognition of cross‐border structural change (e.g., how a change in Asian seaborne
+coal market might affect off‐peak power prices and thus earnings for a Midwest US utility). Moreover,
+our global research approach allows us to gain perspective on structural change outcomes given our
+knowledge of global precedents and the likely reaction from various interested parties (e.g., governments,
+regulators, managements, customers, consumer groups, rating agencies, shareholders, debt holders, et
+al.) We analyze other global precedents, develop a thesis and then conduct deep‐dive research to gain
+conviction. Once we have developed a structural change thesis, we proceed to a full bottoms‐up analysis
+For exclusive of Jeffrey Epstein
+20
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+of the earnings impact for the relevant companies, and assess what might be priced in by thoroughly
+reviewing the Street’s numbers and commentary. It should also be noted that the same structural event
+often affects not one but several companies, and the implementation of these structural changes are
+typically not one‐day events. As such, depending on the situation, we may have the opportunity to
+capitalize on the same structural change event several times as it develops.
+Our research process is our primary idea generator. We travel extensively and, collectively, the 5
+investment professionals will have between 600 and close to 1,000 meetings a year as we speak with
+companies, regulators, consultants, sell‐side analysts and governments.
+o
+Why We Take a Global Approach ‐ The “Greatest Gift”
+Electron takes a global approach (historically, 40‐60% of gross allocated outside the US) to the
+utility sector: i) to spot structural change and resultant inefficiencies early, ii) to provide a wider
+canvas to allocate capital around the globe to the most attractive (from a risk/reward point of view)
+alpha opportunities and, most importantly, iii) to enable the Electron Global Funds to take advantage
+of the global sector’s very low inter‐regional correlation (i.e., correlation of regions within the global
+sector; lowest of all MSCI global sectors – see below).
+One of the least
+correlated sectors
+Source: MSCI, 7 years’ weekly trailing correlation
+We call this very low regional correlation the global utility sector’s greatest gift to long/short
+investors as it provides a greater return per unit of risk if one has the ability to dynamically allocate
+capital to and generate alpha in all regions. There are few long/short global utility funds today given
+the global utility experience required to capture the greatest gift, as different countries have different
+utility market designs and structures.
+The Electron process starts with a focus on structural change and we embrace the myriad of utility
+markets’ differences around the globe because this approach leads to the most attractive alpha
+opportunities and the benefits of the “greatest gift”. We allocate capital dynamically to the most
+attractive alpha opportunities in the global utility industry. As a result, the Electron Global Funds is
+only one fund, yet the “greatest gift” provides the diversification benefit of 4 relatively uncorrelated
+regions and concentration in the globe’s most attractive alpha opportunities.
+For exclusive of Jeffrey Epstein
+21
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+o
+Capitalizing on Structural Change Timing
+Although some of the structural changes discussed earlier happen in days or weeks, e.g. fuel cost
+passthrough adjustments, others will take years to implement, for example, new capacity payment
+structures. Because of the sector’s high earnings visibility, however, we do not have to wait until a
+particular structural change occurs for a thesis to play out. Utilities often have earnings visibility 2‐3
+years out (including Street estimates) which is in contrast to other sectors (e.g. tech) which often
+times do not have 2‐3 quarters of visibility. As such, utility stock prices (and the Street’s estimates)
+will begin to discount even some of the longer dated structural changes as clarity surfaces in the early
+stages. Therefore, there is a distinct competitive advantage for those who have an early
+understanding of such structural changes and the resulting earnings impact on affected utilities. We
+therefore focus our efforts on discerning the structural change opportunity early in an effort to come
+up with a view before it becomes obvious to the broader market.
+Moreover, there are often several opportunities over an extended time period to trade the same
+structural change as numerous stakeholders (e.g. government, regulator, company, customers, et al.)
+involved in the process distort market perceptions of the final outcome.
+Although structural changes are the “home run” opportunities, Electron returns are not limited to
+such changes, as we also consistently play for “singles and doubles” in the global utility sector with
+earning releases, regulatory reviews, dividend increases and decreases, relative value, regulatory
+arbitrage, etc.
+As evidence of Electron’s ability to successfully trade both shorter‐ and longer‐term structural
+changes, please note our sweet spot for generating returns over the 7‐year track record has tended
+to be 45‐90 days.
+�
+Portfolio Construction
+Typically, the portfolio has 70‐100 positions, but concentration is very important to generating returns.
+Historically, the top 10 longs represent 40‐50% of the Fund’s value, and top 10 shorts represent 30‐40% of
+the fund’s value. Typically we will have a 10% position in the portfolio; this is invariably a liquid, big‐cap
+utility name with limited downside and a good degree of upside which is expected to be favorably
+affected by a key, underappreciated structural change.
+The stronger the conviction (from a risk/reward point of view) in the alpha opportunity, the higher the
+gross we run. This flexibility in portfolio construction (which we successfully proved over 3 years during
+the first iteration of Electron) provides a distinct advantage given the utility sector’s many low‐beta, lowvolatility
+stocks. During the original Electron Capital period, gross ranged from 150% to 215% and a
+median of 185% over the period. We see maintaining a similar operating range for gross for the re‐launch
+for Electron.
+Regarding nets, we will always have a properly hedged product as there are always opportunities on the
+short side to generate alpha. Over our 7‐year track record period, the net averaged 22% net long. During
+the first 3 years of Electron, our net averaged 30% long. Given our bearish view on utilities over the last 4
+years, the net averaged 17% net long.
+�
+Risk Model and Risk Management
+We view utilities as distinct bundles of risk. Just as we are staunch supporters of sum‐of‐the‐parts (SOTP)
+valuation, we are also believers in SOTP risk monitoring. As such, our risk model developed over the last
+For exclusive of Jeffrey Epstein
+22
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+8 years tracks approximately 60 industry, commodity, and financial risk metrics and is a focus for the
+Electron team. For example, consider oil price risk; although there may be no direct oil exposure in the
+portfolio, there is indirect oil exposure if we were to be short Drax, a coal‐fired generator that sells power
+into the UK power market. In the UK, natural gas sets the marginal price of power, and in Europe, by
+convention, natural gas is linked to the oil price; as such, a short position in Drax represents an effective
+short position in oil. We track this risk along with numerous other factors that affect utilities, with the
+purpose of minimizing risks for which we have no competitive advantage that would justify taking on the
+exposure. We describe the risk model in more detail in the marketing book. In addition, we make the
+Electron risk model available for all prospective investors’ due diligence.
+Each position in the risk model contains a thesis write‐up (to avoid thesis creep); upside, downside and
+relative targets (for valuation discipline); and a time frame (to avoid collecting stocks). In addition to
+tracking numerous industry, financial and macro risks, we also track alpha generation for all of our
+regions, sectors, subsectors and sub‐subsectors, which provides the added benefit of a granular window
+on market flows. Finally, we incorporate an exponential function into the risk model that provides an
+early alert and focuses our attention when something is not working. For example, we might be short
+XYZ utility with 30% downside potential over 3 months, and put in a 15% loss limit. If in the first week XYZ
+runs up 5%, it will trigger a “FAST” move alert in the risk model. If we cannot explain why the position is
+moving against us, we will cover (i.e., when in doubt, get out). As mentioned, this is not a crowded space
+(rarely do utility names appear on the Goldman Sachs Hedge Fund VIP list) and many names are low‐beta,
+low‐volatility stocks. However, often when money is lost on the short side, it is the result of small daily
+losses that would not be noticeable on any given day, but over even short periods of time can add up to
+sizeable losses.
+�
+Shorting Global Utilities
+o
+Experience with Dividends and Investor Behavior
+During the underperformance of the global utility industry over the last 4 years, Electron generated
+very strong alpha on the short side. We spend almost twice as much time on the short side as we do
+the long side; this is driven not only by the need for more short positions (given the asymmetry of
+risk) but also because of the effect of utility dividends on investor behavior. For example, we might
+be short a large cap utility with a 4% dividend yield that we believe to be a structural loser. The stock
+might decline 25%, which would push the dividend yield up to 5.5%. Even though our valuation
+models might tell us there is still another 10‐15% valuation downside, we will tend to cover (unless
+we believe the dividend is materially at risk), as the dividend yield will begin to provide support for
+the stock. The precise level of the dividend yield at which we would cover is as much an art as a
+science, as it is based on our experience in a variety of situations and our views on investor behavior
+(particularly income funds) gained over many years of covering the sector. As such, you will find us
+trading around our short positions more frequently than our long positions.
+o
+Key to Electron’s Process to Identify Dividend Change Candidates
+We also have developed a certain expertise in being early and correctly calling dividend changes – an
+event that can have a dramatic impact on the performance of utilities given the make‐up of the
+investor base. In our long experience, utility CEO/CFOs will strongly defend the company’s dividend
+(often borrowing or selling assets to fund it). As such, when they do finally cut the dividend, or talk
+about the possibility, they often surprise the market.
+It pays to be diligent in assessing the potential for a dividend cut, and to be early, since once
+CEO/CFOs accept that their business model is deteriorating, they will quickly take action, especially if
+their companies have less flexibility (particularly with respect to cutting capex and opex). Large‐cap
+utility managements desire strong credit ratings and are reluctant to risk an investment grade rating.
+For exclusive of Jeffrey Epstein
+23
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+They are in a capital‐intensive business and need to preserve deep, low‐cost access to both the equity
+and debt capital markets. Moreover, collateral requirements for forward power price hedging
+typically will spike if a utility loses its investment grade rating, which can spur concern about liquidity.
+Building conviction around a dividend cut thesis requires more than screening. Our process focuses
+on researching capex flexibility, cost‐cutting potential and asset divestiture potential to determine
+the flexibility a company has under various scenarios. Our research process breaks capex into 3
+buckets: i) committed capex (e.g. required by the regulator), ii) nondiscretionary capex (e.g. major
+plant overhauls – CEOs tend to avoid delays so as not to jeopardize billion dollar‐plus assets), and iii)
+discretionary capex (CEOs can delay but may jeopardize future growth).
+Regarding opex, we look for cost‐cutting capability, which we estimate by breaking apart the opex
+line or by global benchmarking. Finally, we estimate the potential impact from possible asset
+divestitures and the resulting impact on earnings and leverage. Once we have completed the
+research work on capex, opex and potential divestitures, we model various sensitivities from
+structural changes or other key drivers that might cause a deterioration or improvement in a utility
+company’s business model against forward‐looking credit rating agency (S&P, Moody’s, etc.) ratios.
+For exclusive of Jeffrey Epstein
+24
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Appendix 2: Global Utility Sector Background
+�
+History
+To gain a deeper appreciation of why the global utility sector is attractive for long/short investing, it is
+helpful to briefly survey the history of the sector and describe the utility value chain’s components.
+The utility industry as we know it began in 1882 when Thomas Edison built the world’s first generating
+station on Pearl Street in downtown Manhattan. In the early decades the industry evolved along multiple
+lines but eventually settled into an integrated, fully‐regulated model, deemed appropriate as utilities
+were considered to have monopoly power. During the era of full regulation, utility stocks were often
+characterized as low‐risk “widow and orphan” stocks in the US, and large parts of the global utility
+industry remained government‐owned. During these early days, long/short investing could not have
+existed at scale, as the ability to find and generate short alpha would have been difficult given the sector’s
+government ownership and bond‐like nature of returns.
+In the 1980s, Lord David Howell (formerly UK Secretary of State for Energy in the Thatcher government)
+advocated having then‐fully regulated power plants compete to sell their production into a competitive
+power market (a “power pool”) where the price of electricity would be set at the intersection of supply
+(power plants) and demand (industrial users and electricity supply companies selling to households). This
+led to the world’s first competitive power pools being rolled out in the UK in the early 1990s. While
+based in Asia, Jos Shaver led UBS’ Asian utility industry group and had the privilege of working with Lord
+Howell when UBS acted as advisor to the State Power Corporation of China on the restructuring of that
+country’s national power industry.
+Competitive power pools have since sprung up all over the world, and regulators have pulled apart
+previously fully‐integrated utilities in the name of efficiency and maximizing competition. In addition,
+governments around the world have begun to privatize their state utility industries and organize bespoke
+competitive market structures that best meet their needs. These changes have resulted in a hybrid
+modern industry which continues to evolve.
+The deregulatory impulse has brought tremendous benefits to national economies, driving down costs
+and improving efficiency and system reliability, but has also produced unintended consequences, e.g., the
+high‐profile bankruptcies of Enron, British Energy, Dynegy, NRG, PG&E and others. As such, although one
+can still find low‐beta, low‐volatility defensive stocks, the global utility sector has not been for “widow
+and orphan” investors for quite some time due to structural changes in an evolving industry that
+continue to alter the investment landscape.
+It is important to note that the modern utility industry is still in its infancy, having begun in the early
+1990s, and its continued evolution – structural change – will provide ample long/short opportunities for
+the foreseeable future. Structural change catalysts are driven by: i) a utility’s various stakeholders,
+including governments, managements, consumers, et al. which seek to mold the utility to their needs and
+objectives, or ii) variables outside of stakeholder control such as commodity prices and new technologies.
+A specialist approach to the global utility sector is essential as each country’s market structure (and often
+that of regions within countries) can be very different as a result of the varying levels of competition,
+market concentration, geographic constraints, infrastructure bottlenecks, regulatory constructs, fuel
+supply availability and so on.
+For exclusive of Jeffrey Epstein
+25
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+�
+Utility Value Chain
+The electricity value chain for a modern day fully integrated utility consists of Generation + Transmission
++ Distribution + Customers (see diagram below). Each segment of the value chain is a different business,
+with distinct risks and economic drivers. Competition has surfaced in each part of the value chain other
+than transmission and distribution (which are fully‐regulated assets as they are deemed to be natural
+monopolies). Still, regulators have learned to bring indirect competition even to monopoly‐regulated
+businesses by encouraging returns based on efficiency improvements or benchmarking to comparable
+companies.
+Source: US Department of Energy
+For exclusive of Jeffrey Epstein
+26
+Electron Capital Partners, LLC
+Global Utility White Paper
+CONFIDENTIAL
+Disclaimer
+This report, which is attached as an exhibit to the Investor Presentation, is presented by Electron Capital Partners
+LLC (“Electron”) solely for information purposes to provide recipients with general information regarding Electron’s
+current view of the global utility sector. This report is a summary and does not purport to be complete.
+This report does not constitute an offer to sell, or a solicitation of any offer to buy or sell, any securities or to
+provide any investment advisory services. Any such offer will be made solely to qualified investors by means of a
+final offering document and related subscription materials, which will contain material information not contained
+herein and to which the prospective investors are directed. This report is not intended to supplement, modify or
+replace such documents, which should be carefully read prior to investing.
+An investment in any security involves a high degree of risk. No assurance can be given that Electron’ investment
+objectives will be achieved and investment results may vary substantially on a quarterly, annual and/or other
+periodic basis. Past performance is not necessarily indicative of future results. The nature of, and risks associated
+with, the investments to be made by Electron may differ substantially from the nature of, and risks associated
+with, investments undertaken historically by the principals of Electron.
+Recipients should not construe this report or any other communication received in connection with Electron or any
+fund as legal, accounting, tax, investment or other advice, and each recipient should consult with its own counsel
+and advisors as to all legal, tax, regulatory, financial and related matters. Recipients should not rely on this report
+in making any investment decisions.
+This report is confidential and proprietary and the recipient agrees not to disclose, directly or indirectly, to any
+party other than the recipient and the recipient’s professional advisors. Any distribution of this report, in whole or
+in part, or the divulgence of any of its contents, is unauthorized.
+Any projections, forecasts, opinions and estimates contained in this report are necessarily speculative in nature
+and are based upon certain assumptions. It can be expected that some or all of such assumptions will not
+materialize or will vary significantly from actual results. Accordingly, actual results will differ and may vary
+substantially from the results shown.
+Electron has prepared this report, in part, on the basis of information and data filed by issuers with various
+government regulators or made directly available to Electron by the issuers or through sources other than the
+issuers. Although Electron evaluates all such information and data and may seek independent corroboration when
+Electron considers it appropriate and reasonably available, Electron is not in a position to confirm the
+completeness, genuineness or accuracy of such information and data and, in some cases, complete and accurate
+information is not available.
+For exclusive of Jeffrey Epstein
+27
+Electron Capital Partners, LLC

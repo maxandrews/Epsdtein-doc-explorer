@@ -1,0 +1,552 @@
+﻿Cause and Effect
+Fade the Trump risk premium – buy USD
+13 February 2017
+Concerns over stagflation return
+In our view, the most interesting and important development in the global financial
+market so far this year has been the divergence between rising US inflation breakevens
+and falling US real yields. Rightly or wrongly, investors appear to have become
+concerned about upside risk to inflation and downside risk to growth.
+The Trump risk premium
+Informal surveys of our clients suggest that stagflation concerns are being fed by
+growing pessimism about the new Trump administration. Investors seem to think that
+potential trade wars and a border adjustment tax (BAT) would boost inflation while
+repealing Obamacare and the controversy regarding the BAT could delay the highly
+anticipated tax reform.
+Perception versus reality
+In this report, we argue why the Trump risk premium may be too high. The
+administration’s dealing with both China and Mexico in recent weeks suggests to us that
+the near-term risk of open trade wars has abated. We are also less concerned that
+Obamacare will take precedence over tax reform.
+FX and Rates
+Global
+David Woo
+FX, Rates & EM Strategist
+MLPF&S
++1 646 855 5442
+david.woo@baml.com
+Global Rates & Currencies Research
+Most crucially, we think the overall tax reform is less dependent on the BAT than usually
+thought. Our scenario analysis shows that what has been getting priced into the market
+since January (higher inflation, lower USD) may be actually the least likely path for the
+BAT. In more plausible scenarios, the USD does quite well and inflation breakevens
+should be either unchanged or lower.
+How to trade it?
+We could get details on the tax reform as early as the new president’s speech to joint
+session of Congress on February 28, 2017. We think this could validate our view of a
+stronger USD.
+Unauthorized redistribution of this report is prohibited. This report is intended for kaasha.saini@baml.com
+Taking advantage of clean positioning and the decline in implied FX vol lately, we
+recommend buying a 6w ATM EUR put/USD call (spot reference at 1.0615), costing
+1.1% EUR. A 6-week option will cover also the March Fed meeting and the Dutch
+election (both on March 15) that could also work in favour of the trade. A risk to the
+trade is that is weak February data takes the possibility of a March Fed hike off the
+table completely.
+A list of open trades and those closed in the last 12 months can be found in our Global
+Liquid Markets Weekly.
+Trading ideas and investment strategies discussed herein may give rise to significant risk and are not
+suitable for all investors. Investors should have experience in FX markets and the financial resources to
+absorb any losses arising from applying these ideas or strategies.
+BofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a
+result, investors should be aware that the firm may have a conflict of interest that could affect the
+objectivity of this report. Investors should consider this report as only a single factor in making
+their investment decision.
+Refer to important disclosures on page 9 to 10. Analyst Certification on page 8. 11710696
+Timestamp: 13 February 2017 06:00AM EST
+Concerns over stagflation return
+On the surface, this has been an uneventful year for the US rates market so far. At the
+start of January, the market was pricing two Fed hikes for the year. Six weeks later, the
+market is still pricing only two Fed hikes for the year. The yield on the bellwether 10y
+US Treasuries started the year at 2.44%. Six weeks later, it is at 2.41%, unchanged for
+all practical purposes.
+As usual, the surface view is deceiving. The seeming collapse in volatility belies the
+dramatic changes in the composition and term structure of rates. Since the December
+FOMC meeting, real yields and inflation breakevens have diverged in remarkable fashion.
+Year to date, 5y real yields have declined by 16bp while 5y inflation breakevens have
+risen by 12bp (Chart 1); the 5s-30s real curve is 10bp steeper while the breakeven curve
+is 10bp flatter.
+Chart 1: 5y real yields and 5y inflation breakevens (%)
+2.5
+2
+1.5
+1
+0.5
+0
+-0.5
+-1
+10/1/2016 10/26/2016 11/20/2016 12/15/2016 1/9/2017 2/3/2017
+5y real yields (%) 5y infl BE (%)
+Source: BofA Merrill Lynch Global Research
+The effect of the divergence between real yields and inflation breakevens has been felt
+across financial markets. For example, the USD, which trades with real rather than
+nominal yields, has declined in tandem with real yields (Chart 2). In contrast, gold, which
+usually thrives on inflation concerns, has been surging lately.
+Chart 2: DXY and 5y real yields (%)
+104
+103
+102
+101
+100
+99
+98
+97
+96
+95
+94
+10/1/2016 11/1/2016 12/1/2016 1/1/2017 2/1/2017
+DXY (LHS)
+Source: BofA Merrill Lynch Global Research
+5y real yields (RHS)
+0.3
+0.2
+0.1
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+Chart 3: 5y real yields versus 5y inflation breakevens (%)
+4
+3
+2
+1
+0
+QE1
+QE2 OT QE3
+-1
+-2
+-3
+3/1/2009 3/1/2010 3/1/2011 3/1/2012 3/1/2013
+5y real yields (%) 5y infl BE (%)
+Source: BofA Merrill Lynch Global Research
+We have seen price action like this before. Indeed, it was quite common during the QE
+period (Chart 3). However, QE is neither on the horizon nor on investors’ minds right
+now. So what is really going on? Under normal circumstances, inflation breakevens are a
+reflection of investors’ inflation expectations while real yields a proxy for their growth
+2 Cause and Effect | 13 February 2017
+expectations. The divergence between inflation breakevens and real yields seem to
+suggest that investors have become more concerned about upside risk to inflation but
+downside risk to growth.
+Interestingly, this shift in investor sentiment runs counter to incoming data which are
+painting a picture of benign inflation but growth acceleration. Indeed, wage growth
+remains lackluster while the Fed’s favorite measure of inflation core PCE has slowed to
+the lowest level in more than a year (Chart 4). In contrast, both employment data and
+survey data suggest economic growth is on a tear (Figure 5). The Atlanta Fed’s GDPNow
+model is currently tracking 2.7% GDP growth for Q1.
+If it is not the data, what is driving the market’s apparent increased concerns about
+stagflation? Whatever these concerned may be, are they justified? We seek to answer
+these two critical questions in this report.
+Chart 4: Core PCE (3m/3m, SA, AR, %)
+2.5
+2.3
+2.1
+1.9
+1.7
+1.5
+1.3
+1.1
+0.9
+0.7
+Jan-10
+Jun-10
+Nov-10
+Apr-11
+Sep-11
+Feb-12
+Jul-12
+Dec-12
+May-13
+Oct-13
+Mar-14
+Aug-14
+Jan-15
+Jun-15
+Nov-15
+Apr-16
+Sep-16
+Source: BofA Merrill Lynch Global Research
+Chart 5: GDP growth and aggregate hours worked (Q/Q, SA, AR, %)
+6
+4
+2
+0
+-2
+Mar-10 Jul-11 Nov-12 Mar-14 Jul-15 Nov-16
+Source: BofA Merrill Lynch Global Research
+real GDP growth (AR, %)
+aggregate hours worked (AR, %)
+aggregate hours worked, Jan (AR, %)
+The Trump risk premium
+Our informal survey of clients in the past two weeks suggests that stagflation concerns
+are being fed by growing pessimism about the new Trump administration. Clients tell us
+that their pessimism reflects four main concerns:
+Downside risk to growth
+1. Many investors are concerned that the new administration will get bogged
+down by its promise to repeal and replace Obamacare, resulting in a significant
+delay in pushing through fiscal reform
+2. This concern is reinforced by the perception that the GOP is divided over the
+proposed border adjustment tax (BAT), a key element of the tax reform
+proposal
+Upside risk to inflation
+3. A growing number of investors are worried that potential trade wars with
+Mexico and China could lead to tariffs and higher prices
+4. Many investors are also concerned that the BAT will force retailers to raise
+prices
+With many investors having loaded up on Trump trades after the elections (The battle
+lines are drawn, January 23, their willingness to continue to give the benefit of doubt to
+the new administration appears to be wearing thin. We would advise patience as there
+Cause and Effect | 13 February 2017 3
+are reasons to think that the worst may be already behind us and that the higher
+rates/higher USD trades will soon resume. We make our case in the following sections.
+Trade wars: near-term risk drops
+Developments over the past three weeks have led us to conclude that the risk of trade
+wars with Mexico and China has abated significantly, at least for the short-term:
+• China: We take some comfort in the fact that the only item in his 100 day plan that
+President Trump has reneged on is his promise to label China as a currency
+manipulator on his first day as president (Table 1). In his interview with the WSJ on
+January 13, Trump said that he “would talk to them first”. He added: “Certainly they
+are manipulators. But I’m not looking to do that.” This and the fact that Trump
+changed tack on Taiwan last week by telling the Chinese president he would honor
+the “One China” policy suggest to us a pragmatic approach to dealing with China.
+• Mexico: We are relieved by the climbing-down by the administration after the
+Mexican president cancelled his trip to Washington over Trump’s insistence that
+Mexico pay for the wall. Reince Priebus, the influential White House Chief of Staff,
+suggested that there is a “buffet of options” to pay for the wall, including by going
+after the drug cartels. The Mexican foreign minister welcomed the overture by
+saying that “It's a signal that … must be welcomed because we are already seeing
+how the discussion is changing”.
+Table 1: Trump’s 100 day plan (On the first day of my term of office, my administration will immediately pursue the following):
+A hiring freeze on all federal employees to reduce the federal workforce through attrition
+A requirement that for every new federal regulation, two existing regulations must be eliminated.
+A five-year ban on White House and Congressional officials becoming lobbyists after they leave government service.
+A lifetime ban on White House officials lobbying on behalf of a foreign government.
+I will announce my intention to renegotiate NAFTA or withdraw from the deal under Article 2205
+I will announce our withdrawal from the Trans-Pacific Partnership.
+Lift the Obama-Clinton roadblocks and allow vital energy infrastructure projects, like the Keystone Pipeline, to move forward.
+Begin the process of selecting a replacement for Justice Scalia from one of the 20 judges on my list
+Cancel all federal funding to sanctuary cities.
+Suspend immigration from terror-prone regions where vetting cannot safely occur. All vetting of people coming into our country will be considered “extreme vetting.”
+Begin removing the more than two million criminal illegal immigrants from the country and cancel visas to foreign countries that won’t take them back
+I will direct the Secretary of the Treasury to label China a currency manipulator.
+I will direct the Secretary of Commerce and U.S. Trade Representative to identify all foreign trading abuses that unfairly impact American workers and direct them to use every tool under
+American and international law to end those abuses immediately.
+Propose a constitutional amendment to impose term limits on all members of Congress.
+A complete ban on foreign lobbyists raising money for American elections.
+Cancel billions in payments to U.N. climate change programs and use the money to fix America’s water and environmental infrastructure.
+I will lift the restrictions on the production of $50 trillion dollars’ worth of job-producing American energy reserves, including shale, oil, natural gas and clean coal.
+Source: Donaldtrump.com/contract; BofA Merrill Lynch Global Research
+ACA reforms: not before fiscal reforms
+In an interview on February 5, Trump walked back his promise to replace Obamacare in
+short order, saying that the process is “complicated” and “maybe it’ll take till sometime
+into next year.” In contrast, asked if Americans should expect a tax cut this year, he said:
+“I think before the end of the year I would like to say yes.”
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Done
+Not Done
+Not Done
+Not Done
+Not Done
+Not Done
+Not Done
+In our view, the prevailing pessimism that Obamacare will take precedence over tax cuts
+is not consistent with three key facts on the table:
+• The Republicans, with only 52 seats in the Senate, do not have the votes to replace
+Obamacare.
+• It is by now a broadly shared view among Republican leadership that to repeal
+Obamacare without replacing it would be very risky politically.
+• There is no consensus among Republicans about how to replace Obamacare. For
+example, 31 states took up federal funding to expand Medicaid under Obamacare
+4 Cause and Effect | 13 February 2017
+and 119 House Republicans represent these states. Repealing Obamacare without
+replacing it would entail either a significant cut in the funding of the program or
+that the state tax payers will have to pick up the bills. Either is likely to hurt
+Republican support in these states.
+Tax reform: BAT won’t kill it
+The proposed border adjustment tax in the Ryan-Brady plan has been attracting a lot of
+attention lately. Although we have concerns about some specific aspects of the proposal
+(which we will discuss later), the popular view that it could be a deal breaker for the
+whole tax reform initiative seems to us difficult to substantiate.
+Below are some key facts that are worth noting:
+• It has been thirty years since the US last overhauled its tax code. Most mainstream
+economists agree that it needs a serious update.
+• Tax reform requires strong political consensus. The Republicans, by gaining control
+of the Presidency and retaining their control of both houses of Congress in the
+November elections, are in a strong position to push through major tax reform.
+• The tax reform proposal from House Republicans has already gone through
+extensive consultations and enjoys broad support within the House Republican
+Conference.
+• One of the key commitments of the Trump campaign is tax cuts and simplification
+to boost growth.
+• The US today has the highest marginal corporate income tax rate among OECD
+countries.
+• Another major difference between the US and other major economies is that US
+corporations are taxed on their world-wide income as opposed to territorial income.
+In 2000, 17 out of the current 34 OECD members had a world-wide system. By
+2010, only 7 did.
+• The combination of high corporate income tax rate and a world-wide income tax
+system has two unintended consequences. One, US companies currently hold more
+than $2trn in capital overseas. Two, an increasing number of US companies are
+acquiring smaller foreign companies with the purpose of relocating their
+headquarters outside the US (ie, inversion). Between 2003 and 2011, there were
+only 7 such transactions. From 2012 and 2015, 27 such transactions were
+completed.
+• The valued added tax (VAT) system has been gaining popularity over the past
+twenty years. Today, more than 160 countries have a VAT. The U.S. is the only
+OECD country that doesn’t.
+• The fact that the US does not have a VAT system puts US produced goods at a
+disadvantage. VAT is “border adjusted” - meaning that when a good is exported the
+producer gets a rebate while imports are subject to VAT.
+These facts together make it very apparent that both the case for tax reform and
+support for tax reform are very strong. Paul Ryan said on January 26 after the
+Republican retreat in Philadelphia that they “aspire” to pass tax reforms by August.
+Cause and Effect | 13 February 2017 5
+4 BAT scenarios
+To us, the key question is not when tax reform will pass (likely sooner than what is
+priced in). Far more important for financial markets in our view, especially for the rates
+and FX markets, is what tax reform means for inflation. The recent divergence between
+inflation breakevens and real yields reflects to a large part to the increasing consensus
+that tax reform will be stagflationary.
+We are less sure this will be the case and this is why. In our view, there are four possible
+paths in terms of how the border adjustment tax proposal could play out:
+• Scenario 1: This is the baseline of the Republican architects of the proposal
+who see a 25% appreciation of the USD to offset the 20% new tax on imports.
+In this scenario, because of the USD appreciation the inflationary impact of the
+border adjustment tax will be limited. In fact, it is very likely in this scenario
+that the second round effects of the USD appreciation (for example on
+commodity prices and emerging markets) will stoke deflationary fears.
+• Scenario 2: In this scenario, we would get the BAT as proposed but the USD
+does not go up because the new administration sees a strong USD as
+incompatible with its trade policy. We suspect this scenario has become the
+baseline for the market. We disagree this is the most probable outcome. In our
+view, it would be difficult if not impossible for Republican leadership to push
+through tax changes that would lead to potentially very unpopular price hikes
+ahead of the mid-term elections next year.
+• Scenario 3: In this scenario the BAT would not make it into the tax reform and
+the proposed corporate tax cut is financed by running up the fiscal deficit. This
+could be easier to sell politically than Scenario 2, especially given that the
+Republicans plan to deliver personal income tax cuts at the same time. In this
+scenario, the USD will rally as the Fed continues to hike and rate differential
+drives the USD higher.
+Chart 6: The four different fates of the border adjustment tax proposal
+Scenario 1: Ryan-Brady proposal
++25% USD increase = Little increase
+in inflation
+Medium probability:
+USD↑↑↑, BE↓↓
+Scenario 2: Ryan-Brady proposal +
+little USD increase = Big increase in
+inflation
+Low probability:
+USD↑↓, BE↑↑
+BAT
+Scenario 3: No BAT + bigger fiscal
+deficit = Little increase in inflation
+Medium probability:
+USD↑, BE↓
+Scenario 4: VAT instead of BAT =
+Smaller increase in inflation
+Medium probability:
+USD↑↑, BE↑↓
+Source: BofA Merrill Lynch Global Research
+6 Cause and Effect | 13 February 2017
+• Scenario 4: The current BAT proposal has some obvious issues. Because
+wages are deductible from taxable income, it essentially taxes domestically
+produced goods as a share of value added but taxes imports as a share of their
+total value. This is a clear discrimination that would certainly invite WTO
+dispute and that could potentially give future non-Republican administrations
+the excuse to overturn the tax reform. Moreover, the fact that under the
+current proposal some exporters will potentially pay no taxes does not seem
+fair to us. Remember, in most countries with a VAT system, there is also a
+corporate income tax. In this scenario, we assume that after negotiations we
+get a true VAT that is both WTO compliant as well as being revenue neutral.
+The USD would do better in this scenario compared to Scenario 3 because the
+VAT would help level the playing fields between US and foreign produced
+goods and the US trade balance should improve.
+How to trade it?
+We view the recent weakening of the USD and rising inflation breakevens as mutually
+inconsistent, since we think Scenario 2 is not a viable political outcome. The fact that all
+other scenarios are associated with a stronger USD and lower to flat inflation
+breakevens is supportive of our bullish USD view.
+The market needs more clarity on the details of the fiscal reform proposal to determine
+the outlook for the USD and rates. It is possible that details may be unveiled as early as
+the president’s speech to the joint session of Congress on February 28, 2017. We think
+it could validate our view of a stronger USD.
+Taking advantage of clean positioning and the decline in implied FX vol lately, we
+recommend buying a 6w ATM EUR put/USD call (spot reference at 1.0630). A 6-week
+option will cover also the March Fed meeting and the Dutch election (both on March 15)
+that can both potentially work in favour of the trade.
+We think the market is underpricing the risk of a Fed hike in March and better-thanexpected
+results by the Freedom Party in the Dutch election could intensify concerns of
+a second-round Le Pen win in May. The latter suggests that over the next 2-3 months it
+may be easier to buy the USD than to pay US rates and easier to sell EUR/USD than to
+buy USD/JPY.
+Cause and Effect | 13 February 2017 7
+Options Risk Statement
+Potential Risk at Expiry & Options Limited Duration Risk
+Unlike owning or shorting a stock, employing any listed options strategy is by definition
+governed by a finite duration. The most severe risks associated with general options
+trading are total loss of capital invested and delivery/assignment risk... all of which can
+occur in a short period.
+Investor suitability
+The use of standardized options and other related derivatives instruments are
+considered unsuitable for many investors. Investors considering such strategies are
+encouraged to become familiar with the "Characteristics and Risks of Standardized
+Options" (an OCC authored white paper on options risks). U.S. investors should consult
+with a FINRA Registered Options Principal.
+For detailed information regarding risks involved with investing in listed options:
+http://www.theocc.com/about/publications/character-risks.jsp
+Analyst Certification
+I, David Woo, hereby certify that the views expressed in this research report accurately
+reflect my personal views about the subject securities and issuers. I also certify that no
+part of my compensation was, is, or will be, directly or indirectly, related to the specific
+recommendations or view expressed in this research report.
+8 Cause and Effect | 13 February 2017
+Disclosures
+Important Disclosures
+BofA Merrill Lynch Research Personnel (including the analyst(s) responsible for this report) receive compensation based upon, among other factors, the overall profitability of Bank of America
+Corporation, including profits derived from investment banking. The analyst(s) responsible for this report may also receive compensation based upon, among other factors, the overall
+profitability of the Bank’s sales and trading businesses relating to the class of securities or financial instruments for which such analyst is responsible.
+BofA Merrill Lynch Global Credit Research analysts regularly interact with sales and trading desk personnel in connection with their research, including to ascertain pricing and liquidity in the
+fixed income markets.
+Other Important Disclosures
+Prices are indicative and for information purposes only. Except as otherwise stated in the report, for the purpose of any recommendation in relation to: (i) an equity security, the price
+referenced is the publicly traded price of the security as of close of business on the day prior to the date of the report or, if the report is published during intraday trading, the price referenced is
+indicative of the traded price as of the date and time of the report; or (ii) a debt security (including equity preferred and CDS), prices are indicative as of the date and time of the report and are
+from various sources including Bank of America Merrill Lynch trading desks.
+The date and time of completion of the production of any recommendation in this report shall be the date and time of dissemination of this report as recorded in the report timestamp.
+This report may refer to fixed income securities that may not be offered or sold in one or more states or jurisdictions. Readers of this report are advised that any discussion, recommendation or
+other mention of such securities is not a solicitation or offer to transact in such securities. Investors should contact their BofA Merrill Lynch representative or Merrill Lynch Financial Global
+Wealth Management financial advisor for information relating to fixed income securities
+Rule 144A securities may be offered or sold only to persons in the U.S. who are Qualified Institutional Buyers within the meaning of Rule 144A under the Securities Act of 1933, as amended.
+SECURITIES DISCUSSED HEREIN MAY BE RATED BELOW INVESTMENT GRADE AND SHOULD THEREFORE ONLY BE CONSIDERED FOR INCLUSION IN ACCOUNTS QUALIFIED FOR SPECULATIVE
+INVESTMENT.
+Recipients who are not institutional investors or market professionals should seek the advice of their independent financial advisor before considering information in this report in connection
+with any investment decision, or for a necessary explanation of its contents.
+The securities discussed in this report may be traded over-the-counter. Retail sales and/or distribution of this report may be made only in states where these securities are exempt from
+registration or have been qualified for sale.
+Officers of MLPF&S or one or more of its affiliates (other than research analysts) may have a financial interest in securities of the issuer(s) or in related investments.
+This report, and the securities discussed herein, may not be eligible for distribution or sale in all countries or to certain categories of investors.
+BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+"BofA Merrill Lynch" includes Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S") and its affiliates. Investors should contact their BofA Merrill Lynch representative or
+Merrill Lynch Global Wealth Management financial advisor if they have questions concerning this report. "BofA Merrill Lynch" and "Merrill Lynch" are each global brands for BofA
+Merrill Lynch Global Research.
+Information relating to Non-US affiliates of BofA Merrill Lynch and Distribution of Affiliate Research Reports:
+MLPF&S distributes, or may in the future distribute, research reports of the following non-US affiliates in the US (short name: legal name, regulator): Merrill Lynch (South Africa): Merrill Lynch
+South Africa (Pty) Ltd., regulated by The Financial Service Board; MLI (UK): Merrill Lynch International, regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority
+(PRA); Merrill Lynch (Australia): Merrill Lynch Equities (Australia) Limited, regulated by the Australian Securities and Investments Commission; Merrill Lynch (Hong Kong): Merrill Lynch (Asia
+Pacific) Limited, regulated by the Hong Kong Securities and Futures Commission (HKSFC); Merrill Lynch (Singapore): Merrill Lynch (Singapore) Pte Ltd, regulated by the Monetary Authority of
+Singapore (MAS); Merrill Lynch (Canada): Merrill Lynch Canada Inc, regulated by the Investment Industry Regulatory Organization of Canada; Merrill Lynch (Mexico): Merrill Lynch Mexico, SA de
+CV, Casa de Bolsa, regulated by the Comisión Nacional Bancaria y de Valores; Merrill Lynch (Argentina): Merrill Lynch Argentina SA, regulated by Comisión Nacional de Valores; Merrill Lynch
+(Japan): Merrill Lynch Japan Securities Co., Ltd., regulated by the Financial Services Agency; Merrill Lynch (Seoul): Merrill Lynch International Incorporated (Seoul Branch) regulated by the
+Financial Supervisory Service; Merrill Lynch (Taiwan): Merrill Lynch Securities (Taiwan) Ltd., regulated by the Securities and Futures Bureau; DSP Merrill Lynch (India): DSP Merrill Lynch Limited,
+regulated by the Securities and Exchange Board of India; PT Merrill Lynch (Indonesia): PT Merrill Lynch Indonesia, regulated by Otoritas Jasa Keuangan (OJK); Merrill Lynch (Israel): Merrill Lynch
+Israel Limited, regulated by Israel Securities Authority; Merrill Lynch (Russia): OOO Merrill Lynch Securities, Moscow, regulated by the Central Bank of the Russian Federation; Merrill Lynch
+(DIFC): Merrill Lynch International (DIFC Branch), regulated by the Dubai Financial Services Authority (DFSA); Merrill Lynch (Spain): Merrill Lynch Capital Markets Espana, S.A.S.V., regulated by
+Comisión Nacional del Mercado De Valores; Merrill Lynch (Brazil): Bank of America Merrill Lynch Banco Multiplo S.A., regulated by Comissão de Valores Mobiliários; Merrill Lynch KSA Company,
+Merrill Lynch Kingdom of Saudi Arabia Company, regulated by the Capital Market Authority.
+This research report: has been approved for publication and is distributed in the United Kingdom (UK) to professional clients and eligible counterparties (as each is defined in the rules of the
+FCA and the PRA) by MLI (UK) and Bank of America Merrill Lynch International Limited, which are authorized by the PRA and regulated by the FCA and the PRA, and is distributed in the UK to
+retail clients (as defined in the rules of the FCA and the PRA) by Merrill Lynch International Bank Limited, London Branch, which is authorized by the Central Bank of Ireland and subject to
+limited regulation by the FCA and PRA - details about the extent of our regulation by the FCA and PRA are available from us on request; has been considered and distributed in Japan by Merrill
+Lynch (Japan), a registered securities dealer under the Financial Instruments and Exchange Act in Japan; is issued and distributed in Hong Kong by Merrill Lynch (Hong Kong) which is regulated
+by HKSFC (research reports containing any information in relation to, or advice on, futures contracts are not intended for issuance or distribution in Hong Kong and are not directed to, or
+intended for issuance or distribution to, or use by, any person in Hong Kong); is issued and distributed in Taiwan by Merrill Lynch (Taiwan); is issued and distributed in India by DSP Merrill Lynch
+(India); and is issued and distributed in Singapore to institutional investors and/or accredited investors (each as defined under the Financial Advisers Regulations) by Merrill Lynch International
+Bank Limited (Merchant Bank) (MLIBLMB) and Merrill Lynch (Singapore) (Company Registration Nos F 06872E and 198602883D respectively). MLIBLMB and Merrill Lynch (Singapore) are
+regulated by MAS. Bank of America N.A., Australian Branch (ARBN 064 874 531), AFS License 412901 (BANA Australia) and Merrill Lynch Equities (Australia) Limited (ABN 65 006 276 795), AFS
+License 235132 (MLEA) distribute this report in Australia only to 'Wholesale' clients as defined by s.761G of the Corporations Act 2001. With the exception of BANA Australia, neither MLEA nor
+any of its affiliates involved in preparing this research report is an Authorised Deposit-Taking Institution under the Banking Act 1959 nor regulated by the Australian Prudential Regulation
+Authority. No approval is required for publication or distribution of this report in Brazil and its local distribution is by Merrill Lynch (Brazil) in accordance with applicable regulations. Merrill Lynch
+(DIFC) is authorized and regulated by the DFSA. Research reports prepared and issued by Merrill Lynch (DIFC) are done so in accordance with the requirements of the DFSA conduct of business
+rules. Bank of America Merrill Lynch International Limited, Frankfurt Branch (BAMLI Frankfurt) distributes this report in Germany and is regulated by BaFin.
+This research report has been prepared and issued by MLPF&S and/or one or more of its non-US affiliates. MLPF&S is the distributor of this research report in the US and accepts full
+responsibility for research reports of its non-US affiliates distributed to MLPF&S clients in the US. Any US person receiving this research report and wishing to effect any transaction in any
+security discussed in the report should do so through MLPF&S and not such foreign affiliates. Hong Kong recipients of this research report should contact Merrill Lynch (Asia Pacific) Limited in
+respect of any matters relating to dealing in securities (and not futures contracts) or provision of specific advice on securities (and not futures contracts). Singapore recipients of this research
+report should contact Merrill Lynch International Bank Limited (Merchant Bank) and/or Merrill Lynch (Singapore) Pte Ltd in respect of any matters arising from, or in connection with, this
+research report.
+General Investment Related Disclosures:
+Taiwan Readers: Neither the information nor any opinion expressed herein constitutes an offer or a solicitation of an offer to transact in any securities or other financial instrument. No part of
+this report may be used or reproduced or quoted in any manner whatsoever in Taiwan by the press or any other person without the express written consent of BofA Merrill Lynch.
+Cause and Effect | 13 February 2017 9
+This research report provides general information only. Neither the information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities or
+other financial instrument or any derivative related to such securities or instruments (e.g., options, futures, warrants, and contracts for differences). This report is not intended to provide
+personal investment advice and it does not take into account the specific investment objectives, financial situation and the particular needs of any specific person. Investors should seek
+financial advice regarding the appropriateness of investing in financial instruments and implementing investment strategies discussed or recommended in this report and should understand
+that statements regarding future prospects may not be realized. Any decision to purchase or subscribe for securities in any offering must be based solely on existing public information on such
+security or the information in the prospectus or other offering document issued in connection with such offering, and not on this report.
+Securities and other financial instruments discussed in this report, or recommended, offered or sold by Merrill Lynch, are not insured by the Federal Deposit Insurance Corporation and are not
+deposits or other obligations of any insured depository institution (including, Bank of America, N.A.). Investments in general and, derivatives, in particular, involve numerous risks, including,
+among others, market risk, counterparty default risk and liquidity risk. No security, financial instrument or derivative is suitable for all investors. In some cases, securities and other financial
+instruments may be difficult to value or sell and reliable information about the value or risks related to the security or financial instrument may be difficult to obtain. Investors should note that
+income from such securities and other financial instruments, if any, may fluctuate and that price or value of such securities and instruments may rise or fall and, in some cases, investors may
+lose their entire principal investment. Past performance is not necessarily a guide to future performance. Levels and basis for taxation may change.
+Futures and options are not appropriate for all investors. Such financial instruments may expire worthless. Before investing in futures or options, clients must receive the appropriate risk
+disclosure documents. Investment strategies explained in this report may not be appropriate at all times. Costs of such strategies do not include commission or margin expenses.
+BofA Merrill Lynch is aware that the implementation of the ideas expressed in this report may depend upon an investor's ability to "short" securities or other financial instruments and that such
+action may be limited by regulations prohibiting or restricting "shortselling" in many jurisdictions. Investors are urged to seek advice regarding the applicability of such regulations prior to
+executing any short idea contained in this report.
+This report may contain a trading idea or recommendation which highlights a specific identified near-term catalyst or event impacting a security, issuer, industry sector or the market generally
+that presents a transaction opportunity, but does not have any impact on the analyst’s particular “Overweight” or “Underweight” rating (which is based on a three month trade horizon). Trading
+ideas and recommendations may differ directionally from the analyst’s rating on a security or issuer because they reflect the impact of a near-term catalyst or event.
+Foreign currency rates of exchange may adversely affect the value, price or income of any security or financial instrument mentioned in this report. Investors in such securities and instruments
+effectively assume currency risk.
+UK Readers: The protections provided by the U.K. regulatory regime, including the Financial Services Scheme, do not apply in general to business coordinated by BofA Merrill Lynch entities
+located outside of the United Kingdom. BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+MLPF&S or one of its affiliates is a regular issuer of traded financial instruments linked to securities that may have been recommended in this report. MLPF&S or one of its affiliates may, at any
+time, hold a trading position (long or short) in the securities and financial instruments discussed in this report.
+BofA Merrill Lynch, through business units other than BofA Merrill Lynch Global Research, may have issued and may in the future issue trading ideas or recommendations that are inconsistent
+with, and reach different conclusions from, the information presented in this report. Such ideas or recommendations reflect the different time frames, assumptions, views and analytical
+methods of the persons who prepared them, and BofA Merrill Lynch is under no obligation to ensure that such other trading ideas or recommendations are brought to the attention of any
+recipient of this report.
+In the event that the recipient received this report pursuant to a contract between the recipient and MLPF&S for the provision of research services for a separate fee, and in connection
+therewith MLPF&S may be deemed to be acting as an investment adviser, such status relates, if at all, solely to the person with whom MLPF&S has contracted directly and does not extend
+beyond the delivery of this report (unless otherwise agreed specifically in writing by MLPF&S). MLPF&S is and continues to act solely as a broker-dealer in connection with the execution of any
+transactions, including transactions in any securities mentioned in this report.
+Copyright and General Information regarding Research Reports:
+Copyright 2017 Bank of America Corporation. All rights reserved. This research report is prepared for the use of BofA Merrill Lynch clients and may not be redistributed, retransmitted or
+disclosed, in whole or in part, or in any form or manner, without the express written consent of BofA Merrill Lynch. BofA Merrill Lynch research reports are distributed simultaneously to internal
+and client websites and other portals by BofA Merrill Lynch and are not publicly-available materials. Any unauthorized use or disclosure is prohibited. Receipt and review of this research report
+constitutes your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or information contained in this report (including any investment
+recommendations, estimates or price targets) without first obtaining expressed permission from an authorized officer of BofA Merrill Lynch.
+Materials prepared by BofA Merrill Lynch Global Research personnel are based on public information. Facts and views presented in this material have not been reviewed by, and may not reflect
+information known to, professionals in other business areas of BofA Merrill Lynch, including investment banking personnel. BofA Merrill Lynch has established information barriers between
+BofA Merrill Lynch Global Research and certain business groups. As a result, BofA Merrill Lynch does not disclose certain client relationships with, or compensation received from, such issuers in
+research reports. To the extent this report discusses any legal proceeding or issues, it has not been prepared as nor is it intended to express any legal conclusion, opinion or advice. Investors
+should consult their own legal advisers as to issues of law relating to the subject matter of this report. BofA Merrill Lynch Global Research personnel’s knowledge of legal proceedings in which
+any BofA Merrill Lynch entity and/or its directors, officers and employees may be plaintiffs, defendants, co-defendants or co-plaintiffs with or involving issuers mentioned in this report is based
+on public information. Facts and views presented in this material that relate to any such proceedings have not been reviewed by, discussed with, and may not reflect information known to,
+professionals in other business areas of BofA Merrill Lynch in connection with the legal proceedings or matters relevant to such proceedings.
+This report has been prepared independently of any issuer of securities mentioned herein and not in connection with any proposed offering of securities or as agent of any issuer of any
+securities. None of MLPF&S, any of its affiliates or their research analysts has any authority whatsoever to make any representation or warranty on behalf of the issuer(s). BofA Merrill Lynch
+Global Research policy prohibits research personnel from disclosing a recommendation, investment rating, or investment thesis for review by an issuer prior to the publication of a research
+report containing such rating, recommendation or investment thesis.
+Any information relating to the tax status of financial instruments discussed herein is not intended to provide tax advice or to be used by anyone to provide tax advice. Investors are urged to
+seek tax advice based on their particular circumstances from an independent tax professional.
+The information herein (other than disclosure information relating to BofA Merrill Lynch and its affiliates) was obtained from various sources and we do not guarantee its accuracy. This report
+may contain links to third-party websites. BofA Merrill Lynch is not responsible for the content of any third-party website or any linked content contained in a third-party website. Content
+contained on such third-party websites is not part of this report and is not incorporated by reference into this report. The inclusion of a link in this report does not imply any endorsement by or
+any affiliation with BofA Merrill Lynch. Access to any third-party website is at your own risk, and you should always review the terms and privacy policies at third-party websites before
+submitting any personal information to them. BofA Merrill Lynch is not responsible for such terms and privacy policies and expressly disclaims any liability for them.
+All opinions, projections and estimates constitute the judgment of the author as of the date of the report and are subject to change without notice. Prices also are subject to change without
+notice. BofA Merrill Lynch is under no obligation to update this report and BofA Merrill Lynch's ability to publish research on the subject issuer(s) in the future is subject to applicable quiet
+periods. You should therefore assume that BofA Merrill Lynch will not update any fact, circumstance or opinion contained in this report.
+Certain outstanding reports may contain discussions and/or investment opinions relating to securities, financial instruments and/or issuers that are no longer current. Always refer to the most
+recent research report relating to an issuer prior to making an investment decision.
+In some cases, an issuer may be classified as Restricted or may be Under Review or Extended Review. In each case, investors should consider any investment opinion relating to such issuer (or
+its security and/or financial instruments) to be suspended or withdrawn and should not rely on the analyses and investment opinion(s) pertaining to such issuer (or its securities and/or
+financial instruments) nor should the analyses or opinion(s) be considered a solicitation of any kind. Sales persons and financial advisors affiliated with MLPF&S or any of its affiliates may not
+solicit purchases of securities or financial instruments that are Restricted or Under Review and may only solicit securities under Extended Review in accordance with firm policies.
+Neither BofA Merrill Lynch nor any officer or employee of BofA Merrill Lynch accepts any liability whatsoever for any direct, indirect or consequential damages or losses arising from any use of
+this report or its contents.
+10 Cause and Effect | 13 February 2017

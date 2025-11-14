@@ -1,0 +1,1259 @@
+that disclosure is authorized to "the defendant or the defendant's attorney." It does not take a great deal of imagination to
+foresee problems arising from telling criminal defendants where the victims who will testify against them live. In fairness to the
+Advisory Committee, it was only tracking language used elsewhere in Rule 12. 202 All of Rule 12 should be redrafted to
+require disclosure only to defense counsel, rather than to the defendant personally. 203
+192
+88 F.3d 704, 710 (9th Cir. 1996).
+193
+Id. at 708 (internal quotation marks omitted).
+194
+Id. at 709.
+195
+Id. at 710.
+196
+834 F.2d 1277, 1281 (6th Cir. 1987)
+197
+Id. at 1282.
+198
+Id.
+199
+920 F.2d 1308, 1314 (7th Cir. 1990).
+200
+88 F.3d at 710.
+201
+18 U.S.C. § 3771(a)(1) (2006).
+202
+See, e.g., Fed. R. Crim. P. 12(a)(3).
+203
+Of course, if the defendant were acting pro se, then he would be counsel in the matter. See Faretta v. California, 422 U.S. 806 (1975).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *897
+Page 26 of 78
+This may be a convenient place to highlight another defect in the Advisory Committee's proposal - crime victims have no right
+to be heard on whether their address should be given to the defendant. As discussed shortly, 204 I had originally proposed
+allowing victims to be heard "on any matter directly affecting a victim's right" - for example, whether disclosing a victim's
+home address violates the victim's right to reasonable protection. The Advisory Committee waters down that proposal,
+recommending only that the victim must "be reasonably heard at any public proceeding in the district court concerning release,
+plea, or sentencing involving the crime." 205 Under the Advisory Committee's formulation, therefore, crime victims would
+seem to have no right to be heard on disclosure of their address. This is not a matter concerning "release, plea, or sentencing"
+and, in many cases, this issue will be decided by written pleadings rather than in a "public proceeding." Nothing better
+illustrates the unfairness of the Advisory Committee's proposals and their illegality under the CVRA than its refusal to
+guarantee that crime victims will be heard on the subject of whether their home address will be turned over to the defendants
+accused of victimizing them.
+Compounding all these problems is one more: The Advisory Committee appears to encourage the use of crime victim
+depositions or other face-to-face meetings between victims and defendants. In its proposed note to the amended rule, the
+Advisory Committee describes as one possible procedure for dealing with a defense request for a victim's home address that
+"the court might authorize the defendant and his counsel to meet with the victim in a manner and place designated by the court,
+rather than giving the defendant the name and address of victim." 206 This note raises a host of problems. Most importantly, a
+federal court lacks jurisdiction to require a crime victim to appear at a face-to-face, pretrial [*898] meeting with the defendant.
+The "federal courts are courts of limited jurisdiction," 207 and federal judges have no general power to compel private citizens
+to meet with defendants before a trial. 208 Moreover, the Advisory Committee seems to envision that such orders could issue
+without the victim even being heard on the subject, a deprivation of liberty without due process of law. 209
+Even if the court had authority and had considered a victim's arguments, a face-to-face meeting with the defendant raises other
+problems. Such a meeting is a deposition in all but name. Yet Rule 15 provides stringent limits on the circumstances in which a
+defendant can depose a victim. In particular, any deposition is limited to "exceptional circumstances" and a deposition for
+discovery purposes is not permitted. 210 The Advisory Committee Note suggesting a meeting between a victim and a defendant
+does an end run around these limitations. 211
+In light of all these concerns, the best approach is simply to strike the existing requirement that a victim's address and phone
+number be turned over as part of an alibi defense, as I proposed. It should also be noted that this proposal raises no due process
+concerns that might stem from a one-sided reciprocal discovery rule. My proposal applies even handedly to both prosecution
+and the defense. Neither side is required to disclose the address or telephone number of a victim, thus complying with the
+Supreme Court's instruction that "in the absence of a strong showing of state interests to the contrary, discovery must be a two-
+204
+See infra notes 528-539 and accompanying text (discussing proposed Rule 60(a)(3)).
+205
+Proposed Amendments, supra note 71, R. 60, at 16.
+206
+Id. at 6.
+207
+Rasul v. Bush, 542 U.S. 466, 490 (2004) (quoting Kokkenen v. Guardian Life Ins. Co. of Am., 511 U.S. 375, 377 (1994)).
+208
+See, e.g., State ex rel. Beach v. Norblad, 781 P.2d 349, 350 (Or. 1989) (reversing trial court order requiring crime victim to allow defense
+counsel to examine her home for evidence; victim "is under no obligation to obey an order that the defendant trial judge lacked authority to
+issue"); State v. Gabrielson, 464 N.W.2d 434, 438 (Iowa 1990) (finding no constitutional, statutory, or other authority for trial court to order a
+psychiatric examination of a sexual abuse victim).
+209
+See U.S. Const. amend. XIV.
+210
+2 Charles Alan Wright, Federal Practice and Procedure (Criminal) § 241, at 11 (2000 & Supp. 2006); see, e.g., In re United States, 878
+F.2d 153, 157 (5th Cir. 1989).
+211
+Apparently in response to my arguments here, the Advisory Committee Note has been amended. See infra Afterword.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *898
+Page 27 of 78
+way street." 212 In any event, protecting victims from serious harm is certainly a strong state interest that would justify any
+incidental effect on defense preparations for trial.
+Finally, however one ends up on the proper formulation of the address issue under Rule 12.1 (governing alibi defenses), the
+same formulation ought to be used in Rule 12.3 (governing public-authority defenses). Although I made this recommendation
+in a previous article, 213 the Advisory Committee appears to have overlooked this parallel provision in need of amendment. So
+that it is not overlooked again, I will set out the proposal in full. Tracking my recommendations for Rule 12.1, I recommended
+a parallel amendment to Rule 12.3 as follows:
+[*899]
+Rule 12.3 Notice of a Public-Authority Defense
+… .
+(4) Disclosing Witnesses.
+(A) Government's Request. An attorney for the government may request in writing that the defendant disclose the name,
+address, and telephone number of each witness and the address and telephone number of each witness (other than the victim)
+the defendant intends to rely on to establish a public-authority defense. An attorney for the government may serve the request
+when the government serves its response to the defendant's notice under Rule 12.3(a)(3), or later, but must serve the request no
+later than 20 days before trial.
+(B) Defendant's Response. Within 7 days after receiving the government's request, the defendant must serve on an attorney for
+the government a written statement of the name, address and telephone number of each witness. and the address and telephone
+number of each witness (other than the victim).
+(C) Government's Reply. Within 7 days after receiving the defendant's statement, an attorney for the government must serve on
+the defendant or the defendant's attorney a written statement of the name, address, and telephone number of each witness, and
+the address and telephone number of each witness (other than the victim), the government intends to rely on to oppose the
+defendant's public-authority defense.
+(b) Continuing Duty to Disclose. Both an attorney for the government and the defendant must promptly disclose in writing to
+the other party the name, address, and telephone number of any additional witness and the address and telephone number of
+each witness (other than the victim) if:
+(1) the disclosing party learns of the witness before or during trial; and
+(2) the witness should have been disclosed under Rule 12.3(a)(4) if the disclosing party had known of the witness earlier. 214
+[*900] Rule 15 - Victims' Right to Attend Pre-Trial Depositions The Proposals:
+I proposed amending Rule 15 to allow victims to attend any public depositions as follows:
+(i) Victims Can Attend. Victims can attend any public deposition taken under this rule under the same conditions as govern a
+victim's attendance at trial. 215
+212
+Wardius v. Oregon, 412 U.S. 470, 475 (1973).
+213
+Cassell, Proposed Amendments, supra note 4, at 873.
+214
+Apparently in response to my argument, the Advisory Committee has just proposed an amendment to Rule 12.3 paralleling its
+amendment to Rule 12.1. See infra notes 585-587 and accompanying text.
+215
+Cassell, Proposed Amendments, supra note 4, at 874.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *900
+Page 28 of 78
+The Advisory Committee did not propose any change to Rule 15. 216
+Discussion:
+Rule 15 authorizes depositions for the purpose of preserving evidence for trial, 217 thus, such depositions are an extension of
+the trial. Victims, accordingly, have the right to attend such proceedings, if they are public, 218 under the same conditions
+governing their attendance at trial. To avoid any confusion over this issue, the proposed rule change directly states that fact.
+The Advisory Committee declined to adopt this recommendation, concluding that depositions "do not fall within the CVRA,
+which refers only to the victim's right not to be excluded from "public court proceedings.'" 219 But here, again, the Committee
+has taken too narrow a view of the CVRA. It is simply unfair to victims to exclude them from a deposition in a criminal case -
+and, thus, a violation of the CVRA's command that victims be treated with fairness.
+The simplest proof of this conclusion is to consider the rights of criminal defendants at depositions. Rule 15 directly guarantees
+criminal defendants a right to attend a deposition. 220 Originally the rule was silent on a defendant's presence, but in the 1975
+enactment of the rule, 221 a defendant was guaranteed the right to attend. 222 Presumably, a major reason the Advisory
+Committee added this language [*901] was to ensure fairness to defendants. 223 Indeed, after an indictment, "Rule 15
+depositions might constitute a "critical stage' in a prosecution - requiring the presence of counsel - because of the potential
+consequences of such depositions at trial." 224 Just as the Advisory Committee acted in 1975 to ensure defendants were treated
+fairly at criminal depositions, it should now do the same for victims.
+Victims also deserve the right to attend pretrial depositions because they are now participants in the criminal justice process. As
+the Fifth Circuit explained in reversing a trial court which had allowed an ex parte deposition, "depositions are never ordered
+where one party to the suit can be present, ask the questions, and hear the answers, and the opposing party in the case is not
+only prevented from being present and asking questions, but is also denied even the opportunity to know what the questions
+and answers are." 225 The Fifth Circuit further noted that "such a procedure is not only wholly unauthorized, it is contrary to
+the most basic presuppositions of our adversary system of litigation." 226 Because a crime victim is now "an independent
+216
+Proposed Amendments, supra note 71.
+217
+See, e.g., United States v. Edwards, 69 F.3d 419, 437 (10th Cir. 1994).
+218
+Cf. United States v. L.M., 425 F. Supp. 2d 948, 957 (N.D. Iowa 2006) (finding juvenile proceedings to be covered by the CVRA only
+insofar as they are public court proceedings).
+219
+CVRA Subcommittee Memo, supra note 66, at 17 (emphasis in original) (quoting 18 U.S.C. § 3771(a)(3)(2006)).
+220
+Fed. R. Crim. P. 15(d)(1)-(2).
+221
+The Advisory Committee recommended various changes to the rule in 1974, which Congress modified somewhat in 1975. See Wright,
+supra note 210, § 241, at 7-8. The changes discussed in this Article were initiated by the Advisory Committee.
+222
+Wright, supra note 210, § 244, at 37.
+223
+Part of the rationale may have also been to facilitate admission of the deposition testimony at trial, as a defendant has a right to confront
+adverse witnesses at trial. But the Confrontation Clause does not always guarantee defendants a right to attend a deposition, see, for example,
+United States v. Salim, 855 F.2d 944, 955 (2d Cir. 1988), so the defendant's right to attend the deposition must rest on a broader justification
+than implementing constitutional requirements.
+224
+United States v. Hayes, 231 F.3d 663, 674 (9th Cir. 2000).
+225
+In re United States, 878 F.2d 153, 157 (5th Cir. 1989) (emphasis in original).
+226
+Id.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *901
+Page 29 of 78
+participant in the proceedings," 227 the same considerations demand that victims be able to attend a pretrial deposition. To be
+sure, crime victims (like other members of the public) will have the opportunity to hear deposition testimony when it is
+introduced at trial. 228 But that may be a pale substitute for actually observing a witness testify in person. 229 Victims may
+also be able to facilitate the truth-seeking process by watching witnesses at the deposition and alerting prosecutors or defense
+attorneys to any false statements that are being made. 230 Rule 15 should, therefore, be amended to ensure that crime victims
+have a right to attend any deposition.
+Rule 17 - Victims' Right to Notice of Subpoena of Confidential Information
+The Proposals:
+I recommended amending Rule 17 to ensure that subpoenas to third parties seeking personal and confidential information about
+crime victims would not be [*902] abused. Initially, I proposed requiring a court determination of relevance at trial and notice
+to a victim as follows:
+Rule 17(h)(2) - Victim Information. After indictment, no record or document containing personal or confidential information
+about a victim may be subpoenaed without a finding by the court that the information is relevant to trial and that compliance
+appears to be reasonable. If the court makes such a finding, notice shall then be given to the victim, through the attorney for the
+government or for the victim, before the subpoena is served. On motion made promptly by the victim, the court may quash or
+modify the subpoena if compliance would be unreasonable or oppressive. 231
+The Advisory Committee proposed more limited protections for such information as follows:
+Rule 17(c)(3) - Subpoena for Personal or Confidential Information About Victim. After a complaint, indictment, or information
+is filed, a subpoena requiring the production of personal or confidential information about a victim may not be served on a third
+party without a court order, which may be granted ex parte. Before entering the order, the court may require that notice be
+given to the victim so that the victim has an opportunity to move to quash or modify the subpoena. 232
+The Advisory Committee also proposed the following note to accompany the rule change:
+Subdivision(c)(3). This amendment implements the Crime Victims' Rights Act, codified at 18 U.S.C. § 3771(a)(8), which
+states that victims have a right to respect for their "dignity and privacy." The rule provides a protective mechanism when the
+defense subpoenas a third party to provide personal or confidential information about a victim. Third party subpoenas raise
+special concerns because a third party may not assert the victim's interests, and the victim may be unaware of the subpoena.
+Accordingly, the amendment requires judicial approval before service of a subpoena seeking personal or confidential
+information about a victim from a third party. The amendment also provides a mechanism for notifying the victim, and makes
+it clear that a victim may move to quash or modify the subpoena under Rule 17(c)(2) on the grounds that it is unreasonable or
+oppressive.
+The amendment applies only to subpoenas served after a complaint, indictment, or information has been filed. It has no
+application to grand [*903] jury subpoenas. When the grand jury seeks the production of personal or confidential information,
+grand jury secrecy affords substantial protection for the victim's privacy and dignity interests.
+227
+150 Cong. Rec. S10911 (daily ed. Oct. 9, 2004) (statement of Sen. Kyl).
+228
+See United States v. McDougal, 103 F.3d 651, 659 (8th Cir. 1996).
+229
+See generally Douglas E. Beloof & Paul G. Cassell, The Victim's Right to Attend the Trial: The Reascendant National Consensus, 9
+Lewis & Clark L. Rev. 481, 534-38 (2005) (discussing reasons victims need to hear testimony in person).
+230
+See id. at 544-45 (advancing this argument about victims attending trials).
+231
+Cassell, Proposed Amendments, supra note 4, at 875.
+232
+Proposed Amendments, supra note 71, R. 17(c)(3), at 7.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *903
+Page 30 of 78
+The amendment seeks to protect the interests of the victim without unfair prejudice to the defense. It permits the defense to
+seek judicial approval of the subpoena ex parte, because requiring the defendant to make and support the request in an
+adversarial setting may force premature disclosure of defense strategy to the government. The court may approve or reject the
+subpoena ex parte, or it may provide notice to the victim, who may then move to quash. In exercising its discretion, the court
+should consider the relevance of the subpoenaed material to the defense, whether giving notice would prejudice the defense,
+and the degree to which the subpoenaed material implicates the privacy and dignity interests of the victim. 233
+Having seen the Advisory Committee proposal and accompanying note, I am concerned that the limits on subpoenas found in
+the United States Supreme Court's decision in United States v. Nixon 234 might be vitiated by a broad rule. To ensure courts
+consistently apply Nixon's substantive and procedural standards to victim-related subpoenas, I am modifying my earlier
+proposal to require a court determination of specificity, relevance, and admissibility at trial, as well as notice to the victim, as
+follows (new language italicized):
+Rule 17(c)(3) - Subpoena for Personal or Confidential Information About Victim. After a complaint, indictment, or information
+is filed, no record or document containing personal or confidential information about a victim may be subpoenaed without a
+finding by the court that the information is specifically described, relevant to and admissible at trial, and that compliance
+appears to be reasonable. If the court makes such a tentative finding, notice shall then be given to the victim, through the
+attorney for the government or for the victim, before the subpoena is served. On motion made promptly by the victim, the court
+may quash or modify the subpoena if compliance would be unreasonable or oppressive and may ask the court to revisit any
+tentative findings. A subpoena shall not be used for discovery purposes or to obtain information for impeachment at trial.
+Discussion:
+The issues involved in the Rule 17 amendments are complicated and very important. It is useful to divide the discussion into
+three parts: (1) the problem the proposals address; (2) the procedural flaws in the Advisory Committee's proposal [*904]
+allowing ex parte subpoenas; and (3) the general lack of authority for subpoenas seeking crime victim information.
+(1) The Problem of Subpoenaing Confidential Victim Information
+The existing rules governing subpoenas are flawed because they allow the parties to subpoena personal or confidential
+information about a victim from third parties without the victim knowing. This issue was highlighted recently in the notorious
+Utah state criminal proceedings involving the kidnapping of Elizabeth Smart. 235 Attorneys for Elizabeth's alleged kidnapper
+subpoenaed class records from her high school (class and teacher lists, report cards, and disciplinary and attendance records)
+and medical records from her hospital. 236 The school turned over the requested records without notice to the Smart family,
+while the hospital refused to turn over the requested records. When Elizabeth's father learned that her school records had been
+turned over to defense counsel, he filed a motion to have the records returned to the school. Prosecutors in the case also
+objected that they were not given an opportunity to file a motion to quash prior to the production of the records. 237 The matter
+is apparently still under review in the state courts.
+The problem that occurred in the Smart case under the Utah state rules could occur under the federal rules, as the attorney for
+Elizabeth Smart pointed out to the Advisory Committee in a letter. 238 The federal rules currently permit an objection from the
+233
+Id.
+234
+418 U.S. 683, 700-01 (1974).
+235
+See generally Ed Smart & Lois Smart with Laura Morton, Bringing Elizabeth Home: A Journey of Faith and Hope (2003) (discussing the
+Smart Case).
+236
+Stephen Hunt, Defense Blasted for Obtaining Smart's School Records, Salt Lake Trib., Jan. 14, 2005, at B2.
+237
+Pat Reavy, Quash Smart Subpoenas, DA Says, Deseret Morning News, Feb. 1, 2005, at B3.
+238
+See Letter from Gregory G. Skordas, attorney for Elizabeth Smart, to Judge Susan Bucklew (May 23, 2005) (on file with author).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *904
+Page 31 of 78
+witness to whom the subpoena for documents or records is issued, 239 but there is no provision for notifying the interested
+party (e.g., the victim) when personal or confidential information is subpoenaed from a third party.
+A recent federal case illustrates the problem under the current rules. 240 In an assault case, defense counsel used Federal Rule
+of Criminal Procedure 17(c) to obtain a subpoena for the victim's medical records held by the Veterans Administration. 241
+The federal district judge approved the subpoena and issued an order, ex parte and under seal, directing the VA to provide
+defense counsel with [*905] the records. 242 Defense counsel then obtained the records, all without knowledge of the
+prosecutor or the victim. 243 These records included extraordinarily intimate information about the victim, including sensitive
+medical conditions, medications, psychiatric counseling, and the like. 244 The matter came to the prosecutor's attention - and,
+thus, the victim's attention - only because defense counsel "warned" the prosecutor, while attempting to negotiate a favorable
+plea, that taking the case to trial would cause irreparable harm to the victim because, by the time the defense attorney got
+finished with the victim, the victim would never trust a therapist again. 245 All this happened without any notice to the victim
+and without any opportunity to present arguments against disclosure of this sensitive information. 246
+Allowing such subpoenas to be delivered without notice to the victim violates the CVRA's provisions guaranteeing victims the
+rights to be treated "with respect for the victim's dignity and privacy" as well as "with fairness." 247 With respect to the
+protection for dignity and privacy, allowing subpoenas to go directly to third-party custodians of records could provide no
+protection if the custodian is disinclined to protect the victim's privacy. Subpoenas without notice to victims also raise fairness
+concerns, particularly if issues implicating the right of privacy are concerned. 248
+(2) Procedural Problems with the Advisory Committee Approach
+To ensure protection of crime victims' rights when subpoenas for confidential information are issued, it is necessary to change
+the federal rules. I proposed an amendment to guarantee notice to crime victims as well as a court determination that the
+information was relevant at trial before victims' personal and confidential information could be subpoenaed. The Advisory
+Committee agreed that Rule 17 needed to be amended, but it proposed more limited protections for victims. The Committee
+would require court approval before any subpoena issues to a third party seeking information about a victim. However, the
+court would have discretion about whether to give the victim an opportunity to be heard on the subpoena; and there are no
+substantive limits on the kinds of information that defendants can subpoena.
+Turning first to the procedural problems with the Advisory Committee proposal, the Committee would remit the entire issue of
+whether to issue a subpoena for personal or confidential information (and, indeed, whether to even tell a victim about such a
+subpoena) to the discretion of the court. The only protection the Advisory Committee offers is the requirement of a court order
+[*906] approving such a subpoena. The committee gives courts discretion to notify the victim or simply issue the subpoena ex
+parte.
+239
+Fed. R. Crim. P. 17(c).
+240
+See E-mail from Rod Rosenstein, U.S. Attorney for the District of Maryland, to Russell Butler, Maryland Crime Victims' Resource
+Center, Inc. (Jan. 3, 2007), reprinted in Testimony of Russell Butler to the Federal Criminal Rules Advisory Comm. App. A (Jan. 19, 2007),
+available at http://www.uscourts.gov/rules/CR%20Comments%202006/06-CR-006.pdf.
+241
+Id.
+242
+Id.
+243
+Id.
+244
+Id.
+245
+Id.
+246
+Id.
+247
+18 U.S.C. § 3771(a)(8) (2006).
+248
+See infra notes 347-351 and accompanying text.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *906
+Page 32 of 78
+Subpoenas issued ex parte are plainly unfair to victims. When a victim's personal or confidential information is at stake, it is
+truly hard to understand how anyone could argue that allowing it to be turned over to the defense without any opportunity to be
+heard treats victims "fairly," as the CVRA requires.
+The Advisory Committee does not clearly explain when a court should proceed ex parte and when it should follow the standard
+practice of giving notice to the victim as the affected party. The only justification the Advisory Committee gives for the
+extraordinary step of allowing ex parte procedures is to avoid forcing "premature disclosure of defense strategy to the
+government." 249 But when a victim's confidential information is at stake, some interest in concealing "strategy" from the
+opposing party can hardly be sufficient grounds for ex parte issuance of a subpoena. As the Supreme Court has bluntly
+explained, our adversary system is not "a poker game in which players enjoy an absolute right always to conceal their cards
+until played." 250
+Allowing ex parte procedures violates basic principles of fairness. The American Bar Association raised this point quite
+effectively in its comments to the Advisory Committee on Rule 17. 251 The ABA explained that Canon 3(B)(7) of the Model
+Code of Judicial Conduct provides in pertinent part that "[a] judge shall accord to every person who has a legal interest in the
+proceedings, or that person's lawyer, the right to be heard according to law." 252 Rule 17 would allow that precept to be
+violated by denying some victims a chance to heard before compromising their legal rights to confidentiality in personal and
+confidential information. Similarly, the ABA noted that its Model Code of Judicial Conduct generally forbids courts from
+considering ex parte communications. 253 Rule 17, of course, flies in that face of that well-established prohibition. While the
+Model Code of Judicial Conduct is not binding on federal courts, its principles have generally been viewed as instructive. 254
+Defense attorneys would also be treading on ethical thin ice under proposed Rule 17. The Model Rules of Professional Conduct
+and the ABA Criminal Justice Standards both provide that "in representing a client, a lawyer shall not … use methods of
+obtaining evidence that violates the legal rights of … a [third] [*907] person." 255 When defense attorneys obtain ex parte
+subpoenas for a victim's confidential information, they may very well violate the rights of the victim, such as the right to
+confidentiality preserved in the doctor-patient privilege or psychotherapist privilege.
+For reasons such as these, the federal rape shield rule (among other examples) properly requires defendants to always provide
+notice to the court - and to the victim - before seeking to introduce evidence about a rape victim's prior sexual history. 256 The
+rape shield rule does not create any exception for situations that might lead to disclosure of defense "strategy." Rule 17 should
+follow the same approach and insure that victims always have an opportunity to contest disclosure of their personal and
+confidential information in court.
+Any defense interest in withholding strategy must give way to facially neutral rules. Both my proposed amendment and the
+Advisory Committee's proposed amendment apply evenhandedly to both the prosecution and the defense. Thus, the
+amendments are not designed to force disclosure of defense strategy, as they may also force disclosure of prosecution strategy
+249
+Proposed Amendments, supra note 71, R. 17, at 8 (emphasis added).
+250
+Williams v. Florida, 399 U.S. 78, 82 (1970) (citing William J. Brennan, The Criminal Prosecution: Sporting Event or Quest for Truth?,
+1963 Wash. U. L.Q. 279, 292).
+251
+Letter from Robert M.A. Johnson, Chair, ABA Criminal Justice Section, to Hon. Peter G. McCabe, Sec'y of the Comm. on Rules of
+Practice and Procedure (Feb. 1, 2007), available at www.uscourts.gov/rules/CR%20Comments%202006/06-CR-028.pdf.
+252
+Id. (citing Model Code of Jud. Conduct Canon 3(B)(7) (2004)).
+253
+Id.
+254
+See Debra Lyn Bassett, Recusal and the Supreme Court, 56 Hastings L.J. 657, 678-79 (2005) (citing United States v. Will, 449 U.S. 200,
+211-12 & n.12 (1980); Hanrahan v. Hampton, 446 U.S. 1301, 1301 (1980)).
+255
+Model R. Prof'l Conduct 4.4(a) (2007); see also ABA Criminal Justice Study, Standard 4-4.3 (1993).
+256
+See Fed. R. Evid. 412(c)(1)(B).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *907
+Page 33 of 78
+if it is the prosecution who subpoenas confidential victim information. Due process is satisfied as long as the prosecution and
+the defense have reciprocal rights and courts apply the Rules consistently. 257
+The objectionable feature of the Advisory Committee proposal is that the subpoena could be issued without notice to a crime
+victim. A narrower issue is whether certain pleadings could be filed on this question on an ex parte basis. Such ex parte filing
+might be appropriate, in the sense that once the court gives notice that it is considering whether to issue a subpoena, then the
+defendant, the government, or, indeed, the victim might wish to file parts of their pleadings under seal for good cause shown.
+Requests for such sealing could be handled in the ordinary course of litigation - once the victim knew that such litigation was
+occurring.
+Even if there is some tangential defense interest in conceding strategy, the Advisory Committee proposal addresses it in the
+most haphazard way. Consider the Elizabeth Smart example mentioned earlier, in which the defense sent ex parte subpoenas to
+Elizabeth's school and hospital. Under the Advisory Committee's proposal, a court could still decide to approve those
+subpoenas ex parte to prevent disclosure of some secret defense "strategy." But once the school and the hospital received the
+subpoenas, nothing would bar them from revealing the subpoenas' existence to the victim - and, indeed, the world. Thus, the
+interest the Advisory Committee purports to protect (concealing defense trial strategy) would actually be [*908] protected
+only when the third party, for whatever reason, chose not reveal the subpoena. In the Smart case, for instance, the school did
+not reveal the defense "strategy" 258 because it simply handed the materials over to the defense - in possible contravention of
+the Family Educational Rights and Privacy Act. 259 But the hospital refused to hand over Elizabeth's records and contacted the
+Smart family, which ultimately led to a public outcry over the subpoenas. There is no rhyme or reason to a procedure that is
+supposed to protect defense strategy but that actually turns on the happenstance of whether third parties choose to notify crime
+victims or the public about subpoenas they receive.
+The haphazardness of the Advisory Committee's approach becomes even clearer when one realizes that defense "strategy" can
+be protected only where the confidential information happens to rest in the hands of a third party rather than the victim herself.
+Consider, for example, a rape victim who has talked to a rape crisis counselor, who takes notes of the meeting. A defendant
+might attempt to subpoena those notes from the counselor. 260 But if the counselor had previously transferred the notes back to
+the rape victim, then the subpoena would have to be directed to the victim herself - and the victim could then move to quash the
+subpoena. This is not some academic hypothetical, as rape counselors in Pennsylvania in the 1980s used precisely this
+procedure to protect their clients against abusive defense subpoenas. 261 Moreover, rape counselors - and, indeed, most third
+parties involved in maintaining the personal and confidential information of victims - will probably have very strong incentives
+257
+See Wardius v. Oregon, 412 U.S. 470, 475-76 (1973); United States v. Bahamonde, 445 F.3d 1225, 1229 (9th Cir. 2006); Newman v.
+Hopkins, 192 F.3d 1132, 1135 (8th Cir. 1999), vacated 529 U.S. 1084 (2000); United States ex rel. Veal v. DeRobertis, 693 F.2d 642, 646-
+47 (7th Cir. 1982). Indeed, such reciprocity may not even be required if "significant governmental interests" support its omission. See
+Wardius, 412 U.S. at 476.
+258
+Such as it was - apparently the only reason for the subpoenas was to try and dig up some dirt on the young kidnapping victim. See
+Stephen Hunt, Defense Blasted for Obtaining Smart's School Records, Salt Lake Trib., Jan. 14, 2005, at B2.
+259
+20 U.S.C. § 1232g(b) (2006).
+260
+As will be discussed shortly in the next Section of this Article, such a subpoena would likely be inappropriate for substantive reasons as
+well. See supra Part IV, § 3.
+261
+The Pennsylvania Supreme Court initially found that records held by rape counseling centers were subject to only limited protection from
+defense subpoenas. See In re Pittsburgh Action Against Rape, 428 A.2d 126, 132 (Pa. 1981). The results of that unfortunate decision were
+swift. Rape victims requested the return of their records from the center and, in some cases, even requested termination of the counseling
+relationship. Commonwealth v. Wilson, 602 A.2d 1290, 1294 n.6 (Pa. 1992); Tera Jckowski Peterson, Comment, Distrust and Discovery: The
+Impending Debacle in Discovery of Rape Victims' Counseling Records in Utah, 2001 Utah L. Rev. 695; Beth Stouder, Note, Pennsylvania
+Establishes New Privilege for Communications Made to a Rape Crisis Center Counselor - In re Pittsburgh Action Against Rape, 55 Temp.
+L.Q. 1124, 1146 (1982). In light of this serious problem, the Pennsylvania legislature enacted a new, absolute privilege protecting
+communications to rape crisis counselors from any disclosure without the consent of the victim. See 42 Pa. Cons. Stat. § 5945.1(b) (2000)
+(upheld against constitutional attack in Wilson, 602 A.2d at 1297).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *908
+Page 34 of 78
+for disclosing the fact of the subpoena to the victim, because of both ethical and legal considerations. 262 Thus, the Advisory
+[*909] Committee's use of ex parte procedures will only randomly protect defense strategy from disclosure.
+The impossibility of truly ex parte procedures for Rule 17 subpoenas to third-parties has been recognized by several court
+decisions. For example, in United States v. Urlacher, the defendant sought to use Rule 17 to subpoena financial, family, and
+employment information concerning an individual believed by the defendant to be the government's main witness at trial. 263
+The court declined to approve the subpoena ex parte, explaining that the custodian of the records "has a Rule 17(c) motion to
+quash or modify, and one cannot easily imagine that such a motion should be heard and decided in secret … and hidden from
+the opposing party and the public." 264 The court went on to explain the constitutional difficulties presented by such an
+approach, given that the First Amendment creates a general public right of access to court proceedings. 265
+Even if there is some arguable defense interest in not disclosing "strategy," that interest must be subordinated to the compelling
+victim interests that are at stake. My proposal (and the Advisory Committee's) applies to third-party subpoenas directed to the
+victim's personal or confidential information. Congress has commanded that victims must not only be treated with "fairness,"
+but also "with respect for the victim's dignity and privacy." 266 Protecting dignity and privacy requires a hearing when
+confidential information is at stake.
+The Advisory Committee Note on its proposal does obliquely deal with this issue in a way that misstates the relevant legal
+landscape. The Note accompanying the proposed Rule 17 amendment states vaguely that, "in exercising its discretion [about
+whether to give notice of a request for a subpoena], the court should consider the relevance of the subpoenaed material to the
+defense, whether giving notice would prejudice the defense, and the degree to which the subpoenaed material implicates the
+privacy and dignity interests of the victim." 267 This imprecise listing of discretionary factors misstates the law. The court is
+not required to "consider" some victim-related factors and then make a discretionary decision. The CVRA commands that
+victims have "the right" to "be treated … with respect for the victim's dignity and privacy." 268 Thus, if withholding notice to a
+victim fails to respect the victim's dignity and privacy (as I believe it invariably will), then the court must give notice - end of
+story. 269 The CVRA flatly directs: [*910] "In any court proceedings involving an offense against a crime victim, the court
+shall ensure that the crime victim is afforded the rights described [in the CVRA]." 270
+The Advisory Committee Note is also an incomplete listing of the victim's rights that are implicated in decisions about issuing
+subpoenas. From a procedural perspective, if the court holds a hearing on whether to issue the subpoena, the CVRA entitles a
+262
+Cf. 42 U.S.C. § 254b(k)(3)(B) (2006) (enforcing confidentiality of medical records).
+263
+136 F.R.D. 55, 551-57 (W.D.N.Y. 1991).
+264
+Id. at 556.
+265
+Id. at 556-57. But cf. United States v. Beckford, 994 F. Supp. 1010, 1027 (E.D. Va. 1997) (noting that Urlacher states the majority rule,
+but concluding that ex parte procedures should be permitted in "exceptional circumstances").
+266
+18 U.S.C. § 3771(a)(8).
+267
+See Proposed Amendments, supra note 71, R. 17, at 8.
+268
+18 U.S.C. § 3771(a)(8).
+269
+In theory, the Advisory Committee could argue that the CVRA is unconstitutional in this respect and therefore must give way. But the
+CVRA is presumed to be constitutional and the caselaw strongly supports the Act. See, e.g., Wardius v. Oregon, 412 U.S. 470, 475 (1973)
+(finding no constitutional barrier to reciprocal discovery rules that act as a "two-way street"); cf. Forsythe v. Walters, 38 F. App'x 734, 737
+(3d Cir. 2002) (finding that "application of the CVRA does not exact a punishment and therefore the CVRA can not violate the Ex Post Facto
+Clause").
+270
+18 U.S.C. § 3771(b)(1) (emphasis added).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *910
+Page 35 of 78
+crime victim to notice of that proceeding 271 and to an opportunity to attend that hearing, unless the victim's testimony would
+clearly be materially affected from attending the hearing. 272 From a substantive perspective, subpoenas for personal or
+confidential materials are often outside the scope of legitimate discovery, as will be explained in the next section. Such
+subpoenas can also implicate a victim's right to "be reasonably protected from the accused." 273 For example, a defense
+subpoena to the Department of Motor Vehicles for address information could very directly jeopardize a victim's safety. 274 Yet
+the Advisory Committee Note makes no mention of such legitimate factors - factors the CVRA requires courts to consider.
+Finally, given all this, if disclosure of defense "strategy" somehow remains the overriding issue in handling a subpoena, there
+are less-abusive means for dealing with the problem. For example, a court could give the victim notice of the subpoena but also
+enter an order forbidding the prosecution from using any information it might learn as a result of this disclosure. Such an order
+is far preferable to the ex parte procedure proposed by the Advisory Committee. For the above reasons, the Advisory
+Committee's proposal for Rule 17 is insufficiently protective of crime victims' procedural rights. 275
+(3) The Lack of a Basis for Defense Subpoenas for Confidential Information
+The Advisory Committee's approach is not only procedurally flawed but also substantively flawed. In particular, the Advisory
+Committee arguably expands a defendant's power to subpoena confidential material from a victim, thereby creating new rights
+for defendants at the expense of victims' rights under the [*911] CVRA. This violates the Rules Enabling Act, which provides
+that court-promulgated rules shall not "abridge, enlarge or modify any substantive right." 276
+The Advisory Committee's proposed rule would read: "[A] subpoena requiring the production of personal or confidential
+information about a victim may not be served on a third party without a court order, which may be granted ex parte." 277 The
+clear implication of this sentence is that, with a court order, a subpoena can be served on a third party requiring production of
+personal or confidential information. Nothing in the proposed rules (or the Advisory Committee Notes) appears to require any
+further showing before the subpoena would issue. This seems to give defendants unrestrained subpoena power over
+confidential information. If this implication is correct, then the Advisory Committee has, remarkably, taken a law designed to
+provide more protection for victims and used it to create less in clear contravention of the CVRA and the Rules Enabling Act.
+The governing law on subpoenas comes from United States v. Nixon, which interpreted Rule 17 to require a subpoenaing party
+to show relevancy, admissibility, and specificity of any information sought. 278 In particular, for a subpoena to issue before
+trial, Nixon requires the moving party to show:
+(1) that the documents are evidentiary and relevant; (2) that they are not otherwise procurable reasonably in advance of trial by
+exercise of due diligence; (3) that the party cannot properly prepare for trial without such production and inspection in advance
+271
+Id. § 3771(a)(2).
+272
+Id. § 3771(a)(3).
+273
+Id. § 3771(a)(1).
+274
+In addition, the ability to subpoena such information would directly undermine current caselaw, which grants the defendant no right to
+disclosure of the names and addresses of government witnesses before trial. For further discussion, see infra notes 325-335 and
+accompanying text.
+275
+Apparently as a partial response to these concerns, the Advisory Committee made some changes in its proposed amendment to Rule 17.
+See infra notes 232-233 and accompanying text.
+276
+28 U.S.C. § 2072(b).
+277
+Proposed Amendments, supra note 71, R. 17(c)(3), at 7.
+278
+418 U.S. 683, 700 (1974).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *911
+Page 36 of 78
+of trial and that failure to obtain such inspection may tend unreasonably to delay the trial; and (4) that the application is made in
+good faith and is not intended as a general "fishing expedition." 279
+Because of this governing law, I proposed that Rule 17 should itself identify restrictions on a defendant's ability to subpoena
+confidential information. My proposal incorporates specificity, relevancy, and admissibility components - conforming with,
+rather than altering, existing law. My current proposal 280 requires the information be specifically described and admissible at
+trial - and it bars evidence sought for impeachment purposes only. In contrast, the Advisory Committee seemingly enlarges the
+substantive rights of defendants by failing to reference even a single Nixon factor in its proposal. Thus, unless a court takes it
+upon itself to ensure the relevancy, specificity, and admissibility of the subpoenas, [*912] the Advisory Committee proposal
+might provide the defendant with license to conduct the very "fishing expedition" that Nixon forbids.
+The proposed Advisory Committee Note adds to this confusion. The Note indicates that in considering whether to issue the
+subpoena, the court should consider "the relevance of the subpoenaed material to the defense." 281 But this is an overly broad
+formulation. The court should only consider the relevance of the material to the defense at trial, since this is the only
+permissible basis for a subpoena.
+Current law clearly limits Rule 17 subpoenas to evidence that is admissible at trial. 282 The reason for Nixon's limitations of
+relevance, admissibility, and specificity is that subpoenas are "not intended to provide a means of discovery for criminal cases"
+but only to "expedite the trial by providing a time and place before trial for the inspection of subpoenaed materials." 283 With
+regard to admissibility, Nixon explained that "generally, the need for evidence to impeach witnesses is insufficient to require its
+production in advance of trial." 284 In other words, documents sought for the narrow purpose of impeachment are not
+evidentiary for the purposes of Rule 17. 285 In Nixon, only because the prosecutor made a sufficient preliminary showing that
+the subpoenaed tapes contained "evidence admissible with respect to the offenses charged in the indictment" and that the
+evidence could be validly used as nonimpeachment evidence, did the Court find the evidence to be subpoenable. 286
+Courts apply Nixon's admissibility test strictly, rejecting, for example, subpoenas for hearsay evidence that would be
+inadmissible at trial. 287 The cases have recognized that broad subpoenas run afoul of these limitations - including subpoenas
+seeking information about crime victims. 288 For example, in United States v. Hang, the Eighth Circuit affirmed the district
+279
+Id. at 699-700 (citing United States v. Iozia, 13 F.R.D. 335, 338 (S.D.N.Y. 1952)).
+280
+My earlier proposal specifically required that no subpoena would issue "without a finding by the court that the information is relevant to
+trial." Cassell, Proposed Amendments, supra note 4, at 875 (emphasis added). In view of the importance of the Nixon factors, it now seems
+desirable to spell them all out, as my current proposal does.
+281
+Proposed Amendments, supra note 71, R. 17, at 8.
+282
+Nixon, 418 U.S. at 699-700.
+283
+Id. at 698-99 (emphasis removed).
+284
+Id. at 701.
+285
+See United States v. Cherry, 876 F. Supp. 547, 553 (S.D.N.Y. 1995).
+286
+Nixon, 418 U.S. at 700-702.
+287
+See, e.g., Cherry, 876 F. Supp. at 553 (rejecting subpoenaed prosecutors' investigative files as inadmissible hearsay).
+288
+Cf. United States v. Alexander, No. 94-10568, 1996 U.S. App. LEXIS 1662, 16-17 (9th Cir. Jan. 18, 1996) (quashing subpoenaed records
+from rape center because nothing warranted disclosure prohibited by Victims of Crimes Act); United States v. Cherry, No. 90-5784, 1991
+U.S. App. LEXIS 18192, 11-13 (4th Cir. Aug. 12, 1991) (quashing subpoenaed police files because they were in part irrelevant); Amsler v.
+United States, 381 F.2d 37, 51 (9th Cir. 1967) (holding subpoena of Frank Sinatra, regarding ransom money, an oppressive and unreasonable
+use of the court).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *912
+Page 37 of 78
+court's refusal to issue subpoenas designed to uncover documents relating to the mental health of a victim and various
+witnesses. 289 The court described the broad and speculative nature of the request directed toward a hospital, observing that the
+defense was ""hard- [*913] pressed' to describe the information it hoped to discover in the materials." 290 Consistent with
+Nixon, the court found the defendant's request "exemplified his "mere hope' that the desired documents would produce
+favorable evidence, and a Rule 17(c) subpoena cannot properly be issued upon a "mere hope.'" 291 Similarly, in State v. Percy,
+the Vermont Supreme Court upheld the lower court's refusal to order production by the victim. 292 The defendant had
+requested production of the victim's mental health information, arguing it was necessary for him to present his defense. 293 The
+Vermont Supreme Court rejected the defendant's arguments, finding that he made no showing of the materiality or helpfulness
+of the information - "indeed, [the] defendant essentially admitted the underlying acts." 294 The court also found it notable that
+the information sought was in the hands of a third party - not the State - and that the defendant made a broad request, rather
+than specifying particular records in the subpoena. 295 In aggregate, the court considered those factors "fatal" to the defendant's
+request. 296
+These cases were all decided against a constitutional backdrop that must favor crime victims: a criminal defendant has no
+constitutional right to conduct discovery, while confidential and personal information of crime victims may be protected by a
+constitutional right of privacy.
+The Supreme Court has clearly held that "there is no general constitutional right to discovery in a criminal case." 297 Indeed,
+the Constitution "has little to say regarding the amount of discovery which the parties must be afforded." 298 The only
+remotely related due process requirement the Court has recognized is the requirement that prosecutors disclose evidence that is
+favorable to the accused and material to guilt or punishment 299 - evidence that would deprive the defendant of a fair trial if not
+disclosed. 300 But even this rule - the Brady rule - is not a discovery rule and it does not reflect any discovery rights. Rather, it
+is a "self-executing constitutional rule" - a rule of "fairness and minimum prosecutorial obligation." 301 Recognizing this, the
+Supreme Court has carefully circumscribed Brady: "An interpretation of Brady to create a broad, constitutionally required right
+of discovery would entirely alter the character and balance of our present systems of [*914] criminal justice." 302 Indeed,
+289
+75 F.3d 1275, 1283-84 (8th Cir. 1996).
+290
+Id. at 1283.
+291
+Id. (citing United States v. Cuthbertson, 630 F.2d 139, 146 (3d Cir. 1980)).
+292
+548 A.2d 408, 415 (Vt. 1988).
+293
+Id. at 413.
+294
+Id. at 414-15.
+295
+Id.
+296
+Id. at 415.
+297
+Weatherford v. Bursey, 429 U.S. 545, 559 (1977); see also United States v. Ruiz, 536 U.S. 622, 629 (2002) (quoting Weatherford, 429
+U.S. at 559).
+298
+Wardius v. Oregon, 412 U.S. 470, 474 (1973).
+299
+See Brady v. Maryland, 373 U.S. 83, 87 (1963).
+300
+See United States v. Bagley, 473 U.S. 667, 675 (1985).
+301
+United States v. Garrett, 238 F.3d 293, 302 (5th Cir. 2000) (citation and internal quotation marks omitted).
+302
+Bagley, 473 U.S. at 675 n.7 (citation and internal quotation marks omitted).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *914
+Page 38 of 78
+Brady's requirements are incongruous with traditional discovery, as Brady does not even apply at pretrial stages. 303 Rule 16
+of the Federal Rules of Criminal Procedure was built on this foundation. The assumption that no right to discovery exists "is
+still the underlying predicate for Rule 16." 304
+Because there is no constitutional right to discovery, discovery is determined largely by statute and court rule. 305 Discovery
+statutes typically apply to exculpatory material within the possession or control of the state. 306 For example, in the Supreme
+Court case of Pennsylvania v. Ritchie, the defendant sought recorded statements made to a youth counselor concerning an
+alleged assault. 307 The recorded statements were taken and possessed by Pennsylvania's Children and Youth Services, a statecreated
+agency. 308 The Court concluded that due process considerations required an in camera review of the records to see
+whether they might contain information material to the defense. 309 The Court explained that "it is well settled that the
+government has the obligation to turn over evidence in its possession that is both favorable to the accused and material to guilt
+or punishment." 310 The Court cited the well-known decision of Brady v. Maryland, 311 as authority for this conclusion. 312
+Ritchie and other cases relying on Brady have no relevance to the issue of subpoenas to third parties. "Brady imposes a
+constitutional duty on prosecutors to turn over exculpatory evidence … ." 313 The rationale for such a rule is that the
+prosecutor, after initiating criminal charges, should not be the "architect" of an unfair proceeding. 314 Plainly, crime victims
+(and third parties holding records about crime victims) are not state actors. They are not architects of the criminal proceedings
+and therefore are not subject to these constitutional restrictions on state action. The Seventh Circuit explained this point clearly
+in United States v. [*915] Hach. 315 There, the defendant sought to compel a third-party witness to turn over her medical and
+psychiatric records to the court for in camera review. 316 The witness refused to release her records, which were not held by
+any government agency. 317 The government argued it was powerless to force her to accede to the demand. 318 The Seventh
+Circuit agreed, holding that "a failure to show that the records a defendant seeks are in the government's possession is fatal to [a
+Ritchie claim]." 319 The Seventh Circuit noted that the two other opinions it could locate on the due process question had
+reached precisely the same conclusion. 320 In United States v. Skorniak, the Eighth Circuit held that a defendant could not
+subpoena medical records of a witness. 321 And the government is under no obligation to seek out potentially exculpatory
+303
+See United States v. Frick, 490 F.2d 666, 671 (5th Cir. 1978) (citing Archer v. United States, 393 F.2d 124, 126 (5th Cir. 1968)).
+304
+United States v. Oxman, 740 F.2d 1298, 1307 (3d Cir. 1984).
+305
+See 4 Wayne R. LaFave et al., Criminal Procedure § 20.3m, at 930-31 (3d ed. 2000).
+306
+See, e.g., Fed. R. Crim. P. 16(a) (requiring "the government" to disclose to the defense various kinds of information).
+307
+480 U.S. 39, 43 (1987).
+308
+See id.
+309
+Id. at 47.
+310
+Id. at 57 (emphases added).
+311
+373 U.S. 83 (1963) (holding government must disclose exculpatory evidence in its possession to the defense).
+312
+Richie, 480 U.S. at 57.
+313
+Bolduc v. United States, 402 F.3d 50, 56 n.6 (1st Cir. 2005) (emphasis added). Courts have held that Brady obligations extend only to
+prosecutors, because the Supreme Court has not imposed this duty on others. See Villasana v. Wilhoit, 368 F.3d 976, 979 (8th Cir. 2004).
+314
+See Brady, 373 U.S. at 88.
+315
+162 F.3d 937 (7th Cir. 1998).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *915
+Page 39 of 78
+evidence, the court reasoned. 322 Similarly, a Maryland appellate court, in Goldsmith v. State, denied a defendant's attempt to
+obtain access to a witness's psychiatric record. 323 After examining the relevant authorities, the court explained: "We find no
+common law, court rule, statutory or constitutional requirement that a defendant be permitted pretrial discovery of privileged
+records held by a third party." 324 Thus, crime victims (and third parties holding information about crime victims) will only
+rarely - if ever - have information a defendant is constitutionally entitled to examine.
+Because a defendant has no constitutional right to discovery, any such claim must rest on a statute. Yet the federal statutes, if
+anything, cut against broad discovery claims. The Jencks Act, 325 for example, restricts access to statements by [*916]
+government witnesses. 326 It specifically mandates that only after a government witness testifies on direct examination shall
+the statement of the witness be the subject of discovery. 327 The Jencks Act does not even allow access to all statements - a
+witness statement need only be produced if the statement "relates to the subject matter "as to which the witness has testified'"
+not if it merely "relates to the subject matter "at issue in [the] case.'" 328 Even then, only a ""substantially verbatim recital of an
+oral statement made by said witness to an agent'" is discoverable under the Jencks Act. 329 Although the Act was meant to
+preserve defendants' right to access information that might aid in impeaching government witnesses at trial, "the legislative
+history expresses a much greater concern with limiting the application of the Jencks decision so that it would not hamper the
+workings of law enforcement by forcing wholesale disclosure of government materials and files." 330
+The Jencks Act also bars any pretrial disclosure of witness statements. "Congress provided for discovery of statements only
+after the witness has testified, out of concern for witness intimidation, subornation of perjury, and other threats to the integrity
+of the trial process." 331 Courts have held true to this congressional determination, blocking defense efforts to obtain pretrial
+discovery about government witnesses. For example, in United States v. Coppa, the Second Circuit overturned the district
+court's approval of a scheduling order requiring the government to identify its witnesses in advance of trial. 332 The district
+court, "mindful of [the Act's] concern" for witness safety, had allowed the government to file ex parte motions delaying
+discovery of the witnesses' identity where such disclosure would pose a threat to the witnesses' lives or safety. 333 The Second
+Circuit, however, found this protection insufficient to meet the witness-protective goals of the Jencks Act. Specifically, the
+316
+Id. at 946.
+317
+Id.
+318
+Id.
+319
+Id. at 947. The Seventh Circuit also noted that the Wisconsin Supreme Court had reached a contrary conclusion, relying on state law
+grounds. Id. at 946 n.5. The Wisconsin decisions do not offer a principled reason for extending Ritchie to private records and should not be
+regarded as persuasive authority here. See State v. Shiffra, 499 N.W.2d 719, 722 (Wis. Ct. App. 1993) (concluding that the issue of application
+of Ritchie to private records had already been decided in State v. S.H.); State v. S.H., 465 N.W.2d 238, 241 (Wis. Ct. App. 1999) (applying
+Ritchie to private records without any discussion of the issue).
+320
+Hach, 162 F.3d at 947. Other courts have reached the same result. See, e.g., United States v. Hall, 171 F.3d 1133, 1145 (8th Cir. 1999)
+(upholding decision not to compel disclosure of witness medical and psychiatric records: "the government has no obligation to obtain for a
+defendant records that it does not already have in its possession or control"); State ex rel. Romley v. Superior Court, 836 P.2d 445, 452 (Ariz.
+Ct. App. 1992) ("Brady emphasizes suppression of evidence by the prosecution, but does not require the victim to cooperate with the defense
+[to produce medical records held by the victim].").
+321
+59 F.3d 750, 755-56 (8th Cir. 1995).
+322
+Id.
+323
+651 A.2d 866, 868, 877 (Md. 1995).
+324
+Id. at 873.
+325
+18 U.S.C. § 3500 (2006).
+326
+Id. § 3500(a).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *916
+Page 40 of 78
+court determined "this remedy does not address the Government's justifiable concerns regarding the risk of witness tampering
+in circumstances where there is no evidence that the life or safety of a prospective witness is in danger." 334 In other words,
+Jencks Act protection is not limited to situations where the government shows an actual danger to witnesses - its witnessprotective
+qualities reach much further. 335
+[*917] The lack of grounds for subpoenas seeking victim information is more evident when viewed against a legal landscape
+that gives defendants no right before trial to obtain even the names of government witnesses. Current law provides no basis for
+the pretrial disclosure of the names and addresses of government witnesses - including witnesses who are crime victims. For
+one thing, Rule 16, which governs discovery and inspection in criminal cases, contains no provisions for such disclosure. This
+omission was purposeful and mirrors the witness-protective purposes of the Jencks Act:
+A majority of the Conferees [that is, congressional members determining the language of Rule 16] believe it is not in the
+interest of the effective administration of criminal justice to require that the government or the defendant be forced to reveal the
+names and addresses of its witnesses before trial. Discouragement of witnesses and improper contacts directed at influencing
+their testimony, were deemed paramount concerns in the formulation of this policy. 336
+Rule 16, therefore, along with other criminal discovery rules, "does not entitle defendants to pretrial discovery of names and
+addresses of prospective government witnesses or persons who have knowledge of the case." 337
+By statute, capital cases are exempt from this rule. In capital cases, the accused is entitled to a copy of the indictment and a list
+of juror and witness names and address - but only three days in advance of the trial. 338 And notably, the same statute
+explicitly provides for the withholding of this information "if the court finds by a preponderance of the evidence that providing
+the list may jeopardize the life or safety of any person." 339 No statute authorizes similar disclosures in noncapital cases. As
+the Eighth Circuit noted in United States v. Hutchings, "neither [Rule 16(a)] governing information subject to disclosure by the
+Government in criminal cases, nor any other federal rule or statute requires the Government to supply names of potential
+327
+See id. § 3500(b); see also Fed. R. Crim. P. 26.2 (integrating Jencks Act into the federal rules).
+328
+United States v. Susskind, 4 F.3d 1400, 1404 (6th Cir. 1993).
+329
+United States v. Martinez, 87 F.3d 731, 739 (5th Cir. 1996) (quoting Palermo v. United States, 360 U.S. 343, 351 (1959)).
+330
+United States v. Bobadilla-Lopez, 954 F.2d 519, 521 (9th Cir. 1992).
+331
+United States v. Tarantino, 846 F.2d 1384, 1414 (D.C. Cir. 1988).
+332
+267 F.3d 132, 138, 145-46 (2d Cir. 2001).
+333
+Id. at 138-39.
+334
+Id. at 139.
+335
+See, e.g., United States v. Presser, 844 F.2d 1275, 1285 (6th Cir. 1988) ("Providing the defense with such a broad right of pre-trial
+discovery would vitiate an important function of the Jencks Act, the protection of potential government witnesses from threats of harm or
+other intimidation before the witnesses testify at trial.").
+336
+H.R. Rep. No. 94-414, at 12 (1975) (Conf. Rep.), reprinted in 1975 U.S.C.C.A.N. 713, 716.
+337
+United States v. Laurins, 660 F. Supp. 1579, 1584 (N.D. Cal. 1987).
+338
+See 18 U.S.C. § 3432 (2006).
+339
+See id.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *917
+Page 41 of 78
+witnesses to a criminal defendant in a noncapital case." 340 Many other courts have reached substantially the same conclusion.
+341
+[*918] A few older cases held that district courts possess authority to compel the government to disclose the identity of its
+witnesses before trial. However, the basis for such grants of authority now seems defunct. For instance, in United States v.
+Armstrong, the Ninth Circuit recognized no authority exists in the federal rules for requiring the government to disclose the
+names of its witnesses. 342 Still, the court held that district courts have authority to require such disclosure based on Federal
+Rule of Criminal Procedure 57(b). 343 This rule acts as a stopgap: in the absence of controlling law, it allows judges to
+"regulate practice in any manner consistent with federal law, these rules, and the local rules of the district." 344 In light of the
+conference report on Rule 16, compelling disclosure of witness names before trial appears inconsistent with the federal rules.
+And even if the Ninth Circuit's approach was valid at the time Armstrong was decided, such an approach is no longer valid in
+light of the CVRA. Rule 57(b) only provides a basis for court authority in the absence of controlling law - since 2004, the
+CVRA has controlled the treatment of victims. The CVRA clearly mandates a victim be "reasonably protected from the
+accused," 345 as well as treated with "fairness and with respect for the victim's dignity and privacy." 346 Disclosure of a
+victim's name and address before trial is governed by these mandates, not vague gap-filling provisions.
+If a defendant cannot even validly compel disclosure of a victim's name and address in advance of trial, it is nonsensical to
+think a defendant could validly subpoena the same information from the Department of Motor Vehicles or the telephone
+company - and it is incredible to think a defendant could use the Advisory Committee's rule to subpoena even more personal
+victim information. The rules would be backward indeed if a defendant were able to subpoena a victim's confidential mental
+health records in a legal system that disallows compelled disclosure of a witness's name or address. Instead, the only rational
+conclusion is that because defendants have no right to witnesses' identifying information, they certainly have no right to other
+sorts of victim-related discovery. Clearly, then, defendants have little constitutional or statutory "heft" behind an argument for
+subpoenas directed at obtaining victim information.
+On the other hand, victims will often have legitimate reasons for resisting such subpoenas - reasons that are protected not only
+by the CVRA but also by the Constitution, under current case law, and as part of the right of privacy. 347 One aspect of this due
+process privacy right is "the individual interest in avoiding [*919] disclosure of personal matters" 348 or, in other words, "the
+340
+751 F.2d 230, 236 (8th Cir. 1984); accord United States v. House, 939 F.2d 659, 663 (8th Cir. 1991) ("Criminal defendants in noncapital
+cases are not entitled to pretrial disclosure of witnesses.").
+341
+See, e.g., United States v. Pearson, 340 F.3d 459, 468 (7th Cir. 2003); United States v. Bejasa, 904 F.2d 137, 139 (2d Cir. 1990); United
+States v. Barrett, 766 F.2d 609, 617 (1st Cir. 1985); United States v. Conder, 423 F.2d 904, 910 (6th Cir. 1970).
+342
+631 F.2d 951, 954-55 (9th Cir. 1980).
+343
+Id. at 955.
+344
+Fed. R. Crim. P. 57(b).
+345
+18 U.S.C. § 3771(a)(1) (2006).
+346
+Id. § 3771(a)(8).
+347
+My discussion of these issues draws heavily on thoughts from an extremely knowledgeable crime victims' litigator - Wendy Murphy. See
+Wendy J. Murphy, Crime Victims, Not Defendants, Enjoy Constitutional Rights When the Accused Seeks Access to Private Third-Party
+Records (2007) [hereinafter Murphy, Crime Victims]; see also Wendy J. Murphy, "Federalizing" Victims' Rights to Hold State Courts
+Accountable, 9 Lewis & Clark L. Rev. 647 (2005).
+348
+Whalen v. Roe, 429 U.S. 589, 598-99 (1977). In his Whalen concurrence, Justice Brennan asserted that if a statute allowed indiscriminate
+disclosure of personal medical records, "such a deprivation [of privacy] would only be consistent with the Constitution if it were necessary to
+promote a compelling state interest." Id. at 607 (Brennan, J., concurring).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *919
+Page 42 of 78
+privacy interest in keeping personal facts away from the public eye." 349 Consider, for example, the privacy of therapeutic
+counseling communications. Federal case law establishes that such communications are protected by a constitutional privacy
+right 350 - a right that would be gutted if defendants were allowed to freely subpoena victims' mental health records. Moreover,
+some courts and commentators suggested the Fourth Amendment's prohibition against unreasonable searches and seizures
+applies to (and may prohibit) court-mandated discovery of victims. 351
+For all these reasons, a defense subpoena seeking third-party information about a crime victim rests on extraordinarily shaky
+ground. The Advisory Committee must ensure that through casual drafting it does not inadvertently invite more defense
+subpoenas for such information. The Advisory Committee's current draft may well have that effect, by seemingly authorizing
+such subpoenas without regard to the numerous restrictions governing their use (and even allowing them to be issued ex parte).
+The Committee should, instead, follow my approach by indicating very clearly that such subpoenas are only allowed where
+specifically identified evidence will be obtained that is relevant to and admissible at trial, and [*920] that is otherwise
+reasonable. As a weaker but still positive alternative, the Committee could include an Advisory Committee Note making this
+point clear. One possible note would be as follows:
+Rule 17(c)(3) is intended to provide greater procedural protection for crime victims than exists under current law. It is not
+intended to expand in any way the permissible grounds for defense subpoenas. Like other trial subpoenas, a defense subpoena
+seeking victim information must narrowly request only information admissible at trial and may not be used for discovery. See
+United States v. Nixon, 418 U.S. 683[, 700] (1974) (requiring subpoenaing party to "clear three hurdles: (1) relevancy; (2)
+admissibility; (3) specificity"). A defense subpoena must also not tread on a crime victim's constitutionally-protected privacy
+interests, see Whalen v. Roe, 429 U.S. 589, 598-99 (1977), or statutorily-protected interests to respect for privacy and dignity,
+see Crime Victims' Rights Act, 18 U.S.C. § 3771(a) (2000 & Supp. 2006). As a result, such subpoenas will only rarely be
+proper. See generally Paul G. Cassell, Treating Crime Victims Fairly: Integrating Victims into the Federal Rules of Criminal
+Procedure, 2007 Utah L. Rev. 861. 352
+Rule 18 - Victims' Interests in Setting the Place of Prosecution The Proposals:
+I proposed amending Rule 18 to require the court to consider the convenience of victims in setting the place of prosecution as
+follows:
+Rule 18. Place of Prosecution and Trial
+349
+U. S. Dep't of Justice v. Reporters Comm. for Freedom of the Press, 489 U.S. 749, 769 (1989).
+350
+See Borucki v. Ryan, 827 F.2d 836, 845 (1st Cir. 1987) (recognizing right to privacy issues that arise with regard to communications to
+mental health workers); Caesar v. Mountanos, 542 F.2d 1064, 1072 (9th Cir. 1976) (finding psychotherapist-patient communications fall
+within right to privacy); Haw. Psychiatric Soc'y v. Ariyoshi, 481 F. Supp. 1028, 1038 (D. Haw. 1979) (finding zone of autonomy protects
+decision to communicate personal information to psychiatrist); see also Nat'l Transp. Safety Bd. v. Hollywood Mem'l Hosp., 735 F. Supp. 423,
+424 n.2 (S.D. Fla. 1990) (citation and internal quotations omitted).
+351
+See, e.g., People v. Nokes, 183 Cal. App. 3d 468, 476-78 (Cal. Ct. App. 1986) (reviewing Fourth Amendment precedent in its
+determination of the validity of court-ordered examinations of victims and determining precedent to be contrary to allowing such
+examinations); see also Murphy, Crime Victims, supra note 347 ("The Fourth Amendment is not only a right of criminal defendants, but a
+"right of the people' to be free from unreasonable searches of their "persons, houses, papers and effects' … . Therefore, the Fourth
+Amendment protections extended to criminal defendants in Boyd must also be extended to the third parties impacted by criminal litigation.");
+Troy Andrew Eid, Comment, A Fourth Amendment Approach to Compulsory Physical Examinations of Sex Offense Victims, 57 U. Chi. L.
+Rev. 873, 894 (1990) (arguing that court-mandated physical examinations of victims' of sexual crimes are prohibited by the Fourth
+Amendment, as interpreted by the Supreme Court). But cf. Borucki v. Ryan, 827 F.2d 836, 844 (1st Cir. 1987) (finding information the
+Fourth Amendment protects from seizure is not "necessarily entitled to protection under a right of nondisclosure originating in the Fourteenth
+Amendment").
+352
+In response to my criticisms, the Advisory Committee agreed to make some changes in its proposed rule, making it much more difficult
+(but not impossible) for defendants to obtain an ex parte subpoena. See infra notes 588-592 and accompanying text.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *920
+Page 43 of 78
+Unless a statute or these rules permit otherwise, the government must prosecute an offense in a district where the offense was
+committed. The court must set the place of trial within the district with due regard for the convenience of the defendant, any
+victim, and the witnesses, and the prompt administration of justice. 353
+The Advisory Committee adopted this proposal verbatim. 354
+[*921] Discussion:
+Little needs be said about the Advisory Committee's agreement with my proposal here, other than to note that the Committee's
+rationale for this change was "to implement the victim's "right to be treated with fairness' under the Crime Victims' Rights Act."
+355 Why the Advisory Committee chose to implement the victims' fairness rights in Rule 18 - and only Rule 18 - is not
+immediately clear. 356
+Rule 20 - Victims' Views Considered Regarding Consensual Transfer The Proposals:
+I proposed that Rule 20 be amended to allow the court to consider the victim's views in any decision to transfer a case as
+follows:
+Rule 20. Transfer for Plea and Sentence
+(a) Consent to Transfer. A prosecution may be transferred from the district where the indictment or information is pending, or
+from which a warrant on a complaint has been issued, to the district where the defendant is arrested, held, or present if:
+(1) the defendant states in writing a wish to plead guilty or nolo contendere and to waive trial in the district where the
+indictment, information, or complaint is pending, consents in writing to the court's disposing of the case in the transferee
+district, and files the statement in the transferee district; and
+(2) the United States attorneys in both districts approve the transfer in writing after consultation with any victim. If any victim
+objects to the transfer, the United States attorney in the transferring district or the victim's attorney shall advise the court where
+the indictment or information is pending of the victim's concerns. 357
+I also proposed a similar change should be made to Rule 20(d) regarding transfer of juvenile proceedings. 358
+The Advisory Committee recommended no change to Rule 20. 359
+[*922] Discussion:
+The Advisory Committee rejected this proposed change for the following reasons:
+The CVRA does not specifically address transfer. It does give the victim a right to confer with the attorney for the government,
+18 U.S.C. § 3771(a)(5), but that is not the same as requiring the attorney for the government to notify the court of the victim's
+views regarding transfers. Indeed, the CVRA provides that "nothing in this chapter shall be construed to impair the
+prosecutorial discretion of the Attorney General or any officer under his direction." 18 U.S.C. § 3771(d)(6). Accordingly, the
+353
+Cassell, Proposed Amendments, supra note 4, at 878-79.
+354
+See Proposed Amendments, supra note 71, R. 18, at 9.
+355
+Id. at 352.
+356
+See supra notes 95-97 and accompanying text (discussing this point).
+357
+Cassell, Proposed Amendments, supra note 4, at 879-80.
+358
+Id. at 879-80.
+359
+Proposed Amendments, supra note 71.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *922
+Page 44 of 78
+CVRA contemplates that the attorney for the government will consider the victim's interests in exercising prosecutorial
+discretion, including the discretionary determination whether to consent to a Rule 20 transfer. The Subcommittee was not
+persuaded that the rule should disturb this statutory balance by requiring the attorney for the government to advise the court of
+a victim's objection to a Rule 20 transfer. In appropriate cases, the attorney for the government should appraise the court of the
+victim's view. 360
+The Advisory Committee is able to claim that the CVRA does "not specifically address transfer" only because it reviewed an
+amputated CVRA - that is, a CVRA without a right to fairness. Under an unblinkered fair reading of the CVRA, the right to
+fairness applies "specifically" to Rule 20 transfer decisions, no less than the Rule 18 decision to set the place of prosecution just
+discussed and, indeed, all other decisions in the criminal justice process. Thus, the Advisory Committee has unfairly stacked
+the deck in deciding that it would not "disturb this statutory balance," when it chose not to weigh the victim's right to fairness
+as part of that balance.
+Even under its truncated view of the statute, the Advisory Committee does envision that the prosecutors will confer with
+victims about Rule 20 transfer decisions. But the Committee did not want to require prosecutors to notify courts of a victim's
+objection, venturing only that "in appropriate cases, the attorney for the government should appraise the court of the victim's
+views." 361 The Committee is coy on the question of when it would not be appropriate for the prosecutor to fail to notify a
+court of the victim's views. Whenever an unrepresented crime victim objects to transferring a case, prosecutors, as officers of
+the court, have a duty to pass that objection along to the court as relevant [*923] information bearing on the transfer decision.
+362 The rule should state that fact directly.
+Finally, nothing in my proposal would impair prosecutorial discretion. My proposal deals solely with ensuring that victim
+information is passed along to the judge who must approve a transfer decision. The government remains entirely free to make
+whatever decision it wants on the issue and argue whatever position it believes is appropriate. Moreover, the CVRA itself
+envisions that the government may have obligations to assert victims' rights. For starters, the CVRA requires prosecutors to
+"make their best efforts" to see that victims are "accorded" their rights. 363 In addition, the CVRA gives prosecutors the ability
+to "assert" victims' rights. 364 This provision was designed to ensure that victims' rights are not inadvertently lost because a
+victim lacks legal counsel. As Senator Kyl explained, "This provision also recognizes that, at times, the government's attorney
+may be best situated to assert a crime victim's rights … because the crime victim is not available at a particular point in the trial
+… ." 365 In light of its obligations to accord victims their rights and to enforce those rights, the government should at least
+inform the court when a victim has concerns about a transfer.
+Rule 21 - Victims' Views Considered Regarding Transfer for Prejudice The Proposals:
+I proposed that Rule 21 be amended to require consideration of the victim's interest in whether a case should be transferred as
+follows:
+(e) Victims' Views. The court shall not transfer any proceeding without giving any victim an opportunity to be heard. The court
+shall consider the views of the victim in making any transfer decision. 366
+360
+CVRA Subcommittee Memo, supra note 66, at 17.
+361
+Id. (emphasis added).
+362
+Cf. State v. Casey, 2002 UT 29, PP 9-13, 44 P.3d 756 (noting prosecutors' obligation to relay to the court victim's request to be heard).
+363
+18 U.S.C. § 3771(c)(1) (2006).
+364
+Id. § 3771(d)(1).
+365
+150 Cong. Rec. S10912 (daily ed. Oct. 9, 2004) (statement of Sen. Kyl).
+366
+Cassell, Proposed Amendments, supra note 4, at 880.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *923
+Page 45 of 78
+The Advisory Committee recommended no change to this rule. 367
+Discussion:
+The Advisory Committee rejected this change because, in its view, the fact that the CVRA did not specifically address transfer
+decisions precluded any amendment:
+[*924]
+Judge Cassell grounds his proposal on the general provision of the CVRA that gives a victim a right to be treated with
+"fairness." 18 U.S.C. § 3771(a)(8). The Subcommittee was not persuaded that this general language warranted an amendment
+that would require the court to consider the victim's views. In the case of transfers for prejudice, the preferences of the victim
+could not outweigh the defendant's right to a fair proceeding. In the case of transfers for convenience, the statutory right to
+confer with the attorney for the government provides the mechanism for incorporating the victim's views. As in the case of
+Rule 20, the Subcommittee declined to go beyond the carefully crafted limitations of the statute. In appropriate cases, the
+attorney for the government should appraise the court of the victim's views. 368
+Once again, the Advisory Committee's position clashes with the statute. The Committee does not argue (nor does it seem
+plausible to argue) that transferring a case to a distant location without even considering the victim's view treats the victim
+fairly. Instead, the Committee ducks the implications of the right to fairness because it is "general language," as though a
+"general" command from Congress can be ignored.
+Perhaps recognizing the weakness of its position, the Advisory Committee goes on to craft a policy argument against victims
+being heard. It divides transfer cases into two types - those for convenience and those for prejudice - and concludes that victims
+should not enjoy a guaranteed right to be heard in either situation. In neither case is the analysis convincing.
+With regard to transfers for convenience, the Committee contends that the victim's right to confer with prosecutors is sufficient
+protection. But a victim's conference with those very same government authorities who find it convenient to move the case
+hardly will give victims much comfort - much less the right to fairness that Congress has mandated. The Committee also is less
+than clear when it directs prosecutors to advise the court of the victim's objections "in appropriate cases." It is hard to think of
+any case when a prosecutor would be justified in concealing an unrepresented victim's concerns from the court. 369 It is far
+simpler - and, more to the point, simply fair - to ensure that the court will always consider a victim's views on transfer.
+With regard to transfers to avoid prejudice, the Advisory Committee concludes that a victim's views could not "outweigh" the
+defendant's right to a fair proceeding. But no one argues that victims' views will necessarily outweigh a defendant's argument;
+the limited point is simply that victims' views should be considered in the balance. Moreover, a victim may be able to
+demonstrate that a defendant's argument is unsupported or that other, less burdensome alternatives to [*925] transferring a
+case exist. Surely these are sufficiently important reasons to let a victim be heard before a case is moved.
+The Advisory Committee also appears to overlook the constitutional grounding that a victim's opposition to a transfer decision
+enjoys. In contrast to the Sixth Amendment, which gives defendants in a state prosecution a right to trial in their home state,
+370 Article III simply commands that in a federal prosecution, "the Trial of all Crimes, except in Cases of Impeachment, shall
+be by Jury; and such Trial shall be held in the State where the said Crimes have been committed." 371 This Article III vicinage
+right was designed to protect not only the rights of the defendant but also the rights of the community - including victims in the
+367
+Proposed Amendments, supra note 71.
+368
+CVRA Subcommittee Memo, supra note 66, at 17-18.
+369
+In the case of a represented victim, the prosecutor could reasonably rely on the victim's counsel to present appropriate arguments.
+370
+U.S. Const. amend. VI ("In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of
+the State and district wherein the crime shall have been committed … ." (emphasis added)).
+371
+U.S. Const. art. III, § 2 (emphasis added).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *925
+Page 46 of 78
+community. 372 The provision is designed to secure a trial within the same political community ("the state") in which the
+victim would likely reside. 373
+The Supreme Court's decisions on right of public access to trials bolsters the understanding of the Article II's provision to
+protect the community interest. In cases such as Richmond Newspapers, Inc. v. Virginia, the Court has held that implicit in the
+First Amendment is a guarantee of the public's right to attend trials. 374 Compelling victims' interests underlie this guarantee.
+As the Court has explained, "public proceedings vindicate the concerns of the victims and the community in knowing that
+offenders are being brought to account for their criminal conduct." 375 And as Justice Blackmun has emphasized, "The victim
+of the crime, the family of the victim, [and] others who have suffered similarly, … . have an interest in observing the course of
+a prosecution." 376 Victims are vitally interested in observing criminal trials because society has withdrawn "both from the
+victim and the vigilante the enforcement of criminal laws, but [it] cannot erase from people's consciousness the fundamental,
+natural yearning to see justice done - or even the urge for retribution." 377
+For purposes of this Article, it is not necessary to definitively trace how victims' constitutional interests play out against a
+defendant's right to avoid a prejudicial trial. The very limited point here is merely that victims should be heard on any transfer,
+so that a judge can make a fully informed decision. Even if the judge determines to transfer a case, the victim may have
+valuable information for the judge on where to transfer the case (for example, to an adjacent district or state [*926] rather than
+a distant one) or how to impanel an unbiased jury (for example, importing a jury rather than exporting the trial). 378
+An illustration of the general approach of the proposed rule comes from the leading case of State v. Timmendequas, 379
+decided by the New Jersey Supreme Court. In Timmendequas, the trial judge imported a jury from a distant community to hear
+a capital case rather than forcing the family of a murdered young girl to travel to another district. 380 Construing New Jersey
+state law provisions similar to the CVRA's, the New Jersey Supreme Court explained that the trial judge properly considered
+the views of the victim's family:
+Over the past decade, both nationwide and in New Jersey, a significant amount of legislation has been passed implementing
+increased levels of protection for victims of crime. Specifically, in New Jersey, the Legislature enacted the "Crime Victim's Bill
+of Rights." That amendment marked the culmination of the Legislature's efforts to increase the participation of crime victims in
+the criminal justice system.
+The purpose of the Victim's Rights Amendment was to "enhance and protect the necessary role of crime victims and witnesses
+in the criminal justice process. In furtherance of [that goal], the improved treatment of these persons should be assured through
+the establishment of specific rights." One of the enumerated rights guaranteed for victims is "to have inconveniences associated
+with participation in the criminal justice process minimized to the fullest extent possible."
+372
+See also Drew L. Kershen, Vicinage, 29 Okla. L. Rev. 801 (1976). See generally Cassell, Proposed Amendments, supra note 4, at 880-84;
+Steven A. Engel, The Public's Vicinage Right: A Constitutional Argument, 75 N.Y.U. L. Rev. 1658 (2000).
+373
+See United States v. Bishop, 76 F. Supp. 866, 868 (D. Or. 1948).
+374
+448 U.S. 555, 575-76 (1980).
+375
+Press-Enter. Co. v. Superior Court, 464 U.S. 501, 509 (1984).
+376
+Gannett Co. v. DePasquale, 443 U.S. 368, 428 (1979) (Blackmun, J., concurring in part and dissenting in part).
+377
+Richmond Newspapers, 448 U.S. at 571.
+378
+See generally Beloof, Cassell & Twist, supra note 6, at 392-99 (reviewing caselaw on the victim's interest in venue decisions).
+379
+737 A.2d 55 (N.J. 1999), cert. denied, 534 U.S. 858 (2001).
+380
+Id. at 64-69.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *926
+Page 47 of 78
+… .
+… . The [trial] court explicitly stated that it was not favoring the rights of the victims over those of defendant. Rather, it was
+simply taking their concerns into consideration, as it had not done previously. Taking the concerns of the victim's family into
+account does not constitute error, provided that the constitutional rights of the defendant are not denied or infringed on by that
+decision. 381
+Timmendequas demonstrates that victims can have legitimate interests in transfer decisions that can be accommodated without
+violating defendants' rights. Rule 21 ought to be amended to allow victims to provide that kind of information to the judge
+before any transfer decision is made. 382
+[*927] Rule 23 - Victims' Views Considered Regarding Nonjury Trial The Proposals:
+I proposed that the court should be required to consider the views of victims before allowing waiver of a jury trial as follows:
+Rule 23. Jury or Nonjury Trial
+(a) Jury Trial. If the defendant is entitled to a jury trial, the trial must be by jury unless:
+(1) the defendant waives a jury trial in writing;
+(2) the government consents; and
+(3) the court approves after considering the views of any victims. 383
+The Advisory Committee did not recommend any change to this rule. 384
+Discussion:
+Here again, the Advisory Committee declined to adopt my recommendation because it goes "beyond the specific provisions of
+the CVRA, which do not address the issues whether the trial should be to the court or to a jury." 385 It is not necessary to repeat
+the arguments about the victim's right to fairness here, other than to note that the "preferred" trial method in the federal courts is
+a jury trial. 386 Why it is fair to deviate from that preferred method without first listening to the victims is not immediately
+clear.
+But, for the sake of argument, assume that nothing in the CVRA requires the Advisory Committee to change this rule. The fact
+remains that the Advisory Committee could still change the rule if there were good reasons to do so. In view of this fact, it is
+surprising that the Committee never defends the logic behind allowing a court to dispense with a jury trial without even hearing
+from a victim. To help protect the general public interest in trial by jury, Rule 23 currently requires not only prosecutor
+381
+Id. at 76 (citations omitted). The hardship to the victim was established via affidavits from the victim's family provided to the court by
+the prosecutor. Id.
+382
+The Advisory Committee recently recommended a change to Rule 21(b) that does not address the points concerned in this Article. See
+infra notes 585-586 and accompanying text.
+383
+Cassell, Proposed Amendments, supra note 4, at 884.
+384
+Proposed Amendments, supra note 71.
+385
+CVRA Subcommittee Memo, supra note 66, at 18.
+386
+Singer v. United States, 380 U.S. 24, 35 (1965) ("Trial by jury has been established by the Constitution as the "normal and … preferrable
+mode of disposing of issues of fact in criminal cases.'") (alteration in original) (citation omitted). See generally Rachel E. Barkow,
+Recharging the Jury: The Criminal Jury's Constitutional Role in an Era of Mandatory Sentencing, 152 U. Pa. L. Rev. 33, 68 (2003).
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *927
+Page 48 of 78
+approval, 387 but also court approval. 388 Any approval [*928] requires careful weighing of the competing concerns. The
+Supreme Court has instructed that
+the duty of the trial court … [in considering whether to approve a jury trial waiver] is not to be discharged as a mere matter of
+rote, but with sound and advised discretion, with an eye to avoid unreasonable or undue departures from that mode of trial or
+from any of the essential elements thereof, and with a caution increasing in degree as the offenses dealt with increase in gravity.
+389
+This is a "serious and weighty responsibility." 390
+To discharge that serious and weighty responsibility, the Advisory Committee should draft Rule 23 so that the trial court should
+receive as much relevant information as possible. The victim may be well situated to provide useful information about how the
+public will view a nonjury trial. The proposed rule change takes the modest step of allowing the victim to be heard before the
+court approves any nonjury trial.
+(New) Rules 32(e), (f), (h), and (i) - Disclosure of the Presentence Report to Victims and Opportunity for Victims to Object and
+Be Heard 391 The Proposals:
+In the federal system, the presentence report is a critical part of the sentencing process. I therefore recommended that the
+prosecutor should be required to disclose relevant parts of the presentence report to victims as follows:
+[*929]
+(e) Disclosing the Report and Recommendation.
+(1) Time to Disclose. Unless the defendant has consented in writing, the probation officer must not submit a presentence report
+to the court or disclose its contents to anyone until the defendant has pleaded guilty or nolo contendere, or has been found
+guilty.
+(2) Minimum Required Notice. The probation officer must give the presentence report to the defendant, the defendant's
+attorney, and an attorney for the government at least 35 days before sentencing unless the defendant waives this minimum
+period. The attorney for the government shall, if any victim requests, communicate the relevant contents of the presentence
+report to the victim.
+387
+Fed. R. Crim. P. 23(a)(2). See generally ABA Standards for Criminal Justice § 15-1.2, cmt. at 15.17 (2d ed. 1980) (concluding that
+arguments in favor of requiring prosecutorial approval of jury trial waivers outweigh those against). But see Adam H. Kurland, Providing a
+Federal Criminal Defendant with a Unilateral Right to a Bench Trial: A Renewed Call to Amend Federal Rule of Criminal Procedure 23(a),
+26 U.C. Davis L. Rev. 309, 316 (1993) (arguing that the requirements of prosecutorial consent and court approval should be removed from
+Rule 23(a)).
+388
+Fed. R. Crim. P. 23(a)(3); cf. Akhil Reed Amar, The Bill of Rights as a Constitution, 100 Yale L.J. 1131, 1196-98 (1991) (suggesting that
+jury trial right might not be waivable).
+389
+Patton v. United States, 281 U.S. 276, 312-13 (1930) (internal quotation marks omitted).
+390
+United States v. Saadya, 750 F.2d 1419, 1421 (9th Cir. 1985) (internal citation omitted).
+391
+In addition to the changes to Rule 32 discussed here, the Advisory Committee essentially adopted verbatim my proposals to amend Rules
+32(a), 32(c)(1)(B), and 32(d)(2)(B). Compare Cassell, Proposed Amendments, supra note 4, at 886, 887, 891, with Proposed Amendments,
+supra note 71, R. 32(a), 32(c)(1)(B), 32(d)(2)(B), at 10-15. There is, accordingly, no need to discuss those proposed rules here.
+The Advisory Committee also declined to add my proposal that the probation officer determine whether the victim wished to have any
+material included in the presentence report. See Cassell, Proposed Amendments, supra note 4, at 889. I will rely on my original article to
+make the case for this particular change. See id. at 889-91
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *929
+Page 49 of 78
+(3) Sentence Recommendation. By local rule or by order in a case, the court may direct the probation officer not to disclose to
+anyone other than the court the officer's recommendation on the sentence. 392
+I further recommended that victims be given the opportunity to object to and be heard on disputed issues in the presentence
+report as follows:
+(f) Objecting to the Report.
+(1) Time to Object. Within 14 days after receiving the presentence report, the parties must state in writing any objections,
+including objections to material information, sentencing guideline ranges, and policy statements contained in or omitted from
+the report. The attorney for the government or for the victim shall raise for the victim any reasonable objection by the victim to
+the presentence report.
+(2) Serving Objections. An objecting party must provide a copy of its objections to the opposing party and to the probation
+officer.
+(3) Action on Objections. After receiving objections, the probation officer may meet with the parties and the victim to discuss
+the objections. The probation officer may then investigate further and revise the presentence report as appropriate.
+… .
+(h) Notice of Intent to Consider Other Sentencing Factors. 393 Before the court may rely on a ground not identified either in the
+[*930] presentence report or in a party's prehearing submission or in a victim impact statement, the court must give the parties
+reasonable notice that it is contemplating either departing from the applicable guideline range or imposing a non-guideline
+sentence. The notice must specify any ground not earlier identified on which the court is contemplating a departure or a nonguideline
+sentence. The attorney for the government or for the victim shall advise defense counsel and the court of any ground
+identified by the victim that might reasonably serve as a basis for departure.
+(i) Sentencing.
+(1) In General. At sentencing, the court:
+(A) must verify that the defendant and the defendant's attorney have read and discussed the presentence report and any
+addendum to the report;
+(B) must give to the defendant and an attorney for the government a written summary of - or summarize in camera - any
+information excluded from the presentence report under Rule 32(d)(3) on which the court will rely in sentencing, and give them
+a reasonable opportunity to comment on that information;
+(C) must allow the parties' attorneys and any victims to comment on the probation officer's determinations and other matters
+relating to an appropriate sentence; and
+(D) may, for good cause, allow a party or any victim to make a new objection at any time before sentence is imposed.
+(2) Introducing Evidence; Producing a Statement. The court may permit the parties or the victim to introduce evidence on the
+objections. If a witness testifies at sentencing, Rule 26.2(a)-(d) and (f) applies. If a party fails to comply with a Rule 26.2 order
+to produce a witness's statement, the court must not consider that witness's testimony.
+(3) Court Determinations. At sentencing, the court:
+(A) may accept any undisputed portion of the presentence report as a finding of fact;
+392
+Cassell, Proposed Amendments, supra note 4, at 892.
+393
+This rule was amended in December 2006, after my earlier article was published, to change "departure" language to conform with the
+new, post-Booker regime. I have accordingly changed the language quoted in the text above to conform to the current language.
+DAVID SCHOEN
+2007 Utah L. Rev. 861, *930
+Page 50 of 78
+(B) must - for any disputed portion of the presentence report or other controverted matter - rule on the dispute or determine that
+a ruling is unnecessary either because the matter will not affect sentencing, or because the court will not consider the matter in
+sentencing; and
+[*931] (C) must append a copy of the court's determinations under this rule to any copy of the presentence report made
+available to the Bureau of Prisons. 394
+The Advisory Committee recommended no changes to these rules. 395
+Discussion:
+The CVRA entitles victims to be heard on disputed Federal Sentencing Guidelines ("Guidelines") issues and, as a consequence,
+to review parts of the presentence report relevant to those issues. The CVRA gives victims "the right to be reasonably heard at
+any public proceeding in the district court involving … sentencing." 396 The CVRA provision (among other things) codifies
+the right of crime victims to give in court what is known as a "victim impact statement." 397
+The victim's right to be heard, however, is not narrowly circumscribed to just impact information. To the contrary, the right

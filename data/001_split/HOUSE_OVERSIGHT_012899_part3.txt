@@ -1,0 +1,1274 @@
+• SOAR [LRN87], a classic example of expert rule-based cognitive architecture designed to
+model general intelligence. It has recently been extended to handle sensorimotor functions,
+though in a somewhat cognitively unnatural way; and is not yet strong in areas such as
+episodic memory, creativity, handling uncertain knowledge, and reinforcement learning.
+• ACT-R [AL03] is fundamentally a symbolic system, but Duch classifies it as a hybrid system
+because it incorporates connectionist-style activation spreading in a significant role; and
+there is an experimental thoroughly connectionist implementation to complement the primary
+mainly-symbolic implementation. Its combination of SOAR-style “production rules”
+with large-scale connectionist dynamics allows it to simulate a variety of human psychological
+phenomena, but abstract reasoning, creativity and transfer learning are still missing.
+• EPIC [RCK01], a cognitive architecture aimed at capturing human perceptual, cognitive
+and motor activities through several interconnected processors working in parallel. The
+system is controlled by production rules for cognitive processors and a set of perceptual
+(visual, auditory, tactile) and motor processors operating on symbolically coded features
+rather than raw sensory data. It has been connected to SOAR for problem solving, planning
+and learning,
+• ICARUS [Lan05], an integrated cognitive architecture for physical agents, with knowledge
+specified in the form of reactive skills, each denoting goal-relevant reactions to a class of
+problems. The architecture includes a number of modules: a perceptual system, a planning
+system, an execution system, and several memory systems. Concurrent processing is absent,
+attention allocation is fairly crude, and uncertain knowledge is not thoroughly handled.
+• SNePS (Semantic Network Processing System) [SE07] is a logic, frame and network-based
+knowledge representation, reasoning, and acting system that has undergone over three
+decades of development. While it has been used for some interesting prototype experiments
+in language processing and virtual agent control, it has not yet been used for any
+large-scale or real-world application.
+• Cyc [LG90] is an AGI architecture based on predicate logic as a knowledge representation,
+and using logical reasoning techniques to answer questions and derive new knowledge from
+old. It has been connected to a natural language engine, and designs have been created
+for the connection of Cyc with Albus’s 4D-RCS [AM01]. Cyc’s most unique aspect is the
+large database of commonsense knowledge that Cycorp has accumulated (millions of pieces
+of knowledge, entered by specially trained humans in predicate logic format); part of the
+philosophy underlying Cyc is that once a sufficient quantity of knowledge is accumulated in
+the knowledge base, the problem of creating human-level general intelligence will become
+much less difficult due to the ability to leverage this knowledge.
+While these architectures contain many valuable ideas and have yielded some interesting results,
+we feel they are incapable on their own of giving rise to the emergent structures and dynamics
+required to yield humanlike general intelligence using feasible computational resources. However,
+we are more sanguine about the possibility of ideas and components from symbolic architectures
+playing a role in human-level AGI via incorporation in hybrid architectures.
+We now review a few symbolic architectures in slightly more detail.
+60 4 Brief Survey of Cognitive Architectures
+4.2.1 SOAR
+The cognitive architectures best known among AI academics are probably Soar and ACT-R,
+both of which are explicitly being developed with the dual goals of creating human-level AGI
+and modeling all aspects of human psychology. Neither the Soar nor ACT-R communities feel
+themselves particularly near these long-term goals, yet they do take them seriously.
+Soar is based on IF-THEN rules, otherwise known as “production rules.” On the surface this
+makes it similar to old-style expert systems, but Soar is much more than an expert system; it’s
+at minimum a sophisticated problem-solving engine. Soar explicitly conceives problem solving
+as a search through solution space for a “goal state” representing a (precise or approximate)
+problem solution. It uses a methodology of incremental search, where each step is supposed to
+move the system a little closer to its problem-solving goal, and each step involves a potentially
+complex “decision cycle.”
+In the simplest case, the decision cycle has two phases:
+• Gathering appropriate information from the system’s long-term memory (LTM) into its
+working memory (WM)
+• A decision procedure that uses the gathered information to decide an action
+If the knowledge available in LTM isn’t enough to solve the problem, then the decision
+procedure invokes search heuristics like hill-climbing, which try to create new knowledge (new
+production rules) that will help move the system closer to a solution. If a solution is found by
+chaining together multiple production rules, then a chunking mechanism is used to combine
+these rules together into a single rule for future use. One could view the chunking mechanism
+as a way of converting explicit knowledge into implicit knowledge, similar to “map formation”
+in CogPrime (see Chapter 42 of Part 2), but in the current Soar design and implementation it
+is a fairly crude mechanism.
+In recent years Soar has acquired a number of additional methods and modalities, including
+some visual reasoning methods and some mechanisms for handling episodic and procedural
+knowledge. These expand the scope of the system but the basic production rule and chunking
+mechanisms as briefly described above remain the core “cognitive algorithm” of the system.
+From a CogPrime perspective, what Soar offers is certainly valuable, e.g.
+• heuristics for transferring knowledge from LTM into WM
+• chaining and chunking of implications
+• methods for interfacing between other forms of knowledge and implications
+However, a very short and very partial list of the major differences between Soar and Cog-
+Prime would include
+• CogPrime contains a variety of other core cognitive mechanisms beyond the management
+and chunking of implications
+• the variety of “chunking” type methods in CogPrime goes far beyond the sort of localized
+chunking done in Soar
+• CogPrime is committed to representing uncertainty at the base level whereas Soar’s production
+rules are crisp
+• The mechanisms for LTM-WM interaction are rather different in CogPrime, being based
+on complex nonlinear dynamics as represented in Economic Attention Allocation (ECAN)
+• Currently Soar does not contain creativity-focused heuristics like blending or evolutionary
+learning in its core cognitive dynamic.
+4.2 Symbolic Cognitive Architectures 61
+4.2.2 ACT-R
+In the grand scope of cognitive architectures, ACT-R is quite similar to Soar, but there are
+many micro-level differences. ACT-R is defined in terms of declarative and procedural knowledge,
+where procedural knowledge takes the form of Soar-like production rules, and declarative
+knowledge takes the form of chunks. It contains a variety of mechanisms for learning new rules
+and chunks from old; and also contains sophisticated probabilistic equations for updating the
+activation levels associated with items of knowledge (these equations being roughly analogous
+in function to, though quite different from, the ECAN equations in CogPrime).
+Figure 4.2 displays the current architecture of ACT-R. The flow of cognition in the system is
+in response to the current goal, currently active information from declarative memory, information
+attended to in perceptual modules (vision and audition are implemented), and the current
+state of motor modules (hand and speech are implemented). The early work with ACT-R was
+based on comparing system performance to human behavior, using only behavioral measures,
+such as the timing of keystrokes or patterns of eye movements. Using such measures, it was not
+possible to test detailed assumptions about which modules were active in the performance of
+a task. More recently the ACT-R community has been engaged in a process of using imaging
+data to provide converging data on module activity. Figure 4.3 illustrates the associations they
+have made between the modules in Figure 4.2 and brain regions. Coordination among all of
+these components occurs through actions of the procedural module, which is mapped to the
+basal ganglia.
+Fig. 4.2: High-level architecture of ACT-R
+In practice ACT-R, even more so than Soar, seems to be used more as a programming
+framework for cognitive modeling than as an AI system. One can fairly easily use ACT-R
+to program models of specific human mental behaviors, which may then be matched against
+62 4 Brief Survey of Cognitive Architectures
+Fig. 4.3: Conjectured Mapping Between ACT-R and the Brain
+psychological data. Opinions differ as to whether this sort of modeling is valuable for achieving
+AGI goals. CogPrime is not designed to support this kind of modeling, as it intentionally does
+many things very differently from humans.
+ACT-R in its original form did not say much about perceptual and motor operations, but
+recent versions have incorporated EPIC, an independent cognitive architecture focused on modeling
+these aspects of human behavior.
+4.2.3 Cyc and Texai
+Our review of cognitive architectures would be incomplete without mentioning Cyc [LG90],
+one of the best known and best funded AGI-oriented projects in history. While the main focus
+of the Cyc project has been on the hand-coding of large amounts of declarative knowledge,
+there is also a cognitive architecture of sorts there. The center of Cyc is an engine for logical
+deduction, acting on knowledge represented in predicate logic. A natural language engine has
+been associated with the logic engine, which enables one to ask English questions and get
+English replies.
+Stephen Reed, while an engineer at Cycorp, designed a perceptual-motor front end for Cyc
+based on James Albus’ Reference Model Architecture; the ensuing system, called Cognitive-
+Cyc, would have been the first full-fledged cognitive architecture based on Cyc, but was not
+implemented. Reed left Cycorp and is now building a system called Texai, which has many
+similarities to Cyc (and relies upon the OpenCyc knowledge base, a subset of Cyc’s overall
+knowledge base), but incorporates a CognitiveCyc style cognitive architecture.
+4.2 Symbolic Cognitive Architectures 63
+4.2.4 NARS
+Pei Wang’s NARS logic [Wan06] played a large role in the development of PLN, CogPrime’s
+uncertain logic component, a relationship that is discussed in depth in [GMIH08] and won’t
+be re-emphasized here. However, NARS is more than just an uncertain logic, it is also an
+overall cognitive architecture (which is centered on NARS logic, but also includes other aspects).
+CogPrime bears little relation to NARS except in the specific similarities between PLN logic
+and NARS logic, but, the other aspects of NARS are worth briefly recounting here.
+NARS is formulated as a system for processing tasks, where a task consists of a question or a
+piece of new knowledge. The architecture is focused on declarative knowledge, but some pieces
+of knowledge may be associated with executable procedures, which allows NARS to carry out
+control activities (in roughly the same way that a Prolog program can).
+At any given time a NARS system contains
+• working memory: a small set of tasks which are active, kept for a short time, and closely
+related to new questions and new knowledge
+• long-term memory: a huge set of knowledge which is passive, kept for a long time, and not
+necessarily related to current questions and knowledge
+The working and long term memory spaces of NARS may each be thought of as a set of
+chunks, where each chunk consists of a set of tasks and a set of knowledge. NARS’s basic
+cognitive process is:
+1. choose a chunk
+2. choose a task from that chunk
+3. choose a piece of knowledge from that chunk
+4. use the task and knowledge to do inference
+5. send the new tasks to corresponding chunks
+Depending on the nature of the task and knowledge, the inference involved may be one of
+the following:
+• if the task is a question, and the knowledge happens to be an answer to the question, a
+copy of the knowledge is generated as a new task
+• backward inference
+• revision (merging two pieces of knowledge with the same form but different truth value)
+• forward inference
+• execution of a procedure associated with a piece of knowledge
+Unlike many other systems, NARS doesn’t decide what type of inference is used to process
+a task when the task is accepted, but works in a data-driven way – that is, it is the task and
+knowledge that dynamically determine what type of inference will be carried out
+The “choice” processes mentioned above are done via assigning relative priorities to
+• chunks (where they are called activity)
+• tasks (where they are called urgency)
+• knowledge (where they are called importance)
+64 4 Brief Survey of Cognitive Architectures
+and then distributing the system’s resources accordingly, based on a probabilistic algorithm.
+(It’s interesting to note that while NARS uses probability theory as part of its control mechanism,
+the logic it uses to represent its own knowledge about the world is nonprobabilistic. This
+is considered conceptually consistent, in the context of NARS theory, because system control
+is viewed as a domain where the system’s knowledge is more complete, thus more amenable to
+probabilistic reasoning.)
+4.2.5 GLAIR and SNePS
+Another logic-focused cognitive architecture, very different from NARS in detail, is Stuart
+Shapiro’s GLAIR cognitive architecture, which is centered on the SNePS paraconsistent logic
+[SE07].
+Like NARS, the core “cognitive loop” of GLAIR is based on reasoning: either thinking about
+some percept (e.g. linguistic input, or sense data from the virtual or physical world), or answering
+some question. This inference based cognition process is turned into an intelligent agent
+control process via coupling it with an acting component, which operates according to a set of
+policies, each one of which tells the system when to take certain internal or external actions
+(including internal reasoning actions) in response to its observed internal and external situation.
+GLAIR contains multiple layers:
+• the Knowledge Layer (KL), which contains the beliefs of the agent, and is where reasoning,
+planning, and act selection are performed
+• the Sensori-Actuator Layer (SAL), contains the controllers of the sensors and effectors of
+the hardware or software robot.
+• the Perceptuo-Motor Layer (PML), which grounds the KL symbols in perceptual structures
+and subconscious actions, contains various registers for providing the agent’s sense of situatedness
+in the environment, and handles translation and communication between the KL
+and the SAL.
+The logical Knowledge Layer incorporates multiple memory types using a common representation
+(including declarative, procedural, episodic, attentional and intentional knowledge, and
+meta-knowledge). To support this broad range of knowledge types, a broad range of logical inference
+mechanisms are used, so that the KL may be variously viewed as predicate logic based,
+frame based, semantic network based, or from other perspectives.
+What makes GLAIR more robust than most logic based AI approaches is the novel paraconsistent
+logical formalism used in the knowledge base, which means (among other things)
+that uncertain, speculative or erroneous knowledge may exist in the system’s memory without
+leading the system to create a broadly erroneous view of the world or carry out egregiously
+unintelligent actions. CogPrime is not thoroughly logic-focused like GLAIR is, but in its logical
+aspect it seeks a similar robustness through its use of PLN logic, which embodies properties
+related to paraconsistency.
+Compared to CogPrime, we see that GLAIR has a similarly integrative approach, but that
+the integration of different sorts of cognition is done more strictly within the framework of
+logical knowledge representation.
+4.3 Emergentist Cognitive Architectures 65
+4.3 Emergentist Cognitive Architectures
+Another species of cognitive architecture expects abstract symbolic processing to emerge from
+lower-level “subsymbolic” dynamics, which sometimes (but not always) are designed to simulate
+neural networks or other aspects of human brain function. These architectures are typically
+strong at recognizing patterns in high-dimensional data, reinforcement learning and associative
+memory; but no one has yet shown how to achieve high-level functions such as abstract reasoning
+or complex language processing using a purely subsymbolic approach. A few of the more
+important subsymbolic, emergentist cognitive architectures are:
+• DeSTIN [ARK09a, ARC09], which is part of CogPrime, may also be considered as an
+autonomous AGI architecture, in which case it is emergentist and contains mechanisms
+to encourage language, high-level reasoning and other abstract aspects of intelligent to
+emerge from hierarchical pattern recognition and related self-organizing network dynamics.
+In CogPrime DeSTIN is used as part of a hybrid architecture, which greatly reduces the
+reliance on DeSTIN’s emergent properties.
+• Hierarchical Temporal Memory (HTM) [HB06] is a hierarchical temporal pattern
+recognition architecture, presented as both an AI approach and a model of the cortex. So
+far it has been used exclusively for vision processing and we will discuss its shortcomings
+later in the context of our treatment of DeSTIN.
+• SAL [JL08], based on the earlier and related IBCA (Integrated Biologically-based Cognitive
+Architecture) is a large-scale emergent architecture that seeks to model distributed
+information processing in the brain, especially the posterior and frontal cortex and the
+hippocampus. So far the architectures in this lineage have been used to simulate various
+human psychological and psycholinguistic behaviors, but haven’t been shown to give rise to
+higher-level behaviors like reasoning or subgoaling.
+• NOMAD (Neurally Organized Mobile Adaptive Device) automata and its successors
+[KE06] are based on Edelman’s “Neural Darwinism” model of the brain, and feature large
+numbers of simulated neurons evolving by natural selection into configurations that carry
+out sensorimotor and categorization tasks. The emergence of higher-level cognition from
+this approach seems rather unlikely.
+• Ben Kuipers and his colleagues [MK07, MK08, MK09]have pursued an extremely innovative
+research program which combines qualitative reasoning and reinforcement learning to enable
+an intelligent agent to learn how to act, perceive and model the world. Kuipers’ notion of
+“bootstrap learning” involves allowing the robot to learn almost everything about its world,
+including for instance the structure of 3D space and other things that humans and other
+animals obtain via their genetic endowments. Compared to Kuipers’ approach, CogPrime
+falls in line with most other approaches which provide more “hard-wired” structure, following
+the analogy to biological organisms that are born with more innate biases.
+There is also a set of emergentist architectures focused specifically on developmental robotics,
+which we will review below in a separate subsection, as all of these share certain common
+characteristics.
+Our general perspective on the emergentist approach is that it is philosophically correct
+but currently pragmatically inadequate. Eventually, some emergentist approach could surely
+succeed at giving rise to humanlike general intelligence – the human brain, after all, is plainly
+an emergentist system. However, we currently lack understanding of how the brain gives rise
+to abstract reasoning and complex language, and none of the existing emergentist systems
+66 4 Brief Survey of Cognitive Architectures
+seem remotely capable of giving rise to such phenomena. It seems to us that the creation of
+a successful emergentist AGI will have to wait for either a detailed understanding of how the
+brain gives rise to abstract thought, or a much more thorough mathematical understanding of
+the dynamics of complex self-organizing systems.
+The concept of cognitive synergy is more relevant to emergentist than to symbolic architectures.
+In a complex emergentist architecture with multiple specialized components, much of
+the emergence is expected to arise via synergy between different richly interacting components.
+Symbolic systems, at least in the forms currently seen in the literature, seem less likely to give
+rise to cognitive synergy as their dynamics tend to be simpler. And hybrid systems, as we shall
+see, are somewhat diverse in this regard: some rely heavily on cognitive synergies and others
+consist of more loosely coupled components.
+We now review the DeSTIN emergentist architecture in more detail, and then turn to the
+developmental robotics architectures.
+4.3.1 DeSTIN: A Deep Reinforcement Learning Approach to AGI
+The DeSTIN architecture, created by Itamar Arel and his colleagues, addresses the problem
+of general intelligence using hierarchical spatiotemporal networks designed to enable scalable
+perception, state inference and reinforcement-learning-guided action in real-world environments.
+DeSTIN has been developed with the plan of gradually extending it into a complete system for
+humanoid robot control, founded on the same qualitative information-processing principles as
+the human brain (though without striving for detailed biological realism). However, the practical
+work with DeSTIN to date has focused on visual and auditory processing; and in the context of
+the present proposal, the intention is to utilize DeSTIN for perception and actuation oriented
+processing, hybridizing it with CogPrime which will handle abstract cognition and language.
+Here we will discuss DeSTIN primarily in the perception context, only briefly mentioning the
+application to actuation which is conceptually similar.
+In DeSTIN (see Figure 4.4), perception is carried out by a deep spatiotemporal inference
+network, which is connected to a similarly architected critic network that provides feedback on
+the inference network’s performance, and an action network that controls actuators based on the
+activity in the inference network (Figure 4.5 depicts a standard action hierarchy, of which the
+hierarchy in DeSTIN is an example). The nodes in these networks perform probabilistic pattern
+recognition according to algorithms to be described below; and the nodes in each of the networks
+may receive states of nodes in the other networks as inputs, providing rich interconnectivity
+and synergetic dynamics.
+4.3.1.1 Deep versus Shallow Learning for Perceptual Data Processing
+The most critical feature of DeSTIN is its uniquely robust approach to modeling the world
+based on perceptual data. Mimicking the efficiency and robustness by which the human brain
+analyzes and represents information has been a core challenge in AI research for decades. For
+instance, humans are exposed to massive amounts of visual and auditory data every second
+of every day, and are somehow able to capture critical aspects of it in a way that allows for
+appropriate future recollection and action selection. For decades, it has been known that the
+4.3 Emergentist Cognitive Architectures 67
+Fig. 4.4: High-level architecture of DeSTIN
+brain is a massively parallel fabric, in which computation processes and memory storage are
+highly distributed. But massive parallelism is not in itself a solution – one also needs the right
+architecture; which DeSTIN provides, building on prior work in the area of deep learning.
+Humanlike intelligence is heavily adapted to the physical environments in which humans
+evolved; and one key aspect of sensory data coming from our physical environments is its
+hierarchical structure. However, most machine learning and pattern recognition systems are
+“shallow” in structure, not explicitly incorporating the hierarchical structure of the world in
+their architecture. In the context of perceptual data processing, the practical result of this is
+the need to couple each shallow learner with a pre-processing stage, wherein high-dimensional
+sensory signals are reduced to a lower-dimension feature space that can be understood by the
+shallow learner. The hierarchical structure of the world is thus crudely captured in the hierarchy
+of “preprocessor plus shallow learner.” In this sort of approach, much of the intelligence of the
+system shifts to the feature extraction process, which is often imperfect and always applicationdomain
+specific.
+Deep machine learning has emerged as a more promising framework for dealing with complex,
+high-dimensional real-world data. Deep learning systems possess a hierarchical structure that
+intrinsically biases them to recognize the hierarchical patterns present in real-world data. Thus,
+they hierarchically form a feature space that is driven by regularities in the observations, rather
+than by hand-crafted techniques. They also offer robustness to many of the distortions and
+transformations that characterize real-world signals, such as noise, displacement, scaling, etc.
+Deep belief networks [HOT06] and Convolutional Neural Networks [LBDE90] have been
+demonstrated to successfully address pattern inference in high dimensional data (e.g. images).
+They owe their success to their underlying paradigm of partitioning large data structures into
+smaller, more manageable units, and discovering the dependencies that may or may not exist
+68 4 Brief Survey of Cognitive Architectures
+Fig. 4.5: A standard, general-purpose hierarchical control architecture. DeSTIN’s control hierarchy
+exemplifies this architecture, with the difference lying mainly in the DeSTIN control
+hierarchy’s tight integration with the state inference (perception) and critic (reinforcement)
+hierarchies.
+between such units. However, this paradigm has its limitations; for instance, these approaches
+do not represent temporal information with the same ease as spatial structure. Moreover, some
+key constraints are imposed on the learning schemes driving these architectures, namely the
+need for layer-by-layer training, and oftentimes pre-training. DeSTIN overcomes the limitations
+of prior deep learning approaches to perception processing, and also extends beyond perception
+to action and reinforcement learning.
+4.3.1.2 DeSTIN for Perception Processing
+The hierarchical architecture of DeSTIN’s spatiotemporal inference network comprises an arrangement
+into multiple layers of “nodes” comprising multiple instantiations of an identical
+cortical circuit. Each node corresponds to a particular spatiotemporal region, and uses a statistical
+learning algorithm to characterize the sequences of patterns that are presented to it by
+nodes in the layer beneath it. More specifically,
+• At the very lowest layer of the hierarchy nodes receive as input raw data (e.g. pixels of an
+image) and continuously construct a belief state that attempts to characterize the sequences
+of patterns viewed.
+4.3 Emergentist Cognitive Architectures 69
+• The second layer, and all those above it, receive as input the belief states of nodes at their
+corresponding lower layers, and attempt to construct belief states that capture regularities
+in their inputs.
+• Each node also receives as input the belief state of the node above it in the hierarchy (which
+constitutes “contextual” information)
+Fig. 4.6: Small-scale instantiation of the DeSTIN perceptual hierarchy. Each box represents a
+node, which corresponds to a spatiotemporal region (nodes higher in the hierarchy corresponding
+to larger regions). O denotes the current observation in the region, C is the state of the higherlayer
+node, and S and S ′ denote state variables pertaining to two subsequent time steps. In
+each node, a statistical learning algorithm is used to predict subsequent states based on prior
+states, current observations, and the state of the higher-layer node.
+More specifically, each of the DeSTIN nodes, referring to a specific spacetime region, contains
+a set of state variables conceived as clusters, each corresponding to a set of previously-observed
+sequences of events. These clusters are characterized by centroids (and are hence assumed
+roughly spherical in shape), and each of them comprises a certain "spatiotemporal form" recognized
+by the system in that region. Each node then contains the task of predicting the likelihood
+of a certain centroid being most apropos in the near future, based on the past history of observations
+in the node. This prediction may be done by simple probability tabulation, or via
+70 4 Brief Survey of Cognitive Architectures
+application of supervised learning algorithms such as recurrent neural networks. These clustering
+and prediction processes occur separately in each node, but the nodes are linked together
+via bidirectional dynamics: each node feeds input to its parents, and receives "advice" from its
+parents that is used to condition its probability calculations in a contextual way.
+These processes are executed formally by the following basic belief update rule, which governs
+the learning process and is identical for every node in the architecture. The belief state is a
+probability mass function over the sequences of stimuli that the nodes learns to represent.
+Consequently, each node is allocated a predefined number of state variables each denoting a
+dynamic pattern, or sequence, that is autonomously learned. The DeSTIN update rule maps
+the current observation (o), belief state (b), and the belief state of a higher-layer node or context
+(c), to a new (updated) belief state (b ′ ), such that
+alternatively expressed as
+b ′ (s ′ ) = Pr (s ′ |o, b, c) = Pr (s′ ∩ o ∩ b ∩ c)
+, (4.1)
+Pr (o ∩ b ∩ c)
+b ′ (s ′ ) = Pr(o|s′ , b, c) Pr (s ′ |b, c) Pr (b, c)
+. (4.2)
+Pr (o|b, c) Pr (b, c)
+Under the assumption that observations depend only on the true state, or Pr(o|s ′ , b, c) =
+Pr(o|s ′ ), we can further simplify the expression such that
+b ′ (s ′ ) = Pr(o|s′ ) Pr (s ′ |b, c)
+, (4.3)
+Pr (o|b, c)
+where Pr (s ′ |b, c) = ∑ Pr (s ′ |s, c) b (s), yielding the belief update rule
+s∈S
+b ′ (s ′ ) =
+Pr (o|s ′ ) ∑ Pr (s ′ |s, c) b (s)
+s∈S
+∑
+Pr (o|s ′′ ) ∑ Pr (s ′′ |s, c) b (s) , (4.4)
+s ′′ ∈S
+where S denotes the sequence set (i.e. belief dimension) such that the denominator term is a
+normalization factor.
+One interpretation of eq. (4.4) would be that the static pattern similarity metric, Pr (o|s ′ ) ,
+is modulated by a construct that reflects the system dynamics, Pr (s ′ |s, c). As such, the belief
+state inherently captures both spatial and temporal information. In our implementation, the
+belief state of the parent node, c, is chosen using the selection rule
+s∈S
+c = arg max b p (s), (4.5)
+s
+where b p is the belief distribution of the parent node.
+A close look at eq. (4.4) reveals that there are two core constructs to be learned, Pr(o|s ′ )
+and Pr(s ′ |s, c). In the current DeSTIN design, the former is learned via online clustering while
+the latter is learned based on experience by inductively learning a rule that predicts the next
+state s ′ given the prior state s and c.
+The overall result is a robust framework that autonomously (i.e. with no human engineered
+pre-processing of any type) learns to represent complex data patterns, and thus serves the
+4.3 Emergentist Cognitive Architectures 71
+critical role of building and maintaining a model of the state of the world. In a vision processing
+context, for example, it allows for powerful unsupervised classification. If shown a variety of
+real-world scenes, it will automatically form internal structures corresponding to the various
+natural categories of objects shown in the scenes, such as trees, chairs, people, etc.; and also
+the various natural categories of events it sees, such as reaching, pointing, falling. And, as will
+be discussed below, it can use feedback from DeSTIN’s action and critic networks to further
+shape its internal world-representation based on reinforcement signals.
+Benefits of DeSTIN for Perception Processing
+DeSTIN’s perceptual network offers multiple key attributes that render it more powerful than
+other deep machine learning approaches to sensory data processing:
+1. The belief space that is formed across the layers of the perceptual network inherently
+captures both spatial and temporal regularities in the data. Given that many applications
+require that temporal information be discovered for robust inference, this is a key advantage
+over existing schemes.
+2. Spatiotemporal regularities in the observations are captured in a coherent manner (rather
+than being represented via two separate mechanisms)
+3. All processing is both top-down and bottom-up, and both hierarchical and heterarchical,
+based on nonlinear feedback connections directing activity and modulating learning in multiple
+directions through DeSTIN’s cortical circuits
+4. Support for multi-modal fusing is intrinsic within the framework, yielding a powerful state
+inference system for real-world, partially-observable settings.
+5. Each node is identical, which makes it easy to map the design to massively parallel platforms,
+such as graphics processing units.
+Points 2-4 in the above list describe how DeSTIN’s perceptual network displays its own
+“cognitive synergy” in a way that fits naturally into the overall synergetic dynamics of the overall
+CogPrime architecture. Using this cognitive synergy, DeSTIN’s perceptual network addresses
+a key aspect of general intelligence: the ability to robustly infer the state of the world, with
+which the system interacts, in an accurate and timely manner.
+4.3.1.3 DeSTIN for Action and Control
+DeSTIN’s perceptual network performs unsupervised world-modeling, which is a critical aspect
+of intelligence but of course is not the whole story. DeSTIN’s action network, coupled with the
+perceptual network, orchestrates actuator commands into complex movements, but also carries
+out other functions that are more cognitive in nature.
+For instance, people learn to distinguish between cups and bowls in part via hearing other
+people describe some objects as cups and others as bowls. To emulate this kind of learning,
+DeSTIN’s critic network provides positive or negative reinforcement signals based on whether
+the action network has correctly identified a given object as a cup or a bowl, and this signal
+then impacts the nodes in the action network. The critic network takes a simple external “degree
+of success or failure” signal and turns it into multiple reinforcement signals to be fed into the
+multiple layers of the action network. The result is that the action network self-organizes so
+72 4 Brief Survey of Cognitive Architectures
+as to include an implicit “cup versus bowl” classifier, whose inputs are the outputs of some of
+the nodes in the higher levels of the perceptual network. This classifier belongs in the action
+network because it is part of the procedure by which the DeSTIN system carries out the action
+of identifying an object as a cup or a bowl.
+This example illustrates how the learning of complex concepts and procedures is divided
+fluidly between the perceptual network, which builds a model of the world in an unsupervised
+way, and the action network, which learns how to respond to the world in a manner that will
+receive positive reinforcement from the critic network.
+4.3.2 Developmental Robotics Architectures
+A particular subset of emergentist cognitive architectures are sufficiently important that we
+consider them separately here: these are developmental robotics architectures, focused on controlling
+robots without significant “hard-wiring” of knowledge or capabilities, allowing robots
+to learn (and learn how to learn, etc.) via their engagement with the world. A significant focus
+is often placed here on “intrinsic motivation,” wherein the robot explores the world guided by
+internal goals like novelty or curiosity, forming a model of the world as it goes along, based
+on the modeling requirements implied by its goals. Many of the foundations of this research
+area were laid by Juergen Schmidhuber’s work in the 1990s [Sch91b, Sch91a, Sch95, Sch02], but
+now with more powerful computers and robots the area is leading to more impressive practical
+demonstrations.
+We mention here a handful of the important initiatives in this area:
+• Juyang Weng’s Dav [HZT + 02] and SAIL [WHZ + 00] projects involve mobile robots that
+explore their environments autonomously, and learn to carry out simple tasks by building up
+their own world-representations through both unsupervised and teacher-driven processing
+of high-dimensional sensorimotor data. The underlying philosophy is based on human child
+development [WH06], the knowledge representations involved are neural network based,
+and a number of novel learning algorithms are involved, especially in the area of vision
+processing.
+• FLOWERS [BO09], an initiative at the French research institute INRIA, led by Pierre-
+Yves Oudeyer, is also based on a principle of trying to reconstruct the processes of development
+of the human child’s mind, spontaneously driven by intrinsic motivations. Kaplan
+[Kap08] has taken this project in a direction closely related to our own via the creation
+of a “robot playroom.” Experiential language learning has also been a focus of the project
+[OK06], driven by innovations in speech understanding.
+• IM-CLEVER 1 , a new European project coordinated by Gianluca Baldassarre and conducted
+by a large team of researchers at different institutions, is focused on creating software
+enabling an iCub [MSV + 08] humanoid robot to explore the environment and learn to carry
+out human childlike behaviors based on its own intrinsic motivations. As this project is the
+closest to our own we will discuss it in more depth below.
+Like CogPrime, IM-CLEVER is a humanoid robot intelligence architecture guided by intrinsic
+motivations, and using hierarchical architectures for reinforcement learning and sensory ab-
+1 http://im-clever.noze.it/project/project-description
+4.4 Hybrid Cognitive Architectures 73
+straction. IM-CLEVER’s motivational structure is based in part on Schmidhuber’s informationtheoretic
+model of curiosity [Sch06]; and CogPrime’s Psi-based motivational structure utilizes
+probabilistic measures of novelty, which are mathematically related to Schmidhuber’s measures.
+On the other hand, IM-CLEVER’s use of reinforcement learning follows Schmidhuber’s
+earlier work RL for cognitive robotics [BS04, BZGS06], Barto’s work on intrinsically motivated
+reinforcement learning [SB06, SM05], and Lee’s [LMC07b, LMC07a] work on developmental
+reinforcement learning; whereas CogPrime’s assemblage of learning algorithms is more diverse,
+including probabilistic logic, concept blending and other symbolic methods (in the OCP component)
+as well as more conventional reinforcement learning methods (in the DeSTIN component).
+In many respects IM-CLEVER bears a moderately strong resemblance to DeSTIN, whose
+integration with CogPrime is discussed in Chapter 26 of Part 2 (although IM-CLEVER has
+much more focus on biological realism than DeSTIN). Apart from numerous technical differences,
+the really big distinction between IM-CLEVER and CogPrime is that in the latter we
+are proposing to hybridize a hierarchical-abstraction/reinforcement-learning system (such as
+DeSTIN) with a more abstract symbolic cognition engine that explicitly handles probabilistic
+logic and language. IM-CLEVER lacks the aspect of hybridization with a symbolic system, taking
+more of a pure emergentist strategy. Like DeSTIN considered as a standalone architecture
+IM-CLEVER does entail a high degree of cognitive synergy, between components dealing with
+perception, world-modeling, action and motivation. However, the “emergentist versus hybrid”
+is a large qualitative difference between the two approaches.
+In all, while we largely agree with the philosophy underlying developmental robotics, our
+intuition is that the learning and representational mechanisms underlying the current systems
+in this area are probably not powerful enough to lead to human child level intelligence. We
+expect that these systems will develop interesting behaviors but fall short of robust preschool
+level competency, especially in areas like language and reasoning where symbolic systems have
+typically proved more effective. This intuition is what impels us to pursue a hybrid approach,
+such as CogPrime. But we do feel that eventually, once the mechanisms underlying brains are
+better understood and robotic bodies are richer in sensation and more adept in actuation, some
+sort of emergentist, developmental-robotics approach can be successful at creating humanlike,
+human-level AGI.
+4.4 Hybrid Cognitive Architectures
+In response to the complementary strengths and weaknesses of the symbolic and emergentist
+approaches, in recent years a number of researchers have turned to integrative, hybrid architectures,
+which combine subsystems operating according to the two different paradigms. The
+combination may be done in many different ways, e.g. connection of a large symbolic subsystem
+with a large subsymbolic system, or the creation of a population of small agents each of which
+is both symbolic and subsymbolic in nature.
+Nils Nilsson expressed the motivation for hybrid AGI systems very clearly in his article at
+the AI-50 conference (which celebrated the 50’th anniversary of the AI field) [Nil09]. While
+affirming the value of the Physical Symbol System Hypothesis that underlies symbolic AI, he
+argues that “the PSSH explicitly assumes that, whenever necessary, symbols will be grounded
+in objects in the environment through the perceptual and effector capabilities of a physical
+symbol system.” Thus, he continues,
+74 4 Brief Survey of Cognitive Architectures
+“I grant the need for non-symbolic processes in some intelligent systems, but I think they supplement
+rather than replace symbol systems. I know of no examples of reasoning, understanding
+language, or generating complex plans that are best understood as being performed by systems
+using exclusively non-symbolic processes....
+AI systems that achieve human-level intelligence will involve a combination of symbolic and
+non-symbolic processing.”
+A few of the more important hybrid cognitive architectures are:
+• CLARION [SZ04] is a hybrid architecture that combines a symbolic component for reasoning
+on “explicit knowledge” with a connectionist component for managing “implicit knowledge.”
+Learning of implicit knowledge may be done via neural net, reinforcement learning,
+or other methods. The integration of symbolic and subsymbolic methods is powerful, but a
+great deal is still missing such as episodic knowledge and learning and creativity. Learning
+in the symbolic and subsymbolic portions is carried out separately rather than dynamically
+coupled, minimizing “cognitive synergy” effects.
+• DUAL [NK04] is the most impressive system to come out of Marvin Minsky’s “Society of
+Mind” paradigm. It features a population of agents, each of which combines symbolic and
+connectionist representation, self-organizing to collectively carry out tasks such as perception,
+analogy and associative memory. The approach seems innovative and promising, but
+it is unclear how the approach will scale to high-dimensional data or complex reasoning
+problems due to the lack of a more structured high-level cognitive architecture.
+• LIDA [BF09] is a comprehensive cognitive architecture heavily based on Bernard Baars’
+“Global Workspace Theory”. It articulates a “cognitive cycle” integrating various forms of
+memory and intelligent processing in a single processing loop. The architecture ties in well
+with both neuroscience and cognitive psychology, but it deals most thoroughly with “lower
+level” aspects of intelligence, handling more advanced aspects like language and reasoning
+only somewhat sketchily. There is a clear mapping between LIDA structures and processes
+and corresponding structures and processing in OCP; so that it’s only a mild stretch to view
+CogPrime as an instantiation of the general LIDA approach that extends further both in
+the lower level (to enable robot action and sensation via DeSTIN) and the higher level (to
+enable advanced language and reasoning via OCP mechanisms that have no direct LIDA
+analogues).
+• MicroPsi [Bac09] is an integrative architecture based on Dietrich Dorner’s Psi model of motivation,
+emotion and intelligence. It has been tested on some practical control applications,
+and also on simulating artificial agents in a simple virtual world. MicroPsi’s comprehensiveness
+and basis in neuroscience and psychology are impressive, but in the current version
+of MicroPsi, learning and reasoning are carried out by algorithms that seem unlikely to
+scale. OCP incorporates the Psi model for motivation and emotion, so that MicroPsi and
+CogPrime may be considered very closely related systems. But similar to LIDA, MicroPsi
+currently focuses on the “lower level” aspects of intelligence, not yet directly handling advanced
+processes like language and abstract reasoning.
+• PolyScheme [Cas07] integrates multiple methods of representation, reasoning and inference
+schemes for general problem solving. Each Polyscheme “specialist” models a different
+aspect of the world using specific representation and inference techniques, interacting with
+other specialists and learning from them. Polyscheme has been used to model infant reasoning
+including object identity, events, causality, and spatial relations. The integration of
+4.4 Hybrid Cognitive Architectures 75
+reasoning methods is powerful, but the overall cognitive architecture is simplistic compared
+to other systems and seems focused more on problem-solving than on the broader problem
+of intelligent agent control.
+• Shruti [SA93] is a fascinating biologically-inspired model of human reflexive inference,
+which represents in connectionist architecture relations, types, entities and causal rules
+using focal-clusters. However, much like Hofstadter’s earlier Copycat architecture [Hof95],
+Shruti seems more interesting as a prototype exploration of ideas than as a practical AGI
+system; at least, after a significant time of development it has not proved significantly
+effective in any applications
+• James Albus’s 4D/RCS robotics architecture shares a great deal with some of the emergentist
+architectures discussed above, e.g. it has the same hierarchical pattern recognition
+structure as DeSTIN and HTM, and the same three cross-connected hierarchies as DeSTIN,
+and shares with the developmental robotics architectures a focus on real-time adaptation to
+the structure of the world. However, 4D/RCS is not foundationally learning-based but relies
+on hard-wired architecture and algorithms, intended to mimic the qualitative structure of
+relevant parts of the brain (and intended to be augmented by learning, which differentiates
+it from emergentist approaches.
+As our own CogPrime approach is a hybrid architecture, it will come as no surprise that
+we believe several of the existing hybrid architectures are fundamentally going in the right
+direction. However, nearly all the existing hybrid architectures have severe shortcomings which
+we feel will prevent them from achieving robust humanlike AGI.
+Many of the hybrid architectures are in essence “multiple, disparate algorithms carrying out
+separate functions, encapsulated in black boxes and communicating results with each other.”
+For instance, PolyScheme, ACT-R and CLARION all display this “modularity” property to a
+significant extent. These architectures lack the rich, real-time interaction between the internal
+dynamics of various memory and learning processes that we believe is critical to achieving
+humanlike general intelligence using realistic computational resources. On the other hand, those
+architectures that feature richer integration – such as DUAL, Shruti, LIDA and MicroPsi – have
+the flaw of relying (at least in their current versions) on overly simplistic learning algorithms,
+which drastically limits their scalability.
+It does seem plausible to us that some of these hybrid architectures could be dramatically
+extended or modified so as to produce humanlike general intelligence. For instance, one could
+replace LIDA’s learning algorithms with others that interrelate with each other in a nuanced
+synergetic way; or one could replace MicroPsi’s simple learning and reasoning methods with
+much more powerful and scalable ones acting on the same data structures. However, making
+these changes would dramatically alter the cognitive architectures in question on multiple levels.
+4.4.1 Neural versus Symbolic; Global versus Local
+The “symbolic versus emergentist” dichotomy that we have used to structure our review of cognitive
+architectures is not absolute nor fully precisely defined; it is more of a heuristic distinction.
+In this section, before plunging into the details of particular hybrid cognitive architectures, we
+review two other related dichotomies that are useful for understanding hybrid systems: neural
+versus symbolic systems, and globalist versus localist knowledge representation.
+76 4 Brief Survey of Cognitive Architectures
+4.4.1.1 Neural-Symbolic Integration
+The distinction between neural and symbolic systems has gotten fuzzier and fuzzier in recent
+years, with developments such as
+• Logic-based systems being used to control embodied agents (hence using logical terms to
+deal with data that is apparently perception or actuation-oriented in nature, rather than
+being symbolic in the semiotic sense), see [SS03a] and [GMIH08].
+• Hybrid systems combining neural net and logical parts, or using logical or neural net components
+interchangeably in the same role [LAon].
+• Neural net systems being used for strongly symbolic tasks such as automated grammar
+learning ([Elm91], [Elm91], plus more recent work.)
+Figure 4.7 presents a schematic diagram of a generic neural-symbolic system, generalizing
+from [BH05], a paper that gives an elegant categorization of neural-symbolic AI systems. Figure
+4.8 depicts several broad categories of neural-symbolic architecture.
+Fig. 4.7: Generic neural-symbolic architecture
+Bader and Hitzler categorize neural-symbolic systems according to three orthogonal axes:
+interrelation, language and usage. “Language” refers to the type of language used in the symbolic
+component, which may be logical, automata-based, formal grammar-based, etc. “Usage” refers
+to the purpose to which the neural-symbolic interrelation is put. We tend to use “learning” as
+an encompassing term for all forms of ongoing knowledge-creation, whereas Bader and Hitzler
+distinguish learning from reasoning.
+Of Bader and Hitzler’s three axes the one that interests us most here is “interrelation”, which
+refers to the way the neural and symbolic components of the architecture intersect with each
+other. They distinguish “hybrid” architectures which contain separate but equal, interacting
+neural and symbolic components; versus “integrative” architectures in which the symbolic component
+essentially rides piggyback on the neural component, extracting information from it and
+helping it carry out its learning, but playing a clearly derived and secondary role. We prefer
+Sun’s (2001) term “monolithic” to Bader and Hitzler’s “integrative” to describe this type of
+system, as the latter term seems best preserved in its broader meaning.
+4.4 Hybrid Cognitive Architectures 77
+Fig. 4.8: Broad categories of neural-symbolic architecture
+Within the scope of hybrid neural-symbolic systems, there is another axis which Bader and
+Hitzler do not focus on, because the main interest of their review is in monolithic systems. We
+call this axis "interactivity"’, and what we are referring to is the frequency of high-informationcontent,
+high-influence interaction between the neural and symbolic components in the hybrid
+system. In a low-interaction hybrid system, the neural and symbolic components don’t exchange
+large amounts of mutually influential information all that frequently, and basically act like
+independent system components that do their learning/reasoning/thinking periodically sending
+each other their conclusions. In some cases, interaction may be asymmetric: one component may
+frequently send a lot of influential information to the other, but not vice versa. However, our
+hypothesis is that the most capable neural-symbolic systems are going to be the symmetrically
+highly interactive ones.
+In a symmetric high-interaction hybrid neural-symbolic system, the neural and symbolic
+components exchange influential information sufficiently frequently that each one plays a major
+role in the other one’s learning/reasoning/thinking processes. Thus, the learning processes of
+each component must be considered as part of the overall dynamic of the hybrid system. The
+two components aren’t just feeding their outputs to each other as inputs, they’re mutually
+guiding each others’ internal processing.
+One can make a speculative argument for the relevance of this kind of architecture to neuroscience.
+It seems plausible that this kind of neural-symbolic system roughly emulates the kind
+of interaction that exists between the brain’s neural subsystems implementing localist symbolic
+processing, and the brain’s neural subsystems implementing globalist, classically “connectionist”
+processing. It seems most likely that, in the brain, symbolic functionality emerges from
+an underlying layer of neural dynamics. However, it is also reasonable to conjecture that this
+symbolic functionality is confined to a functionally distinct subsystem of the brain, which then
+78 4 Brief Survey of Cognitive Architectures
+interacts with other subsystems in the brain much in the manner that the symbolic and neural
+components of a symmetric high-interaction neural-symbolic system interact.
+Neuroscience speculations aside, however, our key conjecture regarding neural-symbolic integration
+is that this sort of neural-symbolic system presents a promising direction for artificial
+general intelligence research. In Chapter 26 of Volume 2 we will give a more concrete idea of
+what a symmetric high-interaction hybrid neural-symbolic architecture might look like, exploring
+the potential for this sort of hybridization between the OpenCogPrime AGI architecture
+(which is heavily symbolic in nature) and hierarchical attractor neural net based architectures
+such as DeSTIN.
+4.5 Globalist versus Localist Representations
+Another interesting distinction, related to but different from “symbolic versus emergentist”
+and “neural versus symbolic”, may be drawn between cognitive systems (or subsystems) where
+memory is essentially global, and those where memory is essentially local. In this section
+we will pursue this distinction in various guises, along with the less familiar notion of glocal
+memory.
+This globalist/localist distinction is most easily conceptualized by reference to memories
+corresponding to categories of entities or events in an external environment. In an AI system
+that has an internal notion of “activation” – i.e. in which some of its internal elements are more
+active than others, at any given point in time – one can define the internal image of an external
+event or entity as the fuzzy set of internal elements that tend to be active when that event or
+entity is presented to the system’s sensors. If one has a particular set S of external entities or
+events of interest, then, the degree of memory localization of such an AI system relative to S
+may be conceived as the percentage of the system’s internal elements that have a high degree
+of membership in the internal image of an average element of S.
+Of course, this characterization of localization has its limitations, such as the possibility of
+ambiguity regarding what are the “system elements” of a given AI system; and the exclusive
+focus on internal images of external phenomena rather than representation of internal abstract
+concepts. However, our goal here is not to formulate an ultimate, rigorous and thorough ontology
+of memory systems, but only to pose a “rough and ready” categorization so as to properly frame
+our discussion of some specific AGI issues relevant to CogPrime. Clearly the ideas pursued here
+will benefit from further theoretical exploration and elaboration.
+In this sense, a Hopfield neural net [Ami89] would be considered “globalist” since it has a low
+degree of memory localization (most internal images heavily involve a large number of system
+elements); whereas Cyc would be considered “localist” as it has a very high degree of memory
+localization (most internal images are heavily focused on a small set of system elements).
+However, although Hopfield nets and Cyc form handy examples, the “globalist vs. localist”
+distinction as described above is not identical to the “neural vs. symbolic” distinction. For it is
+in principle quite possible to create localist systems using formal neurons, and also to create
+globalist systems using formal logic. And “globalist-localist” is not quite identical to “symbolic vs
+emergentist” either, because the latter is about coordinated system dynamics and behavior not
+just about knowledge representation. CogPrime combines both symbolic and (loosely) neural
+representations, and also combines globalist and localist representations in a way that we will
+call “glocal” and analyze more deeply in Chapter 13; but there are many other ways these various
+4.5 Globalist versus Localist Representations 79
+properties could be manifested by AI systems. Rigorously studying the corpus of existing (or
+hypothetical!) cognitive architectures using these ideas would be a large task, which we do not
+undertake here.
+In the next sections we review several hybrid architectures in more detail, focusing most
+deeply on LIDA and MicroPsi which have been directly inspirational for CogPrime.
+4.5.1 CLARION
+Ron Sun’s CLARION architecture (see Figure 4.9) is interesting in its combination of symbolic
+and neural aspects – a combination that is used in a sophisticated way to embody the distinction
+and interaction between implicit and explicit mental processes. From a CLARION perspective,
+architectures like Soar and ACT-R are severely limited in that they deal only with explicit
+knowledge and associated learning processes.
+CLARION consists of a number of distinct subsystems, each of which contains a dual representational
+structure, including a “rules and chunks” symbolic knowledge store somewhat
+similar to ACT-R, and a neural net knowledge store embodying implicit knowledge. The main
+subsystems are:
+• An action-centered subsystem to control actions;
+• A non-action-centered subsystem to maintain general knowledge;
+• A motivational subsystem to provide underlying motivations for perception, action, and
+cognition;
+• A meta-cognitive subsystem to monitor, direct, and modify the operations of all the other
+subsystems.
+Fig. 4.9: The CLARION cognitive architecture.
+80 4 Brief Survey of Cognitive Architectures
+4.5.2 The Society of Mind and the Emotion Machine
+In his influential but controversial book The Society of Mind [Min88], Marvin Minsky described
+a model of human intelligence as something that is built up from the interactions of numerous
+simple agents. He spells out in great detail how various particular cognitive functions may be
+achieved via agents and their interactions. He leaves no room for any central algorithms or
+structures of thought, famously arguing: “What magical trick makes us intelligent? The trick
+is that there is no trick. The power of intelligence stems from our vast diversity, not from any
+single, perfect principle.”
+This perspective was extended in the more recent work The Emotion Machine [Min07], where
+Minsky argued that emotions are “ways to think” evolved to handle different “problem types”
+that exist in the world. The brain is posited to have rule-based mechanisms (selectors) that
+turns on emotions to deal with various problems.
+Overall, both of these works serve better as works of speculative cognitive science than as
+works of AI or cognitive architecture per se. As neurologist Richard Restak said in his review
+of Emotion Machine, “Minsky does a marvelous job parsing other complicated mental activities
+into simpler elements. ... But he is less effective in relating these emotional functions to what’s
+going on in the brain.” As Restak added, he is also not so effective at relating these emotional
+functions to straightforwardly implementable algorithms or data structures.
+Push Singh, in his PhD thesis and followup work [SBC05], did the best job so far of creating
+a concrete AI design based on Minsky’s ideas. While Singh’s system was certainly interesting,
+it was also noteworthy for its lack of any learning mechanisms, and its exclusive focus on
+explicit rather than implicit knowledge. Due to Singh’s tragic death, his work was never brought
+anywhere near completion. It seems fair to say that there has not yet been a serious cognitive
+architecture posed based closely on Minsky’s ideas.
+4.5.3 DUAL
+The closest thing to a Minsky-ish cognitive architecture is probably DUAL, which takes the
+Society of Mind concept and adds to it a number of other interesting ideas. DUAL integrates
+symbolic and connectionist approaches at a deeper level than CLARION, and has been used
+to model various cognitive functions such as perception, analogy and judgment. Computations
+in DUAL emerge from the self-organized interaction of many micro-agents, each of which is
+a hybrid symbolic/connectionist device. Each DUAL agent plays the role of a neural network
+node, with an activation level and activation spreading dynamics; but also plays the role of
+a symbol, manipulated using formal rules. The agents exchange messages and activation via
+links that can be learned and modified, and they form coalitions which collectively represent
+concepts, episodes, and facts.
+The structure of the model is sketchily depicted in Figure 4.10, which covers the application
+of DUAL to a toy environment called TextWorld. The visual input corresponding to a stimulus
+is presented on a two-dimensional visual array representing the front end of the system.
+Perceptual primitives like blobs and terminations are immediately generated by cheap parallel
+computations. Attention is controlled at each time by an object which allocates it selectively
+to some area of the stimulus. A detailed symbolic representation is constructed for this area
+which tends to fade away as attention is withdrawn from it and allocated to another one. Cate-
+4.5 Globalist versus Localist Representations 81
+gorization of visual memory contents takes place by retrieving object and scene categories from
+DUAL’s semantic memory and mapping them onto current visual memory representations.
+Fig. 4.10: The three main components of the DUAL model: the retinotopic visual array (RVA),
+the visual working memory (VWM) and DUAL’s semantic memory. Attention is allocated to
+an area of the visual array by the object in VWM controlling attention, while scene and object
+categories corresponding to the contents of VWM are retrieved from the semantic memory.
+In principle the DUAL framework seems quite powerful; using the language of CogPrime,
+however, it seems to us that the learning mechanisms of DUAL have not been formulated in
+such a way as to give rise to powerful, scalable cognitive synergy. It would likely be possible
+to create very powerful AGI systems within DUAL, and perhaps some very CogPrime -like
+systems as well. But the systems that have been created or designed for use within DUAL so
+far seem not to be that powerful in their potential or scope.
+4.5.4 4D/RCS
+In a rather different direction, James Albus, while at the National Bureau of Standards, developed
+a very thorough and impressive architecture for intelligent robotics called 4D/RCS,
+which was implemented in a number of machines including unmanned automated vehicles. This
+architecture lacks critical aspects of intelligence such as learning and creativity, but combines
+perception, action, planning and world-modeling in a highly effective and tightly-integrated
+fashion.
+The architecture has three hierarchies of memory/processing units: one for perception, one
+for action and one for modeling and guidance. Each unit has a certain spatiotemporal scope,
+82 4 Brief Survey of Cognitive Architectures
+and (except for the lowest level) supervenes over children whose spatiotemporal scope is a subset
+of its own. The action hierarchy takes care of decomposing tasks into subtasks; whereas the
+sensation hierarchy takes care of grouping signals into entities and events. The modeling/guidance
+hierarchy mediates interactions between perception and action based on its understanding
+of the world and the system’s goals.
+In his book [AM01] Albus describes methods for extending 4D/RCS into a complete cognitive
+architecture, but these extensions have not been elaborated in full detail nor implemented.
+Fig. 4.11: Albus’s 4D-RCS architecture for a single vehicle
+4.5.5 PolyScheme
+Nick Cassimatis’s PolyScheme architecture [Cas07] shares with GLAIR the use of multiple
+logical reasoning methods on a common knowledge store. While its underlying ideas are quite
+general, currently PolyScheme is being developed in the context of the “object tracking” domain
+(construed very broadly). As a logic framework PolyScheme is fairly conventional (unlike GLAIR
+or NARS with their novel underlying formalisms), but PolyScheme has some unique conceptual
+aspects, for instance its connection with Cassimatis’s theory of mind, which holds that the same
+core set of logical concepts and relationships underlies both language and physical reasoning
+[Cas04]. This ties in with the use of a common knowledge store for multiple cognitive processes;
+for instance it suggests that
+• the same core relationships can be used for physical reasoning and parsing, but that each
+of these domains may involve some additional relationships.
+• language processing may be done via physical-reasoning-based cognitive processes, plus the
+additional activity of some language-specific processes
+4.5 Globalist versus Localist Representations 83
+Fig. 4.12: Albus’s perceptual, motor and modeling hierarchies
+4.5.6 Joshua Blue
+Sam Adams and his colleagues at IBM have created a cognitive architecture called Joshua Blue
+[AABL02], which has some significant similarities to CogPrime. Similar to our current research
+direction with CogPrime, Joshua Blue was created with loose emulation of child cognitive
+development in mind; and, also similar to CogPrime, it features a number of cognitive processes
+acting on a common neural-symbolic knowledge store. The specific cognitive processes involved
+in Joshua Blue and CogPrime are not particularly similar, however. At time of writing (2012)
+84 4 Brief Survey of Cognitive Architectures
+Joshua Blue is not under active development and has not been for some time; however, the
+project may be reanimated in future.
+Joshua Blue’s core knowledge representation is a semantic network of nodes connected by
+links along which activation spreads. Although many of the nodes have specific semantic referents,
+as in a classical semantic net, the spread of activation through the network is designed to
+lead to the emergence of “assemblies” (which could also be thought of as dynamical attractors)
+in a manner more similar to an attractor neural network.
+A major difference from typical semantic or neural network models is the central role that
+affect plays in the system’s dynamics. The weights of the links in the knowledge base are adjusted
+dynamically based on the emotional context – a very direct way of ensuring that cognitive
+processes and mental representations are continuously influenced by affect. Qualitatively, this
+mimics the way that particular emotions in the human brain correlate with the dissemination
+throughout the brain of particular neurotransmitters, which then affect synaptic activity.
+A result of this architecture is that in Joshua Blue, emotion directs attention in a very direct
+way: affective weighting is important in determining which associated objects will become part of
+the focus of attention, or will be retained from memory. A notable similarity between CogPrime
+and Joshua Blue is that in both systems, nodes are assigned two quantitative attention values,
+one governing allocation of current system resources (mainly processor time; this is CogPrime’s
+ShortTermImportance) and one governing the long-term allocation of memory (CogPrime’s
+LongTermImportance).
+The concrete work done with Joshua Blue involved using it to control a simple agent in a simulated
+world, with the goal that via human interaction, the agent would develop a complex and
+humanlike emotional and motivational structure from its simple in-built emotions and drives,
+and would then develop complex cognitive capabilities as part of this development process.
+4.5.7 LIDA
+The LIDA architecture developed by Stan Franklin and his colleagues [BF09] is based on the
+concept of the “cognitive cycle” - a notion that is important to nearly every BICA (Biologically
+Inspired Cognitive Architectures) and also to the brain, but that plays a particularly central
+role in LIDA. As Franklin says, "as a matter of principle, every autonomous agent, be it human,
+animal, or artificial, must frequently sample (sense) its environment, process (make sense of)
+this input, and select an appropriate response (action). The agent’s “life” can be viewed as
+consisting of a continual sequence of iterations of these cognitive cycles. Such cycles constitute
+the indivisible elements of attention, the least sensing and acting to which we can attend. A
+cognitive cycle can be thought of as a moment of cognition, a cognitive "moment"."
+4.5.8 The Global Workspace
+LIDA is heavily based on the “global workspace” concept developed by Bernard Baars. As this
+concept is also directly relevant to CogPrime it is worth briefly describing here.
+In essence Baars’ Global Workspace Theory (GWT) is a particular hypothesis about how
+working memory works and the role it plays in the mind. Baars conceives working memory as the
+4.5 Globalist versus Localist Representations 85
+“inner domain in which we can rehearse telephone numbers to ourselves or, more interestingly,
+in which we carry on the narrative of our lives. It is usually thought to include inner speech
+and visual imagery.” Baars uses the term “consciousness” to refer to the contents of working
+memory – a theoretical commitment that is not part of the CogPrime design. In this section
+we will use the term “consciousness” in Baars’ way, but not throughout the rest of the book.
+Baars conceives working memory and consciousness in terms of a “theater metaphor” – according
+to which, in the “theater of consciousness” a “spotlight of selective attention” shines
+a bright spot on stage. The bright spot reveals the global workspace – the contents of consciousness,
+which may be metaphorically considered as a group of actors moving in and out of
+consciousness, making speeches or interacting with each other. The unconscious is represented
+by the audience watching the play ... and there is also a role for the director (the mind’s executive
+processes) behind the scenes, along with a variety of helpers like stage hands, script
+writers, scene designers, etc.
+GWT describes a fleeting memory with a duration of a few seconds. This is much shorter
+than the 10-30 seconds of classical working memory – according to GWT there is a very brief
+“cognitive cycle” in which the global workspace is refreshed, and the time period an item remains
+in working memory generally spans a large number of these elementary “refresh” actions. GWT
+contents are proposed to correspond to what we are conscious of, and are said to be broadcast
+to a multitude of unconscious cognitive brain processes. Unconscious processes, operating in
+parallel, can form coalitions which can act as input processes to the global workspace. Each
+unconscious process is viewed as relating to certain goals, and seeking to get involved with
+coalitions that will get enough importance to become part of the global workspace – because
+once they’re in the global workspace they’ll be allowed to broadcast out across the mind as a
+whole, which include broadcasting to the internal and external actuators that allow the mind
+to do things. Getting into the global workspace is a process’s best shot at achieving its goals.
+Obviously, the theater metaphor used to describe the GWT is evocative but limited; for
+instance, the unconscious in the mind does a lot more than the audience in a theater. The
+unconscious comes up with complex creative ideas sometimes, which feed into consciousness –
+almost as if the audience is also the scriptwriter. Baars’ theory, with its understanding of unconscious
+dynamics in terms of coalition-building, fails to describe the subtle dynamics occurring
+within the various forms of long-term memory, which result in subtle nonlinear interactions
+between long term memory and working memory. But nevertheless, GWT successfully models
+a number of characteristics of consciousness, including its role in handling novel situations, its
+limited capacity, its sequential nature, and its ability to trigger a vast range of unconscious
+brain processes. It is the framework on which LIDA’s theory of the cognitive cycle is built.
+4.5.9 The LIDA Cognitive Cycle
+The simplest cognitive cycle is that of an animal, which senses the world, compares sensation to
+memory, and chooses an action, all in one fluid subjective moment. But the same cognitive cycle
+structure/process applies to higher-level cognitive processes as well. The LIDA architecture is
+based on the LIDA model of the cognitive cycle, which posits a particular structure underlying
+the cognitive cycle that possess the generality to encompass both simple and complex cognitive
+moments.
+86 4 Brief Survey of Cognitive Architectures
+The LIDA cognitive cycle itself is a theoretical construct that can be implemented in many
+ways, and indeed other BICAs like CogPrime and Psi also manifest the LIDA cognitive cycle
+in their dynamics, though utilizing different particular structures to do so.
+Figure 4.13 shows the cycle pictorially, starting in the upper left corner and proceeding
+clockwise. At the start of a cycle, the LIDA agent perceives its current situation and allocates
+attention differentially to various parts of it. It then broadcasts information about the most
+important parts (which constitute the agent’s consciousness), and this information gets features
+extracted from it, when then get passed along to episodic and semantic memory, that interact
+in the “global workspace” to create a model for the agent’s current situation. This model then,
+in interaction with procedural memory, enables the agent to choose an appropriate action and
+execute it - the critical “action-selection” phase!
+Fig. 4.13: The LIDA Cognitive Cycle
+The LIDA Cognitive Cycle in More Depth
+2
+We now run through the cognitive cycle in more detail. It begins with sensory stimuli from
+the agent’s external internal environment. Low-level feature detectors in sensory memory begin
+the process of making sense of the incoming stimuli. These low-level features are passed to
+perceptual memory where higher-level features, objects, categories, relations, actions, situations,
+2 This section paraphrases heavily from [Fra06]
+4.5 Globalist versus Localist Representations 87
+etc. are recognized. These recognized entities, called percepts, are passed to the workspace,
+where a model of the agent’s current situation is assembled.
+Workspace structures serve as cues to the two forms of episodic memory, yielding both short
+and long term remembered local associations. In addition to the current percept, the workspace
+contains recent percepts that haven’t yet decayed away, and the agent’s model of the thencurrent
+situation previously assembled from them. The model of the agent’s current situation is
+updated from the previous model using the remaining percepts and associations. This updating
+process will typically require looking back to perceptual memory and even to sensory memory,
+to enable the understanding of relations and situations. This assembled new model constitutes
+the agent’s understanding of its current situation within its world. Via constructing the model,
+the agent has made sense of the incoming stimuli.
+Now attention allocation comes into play, because a real agent lacks the computational resources
+to work with all parts of its world-model with maximal mental focus. Portions of the
+model compete for attention. These competing portions take the form of (potentially overlapping)
+coalitions of structures comprising parts the model. Once one such coalition wins the
+competition, the agent has decided what to focus its attention on.
+And now comes the purpose of all this processing: to help the agent to decide what to do
+next. The winning coalition passes to the global workspace, the namesake of Global Workspace
+Theory, from which it is broadcast globally. Though the contents of this conscious broadcast
+are available globally, the primary recipient is procedural memory, which stores templates of
+possible actions including their context and possible results.
+Procedural memory also stores an activation value for each such template – a value that
+attempts to measure the likelihood of an action taken within its context producing the expected
+result. It’s worth noting that LIDA makes a rather specific assumption here. LIDA’s
+“activation” values are like the probabilistic truth values of the implications in CogPrime’s
+Context ∧ Procedure → Goal triples. However, in CogPrime this probability is not the same as
+the ShortTermImportance “attention value” associated with the Implication link representing
+that implication. Here LIDA merges together two concepts that in CogPrime are separate.
+Templates whose contexts intersect sufficiently with the contents of the conscious broadcast
+instantiate copies of themselves with their variables specified to the current situation. These
+instantiations are passed to the action selection mechanism, which chooses a single action from
+these instantiations and those remaining from previous cycles. The chosen action then goes to
+sensorimotor memory, where it picks up the appropriate algorithm by which it is then executed.
+The action so taken affects the environment, and the cycle is complete.
+The LIDA model hypothesizes that all human cognitive processing is via a continuing iteration
+of such cognitive cycles. It acknowledges that other cognitive processes may also occur,
+refining and building on the knowledge used in the cognitive cycle (for instance, the cognitive
+cycle itself doesn’t mention abstract reasoning or creativity). But the idea is that these other
+processes occur in the context of the cognitive cycle, which is the main loop driving the internal
+and external activities of the organism.
+4.5.9.1 Avoiding Combinatorial Explosion via Adaptive Attention Allocation
+LIDA avoids combinatorial explosions in its inference processes via two methods, both of which
+are also important in CogPrime :
+• combining reasoning via association with reasoning via deduction
+88 4 Brief Survey of Cognitive Architectures
+• foundational use of uncertainty in reasoning
+One can create an analogy between LIDA’s workspace structures and codelets and a logicbased
+architecture’s assertions and functions. However, LIDA’s codelets only operate on the
+structures that are active in the workspace during any given cycle. This includes recent perceptions,
+their closest matches in other types of memory, and structures recently created by other
+codelets. The results with the highest estimate of success, i.e. activation, will then be selected.
+Uncertainty plays a role in LIDA’s reasoning in several ways, most notably through the base
+activation of its behavior codelets, which depend on the model’s estimated probability of the
+codelet’s success if triggered. LIDA observes the results of its behaviors and updates the base
+activation of the responsible codelets dynamically.
+We note that for this kind of uncertain inference/activation interplay to scale well, some
+level of cognitive synergy must be present; and based on our understanding of LIDA it is not
+clear to us whether the particular inference and association algorithms used in LIDA possess
+the requisite synergy.
+4.5.9.2 LIDA versus CogPrime
+The LIDA cognitive cycle, broadly construed, exists in CogPrime as in other cognitive architectures.
+To see how, it suffices to map the key LIDA structures into corresponding CogPrime
+structures, as is done in Table 4.1. Of course this table does not cover all CogPrime processes,
+as LIDA does not constitute a thorough explanation of CogPrime structure and dynamics. And
+in most cases the corresponding CogPrime and LIDA processes don’t work in exactly the same
+way; for instance, as noted above, LIDA’s action selection relies solely on LIDA’s “activation”
+values, whereas CogPrime’s action selection process is more complex, relying on aspects of
+CogPrime that lack LIDA analogues.
+4.5.10 Psi and MicroPsi
+We have saved for last the architecture that has the most in common with CogPrime : Joscha
+Bach’s MicroPsi architecture, closely based on Dietrich Dorner’s Psi theory. CogPrime has
+borrowed substantially from Psi in its handling of emotion and motivation; but Psi also has
+other aspects that differ considerably from CogPrime. Here we will focus more heavily on the
+points of overlap, but will mention the key points of difference as well.
+The overall Psi cognitive architecture, which is centered on the Psi model of the motivational
+system, is roughly depicted in Figure 4.14.
+Psi’s motivational system begins with Demands, which are the basic factors that motivate
+the agent. For an animal these would include things like food, water, sex, novelty, socialization,
+protection of one’s children, and so forth. For an intelligent robot they might include things
+like electrical power, novelty, certainty, socialization, well-being of others and mental growth.
+Psi also specifies two fairly abstract demands and posits them as psychologically fundamental
+(see Figure 4.15):
+• competence, the effectiveness of the agent at fulfilling its Urges
+• certainty, the confidence of the agent’s knowledge
+4.5 Globalist versus Localist Representations 89
+LIDA
+CogPrime
+Declarative memory Atomspace
+attentional codelets Schema that adjust importance of Atoms explicitly
+coalitions
+maps
+global workspace
+attentional focus
+behavior codelets
+schema
+procedural memory (scheme net) procedures in ProcedureRepository; and network of
+SchemaNodes in the Atomspace
+action selection (behavior net) propagation of STICurrency from goals to actions, and
+action selection process
+transient episodic memory perceptual atoms entering AT with high STI, which
+rapidly decreases in most cases
+local workspaces
+bubbles of interlinked Atoms with moderate importance,
+focused on by a subset of MindAgents (defined
+in Chapter 19 of Part 2) for a period of time
+perceptual associative memory HebbianLinks in the AT
+sensory memory
+spaceserver/timeserver, plus auxiliary stores for other
+senses
+sensorimotor memory Atoms storing record of actions taken, linked in with
+Atoms indexed in sensory memory
+Table 4.1: CogPrime Analogues of Key LIDA Features
+Each demand is assumed to come with a certain “target level” or “target range” (and these
+may fluctuate over time, or may change as a system matures and develops). An Urge is said to
+develop when a demand deviates from its target range: the urge then seeks to return the demand
+to its target range. For instance, in an animal-like agent the demand related to food is more
+clearly described as “fullness,” and there is a target range indicating that the agent is neither too
+hungry nor too full of food. If the agent’s fullness deviates from this range, an Urge to return
+the demand to its target range arises. Similarly, if an agent’s novelty deviates from its target
+range, this means the agent’s life has gotten either too boring or too disconcertingly weird, and
+the agent gets an Urge for either more interesting activities (in the case of below-range novelty)
+or more familiar ones (in the case of above-range novelty).
+There is also a primitive notion of Pleasure (and its opposite, displeasure), which is considered
+as different from the complex emotion of “happiness.” Pleasure is understood as associated
+with Urges: pleasure occurs when an Urge is (at least partially) satisfied, whereas displeasure
+occurs when an urge gets increasingly severe. The degree to which an Urge is satisfied is not
+necessarily defined instantaneously; it may be defined, for instance, as a time-decaying weighted
+average of the proximity of the demand to its target range over the recent past.
+So, for instance if an agent is bored and gets a lot of novel stimulation, then it experiences
+some pleasure. If it’s bored and then the monotony of its stimulation gets even more extreme,
+then it experiences some displeasure.
+Note that, according to this relatively simplistic approach, any decrease in the amount of
+dissatisfaction causes some pleasure; whereas if everything always continues within its acceptable
+range, there isn’t any pleasure. This may seem a little counterintuitive, but it’s important
+to understand that these simple definitions of “pleasure” and “displeasure” are not intended to
+fully capture the natural language concepts associated with those words. The natural language
+terms are used here simply as heuristics to convey the general character of the processes in-
+90 4 Brief Survey of Cognitive Architectures
+Fig. 4.14: High-Level Architecture of the Psi Model
+volved. These are very low level processes whose analogues in human experience are largely
+below the conscious level.
+A Goal is considered as a statement that the system may strive to make true at some future
+time. A Motive is an (urge, goal) pair, consisting of a goal whose satisfaction is predicted to
+imply the satisfaction of some urge. In fact one may consider Urges as top-level goals, and the
+agent’s other goals as their subgoals.
+In Psi an agent has one “ruling motive” at any point in time, but this seems an oversimplification
+more applicable to simple animals than to human-like or other advanced AI systems.
+In general one may think of different motives having different weights indicating the amount of
+resources that will be spent on pursuing them.
+Emotions in Psi are considered as complex systemic response-patterns rather than explicitly
+constructed entities. An emotion is the set of mental entities activated in response to a certain
+set of urges. Dorner conceived theories about how various common emotions emerge from the
+dynamics of urges and motives as described in the Psi model. “Intentions” are also considered as
+composite entities: an intention at a given point in time consists of the active motives, together
+with their related goals, behavior programs and so forth.
+4.5 Globalist versus Localist Representations 91
+The basic logic of action in Psi is carried out by “triples” that are very similar to CogPrime’s
+Context ∧ Procedure → Goal triples. However, an important role is played by four modulators
+that control how the processes of perception, cognition and action selection are regulated at a
+given time:
+• activation, which determines the degree to which the agent is focused on rapid, intensive
+activity versus reflective, cognitive activity
+• resolution level, which determines how accurately the system tries to perceive the world
+• certainty, which determines how hard the system tries to achieve definite, certain knowledge
+• selection threshold, which determines how willing the system is to change its choice of which
+goals to focus on
+These modulators characterize the system’s emotional and cognitive state at a very abstract
+level; they are not emotions per se, but they have a large effect on the agent’s emotions. Their
+intended interaction is depicted in Figure 4.15.
+Fig. 4.15: Primary Interrelationships Between Psi Modulators
+4.5.11 The Emergence of Emotion in the Psi Model
+We now briefly review the specifics of how Psi models the emergence of emotion. The basic idea is
+to define a small set of proto-emotional dimensions in terms of basic Urges and modulators.
+Then, emotions are identified with regions in the space spanned by these dimensions.
+The simplest approach uses a six-dimensional continuous space:
+1. pleasure
+92 4 Brief Survey of Cognitive Architectures
+2. arousal
+3. resolution level
+4. selection threshold (i.e. degree of dominance of the leading motive)
+5. level of background checks (the rate of the securing behavior)
+6. level of goal-directed behavior
+Figure 4.16 shows how the latter 5 of these dimensions are derived from underlying urges and
+modulators. Note that these dimensions are not orthogonal; for instance resolution is mainly inversely
+related to arousal. Additional dimensions are also discussed, for instance it is postulated
+that to deal with social emotions one may wish to introduce two more demands corresponding
+to inner and outer obedience to social norms, and then define dimensions in terms of these.
+Fig. 4.16: Five Proto-Emotional Dimensions Implicit in the Psi Model
+Specific emotions are then characterized in terms of these dimensions. According to [Bac09],
+for instance, “Anger ... is characterized by high arousal, low resolution, strong motive dominance,
+few background checks and strong goal-orientedness; sadness by low arousal, high resolution,
+strong dominance, few background-checks and low goal-orientedness.”
+I’m a bit skeptical of the contention that these dimensions fully characterize the relevant
+emotions. Anger for instance seems to have some particular characteristics not implied by the
+above list of dimensional values. The list of dimensional values associated with anger doesn’t
+tell us that an angry person is more likely to punch someone than to bounce up and down,
+for example. However, it does seem that the dimensional values associated with an emotion are
+4.5 Globalist versus Localist Representations 93
+informative about the emotion, so that positioning an emotion on the given dimensions tells
+one a lot.
+4.5.12 Knowledge Representation, Action Selection and Planning in
+Psi
+In addition to the basic motivation/emotion architecture of Psi, which has been adopted (with
+some minor changes) for use in CogPrime, Psi has a number of other aspects that are somewhat
+different from their CogPrime analogues.
+First of all, on the micro level, Psi represents knowledge using structures called “quads.” Each
+quad is a cluster of 5 neurons containing a core neuron, and four other neurons representing
+before/after and part-of/has-part relationships in regard to that core neuron. Quads are naturally
+assembled into spatiotemporal hierarchies, though they are not required to form part of
+such a structure.
+Psi stores knowledge using quads arranged in three networks, which are conceptually similar
+to the networks in Albus’s 4D/RCS and Arel’s DeSTIN architectures:
+• A sensory network, which stores declarative knowledge: schemas representing images, objects,
+events and situations as hierarchical structures.
+• A motor network, which contains procedural knowledge by way of hierarchical behavior
+programs
+• A motivational network handling demands
+Perception in Psi, which is centered in the sensory network, follows principles similar to
+DeSTIN (which are shared also by other systems), for instance the principle of perception as
+prediction. Psi’s “HyPercept” mechanism performs hypothesis-based perception: it attempts to
+predict what is there to be perceived and then attempts to verify these predictions using sensation
+and memory. Furthermore HyPercept is intimately coupled with actions in the external
+world, according to the concept of “Neisser’s perceptual cycle,” the cycle between exploration
+and representation of reality. Perceptually acquired information is translated into schemas capable
+of guiding behaviors, and these are enacted (sometimes affecting the world in significant
+ways) and in the process used to guide further perception. Imaginary perceptions are handled
+via a “mental stage” analogous to CogPrime’s internal simulation world.
+Action selection in Psi works based on what are called “triplets,” each of which consists of
+• a sensor schema (pre-conditions, “condition schema”; like CogPrime’s “context”)
+• a subsequent motor schema (action, effector; like CogPrime’s “procedure”)
+• a final sensor schema (post-conditions, expectations; like an CogPrime predicate or goal)
+What distinguishes these triplets from classic production rules as used in (say) Soar and
+ACT-R is that the triplets may be partial (some of the three elements may be missing) and
+may be uncertain. However, there seems no fundamental difference between these triplets and
+CogPrime’s concept/procedure/goal triplets, at a high level; the difference lies in the underlying
+knowledge representation used for the schemata, and the probabilistic logic used to represent
+the implication.
+The work of figuring out what schema to execute to achieve the chosen goal in the current
+context is done in Psi using a combination of processes called the “Rasmussen ladder” (named
+94 4 Brief Survey of Cognitive Architectures
+after Danish psychologist Jens Rasmussen). The Rasmussen ladder describes the organization
+of action as a movement between the stages of skill-based behavior, rule-based behavior and
+knowledge-based behavior, as follows:
+• If a given task amounts to a trained routine, an automatism or skill is activated; it can
+usually be executed without conscious attention and deliberative control.
+• If there is no automatism available, a course of action might be derived from rules; before a
+known set of strategies can be applied, the situation has to be analyzed and the strategies
+have to be adapted.
+• In those cases where the known strategies are not applicable, a way of combining the
+available manipulations (operators) into reaching a given goal has to be explored at first.
+This stage usually requires a recomposition of behaviors, that is, a planning process.
+The planning algorithm used in the Psi and MicroPsi implementations is a fairly simple
+hill-climbing planner. While it’s hypothesized that a more complex planner may be needed for
+advanced intelligence, part of the Psi theory is the hypothesis that most real-life planning an
+organism needs to do is fairly simple, once the organism has the right perceptual representations
+and goals.
+4.5.13 Psi versus CogPrime
+On a high level, the similarities between Psi and CogPrime are quite strong:
+• interlinked declarative, procedural and intentional knowledge structures, represented using
+neural-symbolic methods (though, the knowledge structures have somewhat different highlevel
+structures and low-level representational mechanisms in the two systems)
+• perception via prediction and perception/action integration
+• action selection via triplets that resemble uncertain, potentially partial production rules
+• similar motivation/emotion framework, since CogPrime incorporates a variant of Psi for
+this
+On the nitty-gritty level there are many differences between the systems, but on the bigpicture
+level the main difference lies in the way the cognitive synergy principle is pursued in
+the two different approaches. Psi and MicroPsi rely on very simple learning algorithms that are
+closely tied to the “quad” neurosymbolic knowledge representation, and hence interoperate in
+a fairly natural way without need for subtle methods of “synergy engineering.” CogPrime uses
+much more diverse and sophisticated learning algorithms which thus require more sophisticated
+methods of interoperation in order to achieve cognitive synergy.
+Chapter 5
+A Generic Architecture of Human-Like Cognition
+5.1 Introduction
+When writing the first draft of this book, some years ago, we had the idea to explain CogPrime
+by aligning its various structures and processes with the ones in the "standard architecture
+diagram" of the human mind. After a bit of investigation, though, we gradually came to the
+realization that no such thing existed. There was no standard flowchart or other sort of diagram
+explaining the modern consensus on how human thought works. Many such diagrams
+existed, but each one seemed to represent some particular focus or theory, rather than an overall
+integrative understanding.
+Since there are multiple opinions regarding nearly every aspect of human intelligence, it
+would be difficult to get two cognitive scientists to fully agree on every aspect of an overall
+human cognitive architecture diagram. Prior attempts to outline detailed mind architectures
+have tended to follow highly specific theories of intelligence, and hence have attracted only
+moderate interest from researchers not adhering to those theories. An example is Minsky’s work
+presented in The Emotion Machine [Min07], which arguably does constitute an architecture
+diagram for the human mind, but which is only loosely grounded in current empirical knowledge
+and stands more as a representation of Minsky’s own intuitive understanding.
+But nevertheless, it seemed to us that a reasonable attempt at an integrative, relatively
+theory-neutral "human cognitive architecture diagram" would be better than nothing. So naturally,
+we took it on ourselves to create such a diagram. This chapter is the result – it draws on
+the thinking of a number of cognitive science and AGI researchers, integrating their perspectives
+in a coherent, overall architecture diagram for human, and human-like, general intelligence. The
+specific architecture diagram of CogPrime, given in Chapter 6 below, may then be understood
+as a particular instantiation of this generic architecture diagram of human-like cognition.
+There is no getting around the fact that, to a certain extent, the diagram presented here
+reflects our particular understanding of how the mind works. However, it was intentionally
+constructed with the goal of not being just an abstracted version of the CogPrime architecture
+diagram! It does not reflect our own idiosyncratic understanding of human intelligence, as much
+as a combination of understandings previously presented by multiple researchers (including
+ourselves), arranged according to our own taste in a manner we find conceptually coherent.
+With this in mind, we call it the "Integrative Human-Like Cognitive Architecture Diagram," or
+for short "the integrative diagram." We have made an effort to ensure that as many pieces of
+the integrative diagram as possible are well grounded in psychological and even neuroscientific
+95
+96 5 A Generic Architecture of Human-Like Cognition
+data, rather than mainly embodying speculative notions; however, given the current state of
+knowledge, this could not be done to a complete extent, and there is still some speculation
+involved here and there.
+While based on understandings of human intelligence, the integrative diagram is intended to
+serve as an architectural outline for human-like general intelligence more broadly. For example,
+CogPrime is explicitly not intended as a precise emulation of human intelligence, and does many
+things quite differently than the human mind, yet can still fairly straightforwardly be mapped
+into the integrative diagram.
+The integrative diagram focuses on structure, but this should not be taken to represent a
+valuation of structure over dynamics in our approach to intelligence. Following chapters treat
+various dynamical phenomena in depth.
+5.2 Key Ingredients of the Integrative Human-Like Cognitive
+Architecture Diagram

@@ -1,0 +1,160 @@
+﻿February 16, 2017
+In the fourth quarter of 2016, Boothbay Absolute Return Strategies, LP (the “Fund”) earned a net return of
+approximately +0.04%. 1,2
+Since the Fund opened on July 1, 2014, it has returned 16.10%. 1,2 In that period, the Fund’s largest monthto-month
+drawdown has been -1.4%, versus -8.9% for the S&P 500, -1.5% for the HFRX Absolute Return
+Index, -8.9% for the HFRX Global Hedge Fund Index and -5.3% for the HFRX Market Neutral Index.
+Performance and Commentary
+October November December 2016 ITD
+Sharpe
+ITD*
+Sortino
+ITD*
+Boothbay Absolute Return
+Strategies, L.P
+-0.14% -0.05% 0.23% 3.84% 16.09% 2.25 6.37
+S&P 500 -1.94% 3.42% 1.82% 9.54% 14.21% 0.51 0.93
+HFRX : Equity Market Neutral -0.13% -0.04% -1.07% -5.08% 2.51% 0.23 0.48
+HFRX : Absolute Return -0.39% -0.16% 0.20% 0.31% 2.13% 0.36 0.98
+HFRX : Global Hedge Fund -0.57% 0.87% 0.86% 2.50% -3.50% -0.42 -0.43
+* For Sharpe/Sortino Ratio calculations, 1-Month LIBOR is set as the risk free rate.
+We ended 2016 with a slightly positive quarter, bringing net performance for the year to +3.84%. Consistent
+with the trend seen earlier in the year, 2016 has been described by investors and financial media as among
+the worst years for multi-manager multi-strategy firms, on both an absolute and risk-adjusted return basis.
+While we consider earning +3.84% to be disappointing for our strategy on an absolute return basis, doing so
+with a maximum drawdown of 1.4%, and in what was a challenging environment for low-net exposure
+relative value strategies, leaves us viewing 2016 as a “good” bad year.
+For a second consecutive year, the Fund generated positive net returns overall on the days when the S&P
+500 Index was negative. The S&P had 121 losing days in 2016 (producing losses of over -66% in total) 3 and
+on those days, we were positive approximately 55% of the time, and generated almost half of our total net
+returns for the year. Given that we aim to be a protector of capital in markets that most managers will lose
+capital, this sampling is especially gratifying. As we look forward, we remain as encouraged as ever that our
+combination of unique “niche” strategies and strategies with structural edge, alongside our allocations to
+low-beta alpha-generating stock pickers and quantitative portfolio managers, will deliver strong riskadjusted
+returns over various market cycles.
+Before going into the performance attribution for Q4 and 2016 overall, we want to re-visit a topic discussed
+in our Q1 2016 letter related to hedge fund crowding, which investors have continued to ask us about the
+past several months. The question raised is typically some variation of the following: Given that Boothbay
+allocates to low-net equity focused managers, who may have similar strategies to those that comprise other
+multi-manager platforms, why has Boothbay been less-exposed to deleveraging and hedge fund crowding
+1 Assumes Boothbay Absolute Return Strategies, LP, Onshore Accelerator Share Class 1A (2-year lock and 14% incentive allocation).
+2
+Performance figures reported herein are shown unaudited, net of fees/allocations and expenses; include the reinvestment of dividends, capital gains,
+and other earnings; and may be subject to adjustment.
+3 S&P 500 negative-return analysis calculated using Bloomberg closing prices for SPX Index.
+effects, which seem to impact other multi-manager funds in a greater way?
+Platform Beta
+Equity market performance is a large predictor of returns for many long/short equity hedge funds, due to the
+large equity beta exposure with which many funds run. 4 At Boothbay, we generally run with limited net
+equity market exposure (on average 6-8% historically) and have maintained low correlation to market
+indices. While the sources of our returns will generally be idiosyncratic, there is no question that the
+tremendous amount of capital that has flown into the low-net multi-manager, i.e. “platform”, category, has
+created an even greater risk of exposure to “Platform Beta” for some of our managers, even while avoiding
+broader equity market beta.
+Platform Beta is a term we have heard used to describe the overlap of long and short positions, across some
+of the largest market-neutral, multi-manager hedge fund managers. While these overlapping names may be
+viewed as “smart money” positioning in some sense, there is also meaningful risk associated with being in
+crowded longs and shorts due to the viciousness of the cascading effects when these portfolios are being
+liquidated, or re-sized quickly, as we observed in Q1 2016. For a variety of reasons, we believe that
+Platform Beta has a true positive expectancy over time and with much less risk than other traditional factor
+risks, especially ones taken on by long-only or long-biased investors. While we consider it to be an obvious
+goal to avoid material exposure to all known market risk factors, we also attempt to reduce our more
+difficult to measure Platform Beta exposure when possible. Despite the positive return expectation of
+Platform Beta, we do not think a large or concentrated exposure to this factor is beneficial. Perhaps even
+more importantly, we do not believe that all alpha is created equally, and we are trying to provide the most
+uncorrelated alpha as possible to our investors.
+So how do we minimize overexposure to Platform Beta? We can monitor data that imperfectly points to
+crowded names or themes, but the most direct way we seek to avoid crowded names is through our overall
+portfolio construction and manager-selection process. This is demonstrated in our continued focus on “First
+Loss” allocations as well as investments in the strategy category we call “Other”, which is comprised of
+niche strategies outside our more traditional long/short fundamental and quantitative strategies. These
+alternative categories have served as a valuable source of alpha as well as diversification away from
+Platform Beta. Additionally, even in our more traditional strategies, we focus on allocating to smaller
+managers who can have larger parts of their portfolios in smaller capitalization companies, which tend to be
+less trafficked by the larger funds, and therefore are also less subject to the effects of large industry
+deleveraging. We cannot avoid all of the dangers of hedge fund deleveraging but our conscious attempts to
+target differentiated strategies, and to limit concentration, has allowed us to be less impacted by these flows
+than several other multi-manager platforms.
+Portfolio Attribution and Risk
+Within our Multi-Strategy platform, the “Other” category was the largest contributor for both Q4 and 2016
+overall, contributing gross returns of +0.82% in Q4 and +2.19% YTD. The remaining quarterly and full-year
+gross return attribution within the Multi-Strategy platform were: “Fundamental L/S” at -0.86% in Q4 and
++1.16% YTD, and “Quantitative” at 0.29% in Q4 and -1.53% YTD. Our First Loss platform allocations
+contributed gross-returns of +0.72% in Q4 and +6.60% YTD. 5
+The Fund averaged approximately 0.39% daily Value at Risk during Q4 vs. 0.41% in Q3 (95% Confidence
+Interval, excluding First-Loss allocations). As stated in last quarter’s letter, we expect to see an increase in
+our VaR during Q1 2017 primarily through a combination of new manager allocations and a pick-up in
+overall market volatility due to macro events on the horizon. We expect the Trump Presidency, additional
+4
+For example, Goldman Sachs Prime Services reported hedge fund net exposure to be between 50% and 67% throughout 2016. (Goldman Sachs
+Securities Division: Prime Services Weekly 12.22.2016)
+5
+Performance Attribution figures reported herein are shown unaudited, gross of fees/allocations and expenses; include the reinvestment of dividends,
+capital gains, and other earnings; and may be subject to adjustment.
+interest rate hikes by the Fed, and global geopolitical catalysts (e.g. elections, referendums) in 2017 to
+contribute to a rise in market volatility. These factors should help us to approach our target daily VaR of
+0.80%, and also provide an attractive environment for many of our strategies to generate alpha. While
+having more risk on the balance sheet does imply that our return volatility and drawdowns will be larger, it
+is reasonable to expect that any positive returns would increase as well.
+Manager Attribution:
+�
+�
+�
+For the fourth quarter of 2016, 42% of “Fundamental L/S,” 45% of “Quantitative,” and 67% of
+“Other” managers were profitable.
+The top five performing managers contributed 38% of the quarterly total positive return, with the
+largest single manager positively contributing 9%. The bottom five performing managers made up
+56% of negative returns, with the largest single manager negatively contributing 17%.
+While 2015 was a stronger year for our strategy overall compared to 2016, we were pleased to see
+a continual diversification of return attribution across our managers in 2016. The below statistics
+compare 2016 with 2015 and present a similar picture of limited return concentration.
+Positive
+Attribution
+Negative
+Attribution
+2016 Total 15.94% -7.42%
+Top 5 Contributors 6.48% -2.54%
+Largest Contribution 2.25% -0.67%
+2015 Total 22.77% -6.92%
+Top 5 Contributors 7.31% -3.55%
+Largest Contribution 1.82% -1.03%
+� As of December 2016, the Multi-Strategy platform had 28 Fundamental L/S Equity managers, 23
+Quantitative managers, 10 “Other” managers (these Multi-Strategy platform figures include 9
+Hybrid allocations 6 ), and 13 First-Loss managers.
+Assets Under Management
+As of January 1, 2017, Boothbay’s total AUM was approximately $190 million ($230 million including
+capital from First-Loss share class).
+As always, I am available to answer all investment and business inquiries. Peter Bremberg and Daniel
+Bloom are available to answer any questions related to financial operations.
+Sincerely,
+Ari Glass
+Managing Member
+Boothbay Fund Management LLC
+6
+“Hybrid allocations” refers to accounts for which we have both a First-Loss and Multi-Strategy investment.
+IMPORTANT DISCLOSURES
+The information presented herein is confidential and proprietary, and may not be (i) used by, or on behalf of, you for any purpose other than
+evaluating an initial or continued investment in Boothbay Absolute Return Strategies, LP (the “Fund”), or (ii) disclosed by, or on behalf of, you to
+any third party, in each case except with the prior written consent of Boothbay Fund Management, LLC (“Boothbay”). This communication is for
+information purposes only and is not intended as an offer or solicitation with respect to the purchase or sale of any security.
+This letter includes forward-looking statements. Although Boothbay believes that the expectations and views reflected in such statements are
+reasonable, such statements are subject to a number of assumptions, risks and uncertainties which may cause actual results, performance or
+achievements to be materially different from future results, performance or achievements expressed or implied by such forward-looking
+statements. Forward-looking statements, and the expectations and views reflected therein, expressed in this letter may change at any time, without
+notice. Prospective investors are cautioned not to invest based on these forward-looking statements.
+Performance figures (which include the reinvestment of dividends, capital gains and other earnings) included herein are based on unaudited
+information, may be subject to adjustment and are shown net of fees/allocations and expenses. Results for individual investors may vary based on,
+among other things, the timing of capital contributions and withdrawals.
+An investment in the Fund is speculative and involves a high degree of risk. Past performance is not necessarily indicative of future results. There
+can be no assurances that the Fund will continue to have a similar return on invested capital because, among other reasons, there may be
+differences in economic and market conditions, regulatory and political climate, portfolio size, investment opportunities, expenses and structure.
+Accordingly, when deciding to make an investment, potential investors are urged to review carefully all disclosure documentation, including the
+Fund’s confidential private offering memorandum, and consult with their counsel and advisers.
+This material is not intended to represent the rendering of accounting, tax, legal or regulatory advice. A change in the facts or circumstances of
+any transaction could materially affect the accounting, tax, legal or regulatory treatment for that transaction. Nothing herein should be interpreted
+to represent concentration limits, exit strategies or sector allocation guidelines, all of which are subject to change without notice.
+References to the S&P500 and any other benchmark(s) referred to herein are for illustrative purposes only. Any such benchmarks are included
+merely to show general trends in the markets in the periods indicated and are not intended to imply that the Fund’s portfolio is similar to any such
+benchmarks either in composition or risk. Comparisons to benchmarks have limitations because natural characteristics of such benchmarks, such
+as volatility, among other things, are likely to differ from those of the Fund. Boothbay does not attempt to track a benchmark and there is no
+guarantee that the Fund will meet or exceed any such benchmark.

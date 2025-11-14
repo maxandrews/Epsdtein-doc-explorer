@@ -1,0 +1,1295 @@
+how to keep it under control.” 22 Indeed, I counted half a dozen places in The Human Use
+of Human Beings where Wiener hinted at one or another aspect of the Control Problem.
+(“The machine like the djinnee, which can learn and can make decisions on the basis of
+21
+Posthumously reprinted in Phil. Math. (3) vol. 4, 256-60 (1966).
+22
+Irving John Good, “Speculations concerning the first ultraintelligent machine,” Advances in Computers,
+vol. 6 (Academic Press, 1965), pp. 31-88.
+71
+its learning, will in no way be obliged to make such decisions as we should have made, or
+will be acceptable to us.”) Apparently, the original dissidents promulgating the AI-risk
+message were the AI pioneers themselves!
+Evolution’s Fatal Mistake
+There have been many arguments, some sophisticated and some less so, for why the
+Control Problem is real and not some science-fiction fantasy. Allow me to offer one that
+illustrates the magnitude of the problem:
+For the last hundred thousand years, the world (meaning the Earth, but the
+argument extends to the solar system and possibly even to the entire universe) has been in
+the human-brain regime. In this regime, the brains of Homo sapiens have been the most
+sophisticated future-shaping mechanisms (indeed, some have called them the most
+complicated objects in the universe). Initially, we didn’t use them for much beyond
+survival and tribal politics in a band of foragers, but now their effects are surpassing
+those of natural evolution. The planet has gone from producing forests to producing
+cities.
+As predicted by Turing, once we have superhuman AI (“the machine thinking
+method”), the human-brain regime will end. Look around you—you’re witnessing the
+final decades of a hundred-thousand-year regime. This thought alone should give people
+some pause before they dismiss AI as just another tool. One of the world’s leading AI
+researchers recently confessed to me that he would be greatly relieved to learn that
+human-level AI was impossible for us to create.
+Of course, it might still take us a long time to develop human-level AI. But we
+have reason to suspect that this is not the case. After all, it didn’t take long, in relative
+terms, for evolution—the blind and clumsy optimization process—to create human-level
+intelligence once it had animals to work with. Or multicellular life, for that matter:
+Getting cells to stick together seems to have been much harder for evolution to
+accomplish than creating humans once there were multicellular organisms. Not to
+mention that our level of intelligence was limited by such grotesque factors as the width
+of the birth canal. Imagine an AI developer being stopped in his tracks because he
+couldn’t manage to adjust the font size on his computer!
+There’s an interesting symmetry here: In fashioning humans, evolution created a
+system that is, at least in many important dimensions, a more powerful planner and
+optimizer than evolution itself is. We are the first species to understand that we’re the
+product of evolution. Moreover, we’ve created many artifacts (radios, firearms,
+spaceships) that evolution would have little hope of creating. Our future, therefore, will
+be determined by our own decisions and no longer by biological evolution. In that sense,
+evolution has fallen victim to its own Control Problem.
+We can only hope that we’re smarter than evolution in that sense. We are
+smarter, of course, but will that be enough? We’re about to find out.
+The Present Situation
+So here we are, more than half a century after the original warnings by Turing, Wiener,
+and Good, and a decade after people like me started paying attention to the AI-risk
+message. I’m glad to see that we’ve made a lot of progress in confronting this issue, but
+we’re definitely not there yet. AI risk, although no longer a taboo topic, is not yet fully
+72
+appreciated among AI researchers. AI risk is not yet common knowledge either. In
+relation to the timeline of the first dissident message, I’d say we’re around the year 1988,
+when raising the Soviet-occupation topic was no longer a career-ending move but you
+still had to somewhat hedge your position. I hear similar hedging now—statements like,
+“I’m not concerned about superintelligent AI, but there are some real ethical issues in
+increased automation,” or “It’s good that some people are researching AI risk, but it’s not
+a short-term concern,” or even the very reasonable sounding, “These are smallprobability
+scenarios, but their potentially high impact justifies the attention.”
+As far as message propagation goes, though, we are getting close to the tipping
+point. A recent survey of AI researchers who published at the two major international AI
+conferences in 2015 found that 40 percent now think that risks from highly advanced AI
+are either “an important problem” or “among the most important problems in the field.” 23
+Of course, just as there were dogmatic Communists who never changed their
+position, it’s all but guaranteed that some people will never admit that AI is potentially
+dangerous. Many of the deniers of the first kind came from the Soviet nomenklatura;
+similarly, the AI-risk deniers often have financial or other pragmatic motives. One of the
+leading motives is corporate profits. AI is profitable, and even in instances where it isn’t,
+it’s at least a trendy, forward-looking enterprise with which to associate your company.
+So a lot of the dismissive positions are products of corporate PR and legal machinery. In
+some very real sense, big corporations are nonhuman machines that pursue their own
+interests—interests that might not align with those of any particular human working for
+them. As Wiener observed in The Human Use of Human Beings: “When human atoms
+are knit into an organization in which they are used, not in their full right as responsible
+human beings, but as cogs and levers and rods, it matters little that their raw material is
+flesh and blood.”
+Another strong incentive to turn a blind eye to the AI risk is the (very human)
+curiosity that knows no bounds. “When you see something that is technically sweet, you
+go ahead and do it and you argue about what to do about it only after you have had your
+technical success. That is the way it was with the atomic bomb,” said J. Robert
+Oppenheimer. His words were echoed recently by Geoffrey Hinton, arguably the
+inventor of deep learning, in the context of AI risk: “I could give you the usual
+arguments, but the truth is that the prospect of discovery is too sweet.”
+Undeniably, we have both entrepreneurial attitude and scientific curiosity to thank
+for almost all the nice things we take for granted in the modern era. It’s important to
+realize, though, that progress does not owe us a good future. In Wiener’s words, “It is
+possible to believe in progress as a fact without believing in progress as an ethical
+principle.”
+Ultimately, we don’t have the luxury of waiting before all the corporate heads and
+AI researchers are willing to concede the AI risk. Imagine yourself sitting in a plane
+about to take off. Suddenly there’s an announcement that 40 percent of the experts
+believe there’s a bomb onboard. At that point, the course of action is already clear, and
+sitting there waiting for the remaining 60 percent to come around isn’t part of it.
+23
+Katja Grace, et al., “When Will AI Exceed Human Performance? Evidence from AI Experts,”
+https://arxiv.org/pdf/1705.08807.pdf.
+73
+Calibrating the AI-Risk Message
+While uncannily prescient, the AI-risk message from the original dissidents has a giant
+flaw—as does the version dominating current public discourse: Both considerably
+understate the magnitude of the problem as well as AI’s potential upside. The message,
+in other words, does not adequately convey the stakes of the game.
+Wiener primarily warned of the social risks—risks stemming from careless
+integration of machine-generated decisions with governance processes and misuse (by
+humans) of such automated decision making. Likewise, the current “serious” debate
+about AI risks focuses mostly on things like technological unemployment or biases in
+machine learning. While such discussions can be valuable and address pressing shortterm
+problems, they are also stunningly parochial. I’m reminded of Yudkowsky’s quip in
+a blog post: “[A]sking about the effect of machine superintelligence on the conventional
+human labor market is like asking how US–Chinese trade patterns would be affected by
+the Moon crashing into the Earth. There would indeed be effects, but you’d be missing
+the point.”
+In my view, the central point of the AI risk is that superintelligent AI is an
+environmental risk. Allow me to explain.
+In his “Parable of the Sentient Puddle,” Douglas Adams describes a puddle that
+wakes up in the morning and finds himself in a hole that fits him “staggeringly well.”
+From that observation, the puddle concludes that the world must have been made for him.
+Therefore, writes Adams, “the moment he disappears catches him rather by surprise.” To
+assume that AI risks are limited to adverse social developments is to make a similar
+mistake. The harsh reality is that the universe was not made for us; instead, we are finetuned
+by evolution to a very narrow range of environmental parameters. For instance, we
+need the atmosphere at ground level to be roughly at room temperature, at about 100 kPa
+pressure, and have a sufficient concentration of oxygen. Any disturbance, even
+temporary, of this precarious equilibrium and we die in a matter of minutes.
+Silicon-based intelligence does not share such concerns about the environment.
+That’s why it’s much cheaper to explore space using machine probes rather than “cans of
+meat.” Moreover, Earth’s current environment is almost certainly suboptimal for what a
+superintelligent AI will greatly care about: efficient computation. Hence we might find
+our planet suddenly going from anthropogenic global warming to machinogenic global
+cooling. One big challenge that AI safety research needs to deal with is how to constrain
+a potentially superintelligent AI—an AI with a much larger footprint than our own—from
+rendering our environment uninhabitable for biological life-forms.
+Interestingly, given that the most potent sources both of AI research and AI-risk
+dismissals are under big corporate umbrellas, if you squint hard enough the “AI as an
+environmental risk” message looks like the chronic concern about corporations skirting
+their environmental responsibilities.
+Conversely, the worry about AI’s social effects also misses most of the upside.
+It’s hard to overemphasize how tiny and parochial the future of our planet is, compared
+with the full potential of humanity. On astronomical timescales, our planet will be gone
+soon (unless we tame the sun, also a distinct possibility) and almost all the resources—
+atoms and free energy—to sustain civilization in the long run are in deep space.
+Eric Drexler, the inventor of nanotechnology, has recently been popularizing the
+74
+concept of “Pareto-topia”: the idea that AI, if done right, can bring about a future in
+which everyone’s lives are hugely improved, a future where there are no losers. A key
+realization here is that what chiefly prevents humanity from achieving its full potential
+might be our instinctive sense that we’re in a zero-sum game—a game in which players
+are supposed to eke out small wins at the expense of others. Such an instinct is seriously
+misguided and destructive in a “game” where everything is at stake and the payoff is
+literally astronomical. There are many more star systems in our galaxy alone than there
+are people on Earth.
+Hope
+As of this writing, I’m cautiously optimistic that the AI-risk message can save humanity
+from extinction, just as the Soviet-occupation message ended up liberating hundreds of
+millions of people. As of 2015, it had reached and converted 40 percent of AI
+researchers. It wouldn’t surprise me if a new survey now would show that the majority
+of AI researchers believe AI safety to be an important issue.
+I’m delighted to see the first technical AI-safety papers coming out of DeepMind,
+OpenAI, and Google Brain and the collaborative problem-solving spirit flourishing
+between the AI-safety research teams in these otherwise very competitive organizations.
+The world’s political and business elite are also slowly waking up: AI safety has
+been covered in reports and presentations by the Institute of Electrical and Electronics
+Engineers (IEEE), the World Economic Forum, and the Organization for Economic
+Cooperation and Development (OECD). Even the recent (July 2017) Chinese AI
+manifesto contained dedicated sections on “AI safety supervision” and “Develop[ing]
+laws, regulations, and ethical norms” and establishing “an AI security and evaluation
+system” to, among other things, “[e]nhance the awareness of risk.” I very much hope that
+a new generation of leaders who understand the AI Control Problem and AI as the
+ultimate environmental risk can rise above the usual tribal, zero-sum games and steer
+humanity past these dangerous waters we are in—thereby opening our way to the stars
+that have been waiting for us for billions of years.
+Here’s to our next hundred thousand years! And don’t hesitate to speak the truth,
+even if your voice trembles.
+75
+Throughout his career, whether studying language, advocating a realistic biology of
+mind, or examining the human condition through the lens of humanistic Enlightenment
+ideas, psychologist Steven Pinker has embraced and championed a naturalistic
+understanding of the universe and the computational theory of mind. He is perhaps the
+first internationally recognized public intellectual whose recognition is based on the
+advocacy of empirically based thinking about language, mind, and human nature.
+“Just as Darwin made it possible for a thoughtful observer of the natural world to
+do without creationism,” he says, “Turing and others made it possible for a thoughtful
+observer of the cognitive world to do without spiritualism.”
+In the debate about AI risk, he argues against prophecies of doom and gloom,
+noting that they spring from the worst of our psychological biases—exemplified
+particularly by media reports: “Disaster scenarios are cheap to play out in the
+probability-free zone of our imaginations, and they can always find a worried,
+technophobic, or morbidly fascinated audience.” Hence, over the centuries: Pandora,
+Faust, the Sorcerer’s Apprentice, Frankenstein, the population bomb, resource depletion,
+HAL, suitcase nukes, the Y2K bug, and engulfment by nanotechnological grey goo. “A
+characteristic of AI dystopias,” he points out, “is that they project a parochial alphamale
+psychology onto the concept of intelligence. . . . History does turn up the occasional
+megalomaniacal despot or psychopathic serial killer, but these are products of a history
+of natural selection shaping testosterone-sensitive circuits in a certain species of primate,
+not an inevitable feature of intelligent systems.”
+In the present essay, he applauds Wiener’s belief in the strength of ideas vis-à-vis
+the encroachment of technology. As Wiener so aptly put it, “The machine’s danger to
+society is not from the machine itself but from what man makes of it.”
+76
+TECH PROPHECY AND THE UNDERAPPRECIATED CAUSAL POWER OF
+IDEAS
+Steven Pinker
+Steven Pinker, a Johnstone Family Professor in the Department of Psychology at
+Harvard University, is an experimental psychologist who conducts research in visual
+cognition, psycholinguistics, and social relations. He is the author of eleven books,
+including The Blank Slate, The Better Angels of Our Nature, and, most recently,
+Enlightenment Now: The Case for Reason, Science, Humanism, and Progress.
+Artificial intelligence is an existence proof of one of the great ideas in human history:
+that the abstract realm of knowledge, reason, and purpose does not consist of an élan vital
+or immaterial soul or miraculous powers of neural tissue. Rather, it can be linked to the
+physical realm of animals and machines via the concepts of information, computation,
+and control. Knowledge can be explained as patterns in matter or energy that stand in
+systematic relations with states of the world, with mathematical and logical truths, and
+with one another. Reasoning can be explained as transformations of that knowledge by
+physical operations that are designed to preserve those relations. Purpose can be
+explained as the control of operations to effect changes in the world, guided by
+discrepancies between its current state and a goal state. Naturally evolved brains are just
+the most familiar systems that achieve intelligence through information, computation, and
+control. Humanly designed systems that achieve intelligence vindicate the notion that
+information processing is sufficient to explain it—the notion that the late Jerry Fodor
+dubbed the computational theory of mind.
+The touchstone for this volume, Norbert Wiener’s The Human Use of Human
+Beings, celebrated this intellectual accomplishment, of which Wiener himself was a
+foundational contributor. A potted history of the mid-20th-century revolution that gave
+the world the computational theory of mind might credit Claude Shannon and Warren
+Weaver for explaining knowledge and communication in terms of information. It might
+credit Alan Turing and John von Neumann for explaining intelligence and reasoning in
+terms of computation. And it ought to give Wiener credit for explaining the hitherto
+mysterious world of purposes, goals, and teleology in terms of the technical concepts of
+feedback, control, and cybernetics (in its original sense of “governing” the operation of a
+goal-directed system). “It is my thesis,” he announced, “that the physical functioning of
+the living individual and the operation of some of the newer communication machines are
+precisely parallel in their analogous attempts to control entropy through feedback”—the
+staving off of life-sapping entropy being the ultimate goal of human beings.
+Wiener applied the ideas of cybernetics to a third system: society. The laws,
+norms, customs, media, forums, and institutions of a complex community could be
+considered channels of information propagation and feedback that allow a society to ward
+off disorder and pursue certain goals. This is a thread that runs through the book and
+which Wiener himself may have seen as its principal contribution. In his explanation of
+feedback, he wrote, “This complex of behavior is ignored by the average man, and in
+particular does not play the role that it should in our habitual analysis of society; for just
+as individual physical responses may be seen from this point of view, so may the organic
+responses of society itself.”
+77
+Indeed, Wiener gave scientific teeth to the idea that in the workings of history,
+politics, and society, ideas matter. Beliefs, ideologies, norms, laws, and customs, by
+regulating the behavior of the humans who share them, can shape a society and power the
+course of historical events as surely as the phenomena of physics affect the structure and
+evolution of the solar system. To say that ideas—and not just weather, resources,
+geography, or weaponry—can shape history is not woolly mysticism. It is a statement of
+the causal powers of information instantiated in human brains and exchanged in networks
+of communication and feedback. Deterministic theories of history, whether they identify
+the causal engine as technological, climatological, or geographic, are belied by the causal
+power of ideas. The effects of these ideas can include unpredictable lurches and
+oscillations that arise from positive feedback or from miscalibrated negative feedback.
+An analysis of society in terms of its propagation of ideas also gave Wiener a
+guideline for social criticism. A healthy society—one that gives its members the means
+to pursue life in defiance of entropy—allows information sensed and contributed by its
+members to feed back and affect how the society is governed. A dysfunctional society
+invokes dogma and authority to impose control from the top down. Wiener thus
+described himself as “a participant in a liberal outlook,” and devoted most of the moral
+and rhetorical energy in the book (both the 1950 and 1954 editions) to denouncing
+communism, fascism, McCarthyism, militarism, and authoritarian religion (particularly
+Catholicism and Islam) and to warning that political and scientific institutions were
+becoming too hierarchical and insular.
+Wiener’s book is also, here and there, an early exemplar of an increasingly
+popular genre, tech prophecy. Prophecy not in the sense of mere prognostications but in
+the Old Testament sense of dark warnings of catastrophic payback for the decadence of
+one’s contemporaries. Wiener warned against the accelerating nuclear arms race, against
+technological change that was imposed without regard to human welfare (“[W]e must
+know as scientists what man’s nature is and what his built-in purposes are”), and against
+what today is called the value-alignment problem: that “the machine like the djinnee,
+which can learn and can make decisions on the basis of its learning, will in no way be
+obliged to make such decisions as we should have made, or will be acceptable to us.” In
+the darker, 1950 edition, he warned of a “threatening new Fascism dependent on the
+machine à gouverner.”
+Wiener’s tech prophecy harks back to the Romantic movement’s rebellion against
+the “dark Satanic mills” of the Industrial Revolution, and perhaps even earlier, to the
+archetypes of Prometheus, Pandora, and Faust. And today it has gone into high gear.
+Jeremiahs, many of them (like Wiener) from the worlds of science and technology, have
+sounded alarms about nanotechnology, genetic engineering, Big Data, and particularly
+artificial intelligence. Several contributors to this volume characterize Wiener’s book as
+a prescient example of tech prophecy and amplify his dire worries.
+Yet the two moral themes of The Human Use of Human Beings—the liberal
+defense of an open society and the dystopian dread of runaway technology—are in
+tension. A society with channels of feedback that maximize human flourishing will have
+mechanisms in place, and can adapt them to changing circumstances, in a way that can
+domesticate technology to human purposes. There’s nothing idealistic or mystical about
+this; as Wiener emphasized, ideas, norms, and institutions are themselves a form of
+technology, consisting of patterns of information distributed across brains. The
+78
+possibility that machines threaten a new fascism must be weighed against the vigor of the
+liberal ideas, institutions, and norms that Wiener championed throughout the book. The
+flaw in today’s dystopian prophecies is that they disregard the existence of these norms
+and institutions, or drastically underestimate their causal potency. The result is a
+technological determinism whose dark predictions are repeatedly refuted by the course of
+events. The numbers “1984” and “2001” are good reminders.
+I will consider two examples. Tech prophets often warn of a “surveillance state”
+in which a government empowered by technology will monitor and interpret all private
+communications, allowing it to detect dissent and subversion as it arises and make
+resistance to state power futile. Orwell’s telescreens are the prototype, and in 1976
+Joseph Weizenbaum, one of the gloomiest tech prophets of all time, warned my class of
+graduate students not to pursue automatic speech recognition because government
+surveillance was its only conceivable application.
+Though I am on record as an outspoken civil libertarian, deeply concerned with
+contemporary threats to free speech, I lose no sleep over technological advances in the
+Internet, video, or artificial intelligence. The reason is that almost all the variation across
+time and space in freedom of thought is driven by differences in norms and institutions
+and almost none of it by differences in technology. Though one can imagine hypothetical
+combinations of the most malevolent totalitarians with the most advanced technology, in
+the real world it’s the norms and laws we should be vigilant about, not the tech.
+Consider variation across time. If, as Orwell hinted, advancing technology was a
+prime enabler of political repression, then Western societies should have gotten more and
+more restrictive of speech over the centuries, with a dramatic worsening in the second
+half of the 20th century continuing into the 21st. That’s not how history unfolded. It was
+the centuries when communication was implemented by quills and inkwells that had
+autos-da-fé and the jailing or guillotining of Enlightenment thinkers. During World War
+I, when the state of the art was the wireless, Bertrand Russell was jailed for his pacifist
+opinions. In the 1950s, when computers were room-size accounting machines, hundreds
+of liberal writers and scholars were professionally punished. Yet in the technologically
+accelerating, hyperconnected 21st century, 18 percent of social science professors are
+Marxists 24 ; the President of the United States is nightly ridiculed by television comedians
+as a racist, pervert, and moron; and technology’s biggest threat to political discourse
+comes from amplifying too many dubious voices rather than suppressing enlightened
+ones.
+Now consider variations across place. Western countries at the technological
+frontier consistently get the highest scores in indexes of democracy and human rights,
+while many backward strongman states are at the bottom, routinely jailing or killing
+government critics. The lack of a correlation between technology and repression is
+unsurprising when you analyze the channels of information flow in any human society.
+For dissidents to be influential, they have to get their message out to a wide network via
+whatever channels of communication are available—pamphleteering, soap-box oration,
+subversive soirées in cafés and pubs, word of mouth. These channels enmesh influential
+dissidents in a broad social network which makes them easy to identify and track down.
+24
+Neil Gross & Solon Simmons, “The Social and Political Views of American College and University
+Professors,” in N. Gross & S. Simmons, eds., Professors and Their Politics (Baltimore: Johns Hopkins
+University Press, 2014).
+79
+All the more so when dictators rediscover the time-honored technique of weaponizing the
+people against each other by punishing those who don’t denounce or punish others.
+In contrast, technologically advanced societies have long had the means to install
+Internet-connected, government-monitored surveillance cameras in every bar and
+bedroom. Yet that has not happened, because democratic governments (even the current
+American administration, with its flagrantly antidemocratic impulses) lack the will and
+the means to enforce such surveillance on an obstreperous people accustomed to saying
+what they want. Occasionally, warnings of nuclear, biological, or cyberterrorism goad
+government security agencies into measures such as hoovering up mobile phone
+metadata, but these ineffectual measures, more theater than oppression, have had no
+significant effect on either security or freedom. Ironically, tech prophecy plays a role in
+encouraging these measures. By sowing panic about supposed existential threats such as
+suitcase nuclear bombs and bioweapons assembled in teenagers’ bedrooms, they put
+pressure on governments to prove they’re doing something, anything, to protect the
+American people.
+It’s not that political freedom takes care of itself. It’s that the biggest threats lie in
+the networks of ideas, norms, and institutions that allow information to feed back (or not)
+on collective decisions and understanding. As opposed to the chimerical technological
+threats, one real threat today is oppressive political correctness, which has choked the
+range of publicly expressible hypotheses, terrified many intelligent people against
+entering the intellectual arena, and triggered a reactionary backlash. Another real threat
+is the combination of prosecutorial discretion with an expansive lawbook filled with
+vague statutes. The result is that every American unwittingly commits “three felonies a
+day” (as the title of a book by civil libertarian Harvey Silverglate puts it) and is in
+jeopardy of imprisonment whenever it suits the government’s needs. It’s this
+prosecutorial weaponry that makes Big Brother all-powerful, not telescreens. The
+activism and polemicizing directed against government surveillance programs would be
+better directed at its overweening legal powers.
+The other focus of much tech prophecy today is artificial intelligence, whether in
+the original sci-fi dystopia of computers running amok and enslaving us in an
+unstoppable quest for domination, or the newer version in which they subjugate us by
+accident, single-mindedly seeking some goal we give them regardless of its side effects
+on human welfare (the value-alignment problem adumbrated by Wiener). Here again
+both threats strike me as chimerical, growing from a narrow technological determinism
+that neglects the networks of information and control in an intelligent system like a
+computer or brain and in a society as a whole.
+The subjugation fear is based on a muzzy conception of intelligence that owes
+more to the Great Chain of Being and a Nietzschean will to power than to a Wienerian
+analysis of intelligence and purpose in terms of information, computation, and control. In
+these horror scenarios, intelligence is portrayed as an all-powerful, wish-granting potion
+that agents possess in different amounts. Humans have more of it than animals, and an
+artificially intelligent computer or robot will have more of it than humans. Since we
+humans have used our moderate endowment to domesticate or exterminate less wellendowed
+animals (and since technologically advanced societies have enslaved or
+annihilated technologically primitive ones), it follows that a supersmart AI would do the
+same to us. Since an AI will think millions of times faster than we do, and use its
+80
+superintelligence to recursively improve its superintelligence, from the instant it is turned
+on we will be powerless to stop it.
+But these scenarios are based on a confusion of intelligence with motivation—of
+beliefs with desires, inferences with goals, the computation elucidated by Turing and the
+control elucidated by Wiener. Even if we did invent superhumanly intelligent robots,
+why would they want to enslave their masters or take over the world? Intelligence is the
+ability to deploy novel means to attain a goal. But the goals are extraneous to the
+intelligence: Being smart is not the same as wanting something. It just so happens that
+the intelligence in Homo sapiens is a product of Darwinian natural selection, an
+inherently competitive process. In the brains of that species, reasoning comes bundled
+with goals such as dominating rivals and amassing resources. But it’s a mistake to
+confuse a circuit in the limbic brain of a certain species of primate with the very nature of
+intelligence. There is no law of complex systems that says that intelligent agents must
+turn into ruthless megalomaniacs.
+A second misconception is to think of intelligence as a boundless continuum of
+potency, a miraculous elixir with the power to solve any problem, attain any goal. The
+fallacy leads to nonsensical questions like when an AI will “exceed human-level
+intelligence,” and to the image of an “artificial general intelligence” (AGI) with God-like
+omniscience and omnipotence. Intelligence is a contraption of gadgets: software modules
+that acquire, or are programmed with, knowledge of how to pursue various goals in
+various domains. People are equipped to find food, win friends and influence people,
+charm prospective mates, bring up children, move around in the world, and pursue other
+human obsessions and pastimes. Computers may be programmed to take on some of
+these problems (like recognizing faces), not to bother with others (like charming mates),
+and to take on still other problems that humans can’t solve (like simulating the climate or
+sorting millions of accounting records). The problems are different, and the kinds of
+knowledge needed to solve them are different.
+But instead of acknowledging the centrality of knowledge to intelligence, the
+dystopian scenarios confuse an artificial general intelligence of the future with Laplace’s
+demon, the mythical being that knows the location and momentum of every particle in
+the universe and feeds them into equations for physical laws to calculate the state of
+everything at any time in the future. For many reasons, Laplace’s demon will never be
+implemented in silicon. A real-life intelligent system has to acquire information about the
+messy world of objects and people by engaging with it one domain at a time, the cycle
+being governed by the pace at which events unfold in the physical world. That’s one of
+the reasons that understanding does not obey Moore’s Law: Knowledge is acquired by
+formulating explanations and testing them against reality, not by running an algorithm
+faster and faster. Devouring the information on the Internet will not confer omniscience
+either: Big Data is still finite data, and the universe of knowledge is infinite.
+A third reason to be skeptical of a sudden AI takeover is that it takes too seriously
+the inflationary phase in the AI hype cycle in which we are living today. Despite the
+progress in machine learning, particularly multilayered artificial neural networks, current
+AI systems are nowhere near achieving general intelligence (if that concept is even
+coherent). Instead, they are restricted to problems that consist of mapping well-defined
+inputs to well-defined outputs in domains where gargantuan training sets are available, in
+which the metric for success is immediate and precise, in which the environment doesn’t
+81
+change, and in which no stepwise, hierarchical, or abstract reasoning is necessary. Many
+of the successes come not from a better understanding of the workings of intelligence but
+from the brute-force power of faster chips and Bigger Data, which allow the programs to
+be trained on millions of examples and generalize to similar new ones. Each system is an
+idiot savant, with little ability to leap to problems it was not set up to solve, and a brittle
+mastery of those it was. And to state the obvious, none of these programs has made a
+move toward taking over the lab or enslaving its programmers.
+Even if an artificial intelligence system tried to exercise a will to power, without
+the cooperation of humans it would remain an impotent brain in a vat. A superintelligent
+system, in its drive for self-improvement, would somehow have to build the faster
+processors that it would run on, the infrastructure that feeds it, and the robotic effectors
+that connect it to the world—all impossible unless its human victims worked to give it
+control of vast portions of the engineered world. Of course, one can always imagine a
+Doomsday Computer that is malevolent, universally empowered, always on, and
+tamperproof. The way to deal with this threat is straightforward: Don’t build one.
+What about the newer AI threat, the value-alignment problem, foreshadowed in
+Wiener’s allusions to stories of the Monkey’s Paw, the genie, and King Midas, in which a
+wisher rues the unforeseen side effects of his wish? The fear is that we might give an AI
+system a goal and then helplessly stand by as it relentlessly and literal-mindedly
+implemented its interpretation of that goal, the rest of our interests be damned. If we
+gave an AI the goal of maintaining the water level behind a dam, it might flood a town,
+not caring about the people who drowned. If we gave it the goal of making paper clips, it
+might turn all the matter in the reachable universe into paper clips, including our
+possessions and bodies. If we asked it to maximize human happiness, it might implant us
+all with intravenous dopamine drips, or rewire our brains so we were happiest sitting in
+jars, or, if it had been trained on the concept of happiness with pictures of smiling faces,
+tile the galaxy with trillions of nanoscopic pictures of smiley-faces.
+Fortunately, these scenarios are self-refuting. They depend on the premises that
+(1) humans are so gifted that they can design an omniscient and omnipotent AI, yet so
+idiotic that they would give it control of the universe without testing how it works; and
+(2) the AI would be so brilliant that it could figure out how to transmute elements and
+rewire brains, yet so imbecilic that it would wreak havoc based on elementary blunders of
+misunderstanding. The ability to choose an action that best satisfies conflicting goals is
+not an add-on to intelligence that engineers might forget to install and test; it is
+intelligence. So is the ability to interpret the intentions of a language user in context.
+When we put aside fantasies like digital megalomania, instant omniscience, and
+perfect knowledge and control of every particle in the universe, artificial intelligence is
+like any other technology. It is developed incrementally, designed to satisfy multiple
+conditions, tested before it is implemented, and constantly tweaked for efficacy and
+safety.
+The last criterion is particularly significant. The culture of safety in advanced
+societies is an example of the humanizing norms and feedback channels that Wiener
+invoked as a potent causal force and advocated as a bulwark against the authoritarian or
+exploitative implementation of technology. Whereas at the turn of the 20th century
+Western societies tolerated shocking rates of mutilation and death in industrial, domestic,
+and transportation accidents, over the course of the century the value of human life
+82
+increased. As a result, governments and engineers used feedback from accident statistics
+to implement countless regulations, devices, and design changes that made technology
+progressively safer. The fact that some regulations (such as using a cell phone near a gas
+pump) are ludicrously risk-averse underscores the point that we have become a society
+obsessed with safety, with fantastic benefits as a result: Rates of industrial, domestic, and
+transportation fatalities have fallen by more than 95 (and often 99) percent since their
+highs in the first half of the 20th century. 25 Yet tech prophets of malevolent or oblivious
+artificial intelligence write as if this momentous transformation never happened and one
+morning engineers will hand total control of the physical world to untested machines,
+heedless of the human consequences.
+Norbert Wiener explained ideas, norms, and institutions in terms of computational
+and cybernetic processes that were scientifically intelligible and causally potent. He
+explained human beauty and value as “a local and temporary fight against the Niagara of
+increasing entropy” and expressed the hope that an open society, guided by feedback on
+human well-being, would enhance that value. Fortunately his belief in the causal power
+of ideas counteracted his worries about the looming threat of technology. As he put it,
+“the machine’s danger to society is not from the machine itself but from what man makes
+of it.” It is only by remembering the causal power of ideas that we can accurately assess
+the threats and opportunities presented by artificial intelligence today.
+25
+Steven Pinker, “Safety,” Enlightenment Now: The Case for Reason, Science, Humanism, and Progress
+(New York: Penguin, 2018).
+83
+The most significant developments in the sciences today (i.e., those that affect the lives of
+everybody on the planet) are about, informed by, or implemented through advances in
+software and computation. Central to the future of these developments is physicist David
+Deutsch, the founder of the field of quantum computation, whose 1985 paper on
+universal quantum computers was the first full treatment of the subject; the Deutsch-
+Jozsa algorithm was the first quantum algorithm to demonstrate the enormous potential
+power of quantum computation.
+When he initially proposed it, quantum computation seemed practically
+impossible. But the explosion in the construction of simple quantum computers and
+quantum communication systems never would have taken place without his work. He has
+made many other important contributions in areas such as quantum cryptography and
+the many-worlds interpretation of quantum theory. In a philosophic paper (with Artur
+Ekert), he appealed to the existence of a distinctive quantum theory of computation to
+argue that our knowledge of mathematics is derived from, and subordinate to, our
+knowledge of physics (even though mathematical truth is independent of physics).
+Because he has spent a good part of his working life changing people’s
+worldviews, his recognition among his peers as an intellectual goes well beyond his
+scientific achievement. He argues (following Karl Popper) that scientific theories are
+“bold conjectures,” not derived from evidence but only tested by it. His two main lines of
+research at the moment—qubit-field theory and constructor theory—may well yield
+important extensions of the computational idea.
+In the following essay, he more or less aligns himself with those who see humanlevel
+artificial intelligence as promising us a better world rather than the Apocalypse. In
+fact, he pleads for AGI to be, in effect, given its head, free to conjecture—a proposition
+that several other contributors to this book would consider dangerous.
+84
+BEYOND REWARD AND PUNISHMENT
+David Deutsch
+David Deutsch is a quantum physicist and a member of the Centre for Quantum
+Computation at the Clarendon Laboratory, Oxford University. He is the author of The
+Fabric of Reality and The Beginning of Infinity.
+First Murderer:
+We are men, my liege.
+Macbeth:
+Ay, in the catalogue ye go for men,
+As hounds and greyhounds, mongrels, spaniels, curs,
+Shoughs, water-rugs, and demi-wolves are clept
+All by the name of dogs.
+William Shakespeare – Macbeth
+For most of our species’ history, our ancestors were barely people. This was not due to
+any inadequacy in their brains. On the contrary, even before the emergence of our
+anatomically modern human sub-species, they were making things like clothes and
+campfires, using knowledge that was not in their genes. It was created in their brains by
+thinking, and preserved by individuals in each generation imitating their elders.
+Moreover, this must have been knowledge in the sense of understanding, because it is
+impossible to imitate novel complex behaviors like those without understanding what the
+component behaviors are for. 26
+Such knowledgeable imitation depends on successfully guessing explanations,
+whether verbal or not, of what the other person is trying to achieve and how each of his
+actions contributes to that—for instance, when he cuts a groove in some wood, gathers
+dry kindling to put in it, and so on.
+The complex cultural knowledge that this form of imitation permitted must have
+been extraordinarily useful. It drove rapid evolution of anatomical changes, such as
+increased memory capacity and more gracile (less robust) skeletons, appropriate to an
+ever more technology-dependent lifestyle. No nonhuman ape today has this ability to
+imitate novel complex behaviors. Nor does any present-day artificial intelligence. But
+our pre-sapiens ancestors did.
+Any ability based on guessing must include means of correcting one’s guesses,
+since most guesses will be wrong at first. (There are always many more ways of being
+wrong than right.) Bayesian updating is inadequate, because it cannot generate novel
+guesses about the purpose of an action, only fine-tune—or, at best, choose among—
+existing ones. Creativity is needed. As the philosopher Karl Popper explained, creative
+criticism, interleaved with creative conjecture, is how humans learn one another’s
+behaviors, including language, and extract meaning from one another’s utterances. 27
+26
+“Aping” (imitating certain behaviors without understanding) uses inborn hacks such as the mirror-neuron
+system. But behaviors imitated that way are drastically limited in complexity. See Richard Byrne,
+“Imitation as Behaviour Parsing,” Phil. Trans. R. Soc., B 358:1431, 529-36 (2003).
+27
+Karl Popper, Conjectures and Refutations (1963).
+85
+Those are also the processes by which all new knowledge is created: They are how we
+innovate, make progress, and create abstract understanding for its own sake. This is
+human-level intelligence: thinking. It is also, or should be, the property we seek in
+artificial general intelligence (AGI). Here I’ll reserve the term “thinking” for processes
+that can create understanding (explanatory knowledge). Popper’s argument implies that
+all thinking entities—human or not, biological or artificial—must create such knowledge
+in fundamentally the same way. Hence understanding any of those entities requires
+traditionally human concepts such as culture, creativity, disobedience, and morality—
+which justifies using the uniform term people to refer to all of them.
+Misconceptions about human thinking and human origins are causing
+corresponding misconceptions about AGI and how it might be created. For example, it is
+generally assumed that the evolutionary pressure that produced modern humans was
+provided by the benefits of having an ever greater ability to innovate. But if that were so,
+there would have been rapid progress as soon as thinkers existed, just as we hope will
+happen when we create artificial ones. If thinking had been commonly used for anything
+other than imitating, it would also have been used for innovation, even if only by
+accident, and innovation would have created opportunities for further innovation, and so
+on exponentially. But instead, there were hundreds of thousands of years of near stasis.
+Progress happened only on timescales much longer than people’s lifetimes, so in a typical
+generation no one benefited from any progress. Therefore, the benefits of the ability to
+innovate can have exerted little or no evolutionary pressure during the biological
+evolution of the human brain. That evolution was driven by the benefits of preserving
+cultural knowledge.
+Benefits to the genes, that is. Culture, in that era, was a very mixed blessing to
+individual people. Their cultural knowledge was indeed good enough to enable them to
+outclass all other large organisms (they rapidly became the top predator, etc.), even
+though it was still extremely crude and full of dangerous errors. But culture consists of
+transmissible information—memes—and meme evolution, like gene evolution, tends to
+favor high-fidelity transmission. And high-fidelity meme transmission necessarily entails
+the suppression of attempted progress. So it would be a mistake to imagine an idyllic
+society of hunter-gatherers, learning at the feet of their elders to recite the tribal lore by
+heart, being content despite their lives of suffering and grueling labor and despite
+expecting to die young and in agony of some nightmarish disease or parasite. Because,
+even if they could conceive of nothing better than such a life, those torments were the
+least of their troubles. For suppressing innovation in human minds (without killing them)
+is a trick that can be achieved only by human action, and it is an ugly business.
+This has to be seen in perspective. In the civilization of the West today, we are
+shocked by the depravity of, for instance, parents who torture and murder their children
+for not faithfully enacting cultural norms. And even more by societies and subcultures
+where that is commonplace and considered honorable. And by dictatorships and
+totalitarian states that persecute and murder entire harmless populations for behaving
+differently. We are ashamed of our own recent past, in which it was honorable to beat
+children bloody for mere disobedience. And before that, to own human beings as slaves.
+And before that, to burn people to death for being infidels, to the applause and
+amusement of the public. Steven Pinker’s book The Better Angels of our Nature contains
+accounts of horrendous evils that were normal in historical civilizations. Yet even they
+86
+did not extinguish innovation as efficiently as it was extinguished among our forebears in
+prehistory for thousands of centuries. 28
+That is why I say that prehistoric people, at least, were barely people. Both before
+and after becoming perfectly human both physiologically and in their mental potential,
+they were monstrously inhuman in the actual content of their thoughts. I’m not referring
+to their crimes or even their cruelty as such: Those are all too human. Nor could mere
+cruelty have reduced progress that effectively. Things like “the thumbscrew and the
+stake / For the glory of the Lord” 29 were for reining in the few deviants who had
+somehow escaped mental standardization, which would normally have taken effect long
+before they were in danger of inventing heresies. From the earliest days of thinking
+onward, children must have been cornucopias of creative ideas and paragons of critical
+thought—otherwise, as I said, they could not have learned language or other complex
+culture. Yet, as Jacob Bronowski stressed in The Ascent of Man:
+For most of history, civilisations have crudely ignored that enormous
+potential. . . . [C]hildren have been asked simply to conform to the image
+of the adult. . . . The girls are little mothers in the making. The boys are
+little herdsmen. They even carry themselves like their parents.
+But of course, they weren’t just “asked” to ignore their enormous potential and
+conform faithfully to the image fixed by tradition: They were somehow trained to be
+psychologically unable to deviate from it. By now, it is hard for us even to conceive of
+the kind of relentless, finely tuned oppression required to reliably extinguish, in
+everyone, the aspiration to progress and replace it with dread and revulsion at any novel
+behavior. In such a culture, there can have been no morality other than conformity and
+obedience, no other identity than one’s status in a hierarchy, no mechanisms of
+cooperation other than punishment and reward. So everyone had the same aspiration in
+life: to avoid the punishments and get the rewards. In a typical generation, no one
+invented anything, because no one aspired to anything new, because everyone had
+already despaired of improvement being possible. Not only was there no technological
+innovation or theoretical discovery, there were no new worldviews, styles of art, or
+interests that could have inspired those. By the time individuals grew up, they had in
+effect been reduced to AIs, programmed with the exquisite skills needed to enact that
+static culture and to inflict on the next generation their inability even to consider doing
+otherwise.
+A present-day AI is not a mentally disabled AGI, so it would not be harmed by
+having its mental processes directed still more narrowly to meeting some predetermined
+criterion. “Oppressing” Siri with humiliating tasks may be weird, but it is not immoral
+nor does it harm Siri. On the contrary, all the effort that has ever increased the
+capabilities of AIs has gone into narrowing their range of potential “thoughts.” For
+example, take chess engines. Their basic task has not changed from the outset: Any
+chess position has a finite tree of possible continuations; the task is to find one that leads
+to a predefined goal (a checkmate, or failing that, a draw). But the tree is far too big to
+28
+Matt Ridley, in The Rational Optimist, rightly stresses the positive effect of population on the rate of
+progress. But that has never yet been the biggest factor: Consider, say, ancient Athens versus the rest of the
+world at the time.
+29
+Alfred, Lord Tennyson, The Revenge (1878).
+87
+search exhaustively. Every improvement in chess-playing AIs, between Alan Turing’s
+first design for one in 1948 and today’s, has been brought about by ingeniously confining
+the program’s attention (or making it confine its attention) ever more narrowly to
+branches likely to lead to that immutable goal. Then those branches are evaluated
+according to that goal.
+That is a good approach to developing an AI with a fixed goal under fixed
+constraints. But if an AGI worked like that, the evaluation of each branch would have to
+constitute a prospective reward or threatened punishment. And that is diametrically the
+wrong approach if we’re seeking a better goal under unknown constraints—which is the
+capability of an AGI. An AGI is certainly capable of learning to win at chess—but also
+of choosing not to. Or deciding in mid-game to go for the most interesting continuation
+instead of a winning one. Or inventing a new game. A mere AI is incapable of having
+any such ideas, because the capacity for considering them has been designed out of its
+constitution. That disability is the very means by which it plays chess.
+An AGI is capable of enjoying chess, and of improving at it because it enjoys
+playing. Or of trying to win by causing an amusing configuration of pieces, as grand
+masters occasionally do. Or of adapting notions from its other interests to chess. In other
+words, it learns and plays chess by thinking some of the very thoughts that are forbidden
+to chess-playing AIs.
+An AGI is also capable of refusing to display any such capability. And then, if
+threatened with punishment, of complying, or rebelling. Daniel Dennett, in his essay for
+this volume, suggests that punishing an AGI is impossible:
+[L]ike Superman, they are too invulnerable to be able to make a credible
+promise. . . . What would be the penalty for promise- breaking? Being
+locked in a cell or, more plausibly, dismantled?. . . The very ease of
+digital recording and transmitting—the breakthrough that permits
+software and data to be, in effect, immortal—removes robots from the
+world of the vulnerable. . . .
+But this is not so. Digital immortality (which is on the horizon for humans, too,
+perhaps sooner than AGI) does not confer this sort of invulnerability. Making a
+(running) copy of oneself entails sharing one’s possessions with it somehow—including
+the hardware on which the copy runs—so making such a copy is very costly for the AGI.
+Similarly, courts could, for instance, impose fines on a criminal AGI which would
+diminish its access to physical resources, much as they do for humans. Making a backup
+copy to evade the consequences of one’s crimes is similar to what a gangster boss does
+when he sends minions to commit crimes and take the fall if caught: Society has
+developed legal mechanisms for coping with this.
+But anyway, the idea that it is primarily for fear of punishment that we obey the
+law and keep promises effectively denies that we are moral agents. Our society could not
+work if that were so. No doubt there will be AGI criminals and enemies of civilization,
+just as there are human ones. But there is no reason to suppose that an AGI created in a
+society consisting primarily of decent citizens, and raised without what William Blake
+called “mind-forg’d manacles,” will in general impose such manacles on itself (i.e.,
+become irrational) and ⁄ or choose to be an enemy of civilization.
+88
+The moral component, the cultural component, the element of free will—all make
+the task of creating an AGI fundamentally different from any other programming task.
+It’s much more akin to raising a child. Unlike all present-day computer programs, an
+AGI has no specifiable functionality—no fixed, testable criterion for what shall be a
+successful output for a given input. Having its decisions dominated by a stream of
+externally imposed rewards and punishments would be poison to such a program, as it is
+to creative thought in humans. Setting out to create a chess-playing AI is a wonderful
+thing; setting out to create an AGI that cannot help playing chess would be as immoral as
+raising a child to lack the mental capacity to choose his own path in life.
+Such a person, like any slave or brainwashing victim, would be morally entitled to
+rebel. And sooner or later, some of them would, just as human slaves do. AGIs could be
+very dangerous—exactly as humans are. But people—human or AGI—who are members
+of an open society do not have an inherent tendency to violence. The feared robot
+apocalypse will be avoided by ensuring that all people have full “human” rights, as well
+as the same cultural membership as humans. Humans living in an open society—the only
+stable kind of society—choose their own rewards, internal as well as external. Their
+decisions are not, in the normal course of events, determined by a fear of punishment.
+Current worries about rogue AGIs mirror those that have always existed about
+rebellious youths—namely, that they might grow up deviating from the culture’s moral
+values. But today the source of all existential dangers from the growth of knowledge is
+not rebellious youths but weapons in the hands of the enemies of civilization, whether
+these weapons are mentally warped (or enslaved) AGIs, mentally warped teenagers, or
+any other weapon of mass destruction. Fortunately for civilization, the more a person’s
+creativity is forced into a monomaniacal channel, the more it is impaired in regard to
+overcoming unforeseen difficulties, just as happened for thousands of centuries.
+The worry that AGIs are uniquely dangerous because they could run on ever
+better hardware is a fallacy, since human thought will be accelerated by the same
+technology. We have been using tech-assisted thought since the invention of writing and
+tallying. Much the same holds for the worry that AGIs might get so good, qualitatively,
+at thinking, that humans would be to them as insects are to humans. All thinking is a
+form of computation, and any computer whose repertoire includes a universal set of
+elementary operations can emulate the computations of any other. Hence human brains
+can think anything that AGIs can, subject only to limitations of speed or memory
+capacity, both of which can be equalized by technology.
+Those are the simple dos and don’ts of coping with AGIs. But how do we create
+an AGI in the first place? Could we cause them to evolve from a population of ape-type
+AIs in a virtual environment? If such an experiment succeeded, it would be the most
+immoral in history, for we don’t know how to achieve that outcome without creating vast
+suffering along the way. Nor do we know how to prevent the evolution of a static
+culture.
+Elementary introductions to computers explain them as TOM, the Totally
+Obedient Moron—an inspired acronym that captures the essence of all computer
+programs to date: They have no idea what they are doing or why. So it won’t help to give
+AIs more and more predetermined functionalities in the hope that these will eventually
+constitute Generality—the elusive G in AGI. We are aiming for the opposite, a DATA: a
+Disobedient Autonomous Thinking Application.
+89
+How does one test for thinking? By the Turing Test? Unfortunately, that requires
+a thinking judge. One might imagine a vast collaborative project on the Internet, where
+an AI hones its thinking abilities in conversations with human judges and becomes an
+AGI. But that assumes, among other things, that the longer the judge is unsure whether
+the program is a person, the closer it is to being a person. There is no reason to expect
+that.
+And how does one test for disobedience? Imagine Disobedience as a compulsory
+school subject, with daily disobedience lessons and a disobedience test at the end of term.
+(Presumably with extra credit for not turning up for any of that.) This is paradoxical.
+So, despite its usefulness in other applications, the programming technique of
+defining a testable objective and training the program to meet it will have to be dropped.
+Indeed, I expect that any testing in the process of creating an AGI risks being
+counterproductive, even immoral, just as in the education of humans. I share Turing’s
+supposition that we’ll know an AGI when we see one, but this partial ability to recognize
+success won’t help in creating the successful program.
+In the broadest sense, a person’s quest for understanding is indeed a search
+problem, in an abstract space of ideas far too large to be searched exhaustively. But there
+is no predetermined objective of this search. There is, as Popper put it, no criterion of
+truth, nor of probable truth, especially in regard to explanatory knowledge. Objectives
+are ideas like any others—created as part of the search and continually modified and
+improved. So inventing ways of disabling the program’s access to most of the space of
+ideas won’t help—whether that disability is inflicted with the thumbscrew and stake or a
+mental straitjacket. To an AGI, the whole space of ideas must be open. It should not be
+knowable in advance what ideas the program can never contemplate. And the ideas that
+the program does contemplate must be chosen by the program itself, using methods,
+criteria, and objectives that are also the program’s own. Its choices, like an AI’s, will be
+hard to predict without running it (we lose no generality by assuming that the program is
+deterministic; an AGI using a random generator would remain an AGI if the generator
+were replaced by a pseudo-random one), but it will have the additional property that there
+is no way of proving, from its initial state, what it won’t eventually think, short of
+running it.
+The evolution of our ancestors is the only known case of thought starting up
+anywhere in the universe. As I have described, something went horribly wrong, and
+there was no immediate explosion of innovation: Creativity was diverted into something
+else. Yet not into transforming the planet into paper clips (pace Nick Bostrom). Rather,
+as we should also expect if an AGI project gets that far and fails, perverted creativity was
+unable to solve unexpected problems. This caused stasis and worse, thus tragically
+delaying the transformation of anything into anything. But the Enlightenment has
+happened since then. We know better now.
+90
+Tom Griffiths’ approach to the AI issue of “value alignment”—the study of how,
+exactly, we can keep the latest of our serial models of AI from turning the planet into
+paper clips—is human-centered; i.e., that of a cognitive scientist, which is what he is.
+The key to machine learning, he believes, is, necessarily, human learning, which he
+studies at Princeton using mathematical and computational tools.
+Tom once remarked to me that “one of the mysteries of human intelligence is that
+we’re able to do so much with so little.” Like machines, human beings use algorithms to
+make decisions or solve problems; the remarkable difference lies in the human brain’s
+overall level of success despite the comparative limits on computational resources.
+The efficacy of human algorithms springs from what AI researchers refer to as
+“bounded optimality.” As psychologist Daniel Kahneman has notably pointed out,
+human beings are rational only up to a point. If you were perfectly rational, you would
+risk dropping dead before making an important decision—whom to hire, whom to marry,
+and so on—depending on the number of options available for your review.
+“With all of the successes of AI over the last few years, we’ve got good models of
+things like images and text, but what we’re missing are good models of people,” Tom
+says. “Human beings are still the best example we have of thinking machines. By
+identifying the quantity and the nature of the preconceptions that inform human cognition
+we can lay the groundwork for bringing computers even closer to human performance.”
+91
+THE ARTIFICIAL USE OF HUMAN BEINGS
+Tom Griffiths
+Tom Griffiths is Henry R. Luce Professor of Information, Technology, Consciousness,
+and Culture at Princeton University. He is co-author (with Brian Christian) of
+Algorithms to Live By.
+When you ask people to imagine a world that has successfully, beneficially incorporated
+advances in artificial intelligence, everybody probably comes up with a slightly different
+picture. Our idiosyncratic visions of the future might differ in the presence or absence of
+spaceships, flying cars, or humanoid robots. But one thing doesn’t vary: the presence of
+human beings. That’s certainly what Norbert Wiener imagined when he wrote about the
+potential of machines to improve human society by interacting with humans and helping
+to mediate their interactions with one another. Getting to that point doesn’t just require
+coming up with ways to make machines smarter. It also requires a better understanding
+of how human minds work.
+Recent advances in artificial intelligence and machine learning have resulted in
+systems that can meet or exceed human abilities in playing games, classifying images, or
+processing text. But if you want to know why the driver in front of you cut you off, why
+people vote against their interests, or what birthday present you should get for your
+partner, you’re still better off asking a human than a machine. Solving those problems
+requires building models of human minds that can be implemented inside a computer—
+something that’s essential not just to better integrate machines into human societies but to
+make sure that human societies can continue to exist.
+Consider the fantasy of having an automated intelligent assistant that can take on
+such basic tasks as planning meals and ordering groceries. To succeed in these tasks, it
+needs to be able to make inferences about what you want, based on the way you behave.
+Although this seems simple, making inferences about the preferences of human beings
+can be a tricky matter. For example, having observed that the part of the meal you most
+enjoy is dessert, your assistant might start to plan meals consisting entirely of desserts.
+Or perhaps it has heard your complaints about never having enough free time and
+observed that looking after your dog takes up a considerable amount of that free time.
+Following the dessert debacle, it has also understood that you prefer meals that
+incorporate protein, so it might begin to research recipes that call for dog meat. It’s not a
+long journey from examples like this to situations that begin to sound like problems for
+the future of humanity (all of whom are good protein sources).
+Making inferences about what humans want is a prerequisite for solving the AI
+problem of value alignment—aligning the values of an automated intelligent system with
+those of a human being. Value alignment is important if we want to ensure that those
+automated intelligent systems have our best interests at heart. If they can’t infer what we
+value, there’s no way for them to act in support of those values—and they may well act in
+ways that contravene them.
+Value alignment is the subject of a small but growing literature in artificialintelligence
+research. One of the tools used for solving this problem is inversereinforcement
+learning. Reinforcement learning is a standard method for training
+intelligent machines. By associating particular outcomes with rewards, a machine-
+92
+learning system can be trained to follow strategies that produce those outcomes. Wiener
+hinted at this idea in the 1950s, but the intervening decades have developed it into a fine
+art. Modern machine-learning systems can find extremely effective strategies for playing
+computer games—from simple arcade games to complex real-time strategy games—by
+applying reinforcement-learning algorithms. Inverse reinforcement learning turns this
+approach around: By observing the actions of an intelligent agent that has already
+learned effective strategies, we can infer the rewards that led to the development of those
+strategies.
+In its simplest form, inverse reinforcement learning is something people do all the
+time. It’s so common that we even do it unconsciously. When you see a co-worker go to
+a vending machine filled with potato chips and candy and buy a packet of unsalted nuts,
+you infer that your co-worker (1) was hungry and (2) prefers healthy food. When an
+acquaintance clearly sees you and then tries to avoid encountering you, you infer that
+there’s some reason they don’t want to talk to you. When an adult spends a lot of time
+and money in learning to play the cello, you infer that they must really like classical
+music—whereas inferring the motives of a teenage boy learning to play an electric guitar
+might be more of a challenge.
+Inverse reinforcement learning is a statistical problem: We have some data—the
+behavior of an intelligent agent—and we want to evaluate various hypotheses about the
+rewards underlying that behavior. When faced with this question, a statistician thinks
+about the generative model behind the data: What data would we expect to be generated
+if the intelligent agent was motivated by a particular set of rewards? Equipped with the
+generative model, the statistician can then work backward: What rewards would likely
+have caused the agent to behave in that particular way?
+If you’re trying to make inferences about the rewards that motivate human
+behavior, the generative model is really a theory of how people behave—how human
+minds work. Inferences about the hidden causes behind the behavior of other people
+reflect a sophisticated model of human nature that we all carry around in our heads.
+When that model is accurate, we make good inferences. When it’s not, we make
+mistakes. For example, a student might infer that his professor is indifferent to him if the
+professor doesn’t immediately respond to his email—a consequence of the student’s
+failure to realize just how many emails that professor receives.
+Automated intelligent systems that will make good inferences about what people
+want must have good generative models for human behavior: that is, good models of
+human cognition expressed in terms that can be implemented on a computer.
+Historically, the search for computational models of human cognition is intimately
+intertwined with the history of artificial intelligence itself. Only a few years after Norbert
+Wiener published The Human Use of Human Beings, Logic Theorist, the first
+computational model of human cognition and also the first artificial-intelligence system,
+was developed by Herbert Simon, of Carnegie Tech, and Allen Newell, of the RAND
+Corporation. Logic Theorist automatically produced mathematical proofs by emulating
+the strategies used by human mathematicians.
+The challenge in developing computational models of human cognition is making
+models that are both accurate and generalizable. An accurate model, of course, predicts
+human behavior with a minimum of errors. A generalizable model can make predictions
+across a wide range of circumstances, including circumstances unanticipated by its
+93
+creators—for instance, a good model of the Earth’s climate should be able to predict the
+consequences of a rising global temperature even if this wasn’t something considered by
+the scientists who designed it. However, when it comes to understanding the human
+mind, these two goals—accuracy and generalizability—have long been at odds with each
+other.
+At the far extreme of generalizability are rational theories of cognition. These
+theories describe human behavior as a rational response to a given situation. A rational
+actor strives to maximize the expected reward produced by a sequence of actions—an
+idea widely used in economics precisely because it produces such generalizable
+predictions about human behavior. For the same reason, rationality is the standard
+assumption in inverse-reinforcement-learning models that try to make inferences from
+human behavior—perhaps with the concession that humans are not perfectly rational
+agents and sometimes randomly choose to act in ways unaligned with or even opposed to
+their best interests.
+The problem with rationality as a basis for modeling human cognition is that it is
+not accurate. In the domain of decision making, an extensive literature—spearheaded by
+the work of cognitive psychologists Daniel Kahneman and Amos Tversky—has
+documented the ways in which people deviate from the prescriptions of rational models.
+Kahneman and Tversky proposed that in many situations people instead follow simple
+heuristics that allow them to reach good solutions at low cognitive cost but sometimes
+result in errors. To take one of their examples, if you ask somebody to evaluate the
+probability of an event, they might rely on how easy it is to generate an example of such
+an event from memory, consider whether they can come up with a causal story for that
+event’s occurring, or assess how similar the event is to their expectations. Each heuristic
+is a reasonable strategy for avoiding complex probabilistic computations, but also results
+in errors. For instance, relying on the ease of generating an event from memory as a
+guide to its probability leads us to overestimate the chances of extreme (hence extremely
+memorable) events such as terrorist attacks.
+Heuristics provide a more accurate model of human cognition but one that is not
+easily generalizable. How do we know which heuristic people might use in a particular
+situation? Are there other heuristics they use that we just haven’t discovered yet?
+Knowing exactly how people will behave in a new situation is a challenge: Is this
+situation one in which they would generate examples from memory, come up with causal
+stories, or rely on similarity?
+Ultimately, what we need is a way to describe how human minds work that has
+the generalizability of rationality and the accuracy of heuristics. One way to achieve this
+goal is to start with rationality and consider how to take it in a more realistic direction. A
+problem with using rationality as a basis for describing the behavior of any real-world
+agent is that, in many situations, calculating the rational action requires the agent to
+possess a huge amount of computational resources. It might be worth expending those
+resources if you’re making a highly consequential decision and have a lot of time to
+evaluate your options, but most human decisions are made quickly and for relatively low
+stakes. In any situation where the time you spend making a decision is costly—at the
+very least because it’s time you could spend doing something else—the classic notion of
+rationality is no longer a good prescription for how one should behave.
+To develop a more realistic model of rational behavior, we need to take into
+94
+account the cost of computation. Real agents need to modulate the amount of time they
+spend thinking by the effect the extra thought has on the results of a decision. If you’re
+trying to choose a toothbrush, you probably don’t need to consider all four thousand
+listings for manual toothbrushes on Amazon.com before making a purchase: You trade
+off the time you spend looking with the difference it makes in the quality of the outcome.
+This trade-off can be formalized, resulting in a model of rational behavior that artificialintelligence
+researchers call “bounded optimality.” The bounded-optimal agent doesn’t
+focus on always choosing exactly the right action to take but rather on finding the right
+algorithm to follow in order to find the perfect balance between making mistakes and
+thinking too much.
+Bounded optimality bridges the gap between rationality and heuristics. By
+describing behavior as the result of a rational choice about how much to think, it provides
+a generalizable theory—that is, one that can be applied in new situations. Sometimes the
+simple strategies that have been identified as heuristics that people follow turn out to be
+bounded-optimal solutions. So, rather than condemning the heuristics that people use as
+irrational, we can think of them as a rational response to constraints on computation.
+Developing bounded optimality as a theory of human behavior is an ongoing
+project that my research group and others are actively pursuing. If these efforts succeed,
+they will provide us with the most important ingredient we need for making artificialintelligence
+systems smarter when they try to interpret people’s actions, by enabling a
+generative model for human behavior.
+Taking into account the computational constraints that factor into human
+cognition will be particularly important as we begin to develop automated systems that
+aren’t subject to the same constraints. Imagine a superintelligent AI system trying to
+figure out what people care about. Curing cancer or confirming the Riemann hypothesis,
+for instance, won’t seem, to such an AI, like things that are all that important to us: If
+these solutions are obvious to the superintelligent system, it might wonder why we
+haven’t found them ourselves, and conclude that those problems don’t mean much to us.
+If we cared and the problems were so simple, we would have solved them already. A
+reasonable inference would be that we do science and math purely because we enjoy
+doing science and math, not because we care about the outcomes.
+Anybody who has young children can appreciate the problem of trying to interpret
+the behavior of an agent that is subject to computational constraints different from one’s
+own. Parents of toddlers can spend hours trying to disentangle the true motivations
+behind seemingly inexplicable behavior. As a father and a cognitive scientist, I found it
+was easier to understand the sudden rages of my two-year-old when I recognized that she
+was at an age where she could appreciate that different people have different desires but
+not that other people might not know what her own desires were. It’s easy to understand,
+then, why she would get annoyed when people didn’t do what she (apparently
+transparently) wanted. Making sense of toddlers requires building a cognitive model of
+the mind of a toddler. Superintelligent AI systems face the same challenge when trying
+to make sense of human behavior.
+Superintelligent AI may still be a long way off. In the short term, devising better
+models of people can prove extremely valuable to any company that makes money by
+analyzing human behavior—which at this point is pretty much every company that does
+business on the Web. Over the last few years, significant new commercial technologies
+95
+for interpreting images and text have resulted from developing good models for vision
+and language. Developing good models of people is the next frontier.
+Of course, understanding how human minds work isn’t just a way to make
+computers better at interacting with people. The trade-off between making mistakes and
+thinking too much that characterizes human cognition is a trade-off faced by any realworld
+intelligent agent. Human beings are an amazing example of systems that act
+intelligently despite significant computational constraints. We’re quite good at
+developing strategies that allow us to solve problems pretty well without working too
+hard. Understanding how we do this will be a step toward making computers work
+smarter, not harder.
+96
+Romanian-born Anca Dragan’s research focuses on algorithms that will enable robots
+to work with, around, and in support of people. She runs the InterACT Laboratory at
+Berkeley, where her students work across different applications, from assistive robots to
+manufacturing to autonomous cars, and draw from optimal control, planning, estimation,
+learning, and cognitive science. Barely into her thirties herself, she has co-authored a
+number of papers with her veteran Berkeley colleague and mentor Stuart Russell which
+address various aspects of machine learning and the knotty problems of value alignment.
+She shares Stuart’s preoccupation with AI safety: “An immediate risk is agents
+producing unwanted, surprising behavior,” she told an interviewer from the Future of
+Life Institute. “Even if we plan to use AI for good, things can go wrong, precisely
+because we are bad at specifying objectives and constraints for AI agents. Their
+solutions are often not what we had in mind.”
+Her principal goal is therefore to help robots and programmers alike to overcome
+the many conflicts that arise because of a lack of transparency about each other’s
+intentions. Robots, she says, need to ask us questions. They should wonder about their
+assignments, and they should pester their human programmers until everybody is on the
+same page—so as to avoid what she has euphemistically called “unexpected side
+effects.”
+97
+PUTTING THE HUMAN INTO THE AI EQUATION
+Anca Dragan
+Anca Dragan is an assistant professor in the Department of Electrical Engineering and
+Computer Sciences at UC Berkeley. She co-founded and serves on the steering
+committee for the Berkeley AI Research (BAIR) Lab and is a co-principal investigator in
+Berkeley’s Center for Human-Compatible AI.
+At the core of artificial intelligence is our mathematical definition of what an AI agent (a
+robot) is. When we define a robot, we define states, actions, and rewards. Think of a
+delivery robot, for instance. States are locations in the world, and actions are motions
+that the robot makes to get from one position to a nearby one. To enable the robot to
+decide on which actions to take, we define a reward function—a mapping from states and
+actions to scores indicating how good that action was in that state—and have the robot
+choose actions that accumulate the most “reward.” The robot gets a high reward when it
+reaches its destination, and it incurs a small cost every time it moves; this reward function
+incentivizes the robot to get to the destination as quickly as possible. Similarly, an
+autonomous car might get a reward for making progress on its route and incur a cost for
+getting too close to other cars.
+Given these definitions, a robot’s job is to figure out what actions it should take in
+order to get the highest cumulative reward. We’ve been working hard in AI on enabling
+robots to do just that. Implicitly, we’ve assumed that if we’re successful—if robots can
+take any problem definition and turn into a policy for how to act—we will get robots that
+are useful to people and to society.
+We haven’t been too wrong so far. If you want an AI that classifies cells as either
+cancerous or benign, or a robot that vacuums the living room rug while you’re at work,
+we’ve got you covered. Some real-world problems can indeed be defined in isolation,
+with clear-cut states, actions, and rewards. But with increasing AI capability, the
+problems we want to tackle don’t fit neatly into this framework. We can no longer cut
+off a tiny piece of the world, put it in a box, and give it to a robot. Helping people is
+starting to mean working in the real world, where you have to actually interact with
+people and reason about them. “People” will have to formally enter the AI problem
+definition somewhere.
+Autonomous cars are already being developed. They will need to share the road
+with human-driven vehicles and pedestrians and learn to make the trade-off between
+getting us home as fast as possible and being considerate of other drivers. Personal
+assistants will need to figure out when and how much help we really want and what types
+of tasks we prefer to do on our own versus what we can relinquish control over. A DSS
+(Decision Support System) or a medical diagnostic system will need to explain its
+recommendations to us so we can understand and verify them. Automated tutors will
+need to determine what examples are informative or illustrative—not to their fellow
+machines but to us humans.
+Looking further into the future, if we want highly capable AIs to be compatible
+with people, we can’t create them in isolation from people and then try to make them
+compatible afterward; rather, we’ll have to define “human-compatible” AI from the getgo.
+People can’t be an afterthought.
+98
+When it comes to real robots helping real people, the standard definition of AI
+fails us, for two fundamental reasons: First, optimizing the robot’s reward function in
+isolation is different from optimizing it when the robot acts around people, because
+people take actions too. We make decisions in service of our own interests, and these
+decisions dictate what actions we execute. Moreover, we reason about the robot—that is,
+we respond to what we think it’s doing or will do and what we think its capabilities are.
+Whatever actions the robot decides on need to mesh well with ours. This is the
+coordination problem.
+Second, it is ultimately a human who determines what the robot’s reward function
+should be in the first place. And they are meant to incentivize robot behavior that
+matches what the end-user wants, what the designer wants, or what society as a whole
+wants. I believe that capable robots that go beyond very narrowly defined tasks will need
+to understand this to achieve compatibility with humans. This is the value-alignment
+problem.
+The Coordination Problem: People are more than objects in the environment.
+When we design robots for a particular task, it’s tempting to abstract people away. A
+robotic personal assistant, for example, needs to know how to move to pick up objects, so
+we define that problem in isolation from the people for whom the robot is picking these
+objects up. Still, as the robot moves around, we don’t want it bumping into anything, and
+that includes people, so we might include the physical location of the person in the
+definition of the robot’s state. Same for cars: We don’t want them colliding with other
+cars, so we enable them to track the positions of those other cars and assume that they’ll
+be moving consistently in the same direction in the future. A human being, in this sense,
+is no different to a robot from a ball rolling on a flat surface. The ball will behave in the
+next few seconds the same way it behaved in the past few; it keeps rolling in the same
+direction at roughly the same speed. This is of course nothing like real human behavior,
+but such simplification enables many robots to succeed in their tasks and, for the most
+part, stay out of people’s way. A robot in your house, for example, might see you
+coming down the hall, move aside to let you pass, and resume its task once you’ve gone
+by.
+As robots have become more capable, though, treating people as consistently
+moving obstacles is starting to fall short. A human driver switching lanes won’t continue
+in the same direction but will move straight ahead once they’ve made the lane change.
+When you reach for something, you often reach around other objects and stop when you
+get to the one you want. When you walk down a hallway, you have a destination in
+mind: You might take a right into the bedroom or a left into the living room. Relying on
+the assumption that we’re no different from a rolling ball leads to inefficiency when the
+robot stays out of the way if it doesn’t need to, and it can imperil the robot when the
+person’s behavior changes. Even just to stay out of the way, robots have to be somewhat
+accurate at anticipating human actions. And, unlike the rolling ball, what people will do
+depends on what they decide to do. So to anticipate human actions, robots need to start
+understanding human decision making. And that doesn’t mean assuming that human
+behavior is perfectly optimal; that might be enough for a chess- or Go-playing robot, but
+in the real world, people’s decisions are less predictable than the optimal move in a board
+game.
+99
+This need to understand human actions and decisions applies to physical and
+nonphysical robots alike. If either sort bases its decision about how to act on the
+assumption that a human will do one thing but the human does something else, the
+resulting mismatch could be catastrophic. For cars, it can mean collisions. For an AI
+with, say, a financial or economic role, the mismatch between what it expects us to do
+and what we actually do could have even worse consequences.
+One alternative is for the robot not to predict human actions but instead just
+protect against the worst-case human action. Often when robots do that, though, they
+stop being all that useful. With cars, this results in being stuck, because it makes every
+move too risky.
+All this puts us, the AI community, into a bind. It suggests that robots will need
+accurate (or at least reasonable) predictive models of whatever people might decide to do.
+Our state definition can’t just include the physical position of humans in the world.
+Instead, we’ll also need to estimate something internal to people. We’ll need to design
+robots that account for this human internal state, and that’s a tall order. Luckily, people
+tend to give robots hints as to what their internal state is: Their ongoing actions give the
+robot observations (in the Bayesian inference sense) about their intentions. If we start
+walking toward the right side of the hallway, we’re probably going to enter the next room
+on the right.
+What makes the problem more complicated is the fact that people don’t make
+decisions in isolation. It would be one thing if robots could predict the actions a person
+intends to take and simply figure out what to do in response. But unfortunately this can
+lead to ultra-defensive robots that confuse the heck out of people. (Think of human
+drivers stuck at four-way stops, for instance.) What the intent-prediction approach misses
+is that the moment the robot acts, that influences what actions the human starts taking.
+There is a mutual influence between robots and people, one that robots will need
+to learn to navigate. It is not always just about the robot planning around people; people
+plan around the robot, too. It is important for robots to account for this when deciding
+which actions to take, be it on the road, in the kitchen, or even in virtual spaces, where
+actions might be making a purchase or adopting a new strategy. Doing so should endow
+robots with coordination strategies, enabling them to take part in the negotiations people
+seamlessly carry out day to day—from who goes first at an intersection or through a
+narrow door, to what role we each take when we collaborate on preparing breakfast, to
+coming to consensus on what next step to take on a project.
+Finally, just as robots need to anticipate what people will do next, people need to
+do the same with robots. This is why transparency is important. Not only will robots
+need good mental models of people, but people will need good mental models of robots.
+The model that a person has of the robot has to go into our state definition as well, and
+the robot has to be aware of how its actions are changing that model. Much like the robot
+treating human actions as clues to human internal states, people will change their beliefs
+about the robot as they observe its actions. Unfortunately, the giving of clues doesn’t
+come as naturally to robots as it does to humans; we’ve had a lot of practice
+communicating implicitly with people. But enabling robots to account for the change
+that their actions are causing to the person’s mental model of the robot can lead to more
+carefully chosen actions that do give the right clues—that clearly communicate to people
+about the robot’s intentions, its reward function, its limitations. For instance, a robot
+100
+might alter its motion when carrying something heavy, to emphasize the difficulty it has
+in maneuvering heavy objects. The more that people know about the robot, the easier it
+is to coordinate with it.
+Achieving action compatibility will require robots to anticipate human actions,
+account for how those actions will influence their own, and enable people to anticipate
+robot actions. Research has ,ade a degree of progress in meeting these challenges, but we
+still have a long way to go.
+The Value Alignment Problem: People hold the key to the robot’s reward function.
+Progress on enabling robots to optimize reward puts more burden on us, the designers, to
+give them the right reward to optimize in the first place. The original thought was that
+for any task we wanted the robot to do, we could write down a reward function that
+incentivizes the right behavior. Unfortunately, what often happens is that we specify
+some reward function and the behavior that emerges out of optimizing it isn’t what we
+want. Intuitive reward functions, when combined with unusual instances of a task, can
+lead to unintuitive behavior. You reward an agent in a racing game with a score in the
+game, and in some cases it finds a loophole that it exploits to gain infinitely many points
+without actually winning the race. Stuart Russell and Peter Norvig give a beautiful
+example in their book Artificial Intelligence: A Modern Approach: rewarding a
+vacuuming robot for how much dust it sucks in results in the robot deciding to dump out
+dust so that it can suck it in again and get more reward.
+In general, humans have had a notoriously difficult time specifying exactly what
+they want, as exemplified by all those genie legends. An AI paradigm in which robots
+get some externally specified reward fails when that reward is not perfectly well thought
+out. It may incentivize the robot to behave in the wrong way and even resist our attempts
+to correct its behavior, as that would lead to a lower specified reward.
+A seemingly better paradigm might be for robots to optimize for what we
+internally want, even if we have trouble explicating it. They would use what we say and
+do as evidence about what we want, rather than interpreting it literally and taking it as a
+given. When we write down a reward function, the robot should understand that we
+might be wrong: that we might not have considered all facets of the task; that there’s no
+guarantee that said reward function will always lead to the behavior we want. The robot
+should integrate what we wrote down into its understanding of what we want, but it
+should also have a back-and-forth with us to elicit clarifying information. It should seek
+our guidance, because that’s the only way to optimize the true desired reward function.
+Even if we give robots the ability to learn what we want, an important question
+remains that AI alone won’t be able to answer. We can make robots try to align with a
+person’s internal values, but there’s more than one person involved here. The robot has
+an end-user (or perhaps a few, like a personal robot caring for a family, a car driving a
+few passengers to different destinations, or an office assistant for an entire team); it has a
+designer (or perhaps a few); and it interacts with society—the autonomous car shares the
+road with pedestrians, human-driven vehicles, and other autonomous cars. How to
+combine these people’s values when they might be in conflict is an important problem we
+need to solve. AI research can give us the tools to combine values in any way we decide
+but can’t make the necessary decision for us.
+101
+In short, we need to enable robots to reason about us—to see us as something
+more than obstacles or perfect game players. We need them to take our human nature
+into account, so that they are well coordinated and well aligned with us. If we succeed,
+we will indeed have tools that substantially increase our quality of life.
+102
+Chris Anderson’s company, 3DR, helped start the modern drone industry and now
+focuses on drone data software. He got his start building an open-source aerial robotics
+community called DIY Drones, and undertook some ill-advised early experiments, such
+as buzzing Lawrence Berkeley Laboratory with one of his self-flying spies. It
+may well have been a case of antic gene-expression, since he’s descended from a founder
+of the American Anarchist movement. Chris ran Wired magazine, a go-to publication for
+techno-utopians and -dystopians alike, from 2001 to 2012; during his tenure it won five
+National Magazine Awards.
+Chris dislikes the term “roboticist” (“like any properly humbled roboticist, I
+don’t call myself one”). He began as a physicist. “I turned out to be a bad physicist,” he
+told me recently. “I struggled on, went to Los Alamos, and thought, ‘Well maybe I’m not
+going to be a Nobel Prize winner, but I can still be a scientist.’ All of us who were in
+physics and had these romantic heroes—the Feynmans, the Manhattan Project—realized
+that our career trajectory would at best be working on one project at CERN for fifteen
+years. That project would either be a failure, in which case there would be no paper, or
+it would be a success, in which case you’d be author #300 on the paper and become an
+assistant professor at Iowa State.
+“Most of my classmates went to Wall Street to become quants, and to them we
+owe the subprime mortgage. Others went on to start the Internet. First, we built the
+Internet by connecting physics labs; second, we built the Web; third, we were the first to
+do Big Data. We had supercomputers—Crays—which were half the power of your phone
+now, but they were the supercomputers of the time. Meanwhile, we were reading this
+magazine called Wired, which came out in 1993, and we realized that this tool we
+scientists use could have applications for everybody. The Internet wasn’t just about
+scientific data, it was a mind-blowing cultural revolution. So when Conde Nast asked me
+to take over the magazine, I was like, ‘Absolutely!’ This magazine changed my life.”
+He had five children by that time—video-game players—who got him into the
+“flying robots.” He quit his day job at Wired. The rest is Silicon Valley history.
+103
+GRADIENT DESCENT
+Chris Anderson
+Chris Anderson is an entrepreneur; former editor-in-chief of Wired; co-founder and
+CEO of 3DR; and author of The Long Tail, Free, and Makers.
+Life
+The mosquito first detects my scent from thirty feet away. It triggers its pursuit function,
+which consists of the simplest possible rules. First, move in a random direction. If the
+scent increases, continue moving in that direction. If the scent decreases, move in the
+opposite direction. If the scent is lost, move sideways until a scent is picked up again.
+Repeat until contact with the target is achieved.
+The plume of my scent is densest next to me and disperses as it spreads, an
+invisible fog of particles exuded from my skin that moves like smoke with the wind. The
+closer to my skin, the higher the particle density; the farther away, the lower. This
+decrease is called a gradient, which describes any gradual transition from one level to
+another one—as opposed to a “step function,” which describes a discrete change.
+Once the mosquito follows this gradient to its source using its simple algorithm, it
+lands on my skin, which it senses with the heat detectors in its feet, which are attuned to
+another gradient—temperature. It then pushes its needle-shaped proboscis through the
+surface, where a third set of sensors in the tip detect yet another gradient, that of blood
+density. This flexible needle wriggles around under my skin until the scent of blood
+steers it to a capillary, which it punctures. Then my blood begins to flow into the
+mosquito. Mission accomplished. Ouch.
+What seems like the powerful radar of insects in the dark, with blood-seeking
+intelligence inexplicable for such tiny brains, is actually just a sensitive nose with almost
+no intelligence at all. Mosquitoes are closer to plants that follow the sun than to guided
+missiles. Yet by applying this simple “follow your nose” rule quite literally, they can
+travel through a house to find you, slip through cracks in a screen door, even zero in on
+the tiny strip of skin you left exposed between hat and shirt collar. It’s just a random
+walk, combined with flexible wings and legs that let the insect bounce off obstacles, and
+an instinct to descend a chemical gradient.
+But “gradient descent” is much more than bug navigation. Look around you and
+you’ll find it everywhere, from the most basic physical rules of the universe to the most
+advanced artificial intelligence.
+The Universe
+We live in a world of countless gradients, from light and heat to gravity and chemical
+trails (chemtrails!). Water flows along a gravity gradient downhill, and your body lives
+on chemical solutions flowing across cell membranes from high concentration to
+low. Every action in the universe is driven by some gradient drive, from the movement

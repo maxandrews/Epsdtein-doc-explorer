@@ -1,0 +1,185 @@
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+X 
+VIRGINIA L. GIUFFRE, 
+Plaintiff, 
+V. 
+GHISLAINE MAXWELL, 
+Defendant. 
+X 
+15-cv-07433-RWS 
+Defendant's Response in Opposition to 
+Plaintiffs Omnibus Motion in Limine 
+Laura A. Menninger 
+Jeffrey S. Pagliuca 
+Ty Gee 
+HADDON, MORGAN AND FOREMAN, P.C. 
+150 East 10th Avenue 
+Denver, CO 80203 
+303.831.7364 
+HOUSE OVERSIGHT 011463 
+TABLE OF CONTENTS 
+INTRODUCTION..........................................................................................................................1 
+I. FED. R. EVID. 405(B) REQUIRES ADMISSION OF ALL SPECIFIC INCIDENTS OF 
+PLAINTIFF LYING OR ENGAGING IN DECEITFUL OR FRAUDULENT CONDUCT 1 
+A. All allegations or comments made by Plaintiff are "connected to" the alleged defamatory 
+statement..............................................................................................................................4 
+B. Responses to Enumerated Motions In Limine.....................................................................6 
+1. Stories and allegations concerning Dershowitz, foreign presidents, and world leaders 
+are highly relevant and admissible (Motion in Limine 1)...............................................6 
+2. Meeting Bill Clinton at Jeffrey Epstein's private island twice (Motion in Limine 2)..... 8 
+3. FOIA responses and related materials are admissible (Motion in Limine 3)................... 8 
+4. Louis Freeh's testimony and report are admissible evidence (Motion in Limine 4).......9 
+5. Prince Andrew and Buckingham Palace's denials of Plaintiff's claims are not offered 
+for the truth of the matter asserted (Motion in Limine 5).............................................. 11 
+6. Evidence Regarding Plaintiff's Sexual History and Reputation is Admissible (Motion in 
+Limine 6)....................................................................................................................... 14 
+7. Plaintiff cannot prohibit use of words such as "prostitute," which she used to describe 
+herself, or any other "derogatory" terms that describe her reputation (Motion in Limine 
+7).................................................................................................................................... 14 
+8. Plaintiff's drug use is relevant to her memory and lack of damages (Motion in Limine 
+8).................................................................................................................................... 16 
+9. Information regarding Plaintiff's criminal history is relevant and admissible evidence 
+when character is an essential element of the claim (Motion in Limine 9)................... 18 
+10. Evidence concerning school attendance is relevant to Plaintiff's allegations of how she 
+spent her time in 1999 to 2002 (Motion in Limine 10)................................................. 19 
+11. Plaintiff put her full childhood history and character at issue (Motion in Limine 11) .. 20 
+12. Victims Refuse Silence is a sham not-for-profit established to create a claim for 
+defamation per se (Motion in Limine 12)......................................................................20 
+i 
+HOUSE OVERSIGHT 011464 
+13. Plaintiff's failure to pay her personal tax obligations is relevant to her character for 
+truthfulness (Motion in Limine 13)...............................................................................22 
+14. Plaintiff's husband's domestic violence against her in March 2015 is probative of other 
+intervening causes of emotional distress and related damages (Motion in Limine 14) 23 
+15. Plaintiff's lies about her age and the year she met Mr. Epstein must be exposed to the 
+jury (Motion in Limine 15)............................................................................................24 
+16. All of Plaintiff's medical records are relevant to Plaintiff's damages claims (Motion in 
+Limine 16).....................................................................................................................25 
+17. The Parties agree to preclusion of all documents and discussion of the Jane Doe 102 
+case, including the settlement of those claims (Motion in Limine 17).........................26 
+18. The Cassell/Edwards v. Dershowitz litigation is relevant and admissible (Motion in 
+Limine 18).....................................................................................................................26 
+19. Judge Marra's ruling is relevant and admissible (Motion in Limine 19).......................29 
+20. The transcript of the tape recording of Mr. Dershowitz's conversation with Rebecca 
+Boylan is admissible (Motion in Limine 20).................................................................31 
+C. Plaintiff's Remaining Motions In Limine Are Premature and Request an Unnecessary 
+Advisory Opinion (Motions in Limine 21-29)..................................................................32 
+1. "Bad Acts" by Plaintiff's counsel..................................................................................34 
+2. Discussion of missing witnesses and absence of evidence is appropriate, and missing 
+witness instruction may be requested............................................................................35 
+CONCLUSION.............................................................................................................................36 
+CERTIFICATE OF SERVICE.....................................................................................................38 
+ii 
+HOUSE OVERSIGHT 011465 
+TABLE OF AUTHORITIES 
+Cases 
+Brady v. Chemical Construction Corp., 740 F.2d 195 (2d Cir. 1984).......................................... 10 
+Cannistraci v. Kirsopp, No. 1:10-CV-980 MAD/DRH, 2012 WL 2089687, at *1-2 (N.D.N.Y. 
+June 8, 2012)............................................................................................................................. 11 
+Cardillo v. Doubleday & Co., Inc., 518 F.2d 638, 639-40 (2d Cir.1975).................................... 13 
+Chamblee v. Harris & Harris, Inc., 154 F. Supp. 2d 670, 681 (S.D.N.Y. 2001).........................22 
+Chnapkova v. Koh, 985 F.2d 79, 82 (2d Cir. 1993)......................................................................22 
+Daniels by Glass v. Wal-Mart Stores, Inc., 634 So.2d 88, 93 (Miss. 1993)...................................4 
+DeVaul v Carvigo Inc., 526 N.Y.S.2d 483 (2d Dept. 1988).........................................................35 
+Doddy v. Oxy USA, Inc., 101 F.3d 448, 459-60 (5th Cir. 1996)................................................... 10 
+Donnelly v. DeChristoforo, 416 U.S. 637, 646-47, 94 S.Ct. 1868, 40 L.Ed.2d 431 (1974)........33 
+Edwards v. City of N.Y , No. 08-2199 TLM, 2011 WL 2748665, at *4 (E.D.N.Y. July 13, 2011) 
+...................................................................................................................................................22 
+EEOC v. Grief Brothers Corp., 218 F.R.D. 59, 61-62 (W.D.N.Y. 2003)....................................25 
+Equal Employment Opportunity Comm 'n v. Reed Pierce 's Sportsman's Grille, LLC, No. 3:10-
+CV-541-WHB-LRA, 2013 WL 12123370, at *1 (S.D. Miss. Jan. 11, 2013)...........................24 
+Gaillard v. Jim's Water Service, Inc., 535 F.3d 771, 778-779 (8th Cir. 2008)............................22 
+Gallo v. Ricci, 814 N.Y.S.2d 422, 423 (2006)..............................................................................36 
+Geraty v. Vill. of Antioch, No. 09 C 6992, 2015 WL 127917, at *7 (N.D. Ill. Jan. 8, 2015).........9 
+Gordy Co. v. Mary Jane Girls, Inc., No. 86 CIV. 6814 (RWS), 1989 WL 28477, at *6 (S.D.N.Y. 
+Mar. 24, 1989)........................................................................................................................... 17 
+Gov't of Virgin Islands v. Grant, 775 F.2d 508, 511 & n. 4 (3d Cir. 1985)...................................3 
+Grasso v. Mathew, 564 N.Y.S.2d 576, 578 (3d Dep't 1991)......................................................30 
+Guccione v. Hustler Magazine, Inc., 800 F.2d 298, 303 (2d Cir. 1986)....................................... 13 
+iii 
+HOUSE OVERSIGHT 011466 
+Jaffee v. Redmond, 518 U.S. 1, 116 S.Ct. 1923, 135 L.Ed.2d 337 (1996)...................................22 
+Kadant Johnson Inc. v. D'Amico, No. CIV.A. 10-2869, 2012 WL 2190897, at *1 (E.D. La. June 
+14, 2012).....................................................................................................................................3 
+Kevorkian v. Am. Med. Ass'n, 237 Mich. App. 1, 12, 602 N.W.2d 233, 239 (1999).................... 13 
+Longmire v. Ala. State Univ., 151 F.R.D. 414, 419 (M.D.Ala. 1992)..................................3 
+Minemyer v. R-Boc Representatives, Inc., No. 07 C 1763, 2012 WL 379904, at *4 (N.D. Ill. Feb. 
+6, 2012)..................................................................................................................................... 12 
+O'Brien v. Alexander, 898 F.Supp. 162, 171 (S.D.N.Y. 1995)....................................................30 
+Palmieri v. Defaria, 88 F.3d 136, 141 (2d Cir. 1996)..................................................................33 
+People v Thomas, 21 N.Y.3d 226 (2013)......................................................................................35 
+People v. Williams, 5 N.Y.3d 732, 734 (2005).............................................................................35 
+Preferred Properties, Inc. v. Indian River Estates, Inc., 276 F.3d 790, 799 n.5 (6th Cir. 2002) .13 
+Rowe v. DPI Specialty Foods, Inc., No. 2:13-CV-00708-DN, 2015 WL 3533844, at *5 (D. Utah 
+June 4, 2015)....................................................................................................................... 13, 28 
+S.E.C. v. Collins & Aikman Corp., 256 F.R.D. 403, 412 (S.D.N.Y. 2009).................................. 19 
+Schafer v. Time, Inc., 142 F.3d 1361, 1364-75 (11th Cir. 1998)...................................................3 
+Seligson, Morris & Neuburger v Fairbanks Whitney Corp., 257 N.Y.S.2d 706 (1st Dept. 1965)35 
+Sidor v. Reno, 95 CIV. 9588 (KMW), 1998 WL 164823, *2 (S.D.N.Y. April 7, 1998)..............25 
+United States v. Dukes, 727 F.2d 34, 37 (2d Cir. 1984)............................................................... 17 
+United States v. Hatchett, 918 F.2d 631, 641 (6th Cir. 1990)......................................................22 
+United States v. Lujan, No. 05-CR-924 (RB) (D.N.M. Mar. 25, 2011)......................................32 
+United States v. Piche, 981 F.2d 706, 713 (4th Cir. 1992).............................................................3 
+United States v. Rabbani, 382 F. App'x 39, 42 (2d Cir. 2010).....................................................35 
+United States v. Robinson, 583 F.3d 1265, 1272 (10th Cir. 2009)...............................................17 
+United States v. Van Meerbeke, 548 F.2d 415, 417-18 (2d Cir. 1976)........................................ 17 
+iv 
+HOUSE OVERSIGHT 011467 
+United States v. West, 58 F.3d 133, 141 (5th Cir. 1995)..............................................................22 
+United States v. Wexler, 79 F.2d 526, 529-30 (2d Cir. 1935)......................................................33 
+United States v. Wilson, No. 04-CR-1016 NGG, 2013 WL 2948034, at *4-6 (E.D.N.Y. June 14, 
+2013).........................................................................................................................................32 
+World Wide Ass 'n of Specialty Programs v. Pure, Inc., 450 F.3d 1132, 1138 (10th Cir. 2006)....3 
+Zamora v. GC Servs., L.P., 647 F. App'x 330 (5th Cir. 2016).......................................................9 
+Rules 
+Fed. R. Evid. 403............................................................................................................................7 
+Fed. R. Evid. 405 and 608...............................................................................................4, 6, 15, 20 
+Fed. R. Evid. 405(b)...............................................................................................................passim 
+Fed. R. Evid. 801 .......................................................................................................................... 12 
+Fed. R. Evid. 801 (d)(2)(D)....................................................................................................29, 31 
+Fed. R. Evid. 803(6)...................................................................................................................... 19 
+Fed. R. Evid. 803(8)........................................................................................................................8 
+Fed. R. Evid. 902(4) and 902(11)................................................................................................. 19 
+V 
+HOUSE OVERSIGHT 011468 
+PAGES 1-36 
+REDACTED 
+HOUSE OVERSIGHT 011469 
+Dated: March 17, 2017 
+Respectfully submitted, 
+/s/ Laura A. Menninger 
+Laura A. Menninger (LM-1374) 
+Jeffrey S. Pagliuca (pro hac vice) 
+Ty Gee (pro hac vice) 
+HADDON, MORGAN AND FOREMAN, P.C. 
+150 East 10th Avenue 
+Denver, CO 80203 
+Phone: 
+Fax: 
+Attorneys for Ghislaine Maxwell 
+37 
+HOUSE OVERSIGHT 011470 
+CERTIFICATE OF SERVICE 
+I certify that on March 17, 2017, I electronically served this Defendant's Response in 
+Opposition to Plaintiff's Omnibus Motion In Limine via ECF on the following: 
+Sigrid S. McCawley 
+Meredith Schultz 
+BOIES, SCHILLER & FLEXNER, LLP 
+401 East Las Olas Boulevard, Ste. 1200 
+Ft. Lauderdale, FL 33301 
+Bradley J. Edwards 
+FARMER, JAFFE, WEISSING, EDWARDS, 
+FISTOS & LEHRMAN, P.L. 
+425 North Andrews Ave., Ste. 2 
+Ft. Lauderdale, FL 33301 
+Paul G. Cassell 
+383 S. University Street 
+Salt Lake City, UT 84112 
+J. Stanley Pottinger 
+49 Twin Lakes Rd. 
+South Salem, NY 10590 
+/s/ Nicole Simmons 
+Nicole Simmons 
+38 
+HOUSE OVERSIGHT 011471 

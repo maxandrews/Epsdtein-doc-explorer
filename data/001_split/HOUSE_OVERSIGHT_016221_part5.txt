@@ -1,0 +1,1316 @@
+to the actions. The key is social sampling, a way of combining evidence, of exploring
+and exploiting at the same time. It has the unusual property of simultaneously being the
+best strategy both for the individual and for the group. If you use the group as the basis
+of selection, and then the group either gets wiped out or reinforced, you’re also selecting
+for successful individuals. If you select for individuals, and each individual does what’s
+good for him or her, then that’s automatically the best thing for the group. It’s an
+amazing alignment of interests and utilities, and it provides real insight into the question
+of how culture fits into natural selection.
+137
+Social sampling, very simply, is looking around you at the actions of people who
+are like you, finding what’s popular, and then copying it if it seems like a good idea to
+you. Idea propagation has this popularity function driving it, but individual adoption also
+is about figuring out how the idea works for the individual—a reflective attitude. When
+you combine social sampling and personal judgment, you get superior decision making.
+That’s amazing, because now we have a mathematical recipe for doing with humans what
+all those AI techniques are doing with dumb computer neurons. We have a way of
+putting people together to make better decisions, given more and more experience.
+So, what happens in the real world? Why don’t we do this all the time? Well,
+people are good at it, but there are ways it can run amok. One of these is through
+advertising, propaganda, or “fake news.” There are many ways to get people to think
+something is popular when it’s not, and this destroys the usefulness of social sampling.
+The way you can make groups of people smarter, the way you can make human AI, will
+work only if you can get feedback to them that’s truthful. It must be grounded on
+whether each person’s actions worked for them or not.
+That’s the key to AI mechanisms, too. What they do is analyze whether they
+performed correctly. If so, plus one; if not, minus one. We need that truthful feedback to
+make this human mechanism work well, and we need good ways of knowing about what
+other people are doing so that we can correctly assess popularity and the likelihood of
+this being a good choice.
+The next step is to build this credit-assignment function, this feedback function,
+for people, so that we can make a good human-artificial ecosystem—a smart organization
+and a smart culture. In a way, we need to duplicate some of the early insights that
+resulted in, for instance, the U.S. census—trying to find basic facts that everybody can
+agree on and understand so that the transmission of knowledge and culture can happen in
+a way that’s truthful and social sampling can function efficiently.
+We can address the problem of building an accurate credit-assignment function in
+many different settings. In companies, for instance, it can be done with digital ID badges
+that reveal who’s connected to whom, so that we can assess the pattern of connections in
+relation to the company’s results on a daily or weekly basis. The credit-assignment
+function asks whether those connections helped solve problems, or helped invent new
+solutions, and reinforces the helpful connections. When you can get that feedback
+quantitatively—which is difficult, because most things aren’t measured quantitatively—
+both the productivity and the innovation rate within the organization can be significantly
+improved. This is, for instance, the basis of Toyota’s “continuous improvement” method.
+A next step is to try to do the same thing but at scale, something I refer to as
+building a trust network for data. It can be thought of as a distributed system like the
+Internet, but with the ability to quantitatively measure and communicate the qualities of
+human society, in the same way that the U.S. census does a pretty good job of telling us
+about population and life expectancy. We are already deploying prototype examples of
+trust networks at scale in several countries, based on the data and measurement standards
+laid out in the U.N. Sustainable Development Goals.
+On the horizon is a vision of how we can make humanity more intelligent by
+building a human AI. It’s a vision composed of two threads. One is data that we can all
+trust—data that have been vetted by a broad community, data where the algorithms are
+known and monitored, much like the census data we all automatically rely on as at least
+138
+approximately correct. The other is a fair, data-driven assessment of public norms,
+policy, and government, based on trusted data about current conditions. This second
+thread depends on availability of trusted data and so is just beginning to be developed.
+Trusted data and data-driven assessment of norms, policy, and government together
+create a credit-assignment function that improves societies’ overall fitness and
+intelligence.
+It is precisely at the point of creating greater societal intelligence where fake
+news, propaganda, and advertising all get in the way. Fortunately, trust networks give us
+a path forward to building a society more resistant to echo-chamber problems, these fads,
+these exercises in madness. We have begun to develop a new way of establishing social
+measurements, in aid of curing some of the ills we see in society today. We’re using
+open data from all sources, encouraging a fair representation of the things people are
+choosing, in a curated mathematical framework that can stamp out the echoes and the
+attempts to manipulate us.
+On Polarization and Inequality
+Extreme polarization and segregation by income are almost everywhere in the world
+today and threaten to tear governments and civil society apart. Increasingly, the media
+are becoming adrenaline pushers driven by advertising clicks and failing to deliver
+balanced facts and reasoned discourse—and the degradation of media is causing people
+to lose their bearings. They don’t know what to believe, and thus they can easily be
+manipulated. There is a real need to ground our various cultures in trustworthy, datadriven
+standards that we all agree on, and to be able to know what behaviors and policies
+work and which don’t.
+In converting to a digital society, we’ve lost touch with traditional notions of truth
+and justice. Justice used to be mostly informal and normative. We’ve now formalized it.
+At the same time, we’ve put it out of reach for most people. Our legal systems are failing
+us in a way they didn’t before, precisely because they’re now more formal, more digital,
+less embedded in society.
+Ideas about justice are very different around the world. One of the core
+differentiators is this: Do you or your parents remember when the bad guys came with
+guns and took everything? If you do, your attitude about justice is different from that of
+the average reader of this essay. Do you come from the upper classes? Or were you
+somebody who saw the sewers from the inside? Your view of justice depends on your
+history.
+A common test I have for U.S. citizens is this: Do you know anybody who owns a
+pickup truck? It’s the number-one-selling vehicle in the United States, and if you don’t
+know people like that, you’re out of touch with more than 50 percent of Americans.
+Physical segregation drives conceptual segregation. Most of America thinks of justice
+and access and fairness in terms very different from those of the typical, say,
+Manhattanite.
+If you look at patterns of mobility—where people go—in a typical city, you find
+that the people in the top quintile (white-collar working families) and bottom quintile
+(people who are sometimes on unemployment or welfare) almost never talk to each other.
+They don’t go to the same places; they don’t talk about the same things. They all live in
+139
+the same city, nominally, but it’s as if it were two completely different cities—and this is
+perhaps the most important cause of today’s plague of polarization.
+On Extreme Wealth
+Some two hundred of the world’s wealthiest people have pledged to give away more than
+50 percent of their wealth either during their lifetimes or in their wills, creating a plurality
+of voices in the foundation space. 36 Bill Gates is probably the most familiar example.
+He’s decided that if the government won’t do it, he’ll do it. You want mosquito nets?
+He’ll do it. You want antivirals? He’ll do it. We’re getting different stakeholders to take
+action in the form of foundations dedicated to public good, and they have different
+versions of what they consider the public good. This diversity of goals has created a lot
+of what’s wonderful about the world today. Actions from outside government by
+organizations like the Ford Foundation and the Sloan Foundation, who bet on things that
+nobody else would bet on, have changed the world for the better.
+Sure, these billionaires are human, with human foibles, and all is not necessarily
+as it should be. On the other hand, the same situation obtained when the railways were
+first built. Some people made huge fortunes. A lot of people went bust. We, the average
+people, got railways out of it. That’s good. Same thing with electric power; same thing
+with many new technologies. There’s a churning process that throws somebody up and
+later casts them or their heirs down. Bubbles of extreme wealth were a feature of the late
+1800s and early 1900s when steam engines and railways and electric lights were
+invented. The fortunes they created were all gone within two or three generations.
+If the U.S. were like Europe, I would worry. What you find in Europe is that the
+same families have held on to wealth for hundreds of years, so they’re entrenched not just
+in terms of wealth but of the political system and in other ways. But so far, the U.S. has
+avoided this kind of hereditary class system. Extreme wealth hasn’t stuck, which is good.
+It shouldn’t stick. If you win the lottery, you get your billion dollars, but your grandkids
+ought to work for a living.
+On AI and Society
+People are scared about AI. Perhaps they should be. But they need to realize that AI
+feeds on data. Without data, AI is nothing. You don’t have to watch the AI; instead you
+should watch what it eats and what it does. The trust-network framework we’ve set up,
+with the help of nations in the E.U. and elsewhere, is one where we can have our
+algorithms, we can have our AI, but we get to see what went in and what went out, so that
+we can ask, Is this a discriminatory decision? Is this the sort of thing that we want as
+humans? Or is this something that’s a little weird?
+The most revealing analogy is that regulators, bureaucracies, and parts of the
+government are very much like AIs: They take in the rules that we call law and
+regulation, and they add government data, and they make decisions that affect our lives.
+The part that’s bad about the current system is that we have very little oversight of these
+departments, regulators, and bureaucracies. The only control we have is the vote—the
+opportunity to elect somebody different. We need to make oversight of bureaucracies a
+lot more fine-grained. We need to record the data that went into every single decision
+36
+https://givingpledge.org/About.aspx.
+140
+and have the results analyzed by the various stakeholders—rather like elected legislatures
+were originally intended to do.
+If we have the data that go into and out of each decision, we can easily ask, Is this
+a fair algorithm? Is this AI doing things that we as humans believe are ethical? This
+human-in-the-loop approach is called “open algorithms;” you get to see what the AIs take
+as input and what they decide using that input. If you see those two things, you’ll know
+whether they’re doing the right thing or the wrong thing. It turns out that’s not hard to
+do. If you control the data, then you control the AI.
+One thing people often fail to mention is that all the worries about AI are the same
+as the worries about today’s government. For most parts of the government—the justice
+system, et cetera—there’s no reliable data about what they’re doing and in what situation.
+How can you know whether the courts are fair or not if you don’t know the inputs and the
+outputs? The same problem arises with AI systems and is addressable in the same way.
+We need trusted data to hold current government to account in terms of what they take in
+and what they put out, and AI should be no different.
+Next-Generation AI
+Current AI machine-learning algorithms are, at their core, dead simple stupid. They
+work, but they work by brute force, so they need hundreds of millions of samples. They
+work because you can approximate anything with lots of little simple pieces. That’s a
+key insight of current AI research—that if you use reinforcement learning for creditassignment
+feedback, you can get those little pieces to approximate whatever arbitrary
+function you want.
+But using the wrong functions to make decisions means the AI’s ability to make
+good decisions won’t generalize. If we give the AI new, different inputs, it may make
+completely unreasonable decisions. Or if the situation changes, then you need to retrain
+it. There are amusing techniques to find the “null space” in these AI systems. These are
+inputs that the AI thinks are valid examples of what it was trained to recognize (e.g.,
+faces, cats, etc.), but to a human they’re crazy examples.
+Current AI is doing descriptive statistics in a way that’s not science and would be
+almost impossible to make into science. To build robust systems, we need to know the
+science behind data. The systems I view as next-generation AIs result from this sciencebased
+approach: If you’re going to create an AI to deal with something physical, then you
+should build the laws of physics into it as your descriptive functions, in place of those
+stupid little neurons. For instance, we know that physics uses functions like polynomials,
+sine waves, and exponentials, so those should be your basis functions and not little linear
+neurons. By using those more appropriate basis functions, you need a lot less data, you
+can deal with a lot more noise, and you get much better results.
+As in the physics example, if we want to build an AI to work with human
+behavior, then we need to build the statistical properties of human networks into
+machine-learning algorithms. When you replace the stupid neurons with ones that
+capture the basics of human behavior, then you can identify trends with very little data,
+and you can deal with huge levels of noise.
+The fact that humans have a “commonsense” understanding that they bring to
+most problems suggests what I call the human strategy: Human society is a network just
+like the neural nets trained for deep learning, but the “neurons” in human society are a lot
+141
+smarter. You and I have surprisingly general descriptive powers that we use for
+understanding a wide range of situations, and we can recognize which connections should
+be reinforced. That means we can shape our social networks to work much better and
+potentially beat all that machine-based AI at its own game.
+142
+“URGENT!” URGENT!” the cc’d copy of an email screamed, one of a dozen emails that
+greeted me as I turned on my phone at the baggage carousel at Malpensa Airport after
+the long flight from JFK. “The great American visionary thinker John Brockman arrives
+this morning at Grand Hotel Milan. You MUST, repeat MUST pay him a visit.” It was
+signed HUO.
+The prior evening, waiting in the lounge at JFK, I had had the bright idea to write
+my friend and longtime collaborator, the London-based, peripatetic art curator Hans
+Ulrich Obrist (known to all as HUO), and ask if there was anyone in Milan I should
+know.
+Once I was settled at the hotel, the phone began ringing and a procession of
+leading Italian artists, designers, and architects called to request a meeting, including
+Enzo Mari, the modernist artist and furniture designer; Alberto Garutti, whose aesthetic
+strategies have inspired a dialogue between contemporary art, spectator, and public
+space; and fashion designer Miuccia Prada, who “requests your presence for tea this
+afternoon at Prada headquarters.” And thus, thanks to HUO, did the jet-lagged “great
+American visionary thinker” stumble and mumble his way through his first day in Milan,
+November 2011.
+HUO is sui generis: He lives a twenty-four-hour day, sleeping (I guess) whenever,
+and employing full-time assistants who work eight-hour shifts and are available to him
+24/7. Over a recent two-year period, he visited art venues in either China or India for
+forty weekends each year—departing London Thursday evening, back at his desk on
+Monday. Last year, once again, ArtReview ranked him #1 on their annual “Power 100”
+list.
+Recently we collaborated on a panel during the “GUEST, GHOST, HOST:
+MACHINE!” Serpentine event that took place at London’s new City Hall. We were
+joined by Venki Ramakrishnan, Jaan Tallinn, and Andrew Blake, research director of
+The Alan Turing Institute. The event was consistent with HUO’s mission of bringing
+together art and science: “The curator is no longer understood simply as the person who
+fills a space with objects,” he says, “but also as the person who brings different cultural
+spheres into contact, invents new display features, and makes junctions that allow
+unexpected encounters and results.”
+143
+MAKING THE INVISIBLE VISIBLE: ART MEETS AI
+Hans Ulrich Obrist
+Hans Ulrich Obrist is artistic director of the Serpentine Gallery, London, and the author
+of Ways of Curating and Lives of the Artists, Lives of the Architects.
+In the Introduction to the second edition of his book Understanding Media, Marshall
+McLuhan noted the ability of art to “anticipate future social and technological
+developments.” Art is “an early alarm system,” pointing us to new developments in
+times ahead and allowing us “to prepare to cope with them. . . . Art as a radar
+environment takes on the function of indispensable perceptual training. . . .”
+In 1964, when McLuhan’s book was first published, the artist Nam June Paik was
+just building his Robot K-456 to experiment with the technologies that subsequently
+would start to influence society. He had worked with television earlier, challenging its
+usual passive consumption by the viewer, and later made art with global live-satellite
+broadcasts, using the new media less for entertainment than to point us to their poetic and
+intercultural capacities (which are still mostly unused today). The Paiks of our time, of
+course, are now working with the Internet, digital images, and artificial intelligence.
+Their works and thoughts, again, are an early alarm system for the developments ahead of
+us.
+As a curator, my daily work is to bring together different works of art and connect
+different cultures. Since the early 1990s, I have also been organizing conversations and
+meetings with practitioners from different disciplines, in order to go beyond the general
+reluctance to pool knowledge. Since I was interested in hearing what artists have to say
+about artificial intelligence, I recently organized several conversations between artists
+and engineers.
+The reason to look closely at AI is that two of the most important questions of
+today are “How capable will AI become?” and “What dangers may arise from it?” Its
+early applications already influence our everyday lives in ways that are more or less
+recognizable. There is an increasing impact on many aspects of our society, but whether
+this might be, in general, beneficial or malign is still uncertain.
+Many contemporary artists are following these developments closely. They are
+articulating various doubts about the promises of AI and reminding us not to associate the
+term “artificial intelligence” solely with positive outcomes. To the current discussions of
+AI, the artists contribute their specific perspectives and notably their focus on questions
+of image making, creativity, and the use of programming as artistic tools.
+The deep connections between science and art had already been noted by the late
+Heinz von Foerster, one of the architects of cybernetics, who worked with Norbert
+Wiener from the mid-1940s and in the 1960s founded the field of second-order
+cybernetics, in which the observer is understood as part of the system itself and not an
+external entity. I knew von Foerster well, and in one of our many conversations, he
+offered his views on the relation between art and science:
+I’ve always perceived art and science as complementary fields. One shouldn’t
+forget that a scientist is in some respects also an artist. He invents a new
+technique and he describes it. He uses language like a poet, or the author of a
+detective novel, and describes his findings. In my view, a scientist must work in
+144
+an artistic way if he wants to communicate his research. He obviously wants to
+communicate and talk to others. A scientist invents new objects, and the
+question is how to describe them. In all of these aspects, science is not very
+different from art.
+When I asked him how he defined cybernetics, von Foerster answered:
+The substance of what we have learned from cybernetics is to think in circles: A
+leads B, B to C, but C can return to A. Such kinds of arguments are not linear but
+circular. The significant contribution of cybernetics to our thinking is to accept
+circular arguments. This means that we have to look at circular processes and
+understand under which circumstances an equilibrium, and thus a stable
+structure, emerges.
+Today, where AI algorithms are applied in daily tasks, one can ask how the
+human factor is included in these kinds of processes and what role creativity and art
+could play in relation to them. There are thus different levels to think about when
+exploring the relation between AI and art.
+So, what do contemporary artists have to say about artificial intelligence?
+Artificial Stupidity
+Hito Steyerl, an artist who works with documentary and experimental film, considers two
+key aspects that we should keep in mind when reflecting on the implications of AI for
+society. First, the expectations for so-called artificial intelligence, she says, are often
+overrated, and the noun “intelligence” is misleading; to counter that, she uses the term
+“artificial stupidity.” Second, she points out that programmers are now making invisible
+software algorithms visible through images, but to understand and interpret these images
+better, we should apply the expertise of artists.
+Steyerl has worked with computer technology for many years, and her recent
+artworks have explored surveillance techniques, robots, and such computer games as in
+How Not to Be Seen (2013), on digital-image technologies, or HellYeahWeFuckDie
+(2017), about the training of robots in the still-difficult task of keeping balance. But to
+explain her notion of artificial stupidity, Steyerl refers to a more general phenomenon,
+like the now widespread use of Twitter bots, noting in our conversation:
+It was and still is a very popular tool in elections to deploy Twitter armies to
+sway public opinion and deflect popular hashtags and so on. This is an artificial
+intelligence of a very, very low grade. It’s two or maybe three lines of script.
+It’s nothing very sophisticated at all. Yet the social implications of this kind of
+artificial stupidity, as I call it, are already monumental in global politics.
+As has been widely noted, this kind of technology was seen in the many
+automated Twitter posts before the 2016 U.S. presidential election and also shortly before
+the Brexit vote. If even low-grade AI technology like these bots are already influencing
+our politics, this raises another urgent question: “How powerful will far more advanced
+techniques be in the future?”
+145
+Visible / Invisible
+The artist Paul Klee often talked about art as “making the invisible visible.” In computer
+technology, most algorithms work invisibly, in the background; they remain inaccessible
+in the systems we use daily. But lately there has been an interesting comeback of
+visuality in machine learning. The ways that the deep-learning algorithms of AI are
+processing data have been made visible through applications like Google’s DeepDream,
+in which the process of computerized pattern-recognition is visualized in real time. The
+application shows how the algorithm tries to match animal forms with any given input.
+There are many other AI visualization programs that, in their way, also “make the
+invisible visible.” The difficulty in the general public perception of such images is, in
+Steyerl’s view, that these visual patterns are viewed uncritically as realistic and objective
+representations of the machine process. She says of the aesthetics of such visualizations:
+For me, this proves that science has become a subgenre of art history. . . . We
+now have lots of abstract computer patterns that might look like a Paul Klee
+painting, or a Mark Rothko, or all sorts of other abstractions that we know from
+art history. The only difference, I think, is that in current scientific thought
+they’re perceived as representations of reality, almost like documentary images,
+whereas in art history there’s a very nuanced understanding of different kinds of
+abstraction.
+What she seeks is a more profound understanding of computer-generated images
+and the different aesthetic forms they use. They are obviously not generated with the
+explicit goal of following a certain aesthetic tradition. The computer engineer Mike
+Tyka, in a conversation with Steyerl, explained the functions of these images:
+Deep-learning systems, especially the visual ones, are really inspired by the need
+to know what’s going on in the black box. Their goal is to project these
+processes back into the real world.
+Nevertheless, these images have aesthetic implications and values which have to
+be taken into account. One could say that while the programmers use these images to
+help us better understand the programs’ algorithms, we need the knowledge of artists to
+better understand the aesthetic forms of AI. As Steyerl has pointed out, such
+visualizations are generally understood as “true” representations of processes, but we
+should pay attention to their respective aesthetics, and their implications, which have to
+be viewed in a critical and analytical way.
+In 2017, the artist Trevor Paglen created a project to make these invisible AI
+algorithms visible. In Sight Machine, he filmed a live performance of the Kronos Quartet
+and processed the resulting images with various computer software programs used for
+face detection, object identification, and even for missile guidance. He projected the
+outcome of these algorithms, in real time, back to screens above the stage. By
+demonstrating how the various different programs interpreted the musicians’
+performance, Paglen showed that AI algorithms are always determined by sets of values
+and interests which they then manifest and reiterate, and thus must be critically
+questioned. The significant contrast between algorithms and music also raises the issue
+of relationships between technical and human perception.
+146
+Computers, as a Tool for Creativity, Can’t Replace the Artist.
+Rachel Rose, a video artist who thinks about the questions posed by AI, employs
+computer technology in the creation of her works. Her films give the viewer an
+experience of materiality through the moving image. She uses collaging and layering of
+the material to manipulate sound and image, and the editing process is perhaps the most
+important aspect of her work.
+She also talks about the importance of decision making in her work. For her, the
+artistic process does not follow a rational pattern. In a converation we had, together with
+the engineer Kenric McDowell, at the Google Cultural Institute, she explained this by
+citing a story from theater director Peter Brook’s 1968 book The Empty Space. When
+Brook designed the set for his production of The Tempest in the late 1960s, he started by
+making a Japanese garden, but then the design evolved, becoming a white box, a black
+box, a realistic set, and so on. And in the end, he returned to his original idea. Brook
+writes that he was shocked at having spent a month on his labors, only to end at the
+beginning. But this shows that the creative artistic process is a succession whose every
+step builds on the next and which eventually comes to an unpredictable conclusion. The
+process is not a logical or rational succession but has mostly to do with the artist’s
+feelings in reaction to the preceding result. Rose said, of her own artistic decision
+making:
+It, to me, is distinctively different from machine learning, because at each
+decision there’s this core feeling that comes from a human being, which has to do
+with empathy, which has to do with communication, which has to do with
+questions about our own mortality that only a human could ask.
+This point underlines the fundamental difference between any human artistic production
+and so-called computer creativity. Rose sees AI more as a possible way to create better
+tools for humans:
+A place I can imagine machine learning working for an artist would be not in
+developing an independent subjectivity, like writing a poem or making an image,
+but actually in filling in gaps that are to do with labor, like the way that
+Photoshop works with different tools that you can use.
+And though such tools may not seem spectacular, she says, “they might have a larger
+influence on art,” because they provide artists with further possibilities in their creative
+work.
+McDowell added that he, too, believes there are false expectations around AI.
+“I’ve observed,” he said, “that there’s a sort of magical quality to the idea of a computer
+that does all the things that we do.” He continued: “There’s almost this kind of demonic
+mirror that we look into, and we want it to write a novel, we want it to make a film—we
+want to give that away somehow.” He is instead working on projects wherein humans
+collaborate with the machine. One of the current aims of AI research is to find new
+means of interaction between humans and software. And art, one could say, needs to
+play a key role in that enterprise, since it focuses on our subjectivity and on essential
+human aspects like empathy and mortality.
+147
+Cybernetics / Art
+Suzanne Treister is an artist whose work from 2009 to 2011 serves as an example of what
+is happening at the intersection of our current technologies, the arts, and cybernetics.
+Treister has been a pioneer in digital art since the 1990s, inventing, for example,
+imaginary video games and painting screen shots from them. In her project Hexen 2.0
+she looked back at the famous Macy conferences on cybernetics that between 1946 and
+1953 were organized in New York by engineers and social scientists to unite the sciences
+and to develop a universal theory of the workings of the mind.
+In her project, she created thirty photo-text works about the conference attendees
+(which included Wiener and von Foerster), she invented tarot cards, and she made a
+video based on a photomontage of a “cybernetic séance.” In the “séance,” the conference
+participants are seen sitting at a round table, as in spiritualist séances, while certain of
+their statements on cybernetics are heard in an audio-collage—rational knowledge and
+superstition combined. She also noted that some of the participating scientists worked for
+the military; thus the application of cybernetics could be seen in an ambivalent way, even
+back then, as a tussle between pure knowledge and its use in state control.
+If one looks at Treister’s work about the Macy conference participants, one sees
+that no visual artist was included. A dialogue between artists and scientists would be
+fruitful in future discussions, and it is a bit astonishing that this wasn’t realized at the
+time, given von Foerster’s keen interest in art. He recounted in one of our conversations
+how his relation to the field dated back to his childhood:
+I grew up as a child in an artistic family. We often had visits from poets,
+philosophers, painters, and sculptors. Art was a part of my life. Later, I got into
+physics, as I was talented in this subject. But I always remained conscious of the
+importance of art for science. There wasn’t a great difference for me. For me,
+both aspects of life have always been very much alike—and accessible, too. We
+should see them as one. An artist also has to reflect on his work. He has to think
+about his grammar and his language. A painter must know how to handle his
+colors. Just think of how intensively oil colors were researched during the
+Renaissance. They wanted to know how a certain pigment could be mixed with
+others to get a certain tone of red or blue. Chemists and painters collaborated
+very closely. I think the artificial division between science and art is wrong.
+Though for von Foerster the relation between the art and science was always
+clear, for our own time this connection remains to be made. There are many reasons to
+multiply the links. The critical thinking of artists would be beneficial in respect to the
+dangers of AI, since they draw our attention to questions they consider essential from
+their perspective. With the advent of machine learning, new tools are available to artists
+for their work. And as the algorithms of AI are made visible through artificial images in
+new ways, artists’ critical visual knowledge and expertise will be harnessed. Many of the
+key questions of AI are philosophical in nature and can be answered only from a holistic
+point of view. The way they play out among adventurous artists will be worth following.
+Simulating Worlds
+For the most part, the works of contemporary artists have been embodied ruminations on
+148
+AI’s impact on existential questions of the self and our future interaction with nonhuman
+entities. Few, though, have taken the technologies and innovations of AI as the
+underlying materials of their work and sculpted them to their own vision. An exception
+is the artist Ian Cheng, who has gone as far as to construct entire worlds of artificial
+beings with varying degrees of sentience and intelligence. He refers to these worlds as
+Live Simulations. His Emissaries trilogy (2015-2017) is set in a fictional postapocalyptic
+world of flora and fauna, in which AI-driven animals and creatures explore the landscape
+and interact with each other. Cheng uses advanced graphics but has them programmed
+with a lot of glitches and imperfections, which imparts a futuristic and anachronistic
+atmosphere at the same time. Through his trilogy, which charts a history of
+consciousness, he asks the question “What is a simulation?”
+While the majority of artistic works that utilize recent developments in AI
+specifically draw from the field of machine learning, Cheng’s Live Simulations take a
+separate route. The protagonists and plot lines that are interlaced in each episodic
+simulation of Emissaries use the complex logic systems and rules of AI. What is
+profound about his continually evolving scenes is that complexity arises not through the
+desire/actions of any single actor or artificial godhead but instead through their
+constellation, collision, and constant evolution in symbiosis with one another. This gives
+rise to unexpected outcomes and unending, unknowable situations—you can never
+experience the exact same moment in successive viewings of his work.
+Cheng had a discussion at the Serpentine Marathon “GUEST, GHOST, HOST:
+MACHINE!” with the programmer Richard Evans, who recently designed Versu, an AIbased
+platform for interactive storytelling games. Evans’ work emphasizes the social
+interaction of the games’ characters, who react in a spectrum of possible behaviors to the
+choices made by the human players. In their conversation, Evans said that a starting
+point for the project was that most earlier simulation video games, such as The Sims, did
+not sufficiently take into account the importance of social practices. Simulated
+protagonists in games would often act in ways that did not correspond well with real
+human behavior. Knowledge of social practices limits the possibilities of action but is
+necessary to understand the meaning of our actions—which is what interests Cheng for
+his own simulations. The more parameters of actions in certain circumstances are
+determined in a computer simulation, the more interesting it is for Cheng to experiment
+with individual and specific changes. He told Evans, “I gather that if we had AI with
+more ability to respond to social contexts, tweaking one thing, you would get something
+quite artistic and beautiful.”
+Cheng also sees the work of programmers and AI simulations as creating new and
+sophisticated tools for experimenting with the parameters of our daily social practices. In
+this way, the involvement of artists in AI will lead to new kinds of open experiments in
+Art. Such possibilities are—like increased AI capabilities in general—still in the future.
+Recognizing that this is an experimental technology in its infancy, very far from
+apocalyptic visions of a superintelligent AI takeover, Cheng fills his simulations with
+prosaic avatars such as strange microbial globules, dogs, and the undead.
+Discussions like these, between artists and engineers, of course are not totally
+new. In the 1960s, the engineer Billy Klüver brought artists together with engineers in a
+series of events, and in 1967 he founded the Experiments in Art and Technology program
+with Robert Rauschenberg and others. In London, at around the same time, Barbara
+149
+Stevini and John Latham, of the Artist Placement Group, took things a step further by
+asserting that there should be artists in residence in every company and every
+government. Today, these inspiring historical models can be applied to the field of AI.
+As AI comes to inhabit more and more of our everyday lives, the creation of a space that
+is nondeterministic and non-utilitarian in its plurality of perspectives and diversity of
+understandings will undoubtedly be essential.
+150
+Alison Gopnik is an international leader in the field of children’s learning and
+development and was one of the founders of the field of “theory of mind.” She has
+spoken of the child brain as a “powerful learning computer,” perhaps from personal
+experience. Her own Philadelphia childhood was an exercise in intellectual
+development. “Other families took their kids to see The Sound of Music or Carousel; we
+saw Racine’s Phaedra and Samuel Beckett’s Endgame,” she has recalled. “Our family
+read Henry Fielding’s 18th-century novel Joseph Andrews out loud to each other around
+the fire on camping trips.”
+Lately she has invoked Bayesian models of machine learning to explain the
+remarkable ability of preschoolers to draw conclusions about the world around them
+without benefit of enormous data sets. “I think babies and children are actually more
+conscious than we are as adults,” she has said. “They’re very good at taking in lots of
+information from lots of different sources at once.” She has referred to babies and young
+children as “the research and development division of the human species.” Not that she
+treats them coldly, as if they were mere laboratory animals. They appear to revel in her
+company, and in the blinking, thrumming toys in her Berkeley lab. For years after her
+own children had outgrown it, she kept a playpen in her office.
+Her investigations into just how we learn, and the parallels to the deep-learning
+methods of AI, continues. “It turns out to be much easier to simulate the reasoning of a
+highly trained adult expert than to mimic the ordinary learning of every baby,” she says.
+“Computation is still the best—indeed, the only—scientific explanation we have of how a
+physical object like a brain can act intelligently. But, at least for now, we have almost no
+idea at all how the sort of creativity we see in children is possible.”
+151
+AIs VERSUS FOUR-YEAR-OLDS
+Alison Gopnik
+Alison Gopnik is a developmental psychologist at UC Berkeley; her books include The
+Philosophical Baby and, most recently, The Gardener and the Carpenter: What the New
+Science of Child Development Tells Us About the Relationship Between Parents and
+Children.
+Everyone’s heard about the new advances in artificial intelligence, and especially
+machine learning. You’ve also heard utopian or apocalyptic predictions about what those
+advances mean. They have been taken to presage either immortality or the end of the
+world, and a lot has been written about both those possibilities. But the most
+sophisticated AIs are still far from being able to solve problems that human four-yearolds
+accomplish with ease. In spite of the impressive name, artificial intelligence largely
+consists of techniques to detect statistical patterns in large data sets. There is much more
+to human learning.
+How can we possibly know so much about the world around us? We learn an
+enormous amount even when we are small children; four-year-olds already know about
+plants and animals and machines; desires, beliefs, and emotions; even dinosaurs and
+spaceships.
+Science has extended our knowledge about the world to the unimaginably large
+and the infinitesimally small, to the edge of the universe and the beginning of time. And
+we use that knowledge to make new classifications and predictions, imagine new
+possibilities, and make new things happen in the world. But all that reaches any of us
+from the world is a stream of photons hitting our retinas and disturbances of air at our
+eardrums. How do we learn so much about the world when the evidence we have is so
+limited? And how do we do all this with the few pounds of grey goo that sits behind our
+eyes?
+The best answer so far is that our brains perform computations on the concrete,
+particular, messy data arriving at our senses, and those computations yield accurate
+representations of the world. The representations seem to be structured, abstract, and
+hierarchical; they include the perception of three-dimensional objects, the grammars that
+underlie language, and mental capacities like “theory of mind,” which lets us understand
+what other people think. Those representations allow us to make a wide range of new
+predictions and imagine many new possibilities in a distinctively creative human way.
+This kind of learning isn’t the only kind of intelligence, but it’s a particularly
+important one for human beings. And it’s the kind of intelligence that is a specialty of
+young children. Although children are dramatically bad at planning and decision making,
+they are the best learners in the universe. Much of the process of turning data into
+theories happens before we are five.
+Since Aristotle and Plato, there have been two basic ways of addressing the
+problem of how we know what we know, and they are still the main approaches in
+machine learning. Aristotle approached the problem from the bottom up: Start with
+senses—the stream of photons and air vibrations (or the pixels or sound samples of a
+digital image or recording)—and see if you can extract patterns from them. This
+approach was carried further by such classic associationists as philosophers David Hume
+152
+and J. S. Mill and later by behavioral psychologists, like Pavlov and B. F. Skinner. On
+this view, the abstractness and hierarchical structure of representations is something of an
+illusion, or at least an epiphenomenon. All the work can be done by association and
+pattern detection—especially if there are enough data.
+Over time, there has been a seesaw between this bottom-up approach to the
+mystery of learning and Plato’s alternative, top-down one. Maybe we get abstract
+knowledge from concrete data because we already know a lot, and especially because we
+already have an array of basic abstract concepts, thanks to evolution. Like scientists, we
+can use those concepts to formulate hypotheses about the world. Then, instead of trying
+to extract patterns from the raw data, we can make predictions about what the data should
+look like if those hypotheses are right. Along with Plato, such “rationalist” philosophers
+and psychologists as Descartes and Noam Chomsky took this approach.
+Here’s an everyday example that illustrates the difference between the two
+methods: solving the spam plague. The data consist of a long unsorted list of messages in
+your in-box. The reality is that some of these messages are genuine and some are spam.
+How can you use the data to discriminate between them?
+Consider the bottom-up technique first. You notice that the spam messages tend
+to have particular features: a long list of addressees, origins in Nigeria, references to
+million-dollar prizes or Viagra. The trouble is that perfectly useful messages might have
+these features, too. If you looked at enough examples of spam and non-spam emails, you
+might see not only that spam emails tend to have those features but that the features tend
+to go together in particular ways (Nigeria plus a million dollars spells trouble). In fact,
+there might be some subtle higher-level correlations that discriminate the spam messages
+from the useful ones—a particular pattern of misspellings and IP addresses, say. If you
+detect those patterns, you can filter out the spam.
+The bottom-up machine-learning techniques do just this. The learner gets
+millions of examples, each with some set of features and each labeled as spam (or some
+other category) or not. The computer can extract the pattern of features that distinguishes
+the two, even if it’s quite subtle.
+How about the top-down approach? I get an email from the editor of the Journal
+of Clinical Biology. It refers to one of my papers and says that they would like to publish
+an article by me. No Nigeria, no Viagra, no million dollars; the email doesn’t have any
+of the features of spam. But by using what I already know, and thinking in an abstract
+way about the process that produces spam, I can figure out that this email is suspicious.
+(1) I know that spammers try to extract money from people by appealing to
+human greed.
+(2) I also know that legitimate “open access” journals have started covering their
+costs by charging authors instead of subscribers, and that I don’t practice anything like
+clinical biology.
+Put all that together and I can produce a good new hypothesis about where that
+email came from. It’s designed to sucker academics into paying to “publish” an article in
+a fake journal. The email was a result of the same dubious process as the other spam
+emails, even though it looked nothing like them. I can draw this conclusion from just one
+example, and I can go on to test my hypothesis further, beyond anything in the email
+itself, by googling the “editor.”
+153
+In computer terms, I started out with a “generative model” that includes abstract
+concepts like greed and deception and describes the process that produces email scams.
+That lets me recognize the classic Nigerian email spam, but it also lets me imagine many
+different kinds of possible spam. When I get the journal email, I can work backward:
+“This seems like just the kind of mail that would come out of a spam-generating
+process.”
+The new excitement about AI comes because AI researchers have recently
+produced powerful and effective versions of both these learning methods. But there is
+nothing profoundly new about the methods themselves.
+Bottom-up Deep Learning
+In the 1980s, computer scientists devised an ingenious way to get computers to detect
+patterns in data: connectionist, or neural-network, architecture (the “neural” part was, and
+still is, metaphorical). The approach fell into the doldrums in the ’90s but has recently
+been revived with powerful “deep-learning” methods like Google’s DeepMind.
+For example, you can give a deep-learning program a bunch of Internet images
+labeled “cat,” others labeled “house,” and so on. The program can detect the patterns
+differentiating the two sets of images and use that information to label new images
+correctly. Some kinds of machine learning, called unsupervised learning, can detect
+patterns in data with no labels at all; they simply look for clusters of features—what
+scientists call a factor analysis. In the deep-learning machines, these processes are
+repeated at different levels. Some programs can even discover relevant features from the
+raw data of pixels or sounds; the computer might begin by detecting the patterns in the
+raw image that correspond to edges and lines and then find the patterns in those patterns
+that correspond to faces, and so on.
+Another bottom-up technique with a long history is reinforcement learning. In the
+1950s, B. F. Skinner, building on the work of John Watson, famously programmed
+pigeons to perform elaborate actions—even guiding air-launched missiles to their targets
+(a disturbing echo of recent AI) by giving them a particular schedule of rewards and
+punishments. The essential idea was that actions that were rewarded would be repeated
+and those that were punished would not, until the desired behavior was achieved. Even
+in Skinner’s day, this simple process, repeated over and over, could lead to complex
+behavior. Computers are designed to perform simple operations over and over on a scale
+that dwarfs human imagination, and computational systems can learn remarkably
+complex skills in this way.
+For example, researchers at Google’s DeepMind used a combination of deep
+learning and reinforcement learning to teach a computer to play Atari video games. The
+computer knew nothing about how the games worked. It began by acting randomly and
+got information only about what the screen looked like at each moment and how well it
+had scored. Deep learning helped interpret the features on the screen, and reinforcement
+learning rewarded the system for higher scores. The computer got very good at playing
+several of the games, but it also completely bombed on others just as easy for humans to
+master.
+A similar combination of deep learning and reinforcement learning has enabled
+the success of DeepMind’s AlphaZero, a program that managed to beat human players at
+both chess and Go, equipped only with a basic knowledge of the rules of the game and
+154
+some planning capacities. AlphaZero has another interesting feature: It works by playing
+hundreds of millions of games against itself. As it does so, it prunes mistakes that led to
+losses, and it repeats and elaborates on strategies that led to wins. Such systems, and
+others involving techniques called generative adversarial networks, generate data as well
+as observing data.
+When you have the computational power to apply those techniques to very large
+data sets or millions of email messages, Instagram images, or voice recordings, you can
+solve problems that seemed very difficult before. That’s the source of much of the
+excitement in computer science. But it’s worth remembering that those problems—like
+recognizing that an image is a cat or a spoken word is “Siri”—are trivial for a human
+toddler. One of the most interesting discoveries of computer science is that problems that
+are easy for us (like identifying cats) are hard for computers—much harder than playing
+chess or Go. Computers need millions of examples to categorize objects that we can
+categorize with just a few. These bottom-up systems can generalize to new examples;
+they can label a new image as a “cat” fairly accurately, over all. But they do so in ways
+quite different from how humans generalize. Some images almost identical to a cat
+image won’t be identified by us as cats at all. Others that look like a random blur will be.
+Top-down Bayesian Models
+The top-down approach played a big role in early AI, and in the 2000s it, too,
+experienced a revival, in the form of probabilistic, or Bayesian, generative models.
+The early attempts to use this approach faced two kinds of problems. First, most
+patterns of evidence might in principle be explained by many different hypotheses: It’s
+possible that my journal email message is genuine, it just doesn’t seem likely. Second,
+where do the concepts that the generative models use come from in the first place? Plato
+and Chomsky said you were born with them. But how can we explain how we learn the
+latest concepts of science? Or how even young children understand about dinosaurs and
+rocket ships?
+Bayesian models combine generative models and hypothesis testing with
+probability theory, and they address these two problems. A Bayesian model lets you
+calculate just how likely it is that a particular hypothesis is true, given the data. And by
+making small but systematic tweaks to the models we already have, and testing them
+against the data, we can sometimes make new concepts and models from old ones. But
+these advantages are offset by other problems. The Bayesian techniques can help you
+choose which of two hypotheses is more likely, but there are almost always an enormous
+number of possible hypotheses, and no system can efficiently consider them all. How do
+you decide which hypotheses are worth testing in the first place?
+Brenden Lake at NYU and colleagues have used these kinds of top-down methods
+to solve another problem that’s easy for people but extremely difficult for computers:
+recognizing unfamiliar handwritten characters. Look at a character on a Japanese scroll.
+Even if you’ve never seen it before, you can probably tell if it’s similar to or different
+from a character on another Japanese scroll. You can probably draw it and even design a
+fake Japanese character based on the one you see—one that will look quite different from
+a Korean or Russian character. 37
+37
+Brenden M. Lake, Ruslan Salakhutdinov & Joshua B. Tenenbaum, “Human-level concept learning
+through probabilistic program induction,” Science, 350:6266, pp. 1332-38 (2015).
+155
+The bottom-up method for recognizing handwritten characters is to give the
+computer thousands of examples of each one and let it pull out the salient features.
+Instead, Lake et al. gave the program a general model of how you draw a character: A
+stroke goes either right or left; after you finish one, you start another; and so on. When
+the program saw a particular character, it could infer the sequence of strokes that were
+most likely to have led to it—just as I inferred that the spam process led to my dubious
+email. Then it could judge whether a new character was likely to result from that
+sequence or from a different one, and it could produce a similar set of strokes itself. The
+program worked much better than a deep-learning program applied to exactly the same
+data, and it closely mirrored the performance of human beings.
+These two approaches to machine learning have complementary strengths and
+weaknesses. In the bottom-up approach, the program doesn’t need much knowledge to
+begin with, but it needs a great deal of data, and it can generalize only in a limited way.
+In the top-down approach, the program can learn from just a few examples and make
+much broader and more varied generalizations, but you need to build much more into it to
+begin with. A number of investigators are currently trying to combine the two
+approaches, using deep learning to implement Bayesian inference.
+The recent success of AI is partly the result of extensions of those old ideas. But
+it has more to do with the fact that, thanks to the Internet, we have much more data, and
+thanks to Moore’s Law we have much more computational power to apply to that data.
+Moreover, an unappreciated fact is that the data we do have has already been sorted and
+processed by human beings. The cat pictures posted to the Web are canonical cat
+pictures—pictures that humans have already chosen as “good” pictures. Google
+Translate works because it takes advantage of millions of human translations and
+generalizes them to a new piece of text, rather than genuinely understanding the
+sentences themselves.
+But the truly remarkable thing about human children is that they somehow
+combine the best features of each approach and then go way beyond them. Over the past
+fifteen years, developmentalists have been exploring the way children learn structure
+from data. Four-year-olds can learn by taking just one or two examples of data, as a topdown
+system does, and generalizing to very different concepts. But they can also learn
+new concepts and models from the data itself, as a bottom-up system does.
+For example, in our lab we give young children a “blicket detector”—a new
+machine to figure out, one they’ve never seen before. It’s a box that lights up and plays
+music when you put certain objects on it but not others. We give children just one or two
+examples of how the machine works, showing them that, say, two red blocks make it go,
+while a green-and-yellow combination doesn’t. Even eighteen-month-olds immediately
+figure out the general principle that the two objects have to be the same to make it go,
+and they generalize that principle to new examples: For instance, they will choose two
+objects that have the same shape to make the machine work. In other experiments, we’ve
+shown that children can even figure out that some hidden invisible property makes the
+machine go, or that the machine works on some abstract logical principle. 38
+38
+A. Gopnik, T. Griffiths & C. Lucas, “When younger learners can be better (or at least more openminded)
+than older ones,” Curr. Dir. Psychol. Sci., 24:2, 87-92 (2015).
+156
+You can show this in children’s everyday learning, too. Young children rapidly
+learn abstract intuitive theories of biology, physics, and psychology in much the way
+adult scientists do, even with relatively little data.
+The remarkable machine-learning accomplishments of the recent AI systems, both
+bottom-up and top-down, take place in a narrow and well-defined space of hypotheses
+and concepts—a precise set of game pieces and moves, a predetermined set of images. In
+contrast, children and scientists alike sometimes change their concepts in radical ways,
+performing paradigm shifts rather than simply tweaking the concepts they already have.
+Four-year-olds can immediately recognize cats and understand words, but they
+can also make creative and surprising new inferences that go far beyond their experience.
+My own grandson recently explained, for example, that if an adult wants to become a
+child again, he should try not eating any healthy vegetables, since healthy vegetables
+make a child grow into an adult. This kind of hypothesis, a plausible one that no grownup
+would ever entertain, is characteristic of young children. In fact, my colleagues and I
+have shown systematically that preschoolers are better at coming up with unlikely
+hypotheses than older children and adults. 39 We have almost no idea how this kind of
+creative learning and innovation is possible.
+Looking at what children do, though, may give programmers useful hints about
+directions for computer learning. Two features of children’s learning are especially
+striking. Children are active learners; they don’t just passively soak up data like AIs do.
+Just as scientists experiment, children are intrinsically motivated to extract information
+from the world around them through their endless play and exploration. Recent studies
+show that this exploration is more systematic than it looks and is well-adapted to find
+persuasive evidence to support hypothesis formation and theory choice. 40 Building
+curiosity into machines and allowing them to actively interact with the world might be a
+route to more realistic and wide-ranging learning.
+Second, children, unlike existing AIs, are social and cultural learners. Humans
+don’t learn in isolation but avail themselves of the accumulated wisdom of past
+generations. Recent studies show that even preschoolers learn through imitation and by
+listening to the testimony of others. But they don’t simply passively obey their teachers.
+Instead they take in information from others in a remarkably subtle and sensitive way,
+making complex inferences about where the information comes from and how
+trustworthy it is and systematically integrating their own experiences with what they are
+hearing. 41
+“Artificial intelligence” and “machine learning” sound scary. And in some ways
+they are. These systems are being used to control weapons, for example, and we really
+should be scared about that. Still, natural stupidity can wreak far more havoc than
+artificial intelligence; we humans will need to be much smarter than we have been in the
+past to properly regulate the new technologies. But there is not much basis for either the
+apocalyptic or the utopian visions of AIs replacing humans. Until we solve the basic
+39
+A. Gopnik, et al., “Changes in cognitive flexibility and hypothesis search across human life history from
+childhood to adolescence to adulthood,” Proc. Nat. Acad. Sci., 114:30, 7892-99 (2017).
+40
+L. Schulz, “The origins of Inquiry: Inductive inference and exploration in early childhood,” Trends Cog.
+Sci., 16:7, 382-89 (2012).
+41
+A. Gopnik, The Gardener and the Carpenter (New York: Farrar, Straus & Giroux, 2016), chaps. 4 and 5.
+157
+paradox of learning, the best artificial intelligences will be unable to compete with the
+average human four-year-old.
+158
+Peter Galison’s focus as a science historian is—speaking roughly—on the intersection of
+theory with experiment.
+“For quite a number of years I have been guided in my work by the odd
+confrontation of abstract ideas and extremely concrete objects,” he once told me, in
+explaining how he thinks about what he does. At the Washington, Connecticut, meeting
+he discussed the Cold War tension between engineers (like Wiener) and the
+administrators of the Manhattan Project (like Oppenheimer: “When [Wiener] warns
+about the dangers of cybernetics, in part he’s trying to compete against the kind of
+portentous language that people like Oppenheimer [used]: ‘When I saw the explosion at
+Trinity, I thought of the Bhagavad Gita—I am death, destroyer of worlds.’ That sense,
+that physics could stand and speak to the nature of the universe and airforce policy, was
+repellent and seductive. In a way, you can see that over and over again in the last
+decades—nanosciences, recombinant DNA, cybernetics: ‘I stand reporting to you on the
+science that has the promise of salvation and the danger of annihilation—and you should
+pay attention, because this could kill you.’ It’s a very seductive narrative, and it’s
+repeated in artificial intelligence and robotics.”
+As a twenty-four-year old, when I first encountered Wiener’s ideas and met his
+colleagues at the MIT meeting I describe in the book’s Introduction, I was hardly
+interested in Wiener’s warnings or admonitions. What drove my curiosity was the stark,
+radical nature of his view of life, based on the mathematical theory of communications in
+which the message was nonlinear: According to Wiener, “new concepts of
+communication and control involved a new interpretation of man, of man’s knowledge of
+the universe, and of society.” And that led to my first book, which took information
+theory—the mathematical theory of communications—as a model for all human
+experience.
+In a recent conversation, Peter told me he was beginning to write a book—about
+building, crashing, and thinking—that considers the black-box nature of cybernetics and
+how it represents what he thinks of as “the fundamental transformation of learning,
+machine learning, cybernetics, and the self.”
+159
+ALGORISTS DREAM OF OBJECTIVITY
+Peter Galison
+Peter Galison is a science historian, Joseph Pellegrino University Professor and cofounder
+of the Black Hole Initiative at Harvard University, and the author of Einstein's
+Clocks and Poincaré’s Maps: Empires of Time.
+In his second-best book, the great medieval mathematician al-Khwarizmi described the
+new place-based Indian form of arithmetic. His name, soon sonically linked to
+“algorismus” (in late medieval Latin) came to designate procedures acting upon
+numbers—eventually wending its way through “algorithm,” (on the model of
+“logarithm”), into French and on into English. But I like the idea of a modern algorist,
+even if my spellcheck does not. I mean by it someone profoundly suspicious of the
+intervention of human judgment, someone who takes that judgment to violate the
+fundamental norms of what it is to be objective (and therefore scientific).
+Near the end of the 20th century, a paper by two University of Minnesota
+psychologists summarized a vast literature that had long roiled the waters of prediction.
+One side, they judged, had for all too long held resolutely—and ultimately unethically—
+to the “clinical method” of prediction, which prized all that was subjective: “informal,”
+“in-the-head,” and “impressionistic.” These clinicians were people (so said the
+psychologists) who thought they could study their subjects with meticulous care, gather
+in committees, and make judgment-based predictions about criminal recidivism, college
+success, medical outcomes, and the like. The other side, the psychologists continued,
+embodied everything the clinicians did not, embracing the objective: “formal,”
+“mechanical,” “algorithmic.” This the authors took to stand at the root of the whole
+triumph of post-Galilean science. Not only did science benefit from the actuarial; to a
+great extent, science was the mechanical-actuarial. Breezing through 136 studies of
+predictions, across domains from sentencing to psychiatry, the authors showed that in 128
+of them, predictions using actuarial tables, a multiple-regression equation, or an
+algorithmic judgment equalled or exceeded in accuracy those using the subjective
+approach.
+They went on to catalog seventeen fallacious justifications for clinging to the
+clinical. There were the self-interested foot-draggers who feared losing their jobs to
+machines. Others lacked the education to follow statistical arguments. One group
+mistrusted the formalization of mathematics; another excoriated what they took to be the
+actuarial “dehumanizing;” yet others said that the aim was to understand, not to predict.
+But whatever the motivations, the review concluded that it was downright immoral to
+withhold the power of the objective over the subjective, the algorithmic over expert
+judgment. 42
+42
+William M. Grove & Paul E. Meehl, “Comparative efficiency of informal (subjective, impressionistic)
+and formal (mechanical, algorithmic) prediction procedures: The Clinical-Statistical Controversy,”
+Psychology, Public Policy, and Law, 2:2, 293-323 (1996).
+160
+The algorist view has gained strength. Anne Milgram served as Attorney General
+of the State of New Jersey from 2007 to 2010. When she took office, she wanted to
+know who the state was arresting, charging, and jailing, and for what crimes. At the
+time, she reports in a later TED Talk, she could find almost no data or analytics. By
+imposing statistical prediction, she continues, law enforcement in Camden during her
+tenure was able to reduce murders by 41 percent, saving thirty-seven lives, while
+dropping the total crime rate by 26 percent. After joining the Arnold Foundation as its
+vice president for criminal justice, she established a team of data scientists and
+statisticians to create a risk-assessment tool; fundamentally, she construed the team’s
+mission as deciding how to put “dangerous people” in jail while releasing the nondangerous.
+“The reason for this,” Milgram contended, “is the way we make decisions.
+Judges have the best intentions when they make these decisions about risk, but they’re
+making them subjectively. They’re like the baseball scouts twenty years ago who were
+using their instinct and their experience to try to decide what risk someone poses.
+They’re being subjective, and we know what happens with subjective decision making,
+which is that we are often wrong.” Her team established nine-hundred-plus risk factors,
+of which nine were most predictive. The questions, the most urgent questions, for the
+team were: Will a person commit a new crime? Will that person commit a violent act?
+Will someone come back to court? We need, concluded Milgram, an “objective measure
+of risk” that should be inflected by judges’ judgment. We know the algorithmic
+statistical process works. That, she says, is “why Google is Google” and why moneyball
+wins games. 43
+Algorists have triumphed. We have grown accustomed to the idea that protocols
+and data can and should guide us in everyday action, from reminders about where we
+probably want to go next, to the likely occurrence of crime. By now, according to the
+literature, the legal, ethical, formal, and economic dimensions of algorithms are all quasiinfinite.
+I’d like to focus on one particular siren song of the algorithm: its promise of
+objectivity.
+Scientific objectivity has a history. That might seem surprising. Isn’t the
+notion—expressed above by the Minnesota psychologists—right? Isn’t objectivity coextensive
+with science itself? Here it’s worth stepping back to reflect on all the epistemic
+virtues we might value in scientific work. Quantification seems like a good thing to
+have; so, too, do prediction, explanation, unification, precision, accuracy, certainty, and
+pedagogical utility. In the best of all possible worlds these epistemic virtues would all
+pull in the same direction. But they do not—not any more than our ethical virtues
+necessarily coincide. Rewarding people according to their need may very well conflict
+with rewarding people according to their ability. Equality, fairness, meritocracy—ethics,
+in a sense, is all about the adjudication of conflicting goods. Too often we forget that this
+conflict exists in science, too. Design an instrument to be as sensitive as possible and it
+often fluctuates wildly, making repetition of a measurement impossible.
+“Scientific objectivity” entered both the practice and the nomenclature of science
+after the first third of the 19th century. One sees this clearly in the scientific atlases that
+provided scientists with the basic objects of their specialty: There were (and are) atlases
+of the hand, atlases of the skull, atlases of clouds, crystals, flowers, bubble-chamber
+pictures, nuclear emulsions, and diseases of the eye. In the 18th century, it was obvious
+43
+TED Talk, January 2014, https://www.ted.com/speakers/anne_milgram.
+161
+that you would not depict this particular, sun-scorched, caterpillar-chewed clover found
+outside your house in an atlas. No, you aimed—if you were a genius natural philosopher
+like Goethe, Albinus, or Cheselden—to observe nature but then to perfect the object in
+question, to abstract it visually to the ideal. Take a skeleton, view it through a camera
+lucida, draw it with care. Then correct the “imperfections.” The advantage of this
+parting of the curtains of mere experience was clear: It provided a universal guide, one
+not attached to the vagaries of individual variation.
+As the sciences grew in scope, and scientists grew in number, the downside of
+idealization became clearer. It was one thing to have Goethe depict the “ur-plant” or “urinsect.”
+It was quite another to have a myriad of different scientists each fixing their
+images in different and sometimes contradictory ways. Gradually, from around the 1830s
+forward, one begins to see something new: a claim that the image making was done with
+a minimum of human intervention, that protocols were followed. This could mean
+tracing a leaf with a pencil or pressing it into ink that was transferred to the page. It
+meant, too, that one suddenly was proud of depicting the view through a microscope of a
+natural object even with its imperfections. This was a radical idea: snowflakes shown
+without perfect hexagonal symmetry, color distortion near the edge of a microscope lens,
+tissue torn around the edges in the process of its preparation.
+Scientific objectivity came to mean that our representations of things were
+executed by holding back from intervention—even if it meant reproducing the yellow
+color near the edge of the image under the microscope, despite the fact that the scientist
+knew that the discoloration was from the lens, not a feature of the object of inquiry. The
+advantage of objectivity was clear: It superseded the desire to see a theory realized or a
+generally accepted view confirmed. But objectivity came at a cost. You lost that precise,
+easily teachable, colored, full depth-of-field, artist’s rendition of a dissected corpse. You
+got a blurry, bad depth-of-field, black-and-white photograph that no medical student (nor
+even many medical colleagues) could use to learn and compare cases. Still, for a long
+stretch of the 19th century, the virtue of hands-off, self-restraining objectivity was on the
+rise.
+Starting in the 1930s, the hardline scientific objectivity in scientific representation
+began running into trouble. In cataloging stellar spectra, for example, no algorithm could
+compete with highly trained observers who could sort them with far greater accuracy and
+replicability than any purely rule-following procedure. By the late 1940s, doctors had
+begun learning how to read electroencephalograms. Expert judgment was needed to sort
+out different kinds of seizure readings, while none of the early attempts to use frequency
+analysis could match that judgment. Solar magnetograms—mapping the magnetic fields
+across the sun—required the trained expert to pry the real signal from artifacts that
+emerged from the measuring instruments. Even particle physicists recognized that they
+could not program a computer to sort certain kinds of tracks into the right bins; judgment,
+trained judgment, was needed.
+There should be no confusion here: This was not a return to the invoked genius of
+an 18th-century idealizer. No one thought you could train to be a Goethe who alone
+among scientists could pick out the universal, ideal form of a plant, insect, or cloud.
+Expertise could be learned—you could take a course to learn to make expert judgments
+about electroencephalograms, stellar spectra, or bubble-chamber tracks; alas, no one has
+ever thought you could take a course that would lead to the mastery of exceptional
+162
+insight. There can be no royal road to becoming Goethe. In scientific atlas after
+scientific atlas, one sees explicit argument that “subjective” factors had to be part of the
+scientific work needed to create, classify, and interpret scientific images.
+What we see in so many of the algorists’ claims is a tremendous desire to find
+scientific objectivity precisely by abandoning judgment and relying on mechanical
+procedures—in the name of scientific objectivity. Many American states have legislated
+the use of sentencing and parole algorithms. Better a machine, it is argued, than the
+vagaries of a judge’s judgment.
+So here is a warning from the sciences. Hands-off algorithmic proceduralism did
+indeed have its heyday in the 19th century, and of course still plays a role in many of the
+most successful technical and scientific endeavors. But the idea that mechanical
+objectivity, construed as binding self-restraint, follows a simple, monotonic curve
+increasing from the bad impressionistic clinician to the good externalized actuary simply
+does not answer to the more interesting and nuanced history of the sciences.
+There is a more important lesson from the sciences. Mechanical objectivity is a
+scientific virtue among others, and the hard sciences learned that lesson often. We must
+do the same in the legal and social scientific domains. What happens, for example, when
+the secret, proprietary algorithm sends one person to prison for ten years and another for
+five years, for the same crime? Rebecca Wexler, visiting fellow at the Yale Law School
+Information Society Project, has explored that question, and the tremendous cost that
+trade-secret algorithms impose on the possibility of a fair legal defense. 44 Indeed, for a
+variety of reasons, law enforcement may not want to share the algorithms used to make
+DNA, chemical, or fingerprint identifications, which puts the defense in a much
+weakened position to make its case. In the courtroom, objectivity, trade secrets, and
+judicial transparency may pull in opposite directions. It reminds me of a moment in the
+history of physics. Just after World War II, the film giants Kodak and Ilford perfected a
+film that could be used to reveal the interactions and decays of elementary particles. The
+physicists were thrilled, of course—until the film companies told them that the
+composition of the film was a trade secret, so the scientists would never gain complete
+confidence that they understood the processes they were studying. Proving things with
+unopenable black boxes can be a dangerous game for scientists, and doubly so for
+criminal justice.
+Other critics have underscored how perilous it is to rely on an accused (or
+convicted) person’s address or other variables that can easily become, inside the black
+box of algorithmic sentencing, a proxy for race. By dint of everyday experience, we have
+grown used to the fact that airport security is different for children under the age of
+twelve and adults over the age of seventy-five. What factors do we want the algorists to
+have in their often hidden procedures? Education? Income? Employment history? What
+one has read, watched, visited, or bought? Prior contact with law enforcement? How do
+we want algorists to weight those factors? Predictive analytics predicated on mechanical
+objectivity comes at a price. Sometimes it may be a price worth paying; sometimes that
+price would be devastating for the just society we want to have.
+More generally, as the convergence of algorithms and Big Data governs a greater
+and greater part of our lives, it would be well worth keeping in mind these two lessons
+44
+Rebecca Wexler, “Life, Liberty, and Trade Secrets: Intellectual Property in the Criminal Justice System,”
+70 Stanford Law Review, XXX (2018).
+163
+from the history of the sciences: Judgment is not the discarded husk of a now pure
+objectivity of self-restraint. And mechanical objectivity is a virtue competing among
+others, not the defining essence of the scientific enterprise. They are lessons to bear in
+mind, even if algorists dream of objectivity.
+164
+In the past decade, genetic engineering has caught up with computer science with regard
+to how new scientific initiatives are shaping our lives. Genetic engineer George
+Church, a pioneer of the revolution in reading and writing biology, is central to this new
+landscape of ideas. He thinks of the body as an operating system, with engineers taking
+the place of traditional biologists in retooling stripped-down components of organisms
+(from atoms to organs) in much the same vein as in the late 1970s, when electrical
+engineers were working their way to the first personal computer by assembling circuit
+boards, hard drives, monitors, etc. George created and is director of the Personal
+Genome Project, which provides the world’s only open-access information on human
+genomic, environmental, and trait data (GET) and sparked the growing DNA ancestry
+industry.
+He was instrumental in laying the groundwork for President Obama’s 2013
+BRAIN (Brain Research through Advancing Innovative Neurotechnologies) Initiative—in
+aid of improving the brains of human beings to the point where, for much of what
+sustains us, we might not need the help of (potentially dicey) AIs. “It could be that some
+of the BRAIN Initiative projects allow us to build human brains that are more consistent
+with our ethics and capable of doing advanced tasks like artificial intelligence,” George
+has said. “The safest path by far is getting humans to do all the tasks that they would like
+to delegate to machines, but we’re not yet firmly on that super-safe path.”
+More recently, his crucially important pioneering use of the enzyme CRISPR (as
+well as methods better than CRISPR) to edit the genes of human cells is sometimes
+missed by the media in the telling of the CRISPR origins story.
+George’s attitude toward future forms of artificial general intelligence is friendly,
+as evinced in the essay that follows. At the same time, he never loses sight of the AIsafety
+issue. On that subject, he recently remarked: “The main risk in AI, to my mind, is
+not so much whether we can mathematically understand what they’re thinking; it’s
+whether we’re capable of teaching them ethical behavior. We’re barely capable of
+teaching each other ethical behavior.”
+165
+THE RIGHTS OF MACHINES
+George M. Church
+George M. Church is Robert Winthrop Professor of Genetics at Harvard Medical
+School; Professor of Health Sciences and Technology, Harvard-MIT; and co-author
+(with Ed Regis) of Regenesis: How Synthetic Biology Will Reinvent Nature and
+Ourselves.
+In 1950, Norbert Wiener’s The Human Use of Human Beings was at the cutting edge of
+vision and speculation in proclaiming that
+the machine like the djinnee, which can learn and can make decisions on the
+basis of its learning, will in no way be obliged to make such decisions as we
+should have made, or will be acceptable to us. . . . Whether we entrust our
+decisions to machines of metal, or to those machines of flesh and blood which
+are bureaus and vast laboratories and armies and corporations, . . . [t]he hour is
+very late, and the choice of good and evil knocks at our door.
+But this was his book’s denouement, and it has left us hanging now for sixty-eight
+years, lacking not only prescriptions and proscriptions but even a well-articulated
+“problem statement.” We have since seen similar warnings about the threat of our
+machines, even in the form of outreach to the masses, via films like Colossus: The Forbin
+Project (1970), The Terminator (1984), The Matrix (1999), and Ex Machina (2015). But
+now the time is ripe for a major update, with fresh, new perspectives—notably focused
+on generalizations of our “human” rights and our existential needs.
+Concern has tended to focus on “us versus them [robots]” or “grey goo
+[nanotech]” or “monocultures of clones [bio].” To extrapolate current trends: What if we
+could make or grow almost anything and engineer any level of safety and efficacy
+desired? Any thinking being (made of any arrangement of atoms) could have access to
+any technology.
+Probably we should be less concerned about us-versus-them and more concerned
+about the rights of all sentients in the face of an emerging unprecedented diversity of
+minds. We should be harnessing this diversity to minimize global existential risks, like
+supervolcanoes and asteroids.
+But should we say “should”? (Disclaimer: In this and many other cases, when a
+technologist describes a societal path that “could,” “would,” or “should” happen, this
+doesn’t necessarily equate to the preferences of the author. It could reflect warning,
+uncertainty, and/or detached assessment.) Roboticist Gianmarco Veruggio and others
+have raised issues of roboethics since 2002; the U.K. Department of Trade and Industry
+and the RAND spin-off Institute for the Future have raised issues of robot rights since
+2006.
+“Is versus ought”
+It is commonplace to say that science concerns “is,” not “ought.” Stephen Jay Gould’s
+“non-overlapping magisteria” view argues that facts must be completely distinct from
+values. Similarly, the 1999 document Science and Creationism from the U.S. National
+Academy of Sciences noted that “science and religion occupy two separate realms.” This
+166
+division has been critiqued by evolutionary biologist Richard Dawkins, myself, and
+others. We can discuss “should” if framed as “we should do X in order to achieve Y.”
+Which Y should be a high priority is not necessarily settled by democratic vote but might
+be settled by Darwinian vote. Value systems and religions wax and wane, diversify,
+diverge, and merge just as living species do: subject to selection. The ultimate “value”
+(the “should”) is survival of genes and memes.
+Few religions say that there is no connection between our physical being and the
+spiritual world. Miracles are documented. Conflicts between Church doctrine and
+Galileo and Darwin are eventually resolved. Faith and ethics are widespread in our
+species and can be studied using scientific methods, including but not limited to fMRI,
+psychoactive drugs, questionnaires, et cetera.
+Very practically, we have to address the ethical rules that should be built in,
+learned, or probabilistically chosen for increasingly intelligent and diverse machines. We
+have a whole series of trolley problems. At what number of people in line for death
+should the computer decide to shift a moving trolley to one person? Ultimately this
+might be a deep-learning problem—one in which huge databases of facts and
+contingencies can be taken into account, some seemingly far from the ethics at hand.
+For example, the computer might infer that the person who would escape death if
+the trolley is left alone is a convicted terrorist recidivist loaded up with doomsday
+pathogens, or a saintly POTUS—or part of a much more elaborate chain of events in
+detailed alternative realities. If one of these problem descriptions seems paradoxical or
+illogical, it may be that the authors of the trolley problem have adjusted the weights on
+each sides of the balance such that hesitant indecision is inevitable.
+Alternatively, one can use misdirection to rig the system, such that the error
+modes are not at the level of attention. For example, in the Trolley Problem, the real
+ethical decision was made years earlier when pedestrians were given access to the rails—
+or even before that, when we voted to spend more on entertainment than on public safety.
+Questions that at first seem alien and troubling, like “Who owns the new minds, and who
+pays for their mistakes?” are similar to well-established laws about who owns and pays
+for the sins of a corporation.
+The Slippery Slopes
+We can (over)simplify ethics by claiming that certain scenarios won’t happen. The
+technical challenges or the bright red lines that cannot be crossed are reassuring, but the
+reality is that once the benefits seem to outweigh the risks (even briefly and barely), the
+red lines shift. Just before Louise Brown’s birth in 1978, many people were worried that
+she “would turn out to be a little monster, in some way, shape or form, deformed,
+something wrong with her.” 45 Few would hold this view of in-vitro fertilization today.
+What technologies are lubricating the slope toward multiplex sentience? It is not
+merely deep machine-learning algorithms with Big Iron. We have engineered rodents to
+be significantly better at a variety of cognitive tasks as well as to exhibit other relevant
+traits, such as persistence and low anxiety. Will this be applicable to animals that are
+already at the door of humanlike intelligence? Several show self-recognition in a mirror
+test—chimpanzees, bonobos, orangutans, some dolphins and whales, and magpies.
+45
+“Then, Doctors ‘All Anxious’ About Test-tube Baby”
+http://edition.cnn.com/2003/HEALTH/parenting/07/25/cnna.copperman/
+167
+Even the bright red line for human manipulation of human beings shows many
+signs of moving or breaking completely. More than 2,300 approved clinical trials for
+gene therapy are in progress worldwide. A major medical goal is the treatment or
+prevention of cognitive decline, especially in light of our rapidly aging global
+demographic. Some treatments of cognitive decline will include cognitive enhancements
+(drugs, genes, cells, transplants, implants, and so on). These will be used off-label. The
+rules of athletic competition (e.g., banning augmentation with steroids or erythropoietin)
+do not apply to intellectual competition in the real world. Every bit of progress on
+cognitive decline is in play for off-label use.
+Another frontier of the human use of humans is “brain organoids.” We can now
+accelerate developmental biology. Processes that normally take months can happen in
+four days in the lab using the right recipes of transcription factors. We can make brains
+that, with increasing fidelity, recapitulate the differences between people born with
+aberrant cognitive abilities (e.g., microcephaly). Proper vasculature (veins, arteries, and
+capillaries) missing from earlier successes are now added, enabling brain organoids to
+surpass the former sub-microliter limit to possibly exceed the 1.2-liter size of modern
+human brains (or even the 5-liter elephant or 8-liter sperm whale brains).
+Conventional Computers versus Bio-electronic Hybrids
+As Moore’s Law miniaturization approaches its next speed bump (surely not a solid
+wall), we see the limits of the stochastics of dopant atoms in silicon slabs and the limits
+of beam-fabrication methods at around 10-nanometer feature size. Power (energy
+consumption) issues are also apparent: The great Watson, winner of Jeopardy!, used
+85,000 watts real time, while the human brains were using 20 watts each. To be fair, the
+human body needs 100 watts to operate and twenty years to build, hence about 6 trillion
+joules of energy to “manufacture” a mature human brain. The cost of manufacturing
+Watson-scale computing is similar. So why aren’t humans displacing computers?
+For one, the Jeopardy! contestants’ brains were doing far more than information
+retrieval—much of which would be considered mere distractions by Watson (e.g.,
+cerebellar control of smiling). Other parts allow leaping out of the box with
+transcendence unfathomable by Watson, such as what we see in Einstein’s five annus
+mirabilis papers of 1905. Also, humans consume more energy than the minimum (100
+W) required for life and reproduction. People in India use an average of 700 W per
+person; it’s 10,000 W in the U.S. Both are still less than the 85,000 watts Watson uses.
+Computers can become more like us via neuromorphic computing, possibly a
+thousandfold. But human brains could get more efficient, too. The organoid brain-in-abottle
+could get closer to the 20 W limit. The idiosyncratic advantages of computers for
+math, storage, and search, faculties of limited use to our ancestors, could be designed and
+evolved anew in labs.
+Facebook, the National Security Agency, and others are constructing exabytescale
+storage facilities at more than a megawatt and four hectares, while DNA can store
+that amount in a milligram. Clearly, DNA is not a mature storage technology, but with
+Microsoft and Technicolor doubling down on it, we would be wise to pay attention. The
+main reason for the 6 trillion joules of energy required to get a productive human mind is
+the twenty years required for training.
+168
+Even though a supercomputer can “train” a clone of zemself in seconds, the
+energy cost of producing a mature silicon clone is comparable. Engineering (Homo)
+prodigies might make a small impact on this slow process, but speeding up development
+and implanting extensive memory (as DNA-exabytes or other means) could reduce
+duplication time of a bio-computer to close to the doubling time of cells (ranging from
+eleven minutes to twenty-four hours). The point is that while we may not know what
+ratio of bio/homo/nano/robo hybrids will be dominant at each step of our accelerating
+evolution, we can aim for high levels of humane, fair, and safe treatment (“use”) of one
+another.
+Bills of Rights date back to 1689 in England. FDR proclaimed the “Four
+Freedoms”—freedom of speech, freedom of conscience, freedom from fear, and freedom
+from want. The U.N.’s Universal Declaration of Human Rights in 1948 included the
+right to life; the prohibition of slavery; defense of rights when violated; freedom of
+movement; freedom of association, thought, conscience, and religion; social, economic,
+and cultural rights; duties of the individual to society; and prohibition of use of rights in
+contravention of the purposes and principles of the United Nations.
+The “universal” nature of these rights is not universally embraced and is subject
+to extensive critique and noncompliance. How does the emergence of non-Homointelligences
+affect this discussion? At a minimum, it is becoming rapidly difficult to
+hide behind vague intuition for ethical decisions—“I know it when I see it” (U.S.
+Supreme Court Justice Potter Stewart, 1964) or the “wisdom of repugnance” (aka “yuck
+factor,” Leon Kass, 1997), or vague appeals to “common sense.” As we have to deal
+with minds alien to us, sometimes quite literal from our viewpoint, we need to be
+explicit—yea, even algorithmic.
+Self-driving cars, drones, stock-market transactions, NSA searches, et cetera,
+require rapid, pre-approved decision making. We may gain insights into many aspects of
+ethics that we have been trying to pin down and explain for centuries. The challenges
+have included conflicting priorities, as well as engrained biological, sociological, and
+semi-logical cognitive biases. Notably far from consensus in universal dogmas about
+human rights are notions of privacy and dignity, even though these influence many laws
+and guidelines.
+Humans might want the right to march in to read (and change) the minds of
+computers to see why they’re making decisions at odds with our (Homo) instincts. Is it
+not fair for machines to ask the same of us? We note the growth of movements toward
+transparency in potential financial conflicts; “open-source” software, hardware, and
+wetware; the Fair Access to Science and Technology Research Act (FASTR); and the
+Open Humans Foundation.
+In his 1976 book Computer Power and Human Reason, Joseph Weizenbaum
+argued that machines should not replace Homo in situations requiring respect, dignity, or
+care, while others (author Pamela McCorduck and computer scientists like John
+McCarthy and Bill Hibbard) replied that machines can be more impartial, calm, and
+consistent and less abusive or mischievous than people in such positions.
+Equality
+What did the thirty-three-year-old Thomas Jefferson mean in 1776 when he wrote, “We
+hold these Truths to be self-evident, that all Men are created equal, that they are endowed
+169
+by their Creator with certain unalienable Rights, that among these are Life, Liberty, and
+the Pursuit of Happiness”? The spectrum of current humans is vast. In 1776, “Men” did
+not include people of color or women. Even today, humans born with congenital
+cognitive or behavioral issues are destined for unequal (albeit in most cases
+compassionate) treatment—Down syndrome, Tay-Sachs disease, Fragile X syndrome,
+cerebral palsy, and so on.
+And as we change geographical location and mature, our unequal rights change
+dramatically. Embryos, infants, children, teens, adults, patients, felons, gender identities
+and gender preferences, the very rich and very poor—all of these face different rights and
+socioeconomic realities. One path to new mind-types obtaining and retaining rights
+similar to the most elite humans would be to keep a Homo component, like a human
+shield or figurehead monarch/CEO, signing blindly enormous technical documents,
+making snap financial, health, diplomatic, military, or security decisions. We will
+probably have great difficulty pulling the plug, modifying, or erasing (killing) a computer
+and its memories—especially if it has befriended humans and made spectacularly
+compelling pleas for survival (as all excellent researchers fighting for their lives would
+do).
+Even Scott Adams, creator of Dilbert, has weighed in on this topic, supported by
+experiments at Eindhoven University in 2005 noting how susceptible humans are to a
+robot-as-victim equivalent of the Milgram experiments done at Yale beginning in 1961.
+Given the many rights of corporations, including ownership of property, it seems likely
+that other machines will obtain similar rights, and it will be a struggle to maintain
+inequities of selective rights along multi-axis gradients of intellect and ersatz feelings.
+Radically Divergent Rules for Humans versus Nonhumans and Hybrids
+The divide noted above for intra Homo sapiens variation in rights explodes into a riot of
+inequality as soon as we move to entities that overlap (or will soon) the spectrum of
+humanity. In Google Street View, people’s faces and car license plates are blurred out.
+Video devices are excluded from many settings, such as courts and committee meetings.
+Wearable and public cameras with facial-recognition software touch taboos. Should
+people with hyperthymesia or photographic memories be excluded from those same
+settings?
+Shouldn’t people with prosopagnosia (face blindness) or forgetfulness be able to
+benefit from facial-recognition software and optical character recognition wherever they
+go, and if them, then why not everyone? If we all have those tools to some extent,
+shouldn’t we all be able to benefit?
+These scenarios echo Kurt Vonnegut’s 1961 short story “Harrison Bergeron,” in
+which exceptional aptitude is suppressed in deference to the mediocre lowest common
+denominator of society. Thought experiments like John Searle’s Chinese Room and
+Isaac Asimov’s Three Laws of Robotics all appeal to the sorts of intuitions plaguing
+human brains that Daniel Kahneman, Amos Tversky, and others have demonstrated. The
+Chinese Room experiment posits that a mind composed of mechanical and Homo
+sapiens parts cannot be conscious, no matter how competent at intelligent human
+(Chinese) conversation, unless a human can identify the source of the consciousness and
+“feel” it. Enforced preference for Asimov’s First and Second Laws favor human minds
+over any other mind meekly present in his Third Law, of self-preservation.
+170
+If robots don’t have exactly the same consciousness as humans, then this is used
+as an excuse to give them different rights, analogous to arguments that other tribes or
+races are less than human. Do robots already show free will? Are they already selfconscious?
+The robots Qbo have passed the “mirror test” for self-recognition and the
+robots NAO have passed a related test of recognizing their own voice and inferring their
+internal state of being, mute or not.
+For free will, we have algorithms that are neither fully deterministic nor random
+but aimed at nearly optimal probabilistic decision making. One could argue that this is a
+practical Darwinian consequence of game theory. For many (not all) games/problems, if
+we’re totally predictable or totally random, then we tend to lose.
+What is the appeal of free will anyway? Historically it gave us a way to assign
+blame in the context of reward and punishment on Earth or in the afterlife. The goals of
+punishment might include nudging the priorities of the individual to assist the survival of
+the species. In extreme cases, this could include imprisonment or other restrictions, if
+Skinnerian positive/negative reinforcement is inadequate to protect society. Clearly, such
+tools can apply to free will, seen broadly—to any machine whose behavior we’d like to
+manage.
+We could argue as to whether the robot actually experiences subjective qualia for
+free will or self-consciousness, but the same applies to evaluating a human. How do we
+know that a sociopath, a coma patient, a person with Williams syndrome, or a baby has
+the same free will or self-consciousness as our own? And what does it matter,
+practically? If humans (of any sort) convincingly claim to experience consciousness,
+pain, faith, happiness, ambition, and/or utility to society, should we deny them rights
+because their hypothetical qualia are hypothetically different from ours?
+The sharp red lines of prohibition, over which we supposedly will never step,
+increasingly seem to be short-lived and not sensible. The line between human and
+machines blurs, both because machines become more humanlike and humans become
+more machine-like—not only since we increasingly blindly follow GPS scripts, reflex
+tweets, and carefully crafted marketing, but also as we digest ever more insights into our
+brain and genetic programming mechanisms. The NIH BRAIN Initiative is developing
+innovative technologies and using these to map out the connections and activity of mental
+circuitry so as to improve electronic and synthetic neurobiological ware.
+Various red lines depend on genetic exceptionalism, in which genetics is
+considered permanently heritable (although it is provably reversible), whereas exempt

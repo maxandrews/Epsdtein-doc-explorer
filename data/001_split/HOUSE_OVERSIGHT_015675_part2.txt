@@ -1,0 +1,1677 @@
+word ‘understand’ is used. If you ask the people around you what it means
+you’ll stump many of them. That’s because understanding has two very
+different meanings. Most people don’t separate these meanings but the
+distinction is important. Understanding means to decode information,
+to comprehend – but, more importantly, it also means to absorb and
+internalize information. That feeling you have when you ‘get it’.
+If I say, “I understand” I mean I have taken in the question you
+asked and decoded it into ideas so I can provide an answer. This can be
+quite a mechanical process and computers routinely understand natural
+language and answer questions – Apple’s digital assistant Siri being a
+case in point.
+When I say, “I understand a problem” or “understand a culture”
+I mean something far less tangible. Somehow the information I have
+gathered over my life is formed into a matrix within my brain that allows
+me to ponder and run scenarios. I can predict the effects of my actions
+before I do them, and often anticipate your responses. That’s clearly
+a very useful evolutionary adaption, but is there more to it than that?
+Roger Penrose and David Deutsch think understanding allows us to
+transfer non-symbolic information from one brain to another. We don’t
+run programs in our brains, nor do we store precise information such as
+lists and tables. We have, therefore, had to evolve a creative approach to
+communicating skills and understanding each other. One of the most
+closely studied areas in the field of communication is when it breaks
+down in the lead up to a disaster.
+Understanding
+“The human mind tends to look
+for clear linear relationships, we
+like solutions that are close to the
+problem in time and space and
+make sense when we think about
+it quickly, unfortunately, those
+simple solutions are usually
+wrong and come from acting on
+a complex system as if it was a
+simple one.”
+Brett Piersen
+57
+Gettysburg Address, Peter Norvig
+Space Shuttle Columbia Crew Photo
+“For a successful technology,
+reality must take precedence
+over public relations, for Nature
+cannot be fooled.”
+Richard Feynman
+Bad Understanding
+Can Kill
+On January 16, 2003, at 3:39pm, the Columbia space shuttle took
+off from Cape Canaveral. During the launch a small piece of
+foam insulation broke off the fuel tank and hit the shuttlecraft.
+The event was recorded on a few low-resolution video frames. They
+show a tiny white object hitting the shuttle and a plume of dusty material
+splattering outward. The shuttle made it safely into orbit and for two
+weeks engineers on the ground debated what to do. In the end, it was
+decided the risk was minimal and the shuttle could safely return to Earth.
+On reentry, the shuttle disintegrated, killing seven astronauts.
+NASA managers had decided the shuttle was undamaged based
+on a series of presentations by the engineers. One image in particular
+analyzed the potential
+damage to the shuttle’s
+tiles from an impact.
+Read the slide, look
+at the key frames, and
+decide for yourself what
+action you would have
+taken.
+Shuttle Tile
+60 Are the Androids Dreaming Yet?
+NASA Internal Slide
+WHAT DO YOU UNDERSTAND FROM THE SLIDE?
+Some images of the launch are shown on the right
+ddd
+Here is what you should have understood from the slide: tiles are
+really tough but if the foam dislodged from the fuel tank broke through
+the outer coating it would cause significant damage. The estimated speed
+of the foam hitting the tile was 640 times greater than anything previously
+tested. Worried?
+Is this a proper understanding of the problem? You have the slide
+and the images. Take another look and think hard. If you want, you can
+check a video of a similar launch on YouTube to get a feel for the scale of
+things, but the still frames shown all the information you need to make
+your conclusion.
+Understanding
+61
+Photographs of the Foam Impact from Video Footage
+Frame Showing Foam Dislodging
+62 Are the Androids Dreaming Yet?
+Still from Ground Camera
+LOOK AT THE IMAGES, WHAT HAPPENED?
+ddd
+The truth is you simply don’t know. If you are puzzling over the
+strength of tiles, you have been misdirected. There is video footage of
+some sort of impact on a wing mostly covered in white tiles, and a slide
+describing the effect of a benign sounding ‘foam’ hitting those tiles. But
+what is the evidence for an impact on a tile? The shuttle is certainly not
+made entirely from tiles; I can see a window in the picture. You should
+instead be asking more questions, “What happened?” “What hit what?”
+and “How bad is that?”
+It was bad. The foam, a very tough material, had hit the leading edge
+of the wing, a weak point, punching a hole through it. The wing failed
+on reentry and tore the shuttle apart. Clearly, a full discussion of the
+possibilities did not occur amongst the shuttle team, or perhaps it only
+happened amongst the engineers in private. Once the analysis was tidied
+up and presented to ‘management’ it was a one-way communication of
+the conclusions, not a discussion of the underlying ambiguous thought
+process. The result: people passively listened to the information rather
+Understanding
+63
+than interactively understanding it and agreed on the recommendation
+that it was safe to return. Clearly they did not understand the ambiguity
+otherwise they would have realized they did not have enough information
+to form a conclusion. This is the tragedy of lack of understanding. If they
+had known how little they knew, they could have deployed a spy satellite
+to take pictures of the damage – one was available nearby and would
+have taken a few hours to re-task – but they did not.
+Ed Tufte served on the second shuttle disaster commission and
+provided an analysis of the disaster. He views slides as a poor medium for
+communicating complex problems and thinks documents are far better.
+The danger with slides is they force you to simplify information in a way
+that destroys the essence of the information. His analysis of the failure of
+communication at NASA formed a major part of the final report on the
+disaster. Later he coined the paraphrase “All Power corrupts; PowerPoint
+corrupts absolutely.” Good communication benefits from stories and
+narrative, not bullet points and graphic fluff. Instead of using bullet
+points, speak! After all, we have evolved for 250,000 years to understand
+language, but only 25 to read PowerPoints. ’
+If you write presentations, Ed Tufte’s book The Cognitive Style
+of PowerPoint is compulsory reading. He argues that much of the
+information you want to communicate is complex and interconnected.
+PowerPoint or any similar presentation software encourages you to
+simplify it into hierarchical bullets. The format implies simple causal
+relationships where none exists. This is dangerous. Communication
+should convey understanding – which is very important – and not just
+information. What, you ask, is the difference?
+Searle’s Chinese Room
+“The hardest thing to understand
+is why we can understand
+anything at all.”
+Albert Einstein
+The Imitation Game
+As an experiment, I am going to ask a student to spend a week in
+a locked room. The room is perfectly nice; it has a bed, a light, a
+desk, some reading matter, oh, and we’ll give him some washing
+facilities too! Every now and then I post some food under the door to
+keep him going, Pop-tarts and pizza (thin-crust) work well.
+On the first evening a note is pushed under his door with a symbol
+on it. The student puzzles for a while, then opens the book sitting on
+the desk. The book says, “If you get a piece of paper with symbols on it
+look them up and follow the instructions.” He looks up the symbols and
+the entry in the book says, “Go to page 44, write down the third symbol
+on a piece of paper then post it back under the door.” He follows the
+instruction and is rewarded with another piece of paper, this time with a
+larger set of symbols on it. Again he follows the instructions in the book
+and posts his answer back under the door. This goes on for several days.
+He is somewhat bemused, but it passes the time, and he diligently looks
+up the symbols and performs all the complicated actions as instructed.
+Meanwhile, I meet our new Chinese graduate student and explain
+to her she needs to interview a potential translator for the department.
+He has just come in from Hong Kong and there is a health scare, so we
+have quarantined him in the lab room. He is bored and I have some
+paper for writing messages. She writes “hello” in Chinese on a piece of
+paper and posts it under the door.
+66 Are the Androids Dreaming Yet?
+The exchange of notes goes on for a few days and the two seem to be
+getting on well. There is even a little romance in the air. When the week is
+over I open the door and the two meet. The graduate student says, “Hello.
+It’s nice to finally meet you in person.” The man is puzzled because, of
+course, she has spoken to him in Chinese. He knows no Chinese.
+“I’m terribly sorry, but I don’t speak Chinese,” he says.
+She is puzzled, “But I spoke with you this last week!”
+“No, I really don’t speak it,” he says.
+And, of course, he is telling the truth. The book he has been using
+contains the rules for answering questions in Chinese, but he has
+absolutely no knowledge of the language. I’ll leave to your imagination
+whether the two strike up a real relationship and live happily ever after.
+This is the Story of the Chinese Room. The setup is able to fool
+someone into believing there is a Chinese speaking person in the room,
+yet there is not. Where does the understanding of Chinese lie? The man
+definitely does not understand Chinese. And the book clearly does not
+understand Chinese because it is an inanimate object. Yet the person
+outside the room is convinced she is communicating with a Chinese
+speaker. The analogy to a computer is clear. The book is software and
+the man blindly following instructions is the hardware. John Searle,
+who devised the thought experiment uses it to show computers can
+never understand because there is no place in a mechanistic system for
+understanding to exist.
+The Chinese Room has sparked huge argument in philosophical
+circles; let me boil it down to its simplest form. First, let’s refute Searle’s
+position with the ‘System Argument’.
+The man plus the book form a system. Systems understand; their
+individual components do not. My blood does not understand. My brain
+without blood would not understand – it would be dead! Plug my brain
+into a good supply of blood; add a dash of glucose, and it will understand
+the most complex of things.
+The systems argument is elegant and most scientists think this is the
+definitive argument against Searle, but Searle has a neat way to counter
+it. “Imagine”, he says, “that the man memorizes the book and leaves the
+room. Now there is no system, there is just the man, but the man still does
+not understand Chinese; he is just parroting rote-memorized words and
+rules.” Computers, Searle argues, process syntax – the rules of language;
+humans understand semantics – the contextual meaning of language.
+Artificial Intelligence (AI) proponents hate the Searle argument.
+They believe the memorization of a set of words and rules is exactly what
+gives us knowledge of Chinese. That is why we go to school!
+Understanding
+67
+A key problem posed by Searle’s Chinese Room is whether you can
+know everything about a situation from just looking at the inputs and
+outputs. This is very similar to the restriction posed by the Turing Test.
+In that case if we were to trace the wire from our computer terminal
+to the other room we would either find a human typing messages or a
+large box covered in flashing lights. This would definitively answer the
+question whether we were talking to a man or a machine. Similarly, if
+we opened the door to the Chinese Room we would immediately know
+whether there was a real Chinese speaker in there or not. But opening
+the door on both tests misses the point. The question asks, “if the inputs
+and outputs are the same does it matter what is really going on inside a
+closed system?”
+Black Boxes
+Experiments involving closed systems are known as Black Box
+experiments. They presume you can learn everything about the inner
+workings of a box simply by probing it from the outside. Young electronic
+engineers are often given black boxes as a test. Electronic components
+hidden in the box are connected to three external terminals on the
+outside. The student is asked to deduce what is in the box using only
+an electric meter to probe those terminals. Here are a few examples of
+the possible contents of a black box. They would all show up identically
+on the student’s meter. Although internally different they are externally
+identical. Even my ‘silly’ fourth choice with a cat in the box does not give
+Black Box Equivalence
+68 Are the Androids Dreaming Yet?
+itself away if all you have to go on are electrical readings. (I dare say the
+cat would make its displeasure know if left in there for any time.) The
+contents are, therefore, said to be black box equivalent.
+The reason for teaching engineers about black boxes is to help them
+understand how to simplify things. We could construct option four, with
+a cat and some food, but it would cost a great deal of money. Option 1 is
+functionally identical from an electrical point of view, but for a fraction
+of the cost. Steve Wozniak and Steve Jobs were so successful when they
+started Apple because Wozniak was brilliant at simplifying logic circuits.
+He could take a design with thirty chips and come back with a black box
+equivalent solution using only five. It was a fraction of the cost and far
+more reliable.
+Scientists put great store in black box equivalence because of
+a principle called Occam’s Razor. William of Occam was an English
+Franciscan friar living in the fourteenth century. He proposed the idea
+of minimal explanation. It states that, ‘among competing hypotheses,
+the hypothesis with the fewest assumptions should be selected’. When
+trying to explain the workings of a black box, the more complicated
+inner workings should be discarded, as they have no externally verifiable
+effect over the simpler mechanism. Our extraneous animal must be
+eliminated! Sorry.
+Ironically, given his calling, Occam’s Razor is sometimes wheeled
+out as a disproof of the existence of God. Surely God is a complication
+unnecessary to the explanation of our Universe. The argument is
+illustrated beautifully in Carl Sagan’s book Contact and the film of the
+same name. God gets the last laugh in Sagan’s book when the difficulty
+with Occam’s Razor is brought into sharp focus. Occam’s Razor contains
+an inherent paradox. At any moment in time we only have evidence to
+support the simplest of explanations, yet we know many of these simple
+explanations are incomplete. We regularly discover new phenomenon –
+dark matter and dark energy being some recent examples. If we stopped
+discovering new things, Occam’s Razor would be a good way to simplify
+our thoughts. Occam’s Razor is a useful intellectual tool to prevent us
+over complicating explanations, but there will often be explanations that
+are correct, but for which there is not yet any observed effect.
+If we go back to our black box example, we see the flaw in concluding
+the boxes are identical from examining only their inputs and outputs.
+Opening them would clearly show they are not identical! But, how would
+this fact reveal itself if they remain closed? The answer is: over time. If
+something in the box has memory or understanding, it could present
+one set of results for a while and a completely different set of results later.
+Understanding
+69
+In my trivial example, the cat could eat a wire and change the operation
+of the black box. Now there is an open circuit where none existed before.
+If this happened, the output would change and we would need a new
+theory to explain it. If the circuit was attached to a missile control system
+or a life support system, you would really want a full understanding
+without waiting. It’s humans nature to try to open black boxes. This is
+what MRI scans, X-rays, particle accelerators and all our other tools
+of scientific investigation are for. We want to open all the black boxes
+of nature and see what is going on inside: simply waiting to see what
+happens is not acceptable.
+In a sense, we live in a black box. We experience the world through
+our senses, seeing with our eyes and feeling with our hands. The brain
+never directly experiences anything; it only infers the likelihood of
+Scene from The Miracle Worker. Helen Keller
+pictured at the moment she understood language.
+70 Are the Androids Dreaming Yet?
+something from the signals it receives. This is similar to our engineer
+probing the terminals of the circuit of a black box. How can we know our
+experience of the world is real?
+Understanding the World
+The French philosopher Descartes gave us an explanation for this
+paradox. He spent a long time looking skeptically at everything we
+perceive. For example, when we poke a stick into a pond, the surface of
+the water bends light and the stick appears to have a kink in it. Our eyes
+tell us the stick is bent, but our brain ‘knows’ the stick is straight: it’s an
+illusion. Descartes wondered if something so simple could be an illusion,
+perhaps the whole of our experience is too.
+His eventual solution underpins much of modern philosophy – ‘I
+think therefore I am’, cogito ergo sum. Even if we doubt everything else,
+we cannot doubt we are thinking about this doubt. At least we can rely
+upon the existence of this ‘thought’ as some reality. Descartes built up
+from this bedrock the real world we live in. We can be sure we experience
+things and can apply logic and use thought. We can use this intellectual
+faculty to tell a great deal about our Universe.
+True Understanding
+In the QED lecture series, The Strange Thing about Light and Matter,
+Richard Feynman relates the story of the ancient Mayan astronomers.
+3000 years ago they were able to predict the motion of Venus in the sky
+using only pebbles. They had a simple system that could predict when
+the planet would rise over the horizon. Put a stone in the jar every day,
+take out a stone once a week, add a stone at every new moon. If the
+number of stones in the jar is divisible by 23, Venus will rise. I’m making
+up the details but you see the idea... It’s a very simple algorithm. What
+should we conclude if the Mayans had perfected their calculations to
+predict the motion of Venus and it proved reliable over a whole century?
+Would this constitute understanding?
+Feynman would say no: the Mayan understanding was not
+complete. It was only black box equivalent to our modern understanding
+over a limited period. We known that once the Sun begins to run out
+of fuel it will swell to a red giant and explode, destroying Venus and
+the Earth. Their model could not predict this catastrophic failure. Our
+modern deeper understanding of the workings of the solar system allows
+Understanding
+71
+us to predict this future even though there is no clue from the motion of
+Venus today. Understanding allows us to predict discontinuous events: a
+system changing its state or a star running out of fuel.
+We see the same predicament in stock markets. Stock markets
+normally behave in a linear fashion but, when they go wrong; they go
+very wrong. Recent recessions have been made much worse by the failure
+of hedging systems to handle market disruption. Some even think the
+crises were caused by the automatic trading strategies of these hedging
+systems.
+The quants – as mathematicians in banks are called – spend
+considerable effort modeling financial instruments to show that if one
+stock goes down, another will go up at the same time. If the stocks
+are held together your investment is safe because, on average they will
+remain constant. The problem with these correlations, which often hold
+reliably for many years, is that when trouble hits they fall apart. Historical
+correlations don’t give us understanding of the future: something that
+was only meant to happen once in a million years has happened within
+six months. As they say on your investment papers, past performance is
+no predictor of future results.
+Do Computers Understand?
+Today’s computers don’t have our general-purpose ability to understand.
+Watson was thrown off by badly formatted English. The human
+contestants, by contrast, had no problem with this. Just how good would
+Watson have to be, to call it – or should I say ‘him’ – intelligent? How
+could I judge this had happened? Alan Turing proposed an ingenious
+test in his 1950 paper Computing Machinery and Intelligence using ‘The
+Imitation Game.’ We now call the Turing Test.
+If we ask a series of questions to a computer and we cannot tell its
+responses from those a human would give, then the computer is, for all
+practical purposes, the same as a human. Since we are intelligent – or at
+least we hope we are – the computer must also be intelligent. QED.
+That’s all there is to the Turing Test. Puzzled? Let’s pick his argument
+apart.
+Imagine you are chatting away on Facebook with someone you
+don’t know. They may have posted a photograph so you can see what they
+look like. The photo might be a fake; you have no real way to tell. What
+question would you ask the other ‘person’ to prove they were human and
+not a computer? There are obviously some giveaway questions. Please
+multiply the numbers 342,321 and 23,294 and give me the answer. This
+72 Are the Androids Dreaming Yet?
+would be very hard for a human but easy for a computer. If you got a
+very quick answer; the computer would have given itself away. But, the
+computer has been programmed not to give itself away, and it is free to
+give the answer slowly or even reply that the calculation is too hard. Our
+computer can say anything it likes, including lying to pass the test! If the
+computer can fool a questioner into believing it is a human then Turing
+argued the computer has shown it is at least as intelligent as we are.
+It used to be assumed that the field of broad general knowledge
+would be hard for a computer, but Watson has shown this is not so. With
+enough storage and a reasonable algorithm, winning a pub quiz is well
+within the capability of a modern computer.
+The really difficult questions for a computer are philosophical ones,
+novel questions and things that don’t fall into a pattern. For example,
+“Are you happy?”
+“What do you think of Shakespeare’s Hamlet?”
+“Is there life after death?”
+“How went it?”
+“Think Differ…”
+If a computer could plausibly answer this sort of questioning for an
+extended period, say fifteen minutes, should we conclude it is intelligent,
+or do we need more time to be certain?
+Turing’s approach to certainty was simple. Just ask lots of questions.
+As you ask more and more questions, you will become increasingly
+certain you are talking to an intelligent being. He characterized it
+as a linear process; after 15 minutes of questioning you might be
+99% certain and after a few hours 99.9% certain and after a few days
+completely certain. The problem with this approach is it does not flush
+out discontinuities. What if the questioning suddenly stopped without
+warning or explanation? A human responder is likely to worry that the
+questioner has had a heart attack and do something to find out what is
+going on including leaving the room. Humans can make creative leaps,
+solve non-computable puzzles or come up with a clever new joke. A
+humans could even announce the test is a waste of time and walk off.
+They just exercised free will! A computer cannot do these things.
+Each year a group of scientists enters a competition run by
+Cambridge University to win the Loebner prize, a competition to see
+how close a machine can come to passing the Turing Test. If you can beat
+the test you win $100,000. So far no one has come close and scientists are
+beginning to realize just how hard it is.
+Understanding
+73
+New Yorker Cartoon
+With the anonymity the Internet provides we can imagine all sorts
+of strange scenarios if the Turing test could be passed. You would have
+no way of knowing what you were talking to. The New Yorker ran a
+cartoon back in 2000. “On the Internet no one knows you are a dog.” We
+come across a similar problem the other way around when we encounter
+bad customer support. A few years ago, while trying to get an answer
+to a computer problem, I became convinced the thing responding to
+my emails was a machine. The company did use machine responder
+technology so it could well have been. I asked it to prove it was human
+by putting the word marmalade into an English sentence and fixing my
+74 Are the Androids Dreaming Yet?
+problem. The human pretending to be a machine saw the joke, fixed my
+problem and replied “Marmalade is served with butter and toast.” The
+test worked!
+Uncannily not Human
+Understanding
+75
+The sister test in robotics is equally hard. The goal is to simulate the
+physical human form, its movements and mannerisms. It’s easy to get
+close, but close is not good enough. The term ‘Uncanny Valley’ has been
+coined to describe the discomfort humans have with something that tries
+to simulate a human being but does not quite get there. I think it is part
+of the reason Madam Tussaud’s waxworks are so fascinating. Humans
+have a love-hate relationship with facsimiles of themselves. They love
+the flattery but feel a sense of revulsion at anything that comes too close.
+Searle and Turing
+In the Turing Test, we limited our senses to the purely symbolic: using
+only typed words on a screen. I could break the lock on the door and go
+into the room to see what was there.
+“Aha!” I would say.
+“I can see you’re a computer, I, therefore, know you’ll be good at
+sums and bad at creativity.”
+But Turing wants us to see if the difference is given away purely
+through intellect. He argues there is no way to tell. But if you follow my
+argument from chapter 1, there is one way: ask the computer to find a
+non-computable solution to a mathematical puzzle. This is, in practice,
+a difficult test to pose because it might take a very long time. Twentyfive
+billion people have lived on planet Earth during the last 350 years,
+and about 5 million of them were mathematicians. None of them was
+able to solve the problem posed by Pierre de Fermat until Andrew Wiles
+turned up but this is a clear difference between humans and computers.
+However long you give a computer it would never be able to solve the
+problem.
+This creativity test would take centuries to run if non-computable
+thought was rare, but I think we see it often – on display even when we
+tell jokes. In which case computers and humans should be easy to tell
+apart: humans are the funny ones. I am not saying you can’t build a brain;
+our brains are physical devices, after all. I just believe a computer or a
+mechanistic machine, cannot think like a human being.
+I like the Searle argument but qualitative arguments are insufficient.
+We need a quantitative argument. In the forthcoming chapters, I am
+going to look at the mathematical argument underlying the difference
+between human intelligence and computer processing. Before we do this
+let’s take one last look at a qualitative difference; the way computers and
+humans communicate.
+
+Chapter 3
+BODY LANGUAGE
+& BANTER
+Body Language
+“England and America are
+two countries separated by a
+common language.”
+George Bernard Shaw
+“I speak two languages, Body and
+English.”
+Mae West
+“The body never lies.”
+Martha Graham
+In the summer of 1986 Ronald Reagan and Mikael Gorbachev met
+in person for their second negotiation session, this time at the
+Höfði House in Reykjavik. For five days, the leaders talked alone
+except for interpreters. Reagan badly wanted to develop the Strategic
+Defense Initiative; known by its nickname, ‘Star Wars’. The idea was to
+put smart weaponry in space that could destroy ballistic missiles before
+they reentered the atmosphere. Reagan believed this would remove the
+threat of imminent destruction that had hung over the world since 1945.
+Gorbachev, on the other hand, felt this was just another escalation in
+the Cold War, and the Soviet Union would be forced to build yet more
+weapons to overcome the American defenses. He wanted Reagan’s plans
+shelved, arguing that it broke the Anti-Ballistic Missile Treaty. He was
+probably right. The leaders talked back and forth, unable to overcome
+the impasse. At the end of the summit there was a mad scramble to
+announce some sort of deal, but this proved difficult. In the last moments
+before they had to conclude a communiqué, Reagan suggested they
+abolish all nuclear weapons. Reagan’s negotiating team was horrified and
+shut the door.
+For decades, the American strategy had been to use nuclear
+weapons as a deterrent against the apparent numerical advantage of the
+Soviets. In all the potential scenarios analyzed by the Pentagon, Russian
+forces ended up overrunning American forward positions – otherwise
+known as Western Europe! The only way to stop them was through a
+release of nuclear weapons, which, inevitably escalated to all-out nuclear
+Ronald Reagan and Mikael Gorbachev
+80 Are the Androids Dreaming Yet?
+war. It was assumed this inevitable progression deterred the aggression
+in the first place, and the threat of mutually assured destruction kept the
+world peaceful. Giving up this tenet of defense strategy was something
+the American military just could not contemplate. Many people did not
+think it a rational defense strategy; it seemed appropriate the acronym
+for mutually assured destruction is MAD, but this was the status quo.
+We now know our worry over Russian superiority was groundless.
+The West’s technological advantage, founded on the invention of
+computing and sophisticated materials technology, gave us a huge
+advantage. In the only battle to be fought in the 20 th century between
+Russian and Western tanks, during the first Iraq war, most of the Russian
+tanks were destroyed with no losses to American tanks. We know this
+now, but we are talking of a time when paranoia over the Soviet advantage
+was the common view.
+There is speculation that Reagan had muddled intercontinental
+ballistic missiles with all nuclear weapons. I do not think this is true.
+Reagan was a man of vision, quite comfortable with using his folksy way
+to convey sincere belief, and I think abolishing all nuclear weapons was
+in his mind. It would have been a breathtaking moment.
+In the end a rather feeble communiqué was put together and the
+talks declared a technical failure. But, both leaders had seen eye-to-eye;
+both were prepared to make major concessions and both wanted an end
+to the old strategy of mutually assured destruction. Wiping each other
+out was no longer considered a successful outcome! The meeting, and
+Höfði House in Reykjavik
+Body Language & Banter
+81
+the fundamental thawing of relations between East and West, was to lead
+to the Intermediate-Range Nuclear Forces Treaty and the end of the Cold
+War.
+Face-to-Face Communication
+What really happened between these two leaders when they met and
+talked? Was it a mechanical process of offer and counter-offer, as easily
+executed by fax, or is human interaction more complex than this?
+Reagan, as a young man, had been a liberal, sympathetic to socialist
+ideals until a painful strike in California caused him to lose faith in the
+politics of the left. Gorbachev, a lifelong Communist, was desperate to
+reform the Soviet economy and make it more competitive. He, also, had
+come to see the hypocrisies that could emerge in far left-wing ideology.
+I don’t believe this common experience could have been communicated
+by fax or email. Indeed, I am sure these specific points were never made,
+but the nonverbal communication must have conveyed something of
+their common background and purpose.
+When we phone someone or exchange emails, the interaction is
+factual, there is no body language, and we rarely laugh. When we travel
+to meet someone, we spend a great deal of time with them. The average
+length of a phone call is two and a half minutes, but meetings, especially
+when one party has travelled to see the other, can be hours long. When
+humans meet they greet each other, shake hands, sit in the same room,
+talk at length, and laugh. Body language is important; people mirror
+each other’s postures, adopt open and receptive stances, and make
+eye contact. You can see this in the picture of Reagan and Gorbachev
+above. Body language allows us to convey qualitatively different things,
+such as trust and happiness. It is very expressive; you can see the more
+guarded postures of Yasser Arafat and Shimon Pérez below, just after
+they negotiated a landmark peace deal. Can you tell if the leaders smiles
+are false?
+Communication
+Communication is one of mankind’s greatest expenditures. The US
+telephone system is arguably the largest machine on the planet, while
+the world’s mobile phone networks have a capital value of $2.5 trillion,
+greater by an order of magnitude than all the steel plants in the world put
+82 Are the Androids Dreaming Yet?
+Yasser Arafat and Shimon Pérez
+together. This lifeblood of our existence – long-distance communication
+between human beings – turns out to be amazingly difficult, even with
+all our clever technology.
+In recent years the Internet has, in theory, allowed each and every
+person to communicate freely with any other person on the planet.
+In some of the most distant parts of the world mobile phones, and
+projects such as; ‘One Laptop per Child’ are rapidly bringing unlimited
+communication to all. This communication can be personal, one-to-one,
+or broadcast: I can talk to people interested in a particular topic directly.
+As we watch the Arab world democratize, catalyzed by the Internet, there
+is no question that digital communication has now become a major force
+in the world. Yet, people don’t communicate over the Internet as much
+as you would expect; they often use the Internet to set up phone calls
+during which they arrange meetings! This is odd. We have a fantastic
+phone system and sophisticated communication technologies; email,
+video and instant messaging. Yet, we still choose to travel when we want
+to communicate.
+On the face of it, there should be no difference between a phone
+call and a meeting. In principle the same information can be conveyed.
+Yet when we want to really understand someone, we always go to meet
+Body Language & Banter
+83
+Smiles Fake or Real
+in person. No great treaty or big industrial contract has been negotiated
+without a face-to-face meeting. We see this daily: people talking on the
+phone get to a certain point, give up, and arrange to meet in person.
+The consequence is that we spend $550 billion annually, flying
+around the globe to meet each other. Each day the world’s population
+takes three million plane flights. Around 80% of these are business
+flights. Some are people emigrating or going to do specific manual tasks,
+but most are to have meetings. We have always assumed that this is
+because the parties are unable to reach a sufficient level of trust over the
+phone and need face-to-face interaction to build that trust, but it may
+be that the parties are not able to convey sufficient information to fully
+understand each other. Face-to-face meeting may convey much more
+information than we think.
+84 Are the Androids Dreaming Yet?
+Smiles
+When we smile naturally we use a full set of facial muscles, including the
+muscles around our eyes. When the smile is forced those eye muscles
+remain passive and the smile, although superficially the same, is missing
+something. You can’t put your finger on it, but the look is insincere. A
+study of marriages in the USA analyzed smiles in wedding photographs.
+The couples with false smiles divorced much earlier than the genuinely
+happy couples. Similarly for high school photos; people with genuine
+smiles at 18 years of age were happier later in life and in more stable
+relationships. Smiling is really important. It is good to be around people
+who smile, they are more successful – and nicer.
+There is also a curious reverse effect. The link between our minds
+and bodies is much more fundamental than we thought. If you grasp a
+pencil between your teeth, it forces you to smile. Try it. The mere act
+of smiling is found to make you happier, it causes the release of the
+chemicals called endorphins which improve your feeling of well-being.
+Micro-expression Analysis
+Since the involuntary movements of the muscles around our eyes give
+away genuine happiness, a whole science has evolved looking for other
+biological cues to mood. The two most interested groups are the FBI,
+trying to detect lies, and poker players, trying to make money! Much has
+been written on the topic, including a few best sellers, but the evidence
+for micro expressions is mixed. Regardless of whether involuntary
+actions give away our emotions, humans voluntarily use a great deal of
+body language when talking.
+Body Language
+A study by Albert Mehrabian is often cited to say 93% of the information
+in a conversation comes through nonverbal cues. This is misquoted.
+The study really stated 93% of the emotional content is nonverbal.
+That’s more believable. And further studies have shown when there is
+doubt, nonverbal cues win over verbal information every time. The rule
+is sometimes laid out as the 7%-38%-55% rule – 7% words, 38% tone
+of voice and 55% body language. Remember this is emotional content,
+your conviction and sincerity. You will still have to get over the factual
+information you want to convey.
+Body Language & Banter
+85
+Learning Swedish with The Two Ronnies
+Try this experiment on a friend. Tell them you like their shirt using
+different tones of voice: sarcastic, sincere, amazed. Then see what they
+understood. You will find it difficult to appear sincere because I have
+told you to say you like their shirt – unless of course you really do. When
+you use sarcasm they will find it hard to process your statement. It is
+revealing how we use the information.
+Interestingly, a piece of research described in Scientific American
+shows even insincere flattery is effective. If you want a pay rise from your
+boss, any form of flattery will do. Vanity appears to override skepticism!
+Interaction
+The normal cadence of communication between people includes a great
+deal of mutual interruption. When a meeting breaks down we often see
+people begin to say things like, “Please don’t interrupt me,” “Do you
+mind, I was talking,” “Pleeeease, let me finish.” If the meeting is really
+getting out of hand, third parties will often step in and tell one to wait for
+the other. This is where the mechanics of face-to-face interaction fail, as
+we need to interact in order to communicate effectively.
+Because we have a lot more time in a face-to-face meeting people
+can wander ‘off topic’. This is an important part of the process of
+communicating. After all since most phone calls are 2-3 minutes and
+86 Are the Androids Dreaming Yet?
+most meetings an hour, there are another 57 minutes to fill! These off
+topic items bring in social experience and help us form the background
+context we need to properly communicate.
+What is Background Context?
+Alex and Bella are both fans of the British comedy duo, the Two Ronnies,
+and enjoy their learning Swedish sketch. Bella asks Alex what kind of
+sandwich he wants for lunch. Alex replies ‘M’. Bella laughs. If you have
+seen the sketch you will understand the background context to the joke.
+If not this paragraph might as well have been in Swedish. Take a look at
+the sketch on YouTube and reread this paragraph... Now you understand.
+Do I think in English?
+Most scientists believe we think thoughts using language, but most
+scientists writing about thought are linguists or psychologists. If you are
+a dyslexic engineer like me, language is a long way down the processing
+chain. I think abstractly and then translate those thoughts into words.
+Some ideas don’t map between languages and often, one language adopts
+the words of another to fill in the gaps. Some interesting examples are:
+Zeitgeist
+Schadenfreude
+Chutzpah
+German, spirit of the times
+German, enjoying others misfortune
+Hebrew, audacity
+All of these are fully signed up, card carrying entries in the Oxford
+English Dictionary.
+Some languages have fewer distinctions between ideas: truth and
+law are the same word, ‘torah’, in Hebrew. Languages have different
+tenses and structure. In Chinese all words are one syllable and the script
+is pictographic rather than phonetic. This is unusual, even Egyptian
+and linear-B, which look pictographic are mostly phonetic. With single
+syllable words, Chinese uses voice inflection to change meaning; a rising
+or falling tone can change the meaning of a word from ‘grey’ to ‘girl’.
+In many Western languages rising voice inflection is used to indicate a
+question, as in Australian English or irritation, as in English English. So
+how do the Chinese show if they are annoyed or want to ask a question?
+They elongate their words and accentuate the changes in intonation.
+An argument in Chinese can sound quite alarming to the Western ear,
+with its percussive monosyllables and extreme inflection changes. This
+Body Language & Banter
+87
+degree of inflection is used in English, but only in extreme emotional
+contexts: A Chinese argument over cold tea can sound like an accusation
+of murder to a Western ear.
+Symbolic Communication
+The earliest recorded permanent human communication is cave
+painting, dating to 33,000BCE. Written communication emerged in
+Sumer, the southern part of Mesopotamia (now Iraq), using a script
+called Cuneiform, written on clay tablets. It was used primarily for
+accounting. The Sumerians are responsible for our common use of base
+twelve. Twelve hours in a day, inches in a foot, and notes in the scale; all
+stem from their civilization.
+Although not the first to write stories, the Greeks perfected the
+dramatic forms we use today: poetry, prose and plays. Watch an episode
+of ‘Law and Order’ and you are seeing a direct descendant of a Greek
+tragedy, complete with suffering and justice denied. All this permanent
+thought art is made possible by the translation of ideas into symbols.
+Scripts and Symbols
+The world supports a huge variety of scripts split roughly into phonetic,
+representing the component sound of words, and pictographic, stylized
+pictures of the ideas.
+Chinese Traditional and Simplified
+Some scripts have interesting quirks. Ancient Hebrew, although
+phonetic, is a script where vowels are omitted. Modern Hebrew often
+leaves them out as well. This means words can be ambiguous and need
+context to decipher them. A common set of Chinese characters has long
+been used by Mandarin, Cantonese, and Japanese speakers even though
+88 Are the Androids Dreaming Yet?
+their spoken languages are entirely different. The script languages of
+these people are gradually diverging and might in time become entirely
+separate languages too.
+The Chinese government in Beijing has moved to using simplified
+Chinese for Mandarin speakers, while Hong Kong continues with the
+traditional form. Japanese has developed many new characters for
+modern ideas, such as computers, that differ from the Chinese, and mixes
+in a great deal of Katakana, a script allowing the phonetic representation
+of foreign words. If you walk around these countries their signage looks
+quite different, although I am told Cantonese speakers can still read
+Body Language & Banter
+89
+simplified Chinese. Take a look and normally you will find them to be
+quite different. Each example in the figure is my best attempt to translate
+the phrase “Hello Reader” into a script and the corresponding language.
+Symbols of the World
+English is one of the most irritating script languages of all. It commonly
+uses etymological elements, showing the history or origin of the word
+that has nothing to do with the sound of the word. A word like school
+has the ‘k’ sound spelt ‘ch’, showing its historical derivation from the
+Greek, but confusing for pronunciation. English has 53 sounds derived
+from only 26 letters, so there are plenty of letter combinations, many of
+which are irregular. Because the language favors historical convention
+over simplicity, sugar is pronounced “shu-gar” whereas sand is strictly
+phonetic. As for Leicestershire I’ll leave that as a test for the American
+readers amongst you. If you’re British, try Mattapoisett, a town in
+Massachusetts named in Native American.
+Yet English is also a ‘lovely’ language. Because of its richness there
+are often twenty different ways to say something, and a dozen words
+to choose on any topic. One of my own favorite words is ‘jump’. It is
+phonetic, but also onomatopoeic and even pictographic. Jump both
+sounds like a jump and looks like a jump.
+Two scripts that puzzled scholars for many years are Linear-b and
+Hieroglyphics. Linear-b – found on clay tablets on the Island of Crete –
+turned out to be a coded form of ancient Greek with some slight quirks,
+such as dropping the letter ‘s’ from the ends of words. The ‘s’ is superfluous
+in most Greek words, and dropping it saved precious clay space!
+Hieroglyphics was a real puzzle. It looks so like a pictographic
+language that it fooled many people for centuries. The Rosetta Stone was
+discovered in 1799 and became the key to their deciphering. This stone
+had the same edict written out in 3 languages – Greek, Egyptian and
+Demotic. The French adventurer Jean-François Champollion decoded
+hieroglyphics in 1822 and although it looks pictographic, it was found to
+be predominantly phonetic. Linear-a, another script found on the Island
+of Crete has yet to be decoded and remains one of the world’s greatunsolved
+mysteries.
+All these different ways to code ideas into symbols present the
+children of the world a great learning challenge. Because written language
+is so young, in evolutionary terms, our brains have not had enough time
+to evolve to master it. Instead words co-opt parts of our brains originally
+90 Are the Androids Dreaming Yet?
+evolved for different purposes. As languages differ in their construction
+they co-opt different bits of the brain. It is possible to see this using brain
+imaging.
+Dyslexics – and I am one – have difficulty in translating between
+the realm of conceptual thought and written script. This translation is
+subtly different for each language. Chinese speakers use their motor
+cortex to process characters. Young children write out the characters
+over and over, to memorize them, so the ‘muscle’ memory is highly
+involved. French and Spanish children use the audio pathways, as most
+of their language is phonetic, the motor part of writing is then an addon
+and does not process meaning. English children must use portions
+of their visual cortex to process the meaning of words, as many words
+have spelling quirks that have nothing to do with the sound of the words.
+Some studies even suggest a child dyslexic in one language, because, for
+example, their audio pathway is impaired, might not suffer the condition
+in another language that relied on a visual or motor skill.
+Can Objects Communicate?
+The process of communication has many components, starting with
+something capable of communicating. Communication usually –
+perhaps always – is something that occurs between sentient beings. I
+don’t think of my computer as communicating with me, but rather think
+of it as a medium for communication or a dumb machine. But colloquial
+language around the subject is a little muddled. We all agree a lighthouse
+does not communicate, even though it can signal danger, but what do
+we mean when we say, “That song really spoke to me.” No one believes
+the song is actually communicating, but some kind of communication
+was made nonetheless. When we talk of communication do we mean the
+agent or the message?
+Stories
+Humans enjoy communicating; we create works of art, music and
+literature that transcend simple analysis. The COIN dynamic slide,
+which we saw earlier detailing the strategic situation in Afghanistan,
+would probably have been better communicated with a story. Humans,
+unlike computers, do not cope well with large quantities of unrelated
+information, and studies of memory and comprehension show we
+Body Language & Banter
+91
+benefit from a narrative structure. Let me give you a basic example. One
+simple trick the human brain uses is chunking. Give yourself a moment
+to try to learn this string of characters.
+HALTNTIBMGTATLAMATLOLPOMSGTG
+TRY TO MEMORIZE THE STRING WITHOUT READING ON
+Now, if I divide it into chunks, you will see it includes meaningful
+information.
+HAL TNT IBM GTA TLA MAT LOL POMS GTG
+You probably won’t recognize all the acronyms unless you are
+under 10. Even then, you will find memorizing it hard, but if you put the
+sequence into the context of a story then it is much easier to learn.
+HAL uses TNT to blow up the IBM building in Grand Theft Auto.
+“Three Letter Acronyms are annoying,” says MAT. I’m Laughing Out
+Loud; Parents Over My Shoulder. Got To Go.
+We find it easier to fit new information into existing structures
+within our brains rather than memorizing by rote. I’ve used quite a
+bit of modern Internet slang here. You’ll find young people recall this
+information better than older people for whom GTG and POMS are
+nonsense.
+If you want to memorize something, experts recommend you
+imagine bizarre images and relate them to a story pictured in the mind’s
+eye. Try it and you may very well find you can still remember my sentence
+in ten years time!
+Let’s try something else. The following sentences are a little different,
+yet the recall scores for information in the two are dramatically different:
+1. I met an old tramp on 42 nd Street wearing a dirty grey rain coat.
+2. New York on a cold damp November day; as I cross the street
+I bump into an old man wearing a dirty grey Macintosh. His
+shuffling gait suggests some sordid intent. I think nothing of it,
+but this brief meeting was to change my life.
+92 Are the Androids Dreaming Yet?
+The addition of contextual cues allows you to form a mental picture.
+By withholding some information at the end I have used a dramatic trick
+to cause your brain to free wheel and imagine what happens next. You
+are involved in the story. Notice the longer story, with more data in it, is
+paradoxically more comprehensible and memorable.
+Ed Tufte makes the point about our ability to process information
+very forcefully. He believes presentation experts are wrong when they
+recommend you keep your slides to a few words! He points out the
+common advice to use only six bullets per slide and six words per bullet
+comes from a misconception that has blighted a generation of presenters.
+Studies performed on memory in the 1960s measured unrelated word
+recall. Six words are all you can remember if the words are meaningless.
+But if the words have meaning we can comprehend and absorb many
+pages of data. Hundreds of millions of people throughout the world read
+a newspaper every morning and can recall the stories throughout the
+day; the poems, songs and plays we memorize when young are usually
+long, comprising thousands of words, yet we are able to remember them
+verbatim for the rest of our lives.
+When we tell a story, we are trying to draw the reader in so they
+can to experience our imaginary world and be ‘in’ the story. When I read
+a story – perhaps Harry Potter – I don’t think about the grammar and
+punctuation, or even the accuracy of character portrayal. I’m transported
+to a different place. I experience a piece of the reality or ‘imaginality’
+the storyteller has created. I can describe the characters, the scene, the
+sounds and the smells. A good author forms a complete world in our
+heads corresponding with the world they have in their heads. With more
+abstract information, comprehension and retention is harder. Often if
+the information does not hang together in a linear narrative it can be
+impossible to take in at a single sitting. However, if it forms a story and
+is well told so you ‘get it’, you do not need it repeated. We experience
+something of this effect when we watch a good movie. “I’ve already seen
+that one,” means you have absorbed the whole story in a single sitting.
+You don’t need to watch it over again to comprehend it.
+Comedy
+Finally, when you mix all the elements up, emotional understanding,
+body language, in-person communication and empathy; you get comedy.
+Humans ‘do’ comedy from a very young age and it’s vitally important to
+the fabric of our lives. What purpose comedy serves in communication
+Body Language & Banter
+93
+My XBox is Broken
+The One Ronnie
+Dead Parrot Sketch
+Monty Python
+Gerald the Gorilla
+Not the 9 O’Clock News
+Fork Handles
+The Two Ronnies
+Andre Previn
+Morecambe and Wise
+Self Defense Against Fruit
+Monty Python
+is not clear. In life, telling a joke will make another person smile. This
+causes people to be happy and happy people release chemicals into their
+bloodstream which make them healthier. Happy people then tell jokes
+to others. This circular process improves the well-being of communities
+and helps bond people together. But why on Earth did comedy evolve to
+be the mechanism that does this?
+Comedy may be an important way to avoid an argument when
+context is unclear. Much of what we say can be taken the wrong way.
+Simple communication of fact can sound like criticism or challenge, and
+94 Are the Androids Dreaming Yet?
+humans are naturally hierarchical – not unlike packs of dogs or beached
+walruses. Humor allows us to test the response of others to statements,
+which might otherwise be taken the wrong way. Something said in a
+‘jokey’ tone of voice may not generate a negative response, even though
+the raw content might be quite provocative. “Ah, late again I see…”
+It is worth taking a look at some great comedy sketches because
+they bring home the richness of human interaction. Here are some of my
+favorite links as an antidote to the heavy-duty mathematics I am about
+to inflict on you.
+The World’s Funniest Joke
+Two hunters are out in the woods when one of them collapses. He
+doesn’t seem to be breathing and his eyes are glazed. The other guy
+whips out his phone and calls the emergency services. He gasps, “My
+friend is dead! What can I do?” The operator says, “Calm down. I
+can help. First, let’s make sure he’s dead.” There is a silence, then a
+gunshot is heard. Back on the phone, the guy says, “OK, now what?”
+Spike Milligan, from The Goon Show
+I think comedy is a fitness display. It demonstrates to those around
+us – particularly of the opposite sex – that we can be creative and use
+non- computable thought processes, just as dancing is a fitness display of
+our agility and coordination. When we tell a joke we are showing others
+we can ‘think outside the box’, a valuable survival skill.
+At a simple level it has been proven that animals with the ability to
+behave randomly escape being eaten more often than animals that follow
+a pattern. Non-computability is the ultimate behavioral randomizer
+since it is not an algorithm and cannot be copied. The ability to take
+non-computable thinking to its logical conclusion to create and invent
+has clearly taken off for humans.
+Of course, another explanation might be that making people happy
+is fun. People like to be around other fun people so humor encourages
+crowds to form. If a saber-toothed tiger attacks you, and you are in a
+crowd, you’re more likely to survive. You only have to outrun one
+member of the crowd!
+Chapter 4
+THE BRAIN
+Baby EEG
+“The brain is a wonderful organ;
+it starts working the moment
+you get up in the morning and
+does not stop until you get into
+the office.”
+Robert Frost
+“The brain looks like nothing
+more than a bowl of cold
+porridge.”
+Alan Turing
+Physically the human brain is very boring. Alan Turing described it
+as looking like a bowl of cold porridge. To get to the porridge you
+must first cut through the skull, a two-millimeter thick protective
+layer of bone. The adult human skull has almost no gaps in it, and the
+only ways into the brain without a bone saw are through the eye sockets
+or the soft area of bone at the back of the nose. Egyptian mummies had
+their brains removed through the nose and preserved in a jar for the
+afterlife!
+Thinking with Porridge
+Protecting the brain is very important and the skull does a good job
+by being a tough, impenetrable barrier. But sometimes this toughness
+backfires. In 2009, Richard Hammond, one of the presenters of the TV
+motoring series Top Gear, suffered a crash while testing a land speed
+record-breaking car. Although he was in a multipoint harness, the
+crash, at over 200 miles per hour, bounced his helmeted head around
+the inside of the cockpit and his brain was badly bruised. As you know
+from experience, when you bruise you get swelling, and the brain is
+no exception. However, the brain is encased in bone, so this swelling
+has nowhere to escape. The resulting buildup of pressure is dangerous,
+causing an interruption of blood supply to the un-bruised parts. Brain
+damage in such accidents is often fatal; Richard Hammond was very
+lucky to live through the experience.
+Surgeons often need to cut into the skull to relieve pressure on
+the brain, or to gain access to remove tumors. Going through the scalp
+involves a great deal of blood, but once you have a clean hole in the skull
+you can peel back the thin membranes, called the meninges, to reveal a
+wrinkly folded whitish thing that looks a bit like a cauliflower. This is the
+outer surface of the brain where much of our thinking is done. Unfolded,
+this surface layer would cover the area of a football field and this intense
+folding distinguishes the human brain from the brains of simpler animals.
+Some animals, such as elephants and dolphins, have larger brains than
+ours, but the area of their folded surface is considerably smaller. It is
+thought that this efficient folding is key to giving us the ability to think
+complex thoughts.
+Analysis of Einstein’s brain held at Princeton University shows it
+is not particularly massive, but it is strikingly more folded than average,
+and has a shorter lateral sulcus – the fissure between the front and back
+98 Are the Androids Dreaming Yet?
+Einstein’s Brain
+of the brain. Whether this is related to his highly creative thinking or just
+random chance is unknown, but it’s an interesting data point in our quest
+to understand creativity and intelligence.
+Looking through a microscope, the wrinkly grey matter is composed
+of 30 trillion neurons; small whitish cells sprouting filaments that wrap
+around each other like the tentacles of an octopus. The tentacles, and
+there can be as many as 10,000 per cell, are known as dendrites and spread
+out to nearly touch other neurons. At the other end of the neuron is a
+single axon. The gaps between the end of an axon and the next neuron’s
+dendrites are called synapses, about one-tenth of the width of a human
+hair and varied in structure. When a nerve ‘fires’, an electrical pulse
+spreads out along the axon to the end and crosses the synapses to other
+brain cells. This electrical pulse is not like the flow of current in a wire:
+neurons don’t conduct electricity. It is more akin to dominoes falling in
+a line. Ion gates in the walls of the neuron open, letting potassium ions
+flow out. As the gates open in one section, the next section is triggered
+and so on. Thus, electrical signals ripple out along the axon. As the
+electrical signals cross the synapses they either excite or inhibit the firing
+of adjacent neurons. There is a lot more structure to a neuron than was
+once thought. The textbook model is of a sequence of ion sacks stacked
+end to end rather like plant cells, but neurons have a far more complex
+structure. Bundles of actin and tubulin form a skeleton in the neuron and
+the neuron metabolizes ATP to recharge its firing mechanism. Neurons
+behave far more like small animals than inanimate plant cells.
+The Brain
+99
+The wiring of our brain looks a bit like the logic circuits of a
+computer, and our best guess is the cells in our brain form some kind of
+computer. The brain cells – a specialized form of nerve cell – connect to
+the rest of the body via the nerve cells that largely run down our spine.
+Thoughts trigger action and, in reverse, the nerves in our extremities
+sense things in the environment and relay information back to the
+brain. If I think, ‘move my finger’ my finger will move, and if it touches
+something I will feel the sensation. Interestingly if my finger touches
+something hot a reflex will kick in. Reflexes work without involving the
+brain. We don’t have to think, “that hurts.” Instead, our finger reflexively
+pulls away. We may say ouch, but by the time we do, our fingers already
+moved away from the heat.
+Nerve cells are much slower than the electronic systems we build
+with copper and silicon. This speed is quite noticeable and limits the
+rate we can do certain things. It takes around 0.08 seconds for a nerve
+impulse to run down to the tips of our fingers, initiate an action and
+return to give us the sensation of the action. This may sound fast but if
+you’re a tennis player in a rally or a pianist faced with a fast passage, the
+nerves don’t have time to make a full round trip signal before the next
+action must be initiated. In these instances we need to run on autopilot
+and there are parts of the body where the nervous system takes action
+without the brain getting involved. This is particularly the case with
+things like walking and balance, which must respond fast to changes in
+ground conditions. The signals just don’t have time – and don’t need – to
+go all the way up to the top of the body for instructions. Rather like the
+heat reflex above, the peripheral nervous system can process information
+locally. After all, brain cells and nerve cells are really all one type of cell.
+If you have a group of people, you can conduct a fun experiment
+to show the speed of nerves. Hold hands in a big circle and squeeze the
+hand of the person next to you. When they feel you squeeze, they should
+squeeze the next person’s hand and so on. The rate at which people
+squeeze hands around the circle is limited by the speed at which nerves
+conduct the signals across our bodies.
+Imaging the Brain
+There are several ways to look inside the brain without recourse to a bone
+saw. The methods are fascinating in their own right, even before we start
+looking at the results. Each image is generated using a different physical
+principle.
+100 Are the Androids Dreaming Yet?
+X-rays
+The first Nobel Prize in Physics was awarded to Wilhelm Röntgen in
+1901. He had discovered ‘X’ rays; so called because he had no better
+name for them. X-rays, as they became known, are just light of a very
+high frequency.
+Light comes in a variety of colors; at the low end of the frequency
+scale we see red, higher up blue and, at the top, violet. At this point
+human eyes give up and cannot see anything higher, so ultraviolet
+light is invisible to us. Bees, on the other hand, can see a long way into
+the ultraviolet spectrum and some flowers have beautiful ultraviolet
+markings that attract bees for pollination. Daylight contains a great
+deal of ultraviolet light which is wasted on us – other than to tan our
+skin. But all is not lost. Clever manufacturers put fluorescent dyes
+into their washing powders which stick to our clothes and convert
+ultraviolet into visible light, making our T-shirts look brighter as they
+reflect more visible light than fell on them. You can see this effect most
+easily in a disco when ultraviolet lights are shone on the dance floor
+and anyone wearing a newly washed T-shirt will glow bright white. The
+other common substance that fluoresces strongly on a dance floor is
+tonic water. Quinine, the active ingredient in tonic water, is a strongly
+Flowers in Ultraviolet Light
+The Brain
+101
+Pit Viper
+fluorescent substance which converts ultraviolet light down into the
+visible spectrum. Photoactive dyes have recently become controversial
+as suggestions have been made that they are unsafe and irritate the skin.
+Going to discos might not be quite as fun in the future!
+Thermal Imaging
+102 Are the Androids Dreaming Yet?
+At the bottom end of the spectrum is infrared light. Pit vipers have
+evolved special organs on the sides of their heads to ‘see’ in this spectrum
+and they use this sense to hunt prey in the dark. I use the word see with
+some caution. We have no idea what their sensation of ‘heat-sight’
+involves, but their organs are very precise, able to detect things only 0.2
+degrees warmer than the background.
+Infrared cues help several species of snakes, bats and insects locate
+things in the dark, but the animal that excels at the task, albeit using
+technology, is mankind. Special cameras allow us to use infrared to see
+in the dark or detect where our houses lose heat.
+X-rays are much higher in frequency – about one hundred times
+that of the ultraviolet light that affects our T-shirts. The high frequency
+corresponds to a small wavelength that allows the rays to pass through
+our bodies. Later on in the book we will understand that frequency is not
+a proper explanation for light, as it is not a wave but rather a particle that
+obeys the laws of a wave. But for now we will ignore this detail.
+The first use of X-ray images was to see broken bones. Bones block
+the rays as they are dense, but the soft parts of our bodies are almost
+completely transparent to X-rays. We can see the soft tissues if we turn
+the contrast up, but there are problems when using X-rays to view the
+brain. Our skull completely encases the brain and however much we turn
+the contrast up, all we see is bone. The solution to this problem is to
+perform sophisticated mathematical tricks using a computer to enhance
+the contrast ratio and make image ‘slices’ through the living head.
+The slicing technique was invented independently in the 1970s
+by Sir Godfrey Hounsfield, working for EMI in England, and Allan
+Cormack, of Tufts University in America, and they shared the 1979
+Nobel Prize for Medicine for their work. Legend has it that EMI was
+making so much money from The Beatles they could fund the enormous
+development cost of the CAT scanner from the profits; true or not, it’s a
+great invention.
+The best way to understand the mathematics is to picture yourself
+in an episode of ‘CSI’, the American television crime drama. An intruder
+has attacked someone with a knife and there are blood spatters all over
+the walls of the room. Enter the brilliant pathologist who reconstructs
+the scene of the crime from the pattern of blood on the wall. She can map
+the trajectory of the blood spatters and back-calculate that the attacker
+must have been 5’ 4”, left-handed and wielding a 6” blade. In a CAT scan,
+our head is hit with billions of rays that bounce and scatter over the walls
+of the machine. Sensors detect the rays and a mathematical algorithm
+calculates an image of the body that would produce such a pattern. To
+The Brain
+103
+X-ray of Roentgen’s Wife’s Hand
+simplify things we shine the X-rays onto the head as a narrow slit of light
+so we only have to do the back calculation in two dimensions. Then we
+stitch successive slices together in the computer to form a 3D virtual
+image. Thus, doctors can ‘fly’ through the brain looking at structures
+such as tumors from all angles.
+104 Are the Androids Dreaming Yet?
+There are two problems with X-ray imaging. Even with clever
+mathematics, the dense bone in the skull blocks the rays so you don’t get
+much contrast, making it hard to distinguish normal brain matter from
+something like a tumor. But the bigger concern is X-rays are a form of
+ionizing radiation, and ionizing radiation causes cancer.
+We are told to wear sun block to protect our skin from ultraviolet
+light; X-rays are 100 times more potent and can do a great deal of damage.
+Fortunately, the body repairs itself quite well in the presence of low levels
+of radiation. The double part of the double helix in our DNA allows a
+set of proteins in our cells to go around correcting errors when they
+detect a mismatch between the two strands. But, now and again an X-ray
+might make an irreparable fault in both copies. If enough of these faults
+accumulate, they can lead to cancer or, if the errors are in reproductive
+organs, birth defects. Doctors try to minimize the radiation we receive
+and give us as few CAT scans as possible during our lifetime, especially
+when we are young and have not yet had children.
+MRI
+X-rays dominated our ability to see into the human body until the
+mid-1970s when Raymond Damadian came up with the idea of using
+magnetism. Magnetic fields are not absorbed by bone and present
+no danger as they do not damage DNA. Ironically, the technique was
+originally known as Nuclear Magnetic Resonance, ‘NMR’, which patients
+thought must be dangerous because of the word nuclear. The name was
+Functional MRI: Working Memory
+The Brain
+105
+Diffusion Tensor Image
+changed to the one we use today: Magnetic Resonance Imaging, ‘MRI’.
+The system works by applying a strong magnetic field to your body to
+excite the hydrogen atoms. Since we are mostly H2O there are plenty of
+these.
+Three magnetic fields are used. First, an extremely strong field is
+applied to the whole body. This causes all the hydrogen atoms in the
+water and fat to spin in line with the field of the machine. Next a gradient
+field is applied to the top of your head so it is slightly more magnetized
+than the bottom of your feet and, finally, a pulse of magnetism is applied
+to the top of your head. The spinning hydrogen atoms line up a little
+more when this pulse is applied and then randomize again when it is
+switched off. As they randomize, they give off energy. The clever part is
+the gradient field which causes the atoms to give off energy at slightly
+different times – the top of your head first, your neck a fraction of a
+106 Are the Androids Dreaming Yet?
+fMRI
+second later, and so on down to your feet. What you see at any one time
+is a slice through a specific section of the body. You can then build up 3D
+images from these slices and look at the soft watery tissue rather than the
+hard bone you can see with an X-ray.
+MRI scans give detailed images but today there are many more
+imaging tricks you can play. Give the patient gadolinium to eat – a type
+of paramagnetic material – and this contrast agent will highlight active
+parts of the brain. You can ‘see’ which parts are active: the location of
+emotions such as love, joy and even the effect of smells as the brain
+experiences things. This is still coarse grained information; it shows only
+the general area of excitation and it does not tell us what is going on at
+the nerve level, but the images are fascinating.
+Another recent development in imaging is the diffusion MRI. If you
+remember your school physics, molecules travel with a random walk:
+they diffuse along pathways just as people wander along a corridor. If the
+corridor is full of people, they are jostled around and make little progress.
+If the corridor is empty, they move in straight lines. This difference in
+jostling affects the reading in an MRI and allows you to color code the
+image according to the rate of motion of water along the pathways. You
+can therefore ‘see’ the rate at which signals flow in the brain and not only
+locate thoughts, but also see the links between them.
+The Brain
+107
+Functional PET
+PET
+The last scan we will look at is functional positron emission tomography,
+or f-PET. In this machine the scanner detects positrons given off by
+excited oxygen atoms.
+As you think, you burn glucose by combining it with oxygen.
+The parts of the brain that are thinking hard use a great deal of oxygen
+and this shows up in scans. Again the consecutive slice trick is used to
+generate a 3D image that allows you to fly through the brain as it works
+on a problem.
+There is one problem common to all these methods. X-rays, MRI
+and PET scans only show us the location of thoughts with an accuracy
+of a few millimeters. Each pixel in the image contains around 10 million
+neurons, so we can’t see the details of thought. For a scale comparison it
+108 Are the Androids Dreaming Yet?
+is like looking at a car factory from space. You can see cars and people
+going into the factory but you can’t read the owner’s manual. We need
+to be able to see at least 10 million times more detail than our current
+technologies allow to see a thought.
+A Quick Tour
+Now that we understand how to look inside the brain, let’s take a tour
+around it. The brain is a highly distributed thinking machine. Some
+things, such as hearing, are located in specific places while others, like
+the enjoyment of music, are spread out.
+Our eyes work as an extension of the brain and use a specialized
+type of nerve cell. Light falls on the retina and stimulates these cells,
+causing nerve impulses to run along the optic nerve into the center of the
+The Brain
+The Brain
+109
+Visual Processing System
+brain. The impulses split and form two distinct paths, one through the
+cerebral cortex, which gives us the sensation of conscious vision, and the
+other into the lower brain which provides us with instinctive reactions.
+The right hand side of your body is connected to the left hemisphere
+of the brain and vice versa. This means each hand is controlled by the
+opposite side of the brain. But, your eyes see both your hands. To resolve
+this conundrum a very complex thing has to happen to the optic nerve in
+the center of the brain. The optic nerve from each eye splits and crosses
+over in the middle, so the left side of the left eye and the left side of the
+right eye goes to the right hand side of the brain and vice versa. This
+keeps the brain focused on the correct hand.
+110 Are the Androids Dreaming Yet?
+Frogs Eyes are Very Sensitive
+The processing power of the eye is staggering. The human retina has
+about 120 million rods and 7 million cones, giving it an average resolution
+of 10,000 by 10,000 pixels. Each rod is sensitive to individual photons
+but we register light consciously only if we see around 5-7 photons. It
+is thought frogs can react to single photons because of the chemistry of
+their eyes and the fact they are cold-blooded, but this is not proven.
+Some animals, including some frogs and my cat, have a tapetum
+lucidum. This is a reflective backing to the eye that allows each photon
+two chances to react with a rod, once on the way in and, if that fails,
+once on the way out. This is why you can see the eyes of some animals if
+you shine a light into the forest on a dark night. Cones are less sensitive
+than rods but give us color perception. In the human eye, there are three
+types of cone: a red, a green and a blue, giving us trichromatic vision.
+We see colors because light stimulates more than one types of cell and
+we infer the color in between. A fourth type of cone is present in some
+species such as birds, reptiles, and fish. This gives them tetra-chromic
+vision, allowing them to see into the ultraviolet range. It is speculated
+some humans might have this ability but so far none has come forward.
+Some animals lack the ability to see certain colors. Most dogs can’t see
+red. This gives cats a big advantage!
+Many people wonder if we all see the same color as each other. Is
+your red the same as mine? The brain’s perception of color is complex.
+Although the color red is absolute and can be detected by a calibrated
+sensor, our perception of color is relative. We perceive them in the context
+The Brain
+111
+Color is Relative
+of other colors – not in isolation. The two panels above contain identical
+blocks of color but they look very different against the background. Check
+out the website if you have a black and white book. It is an irrelevant
+question to ask if my red is the same as yours, since my red against one
+background is not even the same as my red against another.
+People generally agree on naming colors but not all languages have
+the eleven specifically named colors of modern English: black, blue,
+brown, gray, green, orange, pink, purple, red, white, yellow, if you are
+interested. Ancient Celtic languages, so called ‘gru’ languages, recognized
+only four colors and other languages don’t distinguish purple from blue.
+Color, or at least the naming of color, is a cultural thing.
+Impressionist Painting, Monet Haystack
+112 Are the Androids Dreaming Yet?
+The resolution of the eye is not the same across the image. High
+resolution is concentrated in the center, while lower resolution black
+and white vision dominates the edge. This peripheral vision helps us
+detect predators or play football but it is not the focus of our attention.
+When we focus our attention on something, we turn our eyes to look at
+it directly. The central part of our eye is called the fovea centralis and is
+composed of cones. About half our cones are concentrated in this very
+small section and this gives us immense visual acuity. For a computer
+display to outperform this section of the eye it would need one billion by
+Scintillating Dots Optical Illusion
+one billion pixels. The fovea centralis is tiny, only two degrees across, so
+our eyes must dart around the image to take in all the detail. Once the
+basic information is encoded in our retina and sent down the optic nerve,
+it goes into a production line process in the visual cortex where all the
+elements are analyzed. Our brains extract information from the image
+such as texture, edges and depth perception in specialized portions of
+the brain. Because of this specialization it is possible to play tricks on the
+brain with images that are not easy to process. Some we find pleasurable,
+while others can be a little disturbing.
+The Brain
+113
+Penrose Steps
+Optical Illusions
+This picture is an illusion that plays with your stereoscopic synthesis. The
+dots appears to flip between black and white. Other illusions play with
+depth perception. The Penrose Steps are a type of illusion that tries to
+build an impossible physical model in our cerebral cortex. The brain sees
+perspective and depth perception cues, but the resulting shape could
+never exist.
+Hearing
+Unlike sight, hearing is an absolute sense. Our ears capture and focus
+sound down to the eardrum where a set of small hairs called cilia convert
+it into electrical impulses. The impulses stimulate cells corresponding to
+specific pitches.
+We are born with perfect pitch, yet most of us lose it early on. When
+I hear Maria Carey sing a top B flat a specific set of neurons located near
+the ear fires, and if she sings a top ‘A’ then a different clump of neurons
+are stimulated. By the time most children come to learn music they have
+edited out this absolute pitch information. One group of children who
+do not lose the ability are Chinese pianists. Because Chinese is a tonal
+language – where the pitch of words affects their meaning – and because
+114 Are the Androids Dreaming Yet?
+McGurk Effect; Go to the Website and Watch the Linked Video
+Chinese children tend to learn the piano very young, they don’t lose the
+absolute part of pitch. An astonishing 93% of these children develop and
+retain perfect pitch throughout their lives.
+There are many cross connections between the audio and video
+processing systems. At parties you often can’t hear speakers clearly because
+of the background noise. Watching their lips will help comprehension,
+but which sense wins if there is conflict between the two? The McGurk
+effect shows this.
+To test the effect, go to the website, watch the video and see if you
+can distinguish when a speaker talking normally and when he is making
+the mouth movement of another sound. There is a winner. Try it for
+yourself; check out the link on my website.
+Once upon a time people imagined the brain was like a camera
+forming an image of the world, but if this were the case there would be
+a paradox. Who is looking at the image in our brain to make sense of it?
+Modern research shows we don’t take a complete picture of the world
+like a camera but rather parse the image into its constituent parts on the
+fly.
+If someone asks, “Which side of the house is the tree on?” your
+brain parses the question and compares it with the image map in your
+mind’s eye. What is the image composed of: trees, houses, sky, grass?
+Your brain manipulates the linguistic question about the relationship
+of elements and matches it with the visio-spatial understanding of the
+image, allowing you to answer the question. You might not have to answer
+The Brain
+115
+Humans’ Ability to Concentrate
+the question verbally. If you hit a baseball, no language is involved; you
+distinguish the ball from the background and perform quite a feat of
+tracking and calculation to connect it with your bat.
+Because the brain is editing the scene on the fly to keep within
+its processing power, the eye only sees what it turns its attention to.
+Magicians take advantage of this to play amazing tricks on us. Watch the
+video on the web and then tell me what you see.
+VISIT THE WEB AND VIEW THE VIDEO TO SEE WHAT HAPPENS
+Tiger Woods Swing
+You can see just how intensively the brain works on a given problem,
+throwing away all unnecessary information.
+The brain contains mirror neurons, a type of brain cell that
+responds when we see another human do something. These neurons
+fire as if we were performing the action ourselves even though we are
+merely witnessing it. It is one of the ways we learn a skill. If I watch Tiger
+Woods’s golf swing, my mirror neurons will fire as if I were practicing
+his swing. Later when I practice the swing for real, my neurons will have
+already been partially programmed. This effect is presumably the reason
+we enjoy watching sports; our mirror neurons allow us to begin acquiring
+a skill while sitting in an armchair! This is clearly a useful evolutionary
+trait but you do also need to practice for real!
+Mirror neurons also fire in response to witnessing emotions. When
+we see an actor laugh or cry, we experience their emotion as if for real.
+This helps us empathize with the person we are watching and is part of
+the reason we enjoy movies and plays.
+Neural Network
+Thinking
+“We cannot solve our problems
+with the same thinking we used
+when we created them.”
+Albert Einstein
+If you feel mentally exhausted reading this book, don’t worry. This
+is normal. Mental work takes energy. Scientists estimate the brain
+consumes 20% of our resting energy; around 12 watts. Physical fitness
+is important for thinking. If you get out of breath running for a bus,
+thinking is going to be harder for you. Studies are mixed about whether
+the additional work involved in solving a difficult problem causes you to
+use more energy. We certainly see an increase in the flow of glucose to
+the appropriate part of the brain, but the overall energy use in the brain
+is quite high in the first place, so it is hard to see the incremental effect.
+Unlike muscles, which store energy locally as glycogen, brain cells
+‘burn’ glucose and oxygen from the blood stream in real time. If scientists
+detect glucose and oxygen flowing to a part of the brain they know it
+must be working on a problem. As we know, there are several ways to
+make glucose and oxygen show up in brain scanners. You can, therefore,
+inject someone with the right chemical markers, wheel them into a brain
+scanner, and watch them learn new skills. On a practical level, there
+is limited space within a scanner and you can’t wield a golf club, for
+example. Julien Doyon, a researcher at the University of Montreal, was
+recounting this problem to a friend and she suggested knitting. Knitting
+is a physical activity you learn just like a golf swing or a tennis stroke, with
+all the initial fumbles and jerky activity, settling down to a fluid learned
+skill. Most experienced knitters can engage in a full conversation while
+knitting complex patterns, only needing to break off and concentrate
+during a pattern change. Luckily, there are ceramic and bamboo knitting
+118 Are the Androids Dreaming Yet?
+needles which don’t interfere with MRI scanners, and they are small – no
+golf swing problems here. Studies of knitters show that when they initially
+learn a skill, several areas of their brain light up, but after a while, the
+brain activity becomes concentrated in the sensorimotor striatal territory.
+Glucose, the brain’s power source, is a sugar we get directly from
+eating sweets or indirectly by digesting starch. Some studies show
+children do slightly better at school if they eat starchy foods in the
+morning for breakfast – a bowl of cereal or porridge. When you think
+and work your brain consumes the glucose in your blood, and blood
+glucose level drops. If there is a steady source of glucose from the starch
+digesting in your gut, the glucose is constantly topped up and the level
+will stay high. If there is no input of glucose from your gut, the body will
+first get glucose from glycogen in your liver or generate it by converting
+fat reserves. This takes more work so the body tends to avoid doing so
+until it absolutely has to. You can function with slightly lower glucose
+levels but the body will shut down a little. One thing that suffers as a
+result is the brain’s ability to perform cognitive tasks. A quick and easy
+way to fix this is to consume some raw glucose and most fridges have a
+ready supply in the form of sugary drinks. Stories of kids running amok,
+due to sugar highs brought on by too many sweets and sodas, appear to
+be an urban legend. In tests, parents told their children have had a sugar
+drink report them to be hyperactive even if they had been given a sugar
+free drink. I’m not suggesting you drink lots of sugary drinks – it is bad
+for your teeth and will make you fat – but the occasional soda is fine.
+Memory
+Scientists are just beginning to explore the mechanisms that lay down
+memory in the brain. There are two main classes of theory. The first
+believes memory is formed in the large scale wiring of the brain.
+Neurons connect with other neurons and the number and strength of
+these connections cause memory. When we learn, new connections are
+formed. The electrical activity in a given part of the brain triggers the
+formation of new dendrites. They grow, piloted by tubulin micro-tubes,
+rather like vines growing in a slow motion nature clip. Once a microtube
+guided filament is close enough to other, a synapse forms. This
+gross-scale wiring growth is one method of memory formation. Another
+gross-scale effect is myelination. Myelin is the insulation the body uses
+on nerves cells, including nerve cells in the brain. It looks a bit like the
+insulation we used in the 1930s. Before the invention of plastic, strips of
+waxed canvas were wrapped around wires to provide insulation. Myelin
+The Brain
+119
+Synapse
+has a similar structure. It is a flat protein laid down as a spiral on the
+outside of nerve cells. The theory is that cell firing causes myelination,
+which permanently imprints the memory.
+The alternate class of theory proposes memory is encoded at a much
+smaller scale. Neurons are quite complex structures in their own right.
+Inside each neuron is a lattice of proteins, which forms a skeleton. Part
+of that skeleton provides structural integrity to the neuron, while other
+elements provide control and motility. It is this control part of the skeleton
+that people believe might encode memory. A 2012 paper by Travis Craddock
+and Jack Tuszynski of the University of Alberta, and anesthesiologist Stuart
+Hameroff of the University of Arizona proposes a protein called CaMKII
+binds to the cytoskeleton in 32 different configurations, providing a binary
+data encoding. It is an elegant idea but it also relies on your believing their
+model for quantum neuron processing which is still highly controversial.
+If proven, they are my top Nobel Prize tip for this decade!
+Photographic Memory
+Until recently conventional wisdom held that true photographic memory
+was a myth and the few people claiming to have it really used some sort
+of mnemonic memory technique to selectively memorize things. The
+120 Are the Androids Dreaming Yet?
+most famous case was a Russian journalist known as ‘S’. He habitually
+memorized things using association with places. In antiquity this was
+taught as ‘the method of loci’. The unusual thing was his inability to turn
+the effect off, and he found it as much a curse as a blessing. He was unable
+to forget useless information and found it hard to interpret complex
+images, tending to see areas of color and shade rather than objects such as
+trees, houses and fields.
+Very recently some people have come forward, six in America and
+one in the UK, who appear to have genuine photographic memories It is
+well worth watching the TV documentary The Boy Who Can’t Forget to
+gain a sense of what this is like. These people appear to lack the ability to
+forget, and this turns our understanding of memory on its head. It seems
+memory might work the opposite way we thought. We had previously
+thought we only remember what we pay attention to, but perhaps we must
+actively forget, and this ability is missing in these subjects. Scientists are
+studying these people to see if they can understand more about memory.
+The Aging Brain
+We can explode a myth and encourage older readers simultaneously.
+Memory does not deteriorate with age, or at least not until we are very
+old. Most studies looking at memory deterioration focus on the very
+old and compare them with the very young. Even then, the differences
+are small. When people are asked to attempt memory problems there
+is a mild drop off with age but the results are quite similar. The most
+likely reason older people don’t remember so well is they don’t believe
+they can. Perhaps they don’t have as much incentive to remember new
+information. Why learn someone’s name if you’re unlikely to meet them
+again? Since IQ actually increases with age, don’t believe people when
+they say you are going downhill from the age of 40. You are not!
+Computer Brains
+Computers are really quite simple compared with all the evolved
+baggage we humans carry around. When a computer is presented with
+instructions, for example, for a program like Excel and a file such as my
+expenses, it will load everything into memory and ‘run’ it. The process of
+running a program is simple. Each instruction is a number. The computer
+reads the number, looks it up in a table, finds a corresponding number,
+and writes that down. Essentially that’s all there is to it. From a simple
+mechanism like this, we get the enormous complexity of a modern
+The Brain
+121
+computer. The sophistication is achieved through reading and writing
+many numbers in parallel, and chaining the steps together so that if you
+read a particular number it triggers another read/write process, and so
+on. I’m glossing over some details such as logical functions but, if you
+know how a modern computer chip is constructed, my description is
+not far off. Almost all logic today is implemented in tables to achieve the
+speeds we expect from modern chips.
+All modern computers are clocked. A small piece of quartz rock
+has been polished, coated with metal, and wired up to a control circuit in
+the computer. When you apply voltage to the rock it bends and absorbs
+energy. When the voltage is taken away it bends back and gives out the
+energy. This is effectively a pendulum and it can be used to make an
+accurate clock. I used to design these for a living. Every logic gate in a
+computer is connected to this clock, and each time the clock ticks the
+logic gates in a computer compute.
+Most modern computers are entirely synchronous. The clock rate
+is set so that the gates in the computer fully recover by the time of the
+next tick, and every gate is therefore ready in its standard position when
+the next instruction arrives. The human brain does not have a central
+clock. Each neuron acts independently – firing regardless of whether the
+neurons it is adjacent to are ready or not. It is wrong to think of the brain
+as digital. Each neuron does fire and recover, but it may be triggered again
+before it fully recovers. This makes for a chaotic and essentially analogue
+operation. If one neuron fires when a second has only half recovered, then
+it gets half an effect. If the neuron is 80% recovered, an 80% effect. Neuron
+recovery time is quite long, perhaps as much as 1/1000 th of a second, and
+they are wired in three dimensions to as many as 10,000 other neurons.
+It is perfectly possible for a set of neurons to run one ‘program’ when
+they are rested and a completely different ‘program’ when they are 50%
+recovered and yet another programs if triggered from different starting
+locations. I have said ‘program,’ but arguing a brain runs a ‘program’ is
+misleading. It is not organized like this.
+Neural Networks
+A neural network is our best attempt at a computer model for the human
+brain. Each neuron is represented by an entry in a table. The entry records
+all the connections to it, along with the strength of each connection –
+these are called ‘weights’. In some models the connections can be both
+122 Are the Androids Dreaming Yet?
+inhibitors and activators like in real synapses. An individual neuron will
+fire if the sum of all the connections multiplied by the weights reaches a
+certain pre-determined threshold.
+A neural network does not run a program in the conventional
+sense, and must be trained through experience rather like a human
+brain. The training process allows the weights in the network table to
+be adjusted to give the correct result. But, unlike the brain, you can read
+the weights and even save them to a disk. The neural network tables
+start with random settings. You show the network the letter ‘A’ and
+adjust the weights in the tables until it gives a positive answer: ‘It’s an
+A’. Repeat the process with the other letters until the network correctly
+distinguishes them. As you do this a computer algorithm constantly
+adjusts the weighting tables using a method called ‘back propagation’.
+At the end of the training process you can show the network some
+new input and see how it does. For example, a letter ‘A’ that is in a slightly
+different font to anything in the training set. Trained neural networks
+can perform complex tasks such as recognizing faces or making clinical
+diagnoses, and they can be allowed to modify their weighting tables as
+they work so they learn from experience in a similar way to a human
+brain. Strong AI proponents believe making a thinking machine is just
+a matter of building a really large, fast neural network and working out
+how to train it efficiently.
+Quantum Brains
+Conventional wisdom says each brain cell is a single processing unit
+making an on-off decision – fire, or don’t fire – depending on the state
+of its neighbors. But, Stuart Hameroff, Professor of Anesthesiology
+at the University of Arizona, thinks neurons are not the fundamental
+information-processing unit in the brain. He suggests that this accolade
+should go to tubulin. Tubulin is a small, versatile protein that selfassembles
+into filaments rather like the way buckyballs – a magnetic
+children’s toy – can be arranged. There are two types of tubulin molecule:
+α and β. They slot together and wrap around to form a micro tube about
+25nm in diameter.
+Tubulin micro tubes do several important things in the body.
+They form the skeleton of neurons and give them structure. They are
+involved in guiding neurons as they grow towards each other to form
+new connections, and they also operate in the nucleus of a cell to unzip
+The Brain
+123
+Paramecium
+DNA into its two complementary strands when a cell divides. In singlecelled
+organisms, including paramecium, the ends of the tubes stick out
+of the body and form the cilia that drive the organism along.
+The presence of tubulin in complex, single-celled organisms
+provides a clue that the smallest information processing unit might not
+be the neuron. Some single cell organisms, such as paramecium, display
+complex behavior: hunting for prey and escaping danger. This suggests
+they can process small amounts of information without the need for a
+matrix of neurons. Since we evolved from these organisms, why wouldn’t
+our brain cells take advantage of this sub-cellular intelligence?
+The structure of tubulin lends itself to digital processing as the
+molecules forming the walls have two stable states and can flip between
+them. We might recognize this as the basis of a binary computer, and
+cells might have little computers within them. They would not need to
+process many bits to be useful. Perhaps single-cell organisms developed
+information processing capabilities in their micro tube structures that
+allowed them to better survive and, as their nervous systems evolved, they
+coupled these structures to form the brains we see today. This piece of
+theory is not too controversial. After all, nerves have wiring within them
+to carry information to the synapses and it’s likely this wiring is involved
+in the thinking process. But Hameroff is not finished. He has teamed up
+with Roger Penrose to bring quantum mechanics into the picture.
+124 Are the Androids Dreaming Yet?
+Their reasoning is straightforward but has generated a great deal
+of controversy. Hameroff observes that anesthetics cause humans to
+lose consciousness by binding to tubulin, but they do not halt all brain
+function. He, therefore, concludes our conscious thinking is mediated
+by tubulin, not the larger scale firing of the neurons. Penrose had been
+looking for a mechanism in the brain that would explain how brains
+solve non-computational problems. Together Penrose and Hameroff
+propose tubulin micro tubes are quantum gravity computers that allow
+us to think non-computationally and are the seat of consciousness. The
+ideas are still being worked.
+Penrose and Hameroff have a difficult task conveying their ideas
+to the rest of the scientific community. Scientists don’t recognize a
+need for something that can think non-computably, so they are highly
+skeptical of a mechanism which performs that sort of thought. The
+latest development on the Hameroff Penrose model comes in the work
+of Travis Craddock, now of Nova Southeastern University, Florida, and
+others. They have written a paper arguing signals propagate according
+to quantum principles within microtubules through the excitation
+of thiamin molecules along the length of the tube. They believe these
+molecules are quantum, entangled in a similar manner to the mechanism
+recently discovered in photosynthesis. The geometry of these molecules
+is set out in a similar way to the active areas in chlorophyll and they
+have a complementary problems to solve. Chlorophyll tries to maximize
+energy conversion efficiency, while a microtubule tries to minimize the
+use of energy while propagating signals along a nerve. You might wonder
+Tubulin Protein
+The Brain
+125
+Tubulin
+where the light comes from since tubulin is housed deep within the
+neurons inside our brains and shielded from light by our skull. It turns
+out that the mitochondria which powers our bodies emit photons of UV
+light as a waste product of their metabolism. The speculation is tubulin
+harvests this waste energy.
+Before we argue for this mechanism any further we still need to
+establish that a non-computational mechanism is needed to allow human
+thought. In the next chapters, we will look at the nature of knowledge
+and, in particular, mathematical creativity and the Wiles Paradox.
+Quantum Coupling of Tubulin in Microtubule
+
+Chapter 5
+KNOWLEDGE
+Chimpanzee and Typewriter
+“There’s an infinite number of
+monkeys outside who want to
+talk to us about this script for
+Hamlet they’ve worked out.”
+Douglas Adams
+“I’m not young enough to know
+everything.”
+J.M. Barrie
+“He has Van Gogh’s ear for music.”
+Billy Wilder
+Could an army of monkeys write Hamlet by bashing away randomly
+on typewriters? Of course, we don’t mean this literally. We are
+asking whether knowledge can be created without understanding.
+Can a monkey, or perhaps some form of computerized random number

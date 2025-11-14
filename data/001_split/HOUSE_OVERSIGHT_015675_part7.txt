@@ -1,0 +1,1726 @@
+(1937): 153–63.
+———. “Computing Machinery and Intelligence.” Mind, 1950, 433–60.
+———. “Computing Machinery and Intelligence.” In Computers & Thought, 11–35.
+MIT Press, 1995. http://dl.acm.org/citation.cfm?id=216410.
+———. “Intelligent Machines.” Ince, DC (Ed.) 5 (1992). http://isites.harvard.edu/fs/
+docs/icb.topic958294.files/lecture-00-handout.pdf.
+———. “Rounding-off Errors in Matrix Processes.” The Quarterly Journal of
+Mechanics and Applied Mathematics 1, no. 1 (1948): 287–308.
+Turing, Alan Mathison. “On Computable Numbers, with an Application to the
+Entscheidungsproblem.” J. of Math 58 (1936): 345–63.
+———. “Systems of Logic Based on Ordinals.” Proceedings of the London
+Mathematical Society 2, no. 1 (1939): 161–228.
+———. “The Chemical Basis of Morphogenesis.” Bulletin of Mathematical Biology
+52, no. 1 (1990): 153–97.
+Chapter 11
+Baxa, Christoph. “A Note on Diophantine Representations.” American
+Mathematical Monthly, 1993, 138–43.
+Blass, Andreas, and Yuri Gurevich. “Algorithms: A Quest for Absolute Definitions.”
+Bulletin of the EATCS 81 (2003): 195–225.
+Börger, Egon, Erich Grädel, and Yuri Gurevich. The Classical Decision Problem.
+Springer, 2001.
+Carroll, Lewis. Symbolic Logic. New issue of 1896 ed. Dover Publications Inc., 2000.
+Davis, Martin, Hilary Putnam, and Julia Robinson. “The Decision Problem for
+Exponential Diophantine Equations.” Annals of Mathematics, 1961, 425–36.
+Dyson, Verena H., James P. Jones, and John C. Shepherdson. “Some Diophantine
+Forms of Gödel’s Theorem.” Archive for Mathematical Logic 22, no. 1 (1980):
+51–60.
+Franzén, Torkel. Godel’s Theorem: An Incomplete Guide to Its Use and Abuse. A K
+Peters/CRC Press, 2005.
+Hodges, Wilfrid. Logic. 2nd Revised edition. Penguin, 2001.
+Jr, Frederick P. Brooks. The Mythical Man Month and Other Essays on Software
+Engineering. 2nd ed. Addison Wesley, 1995.
+Kurzweil, Ray. How to Create a Mind: The Secret of Human Thought Revealed.
+Penguin, 2012.
+Matiyasevich, Yuri. HILBERT’S TENTH PROBLEM: What Can We Do with
+Diophantine Equations?. Accessed April 13, 2014. http://logic.pdmi.ras.
+ru/~yumat/Journal/H10history/H10histe.pdf.gz.
+Minsky, Marvin Lee. Computation. Prentice-Hall Englewood Cliffs, 1967. http://
+cba.mit.edu/events/03.11.ASE/docs/Minsky.pdf.
+Nagel, Ernest, and James R. Newman. Godel’s Proof. Rev. Ed. New York University
+Press, 2001.
+Penrose, Sir Roger. Shadows Of The Mind: A Search for the Missing Science of
+Consciousness. New edition. Vintage, 2005.
+———. The Emperor’s New Mind: Concerning Computers, Minds, and the Laws of
+Physics. New Ed. Oxford Paperbacks, 1999.
+Bibliography
+391
+Reid, Constance. Julia: A Life in Mathematics. Washington, DC: The Mathematical
+Association of America, 1997.
+Rice, Henry Gordon. “Classes of Recursively Enumerable Sets and Their Decision
+Problems.” Transactions of the American Mathematical Society 74, no. 2
+(1953): 358–66.
+Ruohonen, Keijo. “Hilbertin Kymmenes Probleema.” Arkhimedes, no. 1 (1972): 2.
+Spolsky, J. “The Law of Leaky Abstractions,” November 11, 2002. http://www.
+joelonsoftware.com.
+Tegmark, Max. “The Mathematical Universe.” Foundations of Physics 38, no. 2
+(2008): 101–50.
+Turing, Alan M. “Can a Machine Think.” The World of Mathematics 4 (1956):
+2099–2123.
+Turing, Alan Mathison. “On Computable Numbers, with an Application to the
+Entscheidungsproblem.” J. of Math 58 (1936): 345–63.
+———. “Systems of Logic Based on Ordinals.” Proceedings of the London
+Mathematical Society 2, no. 1 (1939): 161–228.
+Wiles, Andrew. “Modular Elliptic Curves and Fermat’s Last Theorem.” Annals of
+Mathematics-Second Series 141, no. 3 (1995): 443–552.
+Chapter 12
+Burgin, Mark. Super-Recursive Algorithms. Springer, 2005.
+Darwin, Charles. On the Origin of Species: By Means of Natural Selection. Dover
+Giant Thrift Ed. Dover Publications Inc., 2006.
+Mitchell, Melanie. An Introduction to Genetic Algorithms. New edition. MIT Press,
+1998.
+Siegelmann, Hava T. Neural Networks and Analog Computation: Beyond the Turing
+Limit. Birkhauser, 1998.
+Syropoulos, Apostolos. Hypercomputation: Computing Beyond the Church-Turing
+Barrier. Softcover reprint of hardcover 1st ed. 2008. Springer, 2010.
+Chapter 13
+Shannon, C.E., and Warren Weaver. The Mathematical Theory of Communication.
+University of Illinois Press, 1949.
+Chapter 14
+Boden, Margaret A. The Creative Mind: Myths and Mechanisms. 2nd ed. Routledge,
+2003.
+Bono, Edward de. How to Have Creative Ideas: 62 Exercises to Develop the Mind.
+Vermilion, 2007.
+———. Lateral Thinking: A Textbook of Creativity. Penguin, 2009.
+———. Six Thinking Hats. Penguin, 2009.
+Coyle, Daniel. The Talent Code: Unlocking the Secret of Skill in Maths, Art, Music,
+Sport, and Just About Everything Else, Random House Books, 2009.
+Davis, Ronald D., and Eldon M. Braun. The Gift of Dyslexia: Why Some of the
+Brighest People Can’t Read and How They Can Learn. 3rd Revised edition.
+Souvenir Press Ltd, 2010.
+Edward De Bono. How to Have Creative Ideas : 62 Exercises to Develop the Mind. 1
+Aufl. Vermilion, 2007.
+Isaacson, Walter. Steve Jobs: The Exclusive Biography. Little, Brown, 2011.
+McCandless, David. Information Is Beautiful. Collins, 2010.
+392 Are the Androids Dreaming Yet?
+Robinson, Ken. Out of Our Minds: Learning to Be Creative. 2nd Edition. Capstone,
+2011.
+Robinson, Ken, and Lou Aronica. The Element: How Finding Your Passion Changes
+Everything. Penguin, 2010.
+Winston, Professor Lord Robert. Bad Ideas?: An Arresting History of Our
+Inventions. Bantam, 2011.
+Chapter 15
+Bell, John S., and others. “On the Einstein-Podolsky-Rosen Paradox.” Physics 1, no.
+3 (1964): 195–200.
+Conway, John H., and Simon Kochen. “The Strong Free Will Theorem.” Notices of
+the AMS 56, no. 2 (2009): 226–32.
+Conway, John, and Simon Kochen. “Reply to Comments of Bassi, Ghirardi, and
+Tumulka on the Free Will Theorem.” Foundations of Physics 37, no. 11
+(2007): 1643–47.
+Dennett, Daniel Clement. Brainstorms: Philosophical Essays on Mind and
+Psychology. 8. MIT Press, 1981.
+Dennett, Danile C. Kinds of Minds: Toward an Understanding of Consciousness.
+Basic Books, 2008.
+Ekert, Artur K. “Quantum Cryptography Based on Bell’s Theorem.” Physical Review
+Letters 67, no. 6 (1991): 661.
+“EPR Paradox.” Wikipedia, the Free Encyclopedia, September 15, 2014. http://
+en.wikipedia.org/w/index.php?title=EPR_paradox&oldid=625734938.
+Gilovich, Thomas. How We Know What Isn’t So: Fallibility of Human Reason in
+Everyday Life. Reprint. The Free Press, 1993.
+Gisin, Nicolas. “The Free Will Theorem, Stochastic Quantum Dynamics and True
+Becoming in Relativistic Quantum Physics.” arXiv Preprint arXiv:1002.1392,
+2010. http://arxiv.org/abs/1002.1392.
+Goldstein, Sheldon, Daniel V. Tausk, Roderich Tumulka, and Nino Zanghì. “What
+Does the Free Will Theorem Actually Prove.” Notices of the AMS 57, no. 11
+(2010): 1451–53.
+Hawking, Stephen, and Leonard Mlodinow. The Grand Design: New Answers to the
+Ultimate Questions of Life. Bantam Press, 2010.
+Heywood, Peter, and Michael LG Redhead. “Nonlocality and the Kochen-Specker
+Paradox.” Foundations of Physics 13, no. 5 (1983): 481–99.
+Huang, Yun-Feng, Chuan-Feng Li, Yong-Sheng Zhang, Jian-Wei Pan, and Guang-
+Can Guo. “Experimental Test of the Kochen-Specker Theorem with Single
+Photons.” Physical Review Letters 90, no. 25 (2003): 250401.
+Russell, Bertrand. The Problems of Philosophy. 2nd ed. Oxford Paperbacks, 2001.
+Tumulka, Roderich. “Comment on ‘the Free Will Theorem.’” Foundations of Physics
+37, no. 2 (2007): 186–97.
+Zhang, Yong-Sheng, Chuan-Feng Li, and Guang-Can Guo. “Quantum Key
+Distribution via Quantum Encryption.” Physical Review A 64, no. 2 (2001):
+024302.
+Chapter 16
+Land, George, and Beth Jarman. Breakpoint and Beyond: Mastering the Future -
+Today. Reprint. HarperBusiness, 1993.
+Lloyd, John, and John Mitchinson. QI: The Second Book of General Ignorance. Faber
+and Faber, 2010.
+Bibliography
+393
+Michael Brooks. 13 Things That Don’t Make Sense : The Most Intriguing Scientific
+Mysteries of Our Time. Profile, 2010.
+Reason Special Interview with Roger Penrose, 2008. http://www.youtube.com/
+watch?v=xiYDc1LA0I4&feature=youtube_gdata_player.
+Reason Special Interview with Roger Penrose, 2008. http://www.youtube.com/
+watch?v=xiYDc1LA0I4&feature=youtube_gdata_player.
+Tegmark, Max. “The Importance of Quantum Decoherence in Brain Processes.”
+arXiv:quant-ph/9907009, July 5, 1999. doi:10.1103/PhysRevE.61.4194.
+ATLAS, CERN
+“Good one, publish.”
+Milliken
+Appendix 3
+Puzzles and
+Experiments
+In this book I have suggested some experiments for you to undertake,
+and posed some puzzles to solve. You can participate in the
+experiments or see the answers by going online and checking my
+website at www.jamestagg.com
+Jeopardy Answers from Chapter 1.
+Answer 1. Watson answered, Gestate.
+Answer 2. Watson answered. Who is Bram Stoker.
+Answer 3. The answer is Chicago but Watson answered
+“Toronto?????”, the question marks indicating it was
+very doubtful of the answer.
+Panda, Eats Shoots
+“Parenthetical remarks (however
+relevant) are unnecessary.”
+Frank L. Visco,
+How to Write Good
+“Defining what we mean by
+a robot is hard to do. I know
+now when I see one but that
+definition works for anything,
+even pizza.”
+Mike Gregory
+Appendix 4
+Conventions in
+the Book
+The use of italics is intended to give accent or indicate the title of
+the published work, such as a book or movie. Inverted Commas
+should read, ‘so called’.
+The use of the ‘Oxford Comma’ – a comma after ‘and’ – gives a
+longer break in a sentence to aid better understanding. You will find both
+‘and’ and, ‘and,’ used in this book deliberately.
+The use of ‘their’ substitutes for he or she, and is a convention I
+believe will supersede, ‘he’ or ‘she’ and, ‘him’ or ‘her’.
+The puzzles in this book are all available to download, so you
+don’t need to deface the book. Feel free to deface it if you wish. Buy the
+electronic version and save trees.
+Some of this book is historical or factual, while much is highly
+speculative. I have tried to indicate where ideas are controversial and
+where they are matters of accepted science. However, my experience is
+that much of what you are taught tends to be a gross generalization or
+even plain wrong. If you treat facts with a degree of skepticism, you will
+find this keeps you in good stead.
+As someone who is highly dyslexic, there will be errors. Please email
+me the ones you find, and recommend the book to your friends so that I
+can afford to print a second edition with your corrections.
+I have avoided the use of equations and mathematics, so you
+can see the flow of the philosophical argument. I also avoid a strongly
+historical narrative, but if you enjoy the history of science I recommend,
+The Missing 4%, and Quantum for a really clear exposé of the issues
+398 Are the Androids Dreaming Yet?
+around quantum mechanics, relativity and cosmology, Robert Winston’s
+Bad Ideas for a more thorough history of language and writing, and The
+Trouble with Physics for the recent history of particle Physics. Regarding
+the brain, anything by Oliver Sachs is a winner. Your Brain on Music is a
+good primer on the theory of artistic thought and music, and Proust and
+the Squid is a good discussion of dyslexia and learning.
+The digits for the sequence of the Smallpox virus in Chapter Eight
+come from the varicella-zoster virus, a similar pathogen. The first few
+letters could be the same, but I hope it is impossible for anyone to
+disprove this as you would have to break into the CDC to do so.
+John Masters is not the real name of the US officer who spoke in
+Kabul. That name was never released to the press.
+This book was originally written using Microsoft Word on a MacBook
+Pro. It was then typeset for print using a variety of ePublication tools,
+including iBooksAuthor and Adobe InDesign. You can find a website for
+the book at www.jamestagg.com. It is published using WordPress. All
+the links in the book should be maintained there just in case there is link
+atrophy for the printed version of the book. Feel free to comment using
+the blog, Twitter, Facebook or email me.
+Conway and Kochen
+“It doesn’t matter how beautiful
+your theory is, it doesn’t matter
+how smart you are. If it doesn’t
+agree with experiment, it’s
+wrong.”
+Richard P. Feynman
+
+Appendix 5
+Index of Theorems
+I
+have explained a number famous theorems in this book along with
+some ideas of my own. Here is a list of the most notable.
+1. Mind over Computer
+Turing Test – How to tell whether a computer is intelligent, even
+though we cannot agree on a definition of intelligence.
+Flynn Effect – The observation that human intelligence appears
+to be improving over time.
+Kurzweil Singularity Proposal – The conjecture that Moore’s
+Law will result in computers acquiring near infinite power
+relatively soon.
+Lucas Argument – Minds are in a different class to computers as
+they are not limited by the incompleteness theorem.
+Humor Hypothesis† – Humor and jokes are a display of noncomputable
+intelligence.
+2. Understanding
+Tufte’s Assertion – That communication of understanding
+exceeds the capability of many presentation tools, particularly
+PowerPoint.
+Chinese Room – John Searle’s paradox challenging the idea that
+understanding can be mechanically simulated.
+402 Are the Androids Dreaming Yet?
+3. Body Language & Banter
+Communication Hypothesis† – That face to face communication
+is more powerful in some real physical sense than symbolic
+communication.
+7-38-55 Rule – Mehrabian’s observation that the emotional
+content of communication is 7% words, 38% tone of voice and
+55% body language.
+4. The Brain
+Penrose-Hameroff Conjecture – Brains are quantum-gravity
+computers using tubulin as the mediator.
+5. Knowledge
+Information Continuum Hypothesis† – Information is finite,
+but understanding and knowledge are different in nature.
+Infinite Monkeys Hypothesis – The paradox that says monkeys
+could type Hamlet given enough time and paper.
+Cat Experiment† – Finding my house cat can use our computer,
+and may be more creative than monkeys!
+6. Kittens & Gorillas
+Feynman Proof – A proof that uses the lack of an evolved
+species within an evolutionary niche to disprove the existence of
+something; in this case polywater.
+The Infinity of Primes – Pythagoras’ proof there are an infinity
+of prime numbers without needing the concept of a number.
+7. Complexity & Chaos
+The Butterfly Effect – The proposal by Edward Lorenz that tiny
+effects can multiply up into enormous results.
+P≠NP – That non-deterministic polynomial problems can never
+be solved in polynomial time and are, therefore, beyond the
+capability of any imagined computer.
+The Hawking-Bekenstein Turk† – Although there is a perfect
+chess machine, it would collapse space-time to a black hole were
+it to exist.
+8. ∞
+Continuum Hypothesis – Does anything come between the
+first two infinities; counting numbers and the continuum of real
+numbers.
+Index of Theorems
+403
+Cantor’s First Infinity Theorem – The infinite plane is the same
+infinity as the infinite line.
+9. Known Unknowns
+Gödel’s Incompleteness Theorem – Mathematics involving
+simple logic is incomplete.
+Gödel’s Completeness Theorem – First order logic is complete.
+Hilbert’s Completeness Theorem – Geometry is complete.
+10. Turing’s Machines
+Entscheidungsproblem – The decision problem has no solution.
+Turing Thesis – All computers, once sufficiently powerful, are
+equally powerful.
+Non-Computability of Music† – That general musical
+compositions are non-computable.
+Non-Computability of Creativity† – That general artistic
+creativity is non-computable.
+11. Software
+Brooks’ Law – Adding resource to a late project makes it later.
+Law of Leaky Abstractions – However good the attempt to
+abstract complexity, complexity has a habit of leaking through.
+Software is Created† – writing software is a non-computable,
+creative task.
+Bug Hypothesis† – Bugs are an inevitable consequence of trying
+to generalize software by mechanical means.
+12. Hyper-Computing
+Adaptive Recurrent Neural Network Hypothesis – Hava
+Siegelmann’s proposal that ARNNs are capable of super-Turing
+computation.
+13. Hyper-Communication
+Bandwidth Conjecture† – Person-to-person communication
+has infinite bandwidth and is non-symbolic.
+14. Creativity
+Creativity Hypothesis† – That all creative endeavor is a noncomputable
+skill, analogue to theorem discovery.
+Wallas Model – A conceptual model for the way humans think
+creatively.
+404 Are the Androids Dreaming Yet?
+Creative Survival Advantage† – That creativity has evolved to
+give us a survival advantage at all stages of evolution, not just when
+we evolve to the point where mathematical intuition is significant.
+15. Free Will
+Laplace Daemon – A conceptual supreme being able to infer
+the future and the past from one snapshot of space-time and the
+laws of nature.
+EPR Paradox – Twin particles would transmit information
+faster than the speed of light if quantum mechanics was to be
+believed.
+Schrödinger’s Cat – The paradox that a cat might be both alive
+and dead at the same time until observed.
+Bell Inequality – Quantum mechanics forbids local hidden
+variables in a testable way. The test succeeds.
+Kochen-Specker Paradox – Particles cannot know their settings
+before measurement.
+Free Will Theorem – Nothing in the past light cone of the
+Universe causes a particle to choose its spin upon measurement.
+Non-decryptable Universe† – The laws of physics mean the
+Universe is non-computable in principle.
+Free Will Universe† – The laws of mathematics mean the
+Universe is non-computable and therefore has Free Will.
+Russian Doll Conjecture† – Since humans are creative and
+non-deterministic and, in a sense, they run upon the hardware
+of the Universe, the hardware of our Universe must also be nondeterministic.
+16. The Quest for Knowledge
+Technology Hypothesis† – The extended strong anthropic
+principle that the Universe must have creative beings within it
+to uniquely define it.
+17. The Future
+Creative Non-Singularity† – The future is non-computable and
+therefore any increase in computer power, however great, will
+never achieve a creativity singularity.
+† The symbol marks items proposed for the first time within this
+book. If I have missed a previous publication, please feel free to
+write to me and I will amend a future version.
+Index
+Symbols
+∀∃∀ 249
+∃ 249
+3D chip 21, 22
+3D printing 20, 222
+7%-38%-55% rule 84
+50 First Dates 12
+A
+AARON 310
+Aaronson, Scott 168
+abstraction 267
+Academy Awards 365
+Accidental Complexity 231
+actin 98
+Activision 290
+Adams, Douglas 17, 128, 225, 238, 305,
+314
+Adams, Scott 296
+Adaptive Recurrent Neural Network 280
+Adleman, Leonard 165
+Advanced Course in Design,
+Manufacturing and Management
+x
+Afghanistan 54, 90
+A Five-day Course in Thinking 297
+age and memory
+120
+AIDS 158
+Aleph 1 175
+Alexander The Great 149
+algebra 248
+algorithm 212, 238, 239, 243, 247, 249,
+251, 257
+history of 6
+alibi 153
+Al-Khwarizmi 6
+Allman, Eric 265
+Alternative Uses Task 299
+Alvarez, Luis 30
+Amazoncom 308
+Amazon rainforest 27, 181
+Amedi, Amir 13
+Amherst 280
+amygdala 11, 31
+analysis 204
+Analytical Engine 15, 16, 223–224
+A New Kind of Science 173
+anthropic principle 322
+Anti-Ballistic Missile Treaty 79
+Antikythera 15
+Apple 56, 68, 224, 306
+Arab world democracy 82
+Arafat, Yasser 81, 82
+Archimedes 343
+Aristotle 149
+ARM 224
+ARNN 280
+art
+being appreciated 142
+creativity and 304
+Artamène 129
+Art of Fugue 259
+ASCII 203
+Asimov, Isaac 4
+Association of Computer Machinery 367
+406 Are the Androids Dreaming Yet?
+astrological clock 39, 42
+asynchronous logic 22
+Atkins v Virginia 28
+ATM 233
+ATP 98
+audio field 291
+audio processing system 114
+auditory cortex 31
+Australian English 86
+Australian Outback 28
+avatar xii
+axiom 198
+Peano axioms 199, 205
+B
+Babbage, Charles 16, 223
+Bach, JS 7, 259
+background context 86
+Bader, Douglas ix
+bandwidth 288, 292
+Barber paradox 155
+Barrie, JM 128
+Barrymore, Drew 12
+Battleship 144
+Baxa, Christoph 251
+Beardsley, Dick 192
+Beatles 102
+Beijing 88
+Bekenstein, Jacob 6, 132
+Bell, Alexander Graham 18
+Bell Corporation 216
+Bell, John 322, 330, 333
+Bell test experiment 333, 343
+Berkeley University 248
+bifocal glasses 152
+Big Bang xii, 339
+Big O 164
+binary logic 150
+Binsted, Kim 310
+BIOS 225
+Blackadder 266
+Black Box experiments 67
+black hole 132, 279
+Bletchley Park 215
+blind sight 12
+Block Universe Hypothesis 317
+body language 84, 288
+Bohr, Niels 372
+Bolt, Usain 31
+bone cancer 20
+Boolean logic 150, 152
+Boole, George 150
+Bootstrap 225
+Borders 308
+Borland 237
+bosons 343
+Bowie, David 151
+brain 1, 11
+accidents 11
+aging 120
+amygdala 11
+anatomy 108
+and plasticity 13
+as a computer 13, 14, 99, 120
+as an exchange 18
+auditory cortex 31
+color perception 110
+digesting starch 118
+electrical pulse 98
+emotions 116
+glucose use 117
+hearing 113
+hippocampus 11, 32
+imaging 99, 102
+3D virtual 103
+MRI 104
+PET 107
+seeing thought 108
+learning 35–38
+memory 11, 14
+meninges 97
+motor cortex 31
+non-computable processes 373
+noninvasive imaging techniques 11
+organized like a filing cabinet 12
+quantum effects 50, 283
+quick tour 108
+scanners 46
+stroke damage 12
+super-Turing 294
+thinking 117
+visual agnosia 12
+brain damage 97
+brainstorming 298
+Branson, Richard 24
+Bricklin, Dan 237
+bridge 134
+British General Strike 211
+Britten, Benjamin 305
+Brooks, Fred 229, 230, 231, 237
+Index
+407
+Brooks’ Law 230
+bubble sort ballet 165
+Buschkuehl, Martin 33
+Bush, George W 194
+butterfly
+creating tornados 173
+Byrd, William 259
+bytes 129
+C
+calculating machines 15
+California Institute of Technology
+(Caltech) xii
+Call of Duty 290
+Cambridge University 17, 72, 195, 221
+King’s College 211
+Mathematical Bridge x
+Trinity College 193
+Wolfson College ix
+CaMKII 119
+Candidate for a Pullet Surprise 139
+Cantonese 87
+Cantor, Georg 179
+Cantor’s theorem 221
+Carey, Maria 113
+Carroll, John 29
+Carroll, Lewis 135, 140, 149, 148–150,
+248, 356
+Casio synthesizer 311
+CAT scans 13, 102
+Cats Creation 145
+Cattell, Raymond 29
+CERN 333, 335
+Chaitin, George 188
+Chalmers, David 39
+Champollion, Jean-François 89
+chaos 171
+CHC theory 29
+checklist 152
+Cheshire Cat 149
+chess 32, 163
+perfect chess-playing machine 6
+chimpanzee and typewriter 127
+China 15
+Chinese 86, 129
+Chinese Room, Searle’s 65, 64–67, 222
+Christensen, Clayton 306
+Christie, Agatha 260
+chunking 91
+Church, Alonzo 212
+Churchill, Winston 17, 213
+Chutzpah 86
+ciphers 215, 218
+circle free 243
+Clauser, John 333
+Clay Mathematics Institute 167, 196, 225
+Cleese, John 270, 303
+clocks 42
+astrological clock 39, 42
+modern computers and 43
+code breakers 211
+codes 214
+and children’s games 214
+and code books 215
+and code breakers 214, 305
+and Enigma machine 215, 305
+and one-time pad 216, 217, 218
+Cohen, Harold 308, 311
+COIN dynamics 53, 55, 90
+Cold War 81, 213
+color perception 110
+comedy 92, 94
+as survival skill 94
+communication
+audio field 291
+background context 86
+bandwidth 288, 292
+body language 288
+digitization 289, 293
+earliest recorded 87
+emails 81
+face to face xii, 81, 83, 293
+hyper-communication 285–294
+nonverbal 84
+of objects 90
+scripts and symbols 87
+symbolic 87, 293
+telephone 81
+Compaq 307
+compatibilism 41, 315
+compiler 231
+complexity
+accidental 231
+essential 231
+complexity hierarchy 168
+compositions 8
+computer xi
+as human 11, 26, 46
+brains 14, 120
+bugs 262
+408 Are the Androids Dreaming Yet?
+chess-playing 5
+communicating 90
+consciousness 14, 45
+crash 225
+creativity and 132, 257, 309
+Deep Thought 17
+first programmable computing machine
+16
+generating random numbers 189
+historical convention 227
+infinite computing power 261
+Japanese characters 88
+limitless computing power 277
+logic 150
+logic gates 18, 22, 121
+logic limit 250
+military 80
+music and 258
+non-computable solution 75
+origins 15
+pattern matching 49
+personal 307
+programmed to learn 38
+quantum computers 277
+random numbers and 44
+sense of humor 25
+silicon chip 20
+symbolic communication 293
+synchronous logic 22
+understanding of 71
+computer game 32
+computing
+exponential growth 20
+concentration 115
+Confucius 162
+Connelly, Jennifer 151
+consciousness 45, 124
+Conseil Européen pour la Recherche
+Nucléaire 333
+Contact 68
+convergent thinking 300
+Conway, John 173, 343
+Conway’s Game of Life 173
+Cope, David 7
+Copenhagen interpretation 327
+Copernicus 42
+Cormack, Allan 102
+counter factual experiments 282
+counting system 181
+Coyle, Daniel 37
+Craddock, Travis 50, 119, 124, 283
+Crash program 227
+creative thinking 1
+creativity 30, 49, 295–312, 297
+art and 304
+being appreciated 142
+computer and 132, 257, 309
+convergent thinking 300
+design tradeoff 311
+divergent thinking 298
+Eureka moment 302
+incubation 301
+innovator’s dilemma 306
+intimation 301
+John Cleese on 303
+knowledge and 141
+mathematical creativity 309
+mechanical steps 141
+non-linearity of 311
+preparation 301
+process 133, 270, 305
+process versus 312
+reward for 308
+science of 301
+sparking creativity 305
+Crete 89
+cryptography 215
+quantum 217
+CSI 102
+Cuneiform 87
+Curtis, Richard 266
+cypher 214
+D
+Dahl, Roald 140
+Damadian, Raymond 104
+Daniel-Constantin Mierla 265
+Danziger, Daniel 335
+Dark Ages 16
+Darwin, Charles 197, 305, 356
+da Vinci, Leonardo 374
+Davis, Martin 243, 248, 258
+Dawkins, Richard 338–339
+D-Day 213
+dead code elimination 250
+de Bono, Edward 297
+Decision Problem 196, 212, 219
+decohering 282
+Dedekind 182
+Deep Blue 5
+Index
+409
+Deep Thought 17
+de Fermat, Pierre 75
+Dell 307
+democracy
+Arab world 82
+De Morgan, Augustus 350
+Demotic 89
+dendrites 98
+Dennett, Daniel xi, 46, 133, 260, 351
+Der Spiegel 34
+Descartes 70
+design tradeoff 311
+determined universe 207
+determinism 41–46, xi, 315, 316, 351
+free will and 315
+Deutsch, David xi, 56, 293, 309
+Dexter, Colin 260
+Dick, Philip K 324
+diffusion MRI 106
+digital art 129
+Digital Equipment 307
+digitization 289
+of life 293
+Dijkstra, Edgar 3
+Dilbert 313
+Diophantine equations 238, 239, 240,
+249, 251
+Diophantus 239
+divergent thinking 298
+DNA 104, 123
+domino toppling 316
+Doyle, Arthur Conan 148
+Doyon, Julien 117
+drag and drop 237
+DVD 289
+D-Wave 21
+dyslexia 90, 139
+E
+Edinburgh Festival 288
+Edison, Thomas 295, 296, 298
+EEG 32
+Egyptian 86, 89
+Einstein, Albert 30, 34, 47, 64, 117, 178,
+180, 210, 212, 298, 319, 327, 332,
+333, 347, 348
+brain 97
+Eliza 25
+Elton, Ben 266
+EMI 102
+Emil Post’s Word Problem 258
+emotions 116
+encryption 165, 218, 277
+RSA encryption 165
+Encyclopedia Britannica 8
+English 86, 89, 129
+ENIAC 223
+Enigma 211, 212, 215, 218
+Entscheidungsproblem 211, 219, 221
+EPR paradox 332
+Equitable Center 5
+equivalence 200
+Ericsson, Anders 37
+Ernő 169
+Escher, MC 346
+and Penrose Steps 51
+Essential Complexity 231
+Euclid’s proof 156
+Euler 157, 202
+Eureka moment 302
+Everett, Hugh 328
+experiments 1
+exponent 241
+expression analysis 84
+eyes 108
+color perception 110
+fovea centralis 112
+resolution of 112
+F
+Facebook 71, 271
+face-to-face interaction 83
+false paradox 155
+Fermat’s Last Theorem xi, 225, 241, 242,
+251, 253, 254, 259, 261, 275, 278,
+351, 368
+Fermat’s puzzle 225
+Fermilab 293
+Feynman, Richard 58, 70, 157, 239, 306,
+326, 364, 399
+Feynman’s proof 157
+Fields Fellowship 368
+Fields Medal 368
+Finland 54
+FitzGerald, Edward 372
+Florida State University 37
+flowchart 244
+Fluid Concepts & Creative Analogies 49
+fluid intelligence 29, 33
+fluorescent dyes 100
+410 Are the Androids Dreaming Yet?
+Flynn Effect 33
+Flynn, James 33
+Formalism 193
+Four Color Conjecture 251
+fovea centralis 112
+f-PET 107
+fractals 329
+Franklin, Benjamin 152
+Frankston, Bob 237
+Freedman, Stuart 333
+FreeSWITCH 265
+free will 41, 313–354
+determinism and 315
+God and 339
+particles 349
+Schrödinger’s cat 325
+simple theorem 337
+The Free Will Theorem 343
+twin particle experiment 331
+uncertainty 318
+Frege, Gottlob 155
+French 90
+French Academy of Science 238
+Fritz, chess program 5
+Frost, Robert 96
+future 373
+futures market 55
+G
+gadolinium 106
+Garden of Eden 339
+gate parity point 18
+Gates, Bill 236
+gears 42
+Geiger counter 326
+geometry 179
+German 86, 129
+Gettysburg Address 57
+‘G’ factors 29
+ginormous 131
+Giseng, Nicolas 335
+Gladwell, Malcolm 37
+Glass, Philip 8
+Gleick, James 171
+glucose 117
+God
+free will and 339
+Gödel Escher Bach 49
+Gödel, Kurt xi, 141, 193, 201, 221, 246
+Gödel limit 207
+Gödel numbers 203
+Goldbach’s Conjecture 157
+Golden Pineapples 365
+Good Will Hunting 257
+Google 20, 253, 271, 308, 367
+Gorbachev, Mikael 79
+Göttingen University 193
+grade inflation 32
+Graham, Martha 78
+Grand Masters 5
+Grand Theft Auto 91
+Grantchester 221
+Greece 15, 156
+and ancient Greeks 18
+Greek 87, 89, 149, 297
+Greek tragedy 87
+Gregory, Mike 396
+Grieg 259
+Group Intelligence 30
+Grove, Andy 18
+Grover’s algorithm 277
+guess xii
+Guilford, JP 299
+Gulf Stream 152
+Gurdon, Sir John 30
+H
+Haltcrash 244
+Halting Flowchart 245
+Halting Problem 243, 251, 258, 259
+Halting Program 225, 244
+Halting Question 243
+Hameroff, Stuart 119, 122, 282
+Hamlet 129, 254
+Hammond, Richard 97
+Hampton Court Palace 42
+Hard disk drives 306
+Harrison, John 365
+Harry Potter 92, 306
+Harvard Business School 306
+Harvard University 224, 307
+Hawking Bekenstein bound 6
+Hawking, Stephen x, xvi, 6, 132, 306, 326,
+339
+hearing 113
+heat-sight 102
+Hebrew 86, 87
+Hebrew University of Jerusalem 13
+Heisenberg’s uncertainty principle 318,
+335
+Index
+411
+Henry VIII 42
+hieroglyphics 89
+Higgs Boson 357
+Hilbert, David 182, 193, 194, 238
+Hilbert Problems 196, 221
+Hilbert’s 10th Problem 243, 253
+Hilbert’s Hotel 182
+Himalayas 55
+hippocampus 11, 32
+Hitler, Adolf 213
+Hoane, Joe 5
+Hodges, Wilfrid 150
+Höfði House 79, 80
+Hofstadter, Douglas xi, 49, 310
+Hogarth, Mark 280
+Hole in the Wall Project 35
+Holmes, Sherlock 148
+hologram 290
+Hong Kong 88
+horizontal abstraction 266
+Horn, John 29
+Hounsfield, Sir Godfrey 102
+Howell, Emily 7, 310
+Hubble 348
+Hulme, David 41
+hunters and spears 181
+hyper-communication 285–294, 293
+audio field 291
+bandwidth 288, 292
+digitization 289, 293
+reality 289
+symbolic communication 293
+hyper-computing 273
+hypercube 241–244
+hypotenuse 242
+I
+IBM 207, 224, 306
+and Watson 8
+Watson Research Laboratory 5
+Ig Nobel Prize 365
+imaging 99
+IMAX theatre 287, 290, 293
+Inception 50
+inconsistency
+in mathematics 204
+inconsistency defense 207
+incubation 1, 301
+Indiana University 49
+indirect proof 153, 158, 244
+infinity , 179, 280
+history of 179
+how to count 180
+larger than infinity 185
+Infinity Hotel 182
+infrared light 102
+innovator’s dilemma 306
+insight 2
+inspiration 2
+instinctive reactions 109
+Institute of Advanced Mathematics 212,
+258
+Intel 18, 224, 367
+intelligence 25
+fluid 29, 33
+‘G’ factors 29
+grade inflation 32
+human vs computing 75
+physical basis of 30
+quantitative numerical skills 30
+static 32
+time 29
+vision 29
+interaction 85
+face-to-face 83
+interferometer 326
+International Congress of Mathematicians
+196
+International Mathematical Union 368
+internet
+encryption 165, 277
+internet protocol 267
+intimation 2, 301
+intuitive thinking 2
+IP 267
+iPad 319
+iPhone 22, 238, 297
+iPod 289
+IQ 27, 33, 120
+IQ Test 27
+Iraq 87
+Iraq war 80
+Irvine 280
+ISABEL 14
+iTunes 130
+J
+Jabberwocky 135, 136
+Jaeggi, Susanne 33
+Japanese 87
+412 Are the Androids Dreaming Yet?
+Jape 310
+Jefferson, Thomas 308
+Jeopardy 9
+Jessie 145
+Jobs, Steve 47, 68, 296–297, 297, 306
+joke 93
+world’s funniest 94
+Joke Analysis and Production Engine 310
+Jones, JP 251
+K
+Kahn, Philip 237
+Kamailio 265
+Kasparov, Garry 5, 34
+and Deep Blue 4–6
+Kelvin, Lord 180
+Kerr Metric 280
+Khayyám, Omar 371
+King’s College 17, 211
+Kish, Daniel 13
+knitting 117
+knowledge 8
+analysis 204
+creating 141
+creativity and 141
+difficulty discovering 204
+discovery of 142
+nature of 193
+search for 140
+Kochen, Simon 343
+Kochen Specker 344
+Kochen-Specker Cube 347
+Kochen-Specker paradox 345
+Königsberg Bridges 202
+Königsberg University 202
+Kronecker 178
+Kurzweil, Ray 20, 261
+and Moore’s Law 19
+L
+lambda calculus 258
+language 129
+body 84
+Laplace, Pierre-Simon 317
+lateral thinking 297
+lava lamp 45
+Lavarand 45
+Law and Order 87
+learning 35–38
+Leibniz 319
+Leicestershire 89
+liar’s paradox 154
+library
+knowledge 143
+light 100
+spectrum 102
+lightning rod 152
+Linear-a 89
+Linear-b 89
+Linux 265
+Liszt, Franz 7, 129
+Loch Ness Monster 142
+Loch Ness Monster Song 138
+Loebner prize 72
+logic 149
+binary 150
+Boolean 150, 152
+checklists 152
+for computers 150
+limit 247
+purpose of 156
+reduction to the absurd 152
+Stoic 150
+Logic 150
+logic gates 18, 22, 121
+logic limit 262
+London Bridge 42
+London marathon 192, 202
+London Mathematical Society 15, 238
+London School of Economics 301
+London Science Museum 16
+long multiplication 240
+Lorenz Attractor 173
+Lorenz, Edward 170, 172
+Lotus Corporation 237
+Lucas argument 205
+Lucas, JR xi, 205
+Lucas-Penrose argument 205
+M
+Madam Tussaud 75
+magnetic fields 105
+Magnetic Resonance Imaging 105
+Makanin, Gennadií 258
+Malament, David 280
+Manchester University 236
+Mandarin 87
+Mandelbrot diagram 174
+Mandelbrot Set 161
+Manhattan Project 239
+Index
+413
+Marx, Groucho 153, 382
+Massachusetts 89
+Massachusetts Institute of Technology
+(MIT) 25, 165, 168, 307
+Masters, John 54
+mathematical proofs 156
+mathematical theorems xi
+mathematicians
+Polish 211
+mathematics 153
+axiom 198
+equivalence 200
+flat problem 164
+future of 196
+game of 200
+how to count 180
+inconsistency defense 207
+inconsistency in 204
+indirect proof 244
+infinity 179
+linear problem 164
+long multiplication 240
+Lucas argument 205
+mathematical creativity 309
+non-deterministic polynomial problems
+165
+Peano axioms 199, 205
+prime numbers 243
+PSPACE problem 168
+traveling salesman problem 166
+truth and rules 193, 200, 206
+Matiyasevich, Yuri 248, 251
+Mattapoisett 89
+Maude, Isabel 14
+Maxwell 298
+Mayan astronomers 70
+maze 164, 165
+McChrystal, General Stanley A 54
+McGinn, Colin 324
+McGurk Effect 114
+McLaughlin, Dan 37
+Mehrabian, Albert 84
+memory 11, 14, 90, 118
+digital 130
+photographic memory 119
+visio-spacial 28
+with age 120
+memory management 250
+meninges 97
+meningitis 14
+Merchant of Death 366
+Merilees, Philip 170
+Mesopotamia 87
+metre 28
+micro-expression analysis 84
+microphones 289
+Microsoft 237
+Microsoft Word 135
+microtubules 124, 281
+Miles, Andrew 368
+Millennium Falcon 348
+Milliken 394
+Minds, Machines and Gödel 205
+Minessale, Anthony 265
+Ming Dynasty 15
+mirror neurons 116
+Mirzakhani, Maryam 368
+Mitra, Sugata 35
+monkey 129
+moon shot story 144
+monkeys and typewriters 254
+Monty Python 93
+Moon Base 348
+Moore, Gordon 18
+Moore’s Law 18
+Morgan, Edwin 138, 142
+Morse code 336
+motor cortex 31
+Mozart 246, 298
+MRI scan 69, 104
+multiplication
+long 240
+Munduruku tribe 181
+Murphy’s Law 226
+muscle memory 90
+muscles 117, 192
+music 113
+computers and 258
+musical compositions 8
+myelin 31, 118
+N
+Napoleonic wars 129
+NASA 59
+Native American 89
+Navier Stokes Hypothesis 238
+nebula 174
+Negroponte, Nicolas 35
+neural network 116, 121, 280
+414 Are the Androids Dreaming Yet?
+neurons 50, 98, 116
+microtubules 281
+nerve impulse speed 99
+recovery time 121
+synapse 119
+Newcastle University 35
+Newman, Max 221
+Newton, Isaac 171, 319
+Newton’s Rings 321
+New York University School of Medicine
+12
+Niels Bohr Institute 327
+nitrocellulose 218
+Nixon, Richard 194
+Nobel, Alfred 365
+Nobel Prize 30, 50, 100, 102, 119, 213,
+326, 365
+non-algorithmic xi
+non-computable processes 373
+non-computable thought 261, 282
+noncomputational creativity xi
+non-determinism 275, 282, 318
+non-deterministic behavior 44
+non-deterministic polynomial problems
+165
+noninvasive imaging techniques 11
+nonverbal communication 84
+Norvig, Peter 57
+No Silver Bullet 237
+No Silver Bullet – Essence and Accidents of
+Software Engineering 231
+Nova Institute 50
+Nova Southeastern University 124
+Nuclear Magnetic Resonance 104
+numbers
+counting system 181
+defining 199
+Gödel numbers 203
+infinity 179
+nature of 155
+prime 156, 243, 343
+random 188
+real 186, 280
+Turing numbers 190
+zero 179
+Nyquist, Harry xiii
+O
+Occam’s Razor 68
+omnipotence 340
+omniscience 340
+On Computable Numbers and
+their Application to the
+Entscheidungsproblem 211
+One Laptop per Child 35, 82
+one-time pad 216, 337
+opium 55
+optical illusions 113
+oracle function 278
+order-of-magnitude 164
+O’Reilly, Edward 50
+Organon 149
+Orwell, George 178
+Outliers 37
+Oxford English Dictionary 86
+Oxford University xi, 50, 149, 205, 282
+P
+paperclip test 298
+paper tape 221
+paradox xi, 68, 70, 114, 153, 203, 326
+Barber paradox 155
+EPR paradox 332
+false 155
+Kochen-Specker paradox 345
+liar’s paradox 154
+Russell paradox 155
+Wiles paradox 247
+Zeno’s paradox 154
+parallel lines 179
+Paramecium 123–126
+particle accelerator 69
+Pasteur Institute 188
+pattern matching 49
+Pavillon de Breteuil 28
+PC revolution 236
+PDP11-34 236
+Peano axioms 199, 205
+Peano, Giuseppe 197, 199
+Pelmanism 28
+pendulum 121
+Penrose, Roger xi, 50, 56, 123, 205, 246,
+261, 282, 309, 328
+Penrose Steps 51, 113
+Pentagon 79
+people
+living forever 20
+Pérez, Shimon 81, 82
+permutation of information 135
+Persia 15
+Index
+415
+personal computers 307
+PET 107
+philosophical proof 246
+philosophy 193
+Photo Electric Effect 366
+photographic memory 119
+photons 110, 320, 331, 332, 348
+photosynthesis 50, 124
+physics 180
+determinism 316
+Picasso, Pablo 232, 246, 298
+pit vipers 102
+Pixar 306
+Places game 168
+plank interval 131, 255
+Plato 149, 179
+Podolsky, Jacob 332
+poem
+computer created 134
+Poincaré Conjecture 357
+Poincaré, Henri 171, 180
+Polaroid lenses 332
+police strike 54
+Polish Intelligence Bureau 211
+polynomial 164
+polywater 157
+positivism 153
+positron emission tomography 107
+Post, Emil 258
+Post Problems 258
+Powell, Colin 53
+PowerPoint 63
+preparation 301
+Previn, Andre 93
+prime numbers 156, 243, 343
+Princeton University 97, 212, 223, 251
+Principia Mathematica 195
+Private Eye 287
+process
+creativity versus 312
+program equivalence problem 250
+programmer 235, 238, 263
+programming geniuses 271
+super-programmers 266
+progressive cipher 214
+proof
+Feynman’s proof 157
+indirect 244
+mathematical 156
+philosophical 246
+PSPACE problem 168
+Pulitzer Prize 365, 367
+purpose on the planet 9
+puzzle
+two guards 151
+Pygmalion 25
+Pythagoras 243
+Pythagorean triangle 240
+Q
+quantitative numerical skills 30
+quants 71
+quantum brains 122
+quantum computers 277
+quantum cryptography 215, 217
+quantum effects 50, 282
+quantum gravity interaction 329
+quantum mechanics 22, 123, 180, 293,
+344
+Copenhagen interpretation 327
+quantum Morse machine 337
+quantum randomness 45
+quantum uncertainty 21
+quartz 121
+quartz crystal 43
+qubits 21
+quinine 100
+R
+radioactive decay 327
+random chance 254
+random numbers 44
+Reagan, Ronald 79
+reality 289
+real numbers 280
+reductio ad absurdum 152, 157
+reflection 319
+relativity 180
+Special Relativity 348
+Theory of Relativity 366
+Renaissance 16, 297
+Reykjavik 79
+rice
+covering chessboard 163
+Rice’s Theorem 267
+Riemann Hypothesis 238, 257
+Riemann surfaces 368
+Ritchie, Graeme 310
+Rivest, Ron 165
+Robinson Davis Matiyasevich theory 248
+416 Are the Androids Dreaming Yet?
+Robinson, Julia 248, 251
+Robinson, Sir Ken 299
+Rogers and Hammerstein 266
+Rommel 211
+Röntgen, Wilhelm 100
+Rosen, Samuel 332
+Rosetta Stone 89
+Rowling, JK 306
+Royal Swedish Academy of Sciences 366
+RSA encryption 165
+Rubik’s cube 345
+Rule 164 192
+rules 192, 200
+Rumsfeld, Donald 190, 194
+RunMe 245
+Ruohonen, Keijo 251
+Russell, Bertrand 155, 193, 195
+Russell paradox 155
+S
+Sachs, Oliver 12
+Sagan, Carl 68
+Sandler, Adam 12
+Sanford, Edward 38
+Schadenfreude 86
+Scherbius, Arthur 211
+Schrödinger, Erwin 326
+Schrödinger’s cat 325
+Scientific American 85
+scripts and symbols 87
+Searle’s Chinese Room 66, 222
+secret message 214
+Seeger, Pete 162
+Sego, Daniel 335
+self-halting problem 250
+SendMail 265
+Shadows of the Mind 50, 282
+Shakespeare, William 39, 129, 131, 138,
+140, 254
+Shamir, Adi 165
+Shannon, Claude xiii, 3, 216, 337
+Sharman, Mike ix
+Shaw, George Bernard 25, 78, 286
+Shockley, William 30
+Shor’s algorithm 277
+Siegelmann, Hava 280
+silicon chip 20
+Silicon Graphics 45
+Simonsen, Inge 192
+Singer, Isaac 314
+Singh, Simon 242
+single cell organisms 18
+singularity 261
+Siri 56
+Skinner, BF 34
+smallpox virus 189
+smile 84
+sock analogy 332
+software 224, 231
+bugs 262
+coding 264
+drag and drop 237
+flowchart 244
+modern word processor 236
+origins of 238
+PC revolution 236
+problems 250
+process 270
+programmer 235, 238, 263
+programming geniuses 271
+re-architect 270
+scope creep 270
+spreadsheet 237
+super-programmers 266
+writing 235
+sorting 164
+Soviets 79
+space like separation 348
+Space Shuttle Columbia 58
+Spanish 90
+spears and hunters 181
+Special Purpose Objection 253
+Special Relativity 348
+speed of light 317
+spell checkers 139
+spin 343
+Spolsky, Joel 256
+Law of Leaky Abstractions 256
+Spolsky’s Law 267
+spreadsheet 237
+Stanford University 30
+starch 118
+Star Trek 157, 348
+Star Wars 79
+static intelligence 32
+statistical approach 8
+Stern, William 27
+Stockhausen 7
+Stoic logic 150
+story 92
+Index
+417
+Strategic Defense Initiative 79
+stroke damage 12
+substitution code 203
+Sumerians 87
+superconductivity 22
+super-programmers 266
+super-Turing 275, 278, 283, 294
+syllogisms 150, 152, 158
+symbolic communication 87, 293
+symbols 130, 143, 194, 201
+synapse 119
+system argument 66
+T
+Tagg, James
+Home Page 232
+Tallis, Thomas 259
+tapetum lucidum 110
+TCP 267
+Terman, Lewis 30
+The Art of Thought 301
+The Boy Who Can’t Forget 120
+The Cognitive Style of PowerPoint 63
+The Emperor’s New Mind xi, 50, 246, 282
+The Free Will Theorem 343
+The Free Will Universe 231
+The Game of Logic 150
+The God Delusion 339
+The History of Western Philosophy 193
+The Innovators Dilemma 306
+The Journal of Irreproducible Results 139
+The Labyrinth 150
+The Man who Mistook his Wife for a Hat
+12
+The Mythical Man Month 231
+Theory of Relativity 366
+Thermal Imaging 101
+The Sound of Music 266
+The Talent Code 37
+The Universe in a Nutshell 339
+The Webby Awards 365
+thiamin molecules 124
+thinking 117
+Thomas, Dylan 140
+thought art 87
+Three Body Problem 171
+time intelligence 29
+time travel 316
+Tokyo University 13
+Tolstoy, Leo 129
+War and Peace 129
+toothed gears 43
+Top Gear 97
+topology 249
+tortoise and hare 154
+Torvalds, Linus 232, 265
+totality problem 250
+Tower of London 42
+Transmission Control Protocol 267
+traveling salesman problem 166
+triple drug therapy 158
+truth 192
+tubulin 98, 118, 122, 124
+single-celled organisms 123
+tubulin microtubules 282
+tubulin molecules 50
+Tufte, Ed 53, 63, 92
+Tufts University 102
+Turing, Alan xi, 15, 17, 26, 71, 96–97,
+141, 209, 210, 211, 238, 258, 259,
+302, 342
+and Churchill 213
+and computer understanding 212
+and Enigma 212
+and The Decision Problem 212, 219,
+238
+and World War II 213
+at Bletchley Park 212
+at Cambridge University 211
+at Princeton University 212
+birth 211
+death 213
+homosexuality 213
+Turing Award 213
+Turing Award 367
+Turing limit 155, 253, 260, 275, 278, 280
+Turing machine 212, 221, 246, 251, 275,
+278, 280, 353
+Lego 223
+universal Turing machine 222
+Turing numbers 190
+Turing test 67, 71, 72, 261
+Turing theorem 351
+Tuszynski, Jack 119
+twin particle experiment 331
+twins 31
+two guards puzzle 151
+Two Ronnies 86, 93
+418 Are the Androids Dreaming Yet?
+U
+Ultimate Question of Life the Universe and
+Everything 238
+ultraviolet light 100
+Uncanny Valley 75
+uncertainty 318
+understanding xiii, 53
+meaning of 56
+of computers 71
+Unicode 129, 203
+United States Army’s Ballistic Research
+Laboratory 223
+Universal Turing Machine 246
+universe
+anthropic principle 322
+complexity and chaos 173
+determined 207
+deterministic 175
+end of 140
+University of Alberta 119
+University of Arizona 119, 122, 282
+University of Calgary 251
+University of California 280
+University of Maryland 33
+University of Massachusetts 280
+University of Montreal 117
+University of Moscow 258
+University of Otago 33
+University of Santa Cruz 7
+University of Vienna 202
+urban legend 11
+US Supreme Court 28
+V
+van Gogh, Vincent 142
+variable initialization 250
+vertical abstraction 267
+Visco, Frank L 396
+vision 109
+vision intelligence 29
+visual agnosia 12
+Volkswagen Polo 312
+von Neumann, John 223
+Vorderman, Carol 30
+W
+Wallas, Graham 1, 301
+Wang 308
+War and Peace 129
+Watson computer 8, 207
+Watson Research Laboratory 5
+wave interference 320
+wavelength 102
+weather
+predicting 168, 172
+Wechsler Test 27
+Weizenbaum, Joseph 25
+West, Mae 78
+Whitehead, Alfred North 195
+Who Wants to be a Millionaire? 347
+Wikipedia 8, 129, 231
+Wilder, Billy 128
+Wiles, Andrew xi, 75, 242, 248, 251, 254,
+259, 261, 351
+Wiles Paradox 247
+William of Occam 68
+Winchester Drives 306
+Wise, Michael 335
+Wolfram, Stephen 173, 246, 352
+Woods, Tiger 116
+WordPress 237
+World War I (First World War) 211, 337
+World War II (Second World War) 17,
+218, 337
+code breakers 211
+Wozniak, Steve 10, 68
+Wright, Stephen 274
+WYSIWYG 237
+X
+XPRIZE 238, 367
+X-ray 69, 100
+damage from 104
+slicing technique 102
+wavelength 102
+Y
+Yellow Pages 308
+Z
+Zar, Jerrold H 139
+Zeitgeist 86
+Zeno machine 280
+Zeno’s paradox 154
+Zermelo-Fraenkel set theory 156
+zigzag method 182
+Index
+419
+

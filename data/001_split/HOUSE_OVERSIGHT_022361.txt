@@ -1,0 +1,245 @@
+﻿Blanche Lark Christerson
+Managing Director, Senior Wealth Planning Strategist
+Tax Topics
+2013-05
+04/29/13
+Fiscal Year 2014 Budget issued
+On April 10 th , President Obama issued his Fiscal Year 2014 budget. Shortly thereafter, the Treasury
+Department issued its “Green Book,” which explains the tax provisions in the budget. Although most of
+these provisions are familiar and have appeared in previous budgets, a few were new. Here is a selected
+overview of some of these provisions, most of which would apply (assuming Congress enacts them) as of
+2014:
+• Limit the value of certain tax benefits. As in previous budgets, the current budget proposes to limit
+the value of various tax benefits so that they only reduce or shelter income that would be taxed at 28%
+or less. In other words, taxpayers with income that would be taxed at the 33%, 35% or 39.6% rate
+would see tax benefits curtailed, including ALL itemized deductions (these include deductions for
+mortgage interest, charitable contributions and state and local taxes), tax-exempt municipal bond
+interest, employer and employee contributions to employer-sponsored health insurance, employee
+contributions to retirement plans such as 401(k)s, contributions to health savings accounts and Archer
+medical savings accounts, interest on education loans and certain higher education expenses. Because
+an affected taxpayer’s pre-tax contribution to her retirement account would be taxed, the account’s
+“basis” would be increased accordingly.
+Comments. This proposal is not new, but the basis adjustment for retirement accounts is an equitable
+provision that was previously missing. Also, because the proposal would apply to income that is taxed
+at 33%, 35% or 39.6%, it would increase taxes on some of those President Obama has previously
+pledged to insulate from higher taxes – namely, individuals with income under $200,000 or married
+couples filing jointly with income under $250,000. That is, in 2013, the 33% tax rate applies to taxable
+income in excess of $183,250 (single taxpayers), $203,150 (head of household) and $223,050 (married
+filing jointly).
+• The “Buffett Rule.” To limit the advantage that high-income taxpayers enjoy from the preferential low
+rates on dividends and long-term capital gains, the budget proposes the “Fair Share Tax” (FST), a new
+minimum tax designed to ensure that taxpayers pay at least 30% on their adjusted gross income (AGI)
+(a credit for charitable contributions would be allowed). Translated, this means that if the taxpayer’s
+“regular” taxes (including certain credits, the alternative minimum tax and the new 3.8% surtax on net
+investment income) and payroll taxes didn’t reach 30%, the FST would make up the difference. The
+FST would be phased in starting at $1 million of AGI, and would be fully phased in at $2 million of AGI
+(these thresholds would be indexed for inflation as of 2015).
+Comments. Taxpayers who already pay an aggregate 30% in regular and payroll taxes would not be
+subject to the FST – but those who chiefly have income from qualified dividends and long-term capital
+gains (and therefore have lower than a 30% effective rate) would see a significant tax increase.
+• Restore the 2009 transfer tax parameters. Beginning in 2018, the transfer tax provisions that were in
+effect in 2009 would be restored. The top transfer tax rate would thus be 45% instead of 40%; the
+estate tax exclusion and generation-skipping transfer tax (GST) exemption would be $3.5 million, and
+the gift tax exclusion would be $1 million (these amounts would not be indexed for inflation). In
+computing gift or estate tax liability with respect to these reduced exclusions, taxpayers would not be
+affected by “clawback.” That is, they wouldn’t be subject to additional tax if they had taken advantage of
+the previous (higher) exclusion amounts (in 2013, the applicable exclusion amount (AEA) against gift
+and estate tax is $5.25 million, and is indexed for inflation; the GST exemption equals the AEA).
+“Portability,” which allows a surviving spouse to effectively “inherit” the deceased spouse’s unused AEA,
+would continue.
+Comments. Despite President Obama’s urging to the contrary, the American Taxpayer Relief Act of
+2012 (ATRA), enacted on January 2, 2013, made permanent most of the transfer tax provisions that
+were in effect in 2011 and 2012: a $5 million exclusion amount, indexed for inflation, against gift and
+estate taxes and GST, and portability. (ATRA increased the top transfer tax rate from 35% to 40%.) In
+other words, Congress just “permanently” stabilized transfer taxes, and is probably not eager to revisit
+them anytime soon. Yet the budget proposes relitigating the issue, and reverting to the 2009 regime –
+but not until 2018. Perhaps this is more protest than blueprint.
+• Require consistent basis for transfer tax and income tax. The basis of inherited property would
+have to equal the property’s estate tax value, and the basis of property received by lifetime gift would
+have to equal the donor’s basis. Although these are, in fact, generally the current rules, the proposal
+would require executors of estates and donors of lifetime gifts to report the property’s value and basis to
+both the recipient and the IRS.
+• Require a minimum term for Grantor Retained Annuity Trusts (GRATs). To limit the effectiveness
+of GRATs, which are designed to pass potential appreciation at little or no gift-tax “cost," GRATs would
+be required to have: 1) a minimum term of 10 years and a maximum term of the annuitant’s life
+expectancy plus 10 years; 2) at least some gift at the trust’s creation (i.e., no more “zeroed-out” GRATs);
+and 3) no declining annuity during the trust’s term.
+• Limit the duration of the GST exemption. A trust that is protected from generation-skipping transfer
+tax would lose that protection after 90 years, when GST would again apply to the trust.
+• Coordinate income and transfer tax rules regarding grantor trusts. The grantor of a “grantor trust”
+is responsible for paying the trust’s income taxes. Such trusts are often includible in the grantor’s estate
+(as in a “revocable trust” or a GRAT). A trust that is not includible in the grantor’s estate but for which
+the grantor is responsible for paying the income taxes is a “defective” grantor trust. Transactions
+between the grantor and his grantor trust are not recognized for income tax purposes, so that if, for
+example, the grantor sells appreciated property to a defective grantor trust in exchange for an interest-
+Tax Topics 04/29/13 2
+bearing note – known as a “sale to a defective grantor trust” – the sale does not trigger capital gains
+taxes and the grantor is not taxable on the trust’s interest payments to him. Such transactions can pass
+significant potential appreciation to the grantor’s heirs free of gift tax and generation-skipping transfer
+tax.
+To eliminate this planning technique, the proposal provides that if the deemed income tax owner of a
+trust (this could be the grantor or a beneficiary) “engages in a transaction with that trust that constitutes
+a sale, exchange, or comparable transaction,” then the portion of the trust attributable to this transaction
+(along with income or appreciation on the property): 1) would be includible in the deemed owner’s
+estate; 2) would be subject to gift tax if the deemed owner ceased to own the trust during life; and 3)
+would be treated as a gift from the deemed owner if, during the owner’s life, distributions were made
+from the trust to another person. Any gift or estate tax triggered by the proposal would be payable from
+the trust. The proposal would not apply to trusts that are already includible in the grantor’s estate, “rabbi
+trusts” (non-qualified deferred compensation plans that are subject to claims of the grantor’s creditors) or
+trusts that are grantor trusts solely because the trust’s income can be used to pay insurance premiums
+on the life of the grantor or the grantor’s spouse (i.e., insurance trusts that are designed to remove
+insurance proceeds from an insured’s estate).
+Comments. Last year was the first appearance of this proposal to unify income and transfer tax rules
+for grantor trusts. It was so broadly worded that it would have caught existing trusts, such as insurance
+trusts. This new iteration simply targets sales to defective grantor trusts.
+• Extend the lien on estate tax deferrals. The tax law allows the estate tax on certain closely held
+business interests to be deferred for up to 15+ years from the decedent’s death. Another provision of
+the tax law imposes what is generally a ten-year lien on the estate’s assets to ensure payment of the
+estate tax. Because that lien can expire before the estate tax is paid, it may be difficult for the IRS to
+collect those tax dollars. The proposal would extend the lien through the permitted deferral period.
+• Clarify the GST treatment of “HEETs.” Donors can make direct payments of tuition and medical
+expenses free of gift tax. If that donor is a grandparent, for example, such payments are also free of
+generation-skipping transfer tax. Specifically, the tax law provides that the GST will not apply to “any
+transfer which, if made inter vivos by an individual [i.e., during the donor’s life], would not be treated as a
+taxable gift” because it is a direct payment for tuition or medical expenses. This language has been
+read to mean the following: GST will not apply to a trust’s direct payments for, say, a grandchildbeneficiary’s
+tuition or medical expenses, even though the trust is otherwise subject to GST.
+Some planners have taken this understanding a step further with “HEETs,” or Health and Education
+Exclusion Trusts. These trusts purportedly are fully protected from GST, despite not having any GST
+exemption allocated to them. That is, because charity has an ongoing “substantial” income interest in
+the HEET (say, 10%), gifts into the trust are not subject to GST, and GST won’t apply when one
+generational level of beneficiaries dies off. In addition, trust distributions on behalf of beneficiaries such
+as grandchildren can only be made for tuition or medical expenses, and are therefore GST-exempt. The
+proposal says that it would “clarify” that this GST exclusion for direct payments of tuition or medical
+expenses only applies to payments made by a living donor, and not from a trust. The proposal would
+apply to trusts created after the bill proposing this change is introduced in Congress, and to transfers
+after that date made to pre-existing trusts.
+Comments. The desire to "clarify" this special exclusion reflects the perception that HEETs are
+abusive, given the proposal’s recommended effective date (introduction, rather than enactment, of
+legislation). Despite this perception, however, it is worth noting that trusts that typically take advantage
+Tax Topics 04/29/13 3
+of direct payments for tuition and medical expenses are subject to GST but for this special exclusion.
+Also, although HEETs have been written about in planning publications, it is unclear how often they are
+actually implemented: donors who use their GST exemption for multi-generational trusts often feel that
+they’ve done “enough” for those lower generations, and may lack the charitable intent necessary for the
+HEET to work. In addition, given life’s uncertainties, trust creators may be reluctant to limit trust
+distributions to tuition and medical expenses only.
+• Tax “carried” (profits) interests as ordinary income. In exchange for their services on behalf of
+hedge funds and private equity funds, managers of these entities are often compensated with what are
+called “carried interests,” or profits from the entity. Because these profits interests are structured as
+partnership interests, they pass through long-term capital gain to the partners/managers, and are
+therefore taxed at preferential rates. The proposal would not recharacterize the treatment of a partner’s
+investment in the entity, but would tax as ordinary income what is viewed as compensation for the
+partner’s investment management services for the partnership. Thus, a partner’s share of income in an
+“investment services partnership interest” (ISPI), regardless of how the income is characterized at the
+partnership level, would be taxed as ordinary income, and would also be subject to self-employment tax.
+An ISPI is an interest in future profits of an “investment partnership”; an investment partnership is one in
+which substantially all of the entity’s assets are investment-type assets, such as certain securities, real
+estate, interests in partnerships, commodities, cash or cash equivalents, or derivative contracts related
+to those assets.
+• Tighten up conservation easements. Donors of conservation easements typically get a charitable
+deduction for the permanent restrictions they put on property that will be used exclusively for
+conservation purposes. Recent court decisions have upheld large deductions for easements preserving
+recreational amenities, including golf courses, surrounded by upscale homes. These contributions have
+raised concerns that the deductions claimed are excessive and seem to promote private interests rather
+than bona fide conservation activities. The proposal would prohibit a deduction for a conservation
+easement on a golf course. A second proposal would address historic preservation easements, and
+would disallow a deduction for restricting the “upward development” of an historic building, since such
+development is typically already restricted under local ordinances. In addition, conservation easements
+on buildings listed in the National Register would need to comply with the same (more stringent) rules
+applicable to buildings in a registered historic district.
+• Limit protracted payout for non-spouse beneficiaries of IRAs and retirement plans. Under current
+law, a non-spouse beneficiary of an IRA or a retirement plan (such as a 401(k)) must begin taking
+“required minimum distributions” (RMDs) from the account the year after the account owner’s death, but
+can spread those distributions out over her life expectancy. Thus, if widowed Mom names Child as
+beneficiary of her IRA, for example, and Child is 40 when Mom dies, Child’s RMDs can last over 40
+years, assuming those are the only distributions Child takes from the account. The proposal would
+change this rule, and in general would require that non-spouse beneficiaries withdraw the balance of the
+retirement account within five years after the owner’s death. (Certain exceptions would apply for
+“eligible” beneficiaries, such as those who are disabled, chronically ill or a child under the age of
+majority.) The reason for the proposed change is that retirement accounts were intended to benefit
+owners and their spouses, and not heirs such as children and grandchildren.
+Comments. It is not surprising to see this proposal, as last year, something similar was in a highway
+bill, but was then pulled. Given the need for revenue, limiting the generous protracted payouts currently
+permitted for non-spouse beneficiaries seems like low-hanging fruit. If enacted, the proposal would
+potentially make it less attractive for owners of substantial traditional IRAs to convert that IRA into a Roth
+Tax Topics 04/29/13 4
+IRA, so as to provide, say, children and grandchildren with long-term income-tax free annuities.
+Nevertheless, even if those beneficiaries had to take the balance of the Roth IRA within five years of the
+owner's death, they still would be receiving income-tax free dollars – something that would not be the
+case if they had simply “inherited” a traditional IRA with its built-in income tax liability. In other words, by
+converting a traditional IRA into a Roth IRA, the owner is accomplishing something akin to what happens
+with a defective grantor trust (see above): relieving the beneficiaries of an income tax liability they would
+otherwise have to pay.
+• Limit the size of retirement benefits. Under current law, there are limits as to how much individuals
+can accrue under a defined benefit plan (such as a pension plan), or how much they can contribute to
+IRAs and various defined contribution plans, such as 401(k)s. There are no limits, however, as to how
+much individuals can accumulate in these tax-preferred accounts. Because of this, the proposal
+explains, individuals can accumulate more than is needed to fund “reasonable levels of consumption in
+retirement…well beyond the level of accumulation that justifies tax-advantaged treatment of retirement
+savings accounts.” The proposal would therefore cap the size of a taxpayer’s various retirement
+accounts by barring additional contributions (or accruals) if, in total, the accounts exceeded what was
+necessary to provide the maximum annuity permitted for a defined benefit plan: currently $205,000 per
+year for a hypothetical 62 year-old and her spouse (this equates to accumulations of about $3.4 million).
+When a taxpayer’s accounts hit that ceiling, they could still grow through investment returns, but
+additions to the accounts would only be allowed if the maximum permitted annuity increased, or the
+taxpayer’s investment returns for a given year were less than the actuarial assumptions underlying the
+annuity. If an addition put a taxpayer’s accounts over the ceiling, the taxpayer would include that excess
+in income, and have a grace period to withdraw it; if the taxpayer did not withdraw the excess, then that
+amount and attributable earnings would be subject to income tax when distributed, even if the
+distribution was from a Roth IRA or a Roth 401(k).
+Comments. This new proposal seems to be a reaction to this fall's presidential elections and the
+significant retirement accounts of one of the contenders. Nevertheless, it is not an excise tax to whittle
+down significant accounts, but a prohibition on additional contributions (or accruals). As Treasury
+Secretary Lew has pointed out, we’re not saying you can’t save for retirement, we’re just saying that
+such large amounts shouldn’t be tax-preferred. Still, will Congress really be inclined to limit how much
+taxpayers can accumulate in their retirement accounts, especially when a rising interest rate
+environment would make the permitted accumulation smaller? Although anything is possible,
+particularly if tax reform really comes about, Congressional sentiment might be against what could be
+viewed as “penalizing” successful savers.
+• Replace Consumer Price Index (CPI) with Chained CPI. Every year, the IRS issues inflation-adjusted
+numbers for a variety of provisions, such as the income thresholds for the individual income tax rate
+brackets, personal exemptions, and income thresholds and phase-out ranges for various deductions,
+exclusions and tax credits. The proposal states that the CPI overstates the effects of inflation because it
+doesn’t fully reflect consumer reaction to price changes (as in, if prices go up, consumers will buy
+something cheaper). A “chained” CPI would “account more fully for this substitution effect” and better
+reflect changes in the cost of living. The proposal would take effect as of 2015.
+Comments. Just as the proposal to limit tax benefits for income that would be taxed at higher than 28%
+would raise taxes on some of those President Obama has previously pledged to protect (see above), a
+chained CPI would also raise taxes for everyone, in that tax brackets (and other tax benefits, such as
+personal exemptions) would increase more slowly. Similarly, a chained CPI would reduce cost-of-living
+increases for Social Security recipients – again something that would affect those the President has
+pledged to protect. Although this proposal represents an attempt at balance, Republicans and
+Democrats generally seem to dislike it, but for different reasons.
+Tax Topics 04/29/13 5
+Legislative prospects? Where these proposals go may be a function of what happens with possible tax
+reform – and the prospects of that are…unknown. Rep. Dave Camp (R-MI), Chairman of the House Ways &
+Means Committee has been holding hearings, and issuing a number of legislative proposals that are
+designed to elicit comments and prod tax reform. Sen. Max Baucus (D-MT), Chairman of the Senate
+Finance Committee, has also been pursuing tax reform, but has recently announced his retirement. Does
+that put him in a better or worse position to achieve this goal? Time will tell. But trying to reconcile the
+Republican desire for lower rates and a broader tax base with the Democratic desire for higher taxes on
+those they feel can best afford them will not be easy. Considering the country’s pressing fiscal needs,
+however, it’s hard to imagine that tax revenues won’t have to go up at some point. The question is how, and
+whose ox gets gored.
+May 7520 rate issued
+The IRS has issued the May 2013 7520 rate. It is 1.2%, a drop of 0.20% (20 basis points) from April’s rate
+of 1.4%. May’s annual, semiannual, quarterly and monthly mid-term rates are all 1%, a 0.09% (9 basis
+points) drop from April’s annual, semiannual, quarterly and monthly mid-term rates, which were all 1.09%.
+Blanche Lark Christerson is a managing director at Deutsche Asset & Wealth Management in New York
+City, and can be reached at blanche.christerson@db.com.
+The opinions and analyses expressed herein are those of the author and do not necessarily reflect those of Deutsche Bank AG or any
+affiliate thereof (collectively, the “Bank”). Any suggestions contained herein are general, and do not take into account an individual’s
+specific circumstances or applicable governing law, which may vary from jurisdiction to jurisdiction and be subject to change. No
+warranty or representation, express or implied, is made by the Bank, nor does the Bank accept any liability with respect to the
+information and data set forth herein. The information contained herein is not intended to be, and does not constitute, legal, tax,
+accounting or other professional advice; it is also not intended to offer penalty protection or to promote, market or recommend any
+transaction or matter addressed herein. Recipients should consult their applicable professional advisors prior to acting on the
+information set forth herein. This material may not be reproduced without the express permission of the author. "Deutsche Bank" means
+Deutsche Bank AG and its affiliated companies. Deutsche Asset & Wealth Management represents the asset management and wealth
+management activities conducted by Deutsche Bank AG or its subsidiaries. Clients are provided Deutsche Asset & Wealth
+Management products or services by one or more legal entities that are identified to clients pursuant to the contracts, agreements,
+offering materials or other documentation relevant to such products or services. Trust and estate and wealth planning services are
+provided through Deutsche Bank Trust Company, N.A., Deutsche Bank Trust Company Delaware and Deutsche Bank National Trust
+Company. © 2013 Deutsche Asset & Wealth Management. All rights reserved. 13-AWM-0182 014942 042913
+Tax Topics 04/29/13 6

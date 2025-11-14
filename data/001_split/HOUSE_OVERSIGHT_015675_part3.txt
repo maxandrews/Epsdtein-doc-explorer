@@ -1,0 +1,1828 @@
+generator, accidentally type out the script for Shakespeare’s Hamlet
+or write Tolstoy’s War and Peace? Is knowledge generation simply a
+numbers game?
+Leo Tolstoy’s War and Peace is generally assumed to be the longest
+novel ever written. This is not quite true. Wikipedia reckons the longest
+novel is a French book, Artamène, with over 2.1 million words. Tolstoy
+comes in sixteenth, with a mere half million!
+Written in 1869, War and Peace tells the story of five Russian families
+during the Napoleonic wars. Originally written in a mixture of Russian
+and French, and numbering over 500,000 words, it was quickly translated
+to other languages. The mistress of composer Franz Liszt translated it
+fully into French, where it expands to 550,000 words. Contrary to popular
+myth the length of the book drops slightly in German. If you really want
+to save paper Chinese is best. Because
+it uses a single symbol per word, the
+Chinese translation needs only 750,000
+characters compared with the 3 million
+for English. It is wrong to assume this
+is necessarily more efficient than a
+phonetic language. Although it might
+save on paper, it is considerably more
+laborious to write. Three strokes are
+required to write ‘war’ in English
+whereas the Chinese pictogram
+requires ten.
+War in Chinese
+Computers work with numbers. It is a simple process to translate
+a book into numbers because books are composed of discrete symbols.
+All we need do is give each symbol a unique number and record those
+numbers in digital format. Artistic works involving pictures and sound
+are more difficult to represent because they are continuous in nature. We
+have to digitize them first. With music or painting this inevitably means
+some loss of information as we can’t cut a sound or image into an infinite
+number of pieces.
+The modern standard for translating text to numbers is Unicode.
+Each character is represented by a five-digit number ranging from 1
+to 64,000 – two bytes for those of you who know computing. This is
+130 Are the Androids Dreaming Yet?
+sufficient to code almost all the world’s symbols, so we can avoid any
+accusation of being language-ist! Here are some examples of the
+Ancient Greek, Japanese:
+Kanji, Katakana, Chinese,
+and Russia-Cyrillic
+Symbols
+characters represented by Unicode.
+For our discussion, it does not matter which language War and
+Peace is written in. We just treat the symbols as numbers. I am going
+assume the English translation which has around 500,000 words; a nice
+round number. Assuming a generous 10 characters per word, War and
+Peace is approximately 10-megabytes – that’s about the same size as a
+music track on iTunes. In practice, the book uses a bit more memory, as
+there is some overhead for formatting information. My laptop has a 500
+Gigabyte hard disk so I could fit half a million copies of War and Peace
+on it!
+If we take a look at the contents of the file on my computer the book
+starts:
+8710110810844801141051109910144115111
+Can a computer calculate this number?
+The obvious answer is YES. It is just an integer like 1, 3 or 42. Granted
+it’s a large number, but the length of the number is simply the length of
+all the symbols in the book coded into Unicode – about 10 million digits.
+We have already determined this number can be stored on my hard disk
+half a million times, so it’s not an unimaginably large number. How long
+would it take to calculate the number corresponding to War and Peace?
+The simplest method is to count up starting at 1 then 2, 3, 4, 5, and
+so on until I try every number. Will this eventually get to the War and
+Peace number? The answer is yes. Eureka! All of human knowledge is
+computable. I have written this computation out as a simple computer
+program below. It says, in plain English, start at zero, go round a loop
+counting up one at a time and print each number as you go along.
+i==0; Loop i++ Print i;
+Knowledge
+131
+Easy!
+No, unfortunately. The problem is subtler than it first appears. First
+it will take a VEEEEERRRY long time. If I counted up from one, I would
+print out War and Peace eventually but it would take 120 billion, billion,
+billion, billion, billion… (I would need the entire length of this book
+to write out all the billions) years! For the physicists amongst you, I
+would need 10 30,000 years, assuming I could use every atom in the known
+universe counting in parallel at the plank interval. ‘The plank interval’ is
+the shortest time that can exist in the Universe as a discrete ‘tick’.
+Even going at this speed using with every atom in the known
+Universe would take 10 5,000 longer than the age of the Universe. This is
+stupendously long. Remember scientific notation means I have a 1 with
+5000 zeroes after it. It is a deceptive notation as something as innocuous
+as 10 120 is equal to the number of atoms in the known universe. 10 5,000 is
+an absolutely enormous number. If you hear something is going to ‘take
+until the end of time’, we’re talking a lot longer than that!
+You may have spotted that in the process of counting up to the War
+and Peace number we also count through EVERY book ever written
+shorter than 500,000 words in all the world’s languages. Interestingly we
+counted through the Japanese and Chinese translations of War and Peace
+quite a bit before we reached the English and finally French translations.
+During the process, we also stepped through countless other wonderful
+works: proofs of amazing theorems, the complete works of William
+Shakespeare, and every composition ever written. Sadly, we never knew
+it. The problem is my program never stopped and told me it had found
+any of these wonderful things. I would have to sit staring at the screen to
+spot them. If I was off doing something else – making a cup of tea, taking
+the kids to school – I would miss all these wonders; the program never
+tells me if it has succeeded, but quietly prints out War and Peace and
+carries on. This is really annoying. It’s not a useful machine.
+What I need is a machine that rings a bell when it finds something
+interesting so I can break away from what I am doing and take a look.
+Reading every book it writes in every language and all the nonsense
+in between would take a ginormous amount of my time. (By-the-way,
+contrary to statements by school teachers that ginormous is not a word
+– it is!) I want a computer to come up with War and Peace without me
+having to do all the work.
+It’s no help if the machine writes everything down and lets me take
+a look in my own good time. That only puts off the time when I have to
+begin reading all the gibberish it produced. Another practical problem
+is the massive storage required. Just imagine the immense piles of printer
+132 Are the Androids Dreaming Yet?
+paper! Stephen Hawking and Jacob Bekenstein have shown space appears
+to have a limit to the quantity of information it can store. The quantity of
+information we are looking at here is greater than the storage capacity of
+the Universe and would collapse space-time to a black hole before I got
+even a fraction of the way through. Let us try to be a bit cleverer about
+the task of creating this information.
+The simplest way to tie the computer down is to run a much
+stricter program. Ask it to count up from one until you get to a number
+representing the novel War and Peace and then print it, stop and ring a
+bell.
+Loop i++ until i == “War and Peace…”; Print i; ring-bell;
+This program succeeds!
+I am triumphant. I have calculated the War and Peace number, and
+this time I did not miss the event. But, if you consider this a little more
+deeply I gave the computer the answer! I told it the string “War and
+Peace…” and it was able to count up, stop, and tell me it reached it. In
+mathematical terminology, the program is said to have ‘halted’ when it
+reached the War and Peace number and in computer science speak it
+is a special purpose program designed to do only this one thing. This
+program is pointless. First, it would still take a ginormous amount of
+time to get there and, second, it is trivially the same as running the
+program: Print War and Peace.
+i = “War and Peace…”; Print i;
+It’s just the same as me taking my laptop, finding War and Peace and
+pressing print. In no way is this equivalent to Leo Tolstoy’s creative effort
+of writing War and Peace in the first place.
+What went wrong?
+I wanted my computer to find an interesting string I did not already
+know. War and Peace is trivially computable after Leo Tolstoy created it
+but the question is whether my computer could come up with War and
+Peace or some similar creative work on its own. Can it create and, more
+importantly, understand it has created something? We have linked the
+ideas of creativity and understanding, and this will prove to be the key
+to the problem.
+Knowledge
+133
+The Problem
+One suggestion put forward by Daniel Dennett is the creative process
+is a two-part task – generate ideas, then critically assess them. I can, in
+principle, make a program write out every possible book less than 500,000
+words long. Provided I don’t store the results this will not collapse the
+Universe. This just leaves the problem of writing another program to
+read all the output and ring a bell each time it finds some interesting
+truth. This second program might be called an appreciation program.
+Let’s examine this approach. I can write out a very simple program to do
+this – provided I cheat and ignore the complexity of the term ‘something
+interesting’. In plain English: Count up from one until I get an interesting
+fact, write it down and stop.
+Loop i++ until i == (Something Interesting), Print i
+This generates two problems. We need to make a program that
+can tell if something is interesting and it will need to be fast because it
+is going to be handed a huge amount of junk. Clearly I have a process
+running in my brain that can determine if something is interesting, but it
+is quite slow. It takes me an appreciable time to open a book, leaf through
+the pages and declare it either junk or interesting. Leo Tolstoy had a
+process in his brain that allowed him to create something interesting but
+I want to prove he did not do this by generating random junk and sifting
+through it. Let’s look at the mathematics.
+We know simply counting sequentially through every number
+would take too much time, but why not generate random numbers and
+run our critical eye over them? Surely this would give a faster result. Let
+us try with a short poem. How hard would it be to come across something
+as simple as a four-line poem using this technique?
+This poem, by the late Spike Milligan, is only 23 words long,
+including the title, and I have a powerful computer. Wouldn’t it be
+possible to generate it using a computer? Unfortunately, no. We humans
+don’t have a good head for large numbers and this problem is much
+harder than it appears. Let’s use playing cards to get a feeling for large
+numbers.
+134 Are the Androids Dreaming Yet?
+A Simple Poem
+Rain
+There are holes in the sky
+Where the rain gets in
+But they’re ever so small
+That’s why the rain is thin.
+Spike Milligan
+Spike Milligan
+Coming upon a poem by chance can be likened to the probability
+of dealing a perfect bridge hand. Shuffle the deck thoroughly and then
+deal four hands. What is the probability every player will have the ace
+through king in a single suit? It’s about 1 in 1,000,000,000,000,000 hands.
+Because lots of people play a lot of bridge around the world, this outcome
+has been reported quite a few times. The possibility appears within the
+bounds of human experience. Fifty-two playing cards seems close to the
+80 characters that make up this poem and 13 choices of cards is about the
+same as the 26 letters of the Latin alphabet. Wouldn’t we expect poems of
+this complexity to crop up almost as often?
+NO.
+Knowledge
+135
+The 80 characters of this poem versus the 52 playing cards and the
+greater choice offered by 26 letters increases the problem geometrically.
+Taken together the probability of accidentally getting this poem is vastly
+less than a perfect hand of bridge, 1 in 10 83 against the perfect bridge
+hand of 1 in 10 20 . That’s the difference between the number of atoms
+in the known universe and the number of atoms in a jug of water!
+Numbers get big very quickly when we are looking at the permutation
+of information. And there is another problem with our bridge analogy.
+All the bridge players in the world are part of the machine finding the
+perfect hand. When a human sees a perfect bridge hand they are amazed.
+It is an event that usually hits the local newspapers and a couple of years
+ago one reached the national papers in Britain. Each bridge player looks
+at every hand, they play so there is a huge amount of processing going on
+during every bridge game. To replicate this for our poem, we would need
+millions of poetry classes spending hours each evening reading through
+computer printouts of gibberish.
+I should also add that sightings of perfect bridge hands are almost
+certainly hoaxes. The probability of it happening even once would
+require everyone on Earth to play bridge continuously for a thousand
+years. It is reported somewhere in the world about two or three times a
+year. If we are charitable, we might assume people failed to shuffle the
+deck properly but I suspect some mischief is going on! The numbers
+don’t stack up…
+You might think the problem is one of improving the efficiency of
+the filter so humans would only have to examine a smaller number of
+possibilities. Surely I could improve things by writing a simple program
+to ban all non-English characters, words and poor grammar; things that
+don’t pass the Microsoft Word grammar checker. This would generate a
+more manageable number of potential poems.
+Lewis Carroll shows this does not work; my idea to use a grammar
+and spelling checker to filter out gibberish just eliminated Jabberwocky,
+one of the most famous verses in the English language. Take a look at
+what Microsoft Word thinks of it.
+136 Are the Androids Dreaming Yet?
+The Jabberwocky
+’Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+“Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!”
+He took his vorpal sword in hand:
+Long time the manxome foe he sought—
+So rested he by the Tumtum tree,
+And stood awhile in thought.
+And as in uffish thought he stood,
+The Jabberwock, with eyes of flame,
+Came whiffling through the tulgey wood,
+And burbled as it came!
+One, two! One, two! and through and through
+The vorpal blade went snicker-snack!
+He left it dead, and with its head
+He went galumphing back.
+“And hast thou slain the Jabberwock?
+Come to my arms, my beamish boy!
+O frabjous day! Callooh! Callay!”
+He chortled in his joy.
+Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+Lewis Carroll
+Lewis Carroll’s Jabberwocky
+Knowledge
+137
+The Jabberwocky Spell Check
+Microsoft Verdict on the Poem
+39 of the 166 words in the poem are unknown to Word’s spelling checker
+and this is an optimistic analysis of how the algorithm would fare. Many
+of the words are in the spelling checker because of the poem: galumphing,
+for example. Lewis Carroll’s work was sufficiently influential that part of
+138 Are the Androids Dreaming Yet?
+the English language was created in this poem. The same goes for much
+of Shakespeare. If we used a filter method, we would have just deleted
+most of Shakespeare from the English language! Indeed half the poems
+in my anthology of English verse are destined for the waste paper basket
+due to some minor infraction of ‘the rules’. If you want something that
+completely flummoxes my spelling checker here is the Loch Ness Monster
+Song by Scottish poet Edwin Morgan. I asked a Scottish friend whether
+Scottish spelling checkers fared any better and he assures me, no.
+The Loch Ness Monster’s Song
+Sssnnnwhuffffll?
+Hnwhuffl hhnnwfl hnfl hfl?
+Gdroblboblhobngbl gbl gl g g g g glbgl.
+Drublhaflablhaflubhafgabhaflhafl fl fl -
+gm grawwwww grf grawf awfgm graw gm.
+Hovoplodok - doplodovok - plovodokot
+- doplodokosh? Splgraw fok fok
+splgrafhatchgabrlgabrl fok splfok!
+Zgra kra gka fok!
+Grof grawff gahf?
+Gombl mbl bl -
+blm plm,
+blm plm,
+blm plm,
+blp
+Edwin Morgan
+The Loch Ness Monster
+Knowledge
+139
+The foibles of spell checkers have long been a personal pain to me
+because of my dyslexia. Although I can see the red underlining Microsoft
+Word kindly inserts so liberally into my text, I can’t easily see the occasions
+when I use a homonym. A fine poem illustrating the problem was kindly
+written by Jerrold H. Zar and published in The Journal of Irreproducible
+Results. It hangs on the wall behind my computer to remind me to check
+for these errors.
+Candidate for a Pullet Surprise
+By Jerrold H. Zar
+I have a spelling checker,
+It came with my PC.
+It plane lee marks four my revue
+Miss steaks aye can knot sea.
+Eye ran this poem threw it,
+Your sure reel glad two no.
+Its vary polished in it’s weigh.
+My checker tolled me sew.
+A checker is a bless sing,
+It freeze yew lodes of thyme.
+It helps me right awl stiles two reed,
+And aides me when eye rime.
+Each frays come posed up on my screen
+Eye trussed too bee a joule.
+The checker pours or every word
+Too cheque sum spelling rule.
+Bee fore a veiling checker’s
+Hour spelling mite decline,
+And if we’re lacks oar have a laps,
+We wood bee maid too wine.
+Butt now bee cause my spelling
+Is checked with such grate flare,
+Their are know fault’s with in my cite,
+Of nun eye am a wear.
+140 Are the Androids Dreaming Yet?
+Now spelling does knot phase me,
+It does knot bring a tier.
+My pay purrs awl due glad den
+With wrapped word’s fare as hear.
+Too rite with care is quite a feet
+Of witch won should bee proud,
+And wee mussed dew the best wee can,
+Sew flaw’s are knot aloud.
+Sow ewe can sea why aye dew prays
+Such soft wear four pea seas,
+And why eye brake in two averse
+Buy righting want too pleas.
+The Search for Knowledge
+I hope this explanation shows you the simplest model for creativity –
+working through every possibility, and examining them all – is doomed
+to failure. It would take longer than until the end of time to even list all
+the options, let alone analyze them.
+You might wonder just how long it is until the end of time? It’s
+generally assumed there are two possible ends to the Universe, a Big
+Crunch or heat death. Either way the approximate estimate is our
+Universe will last somewhere between one and fifty times longer than
+it has lasted so far. That’s a long time, at least another 15 billion years,
+but just generating War and Peace would take 5000 orders of magnitude
+longer than this!
+More complex models such as a three-step process have been
+suggested. We could perhaps randomly create information and put
+it through a mechanical filter to bring it down to a manageable set of
+options and then give it to an appreciation algorithm to finally decide
+whether we have created something. The real problem with this model is
+the filters. If we try to reduce the effort by assembling works only from
+pre-existing words, we will have filtered away many works we know and
+love. Gone are Shakespeare, Lewis Carroll, Dylan Thomas and Roald
+Dahl, shall I go on? Indeed, once upon a time there were no words, every
+word was coined at some point. The process of creating art is continually
+creative and mechanical filters can’t be applied to things they have not
+seen before.
+Knowledge
+141
+You might argue we could devise a more sophisticated mechanical
+filter, something that contains an algorithm with an understanding of the
+rules of language. The problem is both the size of the task and the nature
+of understanding. If I devised some really good appreciation algorithm
+which did not delete all the creative words of the English language, it
+would still have to read and appreciate the huge quantities of input until
+it hit upon something good. There is no way for any machine to read
+all this information in the age of our Universe; the numbers are just too
+large. And there is no way for a machine to understand all the rules of
+language, they are not written down and constantly evolve.
+These descriptions should give you an intuitive feel for nature of the
+creative problem. If you try to deconstruct it into mechanical steps you
+end up with either a mechanism that needs to be infinitely specified or
+one that lets through an infinite quantity of nonsense. A human could
+never sift through all that garbage to find the occasional pearl of wisdom.
+Until the beginning of the 20 th century, most people thought
+knowledge and creativity must be just a matter of scale. A big enough,
+fast enough machine should be able to solve any problem. But early in
+the 1930s two mathematicians – Kurt Gödel and Alan Turing – showed
+knowledge was not so simple. Let me give you a feel for why.
+Knowing When You Know
+The essence of creating knowledge, is to know when you have done so.
+In a sense, counting from one to infinity means I know everything, and
+merely counting to 50 million creates every piece of significant symbolic
+knowledge that will ever be written – all the books, plays, mathematical
+theorems you could possibly want. But, if I were to list all these numbers
+in an enormous imaginary book it would hardly constitute knowing
+everything: I would be awash with numbers but not with knowledge.
+The essential feature of ‘knowing’ is to have a small number of steps
+that will definitely answer a problem. For example, if I wish to phone
+someone I can look up their details on my phone. The process will tell
+me their number in two or three steps. If you tell me the number is
+somewhere in the phone book this is not knowledge. It could mean I
+need an infinite number of steps.
+If I accidentally deleted all the names in my phone – a nightmare
+scenario – and just had a print out of numbers would I still ‘know’ them?
+Obviously I would recognize my mother’s number, but most of them
+would be useless. To know something, I need link the information to
+what it is for. A number with a name allows me to predict what will
+142 Are the Androids Dreaming Yet?
+happen if I make a call. I will have an interesting conversation or pay
+my gas bill. It’s the same with most numbers. If I have a number that
+represents the design for a building or a mathematical theorem, these
+numbers have purpose. If I input these numbers to a computer along
+with some building design software or a copy of Mathematica they
+will do something interesting; allowing a construction firm to build a
+innovative building or a mathematician to check a theorem is sound.
+It’s a lot harder to prove numbers representing art are functionally
+useful. A work of art is in some sense not complete – it still needs to go
+through the process of being appreciated by someone. We could show it
+to a friend or exhibit it in a gallery but this is un unpredictable process.
+Van Gogh’s paintings were so criticized in his lifetime, many people
+would have denied them the label art, and Edwin Morgan’s Loch Ness
+Art or Information
+Monster poem is almost pure gibberish, but it’s undoubtedly art. Art is
+a tricky problem but, in practice, most of us agree on what constitutes
+good and bad art. We will look again at art, in Chapter 10.
+Classically we assume knowledge is discovered through random
+chance and iteration. To understand how this might work let’s lay out
+the world’s information in a way we can visualize. Imagine every piece
+of discoverable knowledge could be found in an infinitely large library.
+Knowledge
+143
+The infinity library would contain every possible symphony, theorem,
+novel, poem, and play ever written, or to be written. Its sister library
+next door, the continuum library, would contain all the analogue works
+of art; painting, sculpture, architecture, physical artifacts and the like.
+The curators of the two libraries would constantly argue over whose
+collection was the better. We’ll leave them to differ for the moment. The
+infinity library is interesting enough so let’s explore it first. After all, its
+sister, the continuum library, takes an infinite amount of time just to look
+at the first room, and we are in a hurry!
+Although the infinity library is infinite, we are probably only
+concerned with entries shorter than a million symbols. All the interesting
+papers, proofs and symphonies I know of are shorter than this. If I wanted
+to include all computer programs, I would still only need to increase it to
+100 million symbols. Looking for knowledge is not itself an infinite task.
+For the sake of clarity, I will ask the infinity librarian to organize
+the collection. Any book or paper will be sorted according to its title and
+the contents of its pages, and similar books should be grouped together.
+I also only want to look at the English section of the library for the
+moment. I will still have a huge section to look through but at least every
+work is titled and readable by me. Much of the information will be junk
+but amongst the sea of rubbish will be islands of useful knowledge. Now,
+is there a way to find knowledge in this library in an automated fashion?
+Battleship
+144 Are the Androids Dreaming Yet?
+The best analogy I can find to illustrate iterative knowledge discovery
+is the 1970s family game ‘Battleship’. The game consists of two 10 by 10
+grids that you plug your ships into. All the ships are linear shapes of a
+few squares in length. The players cannot see each other’s ships and must
+guess where they are. A very simple way to do this would be to ask your
+opponent whether they have a ship on the top left square and continue
+systematically across the board, square by square, until you reach the
+bottom right hand corner. This would eventually find every ship. If every
+ship were a piece of knowledge we could discover all the knowledge in
+the world by simply stepping through the board one cell at a time, but it
+would take a long time.
+A better way to play Battleship is to pick a square at random. If you
+get a hit, explore linearly around the hit. This will efficiently find the
+rest of the ship. The same might be true for knowledge. We could take
+random shots, get lucky and move linearly to flesh out our knowledge.
+Once we had exhausted an area we could take a step away at random and
+again hope for another hit. This process is exactly the way some people
+imagine the frontier of knowledge expands.
+But, it is wrong.
+The monkey moon shot story explains…
+“I believe that this nation should commit itself to achieving the goal,
+before this decade is out, of landing a monkey on the moon and
+returning him safely to Earth.”
+President Monkey
+The monkey nation is asked to mount a moon shot. After a little
+time a monkey is asked to report on progress.
+“I can report,” says the monkey, “I have climbed a particularly tall
+tree on the tallest hill on my island and have made over seven hundred
+meters progress towards the moon, although this is only 0.0001% of the
+way there, this has been quick so I believe we are well on the way.”
+You see of course the problem. Progress in many problems is
+nonlinear. Moving a bit of the way towards the goal does not provide any
+actual progress: That is the problem with knowledge. It is not linear in
+structure. You need to take leaps to discover new knowledge. You can not
+simply look around in the general area. Such leaps are mathematically
+huge. The chance of making a successful one by pure chance is virtually
+zero.
+Knowledge
+145
+But Cats Can!
+As chance would have it, as I was writing this book about the impossibility
+of creating great literary works at random, our new kitten, Jessie, sat
+on my keyboard – she likes the warmth. To my great embarrassment
+I have been proven wrong. Here is her first literary work. I managed to
+capture her on camera a little later that evening, editing a spreadsheet.
+My brain interprets this string as the cat thanking me for good food. I
+wonder if you see the same thing? This is just a demonstration of the
+strength of human pattern detection algorithms and not, sadly, of feline
+communication.
+Cats Creation
+…. Kkkklnk gfoooooooofd0------- iiiii;;;;;;;;;;;ii…..fffffffffffffffffffffffff……
+=================================================
+=================================================
+=================================================
+============================pppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppp..oppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppph
+Jessie Cat
+Jessie, Our Creative Kitten
+
+Chapter 6
+KITTENS &
+GORILLAS
+Orangutan and Kitten
+“No kitten that loves fish is
+unteachable; No kitten without
+a tail can play with a gorilla;
+Kittens with whiskers will always
+love fish; No teachable kitten
+has green eyes; No kittens have
+tails unless they have whisters;
+hence...”
+Lewis Carroll
+“Once you eliminate the
+impossible, whatever remains,
+however improbably, must be the
+truth.”
+Sherlock Holmes,
+Arthur Conan Doyle
+s well as giving us Alice, the Jabberwocky, and the Cheshire Cat,
+Lewis Carroll lectured on mathematics at Oxford University.
+He wrote several books on logic, illustrated with wonderful
+problems involving fish, kittens, and gorillas – much less boring than the
+brown, grass-eating cows of modern textbooks. Kittens and gorillas are
+not usually in much contact, but I did find one hit on Google, pictured!
+The words we organize into books, poems and plays are not just
+a random jumble; they have structure and a logic to them. We group
+verbs, subjects and objects together to form sentences and, at a larger
+scale, characters have motivations and relationships: this character
+loves that character, the valet had the candlestick in the ballroom and
+could not have stabbed the butler in the kitchen, and so on. We have
+dictionaries to define words, but to truly understand the information
+they convey we need to understand the logical rules governing how they
+can be combined.
+Everyday conversation is fragmented and repetitive. Fortunately,
+now and again, we say something definitive. For example, “This gorilla is
+brown.” The statement links a property, ‘brownness’, to a thing, ‘a gorilla’.
+Logical statements are precise but often need to be put in context. If I were
+standing in a forest when I made my statement you must guess I mean the
+nearest gorilla. The word ‘This’ implies nearness, but nearness is not well
+defined. Better to be precise. ‘The gorilla I am closest to, measured by line
+of sight distance is the Pantone shade dark brown.’ However, if I talked
+like this all day I would not have many friends.
+Logical Beginnings
+The formal study of logic began in 384BC with the publication of a treatise
+called the Organon by the Greek philosopher Aristotle. A student of
+Plato, Aristotle taught many of the famous leaders of his time, including
+Alexander The Great. Ancient Greece was not some idyllic think tank. If
+you annoyed the political establishment you might find yourself having
+to leave town in a hurry. This happened to Aristotle after Plato’s death,
+and he spent nearly a decade touring Europe. Eventually, he returned to
+Athens where he published his study on logic.
+In the Organon, Aristotle examined groups of up to four statements,
+each containing up to four relationships. For example: All kittens eat fish.
+Some kittens eat fish. No kittens love gorillas. No gorillas eat kittens –
+luckily. It is possible to put two statements back to back and infer things.
+150 Are the Androids Dreaming Yet?
+I could say, “All gorillas eat leaves.” “All leaves are green.” Therefore I can
+infer all gorillas eat some green things. This is a valid inference. It is not
+correct to say, gorillas eat only green things.
+There are 256 ways you can arrange four Aristotle statements with
+four relationships but only 19 valid deductive conclusions can be drawn.
+The kitten puzzle at the start of the chapter is an example of such a logical
+puzzle. Can you reach the right conclusion?
+ddd
+TRY SOLVING THE KITTEN PUZZLE WITHOUT READING ON
+Aristotle’s syllogisms are only a start. There are many other types of
+logic. In antiquity, the Stoics developed a different brand of logic based
+on the idea of larger and smaller. Stoic logic allows us to answer questions
+of relative size. If a Mini is smaller than an Audi, and an Audi is smaller
+than a Rolls Royce, then a Mini is smaller than a Rolls Royce. The Stoics
+pursued their branch of logic until around 180AD when study of this sort
+died out. It’s not quite clear why. Perhaps the rise of religious power and
+the onset of the Dark Ages curtailed intellectual inquiry. Even after the
+Enlightenment began around 1650 it took some time for the discipline of
+logic to re-emerge. If you want to learn more about syllogistic logic and
+how to solve Lewis Carroll’s puzzle you should read his book The Game
+of Logic. The definitive book on the logic of language, in my opinion, is
+Logic by Wilfrid Hodges.
+Logic for Computers
+Western civilization mostly survived on syllogisms and stoic logic for
+nearly two thousand years before George Boole devised his theory of
+binary logic in 1847. Boole developed an elegant mathematical system
+for representing logical statements that allowed simple arithmetical
+operations to answer logical questions. We now call this system Boolean
+logic and he gave us the modern convention of using one for true, and
+zero for false. Computers use his principles all the time. For example, if
+it is true my bank account shows less than zero, then make it true that
+someone will send me a letter warning me I am overdrawn. The best way
+to get your head around Boolean logic is to solve the ancient puzzle of
+the Two Guards. The puzzle featured in the 1986 movie, The Labyrinth,
+Kittens & Gorillas
+151
+starring David Bowie and Jennifer Connelly. If you want to cheat watch
+the film to see the answer. Here is the puzzle. I’ll put the answer on my
+website.
+Two guards stand barring your way and behind them are two
+doors. One guard always speaks the truth, while the other always
+lies. You are only allowed to ask one question of one of the guards.
+Your life depends on picking the right question to ask as, based on
+the answer, you must pick a door. One leads to life, the other to
+certain death. Is there a question you can ask to ensure you pick
+the door leading to life?
+TRY SOLVING THE GUARD PUZZLE
+ddd
+Twin Guards - Left door or Right
+If you are reading this, you picked the correct door and lived.
+152 Are the Androids Dreaming Yet?
+Logic for Humans
+Syllogisms can be used for practical purposes. Take, for example, the
+following set of statements, “I want a hot drink.” “Coffee and tea are hot
+drinks.” “I always drink milk with tea,” “We have no milk.” What drink
+should I choose? I’m sure you can work it out. This logical problem
+follows a simple chain and results in me getting the hot drink I like.
+We use Boolean logic on a day-to-day basis. The simplest form
+is a checklist. Pilots use checklists all the time; do I have wings, fuel
+and a copilot? If they are all there, go ahead and fly. Otherwise do not.
+Mathematically speaking, a checklist is simply the product of the options.
+If they are all one, then the product is one – in this case we can fly. If any is
+false – represented by a zero – the product will be zero and we cannot fly.
+Life is often more complicated and we have many logical tools at our
+disposal. Let’s take a look at a few, starting with a famous historical one.
+Benjamin Franklin invented the lightning rod and bifocal glasses,
+as well as charting the Gulf Stream and all manner of other scientific
+discoveries. He described his process for decision-making when there
+are many pros and cons to consider.
+“... my Way is, to divide half a Sheet of Paper by a Line into two
+Columns, writing over the one Pro, and over the other Con. Then
+during three or four Days Consideration I put down under the
+different Heads short Hints of the different Motives that at different
+Times occur to me for or against the Measure. When I have thus
+got them all together in one View, I endeavor to estimate their
+respective Weights; and where I find two, one on each side, that
+seem equal, I strike them both out: If I find a Reason pro equal to
+some two Reasons con, I strike out the three. If I judge some two
+Reasons con equal to some three Reasons pro, I strike out the five;
+and thus proceeding I find at length where the Balance lies; and
+if after a Day or two of farther Consideration nothing new that is
+of Importance occurs on either side, I come to a Determination
+accordingly.”
+Another important piece of logic is reductio ad absurdum. Reduction
+to the absurd allows us to disprove something because, if it were true, it
+would lead to an absurd conclusion. An alibi is a familiar form. If I was
+seen in the pub when the murder occurred in the ballroom of the manor
+house and you claim I committed the murder, I must have been in two
+places at once. People can’t be in two places at once – that would be
+absurd. Conclusion: I am innocent!
+Kittens & Gorillas
+153
+Notice I not only prove I am not guilty I also prove the opposite:
+I am innocent. When a mathematician uses this trick, it is called an
+indirect proof and works the same way as the alibi. Assume the opposite
+is true of some theory you want to prove (I am guilty). If it generates a
+contradiction or paradox (can’t be in two places at once) you can deduce
+the opposite must be true (innocence). Mathematicians use this all the
+time. It assumes, of course, mathematics is consistent and that true and
+false are opposites.
+Some mathematicians argue this is too strong an assumption. Why
+should we assume consistency and recognize only two logical states, true
+and false? These mathematicians believe the only way to prove a theorem
+is with positive argument rather than using the opposite of a negative
+argument. They don’t allow indirect proofs in their mathematical
+models. This type of mathematics is unsurprisingly called positivism. It’s
+a pure theory but, unfortunately, if you try to follow it you lose much of
+our current mathematical knowledge and understanding. Most modern
+mathematicians think it a historical curiosity, but it does pop up from
+time to time. Modern mathematics is founded on the axioms that
+true and false are the opposite of each other and that inconsistency is
+forbidden within the system. Mathematical proofs submitted to journals
+are not permitted to contain inconsistencies or result in paradoxes.
+Paradoxes – When Logic Fails
+“I would not be a member of
+any club that would admit
+me.”
+Groucho Marx
+Paradoxes occur when a statement
+makes no sense, or results
+in an internal contradiction as
+with Groucho Marx’s famous
+quote. They are widely used in
+mathematics to implement indirect
+proofs. To do this, we suppose
+something is true, and if
+it results in a paradox then the
+Groucho Marx
+154 Are the Androids Dreaming Yet?
+thing we thought true must be false and the opposite is true. This is a
+somewhat circuitous route to prove things, but it is often the only practical
+way.
+Two paradoxes we are taught as children are the liar’s paradox and
+Zeno’s paradox – also known as the story of the tortoise and hare. The
+first is a real paradox but the second is a false paradox. The liar’s paradox
+is just the simple statement:
+“This sentence is false.”
+It is a paradox because of the internal inconsistency: We cannot
+determine if it is a true or false.
+First assume it is true, but it says it is false, so it is not true. Then
+try it the other way around. Assume it is false but the sentence states
+it is false, so it must be true. If that were so it must be false by the first
+argument and so on ad infinitum.
+Either way around, the sentence contradicts itself. A paradox.
+Zeno’s Paradox, on the other hand, is a false paradox. Here is the
+story.
+Once upon a time there was a hare. He was a very arrogant hare
+and believed he could outrun any animal. A tortoise was walking along
+the way and the hare jumped out in front of him. “You are so slow,”
+said the hare. The tortoise replied, “You may be the fastest hare in the
+kingdom but I am the most persuasive tortoise. I bet I can persuade you
+of anything, including that I am faster than you.”
+“I don’t believe you,” said the hare.
+“OK,” said the tortoise, “let me show you. Give me 100 meters head
+start since you are so fast. Then, we’ll both start to run. After 10 seconds
+you will have run 100 meters and arrived where I used to be, but I will
+now be ten meters ahead. After another second you will be where I am
+now, but I will be 1 meter ahead again. So you can never catch me.”
+The hare pondered for a while but, being a hare of little brain, could
+not make out the true answer.
+It is a false paradox. The time intervals are getting shorter. The
+question for a mathematician is, does the problem converge to a solution.
+The answer is yes, and I can reframe the problem to see how it is solved.
+Let’s simply look at who would be ahead after 20 seconds: the hare!
+Kittens & Gorillas
+155
+The mathematical reason for it being a false paradox is that some
+series converge and some do not. If I move progressively closer and
+closer to something in smaller and smaller time intervals then I may
+indeed reach it. On the other hand, some series never converge. I will
+never reach infinity how ever many steps I take.
+The Barber Paradox
+Now, for a slightly harder paradox, let’s suppose there is a town with just
+one barber.
+In this town, every man keeps himself clean-shaven by either
+shaving himself or going to the barber; the barber shaves all the men in
+town who do not shave themselves. All this seems perfectly logical, until
+we pose the question: who shaves the barber?
+This question results in a paradox because, according to the
+statement above, he can either be shaven by himself or the barber, which
+is he. However, neither of these possibilities is valid! This is because if
+the barber shaves himself, then the barber must not shave himself and if
+the barber does not shave himself, then the barber must shave himself.
+You might think this paradox an oddity but, using this simple idea,
+Bertrand Russell changed the course of mathematical history and it is
+the fundamental paradox used to show computers are Turing limited.
+The Russell Paradox
+In the late 19 th century, mathematicians began to think about the nature
+of numbers.
+What is a number?
+It is certainly not an object we can hold.
+I can’t hold a two, unless it’s the brass number plate, for my front
+door. And, in that case I am holding one number plate, so I am not
+holding the idea of two, but rather the idea of one: one brass plate in the
+shape of a two.
+The ‘idea’ of a number is to say something about the things I have in
+my hand: two apples, two oranges and two brass number plates. These
+are all sets of two things and ‘two’ is the collection of all these sets.
+In 1890, Gottlob Frege completed his theory of sets. The project had
+taken him five years. Unfortunately, just before sending the book to the
+publisher, Bertrand Russell wrote to him and pointed out the following
+paradox. What about the set of sets that does not contain itself? Think
+about it...
+156 Are the Androids Dreaming Yet?
+It is the barber paradox with the word ‘set’ substituted for ‘barber’
+and ‘contains’ rather than ‘shave’. But it’s essentially the same logical
+problem. You might find this rather contrived but mathematicians must
+have a system totally free from paradox, otherwise there is no certainty.
+Frege’s system was holed below the water line.
+Eventually, after much further work, a theory of sets was worked out
+that does not contain the Russell Paradox. It’s called Zermelo-Fraenkel
+set theory, or ZF for short. It solves the Frege problem by forbidding sets
+to refer to themselves. It’s a bit like Microsoft Excel’s solution to dividing
+something by zero. It is simply forbidden and generates an error message.
+Set theory was fixed and is now the basis of most mathematical thinking.
+What is Logic for?
+Logic is the foundation of mathematics. Applying it enables us to make
+irrefutable statements about things: numbers, lines, planes, equations
+and the so on – the things you learned at school – and to prove statements
+about these things beyond any doubt. This is not the ‘reasonable doubt’
+hurdle of our law courts, but an absolute measure: No possible doubt
+whatever.
+Let’s look at one of the earliest mathematical proofs: Euclid’s proof
+there are an infinite number of prime numbers. Euclid created this proof
+in ancient Greece around 300BC – so far back that logic was in its infancy
+Euclid’s Elements 100AD
+Kittens & Gorillas
+157
+and numbers had not yet been properly invented. Euclid used distances
+rather than numbers for all his proofs but I will use the word ‘number’ in
+this explanation.
+First a little revision. A prime number is a number that can only
+be divided by itself and one, for example three, five, seven, and eleven.
+All numbers can be split into primes using a couple of tricks. First, all
+numbers are divisible by a set of primes. Ten is five times two – two
+primes. We are also fairly sure we can form any number by adding two
+primes together. This is Goldbach’s Conjecture, set as a question in a
+letter written to Euler in 1742. It is still unproven!
+Euclid proved there are an infinite number of primes by using
+reductio ad absurdum. Imagine we have a complete list of prime numbers
+– James’ list of primes. It contains every prime number. (This is the setup.
+We are proposing something we suspect is incorrect and will lead to a
+paradox or contradiction. When it does, we will have proven the opposite
+fact. The proof relies on the fact that a number can either be prime or not
+prime. There is no middle ground.)
+Let’s make a new number by multiplying all the numbers on my list
+together and adding one. There are two possibilities: this new number is
+either prime or not prime.
+If the number is prime, it is a new prime number that was not on
+my list and I have disproved the theory.
+If it is not prime then it must be divisible by two prime numbers
+already on my list. However, neither of these numbers could have been
+on my list, because dividing by one of them would give me a remainder
+of one. Remember I multiplied all prime numbers together and added
+one. It must, therefore, be a new prime number, which had previously
+not been on my list. Once again, I disprove the theory.
+Since both routes fail, James’ list of prime numbers is not complete
+and, therefore, prime numbers are infinite.
+Feynman’s Proof
+My favorite piece of logic is Richard Feynman’s disproof of the existence
+of polywater. It’s a strange logical proof bordering on philosophy, but it
+shows just how far you can take logic.
+In 1969, an urban legend spread around the world that there was a
+substance called polywater. It even made it into an episode of Star Trek.
+Polywater was believed to be a lower energy state of water, more viscous
+than ordinary water. If this substance did exist, it would be possible
+to mine the oceans of the world converting water to polywater and
+158 Are the Androids Dreaming Yet?
+therefore generate energy. There was a concern that if the right catalyst
+was accidentally introduced into the oceans they would solidify into
+polywater thus dooming the human race, or at the very least making
+water sports impossible!
+Feynman was consulted and stated, “If there were such a substance
+as polywater then there would have evolved an animal that eats water
+and excretes polywater, using the liberated energy as its power source.
+Since there is no such animal, polywater does not exist.”
+Feynman’s proof is an elegant indirect proof coupled with a
+syllogism. Polywater exists. Polywater is a lower energy form of the highenergy
+substance called water. Food is a high-energy substance that can
+be converted to a low energy substance by a process we shall call ‘being
+good to eat.’ All things on earth that are good to eat have something that
+eats them. Polywater is a food and therefore good to eat. Therefore an
+animal must exist that eats polywater. No such animal exists, so either
+something in our chain of logic is wrong, or the premise is unsound.
+Since the chain is sound, the original premise must be wrong: Polywater
+cannot exist.
+In short, Feynman’s proof says: if a thing is so, then the inevitable
+consequence is the evolution of something else, and since that something
+else does not exist, the original thing cannot be so. QED: disproof by
+nonexistent consequence.
+The polywater disproof neatly demonstrates the important elements
+of Feynman’s Evolutionary proof. First, life must be continuously exposed
+to the thing in question, in this case water. This is clearly so as most life
+on planet Earth lives in the oceans or is intimately entwined with water.
+Evolution takes time, so enough time must be allowed for life to evolve.
+It must be a nearly linear problem so that a solution proceeds in steps
+where each step is an improvement and no step requires too high a level
+of mutation or adaption. We can illustrate the boundary between a linear
+problem and one requiring a step change by describing how triple drug
+therapy works in the treatment of AIDS.
+Until triple drug therapy entered the picture progress against AIDS
+had been a depressing story of drug discovery followed by the almost
+immediate evolution of the virus to evade the drug. The AIDS virus
+is a retrovirus with a shell composed of sugar molecules. It is almost
+trivial for an AIDS virus to mutate these outer markings to look different,
+even from one day to the next. This is the way the virus continually
+and nimbly evades our immune system. However, the AIDS virus does
+have some components that it can’t easily mutate because they are not
+merely aesthetic, they have a functional purpose. Why not target them?
+Kittens & Gorillas
+159
+Unfortunately, it turns out the AIDS virus can even mutate its functional
+parts, but this is harder. The probability of a successful functional
+mutation is 1000 times less likely than a simple aesthetic mutation to the
+sugar coat.
+Triple drug therapy works by attacking three different functional
+elements of the virus simultaneously. It is possible for the virus to modify
+all these functional elements but the likelihood of it doing so is tiny.
+One mutation alone does not help because the drug cocktail will still
+target the other two elements and kill the virus. The AIDS virus does not
+understand that it is facing a triple drug cocktail. It cannot reason like a
+sentient being and random chance is not sufficient to make the big leap
+necessary to overcome the cocktail of drugs. Unless you can mutate all
+three elements at once your time as a virus particle on this planet is over.
+Most problems we have to solve in this world require more than one
+simultaneous logical step and these don’t happen by chance.
+
+Chapter 7
+COMPLEXITY &
+CHAOS
+Mandelbrot Set
+“Life is really simple, but we insist
+on making it complicated.”
+Confucius
+“Any darn fool can make
+something complex; it takes
+a genius to make something
+simple.”
+Pete Seeger
+There was once a great King who lived in a marvelous palace. To
+fend off boredom he collected all manner of interesting games
+and puzzles. One day an inventor came to his palace and told the
+King he had a game of such subtle complexity, yet apparent simplicity, the
+King would play no other. The King learned the game and soon agreed it
+was, without doubt, the best of all games. The game was, of course, ‘chess’.
+The King asked the price of this game and the inventor told him it was a
+mere trifle. The King should give him one grain of rice on the first square
+of the board, two on the second, four on the third, and so on, doubling
+each square until he filled the board.
+The King called his treasurer to honor the bargain and the first bags
+were brought from the storehouse. The grains were placed on the board
+in each square but soon there was not enough space and the grains had
+to be piled on the table next to the board. Soon this, too, was not enough
+and every table and chair in the hall had to be covered. Even this was not
+enough and they began to stack whole bags up in the courtyard.
+When they reached the thirtieth square, the treasurer turned white.
+He sat and calculated for a while before saying with a trembling voice,
+“My great ruler, there is not enough rice in all the world to cover this
+board.” The ruler called the inventor and told him he could not honor
+the debt and the inventor should name another price. The King had
+two beautiful daughters, the first knew she was beautiful and deported
+herself accordingly, and the second, was bookish and shy, but perhaps
+more beautiful for this. The inventor asked for the hand of the second
+daughter and lived happily ever after. In the less favorable version of this
+story, the King becomes very angry and has the inventor beheaded. I
+prefer the romantic version.
+Placing rice on a chessboard and doubling it successively
+leads to wildly large numbers. Covering it completely requires
+18,446,744,073,709,551,615 grains, about four hundred trillion tons and
+equivalent to one thousand years of worldwide rice production. Like
+the king, humans do not intuitively grasp the enormity of this problem
+because we’re not good with large numbers.
+Although the number of grains needed to cover a chess board
+is very large, it is not hard to calculate. The treasurer is the one who
+should have lost his head for not being able to do the calculation. The
+equation is simply two, doubled sixty-four times, less one, 2 64 -1. A pocket
+calculator can produce this number in a thousandth of a second: it’s just
+long multiplication. Although calculating this number is quick, it is not
+always the case. Answers to some problems have short cuts, while others
+do not.
+164 Are the Androids Dreaming Yet?
+Mathematicians have catalogued the universe of problems into
+classes rather as biologists have catalogued animals into species. Each
+problem is examined and put into a genus with a name. Sadly the names
+are not as readable as the Latin names for animals. For example, ‘nlogn’
+is the complexity class of most sorting programs, while traversing a maze
+typically sits in the class NP or P/POLY. Although the classifications look
+complex the basis of cataloging is simple, a class name signifies the time
+needed to solve a problem using the best possible algorithm, and the
+scale this is measured in is ‘Big O’.
+Big O
+Every problem has a complexity. In mathematics this is expressed using
+‘Big O’ notation, where ‘O’ stands for order-of-magnitude. The simplest
+problems have order 1.
+If I am working at my computer on a Word document and I press
+print, the printer will spring to action and print the document. This
+problem is of flat complexity, notated O(1). It does not matter how large
+the file is; one click is all I need. I am, of course, assuming sufficient
+paper in the printer and ink in the cartridges.
+The next complexity class is a linear problem, O(n). For example,
+walking to the store to buy a pint of milk. The farther the store, the longer
+the walk. The time needed to get to the store is directly proportional to
+the distance: if I am walking, a single step multiplied by the number of
+steps required to cover the distance.
+You might think adding two numbers together is a linear problem
+– the bigger the number, the harder the problem – but there’s a clever
+trick to speed it up. You can get 10 people to add each column in parallel.
+They’ll need to coordinate when someone ends up with a number larger
+than ten and has to carry the extra digit but this can be easily solved. A
+problem gets its classification only once we’ve used the cleverest possible
+trick to solve it.
+Most problems we meet in mathematics are somewhere in between
+flat and linear but there are some that are much harder. The most common
+hard problem we come across in our daily lives is sorting. Rather than
+go through a tedious written description, check out the video link on my
+website. Sorting without using any spare space requires a bubble sort.
+This is an example of something that needs n squared operations and,
+since n squared is the simplest example of a polynomial, it is said to be in
+the polynomial time, or ‘P’ time classification.
+Complexity & Chaos
+165
+Bubble Sort Ballet
+The Hardest Problems
+You probably hope cracking the encryption used to secure the Internet
+is one of the hardest problems known to man but I’m sorry to tell you
+it is not. When you use your credit card to buy something from an
+online shop, your web browser changes from http to https, the ‘s’ stands
+for secure. The data you send to the Internet is coded using a system
+developed in 1977 by Ron Rivest, Adi Shamir and Leonard Adleman
+of MIT, which is why it is called RSA encryption. Any information you
+send is raised to the power of a very large number – usually around
+one hundred digits long. Raising something to the power simply means
+multiplying it by itself that many times.
+What makes decrypting a message hard is that division is a slow
+process; it is called ‘long division’ for a reason. It turns out there is no
+way to speed it up on a conventional computer so, unless you know the
+right number to divide by you will have to try every number. It is this that
+makes decrypting RSA messages hard.
+Although RSA messages are difficult to decipher, they are nowhere
+near the hardest problems. That accolade is commonly believed to go
+to non-deterministic polynomial problems known as ‘NP’ problems.
+NP problems are easy to describe but fiendishly difficult to solve.
+Nondeterministic means each time you come to a branch in the problem
+there is no way to tell which branch is the best to pursue without exploring
+it all the way to the end. It’s the same as a maze; at each junction in the
+maze you can decide which path to take, but the junction gives you no
+166 Are the Androids Dreaming Yet?
+Maze
+clue which one will be better. Beware the confusing naming system, ‘N’
+stands for nondeterministic in this case, whereas in normal complexity
+classes ‘n’ stands for number. Sorry. That’s just the way it is. Let me give
+you an example of one of these NP problems.
+Let us assume we have one of those complicated recipes from the
+latest celebrity chef cookbook. If all the ingredients can be bought from
+one store, making the dish is straightforward, but if they come from
+different stores, you will have your work cut out. What is the best order
+to visit them? With 2 shops, it’s trivial. Either order will do. With 3 it is a
+little harder and with 4 there is quite a bit of choice. This is known as the
+‘traveling salesman’ problem because the original formulation described
+a salesman wishing to find the shortest route between all the cities in
+which he had customers. The complexity of this problem rises much
+faster than the Rice and Chess Board problem. Try it for yourself. It
+doesn’t matter if you imagine you are visiting customers or shops. I have
+given you a grid to count off distances. Try to solve a problem for 3 cities,
+5 and 10. What is the shortest path allowing you to visit each place?
+Complexity & Chaos
+167
+TRY THE PUZZLE ON THE WEB
+Warning: Don’t spend too long on these problems.
+ddd
+The reason I warned you not to spend too long is that solving the
+50-city problem would take longer than the age of the known universe.
+NP problems get harder very fast as the number of elements goes up. A
+50-city problem is hugely larger than a five-city problem, not just ten
+times harder.
+The Clay Mathematics Institute has offered a $1 million prize for
+anyone who can say whether NP problems are really as hard as they
+appear. It may be there is a general trick or a series of tricks that allow
+you to solve any NP problem in a shorter time. If you could do this, the
+problem would be demoted to P, allowing fast computers to tackle it. No
+one has yet found a proof of the P=NP problem. At the time of writing
+several proofs are sitting with the Clay Prize judges but don’t hold your
+breath. Most people assume there is no solution. If you want to have a
+crack at the problem let me state it in simple terms.
+Traveling Salesman
+168 Are the Androids Dreaming Yet?
+Imagine you wanted to find the center of a maze. Is there a way to
+speed searching the maze, so you do not have to test every branch? If
+you can provide a mathematical proof that there is or is not, you win the
+prize.
+Places Game
+While it is commonly assumed NP problems are the hardest, this is not
+the case. There are quite a few that are harder still. One such is called a
+PSPACE problem. It’s quite difficult to explain but luckily many of you
+will have played a form of it on long car trips when you were a child: My
+family calls it The Places Game.
+I will pick a place – ‘London,’ and you must then pick another place,
+say, ‘New York’, that starts with the letter my place ends with. I’ll then
+pick ‘Canterbury’ and my kids will laugh at my dyslexia and I’ll have to
+switch to ‘Kansas’ and so on. Once you use a place you can’t use it again.
+The mathematical question is to predict who will win given each
+player has a finite list of places they know? It turns out this type of
+problem is even harder to solve than an NP problem. This is because
+on each turn a player gets to pick any name from their list. With the
+traveling salesman problem, there is only one ‘player’ – the salesman –
+so we can write out a route and check it. In the Places Game there is
+no single route through the game because, after I pick my favorite town
+‘London,’ you can pick any place beginning with ‘N’. I have to anticipate
+an enormous table of possible paths through the game. The table takes
+huge physical space – which is where PSPACE gets its name.
+Remember I’m just playing the simplest mathematical games with
+bits of paper and discrete ideas. I haven’t strayed into the quantum
+world yet. That brings with it a whole new level of complexity to explore.
+Complexity is such a diverse subject that Scott Aaronson of MIT has
+created a web site called the complexity zoo to catalogue all the different
+‘species’. It is much to complex to reproduce here but let me provide a
+sketch.
+The Complexity Hierarchy
+My table below represents the hierarchical complexity of knowledge.
+We start off with the problems both humans and computers find easy,
+then rapidly move onto problems that even the fastest machines find
+difficult: a perfect game of chess or predicting the weather. Above these
+computable problems are the non-computable ones which no computer
+Complexity & Chaos
+169
+running any algorithm can solve, and then
+there are the free will problems: how do
+we pick a problem in the first place? How
+do inventors come up with problems no
+one had ever thought to solve in the first
+place, such as the invention of the Rubik’s
+Cube?
+Ernő Rubik’s Cube
+Problem
+Example
+Flat
+Print File (for Human)
+nlogn
+Searching a list
+Linear
+Finding the lowest number in a list
+Logarithmic
+Long Multiplication
+Exponential
+Long Division
+P
+Most Algorithms
+Near NP
+Factor Prime Number
+NP-non-complete Perfect Game of Chess
+NP-Complete, tractable Travelling Salesman, SAT
+Chaotic
+Weather
+NP-Complete, Quantum Modeling a Quantum Process
+NP-Complete, intractable Busy Beaver, Towers of Hanoi
+PSPACE
+Graph Problems, Places Game
+Creativity, Finding Fermat Theorem for a
+Non-computable
+Turing machine, Tiling the plane with Penrose
+Triangles
+Non-deterministic,
+Non- time divisible, Non- Free will
+computable
+Halting problem for a Turing Machine, some
+mathematical theorems such as the Continuum
+Impossible
+Hypothesis in ZF+AC (Hilberts 1st). Travelling
+faster than the speed of light. Understanding
+the American tax code.
+Known Unknowns I know that I don’t know either way.
+Unknown Unknowns
+I have not thought to ask that question yet.
+Inventing the Rubik’s Cube
+Butterfly
+“Does the flap of a butterfly’s
+wings in Brazil set off a tornado
+in Texas?”
+Philip Merilees, improving on
+Edward Lorenz
+Chaos
+Chaos is the twin of complexity. It burst into the public psyche
+in 1987 with the publication of James Gleick’s book Chaos. It’s
+not a difficult concept to grasp. Complex systems can be formed
+using simple rules, and very small changes in starting conditions can
+profoundly affect future events. I experience this if I miss my train to
+work in the morning: 30 seconds either way will change the whole
+pattern of my day, the people I meet and the level of stress I experience.
+I’m sure you can think of similar experiences.
+Henri Poincaré, a French
+mathematician, first studied the
+effect back in 1880. Poincaré was
+trying to solve an old mathematical
+problem called the Three Body
+Problem originally set by Isaac
+Newton. Take the Earth, Mars and
+the Sun. These three bodies orbit
+each other, or strictly speaking a
+point in space somewhere between
+them. Is there an equation that
+will tell you where the bodies will
+be in, say, 100 years’ time?
+The answer is surprising,
+no. The three bodies will orbit in
+a non-repeating way. There is no
+analytical short cut, no equation
+that will predict where they will be
+Poincaré
+
+172 Are the Androids Dreaming Yet?
+at some point in the future. The only way to know is to build a perfect
+model of the system and see what happens. Poincaré won a valuable
+prize for his proof from the King of Bavaria. You can see some amazingly
+complex orbits plotted below. Remember these are still deterministic and
+predictable – after all, they were calculated with a computer – they are
+just chaotic.
+Four Body Problem
+Butterflies and Sliding Doors
+After Poincaré, the field of chaos remained fairly quiet until Edward
+Lorenz began studying weather patterns using computers in the 1960s.
+The story goes, one day his computer was misbehaving and he had to rekey
+some data into the machine. Rather than using eight decimal places
+he used only six to save time, and was amazed when the results of his
+program came out completely different. Dropping the seventh and eighth
+decimal place represents a change of only one part in a million, yet the
+patterns of weather predicted by the computer were completely altered.
+Complexity & Chaos
+173
+Lorenz went on to study the effect and created a new branch of
+mathematics. His quote about the beat of a butterfly wing creating
+tornados has entered the public psyche and is central to the plot of
+numerous Hollywood movies. One of his functions – known as the Lorenz
+Attractor – nicely illustrates the nature of chaos. A very simple equation
+plots the beautiful, apparently three-dimensional, non-repeating shape.
+Chaosville
+Chaos, taken to its logical conclusion could explain our Universe. Stephen
+Wolfram in A New Kind of Science, makes the argument that simple rules
+could explain the extraordinary complexity we see in our Universe. He
+applies rules to elements in a two-dimensional grid programmed on
+the computer which form ‘cellular automaton’ that function a little like
+simple animals, generating all manner of complex shapes and behaviors.
+The inspiration for this approach is almost certainly Conway’s Game of
+Life developed by John Conway in the 1960’s. In his computer game,
+animals and machines seem to appear on the screen but in truth they
+derive from the most simple set of rules. You can check out the website
+to see a live version of Conway’s Game of Life. It’s a lot of fun. Wolfram’s
+Strange Attractor
+174 Are the Androids Dreaming Yet?
+thesis is that we could all be living in one of these games. Perhaps our
+Universe is a form of Mandelbrot diagram – albeit a 3D version with
+stars and planets. If you look at the picture of a nebula and compare it to
+the Mandelbrot set, you can see how this is a tempting conclusion.
+In the Game of Life the rules are simple yet the behavior simulates
+little animals being created and destroyed. Of course, there are no
+actual animals. The things you see on the screen, ‘gliders’, ‘walkers’, and
+‘cannons’, just hang together accidentally. But, Wolfram considers these
+little digital creatures are animals. He argues our Universe is just like the
+Game of Life: A set of simple rules leading to complex behavior. If we are
+Nebula
+Complexity & Chaos
+175
+Cellular Automaton
+prepared to call ourselves animals, so should the little creatures which
+emerge within the game. We simply emerged in a similar but slightly
+more complex game.
+This proposal would mean our Universe is entirely deterministic,
+our lives the result of a gigantic computer program that we live within
+and form part of. Chaos might make it impossible to predict the future
+without running the program and watching what happened, but the
+results would be inevitable, set in motion at the dawn of time. There is
+no place for free will in such a Universe, no place for reason. The world
+would simply be.
+But a strange idea will come to our aid to show us the limits of
+computation and allow us to question whether we live in a predetermined
+world. This idea is Aleph 1 – something larger than infinity. And it is
+infinity we will explore next.
+Conway’s Game of Life
+
+Chapter 8
+∞
+Hilbert’s Hotel
+“All infinities are equal, but some
+are more equal than others.”
+George Orwell, paraphrase
+“Only two things are infinite, the
+universe and human stupidity,
+and I’m not sure about the
+former.”
+Albert Einstein
+“God gave us the integers, all else
+is the work of man.”
+Kronecker
+Health warning! The man who discovered infinity had a mental
+breakdown. This subject may tax your brain.
+Georg Cantor didn’t really ‘discover’ infinity but he was the first
+mathematician to put it on a firm theoretical footing. In the late 19 th
+century, most mathematicians thought infinity was a curious idea with
+no proper place in mathematics. They treated Cantor’s attempts to make
+it into a real mathematical object with contempt. This affected Cantor’s
+morale and caused him to suffer several bouts of deep depression,
+retreating to a sanatorium from time to time.
+Infinity is a difficult idea to grasp but it is vital to our study of
+information. It behaves counter-intuitively but is not impossible to grasp.
+The reason it is important is that information can always be translated
+into numbers and numbers go on to infinity. If you want to know all
+about information, you must understand infinite numbers.
+History
+Indian scholars began studying infinity in the 4 th Century BC. It turns
+up naturally in all manner of places. In geometry, parallel lines extend
+forever in either direction without ever meeting. To define a parallel line
+you must contemplate infinity. In arithmetic, even if you pick the largest
+number you can imagine, there is always a larger one; just add one. In the
+physical world if you look up at the night sky it appears to go on forever.
+Again you have infinity.
+Historically there were two interpretations of infinity. The first,
+favored by Plato, was a journey. When you embark upon a journey, you
+can always take another step. Infinity is the idea of ‘one more’ or neverending.
+It can never be reached. The second definition is more radical.
+Infinity is a thing, a number so big you could not imagine anything bigger,
+but it is one number. Plato thought this second definition tantamount to
+madness. Today we embrace this madness and go a whole lot further. Let
+me show you how.
+If infinity were a number, you should be able to perform mathematics
+with it; add it, multiply it, and even raise it to a power. This is not as
+radical as it might first seem. Until comparatively recently, zero was not
+accepted as a number – if you consider recent to be one thousand years!
+Nowadays it is.
+At the end of the first millennium Indian scholars found, against
+their intuition, that you can use zero as a number without generating
+contradictions. Take addition. I can have zero cakes, add one, and I
+have one cake, add another, and have two cakes and so on. In this way,
+180 Are the Androids Dreaming Yet?
+the number zero behaves just like any other counting number. It also
+works with multiplication. If I have zero lots of 4 cakes, I have no cakes.
+Zero times four is zero, so multiplication with zero works. There is one
+embarrassing exception, if I divide by zero I seem to get infinity. When I
+was a child this was a definition for infinity, but nowadays mathematicians
+simply forbid the operation. Division by zero is not allowed and if you
+try it on your computer, you will get the not terribly useful, #DIV/0!
+Error. That’s progress I guess!
+Zero had been tamed. What about infinity?
+Cantor showed that while you could think of infinity as a number,
+it might not be just one number. He proposed there are many infinities.
+In fact, there are a greater than infinite number of them! He did this
+through a rigorous analysis of a new branch of mathematics called set
+theory.
+Set theory is now the cornerstone of modern mathematics, but it
+was treated with suspicion in Cantor’s time. Rather than embrace the new
+thinking, many mathematicians ridiculed it; Poincaré wrote that Cantor’s
+ideas were a grave disease infecting the discipline of mathematics! This
+seems odd given our modern propensity to embrace innovation, but the
+tone of science back then was different: innovation was not necessarily
+considered a good thing.
+At the turn of the 20 th century, scientists were on a mission to tidy
+things up. Lord Kelvin announced in 1890 that mankind had discovered
+everything there was to know and the role of future scientists was simply
+to catalogue and observe the consequences of these laws, and to improve
+the accuracy of measurement. The last thing scientists wanted was a
+completely new set of numbers that behaved in strange ways. Cantor was
+upsetting the apple cart, but he was in good company. Just a few miles
+away in Berlin, a young Albert Einstein was beginning to study physics
+in his spare time. Those studies would culminate in his four papers of
+1905, two on Quantum Mechanics and two on Relativity, ushering in the
+modern age of physics.
+How to Count
+To understand infinity you need to count in a particular way. You’re
+probably used to counting with numbers. You count apples: one, two,
+three, and say, “I have three apples.” You can do the same with oranges.
+If you have three apples and three oranges, the totals are the same and
+you can declare you have the same number of fruits. This is the first way
+to count.
+∞
+181
+But there is a second way of counting. Take your apples and put each
+next to an orange. If they match up, you can easily see they are equal in
+number. “Look,” I say, “I have the same number of apples as oranges.” This
+method is more primitive and does not require the concept of numbers,
+but it is very useful. If I’m a shepherd I can hold a set of counters in a bag,
+one for each sheep. To ensure all my flock are gathered in for the night I
+drop one counter into the bag as each sheep enters the enclosure. I don’t
+need to give the counters number names.
+The Munduruku tribe, from the Amazon rainforest, have no concept
+of number names beyond five. Their counting system simply goes one,
+two, three, four, five, many. Yet this second way of counting allows them
+to function successfully, deciding whether two groups of things have
+the same number of elements, even if there are more than five of them.
+For example, if they need to determine if they have enough spears for a
+hunt, each person simply stands next to their spear. If everyone has one,
+they’re ready. If not, then the empty handed Munduruku simply make
+one. No need for pesky numbers or mathematics lessons.
+This second way of counting is particularly useful when tackling
+infinity because we are not sure what infinity is. Treating it the same way
+the Munduruku treat the number ‘many’ is the safest thing to do. The
+first question we would like to answer is whether all infinite things are
+the same.
+Spears and Hunters
+182 Are the Androids Dreaming Yet?
+We know from our childhood that infinity plus one is still infinity.
+Is there anything we can do to make infinity bigger? Perhaps multiplying
+infinity by infinity will do the trick.
+Infinity times infinity can be visualized as a square with edges of
+infinite length. We can show that this square is the same size as a onedimensional
+infinity through a clever trick – the zigzag method. Mark
+the infinity square into a grid. Start in the corner square, go across,
+diagonally down, then across, diagonally up, and so on. I’ll draw you
+a picture. We visit every square in our grid using a single line. We can
+then lay down our infinite zigzag line next to the infinite line of one
+of the edges. The lines are the same length as they are both infinitely
+long! So infinity, times infinity, can be matched to infinity, they are the
+same. Cantor thought this a very strange result and wrote to a fellow
+mathematician, Dedekind, “Je le vois, mais je ne le crois pas!”, “I see it,
+but I don’t believe it!”
+If you are struggling with this, don’t worry. We just jumped forward
+to quite a complex concept. Let’s take it more slowly. One way to get a
+better grip on infinity is through the stories of David Hilbert and the
+Infinity Hotel.
+Infinity for Dummies
+Hilbert’s Hotel is a mythical building with an infinite number of rooms.
+Other than this strange feature it is a regular hotel complete with
+minibar, dodgy TV, and slightly mad manager. The rooms are numbered
+sequential starting at one, then two, three, four, and so on. The hotel
+allows you to play a series of mathematical games to see how infinity
+behaves.
+Are there the same number of minibars as there are rooms? That’s
+easy. I said every room has a minibar. We can use the matching technique
+to match minibars with rooms. Go to the first room. There is a number
+on the door and a minibar inside. The same goes for room 2 and 3 and
+this goes on forever. I’ve just proven two infinite things are the same –
+rooms and bars, but I still have not shown you why the zigzag line is the
+same length as the edge line.
+When you first explain infinity to a child they immediately ask
+“What’s infinity plus one.” A particularly smart kid I met, Dermot, asked,
+“What’s infinity plus three?” Hilbert’s Hotel allows us to answer this
+problem in a way we can visualize.
+∞
+183
+Traversing an Infinite Plane with a Line
+The infinite hotel is full. A man comes to the front desk and asks for
+a room. The hotel manager says, “I’m terribly sorry, but we are full… But
+I may be able to help you. Let me think.” He ponders for a moment and
+then says, “OK – I’ve found you a room.” He calls the people in room 1
+and asks them to move into room 2. He calls the people in room 2 and
+explains that due to a double booking they must move out of their room
+to let the people from room 1 in. But it’s OK; they can move into room
+3. Everyone moves up a room and the new guest gets the checks into the
+now vacant room 1.
+This is a little harder to understand. We did not have a perfect oneto-one
+match as with the rooms and mini-bars. We had a mismatch of
+guests to rooms. But, we were able to show it is possible to re-establish
+a one-to-one match by doing something to every guest, having them
+move up a room. There is no problem with the last guest because it is an
+infinite hotel, there is no last guest! Another way to visualize the problem
+is to ask ever hunter to pass their spear to the right in the picture below.
+184 Are the Androids Dreaming Yet?
+Hunter with Spears
+Provided there are an infinite number of hunters there is always someone
+to hand the spear to and the person at the front of the line now has space
+for another spear.
+You can probably see how to answer Dermot’s question. The hotel
+manager calls the guest in the first room and asks him to move 3 rooms
+up rather than one. He then calls the remaining guests and tells them
+the same thing. Thus, he has managed to fit three more people into
+the infinite hotel. Infinity plus 3 is infinity. You may worry that it takes
+the manager an infinite time to call all the rooms, but it’s OK; he lives
+infinitely long so it all works out.
+What about fitting an infinite number of new guests into the already
+full hotel? Surely then we will get stuck.
+No, Hilbert’s Hotel can fit an infinite number of extra guests. Here’s
+the trick: ask all the people currently in the hotel to move to the room
+with double the number they are currently in – 1 goes to 2, 2 goes to 4,
+3 goes to 6, and so on. Now all the odd numbers are empty and you can
+fit an infinite number of people into the empty odd rooms. Infinity plus
+infinity is infinity. Voila.
+∞
+185
+Now, a very clever or annoying student asks, “What happens if an
+infinite number of infinitely large buses arrive at the hotel. Can they all
+fit in?” The mathematical question is “does infinity times infinity, equal
+infinity?” Let us ask all the guests to get out of the bus and line up in the
+parking lot in neat rows. Passengers from bus one in line 1, those from
+bus 2 in line 2, and so on. All the guests now form a two-dimensional
+grid. We already know how to map a two-dimensional grid to onedimension
+using the zigzag method. We can fit them all in the hotel and
+we are done!
+Is Anything Larger than Infinity?
+Is there any bus or combination of buses that would cause the manager
+of Hilbert’s Hotel a problem.
+The answer is yes and it involves a subtle change to the contents of
+the bus.
+An infinite number of buses turn up but this time the buses are
+filled with men and women. The hotel manager is asked to put everyone
+in a room and once again he obliges using the zigzag method.
+At the end of the process the tour guide comes to him. “I think you
+have missed some people,” he says. “Since I am just one person, I know
+you can fit me in. But, I have a whole bus in the car park you completely
+missed.”
+“No,” says the manager. “I did every bus.”
+Infinity Plus Infinity Equals Infinity
+186 Are the Androids Dreaming Yet?
+“Ah, no,” says the tour guide. “The first bus you accommodated
+had a man in the first seat but this has a woman. The second bus had
+a woman in the second seat but this one has a man and so on. This
+bus has a different gender in at least one seat to every bus you so far
+accommodated. It is a new bus.”
+The manager finds room for the passengers from the new bus but
+the tour guide comes back a moment later.
+“You have missed another bus. This one has a different gender
+in at least one seat to every previous bus, including the one you just
+accommodated. It looks like there are an infinite number of buses you
+missed, all lined up to get into the infinite hotel.”
+What is it about these buses that make them so difficult to
+accommodate? They are all just filled with people after all.
+The manager is defeated by the more complex information held in
+the contents of the buses. An infinitely large bus full of binary information
+has more information in it than an infinitely large bus specified only by its
+size. This is a larger infinity than the counting infinity. The permutation
+of all the possible options for the occupants of the bus is larger than
+infinity.
+Real Numbers
+What about the real world we live in? Is the larger infinity we failed to
+fit into Hilbert’s Hotel present, or was it just a mathematical fiction?
+Hold up your thumb and index finger for a moment. The gap between
+them is a distance. Most likely this is a whole number with an infinite
+decimal digits after it – say 2.2320394386…. centimeters. The infinite set
+of decimal digits in this measurement is the larger type of infinity: called
+the continuum. Distances in space form a continuous unbroken line of
+points, with no gaps in between. The counting numbers, on the other
+hand, form a broken line. We take discrete steps from one number to the
+next. This is a hard distinction to grasp but it is the same distinction we
+used in Hilbert’s Hotel. Imagine you believe you have a list of all the real
+numbers in the world. You can take the first decimal digit from the first
+number and add one, the second digit from the second number add one
+and so on generating new numbers not on the original list. Therefore,
+you cannot have a list all the real numbers; they are not countable. Let’s
+take a closer look at these real numbers.
+Here’s a quick test. Which is the larger number, the first or the second?
+∞
+187
+Holding a Real Number in your Hand
+ddd
+First: 3.1233249837583462136421472374
+Second: 3.1233249837583462134421472374
+You have 2 seconds to answer!
+TRY ANSWERING WITHOUT READING ON
+The first is larger. I changed one digit. Can you see?
+Notice, you need time to read each digit and process the information.
+If you were an obedient reader and attempted it in two seconds you either
+guessed or gave up. Two seconds is too short to take in all the digits.
+Let me give you another test. Again, I’ll ask you the question, “Is the
+first number larger than the second?”
+ddd
+First
+3.12332498375834621364214723751646464646464636…
+Second
+3.12332498375834621364214723751646464646464636…
+188 Are the Androids Dreaming Yet?
+I know you’re looking for the difference but you won’t find one, as
+I did not have time to write the numbers out in full. The 10 20000th digit is
+different, but even if I took the whole age of the universe and counted
+as fast as possible I would not reach this digit. Any number greater
+than, 10 120 /10 -43 digits cannot be distinguished from another in the age
+of the observable universe. Real numbers are in practice subject to an
+uncertainty principle. Some mathematicians even wonder whether they
+really exist. But, they do exist in our minds and our thought experiments.
+In my view, any model of the Universe that ignores them is likely to be
+wrong.
+Random Numbers
+Which of the following numbers is random?
+ddd
+11111111111111111
+34289460370124001
+49293741762343083
+THINK ABOUT YOUR ANSWER THEN READ ON
+Each of the numbers could be random. There is no reason any set
+of 10 digits is more likely than another, but it feels very unlikely that if
+I tried to generate a random number I would get 15 consecutive digits.
+What a human means by random is a jumbled up number: one with
+varying digits that have no real pattern. An American mathematician,
+George Chaitin has been able to explain this by saying that a random
+number is uncompressible. This means there is no way to describe the
+number more efficiently than writing it out in full. A string of ones
+can be compressed. “Write a million 1s” takes only 18 characters, yet
+accurately describes a number that is a million digits long. By contrast
+8988376132 can’t be compressed very much at all, its information
+is just a jumble. There are many interesting numbers around. Some
+numbers are Hamlet; some numbers are pi. One interesting number is
+the following: 17733173332032037377. It is the genetic sequence for the
+virus smallpox, or at least the first 20 digits. Copies of the full sequence
+sit under lock and key in the Pasteur Institute in France and the CDC in
+Atlanta. This number is a candidate for an ‘evil’ number. You might think
+there are many numbers that could represent smallpox because there are
+∞
+189
+Smallpox Virus
+many languages in the world and many ways you could code the genetic
+sequence of GATC. But, there will be one most efficient binary coding
+for smallpox and that number is the nearest we have to an evil number.
+The other important element of random numbers is the process
+by which they are created. Computers can’t genuinely generate random
+numbers. The numbers they generate are predictable and eventually
+Child Survivor of Small Pox
+190 Are the Androids Dreaming Yet?
+repeat. To create the random number in my example above I went to www.
+random.org, a website that uses fluctuations in atmospheric quantum
+noise to generate random numbers. As far as we know quantum effects
+are truly random and have neither rhyme nor reason.
+Numbers are more complex than they first appear. They are infinite,
+yet there are different infinities, and they have meaning. The smallpox
+example above and the Turing numbers we will discover shortly suggest
+numbers do have meaning independent of culture and language. The
+next two chapters will show us what happens when we think about the
+meaning of numbers. We will also explain one more ‘super infinity’ and
+this will be the key to understanding creativity.
+“There are known knowns; there
+are things we know we know.
+We also know there are known
+unknowns; that is to say we
+know there are some things we
+do not know. But there are also
+unknown unknowns - the ones
+we don’t know we don’t know.”
+Donald Rumsfeld
+United States Secretary of Defense
+(2001-2006, 1975-1977)
+Chapter 9
+KNOWN
+UNKNOWNS
+Donald Rumsfeld
+In the spring of 1981, London staged its first marathon. The field of
+runners included 1200 international athletes and 20,000 amateurs.
+An estimated 20 million viewers watched from around the world.
+The top international runners stayed together for the first twenty miles
+and then two runners, American Dick Beardsley and Norwegian Inge
+Simonsen, made a push for the finish. They were long-standing rivals
+and, as they ran the final mile each man challenged the other to see if
+they could get ahead and gain the advantage. Because of the fine balance
+human muscles maintain between anaerobic and aerobic metabolism,
+the small set advantage could prove insurmountable. The other runner
+would need to sprint to catch up and the resultant lactic acid generated
+would turn their legs to jelly. As the two runners neared the finish line
+they glanced at each other, smiled, reached out and held hands as they
+crossed the line. Who won?
+We all instinctively know the answer. The race was a draw, but the
+rules of the International Athletics Federation are clear. Read rule 164.
+RULE 164
+The Finish
+1. The finish of a race shall be denoted by a white line 5 cm wide.
+2. The athletes shall be placed in the order in which any part of
+their bodies (i.e. torso, as distinguished from the head, neck,
+arms, legs, hands or feet) reaches the vertical plane of the finish
+line.
+The organizing committee held a brief conference and the result
+declared a draw. They had interpreted the rules in the same way 20
+million TV viewers already ‘knew’ to be true.
+This story should set your minds thinking about the nature of rules
+and truth and how the two are often different. According to the rules,
+one person crossed the line a little ahead of the other. The truth, as we
+all instinctively know, is that the race was a draw. Maybe the rulebook
+is missing a rule – ‘The contact draw rule’. Clearly you could amend the
+rulebook to add this one rule. I checked the current athletics rules and
+they don’t contain this amendment. If the rules were amended the mischievous
+amongst you will realize an unsporting athlete could grab the
+hand of their opponent as they crossed the line to force a draw. The rules
+would have to stipulate that holding hands must be voluntary for both
+parties, and refinements could go on for some time. What if I held your
+hand but you tripped and let go? What if my attempt to hold your hand
+Known Unknowns
+193
+caused you to trip? You could go on
+forever, generating rules to cover every
+eventuality.
+Clearly, in the fuzzy world of
+human endeavor, truth and rules often
+part company. Yet, we all assume mathematics
+is free of such uncertainty. Let
+me tell you this is not so. The brilliant
+mathematician Kurt Gödel proved
+this when he was just 22, and his proof
+says something fundamental about the
+nature of knowledge.
+The story of his discovery involves
+Kurt Gödel
+some of the greatest mathematical
+thinkers in history. My introduction to it came about from a chance
+accident. I became ill in my first year at University (mononucleosis,
+otherwise know as glandular fever, if you’re curious) and was eventually
+sent home to recover. Lying in bed for two months is boring. So
+to pass the time my mother suggested I read Bertrand Russell’s, The
+History of Western Philosophy. I think she figured I had plenty of time, so
+picked a thick book. This nearly 800-page tome charts the entire history
+of philosophy from the time of the ancient Greeks. I presumed Russell
+was a philosophy professor, but he was originally a mathematician. He
+was a mathematician. And because he lived and worked productively for
+almost all of his 97 years, spanning much of the 19 th and 20 th centuries,
+he crops up repeatedly as a central figure in many areas of intellectual life.
+Russell the politician, Russell the philosopher, Russell the mathematician
+and Russell the peace campaigner are all the same man – not, as I had
+incorrectly first guessed, a prolific family. In his early career, Bertrand
+Russell was a Fellow of Trinity College, Cambridge, working on a broad
+range of mathematical problems. Meanwhile, in Germany, his contemporary
+David Hilbert, also a polymath, held the chair of mathematics at
+Göttingen University. Both men shared a common objective: to tidy up
+the loose ends in mathematics and set down the rules once and for all.
+This movement was called Formalism.
+Formalism
+David Hilbert and Bertrand Russell believed you should be able to set
+out all the rules of mathematics even though it might be a complicated
+affair. Without contradiction or inconsistency you should be able to
+194 Are the Androids Dreaming Yet?
+write down the rules and then play the ‘game of mathematics’ to derive
+every possible truth. Hilbert despised the idea that there could be
+unknowable things and was a forthright speaker. His battle cry was: Wir
+müssen wissen — wir werden wissen! “We must know — we will know!”
+He believed there were no fundamental unknowns in the world.
+Donald Rumsfeld famously summed up the problem of unknowns
+in an attempt to clarify a question from a journalist at a Whitehouse
+press conference:
+“There are known knowns; there are things we know we know. We
+also know there are known unknowns; that is to say we know
+there are some things we do not know. But there are also unknown
+unknowns – the ones we don’t know we don’t know.”
+Interestingly Donald Rumsfeld, like Bertrand Russell, is another
+person to span a huge swath of time in the public eye. He was both
+the youngest and the oldest serving U.S. Secretary of Defense, serving
+under both Richard Nixon and George W. Bush. We will shortly discover
+Rumsfeld’s convoluted view of the world turns out to be closer to the
+truth than Hilbert’s tidy mathematical aspiration.
+As well as believing there were no unknowable unknowns Hilbert
+thought mathematics was completely abstract. You did not need to know
+what you were talking about. Whether the symbols meant dogs, cats or
+numbers all you needed to do was apply the rules and all would be well.
+His belief is captured in his quote below.
+“It must be
+possible to
+replace in all
+geometric
+statements the
+words point,
+line, plane by
+table, chair,
+beer mug.”
+David Hilbert
+Geometry with Beer and Furniture
+Known Unknowns
+195
+Newton’s Principia
+PM
+In 1890, the Cambridge mathematicians Alfred North Whitehead and
+Bertrand Russell embarked on the mammoth task of writing out all the
+rules of mathematics and publishing them in a set of books called Principia
+Mathematica. Every rule is written down in meticulous detail. The books
+are heavy going and look like more like computer programs than text.
+They set out precisely what you can, and cannot, do with numbers, and
+are the most impenetrable textbook you will ever read. Just to give you a
+flavor here is one line where Russell proves 1+1=2. It has taken about 100
+pages of densely packed equations to get to this point!
+One Plus One Equals Two, PM
+PM is a 3-volume set of books. Volume One costs £480 on
+Amazon. This is a significant work and a collector’s item. The last time
+a first edition volume came up at auction in 2007 it went for over £800.
+Cambridge University Press printed only 750 copies and I suspect they
+196 Are the Androids Dreaming Yet?
+Amazon Listing for Principia Mathematica
+are undervalued. When mathematicians use the letters ‘PM’, they are
+usually referring to Russell and Whitehead’s Principia Mathematica
+rather than the afternoon.
+Hilbert’s Problems
+In 1900, while Russell and Whitehead were in full flow writing out
+their rules, David Hilbert was invited to deliver the annual lecture at
+the International Congress of Mathematicians in Paris. He asked a
+mathematician friend what subject he should pick for the talk and, in
+a moment of inspiration, the friend suggested laying out a vision for
+the future of mathematics. Rather than tell people how wonderful
+mathematicians were, and why their discipline was the pinnacle of
+human scientific endeavor, why not try modesty and list all the problems
+on which they were stumped? Hilbert liked the idea and devoted his
+talk to all the problems he thought mathematicians would solve in the
+20 th century. Hilbert’s Problems were simply an intellectual challenge.
+He offered no prizes. At the turn of the 21 st century, the Clay Institute
+created the Millennium Prizes for solving the most important modern
+mathematical problems. Each solution wins a prize of a million dollars!
+There are 23 numbered Hilbert Problems in all: ten in the original
+lecture and a further 13 in the written transcript. In 1928, he clarified
+the 2 nd and 10 th problems, refining them into three distinct questions: Is
+mathematics consistent, complete and decidable? Ironically this means
+that Hilbert’s 23 problems actually number 24! The most important
+Hilbert questions where these last three. They ask whether Russell
+and Whitehead would be successful – can you write out all the rules
+of mathematics and then simply calculate the answer to any problem
+or derive any proof. This is known as the Decision Problem. Can you
+mechanically decide any mathematical question without doubt? To
+explain Hilbert’s Problems, I need to define mathematics properly.
+Giuseppe Peano, Mathematician
+“A mathematician is a blind
+man in a dark room looking for
+a black cat which isn’t there.”
+Charles Darwin
+The Game of Math
+One of my most vivid childhood memories is driving my mother
+distraction by asking the ‘why’ question. Most children go
+through this phase:
+Me: “Why is a sponge wet?”
+My mother: “Because it has soaked up water.”
+Me: “Why has it soaked up water?”
+My mother: “Because it has small holes in it.”
+Me: “But what makes water wet?”
+My mother: “Because it is made of wet stuff.” a bit weak now.
+Me: “What is wet stuff?”
+…
+You can ramble on indefinitely unpeeling a never-ending onion.
+Sometimes, if you are unlucky, you may get stuck in a loop. For example,
+“where did the chicken come from?” “An egg,” “and where did the egg
+come from?”...
+Mathematics breaks this cycle!
+In mathematics, there is no danger of an infinite number of ‘why’
+questions because at its core are a clearly defined set of absolute rules
+called axioms. You cannot ask the ‘why’ question of an axiom. It is a
+RULE!
+Starting from an absolute minimum of fundamental rules
+everything else is built up so that no step requires any leap of faith nor
+generates any contradiction. Let me give you a concrete example and, in
+the process, show you how numbers are defined.
+Known Unknowns
+199
+Numbers
+It was not until the late 18 th century that numbers were properly codified.
+The mathematician Giuseppe Peano gave us the rules, so they are called
+Peano axioms. Here are his ‘axioms’ in natural language.
+Peano Axioms
+1. The first number is named zero.
+2. Every number has a next number (called its successor). Example:
+the next number after one is two.
+3. Numbers are singular. Every number with the same name is the
+same thing.
+4. If something is true of a number, it should be true of the next

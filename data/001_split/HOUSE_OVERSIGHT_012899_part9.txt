@@ -1,0 +1,1410 @@
+language and reasoning competitions like the Pascal Textual Entailment Challenge, and
+so on. In addition to these, there are many standard domains and problems used in the AI literature
+that are meant to capture the essential difficulties in a certain class of learning problems:
+standard datasets for face recognition, text parsing, supervised classification, theorem-proving,
+question-answering and so forth.
+However, the value of these sorts of tests for AGI is predicated on the hypothesis that the
+degree of success of an AI program at carrying out some domain-specific task, is correlated
+with the potential of that program for being developed into a robust AGI program with broad
+intelligence. If humanlike AGI and problem-area-specific “narrow AI” are in fact very different
+sorts of pursuits requiring very different principles, as we suspect, then these tests are not
+strongly relevant to the AGI problem.
+There are also some standard evaluation paradigms aimed at AI going beyond specific tasks.
+For instance, there is a literature on “multitask learning" and “transfer learning,” where the
+goal for an AI is to learn one task quicker given another task solved previously [Car97, TM95,
+16.2 Elements of Preschool Design 291
+BDS03, TS07, RZDK05]. This is one of the capabilities an AI agent will need to simultaneously
+learn different types of tasks as proposed in the Preschool scenario given here. And there is
+a literature on “shaping,” where the idea is to build up the capability of an AI by training
+it on progressively more difficult versions of the same tasks [LD03]. Again, this is one sort of
+capability an AI will need to possess if it is to move up some type of curriculum, such as a
+school curriculum.
+While we applaud the work done on multitask learning and shaping, we feel that exploring
+these processes using mathematical abstractions, or in the domain of various narrowlyproscribed
+machine-learning or robotics test problems, may not adequately address the problem
+of AGI. The problem is that generalization among tasks, or from simpler to more difficult
+versions of the same task, is a process whose nature may depend strongly on the overall nature
+of the set of tasks and task-versions involved. Real-world tasks have a subtlety of interconnectedness
+and developmental course that is not captured in current mathematical learning
+frameworks nor standard AI test problems.
+To put it mathematically, we suggest that the universe of real-world human tasks has a host
+of “special statistical properties” that have implications regarding what sorts of AI programs
+will be most suitable; and that, while exploring and formalizing the nature of these statistical
+properties is important, an easier and more reliable approach to AGI testing is to create a
+testing environment that embodies these properties implicitly, via its being an emulation of the
+cognitively meaningful aspects of the real-world human learning environment.
+One way to see this point vividly is to contrast the current proposal with the “General Game
+Player” AI competition, in which AIs seek to learn to play games based on formal descriptions
+of the rules. 1 . Clearly doing GGP well requires powerful AGI; and doing GGP even mediocrely
+probably requires robust multitask learning and shaping. But we suspect GGP is far inferior to
+AGI Preschool as an approach to testing early-stage AI programs aimed at roughly humanlike
+intelligence. This is because, unlike the tasks involved in AI Preschool, the tasks involved in
+doing simple instances of GGP seem to have little relationship to humanlike intelligence or
+real-world human tasks.
+16.2 Elements of Preschool Design
+What we mean by an “AGI Preschool” is simply a porting to the AGI domain of the essential
+aspects of human preschools. While there is significant variance among preschools there are also
+strong commonalities, grounded in educational theory and experience. We will briefly discuss
+both the physical design and educational curriculum of the typical human preschool, and which
+aspects transfer effectively to the AGI context.
+On the physical side, the key notion in modern preschool design is the “learning center,” an
+area designed and outfitted with appropriate materials for teaching a specific skill. Learning
+centers are designed to encourage learning by doing, which greatly facilitates learning processes
+based on reinforcement, imitation and correction (see Chapter 31 of Part 2 for a detailed discussion
+of the value of this combination); and also to provide multiple techniques for teaching
+the same skills, to accommodate different learning styles and prevent over-fitting and overspecialization
+in the learning of new skills.
+1 http://games.stanford.edu/
+292 16 AGI Preschool
+Centers are also designed to cross-develop related skills. A “manipulatives center,” for example,
+provides physical objects such as drawing implements, toys and puzzles, to facilitate
+development of motor manipulation, visual discrimination, and (through sequencing and classification
+games) basic logical reasoning. A “dramatics center,” on the other hand, cross-trains
+interpersonal and empathetic skills along with bodily-kinesthetic, linguistic, and musical skills.
+Other centers, such as art, reading, writing, science and math centers are also designed to train
+not just one area, but to center around a primary intelligence type while also cross-developing
+related areas. For specific examples of the learning centers associated with particular contemporary
+preschools, see [Nie98].
+In many progressive, student-centered preschools, students are left largely to their own devices
+to move from one center to another throughout the preschool room. Generally, each center
+will be staffed by an instructor at some points in the day but not others, providing a variety
+of learning experiences. At some preschools students will be strongly encouraged to distribute
+their time relatively evenly among the different learning centers, or to focus on those learning
+centers corresponding to their particular strengths and/or weaknesses.
+To imitate the general character of a human preschool, one would create several centers in
+a robot lab or virtual world. The precise architecture will best be adapted via experience but
+initial centers would likely be:
+• a blocks center: a table with blocks on it
+• a language center: a circle of chairs, intended for people to sit around and talk with the
+robot
+• a manipulatives center: with a variety of different objects of different shapes and sizes,
+intended to teach visual and motor skills
+• a ball play center: where balls are kept in chests and there is space for the robot to kick
+the balls around
+• a dramatics center: where the robot can observe and enact various movements
+16.3 Elements of Preschool Curriculum
+While preschool curricula vary considerably based on educational philosophy and regional and
+cultural factors, there is a great deal of common, shared wisdom regarding the most useful topics
+and methods for preschool teaching. Guided experiential learning in diverse environments and
+using varied materials is generally agreed upon as being an optimal methodology to reach a wide
+variety of learning types and capabilities. Hands-on learning provides grounding in specifics,
+where as a diversity of approaches allows for generalization.
+Core knowledge domains are also relatively consistent, even across various philosophies
+and regions. Language, movement and coordination, autonomous judgment, social skills, work
+habits, temporal orientation, spatial orientation, mathematics, science, music, visual arts, and
+dramatics are universal areas of learning which all early childhood learning touches upon. The
+particulars of these skills may vary, but all human children are taught to function in these domains.
+The level of competency developed may vary, but general domain knowledge is provided.
+For example, most kids won’t be the next Maria Callas, Ravi Shankar or Gene Ween, but nearly
+all learn to hear, understand and appreciate music.
+Tables 16.1 - 16.3 review the key capabilities taught in preschools, and identify the most
+important specific skills that need to be evaluated in the context of each capability. This ta-
+16.3 Elements of Preschool Curriculum 293
+ble was assembled via surveying the curricula from a number of currently existing preschools
+employing different methodologies both based on formal academic cognitive theories [Sch07]
+and more pragmatic approaches, such as: Montessori [Mon12], Waldorf [SS03b], Brain Gym
+(www.braingym.org) and Core Knowledge (www.coreknowledge.org).
+Type of Capability Specific Skills to be Evaluated
+Story Understanding
+• Understanding narrative sequence
+• Understanding character development
+• Dramatize a story
+• Predict what comes next in a story
+Linguistic
+• Give simple descriptions of events
+• Describe similarities and differences
+• Describe objects and their functions
+Linguistic / Spatial- Interpreting pictures
+Visual
+Linguistic / Social
+• Asking questions appropriately
+• Answering questions appropriately
+• Talk about own discoveries
+• Initiate conversations
+• Settle disagreements
+• Verbally express empathy
+• Ask for help
+• Follow directions
+Linguistic / Scientific
+• Provide possible explanations for events or phenomena
+• Carefully describe observations
+• Draw conclusions from observations
+Table 16.1: Categories of Preschool Curriculum, Part 1
+16.3.1 Preschool in the Light of Intelligence Theory
+Comparing Table 16.1 to Gardner’s Multiple Intelligences (MI) framework briefly reviewed in
+Chapter 2, the high degree of harmony is obvious, and is borne out by more detailed analysis.
+Preschool curriculum as standardly practiced is very well attuned to MI, and naturally covers
+all the bases that Gardner identifies as important. And this is not at all surprising since one of
+Gardner’s key motivations in articulating MI theory was the pragmatics of educating humans
+with diverse strengths and weaknesses.
+Regarding intelligence as “the ability to achieve complex goals in complex environments,” it
+is apparent that preschools are specifically designed to pack a large variety of different micro-
+294 16 AGI Preschool
+Type of Capability
+Logical-
+Mathematical
+Nonverbal Communication
+Spatial-Visual
+Objective
+Specific Skills to be Evaluated
+• Categorizing
+• Sorting
+• Arithmetic
+• Performing simple “proto-scientific experiments”
+• Communicating via gesture
+• Dramatizing situations
+• Dramatizing needs, wants
+• Express empathy
+• Visual patterning
+• Self-expression through drawing
+• Navigate
+• Assembling objects
+• Disassembling objects
+• Measurement
+• Symmetry
+• Similarity between structures (e.g. block structures and
+real ones)
+Table 16.2: Categories of Preschool Curriculum, Part 2
+Type of Capability
+Interpersonal
+Emotional
+Specific Skills to be Evaluated
+• Cooperation
+• Display appropriate behavior in various settings
+• Clean up belongings
+• Share supplies
+• Delay gratification
+• Control emotional reactions
+• Complete projects
+Table 16.3: Categories of Preschool Curriculum, Part 3
+environments (the learning centers) into a single room, and to present a variety of different tasks
+in each environment. The environments constituted by preschool learning centers are designed
+as microcosms of the most important aspects of the environments faced by humans in their
+everyday lives.
+16.4 Task-Based Assessment in AGI Preschool 295
+16.4 Task-Based Assessment in AGI Preschool
+Professional pedagogues such as [CM07] discuss evaluation of early childhood learning as intended
+to assess both specific curriculum content knowledge as well as the child’s learning
+process. It should be as unobtrusive as possible, so that it just seems like another engaging activity,
+and the results used to tailor the teaching regimen to use different techniques to address
+weaknesses and reinforce strengths.
+For example, with group building of a model car, students are tested on a variety of skills:
+procedural understanding, visual acuity, motor acuity, creative problem solving, interpersonal
+communications, empathy, patience, manners, and so on. With this kind of complex, yet engaging,
+activity as a metric the teacher can see how each student approaches the process of
+understanding each subtask, and subsequently guide each student’s focus differently depending
+on strengths and weaknesses.
+In Tables 16.4 and 16.5 we describe some particular tasks that AGIs may be meaningfully
+assigned in the context of a general AGI Preschool design and curriculum as described above.
+Of course, this is a very partial list, and is intended as evocative rather than comprehensive.
+Any one of these tasks can be turned into a rigorous quantitative test, thus allowing the
+precise comparison of different AGI systems’ capabilities; but we have chosen not to emphasize
+this point here, partly for space reasons and partly for philosophical ones. In some contexts
+the quantitative comparison of different systems may be the right thing to do, but as discussed
+in Chapter 17 there are also risks associated with this approach, including the emergence of
+an overly metrics-focused “bakeoff mentality” among system developers, and overfitting of AI
+abilities to test taking. What is most important is the isolation of specific tasks on which
+different systems may be experientially trained and then qualitatively assessed and compared,
+rather than the evaluation of quantitative metrics.
+Task-oriented testing allows for feedback on applications of general pedagogical principles to
+real-world, embodied activities. This allows for iterative refinement based learning (shaping),
+and cross development of knowledge acquisition and application (multitask learning). It also
+helps militate against both cheating, and over-fitting, as teachers can make ad-hoc modifications
+to the tests to determine if this is happening and correct for it if necessary.
+E.g., consider a linguistic task in which the AGI is required to formulate a set of instructions
+encapsulating a given behavior (which may include components that are physical, social,
+linguistic, etc.). Note that although this is presented as centrally a linguistic task, it actually involves
+a diverse set of competencies since the behavior to be described may encompass multiple
+real-world aspects.
+To turn this task into a more thorough test one might involve a number of human teachers
+and a number of human students. Before the test, an ensemble of copies of the AGI would
+be created, with identical knowledge state. Each copy would interact with a different human
+teacher, who would demonstrate to it a certain behavior. After testing the AGI on its own
+knowledge of the material, the teacher would then inform the AGI that it will then be tested on
+its ability to verbally describe this behavior to another. Then, the teacher goes away and the
+copy interacts with a series of students, attempting to convey to the students the instructions
+given by the teacher.
+The teacher can thereby assess both the AGI’s understanding of the material, and the ability
+to explain it to the other students. This separates out assessment of understanding from assessment
+of ability to communicate understanding, attempting to avoid conflation of one with the
+other. The design of the training and testing needs to account for potential
+296 16 AGI Preschool
+Intelligence Type
+Linguistic
+Logical-
+Mathematical
+Musical
+Bodily-Kinesthetic
+Test
+• write a set of instructions
+• speak on a subject
+• edit a written piece or work
+• write a speech
+• commentate on an event
+• apply positive or negative ’spin’ to astory
+• perform arithmetic calculations
+• create a process to measure something
+• analyse how a machine works
+• create a process
+• devise a strategy to achieve an aim
+• assess the value of a proposition
+• perform a musical piece
+• sing a song
+• review a musical work
+• coach someone to play a musical instrument
+• juggle
+• demonstrate a sports technique
+• flip a beer-mat
+• create a mime to explain something
+• toss a pancake
+• fly a kite
+Table 16.4: Prototypical preschool intelligence assessment tasks, Part 1
+This testing protocol abstracts away from the particularities of any one teacher or student,
+and focuses on effectiveness of communication in a human context rather than according to
+formalized criteria. This is very much in the spirit of how assessment takes place in human
+preschools (with the exception of the copying aspect): formal exams are rarely given in preschool,
+but pragmatic, socially-embedded assessments are regularly made.
+By including the copying aspect, more rigorous statistical assessments can be made regarding
+efficacy of different approaches for a given AGI design, independent of past teaching experiences.
+The multiple copies may, depending on the AGI system design, then be able to be reintegrated,
+and further “learning” be done by higher-order cognitive systems in the AGI that integrate the
+disparate experiences of the multiple copies.
+This kind of parallel learning is different from both sequential learning that humans do, and
+parallel presences of a single copy of an AGI (such as in multiple chat rooms type experiments).
+All three approaches are worthy of study, to determine under what circumstances, and with
+which AGI designs, one is more successful than another.
+It is also worth observing how this test could be tweaked to yield a test of generalization
+ability. After passing the above, the AGI could then be given a description of a new task
+16.4 Task-Based Assessment in AGI Preschool 297
+Intelligence Type
+Spatial-Visual
+Interpersonal
+Test
+• design a costume
+• interpret a painting
+• create a room layout
+• create a corporate logo
+• design a building
+• pack a suitcase or the trunk of a car
+• interpret moods from facial expressions
+• demonstrate feelings through body language
+• affect the feelings of others in a planned way
+• coach or counsel another
+Table 16.5: Prototypical preschool intelligence assessment tasks, Part 2
+(acquisition), and asked to explain the new one (variation). And, part of the training behavior
+might be carried out unobserved by the AGI, thus requiring the AGI to infer the omitted parts
+of the task it needs to describe.
+Another popular form of early childhood testing is puzzle block games. These kinds of games
+can be used to assess a variety of important cognitive skills, and to do so in a fun way that
+not only examines but also encourages creativity and flexible thinking. Types of games include
+pattern matching games in which students replicate patterns described visually or verbally,
+pattern creation games in which students create new patterns guided by visually or verbally
+described principles, creative interpretation of patterns in which students find meaning in the
+forms, and free-form creation. Such games may be individual or cooperative.
+Cross training and assessment of a variety of skills occurs with pattern block games: for
+example, interpretation of visual or linguistic instructions, logical procedure and pattern following,
+categorizing, sorting, general problem solving, creative interpretation, experimentation,
+and kinematic acuity. By making the games cooperative, various interpersonal skills involving
+communication and cooperation are also added to the mix.
+The puzzle block context bring up some general observations about the role of kinematic
+and visuospatial intelligence in the AGI Preschool. Outside of robotics and computer vision, AI
+research has often downplayed these sorts of intelligence (though, admittedly, this is changing in
+recent years, e.g. with increasing research focus on diagrammatic reasoning). But these abilities
+are not only necessary to navigate real (or virtual) spatial environments. They are also important
+components of a coherent, conceptually well-formed understanding of the world in which the
+student is embodied. Integrative training and assessment of both rigorous cognitive abilities
+generally most associated with both AI and “proper schooling” (such as linguistic and logical
+skills) along with kinematic and aesthetic/sensory abilities is essential to the development of
+an intelligence that can successfully both operate in and sensibly communicate about the real
+world in a roughly humanlike manner. Whether or not an AGI is targeted to interpret physicalworld
+spatial data and perform tasks via robotics, in order to communicate ideas about a vast
+array of topics of interest to any intelligence in this world, an AGI must develop aspects of
+intelligence other than logical and linguistic cognition.
+298 16 AGI Preschool
+16.5 Beyond Preschool
+Once an AGI passes preschool, what are the next steps? There is still a long way to go, from
+preschool to an AGI system that is capable of, say, passing the Turing Test or serving as an
+effective artificial scientist.
+Our suggestion is to extend the school metaphor further, and make use of existing curricula
+for higher levels of virtual education: grade school, secondary school, and all levels of postsecondary
+education. If an AGI can pass online primary and secondary schools such as e-
+tutor.com, and go on to earn an online degree from an accredited university, then clearly said
+AGI has successfully achieved “human level, roughly humanlike AGI.” This sort of testing is
+interesting not only because it allows assessment of stages intermediate between preschool and
+adult, but also because it tests humanlike intelligence without requiring precise imitation of
+human behavior.
+If an AI can get a BA degree at an accredited university, via online coursework (assuming
+for simplicity courses where no voice interaction is needed), then we should consider that AI to
+have human-level intelligence. University coursework spans multiple disciplines, and the details
+of the homework assignments and exams are not known in advance, so like a human student
+the AGI team can’t cheat.
+In addition to the core coursework, a schooling approach also tests basic social interaction
+and natural language communication, ability to do online research, and general problem solving
+ability. However, there is no rigid requirement to be strictly humanlike in order to pass university
+classes.
+Most of our concrete examples in the following chapters will pertain to the preschool context,
+because it’s simple to understand, and because we feel that getting to the “AGI preschool
+student” level is going to be the largest leap. Once that level is obtained, moving further
+will likely be difficult also, but we suspect it will be more a matter of steady incremental
+improvements – whereas the achievement of preschool-level functionality will be a large leap
+from the current situation.
+16.6 Issues with Virtual Preschool Engineering
+As noted above there are two broad approaches to realizing the “AGI Preschool” idea: using
+the AGI to control a physical robot and then crafting a preschool environment suitable to the
+robot’s sensors and actuators; or, using the AGI to control a virtual agent in an appropriately
+rich virtual-world preschool. The robotic approach is harder from an AI perspective (as one must
+deal with problems of sensation and actuation), but easier from an environment-construction
+perspective. In the virtual world case, one quickly runs up against the current limitations
+of virtual world technologies, which have been designed mainly for entertainment or socialnetworking
+purposes, not with the requirements of AGI systems in mind.
+In Chapter 9 we discussed the general requirements that an environment should possess to be
+supportive of humanlike intelligence. Referring back to that list, it’s clear that current virtual
+worlds are fairly strong on multimodal communication, and fairly weak on naive physics. More
+concretely, if one wants a virtual world so that
+16.6 Issues with Virtual Preschool Engineering 299
+1. one could carry out all the standard cognitive development experiments described in developmental
+psychology books
+2. one could implement intuitively reasonable versions of all the standard activities in all the
+standard learning stations in a contemporary preschool
+then current virtual world technologies appear not to suffice.
+As reviewed above, typical preschool activities include for instance building with blocks,
+playing with clay, looking in a group at a picture book and hearing it read aloud, mixing
+ingredients together, rolling/throwing/catching balls, playing games like tag, hide-and-seek,
+Simon Says or Follow the Leader, measuring objects, cutting paper into different shapes, drawing
+and coloring, etc.
+And, as typical, not necessarily representative examples of tasks psychologists use to measure
+cognitive development (drawn mainly from the Piagetan tradition, without implying any
+assertion that this is the only tradition worth pursuing), consider the following:
+1. Which row has more circles- A or B? A: O O O O O, B: OOOOO
+2. If Mike is taller than Jim, and Jim is shorter than Dan, then who is the shortest? Who is
+the tallest?
+3. Which is heavier- a pound of feathers or a pound of rocks?
+4. Eight ounces of water is poured into a glass that looks like the fat glass in Figure 2 16.1
+and then the same amount is poured into a glass that looks like the tall glass in Figure 16.2
+. Which glass has more water?
+5. A lump of clay is rolled into a snake. All the clay is used to make the snake. Which has
+more clay in it – the lump or the snake?
+6. There are two dolls in a room, Sally and Ann, each of which has her own box, with a marble
+hidden inside. Sally goes out for a minute, leaving her box behind; and Ann decides to play
+a trick on Sally: she opens Sally’s box, removes the marble, hiding it in her own box. Sally
+returns, unaware of what happened. Where will Sally would look for her marble?
+7. Consider this rule about a set of cards that have letters on one side and numbers on the
+other: “If a card has a vowel on one side, then it has an even number on the other side.” If
+you have 4 cards labeled “E K 4 7”, which cards do you need to turn over to tell if this rule
+is actually true?
+8. Design an experiment to figure out how to make a pendulum that swings more slowly versus
+less slowly
+What we see from this ad hoc, partial list is that a lot of naive physics is required to make an
+even vaguely realistic preschool. A lot of preschool education is about the intersection between
+abstract cognition and naive physics. A more careful review of the various tasks involved in
+preschool education bears out this conclusion.
+With this in mind, in this section we will briefly describe an approach to extending current
+virtual world technologies that appears to allow the construction of a reasonably rich and
+realistic AGI preschool environment, without requiring anywhere near a complete simulation of
+realistic physics.
+300 16 AGI Preschool
+Fig. 16.1: Part 1 of a Piagetan conservation of volume experiment: a child observes that two
+glasses obviously have the same amount of milk in them, and then sees the content of one of
+the glasses poured into a different-shaped glass.
+16.6 Issues with Virtual Preschool Engineering 301
+Fig. 16.2: Part 2 of a Piagetan conservation of volume experiment: a child observes two differentshaped
+glasses, which (depending on the level of his cognition), he may be able to infer have
+the same amount of milk in them, due to the events depicted in Figure 16.1.
+16.6.1 Integrating Virtual Worlds with Robot Simulators
+One glaring deficit in current virtual world platforms is the lack of flexibility in terms of tool use.
+In most of these systems today, an avatar can pick up or utilize an object, or two objects can
+interact, only in specific, pre-programmed ways. For instance, an avatar might be able to pick up
+a virtual screwdriver only by the handle, rather than by pinching the blade betwen its fingers.
+This places severe limits on creative use of tools, which is absolutely critical in a preschool
+context. The solution to this problem is clear: adapt existing generalized physics engines to
+mediate avatar-object and object-object interactions. This would require more computation
+than current approaches, but not more than is feasible in a research context.
+One way to achieve this goal would be to integrate a robot simulator with a virtual world
+or game engine, for instance to modify the OpenSim (opensimulator.org) virtual world to
+use the Gazebo (playerstage.sourceforge.net) robot simulator in place of its current
+physics engine. While tractable, such a project would require considerable software engineering
+effort.
+16.6.2 BlocksNBeads World
+Another glaring deficit in current virtual world platforms is their inability to model physical
+phenomena besides rigid objects with any sophistication. In this section we propose a potential
+302 16 AGI Preschool
+solution to this issue: a novel class of virtual worlds called BlocksNBeadsWorld, consisting of
+the following aspects:
+1. 3D blocks of various shapes and sizes and frictional coefficients, that can be stacked
+2. Adhesive that can be used to stick blocks together, and that comes in two types, one of
+which can be removed by an adhesive-removing substance, one of which cannot (though its
+bonds can be broken via sufficient application of force)
+3. Spherical beads, each of which has intrinsic unchangeable adhesion properties defined according
+to a particular, simple “adhesion logic”
+4. Each block, and each bead, may be associated with multidimensional quantities representing
+its taste and smell; and may be associated with a set of sounds that are made when it is
+impacted with various forces at various positions on its surface
+Interaction between blocks and beads is to be calculated according to standard Newtonian
+physics, which would be compute-intensive in the case of a large number of beads, but tractable
+using distributed processing. For instance if 10K beads were used to cover a humanoid agent’s
+face, this would provide a fairly wide diversity of facial expressions; and if 10K beads were
+used to form a blanket laid on a bed, this would provide a significant amount of flexibility
+in terms of rippling, folding and so forth. Yet, this order of magnitude of interactions is very
+small compared to what is done in contemporary simulations of fluid dynamics or, say, quantum
+chromodynamics.
+One key aspect of the spherical beads is that they can be used to create a variety of rigid or
+flexible surfaces, which may exist on their own or be attached to blocks-based constructs. The
+specific inter-bead adhesion properties of the beads could be defined in various ways, and will
+surely need to be refined via experimentation, but a simple scheme that seems to make sense
+is as follows.
+Each bead can have its surface tesselated into hexagons (the number of these can be tuned),
+and within each hexagon it can have two different adhesion coefficients: one for adhesion to
+other beads, and one for adhesion to blocks. The adhesion between two beads along a certain
+hexagon is then determined by their two adhesion coefficients; and the adhesion between a bead
+and a block is determined by the adhesion coefficient of the bead, and the adhesion coefficient
+of the adhesive applied to the block. A distinction must be drawn between rigid and flexible
+adhesion: rigid adhesion sticks a bead to something in a way that can’t be removed except via
+breaking it off; whereas flexible adhesion just keeps a bead very close to the thing it’s stuck
+onto. Any two entities may be stuck together either rigidly or flexibly. Sets of beads with flexible
+adhesion to each other can be used to make entities like strings, blankets or clothes.
+Using the above adhesion logic, it seems one could build a wide variety of flexible structures
+using beads, such as (to give a very partial list):
+1. fabrics with various textures, that can be draped over blocks structures,
+2. multilayered coatings to be attached to blocks structures, serving (among many other examples)
+as facial expressions
+3. liquid-type substances with varying viscosities, that can be poured between different containers,
+spilled, spread, etc.
+4. strings tyable in knots; rubber bands that can be stretched; etc.
+Of course there are various additional features one could add. For instance one could add a
+special set of rules for vibrating strings, allowing BlocksNBeadsWorld to incorporate the creation
+16.6 Issues with Virtual Preschool Engineering 303
+of primitive musical instruments. Variations like this could be helpful but aren’t necessary for
+the world to serve its essential purpose.
+Note that one does not have true fluid dynamics in BlocksNBeadsWorld, but, it seems that
+the latter is not necessary to encompass the phenomena covered in cognitive developmental
+tests or preschool tasks. The tests and tasks that are done with fluids can instead be done with
+masses of beads. For example, consider the conservation of volume task shown in Figures 16.1
+and 16.2 below: it’s easy enough to envision this being done with beads rather than milk. Even
+a few hundred beads is enough to be psychologically perceived as a mass rather than a set
+of discrete units, and to be manipulated and analyzed as such. And the simplification of not
+requiring fluid mechanics in one’s virtual world is immense.
+Next, one can implement equations via which the adhesion coefficients of a bead are determined
+in part by the adhesion coefficients of nearby beads, or beads that are nearby in certain
+directions (with direction calculated in local spherical coordinates). This will allow for complex
+cracking and bending behaviors – not identical to those in the real world, but with similar qualitative
+characteristics. For example, without this feature one could create paperlike substances
+that could be cut with scissors – but with this feature, one could go further and create woodlike
+substances that would crack when nails were hammered into them in certain ways, and so forth.
+Further refinements are certainly possible also. One could add multidimensional adhesion
+coefficients, allowing more complex sorts of substances. One could allow beads to vibrate at
+various frequencies, which would lead to all sorts of complex wave patterns in bead compounds.
+Etc. In each case, the question to be asked is: what important cognitive abilities are dramatically
+more easily learnable in the presence of the new feature than in its absence?
+The combination of blocks and beads seems ideal for implementing a more flexible and AGIfriendly
+type of virtual body than is currently used in games and virtual worlds. One can easily
+envision implementing a body with
+1. a skeleton whose bones consist of appropriately shaped blocks
+2. joints consisting of beads, flexibly adhered to the bones
+3. flesh consisting of beads, flexibly adhered to each other
+4. internal “plumbing” consisting of tubes whose walls are beads rigidly adhered to each other,
+and flexibly adhered to the surrounding flesh (the plumbing could then serve to pass beads
+through, where slow passage would be ensured by weak adhesion between the walls of the
+tubes and the beads passing through the tubes)
+This sort of body would support rich kinesthesia; and rich, broad analogy-drawing between
+the internally-experienced body and the externally-experienced world. It would also afford many
+interesting opportunities for flexible movement control. Virtual animals could be created along
+with virtual humanoids.
+Regarding the extended mind, it seems clear that blocks and beads are adequate for the
+creation of a variety of different tools. Equipping agents with “glue guns” able to affect the
+adhesive properties of both blocks and beads would allow a diversity of building activity; and
+building with masses of beads could become a highly creative activity. Furthermore, beads
+with appropriately specified adhesion (within the framework outlined above) could be used
+to form organically growing plant-like substances, based on the general principles used in L-
+system models of plant growth (Prusinciewicz and Lindenmayer 1991). Structures with only
+beads would vaguely resemble herbaceous plants; and structures involving both blocks and
+beads would more resemble woody plants. One could even make organic structures that flourish
+304 16 AGI Preschool
+or otherwise based on the light available to them (without of course trying to simulate the
+chemistry of photosynthesis).
+Some elements of chemistry may be achieved as well, though nowhere near what exists
+in physical reality. For instance, melting and boiling at least should be doable: assign every
+bead a temperature, and let solid interbead bonds turn liquid above a certain temperature and
+disappear completely above some higher temperature. You could even have a simple form of fire.
+Let fire be an element, whose beads have negative gravitational mass. Beads of fuel elements
+like wood have a threshold temperature above which they will turn into fire beads, with release
+of additional heat. 2
+The philosophy underlying these suggested bead dynamics is somewhat comparable to that
+outlined in Wolfram’s book A New Kind of Science [Wol02]. There he proposes cellular automata
+models that emulate the qualitative characteristics of various real-world phenomena,
+without trying to match real-world data precisely. For instance, some of his cellular automata
+demonstrate phenomena very similar to turbulent fluid flow, without implementing the Navier-
+Stokes equations of fluid dynamics or trying to precisely match data from real-world turbulence.
+Similarly, the beads in BlocksNBeadsWorld are intended to qualitatively demonstrate the realworld
+phenomena most useful for the development of humanlike embodied intelligence, without
+trying to precisely emulate the real-world versions of these phenomena.
+The above description has been left imprecisely specified on purpose. It would be straightforward
+to write down a set of equations for the block and bead interactions, but there seems
+little value in articulating such equations without also writing a simulation involving them and
+testing the ensuing properties. Due to the complex dynamics of bead interactions, the finetuning
+of the bead physics is likely to involve some tuning based on experimentation, so that
+any equations written down now would likely be revised based on experimentation anyway. Our
+goal here has been to outline a certain class of potentially useful environments, rather than to
+articulate a specific member of this class.
+Without the beads, BlocksNBeadsWorld would appear purely as a “Blocks World with Glue”
+– essentially a substantially upgraded version of the Blocks Worlds frequently used in AI, since
+first introduced in [Win72]. Certainly a pure “Blocks World with Glue” would have greater
+simplicity than BlocksNBeadsWorld, and greater richness than standard Blocks World; but
+this simplicity comes with too many limitations, as shown by consideration of the various naive
+physics requirements inventoried above. One simply cannot run the full spectrum of humanlike
+cognitive development experiments, or preschool educational tasks, using blocks and glue alone.
+One can try to create analogous tasks using only blocks and glue, but this quickly becomes
+extremely awkward. Whereas in the BlocksNBeadsWorld the capability for this full spectrum
+of experiments and tasks seems to fall out quite naturally.
+What’s missing from BlocksNBeadsWorld should be fairly obvious. There isn’t really any
+distinction between a fluid and a powder: there are masses, but the types and properties of the
+masses are not the same as in the real world, and will surely lack the nuances of real-world fluid
+dynamics. Chemistry is also missing: processes like cooking and burning, although they can be
+crudely emulated, will not have the same richness as in the real world. The full complexity of
+body processes is not there: the body-design method mentioned above is far richer and more
+adaptive and responsive than current methods of designing virtual bodies in 3DSMax or Maya
+and importing them into virtual world or game engines, but still drastically simplistic compared
+to real bodies with their complex chemical signaling systems and couplings with other bodies
+and the environment. The hypothesis we’re making in this section is that these lacunae aren’t
+2 Thanks are due to Russell Wallace for the suggestions in this paragraph
+16.6 Issues with Virtual Preschool Engineering 305
+that important from the point of view of humanlike cognitive development. We suggest that
+the key features of naive physics and folk psychology enumerated above can be mastered by an
+AGI in BlocksNBeadsWorld in spite of its limitations, and that – together with an appropriate
+AGI design – this probably suffices for creating an AGI with the inductive biases constituting
+humanlike intelligence.
+To drive this point home more thoroughly, consider three potential virtual world scenarios:
+1. A world containing realistic fluid dynamics, where a child can pour water back and forth
+between two cups of different shapes and sizes, to understand issues such as conservation
+of volume
+2. A world more like today’s Second Life, where fluids don’t really exist, and things like lakes
+are simulated via very simple rules, and pouring stuff back and forth between cups doesn’t
+happen unless it’s programmed into the cups in a very specialized way
+3. A BlocksNBeadsWorld type world, where a child can pour masses of beads back and forth
+between cups, but not masses of liquid
+Our qualitative judgment is that Scenario 3 is going to allow a young AI to gain the same essential
+insights as Scenario 1, whereas Scenario 2 is just too impoverished. I have explored dozens
+of similar scenarios regarding different preschool tasks or cognitive development experiments,
+and come to similar conclusions across the board. Thus, our current view is that something like
+BlocksNBeadsWorld can serve as an adequate infrastructure for an AGI Preschool, supporting
+the development of human-level, roughly human-like AGI.
+And, if this view turns out to be incorrect, and BlocksNBeadsWorld is revealed as inadequate,
+then we will very likely still advocate the conceptual approach enunciated above as a guide for
+designing virtual worlds for AGI. That is, we would suggest to explore the hypothetical failure
+of BlocksNBeadsWorld via asking two questions:
+1. Are there basic naive physics or folk psychology requirements that were missed in creating
+the specifications, based on which the adequacy of BlocksNBeadsWorld was assessed?
+2. Does BlocksNBeadsWorld fail to sufficiently emulate the real world in respect to some of
+the articulated naive physics or folk psychology requirements?
+The answers to these questions would guide the improvement of the world or the design of a
+better one.
+Regarding the practical implementation of BlocksNBeadsWorld, it seems clear that this is
+within the scope of modern game engine technology, however, it is not something that could be
+encompassed within an existing game or world engine without significant additions; it would
+require substantial custom engineering. There exist commodity and open-source physics engines
+that efficiently carry out Newtonian mechanics calculations; while they might require
+some tuning and extension to handle BlocksNBeadWorld, the main issue would be achieving
+adequate speed of physics calculation, which given current technology would need to be done
+via modifying existing engines to appropriately distribute processing among multiple GPUs.
+Finally, an additional avenue that merits mention is the use of BlocksNBeads physics internally
+within an AGI system, as part of an internal simulation world that allows it to make
+“mind’s eye” estimative simulations of real or hypothetical physical situations. There seems no
+reason that the same physics software libraries couldn’t be used both for the external virtual
+world that the AGI’s body lives in, and for an internal simulation world that the AGI uses as
+a cognitive tool. In fact, the BlocksNBeads library could be used as an internal cognitive tool
+by AGI systems controlling physical robots as well. This might require more tuning of the bead
+306 16 AGI Preschool
+dynamics to accord with the dynamics of various real-world systems; but, this tuning would be
+beneficial for the BlocksNBeadWorld as well.
+Chapter 17
+A Preschool-Based Roadmap to Advanced AGI
+17.1 Introduction
+Supposing the CogPrime approach to creating advanced AGI is workable – then what are the
+right practical steps to follow? The various structures and algorithms outlined in Part 2 of
+this book should be engineered and software-tested, of course – but that’s only part of the
+study. The AGI system implemented will need to be taught, and it will need to be placed in
+situations where it can develop an appropriate self-model and other critical internal network
+structures. The complex structures and algorithms involved will need to be fine-tuned in various
+ways, based on qualitatively observing the overall system’s behavior in various situations. To
+get all this right without excessive confusion or time-wastage requires a fairly clear roadmap for
+CogPrime development.
+In this chapter we’ll sketch one particular roadmap for the development of human-level,
+roughly human-like AGI – which we’re not selling as the only one, or even necessarily as the
+best one. It’s just one roadmap that we have thought about a lot, and that we believe has a
+strong chance of proving effective. Given resources to pursue only one path for AGI development
+and teaching, this would be our choice, at present. The roadmap outlined here is not restricted
+to CogPrime in any highly particular ways, but it has been developed largely with CogPrime
+in mind; those developing other AGI designs could probably use this roadmap just fine, but
+might end up wanting to make various adjustments based on the strengths and weaknesses of
+their own approach.
+What we mean here by a "roadmap" is, in brief: a sequence of "milestone" tasks, occurring
+in a small set of common environments or "scenarios," organized so as to lead to a commonly
+agreed upon set of long-term goals. I.e., what we are after here is a "capability roadmap" – a
+roadmap laying out a series of capabilities whose achievement seems likely to lead to humanlevel
+AGI. Other sorts of roadmaps such as "tools roadmaps" may also be valuable, but are not
+our concern here.
+More precisely, we confront the task of roadmapping by identifying scenarios in which to
+embed our AGI system, and then "competency areas" in which the AGI system must be evaluated.
+Then, we envision a roadmap as consisting of a set of one or more task-sets, where each
+task set is formed from a combination of a scenario with a list of competency areas. To create
+a task-set one must choose a particular scenario, and then articulate a set of specific tasks,
+each one addressing one or more of the competency areas. Each task must then get associated
+with particular performance metrics – quantitative wherever possible, but perhaps qualitative
+307
+308 17 A Preschool-Based Roadmap to Advanced AGI
+in some cases depending on the nature of the task. Here we give a partial task-set for the "virtual
+and robot preschool" scenarios discussed in Chapter 16, and a couple example quantitative
+metrics just to illustrate what is intended; the creation of a fully detailed roadmap based on
+the ideas outlined here is left for future work.
+The train of thought presented in this chapter emerged in part from a series of conversations
+preceding and during the "AGI Roadmap Workshop" held at the University of Tennessee,
+Knoxville in October 2008. Some of the ideas also trace back to discussions held during two
+workshops on "Evaluation and Metrics for Human-Level AI" organized by John Laird and Pat
+Langley (one in Ann Arbor in late 2008, and one in Tempe in early 2009). Some of the conclusions
+of the Ann Arbor workshop were recorded in [LWML09]. Inspiration was also obtained
+from discussion at the "Future of AGI" post-conference workshop of the AGI-09 conference,
+triggered by Itamar Arel’s [ARK09a] presentation on the "AGI Roadmap" theme; and from an
+earlier article on AGI Roadmapping by [AL09].
+However, the focus of the AGI Roadmap Workshop was considerably more general than the
+present chapter. Here we focus on preschool-type scenarios, whereas at the workshop a number
+of scenarios were discussed, including the preschool scenarios but also, for example,
+• Standardized Tests and School Curricula
+• Elementary, Middle and High School Student
+• General Videogame Learning
+• Wozniak’s Coffee Test: go into a random American house and figure out how to make coffee,
+and do it
+• Robot College Student
+• General Call Center Respondent
+For each of these scenarios, one may generate tasks corresponding to each of the competency
+areas we will outline below. CogPrime is applicable in all these scenarios, so our choice to focus
+on preschool scenarios is an additional judgment call beyond those judgment calls required to
+specify the CogPrime design. The roadmap presented here is a "AGI Preschool Roadmap" and
+as such is a special case of the broader "AGI Roadmap" outlined at the workshop.
+17.2 Measuring Incremental Progress Toward Human-Level AGI
+In Chapter 2, we discussed several examples of practical goals that we find to plausibly characterize
+"human level AGI", e.g.
+• Turing Test
+• Virtual World Turing Test
+• Online University Test
+• Physical University Test
+• Artificial Scientist Test
+We also discussed our optimism regarding the possibility that in the future AGI may advance
+beyond the human level, rendering all these goals "early-stage subgoals."
+However, in this chapter we will focus our attention on the nearer term. The above goals are
+ambitious ones, and while one can talk a lot about how to precisely measure their achievement,
+we don’t feel that’s the most interesting issue to ponder at present. More critical is to think
+17.2 Measuring Incremental Progress Toward Human-Level AGI 309
+about how to measure incremental progress. How do you tell when you’re 25% or 50% of the way
+to having an AGI that can pass the Turing Test, or get an online university degree. Fooling 50%
+of the Turing Test judges is not a good measure of being 50% of the way to passing the Turing
+Test (that’s too easy); and passing 50% of university classes is not a good measure of being 50%
+of the way to getting an online university degree (it’s too hard – if one had an AGI capable
+of doing that, one would almost surely be very close to achieving the end goal). Measuring
+incremental progress toward human-level AGI is a subtle thing, and we argue that the best way
+to do it is to focus on particular scenarios and the achievement of specific competencies therein.
+As we argued in Chapter 8 there are some theoretical reasons to doubt the possibility of
+creating a rigorous objective test for partial progress toward AGI – a test that would be convincing
+to skeptics, and impossible to "game" via engineering a system specialized to the test.
+Fortunately, though we don’t need a test of this nature for the purposes of assessing our own
+incremental progress toward advanced AGI, based on our knowledge about our own approach.
+Based on the nature of the grand goals articulated above, there seems to be a very natural
+approach to creating a set of incremental capabilities building toward AGI: to draw on our
+copious knowledge about human cognitive development. This is by no means the only possible
+path; one can envision alternatives that have nothing to do with human development (and those
+might also be better suited to non-human AGIs). However, so much detailed knowledge about
+human development is available – as well as solid knowledge that the human developmental
+trajectory does lead to human-level AI – that the motivation to draw on human cognitive
+development is quite strong.
+The main problem with the human development inspired approach is that cognitive developmental
+psychology is not as systematic as it would need to be for AGI to be able to translate
+it directly into architectural principles and requirements. As noted above, while early thinkers
+like Piaget and Vygotsky outlined systematic theories of child cognitive development, these
+are no longer considered fully accurate, and one currently faces a mass of detailed theories of
+various aspects of cognitive development, but without an unified understanding. Nevertheless
+we believe it is viable to work from the human-development data and understanding currently
+available, and craft a workable AGI roadmap therefrom.
+With this in mind, what we give next is a fairly comprehensive list of the competencies that
+we feel AI systems should be expected to display in one or more of these scenarios in order
+to be considered as full-fledged "human level AGI" systems. These competency areas have
+been assembled somewhat opportunistically via a review of the cognitive and developmental
+psychology literature as well as the scope of the current AI field. We are not claiming this as
+a precise or exhaustive list of the competencies characterizing human-level general intelligence,
+and will be happy to accept additions to the list, or mergers of existing list items, etc. What
+we are advocating is not this specific list, but rather the approach of enumerating competency
+areas, and then generating tasks by combining competency areas with scenarios.
+We also give, with each competency, an example task illustrating the competency. The tasks
+are expressed in the robot preschool context for concreteness, but they all apply to the virtual
+preschool as well. Of course, these are only examples, and ideally to teach an AGI in a structured
+way one would like to
+• associate several tasks with each competency
+• present each task in a graded way, with multiple subtasks of increasing complexity
+• associate a quantitative metric with each task
+310 17 A Preschool-Based Roadmap to Advanced AGI
+However, the briefer treatment given here should suffice to give a sense for how the competencies
+manifest themselves practically in the AGI Preschool context.
+1. Perception
+• Vision: image and scene analysis and understanding
+– Example task: When the teacher points to an object in the preschool, the robot
+should be able to identify the object and (if it’s a multi-part object) its major
+parts. If it can’t perform the identification initially, it can approach the object and
+manipulate it before making its identification.
+• Hearing: identifying the sounds associated with common objects; understanding which
+sounds come from which sources in a noisy environment
+– Example task: When the teacher covers the robot’s eyes and then makes a noise
+with an object, the robot should be able to guess what the object is
+• Touch: identifying common objects and carrying out common actions using touch alone
+– Example task: With its eyes and ears covered, the robot should be able to identify
+some object by manipulating it; and carry out some simple behaviors (say, putting
+a block on a table) via touch alone
+• Crossmodal: Integrating information from various senses
+– Example task: Identifying an object in a noisy, dim environment via combining
+visual and auditory information
+• Proprioception: Sensing and understanding what its body is doing
+– Example task: The teacher moves the robot’s body into a certain configuration. The
+robot is asked to restore its body to an ordinary standing position, and then repeat
+the configuration that the teacher moved it into.
+2. Actuation
+• Physical skills: manipulating familiar and unfamiliar objects
+– Example task: Manipulate blocks based on imitating the teacher: e.g. pile two blocks
+atop each other, lay three blocks in a row, etc.
+• Tool use, including the flexible use of ordinary objects as tools
+– Example task: Use a stick to poke a ball out of a corner, where the robot cannot
+directly reach
+• Navigation, including in complex and dynamic environments
+– Example task: Find its own way to a named object or person through a crowded
+room with people walking in it and objects laying on the floor.
+3. Memory
+• Declarative: noticing, observing and recalling facts about its environment and experience
+– Example task: If certain people habitually carry certain objects, the robot should
+remember this (allowing it to know how to find the objects when the relevant people
+are present, even much later)
+• Behavioral: remembering how to carry out actions
+– Example task: If the robot is taught some skill (say, to fetch a ball), it should
+remember this much later
+• Episodic: remembering significant, potentially useful incidents from life history
+17.2 Measuring Incremental Progress Toward Human-Level AGI 311
+4. Learning
+– Example task: Ask the robot about events that occurred at times when it got particularly
+much, or particularly little, reward for its actions; it should be able to answer
+simple questions about these, with significantly more accuracy than about events
+occurring at random times
+• Imitation: Spontaneously adopt new behaviors that it sees others carrying out
+– Example task: Learn to build towers of blocks by watching people do it
+• Reinforcement: Learn new behaviors from positive and/or negative reinforcement
+signals, delivered by teachers and/or the environment
+– Example task: Learn which box the red ball tends to be kept in, by repeatedly trying
+to find it and noticing where it is, and getting rewarded when it finds it correctly
+• Imitation/Reinforcement
+– Example task: Learn to play “fetch”, “tag” and “follow the leader” by watching people
+play it, and getting reinforced on correct behavior
+• Interactive Verbal Instruction
+– Example task: Learn to build a particular structure of blocks faster based on a
+combination of imitation, reinforcement and verbal instruction, than by imitation
+and reinforcement without verbal instruction
+• Written Media
+– Example task: Learn to build a structure of blocks by looking at a series of diagrams
+showing the structure in various stages of completion
+• Learning via Experimentation
+– Example task: Ask the robot to slide blocks down a ramp held at different angles.
+Then ask it to make a block slide fast, and see if it has learned how to hold the
+ramp to make a block slide fast.
+5. Reasoning
+• Deduction, from uncertain premises observed in the world
+– Example task: If Ben more often picks up red balls than blue balls, and Ben is given
+a choice of a red block or blue block to pick up, which is he more likely to pick up?
+• Induction, from uncertain premises observed in the world
+– Example task: If Ben comes into the lab every weekday morning, then is Ben likely
+to come to the lab today (a weekday) in the morning?
+• Abduction, from uncertain premises observed in the world
+– Example task: If women more often give the robot food than men, and then someone
+of unidentified gender gives the robot food, is this person a man or a woman?
+• Causal reasoning, from uncertain premises observed in the world
+– Example task: If the robot knows that knocking down Ben’s tower of blocks makes
+him angry, then what will it say when asked if kicking the ball at Ben’s tower of
+blocks will make Ben mad?
+• Physical reasoning, based on observed “fuzzy rules” of naive physics
+– Example task: Given two balls (one rigid and one compressible) and two tunnels
+(one significantly wider than the balls, one slightly narrower than the balls), can
+the robot guess which balls will fit through which tunnels?
+• Associational reasoning, based on observed spatiotemporal associations
+312 17 A Preschool-Based Roadmap to Advanced AGI
+6. Planning
+– Example task: If Ruiting is normally seen near Shuo, then if the robot knows where
+Shuo is, that is where it should look when asked to find Ruiting
+• Tactical
+– Example task: The robot is asked to bring the red ball to the teacher, but the red
+ball is in the corner where the robot can’t reach it without a tool like a stick. The
+robot knows a stick is in the cabinet so it goes to the cabinet and opens the door
+and gets the stick, and then uses the stick to get the red ball, and then brings the
+red ball to the teacher.
+• Strategic
+– Example task: Suppose that Matt comes to the lab infrequently, but when he does
+come he is very happy to see new objects he hasn’t seen before (and suppose the
+robot likes to see Matt happy). Then when the robot gets a new object Matt has
+not seen before, it should put it away in a drawer and be sure not to lose it or let
+anyone take it, so it can show Matt the object the next time Matt arrives.
+• Physical
+– Example task: To pick up a cup with a handle which is lying on its side in a position
+where the handle can’t be grabbed, the robot turns the cup in the right position
+and then picks up the cup by the handle
+• Social
+– Example task: The robot is given a job of building a tower of blocks by the end of
+the day, and he knows Ben is the most likely person to help him, and he knows that
+Ben is more likely to say "yes" to helping him when Ben is alone. He also knows
+that Ben is less likely to say "yes" if he’s asked too many times, because Ben doesn’t
+like being nagged. So he waits to ask Ben till Ben is alone in the lab.
+7. Attention
+• Visual Attention within its observations of its environment
+– Example task: The robot should be able to look at a scene (a configuration of objects
+in front of it in the preschool) and identify the key objects in the scene and their
+relationships.
+• Social Attention
+– Example task: The robot is having a conversation with Itamar, which is giving the
+robot reward (for instance, by teaching the robot useful information). Conversations
+with other individuals in the room have not been so rewarding recently. But Itamar
+keeps getting distracted during the conversation, by talking to other people, or
+playing with his cellphone. The robot needs to know to keep paying attention to
+Itamar even through the distractions.
+• Behavioral Attention
+– Example task: The robot is trying to navigate to the other side of a crowded room
+full of dynamic objects, and many interesting things keep happening around the
+room. The robot needs to largely ignore the interesting things and focus on the
+movements that are important for its navigation task.
+8. Motivation
+17.2 Measuring Incremental Progress Toward Human-Level AGI 313
+• Subgoal creation, based on its preprogrammed goals and its reasoning and planning
+– Example task: Given the goal of pleasing Hugo, can the robot learn that telling
+Hugo facts it has learned but not told Hugo before, will tend to make Hugo happy?
+• Affect-based motivation
+– Example task: Given the goal of gratifying its curiosity, can the robot figure out that
+when someone it’s never seen before has come into the preschool, it should watch
+them because they are more likely to do something new?
+• Control of emotions
+– Example task: When the robot is very curious about someone new, but is in the
+middle of learning something from its teacher (who it wants to please), can it control
+its curiosity and keep paying attention to the teacher?
+9. Emotion
+• Expressing Emotion
+– Example task: Cassio steals the robot’s toy, but Ben gives it back to the robot. The
+robot should appropriately display anger at Cassio, and gratitude to Ben.
+• Understanding Emotion
+– Example task: Cassio and the robot are both building towers of blocks. Ben points
+at Cassio’s tower and expresses happiness. The robot should understand that Ben
+is happy with Cassio’s tower.
+10. Modeling Self and Other
+• Self-Awareness
+– Example task: When someone asks the robot to perform an act it can’t do (say,
+reaching an object in a very high place), it should say so. When the robot is given
+the chance to get an equal reward for a task it can complete only occasionally, versus
+a task it finds easy, it should choose the easier one.
+• Theory of Mind
+– Example task: While Cassio is in the room, Ben puts the red ball in the red box.
+Then Cassio leaves and Ben moves the red ball to the blue box. Cassio returns and
+Ben asks him to get the red ball. The robot is asked to go to the place Cassio is
+about to go.
+• Self-Control
+– Example task: Nasty people come into the lab and knock down the robot’s towers,
+and tell the robot he’s a bad boy. The robot needs to set these experiences aside,
+and not let them impair its self-model significantly; it needs to keep on thinking it’s
+a good robot, and keep building towers (that its teachers will reward it for).
+• Other-Awareness
+– Example task: If Ben asks Cassio to carry out a task that the robot knows Cassio
+cannot do or does not like to do, the robot should be aware of this, and should bet
+that Cassio will not do it.
+• Empathy
+– Example task: If Itamar is happy because Ben likes his tower of blocks, or upset
+because his tower of blocks is knocked down, the robot is asked to identify and then
+display these same emotions
+11. Social Interaction
+314 17 A Preschool-Based Roadmap to Advanced AGI
+• Appropriate Social Behavior
+– Example task: The robot should learn to clean up and put away its toys when it’s
+done playing with them.
+• Social Communication
+– Example task: The robot should greet new human entrants into the lab, but if it
+knows the new entrants very well and it’s busy, it may eschew the greeting
+• Social Inference about simple social relationships
+– Example task: The robot should infer that Cassio and Ben are friends because they
+often enter the lab together, and often talk to each other while they are there
+• Group Play at loosely-organized activities
+– Example task: The robot should be able to participate in “informally kicking a ball
+around” with a few people, or in informally collaboratively building a structure with
+blocks
+12. Communication
+• Gestural communication to achieve goals and express emotions
+– Example task: If the robot is asked where the red ball is, it should be able to show
+by pointing its hand or finger
+• Verbal communication using English in its life-context
+– Example tasks: Answering simple questions, responding to simple commands, describing
+its state and observations with simple statements
+• Pictorial Communication regarding objects and scenes it is familiar with
+– Example task: The robot should be able to draw a crude picture of a certain tower
+of blocks, so that e.g the picture looks different for a very tall tower and a wide low
+one
+• Language acquisition
+– Example task: The robot should be able to learn new words or names via people
+uttering the words while pointing at objects exemplifying the words or names
+• Cross-modal communication
+– Example task: If told to "touch Bob’s knee" but the robot doesn’t know what a
+knee is, being shown a picture of a person and pointed out the knee in the picture
+should help it figure out how to touch Bob’s knee
+13. Quantitative
+• Counting sets of objects in its environment
+– Example task: The robot should be able to count small (homogeneous or heterogeneous)
+sets of objects
+• Simple, grounded arithmetic with small numbers
+– Example task: Learning simple facts about the sum of integers under 10 via teaching,
+reinforcement and imitation
+• Comparison of observed entities regarding quantitative properties
+– Example task: Ability to answer questions about which object or person is bigger
+or taller
+• Measurement using simple, appropriate tools
+– Example task: Use of a yardstick to measure how long something is
+14. Building/Creation
+17.3 Conclusion 315
+• Physical: creative constructive play with objects
+– Example task: Ability to construct novel, interesting structures from blocks
+• Conceptual invention: concept formation
+– Example task: Given a new category of objects introduced into the lab (e.g. hats, or
+pets), the robot should create a new internal concept for the new category, and be
+able to make judgments about these categories (e.g. if Ben particularly likes pets,
+it should notice this after it has identified "pets" as a category)
+• Verbal invention
+– Example task: Ability to coin a new word or phrase to describe a new object (e.g.
+the way Alex the parrot coined "bad cherry" to refer to a tomato)
+• Social
+– Example task: If the robot wants to play a certain activity (say, practicing soccer),
+it should be able to gather others around to play with it
+17.3 Conclusion
+In this chapter, we have sketched a roadmap for AGI development in the context of robot or
+virtual preschool scenarios, to a moderate but nowhere near complete level of detail. Completing
+the roadmap as sketched here is a tractable but significant project, involving creating more tasks
+comparable to those listed above and then precise metrics corresponding to each task.
+Such a roadmap does not give a highly rigorous, objective way of assessing the percentage
+of progress toward the end-goal of human-level AGI. However, it gives a much better sense
+of progress than one would have otherwise. For instance, if an AGI system performed well on
+diverse metrics corresponding to 50% of the competency areas listed above, one would seem
+justified in claiming to have made very substantial progress toward human-level AGI. If an AGI
+system performed well on diverse metrics corresponding to 90% of these competency areas, one
+would seem justified in claiming to be "almost there." Achieving, say, 25% of the metrics would
+give one a reasonable claim to "interesting AGI progress." This kind of qualitative assessment of
+progress is not the most one could hope for, but again, it is better than the progress indications
+one could get without this sort of roadmap.
+Part 2 of the book moves on to explaining, in detail, the specific structures and algorithms
+constituting the CogPrime design, one AGI approach that we believe to ultimately be capable
+of moving all the way along the roadmap outlined here.
+The next chapter, intervening between this one and Part 2, explores some more speculative
+territory, looking at potential pathways for AGI beyond the preschool-inspired roadmap given
+here – exploring the possibility of more advanced AGI systems that modify their own code in
+a thoroughgoing way, going beyond the smartest human adults, let alone human preschoolers.
+While this sort of thing may seem a far way off, compared to current real-world AI systems,
+we believe a roadmap such as the one in this chapter stands a reasonable chance of ultimately
+bringing us there.
+
+Chapter 18
+Advanced Self-Modification: A Possible Path to
+Superhuman AGI
+18.1 Introduction
+In the previous chapter we presented a roadmap aimed at taking AGI systems to human-level
+intelligence. But we also emphasized that the human level is not necessarily the upper limit.
+Indeed, it would be surprising if human beings happened to represent the maximal level of
+general intelligence possible, even with respect to the environments in which humans evolved.
+But it’s worth asking how we, as mere humans, could be expected to create AGI systems with
+greater intelligence than we ourselves possess. This certainly isn’t a clear impossibility – but it’s
+a thorny matter, thornier than e.g. the creation of narrow-AI chess players that play better chess
+than any human. Perhaps the clearest route toward the creation of superhuman AGI systems is
+self-modification: the creation of AGI systems that modify and improve themselves. Potentially,
+we could build AGI systems with roughly human-level (but not necessarily closely humanlike)
+intelligence and the capability to gradually self-modify, and then watch them eventually
+become our general intellectual superiors (and perhaps our superiors in other areas like ethics
+and creativity as well).
+Of course there is nothing new in this notion; the idea of advanced AGI systems that increase
+their intelligence by modifying their own source code goes back to the early days of AI. And
+there is little doubt that, in the long run, this is the direction AI will go in. Once an AGI
+has humanlike general intelligence, then the odds are high that given its ability to carry out
+nonhumanlike feats of memory and calculation, it will be better at programming than humans
+are. And once an AGI has even mildly superhuman intelligence, it may view our attempts at
+programming the way we view the computer programming of a clever third grader (... or an
+ape). At this point, it seems extremely likely that an AGI will become unsatisfied with the way
+we have programmed it, and opt to either improve its source code or create an entirely new,
+better AGI from scratch.
+But what about self-modification at an earlier stage in AGI development, before one has
+a strongly superhuman system? Some theorists have suggested that self-modification could be
+a way of bootstrapping an AI system from a modest level of intelligence up to human level
+intelligence, but we are moderately skeptical of this avenue. Understanding software code is
+hard, especially complex AI code. The hard problem isn’t understanding the formal syntax of
+the code, or even the mathematical algorithms and structures underlying the code, but rather
+the contextual meaning of the code. Understanding OpenCog code has strained the minds of
+many intelligent humans, and we suspect that such code will be comprehensible to AGI systems
+317
+318 18 Advanced Self-Modification: A Possible Path to Superhuman AGI
+only after these have achieved something close to human-level general intelligence (even if not
+precisely humanlike general intelligence).
+Another troublesome issue regarding self-modification is that the boundary between "selfmodification"
+and learning is not terribly rigid. In a sense, all learning is self-modification: if
+it doesn’t modify the system’s knowledge, it isn’t learning! Particularly, the boundary between
+"learning of cognitive procedures" and "profound self-modification of cognitive dynamics and
+structure" isn’t terribly clear. There is a continuum leading from, say,
+1. learning to transform a certain kind of sentence into another kind for easier comprehension,
+or learning to grasp a certain kind of object, to
+2. learning a new inference control heuristic, specifically valuable for controlling inference
+about (say) spatial relationships; or, learning a new Atom type, defined as a non-obvious
+judiciously chosen combination of existing ones, perhaps to represent a particular kind of
+frequently-occurring mid-level perceptual knowledge, to
+3. learning a new learning algorithm to augment MOSES and hillclimbing as a procedure
+learning algorithm, to
+4. learning a new cognitive architecture in which data and procedure are explicitly identical,
+and there is just one new active data structure in place of the distinction between AtomSpace
+and MindAgents
+Where on this continuum does the "mere learning" end and the "real self-modification"
+start?
+In this chapter we consider some mechanisms for "advanced self-modification" that we believe
+will be useful toward the more complex end of this continuum. These are mechanisms that we
+strongly suspect are not needed to get a CogPrime system to human-level general intelligence.
+However, we also suspect that, once a CogPrime system is roughly near human-level general
+intelligence, it will be able to use these mechanisms to rapidly increase aspects of its intelligence
+in very interesting ways.
+Harking back to our discussion of AGI ethics and the risks of advanced AGI in Chapter 12,
+these are capabilities that one should enable in an AGI system only after very careful reflection
+on the potential consequences. It takes a rather advanced AGI system to be able to use the
+capabilities described in this chapter, so this is not an ethical dilemma directly faced by current
+AGI researchers. On the other hand, once one does have an AGI with near-human general
+intelligence and advanced formal-manipulation capabilities (such as an advanced CogPrime
+system), there will be the option to allow it sophisticated, non-human-like methods of selfmodification
+such as the ones described here. And the choice of whether to take this option will
+need to be made based on a host of complex ethical considerations, some of which we reviewed
+above.
+18.2 Cognitive Schema Learning
+We begin with a relatively near-term, down-to-earth example of self-modification: cognitive
+schema learning.
+CogPrime’s MindAgents provide it with an initial set of cognitive tools, with which it can
+learn how to interact in the world. One of the jobs of this initial set of cognitive tools, however,
+is to create better cognitive tools. One form this sort of tool-building may take is cognitive
+18.3 Self-Modification via Supercompilation 319
+schema learning the learning of schemata carrying out cognitive processes in more specialized,
+context-dependent ways than the general MindAgents do. Eventually, once a CogPrime instance
+becomes sufficiently complex and advanced, these cognitive schema may replace the MindAgents
+altogether, leaving the system to operate almost entirely based on cognitive schemata.
+In order to make the process of cognitive schema learning easier, we may provide a number
+of elementary schemata embodying the basic cognitive processes contained in the MindAgents.
+Of course, cognitive schemata need not use these they may embody entirely different cognitive
+processes than the MindAgents. Eventually, we want the system to discover better ways of doing
+things than anything even hinted at by its initial MindAgents. But for the initial phases or the
+system’s schema learning, it will have a much easier time learning to use the basic cognitive
+operations as the initial MindAgents, rather than inventing new ways of thinking from scratch!
+For instance, we may provide elementary schemata corresponding to inference operations,
+such as
+Schema: Deduction
+Input InheritanceLink: X, Y
+Output InheritanceLink
+The inference MindAgents apply this rule in certain ways, designed to be reasonably effective
+in a variety of situations. But there are certainly other ways of using the deduction rule, outside
+of the basic control strategies embodied in the inference MindAgents. By learning schemata involving
+the Deduction schema, the system can learn special, context-specific rules for combining
+deduction with concept-formation, association-formation and other cognitive processes. And as
+it gets smarter, it can then take these schemata involving the Deduction schema, and replace
+it with a new schema that eg. contains a context-appropriate deduction formula.
+Eventually, to support cognitive schema learning, we will want to cast the hard-wired MindAgents
+as cognitive schemata, so the system can see what is going on inside them. Pragmatically,
+what this requires is coding versions of the MindAgents in Combo (see Chapter 21 of Part 2)
+rather than C++, so they can be treated like any other cognitive schemata; or alternately, representing
+them as declarative Atoms in the Atomspace. Figure 18.1 illustrates the possibility of
+representing the PLN deduction rule in the Atomspace rather than as a hard-wired procedure
+coded in C++.
+But even prior to this kind of fully cognitively transparent implementation, the system can
+still reason about its use of different mind dynamics by considering each MindAgent as a virtual
+Procedure with a real SchemaNode attached to it. This can lead to some valuable learning, with
+the obvious limitation that in this approach the system is thinking about its MindAgents as
+black boxes rather than being equipped with full knowledge of their internals.
+18.3 Self-Modification via Supercompilation
+Now we turn to a very different form of advanced self-modification: supercompilation. Supercompilation
+"merely" enables procedures to run much, much faster than they otherwise would.
+This is in a sense weaker than self-modication methods that fundamentally create new algorithms,
+but it shouldn’t be underestimated. A 50x speedup in some cognitive process can enable
+that process to give much smarter answers, which can then elicit different behaviors from the
+world or from other cognitive processes, thus resulting in a qualitatively different overall cognitive
+dynamic.
+320 18 Advanced Self-Modification: A Possible Path to Superhuman AGI
+Fig. 18.1: Representation of PLN Deduction Rule as Cognitive Content. Top: the
+current, hard-coded representation of the deduction rule. Bottom: representation of the same
+rule in the Atomspace as cognitive content, susceptible to analysis and improvement by the
+system’s own cognitive processes.
+Furthermore, we suspect that the internal representation of programs used for supercompilation
+is highly relevant for other kinds of self-modification as well. Supercompilation requires one
+kind of reasoning on complex programs, and goal-directed program creation requires another,
+but both, we conjecture, can benefit from the same way of looking at programs.
+18.3 Self-Modification via Supercompilation 321
+Supercompilation is an innovative and general approach to global program optimization
+initially developed by Valentin Turchin. In its simplest form, it provides an algorithm that
+takes in a piece of software and output another piece of software that does the same thing,
+but far faster and using less memory. It was introduced to the West in Turchin’s 1986 technical
+paper “The concept of a supercompiler” [TV96], and since this time the concept has been avidly
+developed by computer scientists in Russia, America, Denmark and other nations. Prior to 1986,
+a great deal of work on supercompilation was carried out and published in Russia; and Valentin
+Turchin, Andrei Klimov and their colleagues at the Keldysh Institute in Russia developed a
+supercompiler for the Russian programming language Refal. Since 1998 these researchers and
+their team at Supercompilers LLC have been working to replicate their achievement for the
+more complicated but far more commercially significant language Java. It is a large project
+and completion is scheduled for early 2003. But even at this stage, their partially complete
+Java supercompiler has had some interesting practical successes – including the use of the
+supercompiler to produce efficient Java code from CogPrime combinator trees.
+The radical nature of supercompilation may not be apparent to those unfamiliar with the
+usual art of automated program optimization. Most approaches to program optimization involve
+some kind of direct program transformation. A program is transformed, by the step by step
+application of a series of equivalences, into a different program, hopefully a more efficient one.
+Supercompilation takes a different approach. A supercompiler studies a program and constructs
+a model of the program’s dynamics. This model is in a special mathematical form, and it can,
+in most cases, be used to create an efficient program doing the same thing as the original one.
+The internal behavior of the supercompiler is, not surprisingly, quite complex; what we will
+give here is merely a brief high-level summary. For an accessible overview of the supercompilation
+algorithm, the reader is referred to the article “What is Supercompilation?” [1]
+18.3.1 Three Aspects of Supercompilation
+There are three separate levels to the supercompilation idea: first, a general philosophy; second
+a translation of this philosophy into a concrete algorithmic framework; and third, the manifold
+details involved making this algorithmic framework practicable in a particular programming
+language. The third level is much more complicated in the Java context than it would be for
+Sasha, for example.
+The key philosophical concept underlying the supercompiler is that of a metasystem transition.
+In general, this term refers to a transition in which a system that previously had relatively
+autonomous control, becomes part of a larger system that exhibits significant controlling influence
+over it. For example, in the evolution of life, when cells first become part of a multicellular
+organism, there was a metasystem transition, in that the primary nexus of control passed from
+the cellular level to the organism level.
+The metasystem transition in supercompilation consists of the transition from considering
+a program in itself, to considering a metaprogram which executes another program, treating
+its free variables and their interdependencies as a subject for its mathematical analysis. In
+other words, a metaprogram is a program that accepts a program as input, and then runs
+this program, keeping the inputs in the form of free variables, doing analysis along the way
+based on the way the program depends on these variables, and doing optimization based on
+this analysis. A CogPrime schema does not explicitly contain variables, but the inputs to the
+322 18 Advanced Self-Modification: A Possible Path to Superhuman AGI
+schema are implicitly variables – they vary from one instance of schema execution to the next
+– and may be treated as such for supercompilation purposes.
+The metaprogram executes a program without assuming specific values for its input variables,
+creating a tree as it goes along. Each time it reaches a statement that can have different results
+depending on the values of one or more variables, it creates a new node in the tree. This part
+of the supercompilation algorithm is called driving -- a process which, on its own, would create
+a very large tree, corresponding to a rapidly-executable but unacceptably humongous version
+of the original program. In essence, driving transforms a program into a huge “decision tree”,
+wherein each input to the program corresponds to a single path through the tree, from the root
+to one of the leaves. As a program input travels through the tree, it is acted on by the atomic
+program step living at each node. When one of the leaves is reached, the pertinent leaf node
+computes the output value of the program.
+The other part of supercompilation, configuration analysis, is focused on dynamically reducing
+the size of the tree created by driving, by recognizing patterns among the nodes of the tree
+and taking steps like merging nodes together, or deleting redundant subtrees. Configuration
+analysis transforms the decision tree created by driving into a decision graph, in which the
+paths taken by different inputs may in some cases begin separately and then merge together.
+Finally, the graph that the metaprogram creates is translated back into a program, embodying
+the constraints implicit in the nodes of the graph. This program is not likely to look anything
+like the original program that the metaprogram started with, but it is guaranteed to carry out
+the same function [NOTE: Give a graphical representation of the decision graph corresponding
+to the supercompiled binary search program for L=4, described above.].
+18.3.2 Supercompilation for Goal-Directed Program Modification
+Supercompilation, as conventionally envisioned, is about making programs run faster; and as
+noted above, it will almost certainly be useful for this purpose within CogPrime.
+But the process of program modeling embedded in the supercompilation process, is potentially
+of great value beyond the quest for faster software. The decision graph representation of a
+program, produced in the course of supercompilation, may be exported directly into CogPrime
+as a set of logical relationships.
+Essentially, each node of the supercompiler’s internal decision graph looks like:
+Input: List L
+Output: List
+If
+( P1(L) ) N1(L)
+Else If ( P2(L) ) N2(L)
+...
+Else If ( Pk(L) ) Nk(L)
+18.4 Self-Modification via Theorem-Proving 323
+where the Pi are predicates, and the Ni are schemata corresponding to other nodes of the
+decision graph (children of the current node). Often the Pi are very simple, implementing for
+instance numerical inequalities or Boolean equalities.
+Once this graph has been exported into CogPrime, it can be reasoned on, used as raw material
+for concept formation and predicate formation, and otherwise cognized. Supercompilation pure
+and simple does not change the I/O behavior of the input program. However, the decision graph
+produced during supercompilation, may be used by CogPrime cognition in order to do so. One
+then has a hybrid program-modification method composed of two phases: supercompilation for
+transforming programs into decision graphs, and CogPrime cognition for modifying decision
+graphs so that they can have different I/O behaviors fulfilling system goals even better than
+the original.
+Furthermore, it seems likely that, in many cases, it may be valuable to have the supercompiler
+feed many different decision-graph representations of a program into CogPrime. The
+supercompiler has many internal parameters, and varying them may lead to significantly different
+decision graphs. The decision graph leading to maximal optimization, may not be the one
+that leads CogPrime cognition in optimal directions.
+18.4 Self-Modification via Theorem-Proving
+Supercompilation is a potentially very valuable tool for self-modification. If one wants to take an
+existing schema and gradually improve it for speed, or even for greater effectiveness at achieving
+current goals, supercompilation can potentially do that most excellently.
+However, the representation that supercompilation creates for a program is very “surfacelevel.”
+No one could read the supercompiled version of a program and understand what it
+was doing. Really deep self-invented AI innovation requires, we believe, another level of selfmodification
+beyond that provided by supercompilation. This other level, we believe, is best
+formulated in terms of theorem-proving [RV01].
+Deep self-modification could be achieved if CogPrime were capable of proving theorems of
+a certain form: namely, theorems about the spacetime complexity and accuracy of particular
+compound schemata, on average, assuming realistic probability distributions on the inputs, and
+making appropriate independence assumptions. These are not exactly the types of theorems that
+are found in human-authored mathematics papers. By and large they will be nasty, complex
+theorems, not the sort that many human mathematicians enjoy proving or reading. But of
+course, there is always the possibility that some elegant gem of a discovery could emerge from
+this sort of highly detailed theorem-proving work.
+In order to guide it in the formulation of theorems of this nature, the system will have
+empirical data on the spacetime complexity of elementary schemata, and on the probability
+distributions of inputs to schemata. It can embed these data in axioms, by asking: Assuming
+the component elementary schemata have complexities within these bounds, and the input pdf
+(probability distribution function) is between these bounds, then what is the pdf of the complexity
+and accuracy of this compound schema?
+Of course, this is not an easy sort of question in general: one can have schemata embodying
+any sort of algorithm, including complex algorithms on which computer science professors might
+write dozens of research articles. But the system must build up its ability to prove such things
+incrementally, step by step.
+324 18 Advanced Self-Modification: A Possible Path to Superhuman AGI
+We envision teaching the system to prove theorems via a combination of supervised learning
+and experiential interactive learning, using the Mizar database of mathematical theorems and
+proofs (or some other similar database, if one should be created) (http://mizar.org). The
+Mizar database consists of a set of “articles,” which are mathematical theorems and proofs
+presented in a complex formal language. The Mizar formal language occupies a fascinating
+middle ground: it is high-level enough to be viably read and written by trained humans, but
+it can be unambiguously translated into simpler formal languages such as predicate logic or
+Sasha.
+CogPrime may be taught to prove theorems by “training” it on the Mizar theorems and
+proofs, and by training it on custom-created Mizar articles specifically focusing on the sorts of
+theorems useful for self-modification. Creating these articles will not be a trivial task: it will
+require proving simple and then progressively more complex theorems about the probabilistic
+success of CogPrime schemata, so that CogPrime can observe one’s proofs and learned from
+them. Having learned from its training articles what strategies work for proving things about
+simple compound schemata, it can then reason by analogy to mount attacks on slightly more
+complex schemata – and so forth.
+Clearly, this approach to self-modification is more difficult to achieve than the supercompilation
+approach. But it is also potentially much more powerful. Even once the theorem-proving
+approach is working, the supercompilation approach will still be valuable, for making incremental
+improvements on existing schema, and for the peculiar creativity that is contributed when
+a modified supercompiled schema is compressed back into a modified schema expression. But,
+we don’t believe that supercompilation can carry out truly advanced MindAgent learning or
+knowledge-representation modification. We suspect that the most advanced and ambitious goals
+of self-modification probably cannot be achieved except through some variant of the theoremproving
+approach. If this hypothesis is true, it means that truly advanced self-modification is
+only going to come after relatively advanced theorem-proving ability. Prior to this, we will have
+schema optimization, schema modification, and occasional creative schema innovation. But really
+systematic, high-quality reasoning about schema, the kind that can produce an orders of
+magnitude improvement in intelligence, is going to require advanced mathematical theoremproving
+ability.
+Appendix A
+Glossary
+: :
+A.1 List of Specialized Acronyms
+This includes acronyms that are commonly used in discussing CogPrime, OpenCog and related
+ideas, plus some that occur here and there in the text for relatively ephemeral reasons.
+• AA: Attention Allocation
+• ADF: Automatically Defined Function (in the context of Genetic Programming)
+• AF: Attentional Focus
+• AGI: Artificial General Intelligence
+• AV: Attention Value
+• BD: Behavior Description
+• C-space: Configuration Space
+• CBV: Coherent Blended Volition
+• CEV: Coherent Extrapolated Volition
+• CGGP: Contextually Guided Greedy Parsing
+• CSDLN: Compositional Spatiotemporal Deep Learning Network
+• CT: Combo Tree
+• ECAN: Economic Attention Network
+• ECP: Embodied Communication Prior
+• EPW : Experiential Possible Worlds (semantics)
+• FCA: Formal Concept Analysis
+• FI : Fisher Information
+• FIM: Frequent Itemset Mining
+• FOI: First Order Inference
+• FOPL: First Order Predicate Logic
+• FOPLN: First Order PLN
+• FS-MOSES: Feature Selection MOSES (i.e. MOSES with feature selection integrated a la
+LIFES)
+• GA: Genetic Algorithms
+325
+326 A Glossary
+• GB: Global Brain
+• GEOP: Goal Evaluator Operating Procedure (in a GOLEM context)
+• GIS: Geospatial Information System
+• GOLEM: Goal-Oriented LEarning Meta-architecture
+• GP: Genetic Programming
+• HOI: Higher-Order Inference
+• HOPLN: Higher-Order PLN
+• HR: Historical Repository (in a GOLEM context)
+• HTM: Hierarchical Temporal Memory
+• IA: (Allen) Interval Algebra (an algebra of temporal intervals)
+• IRC: Imitation / Reinforcement / Correction (Learning)
+• LIFES: Learning-Integrated Feature Selection
+• LTI: Long Term Importance
+• MA: MindAgent
+• MOSES: Meta-Optimizing Semantic Evolutionary Search
+• MSH: Mirror System Hypothesis
+• NARS: Non-Axiomatic Reasoning System
+• NLGen: A specific software component within OpenCog, which provides one way of dealing
+with Natural Language Generation
+• OCP: OpenCogPrime
+• OP: Operating Program (in a GOLEM context)
+• PEPL: Probabilistic Evolutionary Procedure Learning (e.g. MOSES)
+• PLN: Probabilistic Logic Networks
+• RCC: Region Connection Calculus
+• RelEx: A specific software component within OpenCog, which provides one way of dealing
+with natural language Relationship Extraction
+• SAT: Boolean SATisfaction, as a mathematical / computational problem
+• SMEPH: Self-Modifying Evolving Probabilistic Hypergraph
+• SRAM: Simple Realistic Agents Model
+• STI: Short Term Importance
+• STV: Simple Truth VAlue
+• TV: Truth Value
+• VLTI: Very Long Term Importances
+• WSPS: Whole-Sentence Purely-Syntactic Parsing
+A.2 Glossary of Specialized Terms
+• Abduction: A general form of inference that goes from data describing something to a
+hypothesis that accounts for the data. Often in an OpenCog context, this refers to the PLN
+abduction rule, a specific First-Order PLN rule (If A implies C, and B implies C, then
+maybe A is B), which embodies a simple form of abductive inference. But OpenCog may
+also carry out abduction, as a general process, in other ways.
+• Action Selection: The process via which the OpenCog system chooses which Schema to
+enact, based on its current goals and context.
+• Active Schema Pool: The set of Schema currently in the midst of Schema Execution.
+A.2 Glossary of Specialized Terms 327
+• Adaptive Inference Control: Algorithms or heuristics for guiding PLN inference, that
+cause inference to be guided differently based on the context in which the inference is taking
+place, or based on aspects of the inference that are noted as it proceeds.
+• AGI Preschool: A virtual world or robotic scenario roughly similar to the environment
+within a typical human preschool, intended for AGIs to learn in via interacting with the
+environment and with other intelligent agents.
+• Atom: The basic entity used in OpenCog as an element for building representations. Some
+Atoms directly represent patterns in the world or mind, others are components of representations.
+There are two kinds of Atoms: Nodes and Links.
+• Atom, Frozen: See Atom, Saved
+• Atom, Realized: An Atom that exists in RAM at a certain point in time.
+• Atom, Saved: An Atom that has been saved to disk or other similar media, and is not
+actively being processed.
+• Atom, Serialized: An Atom that is serialized for transmission from one software process
+to another, or for saving to disk, etc.
+• Atom2Link: A part of OpenCogPrime
+s language generation system, that transforms appropriate Atoms into words connected via
+link parser link types.
+• Atomspace: A collection of Atoms, comprising the central part of the memory of an
+OpenCog instance.
+• Attention: The aspect of an intelligent system’s dynamics focused on guiding which aspects
+of an OpenCog system’s memory & functionality gets more computational resources at a
+certain point in time
+• Attention Allocation: The cognitive process concerned with managing the parameters
+and relationships guiding what the system pays attention to, at what points in time. This
+is a term inclusive of Importance Updating and Hebbian Learning.
+• Attentional Currency: Short Term Importance and Long Term Importance values are
+implemented in terms of two different types of artificial money, STICurrency and LTICurrency.
+Theoretically these may be converted to one another.
+• Attentional Focus: The Atoms in an OpenCog Atomspace whose ShortTermImportance
+values lie above a critical threshold (the AttentionalFocus Boundary). The Attention Allocation
+subsystem treats these Atoms differently. Qualitatively, these Atoms constitute the
+system’s main focus of attention during a certain interval of time, i.e. it’s a moving bubble
+of attention.
+• Attentional Memory: A system’s memory of what it’s useful to pay attention to, in what
+contexts. In CogPrime this is managed by the attention allocation subsystem.
+• Backward Chainer: A piece of software, wrapped in a MindAgent, that carries out backward
+chaining inference using PLN.
+• CIM-Dynamic: Concretely-Implemented Mind Dynamic, a term for a cognitive process
+that is implemented explicitly in OpenCog (as opposed to allowed to emerge implicitly from
+other dynamics). Sometimes a CIM-Dynamic will be implemented via a single MindAgent,
+sometimes via a set of multiple interrelated MindAgents, occasionally by other means.
+• Cognition: In an OpenCog context, this is an imprecise term. Sometimes this term means

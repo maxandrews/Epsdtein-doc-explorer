@@ -1,0 +1,1448 @@
+shares prices would be less volatile if more descriptive of real value underneath.
+The existence of trends suggests the opposite. Trends would be expected from
+systematic underreaction to the news, so that reaction catches up later, while
+systematic overreaction ought to be followed by adjustment in the opposite
+direction. This gradual rather than immediate digestion of the news would tend to
+smooth out price response. Trends imply systematic underreaction, not
+overreaction. Market evidence shows something near that random walk as a usual
+rule, implying neither systematic overreaction nor systematic underreaction, but
+with some episodes of the latter. What would the reason be? My first guess would be
+something delaying the mechanics of price reaction when news is particularly
+surprising. Our sense of where prices should go right now seems not to get them
+there until later. Prefect reaction to perfect news ought to mean more price
+volatility, not less, from day to day.
+Stocks are more volatile then most assets because most are “leveraged.” Firms may
+issue bonds, and may borrow shorter-term from banks. Fixed interest on those debt
+claims is paid first. Shareholders get the rest of net output, which itself fluctuates
+around expected norms and is sometimes negative. If a firm’s net profit (net output)
+is one million dollars one year, and one dollar higher the next, net profit will have
+varied only one ten thousandth of a percent. But if interest payments take up the
+same million dollars per year, every year, profit left for shareholders will have
+grown from nothing to one dollar. Its growth rate will have been effectively infinite.
+If the firm earns two dollars less the year after, it will have to invade capital to pay
+the interest, and owners take a one-dollar loss. Again the difference is trivial
+percentage-wise to net profit, but diametric to equity investors. The more fixed debt,
+the more surprise and volatility in whatever is left for shareholders. The ratio of
+debt to that remainder, called “equity,” is the leverage meant. Stock in this security
+sense means the same as shares or equity.
+Chapter 4 Mill’s Idea 1/11/16 20
+Now I’ll try to pull this together. Stock prices collectively, meaning all shares at
+current prices, is called “market cap.” (Cap is capitalization.) Market cap does not
+measure the whole underlying value of the issuers, meaning firms that issued the
+stock, since there are debt claims that must be paid off first. It measures the equity
+residue. It measures that imperfectly because some inefficiency and chicanery are
+here to stay. It is more volatile than the debt claims because it is leveraged, but
+probably less volatile, given the observed reality of trends showing smoothed-out
+reaction of share prices to news over time, than what would be bid for the
+underlying assets, including intangibles, subject to the same debt claims that must
+be paid off first.
+National accounts measure market-valued (physical) capital by beginning with
+market cap. They then add the market value of debt claims on the same issuers,
+along with equity and debt claims on the rest of the business sector, and then the
+same for the housing sector. The sum is “private wealth.” Consumer durables such
+as cars and refrigerators are excluded as impractical to price. Government wealth
+net of national wealth is tracked separately, and tends to show as slight or negative.
+Finding the Free Growth Index for Stock Markets
+My concern in this chapter is the stock market as a data source for testing free
+growth theory. Here (4.2) would read total return in place of (net) output, while
+growth would be in market cap. Consumption in (4.2) would become dividend yield
+in the sense net of capital concurrently raised in new stock issues. The Global
+Financial Data website summarizes the history of world stock markets from
+inception in about 1700 for U.K., about 1800 in U.S., and later elsewhere. A nice
+feature of this data source, and most other sources for stock and security
+performance, is that market values are shown from the start. This left no need to
+correct for the inevitable lags in depreciation accounting, which gets the news only
+in purchases or sales.
+Chapter 4 Mill’s Idea 1/11/16 21
+Global Financial Data reports annual rate of return, growth rate in market cap, and
+“imputed dividend rate” as the difference. Dividend rate itself is reported as
+something a little different. I made no attempt to get to the bottom of this distinction,
+just as I made none to allow for editorial bias in the Piketty-Zucman website. I chose
+the imputed version for logical consistency.
+This direct information obviates the chain of reasoning from (4.2) to (4.5), and
+allows me to jump to the latter. “Productivity gain” in (4.5) is simply annual change
+in reported rate of return. Acceleration is annual change in reported market cap
+growth rate. (4.6a) defines the free growth index as their ratio. !
+ϕ(SM), the green
+line, tracks it in the charts. It too fluctuates around the number one. Gains in
+dividend rate have coincided as often with gains in market cap growth rate as with
+drops.
+This seems only to expound what everyone knows. Of course firms are likelier to
+raise dividends in years of growth, and cut them in years of decline. I never claimed
+that free growth theory does more than state the obvious. What is made obvious by
+the data is that a change in total return is the prime mover enabling market cap and
+dividend rate to accelerate or decelerate as a pair. What is made obviously wrong
+would be a thrift theory casting dividend restraint as the prime mover. Were that so,
+market cap acceleration would coincide with lower rather than higher dividend
+rates.
+This pretty much completes my evidence for free growth theory. I have not found
+other promising data sources. One is tantalizingly close to hand. There is not much
+reason why corporate bond history is less transparent to the world than corporate
+stock history. A qualified expert might reconstruct market caps of both, side by side,
+to show a picture of the whole corporate sector. Surely I am not the only person who
+would take interest. What is the history of leverage, and of total return, and its
+growth and yield components, to debt and equity claims cap-weighted together?
+Chapter 4 Mill’s Idea 1/11/16 22
+It would be nice to test from such a dataset, again starting from (4.6), to see if free
+growth theory holds again. Who knows? Meanwhile, I think, the case is closed. All
+growth at very large scales is free until proved otherwise.
+Where Does Opinion Stand Now?
+What should we make of this evidence for free growth in national accounts and
+stock market data? Lawmakers would probably demand a recount or an
+investigation. Tax laws discourage consumption and dividends to encourage growth.
+Yet data show that lower consumption rate coincides as often with lower as higher
+capital growth rate for eight nations over four to fourteen decades. They will show
+the same for dividends when we come to that.
+Economists would be less surprised. Solow has prepared them for the news. In 1956
+and 1957 he showed evidence that most growth is not explained by capital
+accumulation, or saving through consumption restraint. His Nobel prize acceptance
+speech in 1988 includes:
+… In the beginning, I was quite surprised at the relatively minor part the model
+ascribed to capital formation. Even when this was confirmed by Denison and others,
+the result seemed contrary to common sense. The fact that the steady-state rate of
+growth is independent of the investment quota was easy to understand; it only
+required thinking through the theory. It was harder to feel comfortable with the
+conclusion that even in the shorter run increased investment would do very little for
+transitory growth. The transition to a higher equilibrium growth path seemed to
+offer very little leverage for policy aimed at promoting investment.
+The formal model omitted one mechanism whose absence would clearly bias the
+predictions against investment. That is what I called “embodiment,” the fact that
+much technological progress, maybe most of it, could find its way into actual
+production only with the use of new and different capital equipment. Therefore the
+effectiveness of innovation in increasing output would be paced by the rate of gross
+Chapter 4 Mill’s Idea 1/11/16 23
+investment. A policy to increase investment would thus lead not only to higher
+capital intensity, which might not matter much, but also a faster transfer of new
+technology into actual production, which would. Steady-state growth would not be
+affected, but intermediate-run transitions would, and those should be observable.
+That idea seemed to correspond to common sense, and it still does. By 1958 I was
+able to produce a model that allowed for the embodiment effect. … If common sense
+was right, the embodiment model should have fit the facts better than the earlier
+one. But it did not. Dension (1985) , whose judgment I respect, came to the
+conclusion that there was no explanatory value in the embodiment idea. I do not
+know if that find should be described as a paradox, but it was at least a puzzle.
+Edward Denison was another leading growth economist Solow consulted.
+Remember that Solow had defined disembodied growth to mean better use of
+existing assets, as when ships carrying coal to Newcastle are inspired to reverse the
+business plan. It is easy to see how disembodied growth could come more or less for
+free. But Solow puzzled how embodied growth, which needs “new and different
+capital equipment,” could arrive without “ a policy to increase investment.”
+It can for the same reason that Achilles can overtake the tortoise. Solow’s problem, I
+think, may have been that new and different capital equipment stands to embodied
+novelty as a new and different chicken laying a new and different egg. We can see
+how the different capital might come first through saving from consumption
+deferment. And it seems clear that the embodied novelty could not. But one of the
+beauties of calculus is that it allows chicken and egg to evolve simultaneously.
+Neither novelty precedes the other at the instant of first embodiment.
+This time it is Newton and Leibnitz to the rescue, along with the trusty Gunnar
+Myrdal, if I guess right about Solow’s misgivings. Since he understands calculus and
+Myrdal far better than I do, I may guess wrong. So let me try another way. It seems
+to me that embodied growth is still disembodied growth at a finer and more basic
+Chapter 4 Mill’s Idea 1/11/16 24
+scale. Instead of redeploying finished goods, we recombine raw materials. We aren’t
+creating something from nothing. And growth is not so free that it needs no cost at
+all. It still needs depreciation plowback. Net investment would mean any in addition.
+The charts and tables, as I read them, show a steady stroke of deprecation plowback
+paying for all innovation, embodied or disembodied, that copes as best it can with
+good times or bad.
+The steady stroke metaphor, showing how cost (the steady stroke) and growth
+(against the shoreline) could be desynchronized, explains the possibility of free
+growth. It does not explain why the record shows no other kind. My best guess as an
+explanation would look to biology. The biological imperative shapes our tastes and
+behaviors for lineage survival in some sense of family or population or species.
+Other species crowd their niches. They cannot gain by consumption restraint for the
+two excellent reasons that there is no consumption to spare and no niche space if
+there were.
+Ricardo, Malthus and West all warned against rote replication in economies already
+developed. We must create means to make more from less. I suspect that we are up
+against that wall more or less continually. Innovation pushes the wall back when
+genius and happenstance are at their best, and helps us survive the rest of the time.
+It costs the same either way. Consumption sacrifice is sacrifice to gods who work
+their will heedless of it.
+My implication that we have no consumption to spare could mislead. Rather we
+have none safe to spend. All creatures hold back reserves against adversity.
+Economies usually carry more capital, producing more consumption, than they need
+for now. It is a rainy day fund to be drawn down in lean times and built back in
+plush ones. Many nations invaded capital to keep up consumption during the world
+wars and world depression between, and reversed course since. But we would be
+fools to spend it for return over time when the next crisis might come tomorrow.
+Chapter 4 Mill’s Idea 1/11/16 25
+What exactly do I picture as this capital reserve? Is it vodka distilleries that might be
+converted to orange juice plants in a pinch? I don’t really know. Human capital itself
+is versatile. Some retirees could unretire, and vodka plant workers might convert
+with not much retraining. I will explore some of this idea later.
+Harrod’s Knife Edge
+Solow’s neoclassical growth model developed from ideas published a decade earlier
+by Roy Harrod. Harrod had described a “warranted growth path” given by the pace
+of technological innovation. He reasoned correctly that any effort to push
+investment faster must soon founder in the diminishing returns foreseen by Malthus,
+Ricardo and West in 1815. But how could we get investment exactly right? There
+was a critical “knife edge” with little margin for error. He was right to stress the
+dangers of overinvestment. I do the same. But free growth theory, and the
+overwhelming evidence that it is right, bring a new perspective.
+What Solow and other economists teach today , judging from the textbooks I read, is
+more or less Harrod without the knife edge. We are taught to figure out the
+warranted growth path, meaning the rate of technological growth, and then invest
+just enough, ex ante, to exceed depreciation by that margin. But my charts and tables
+show that any investment beyond depreciation recovery is deadweight loss. There is
+no need to know the warranted growth path because optimum investment is not a
+function of whatever it might be. Depreciation investment captures the whole of
+technological growth, and further investment adds no more. It is money left on the
+table. Optimum ex ante investment, at the collective scale, is depreciation
+investment. Ex post results will reveal the warranted growth path.
+What about Underinvestment?
+One indication in the charts and tables might leave us puzzled. It is easy to
+understand the futility of ex ante investment (consumption restraint) beyond
+Chapter 4 Mill’s Idea 1/11/16 26
+depreciation plowback in light of the diminishing returns described by Ricardo,
+Malthus and West two centuries ago. We might crowd our niche, like other
+creatures, and leave neither consumption safe to spare nor room for capital
+accumulation before diminishing returns set in. But too little investment could seem
+a tougher challenge. No thrift at all, meaning not even depreciation plowback, would
+mean no growth at all. Then consumption rate would vary inversely as capital
+acceleration, just as predicted in in thrift theory. And underinvestment, meaning
+plowback of less than current cost depreciation, ought to happen about as often as
+overinvestment. If each year of underinvestment tended to fit the predictions of
+thrift theory even a little, free growth indexes should average something less than
+one in the end. But they don’t. The index varies, but averages more than one as often
+as less in every country and period.
+The explanation I suggest is already implied in that insight of two centuries ago. Just
+as overinvestment and capital glut diminish returns, underinvestment and capital
+shortage augment them until supply of capital catches up to demand. Even if there
+were no plowback at all in some years, higher returns to capital already in place
+would help take up the slack. There would be real danger in sustained
+underinvestment or overinvestment. The saving grace is in market forces restoring
+equilibrium as investors maximize return.
+Summary
+This gives the outline of free growth theory. It is my best speculation on how to
+make sense of the charts and tables. It follows Mill more or less exactly, and risks
+the next step in the bold new direction pointed by Solow.
+My prize exhibits are the charts and tables. Better this book should show them alone,
+with an explanation of my testing equations and the data sources, than all the rest
+without them. They could hardly support free growth theory better than if Mill and I
+had rigged them. The consequences are huge. We must get rid of the corporate
+double tax ASAP, and raise the corporate tax rate enough to make the overall
+Chapter 4 Mill’s Idea 1/11/16 27
+adjustment revenue-neutral. That should help get both parties on board. We must
+tax capital gains at the same rate as ordinary income. Dividend rates should revert
+to the 4% - 6% range typical over the centuries before the pro-investment policies
+put in place after World War II. We must do whatever we can to level the
+consumption-investment playing field.
+Obvious qualifiers are worth spelling out. (4.1) and all consequences are meant to
+describe at the collective scale, where growth cannot be explained by transfer. Free
+growth theory assumes depreciation investment, not zero investment. My charts
+and tables will never be exact. There are inevitably errors and judgment biases in
+the national accounts and research assembled by Piketty and Zucman, more added
+by them, and more by me. These cautions will apply to later chapters as well.
+Chapter 4 Mill’s Idea 1/11/16 28
+CHAPTER 5: BRINGING HUMAN CAPITAL IN
+Human capital is labor measured as a dollar sum rather than as so much per hour or
+year. It treats pay less invested consumption as our cash flow, and finds our present
+value (to ourselves) as expected lifetime cash flow discounted by our own time
+preference rates, meaning what we would charge for delay. Measurement in this
+way usually finds it as something near three fourths of all capital. Physical capital,
+much better understood because it can be bought and sold as well as hired, is only
+the visible tip of the iceberg. The term human capital itself is touchy because it can
+suggest that life has a price. Irving Fisher used it in quotation marks in 1898 1 ,
+attributing it to earlier sources I haven’t found, but not in his two great books on the
+topic in 1906 2 and 1907 3 . Wikipedia is mistaken in attributing the term to Arthur
+Pigou a generation later.
+History of the Idea
+The concept began with Petty in 1664 4 . He estimated the aggregate pay of English
+workers, and divided by the discount rate he had modeled in A Treatise of Taxes two
+years earlier. I have not read Verbum Sapienti, but have read two of his later
+versions of the same argument 5 .
+Petty’s method was criticized by William Farr in 1854 6 , also in a paper I haven’t read,
+for neglecting what I call invested consumption. Farr, if I read the right description
+of his argument, was both right and wrong. Petty was modeling human capital of
+aggregate workers. These were mostly adults, who no longer receive invested
+consumption if my model is right. That makes his method sound in principle for
+measuring adult human capital separately. It follows that he underestimated the
+human capital of England, rather than overestimating it as Farr claimed, by leaving
+1 The Nature of Capital.
+2 The Nature of Capital and Income.
+3 The Rate of Interest.
+4 Verbum Sapienti.
+5 Political Arithmetic (1676) and A Gross Estimate of the Wealth of England (1685).
+6 Vital Statistics.
+Chapter 5 Bringing Human Capital In 1/13/16 1
+out the human capital of children. But Farr deserves credit for pointing out that
+human capital in general capitalizes pay less invested consumption.
+Keynes’ teacher Alfred Marshall agreed with Farr in 1990 7 . As I read this passage,
+Marshall interpreted maintenance consumption as investment. So did B. F. Kiker 8 in
+1968. I interpret it as exhaust in taste satisfaction enabling energy to earn pay
+concurrently, while preserving but not increasing pay expectations in future.
+Invested consumption would mean addition to human capital concurrently for
+expected realization with interest in higher pay later.
+Meanwhile economists had developed the complementary idea of human capital as
+present cost of investment accumulated before. Adam Smith 9 in 1776 wrote
+…The acquisition of such talents, by the maintenance of the acquirer during
+his education, study, or apprenticeship, always costs a real expense, which is
+a capital fixed and realized, as it were, in his person.
+The conversion of some consumption into human capital was a favorite theme of
+Frank Knight a generation before Schultz. Only the rest is what Schultz called pure
+consumption eliminated from the economy in satisfying tastes. Becker added in
+1964 that this investment must be expected to be recovered with interest, at least
+when paid by employers in job training. Schultz had also pointed out that human
+capital depreciates, and invests some work in itself in the effort of learning to
+complement the exterior investment of nurture and schooling. Ben-Porath,
+expressing a Schultz-led consensus, added in 1967 that human capital growth is
+invested consumption (the nurture and schooling) plus self-invested work less
+human depreciation. All these ideas are now accepted everywhere in human capital
+studies.
+7 Principles of Economics.
+8 A History of Human Capital. I learned of Farr from Kiker.
+9 The Wealth of Nations.
+Chapter 5 Bringing Human Capital In 1/13/16 2
+Jacob Mincer seems to have been first in print with the post-war revival of interest
+in human capital, in his 1958 paper 10 rederiving Irving Fisher’s present value
+equation and stressing job training. Schultz impresses me as the main idea man
+among these post-war contributors. He usually avoided math, unlike the others, and
+is probably the best source for quotes in plain English. His paper Investment in
+Human Capital, published in 1961, includes:
+… Much of what we call consumption constitutes investment in human capital.
+Direct expenditures on education, health and internal migration to take advantage
+of better job opportunities are clear examples. Earnings foregone by mature
+students attending school and by workers acquiring on-the-job training are equally
+clear examples.
+… This use of leisure time to improve skills and knowledge is widespread… I shall
+contend that such investment in human capital accounts for most of the impressive
+rise in the real earnings per worker…
+… Measured by what labor contributes to output, the productive capacity of human
+beings is now vastly larger than all other forms of wealth taken together…
+… the curve relating income to age trends to be steeper for skilled than for unskilled
+persons. Investment in on-the-job training seems a likely explanation…
+… We can think of three classes of expenditures: expenditures that satisfy human
+preferences and in no way enhance the capabilities under discussion – these
+represent pure consumption; expenditures that enhance capabilities and do not
+satisfy any preference underlying consumption – these represent pure investment;
+and expenditures that … are … partly consumption and partly investment, …
+In 1962 11 he added:
+… the investment in human capital can conveniently be classified in (1) nurture and
+higher education, (2) postschool training and learning, (3) preschool learning
+activities, (4) migration, (5) health, (6) information, and (7) investment in children
+(population) …
+10 Investment in Human Capital and Personal Income Distribution
+11 Human Capital: Policy Issues and Research Opportunities
+Chapter 5 Bringing Human Capital In 1/13/16 3
+… But unlike the wonderful “one-hoss shay,” the productive life of educational
+capital typically does not go to pieces all at once. It depreciates along the way, it
+becomes obsolete, it is altered by changes in retirement and by the state of
+employment …
+… As already noted, educational capital, like reproducible physical capital, is subject
+to depreciation and obsolescence. The established tax treatment takes account of
+both depreciation and obsolescence in the case of physical capital, but this
+accounting is not extended to education capital… In brief, our tax laws… appear to
+be all but blind to the fact that educational capital entrails maintenance and
+depreciation, becomes obsolete, and disappears at death…
+These excerpts clearly show Shultz’ meanings of pure and invested consumption,
+and of human deprecation. He says “pure investment” in place of my “invested
+consumption”, but I prefer to follow tradition by applying “invested” to physical
+capital alone. We also see his belief, with which I disagree, that substantial invested
+consumption continues after independence and physical maturity. For example, he
+writes “Direct expenditures on … health and internal migration … are clear
+examples.” I interpret these outlays, when applied to adult workers, as maintenance
+consumption preserving rather than adding skills, and enabling current pay rather
+than invested for higher pay later.
+I agree that self-invested work “to improve skills and knowledge … accounts for
+most of the impressive rise in the real earnings per worker …”. But I don’t share
+Schultz’ view that the “use of leisure time” accounts for much of this improvement.
+My years in plants and oilfields and offices have given me an impression of some
+study by workers during leisure time, but mostly passive accumulation of
+experience and insight while fully at work on the job.
+Practical Uses
+One obvious use of the human capital idea is to compare the factors (human and
+tradeable capital) in the same dimension. Capital and labor cannot be added, as
+Petty knew, since capital is measured in dollars where labor is measured in dollars
+Chapter 5 Bringing Human Capital In 1/13/16 4
+per unit time. But Petty showed that the idea of human capital as discounted cash
+flow measured in a money sum allows the factors to be summed together. The
+revival of interest at the Chicago school soon introduced the term physical capital
+for land and man-made things that can be bought and sold, and total capital for the
+sum. Physical capital is a misnomer in that we are physical too. But I have used it
+throughout so that economists can follow me and general readers can pick up some
+of their language.
+From the Y = C + I Equation to the Y Rule
+Chapter 2 summarized my argument adjusting the Y = C + I equation to the Y rule.
+Chapter 4 spelled out the former in (4.1). The Y rule made the hidden asterisks of
+the Y = C + I equation explicit. I said in both chapters that the free growth equations
+are the same for both when we allow for the asterisks.
+Let’s go through the derivation of the Y rule again. (4.1) shows
+output = investment + consumption.
+I generally mean the version of this where “ex post net” is understood before both
+“output” and “investment”. I said that this idea is implicit in the Mill quote, and is
+probably as old as economics. Net output, here or anywhere, means creation of
+value. Then the equation would be guaranteed by the truism, at the collective scale,
+if net investment meant growth of all value existing, meaning total capital, while
+consumption meant elimination from total capital collectively and nothing else. But
+net ex post investment as meant throughout this book, and anywhere in macro,
+means growth in physical capital alone. Consumption includes Schultz’ invested
+consumption transferred into human capital as well as his pure consumption
+eliminated from total capital as a whole. What the truism guarantees is rather
+output = total growth + pure consumption, (5.1)
+Chapter 5 Bringing Human Capital In 1/13/16 5
+at the collective scale and where “ex post net” is again understood before “output.”
+(5.1), but not (4.1), guarantees that terms are mutually exclusive and exhaustive.
+Total growth means this ex post net investment (growth of physical capital) plus
+growth of human capital. The latter would have puzzled us before the contribution
+of Ben-Porath. Equation (4) in his 1967 paper, summarizing the first three, shows
+human growth = invested consumption + self-invested work
+– human depreciation, (5.2)
+using my terms rather than his.
+Chapter 6 will argue that this equation needs to be clarified. I gave a preview in
+Chapter 2, and will update it now. Work is the output of human capital. Output is not
+always positive. It is negative whenever growth and cash flow sum to less than zero.
+A negative sum of these two shows unrecovered decapitalition (also called
+deadweight loss). That would include unrecovered human depreciation. If (5.2)
+meant all including negative self-invested work less all including unrecovered
+human depreciation, it would subtract unrecovered human depreciation twice. Then
+it must be corrected either to
+human growth = invested consumption + positive self-invested work
+− human depreciation, (5.3)
+or equivalently
+human growth = invested consumption + self-invested work
+− recovered human depreciation.
+(5.3a)
+It is clear that Ben-Porath meant (5.3), as other evidence shows that he treated
+human depreciation as unrecovered. So does all tradition, mistakenly I believe, with
+Chapter 5 Bringing Human Capital In 1/13/16 6
+the partial exception of Becker. I will generally prefer (5.3a), although the two are
+identical in meaning.
+Schultz’ analysis of consumption found
+consumption = invested consumption + pure consumption. (5.4)
+This plus (5.1) and (5.3a) combine for
+output = total growth + pure consumption
+= investment + human growth + pure consumption
+= investment + invested consumption + self-invested work
+– recovered human depreciation + pure consumption
+= investment + invested consumption + self-invested work
+– recovered human depreciation + consumption
+– invested consumption
+= investment + consumption + self-invested work
+– recovered human depreciation. (5.5)
+“Ex post net”, as always, should be understood before both “output” and
+“investment”.
+Chapter 6 will revisit this logic once again, and add a second way to the same
+conclusion.
+The Growth Equation Under the Y Rule
+(5.1) can be arranged as
+total growth = output – pure consumption,
+(5.1a)
+as a counterpart to (4.1a). Total growth means growth in total capital. My argument
+continues as in Chapter 4. Since (4.2) was a blind alley, skip to (4.3). That now
+becomes
+Chapter 5 Bringing Human Capital In 1/13/16 7
+total growth
+total capital = output
+total capital − pureconsumption , (5.6)
+total capital
+which can be written as
+total growth rate = total capital productivity
+− pure consumption rate,
+(5.6a)
+as with (4.3a). Since (5.6a) is always true, and not only under occasional
+circumstances, we also get
+change in total growth rate = change in total capital productivity
+− change in pure consumption rate. (5.7)
+This parallels the logic of (4.4). Again save space by reexpressing this as
+total acceleration = total productivity + total thrift,
+(5.7a)
+where “total” means “of total capital”. Now divide by total acceleration to reach the
+counterparts of (4.5) and (4.5a).
+I will sometimes save space, from now on, by expressing these arguments in the
+equations of Chapter 4, as for example in leaving the words “total” and “pure”
+implicit if the context shows that I mean them.
+The Slave Paradox
+Say that Phil enslaves Bill. Bill’s maintenance consumption had been taste-satisfying
+pure consumption to Bill when Bill was free, and so was not deducted from his pay
+to find his gross realized output as valued by himself. But Bill’s maintenance
+consumption satisfies no tastes of Phil. Cash flow is gross realized output less
+plowback from revenue less new investment from outside, for either factor, while
+Chapter 5 Bringing Human Capital In 1/13/16 8
+net output is gross realized output less depreciation plus proprietary output. Both
+drop by the amount of Bill’s maintenance consumption on Phil’s books as a
+slaveowner. So then does Bill’s present value of that cash flow.
+This noir thought experiment is worth thinking through. It shows that even if
+slavery were legal and common, its market evidence would neither show the value
+of human capital nor refute the fact that human capital is inalienable. It is
+inalienable for the reason, if none other, that our maintenance consumption satisfies
+no one else’s tastes. Phil did not acquire Bill’s human capital. He converted it to
+livestock worth much less.
+Another useful point is that assets in general tend to be worth more to their owners.
+This does not contradict the convergence axioms. We buy or build to taste. That
+difference is particularly important as to assets not meant to be traded, such as
+productive plant. I suspect that this is what the national accounts missed in
+adjusting depreciation.
+Maintenance Learning
+Ben-Porath argued, persuasively I believe, that both kinds of investment in human
+capital must end when not enough time remains for recovery with interest. Those
+two are invested consumption, including schooling, and self-invested work. I
+propose that invested consumption substantially ends at maturity and
+independence. Self-invested work of learning continues long after, as there remains
+no other adequate explanation of age-wage profiles. When does it stop?
+Learning itself continues to the end. Yet if Ben-Porath is right, and he is, selfinvested
+learning stops well before. What continues, I think, is what I call
+“maintenance learning”. It is defined as learning to keep up pay now rather than to
+enhance pay later. At all ages, we must learn the names and traits of new clients and
+co-workers and suppliers and regulations continually to do what we are paid for.
+Chapter 5 Bringing Human Capital In 1/13/16 9
+This observation helps clarify my hypothesis that job learning costs no time that
+might otherwise have been spent earning pay. My deeper meaning is that invested
+learning and maintenance learning are the same process costing the same time but
+with different economic effect, much as with invested and maintenance
+consumption.
+Evidence that hourly if not yearly pay rises until retirement, or very near, would
+refute Ben-Porath’s claim if human capital ended at retirement. But it continues
+through retirement because imputed pay does.
+Mill and a few economists before him acknowledged “productive” and
+“unproductive” consumption. The productive kind was what I call maintenance and
+invested consumption. Unproductive consumption meant any written invested for
+higher pay later nor supporting survival pay now. That would give
+pure consumption = maintenance consumption + unproductive consumption (5.8)
+and
+consumption = invested consumption + pure consumption
+= invested consumption + maintenance consumption
++ unproductive consumption. (5.9)
+Investment and maintenance contrast in human capital as in a firm. Investment is
+valued only in the expectation of future maintenance. No maintenance later, no
+value now. To count maintenance as new investment would count part of the old
+investment twice. Where the accounting treatments differ is in disposition.
+Maintenance in the firm is recovered in pay and products. I thought before that the
+same was true of human capital. Thanks to the parable of the boss and her secretary,
+I now I think it is exhausted in satisfying our taste for lineage survival.
+Chapter 5 Bringing Human Capital In 1/13/16 10
+Restating the Three Fourths Rule
+Petty, neglecting human capital of children, measured total capital as about 2.5
+times physical capital in 1664. Most estimates since have run higher. I myself model
+4:1 or so as a first approximation. The ratio of human to physical capital might hold
+to some such lasting norm for the same reason that number of shepherds should
+hold in proportion to number of sheep. They own as many as they can manage.
+Human capital means value of skills, including skills in acquiring and employing
+physical capital. If the value of physical capital changes, so should the value of its
+management. There is truth behind the old doctrine that a rise in the productivity of
+labor explains growth in value of physical capital. But old skills can also be more in
+demand when improvements in physical capital productivity can get more good out
+of them. Drivers are worth more when there is more valuable freight to be trucked.
+A rise in either kind of capital tends to invite a rise in the other.
+The ratio of pure to invested consumption is unsettled in human capital studies. I
+just showed why I think Schultz gave the right clue in 1961 when he defined
+invested consumption as an outlay to be recovered with interest in consumption
+over the future, and pure consumption as an outlay bringing taste satisfaction now.
+It is the same distinction as with investment and operating expense in the firm. A
+professional’s meals and doctor bills, and even his subscription to trade journals, are
+expenses needed to keep his earning power intact rather than investment to raise it
+over the future. It seems to me that once we are physically mature, the only avenues
+of investment in skill building, not exhuast in skill maintenance, are self-invested
+work and job training or other adult education.
+And I argued that there is probably not much adult education. Only a few go back to
+school. From what I’ve seen, job training is concentrated in our first few months
+when schooling is over and full-time work begins. That’s why I think that the rise of
+pay with age, implying a rise in skills marketed, is explained more or less entirely by
+self-invested work in the mainly subliminal accumulation of job experience. (Work
+Chapter 5 Bringing Human Capital In 1/13/16 11
+means the output of human capital, and nothing in the definition of output implies
+effort or even awareness.)
+I agree with Ben-Porath that all consumption and all work should be modeled as
+self-invested until independence and full-time job entry, given that models must
+simplify. But I just showed why I model all consumption after, or anyhow after a few
+months of job training, as Schultz’ pure kind. Here I would fault Mincer and his pupil
+Becker, but not Schultz or Ben-Porath, for too much focus on the potential of job
+training. It exists and is crucial. But it is so small a fraction of invested consumption,
+judging from my experience, that I prefer to neglect it in modeling. Job learning,
+conversely, seems to explain all rise in pay with age.
+Biology might predict the same. Nature’s plan is that we first develop and then
+reproduce. Some creatures follow sharply-defined somatic and reproductive phases
+showing first only development and then only reproduction. A mature butterfly
+does not eat. It may even lose mouth parts. Its time is spent in reproduction alone.
+Other creatures including us like eating too, but nature gives them that taste for the
+sake of the one behind. Adult consumption, as I see it, is more or less all pure
+consumption exhausted from total capital in satisfying our taste for life and energy.
+Consumption by the young is invested because that is the big idea. Nature’s plan is
+reproduction to maturity.
+Now suppose for simplicity that consumption is age-independent. Nobelists Milton
+Friedman and Franco Modigliani, mentioned earlier for their opposite reactions to
+my banking idea, separately argued something like that in the 1950s for adults. My
+extension backward to birth seems defensible when we remember to include
+unpaid parental care and then schooling in invested consumption. I model human
+capital as continuing after retirement as present value of implicit pay by ourselves
+and others for caring for ourselves and those others. Then if adulthood runs from
+ages 20 to 80, those simplifying assumptions would give pure consumption as three
+fourths of all consumption.
+Chapter 5 Bringing Human Capital In 1/13/16 12
+I also modeled human capital as three fourths of total capital. My tag for the two
+ideas together was the “three fourths rule.” The agreement of the two ratios as
+modeled is a convenient coincidence. If they differed, this book would have to be a
+few sentences longer. Each is first-order approximation only.
+The Free Growth Index for Total Capital
+Given the three fourths rule, the free growth index for total capital is derived by
+reading “pure” and “total” before the words consumption and capital in the
+equations of Chapter 4.
+Now back to the charts and tables. The free growth index for total capital is tracked
+in the red line and labeled !
+ϕ(Kt). It too fluctuates around one in each country, but in
+a much narrower range than does the blue line !
+ϕ(K). The reason is the three
+fourths rule. The thrift index, not shown in the charts and tables, is one minus the
+free growth index. It is derived in Chapter 4 as thrift rate over acceleration, where
+thrift rate is change in consumption/capital ratio times minus one. By the three
+fourths rule, where pure consumption is three fourths of all consumption while total
+capital is four times physical capital, the pure consumption/total capital ratio is only
+3/16 (3/4 divided by 4) the size of the consumption/physical capital ratio. The
+yearly changes in these ratios reflected in the numerator of the thrift index will hold
+to the same proportion. The denominator is acceleration, which is always the same
+for physical as total capital by the assumption that they hold in 1:4 proportion
+throughout. This explains why the unshown thrift index, or numerator over
+denominator, is automatically 3/16 as large for total as for physical capital, and why
+the shown free growth index runs nearer one in consequence.
+I have just given an idea why it can be worthwhile to brush up the algebra we all
+learned in high school or before, and to suffer the nuisance of mathematical notation.
+I have made a very simple truth, obvious in hindsight, seem complicated by making
+Chapter 5 Bringing Human Capital In 1/13/16 13
+do with words alone. One less something nearer zero, whether that something (the
+thrift index) is positive or negative, is nearer one. The wonderful books of Einstein
+(with Enfeld) and Steven Hawking, not to mention Mill, show that even calculus can
+be put that way. My task has been to follow their tough act. But I will now start to
+infiltrate notation where I think that that form of shorthand should help more then
+it hurts.
+Summary
+The data for the free growth index of total capital ϕ(Kt) in the charts and tables do
+not represent a separate test. It is the same test adjusted to the three fourths rule.
+That was proposed as a convenient rule of thumb. I would have shown a true
+separate test if I knew how. Pure consumption might become separately measurable
+some day, but human capital will not. The Phil and Bill parable shows that not even
+evidence from slave markets would be on point. Human capital has no possible
+value to any but its original owner.
+Whether in words or notation, I hope to make the point that Chapter 4 and the
+charts and tables showing !
+ϕ(K)are likely to understate the case for Mill. Those
+showing should be nearer the truth. Physical capital and pure consumption
+! ϕ(K ) T
+are less than the whole. My three fourths rule will never be exact because reality
+cares little for the convenience of modelers. Proportions between the kinds of
+consumption will not hold exactly constant and will never exactly agree. But I don’t
+think the three fourths rule is so wrong that the real value of ϕ(K ! T
+)doesn’t run
+nearer one than the real value of !
+ϕ(K). (The infiltration begins.)
+Then the data support free growth theory convincingly enough if we trust equation
+(4.1), as do all macroeconomists as far as I know, and probably more convincingly
+when human capital is considered too.
+Chapter 5 Bringing Human Capital In 1/13/16 14
+The cautions at the end of Chapter 4 apply even more. My charts and tables for
+! ϕ(K ) repeat the accumulated error and bias of those for T !
+ϕ(K), and add the crude
+simplification of the three fourths rule. (5.4) expresses my understanding of what
+Ben-Porath means in equation (4) in his 1967 paper, where variables are defined in
+his three equations before. If (5.4) doesn’t capture his idea faithfully, it anyhow
+captures mine. Likewise my (5.5) may or may not do justice to Schultz. Some but not
+all possible interpretations of what he might have meant give (5.5). Again, it is my
+belief whether or not his.
+What Farr, Marshall and Kiker have shown, by deducting both invested and
+maintenance consumption from pay to get adult cash flow discounted to present
+value, is human livestock value to a slaveowner. It is very little. The parable of Phil
+and Bill argued that Bill’s maintenance is expensed on Phil’s books, but treated as
+net output and positive cash flow on Bill’s. I said I can’t prove that from axioms and
+definitions so far, and will need the biological imperative.
+Chapter 5 Bringing Human Capital In 1/13/16 15
+CHAPTER 6: PARALLELS WITH THE FIRM
+My Own History with These Ideas
+For sheer shock value, at least to economists, the pay rule and the Y rule must count
+first amount the surprises I promised. Who would have thought that human
+depreciation is expected to be recovered in revenue (pay) and product value just as
+with plant depreciation? Heresy! Yet nothing is more easily proved. Either the
+maximand rule or the deadweight loss rule is enough.
+Free growth theory and next generation theory give more scope and policy
+implications. But the pay and Y rules have plenty of those, and may be new to the
+world. Mill and Petty beat me to the others.
+I have been arguing the pay and Y rules from the time I reversed course from
+Quesnay’s idea some five years ago. I will rederive both in new ways at the end of
+this chapter. My change of mind was a classical epiphany. I had been resisting the
+obvious for years. I showed how my parable of the boss and her secretary got me on
+track.
+My depreciation theory is a lesser shock. It occurred to me over the Christmas
+holidays this year. It contradicts the national accounts, whose Capital Consumption
+Adjustment corrects book depreciation from linear to exponentially falling. That
+would make depreciation fastest at the start, and progressively less. No one has
+objected because practical experience seems to say the same. If we resell a new car
+or house after only a few months of use, we take a big hit. If we resell a new factory,
+which would have been tailored to our unique business plan, we take a bigger one.
+My counter-argument is that premature resale reflects adverse selection. The usual
+motive for premature trade is bad news and pressure to sell, not pressure from
+others to buy.
+Chapter 6: Parallels with the Firm 2/4/16 1
+I point instead to the millions who don’t sell. I argue that depreciation and
+amortization are the same in essence. Loan payments are all interest at the start,
+and all amortization at the end, by inference from the present value rule.
+My risk theory is a mini-surprise. It shifts focus from the risk of the asset to the risk
+aversion of the owner. Another mini-surprise is the feature of my growth truism
+pointing out that deadweight loss means negative unrealized output.
+I will revisit these topics in more depth after I cover the necessary groundwork in
+comparing the accountancy for human capital and the firm.
+Assets, Owners and Revenue
+Assets means examples of capital of either factor. Their owners are all members of
+the reproducing population assumed in the axioms. Each, from newborns up, owns
+human capital at least. Value and growth and cash flow and output are properties of
+capital. Tastes, aims and ends are properties of owners. Human capital reads its
+owner’s aims, and manages both factors to realize them. Positive cash flow is
+outflow from assets to owners, to exhaust or reinvest or give away as they like. In
+the last two cases, the owner is mediating transfer out. She also mediates transfer in
+from reinvestment or gift received.
+Think of capital as source and present value of foreseen cash flows. Owners are the
+foreseers, the recipients of positive cash flows, the exhausters of some in taste
+satisfaction, the deciders of the time preference rates giving present value, and the
+mediators of transfer out and transfer in (negative cash flow). In the case of the
+diamond ring, the psychic positive cash flow arrived without mechanics. The more
+typical case reaches the same outcome indirectly.
+(Net) output of an asset is its value added, or creation of value. Output can be
+realized as outflow to owners for reinvestment or gift or exhaust, or it can be left in
+as growth. The part left in is proprietary or unrealized or self-invested output.
+Chapter 6: Parallels with the Firm 2/4/16 2
+Outflow to owners can also include decapitalization from capital already in place, as
+in withdrawals from a bank account. I say decapitization, rather than depreciation,
+because the appropriate term might rather be amortization or depletion or
+liquidation in sale, depending on circumstances and the nature of the asset. The sum
+of the realized output and decapitalization can be called “gross cash flow”, meaning
+gross before deducting plowback and negative cash flow (transfer in). Then
+gross cash flow = cash flow + plowback + transfer in
+= realized output + recovered decapitalization. (6.1)
+Here I specify recovered decaptalization because I treat deadweight loss as
+decapitalization too. Cash flow as accountants and businessmen use the term
+usually means gross of plowback, although net of transfer in. My meaning, net of
+both, is the one always applied in finding total return and present value.
+Although cash flow might be in kind as well, I will follow convention by treating it as
+if realized from sale in cash. The owner can then spend the revenue on exhaust
+(pure consumption) or reinvestment or gift as she likes, but might also plow some
+or all back into the originating asset. The general principle is
+positive cash flow = gross cash flow – plowback. (6.2)
+In simple cases, revenue measures and equals gross cash flow for each asset. But
+revenue as the term is actually used is likelier to sum contributions from many
+assets and owners. To keep that usual meaning separate, define this asset’s share as
+“earned revenue”. Then
+gross cash flow = earned revenue. (6.3)
+Another way to put the same idea is
+Chapter 6: Parallels with the Firm 2/4/16 3
+revenue = collective gross cash flow = collective earned revenue (6.4)
+from all contributors to revenue together. Then revenue and earned revenue would
+be the same if there are no other claims.
+Earned Revenue and Cash Flow
+A classical illustration of revenue generated collaboratively is the firm. The firm
+proper can be interpreted as a single asset of physical capital. Its typically many
+owners agree to hire outside management, meaning outside themselves, to contract
+and trade on their behalf. The firm through its managers hires the other employees,
+contracts with suppliers, and generates a joint product representing all its own
+gross cash flow plus any contributed parts of gross cash flow of others. The product
+is sold for revenue in the collective sense. Revenue is first applied to satisfy claims
+on it by those outside contributors. Claims recovered include current purchases
+from suppliers realized in sales. Others are pay to management and other
+employees, along with rent, interest, utilities, other services, and whatever is due to
+the tax man. The principle is to include all outlays by the firm needed to secure
+revenue now, as distinct from outlays invested for the sake of more revenue later.
+The share of revenue due the firm proper is any residue after all those prior claims
+are met. Then
+gross cash flow = revenue – prior claims = earned revenue (6.5)
+gives the contribution of the firm proper.
+Earned revenue may or may not be passed to owners. Management is typically
+authorized to plow back any part as reinvestment, say in replenishing inventory or
+cash or in buying new plant and equipment. Any revenue left over after that
+plowback is transferred out to owners as dividend yield.
+Chapter 6: Parallels with the Firm 2/4/16 4
+Negative cash flow, or transfer in, always means new investment added from
+outside. Plowback from revenue is excluded, as it is already recognized as a
+deduction from positive cash flow. For the firm, the only source of positive cash flow
+is proceeds from new shares issued. With this understood,
+where
+cash flow = gross cash flow – plowback – transfer in
+= earned revenue – plowback – transfer in
+= positive cash flow – negative cash flow, (6.6)
+positive cash flow = earned revenue – plowback, and
+negative cash flow = transfer in. (6.7)
+Firms use the term gross realized output to mean the same thing as what I call gross
+cash flow. A common definition is
+gross realized output = realized output + depreciation.
+Now we come to the subtle point allowing for deadweight loss. The total return
+truism shows that output equals value growth plus cash flow. Then output is
+negative wherever the sum of growth and cash flow is less than zero. Natural
+disasters and bad investments can make them so. Those unexpected setbacks are
+examples of deadweight loss. It amounts to unrecovered depreciation, meaning
+depreciation not recovered (realized) in positive cash flow. I’ll get back to that soon.
+The point at present is that the equation above really means
+gross realized output = realized output + recovered depreciation.
+Here too I prefer the generality of “decapitalization” over “depreciation”, and define
+gross realized output = gross cash flow
+= realized output + recovered decapitalization
+= earned revenue + recovered decapitalizaton. (6.8)
+Chapter 6: Parallels with the Firm 2/4/16 5
+The terms gross cash flow, earned revenue and gross realized output will be used
+interchangeably. “Realized” and “recovered” will likewise be synonymous, as will be
+“proprietary”, “unrealized” and self-invested”.
+(A6.1) allows
+realized output = cash flow + plowback + transfer in
+– recovered decapitalizaiton. (6.1a)
+Define
+unrealized output
+= output – realized output
+= growth + cash flow – realized output
+= growth – plowback – transfer in
++ recovered decapitalization, (6.9)
+by (6.1a) and the total return truism.
+Proprietary Output and Deadweight Loss
+Unrealized or proprietary or self-invested output of the firm is creation of value not
+yet sold or not meant to be sold. This can be something as workaday and
+perfunctory and automatic as output to inventory. Other illustrations could be
+where a construction firm builds its own offices, or a car manufacturer makes cars
+for its executive fleet. (6.9) shows that it includes all growth not explained by
+plowback plus transfer in less recovered decapitalization. This implicitly includes all
+free growth. Judging from my charts and tables, free growth seems to mean all of
+growth at the collective scale. What effect might it have on the firm?
+Free growth includes random windfall gain and deadweight loss as well as the
+overall upward trend expressing new ideas. Deadweight loss is unrecovered
+decapitalization, meaning not recovered in cash flow, That makes it negative output
+Chapter 6: Parallels with the Firm 2/4/16 6
+as the sum of growth and cash flow, and specifically negative unrealized output.
+Then
+deadweight loss = unrecovered decapitalization
+= negative output
+= negative unrealized output
+= max (0, – output)
+= max (0, − unrealized output). (6.10)
+Also
+positive unrealized output = max (0, proprietary output), (6.11)
+and
+output = unrealized output + realized output. (6.12)
+The Growth Truism
+In general,
+Here
+Also
+growth = capitalization from outside + capitalization from inside
+– decapitalization. (6.13)
+capitalization from outside = negative cash flow = transfer in, and
+capitalization from inside = positive unrealized output + plowback.
+Then
+decapitalization = recovered decapitalization + unrecovered decapitalization
+= recovered decapitalization + deadweight loss.
+growth = transfer in + positive unrealized output + plowback
+– recovered decapitalization – deadweight loss, (6.14)
+or more simply
+Chapter 6: Parallels with the Firm 2/4/16 7
+growth = transfer in + positive unrealized output + plowback
+− decapitalization.
+(6.14a)
+(6.14a) can also be expressed as
+growth = transfer in + unrealized output + plowback
+− recovered decapitalization.
+(6.14b)
+For convenience, define
+gross transfer in = transfer in + plowback,
+So that (6.14) through (6.14b) can be put more compactly as
+growth = gross transfer in + positive proprietary output – decapitalizaiton
+= transfer in + unrealized output – recovered decapitalization. (6.14c)
+Any of these versions of (6.14) can be called the growth truism. The new term gross
+transfer in will help shorten equations for human capital.
+Management as a Quasi-Owner
+Owners (shareholders) typically allow management wide latitude to cope with
+needs. It stands in place of owners. Accounting tradition, and this book too, reasons
+out the steps from revenue to dividend yield as if management itself were the owner.
+Otherwise there would be little to say. From the shareholder viewpoint, revenue is
+simply dividend yield.
+But the bottom line is the same. The maximand is output, or growth plus cash flow.
+Positive cash flow, in the sense net of plowback, is dividend yield on both the firm’s
+books and the shareholder’s. Negative cash flow on the books of shareholders
+individually is purchase of any shares in the same firm. On the books of
+shareholders collectively, where sales and purchases of existing shares offset, it
+simplifies to purchase of new stock issues alone. This too is just as on the books of
+the firm.
+Chapter 6: Parallels with the Firm 2/4/16 8
+My purpose in this analysis of the firm has been to derive equations valid for any
+capital of either factor. The firm is a good model for several reasons. Its accounting
+traditions are centuries old, and have been well thought through. It is rich in
+possibilities because it has to be. It must describe firms of many kinds. It must allow
+for contingencies whether or not they apply. For many simple assets, say the firm’s
+shares as opposed to itself, revenue and positive cash flow can be the same. But the
+complexity and versatility of the firm itself, and the person-likeness added by its
+internal management, make it a useful model for any and all capital of either factor.
+Not that I claim to follow accounting tradition closely, or even to understand it
+closely. I am even less an accountant than an economist. My terms and concepts
+tend to be idiosyncratic. The main thing is for the logic to hold together.
+Human Capital by Analogy to the Firm
+It is reasonable to define pay as the revenue of human capital. Earned revenue for
+the firm is typically less than revenue. There are prior claims to offset contribution
+by worker and suppliers. The counterpart in human capital, I said in Chapter 2, is
+maintenance consumption. I believed for years that this cost counted as a prior
+claim on pay, just as with the firm. I may have been the only person to think so since
+Quesnay and the physiocrats, although Mill and Sraffa might be interpreted that way.
+But who has thought what doesn’t matter. Quesnay’s idea is a mathematical
+possibility that must be addressed. I’ll get there soon.
+Human capital is inalienable. That means that its decapitalization simplifies to
+human depreciation. The firm’s added possibilities of depletion and liquidation
+don’t apply. The output of human capital is called work. Then (6.1) through (6.8),
+applied to human capital, give
+earned revenue = pay – prior claims
+= gross realized work
+= realized work + recovered human depreciation. (6.15)
+Chapter 6: Parallels with the Firm 2/4/16 9
+The pay rule argues that prior claims are zero and that all human depreciation is
+expected to be recovered in pay and work products as a norm.
+Chapter 2 offered two logical proofs of the second point. The alternative to recovery
+is deadweight loss. Capital is discounted foreseen cash flow, and cash flow is
+realization in transfer or taste satisfaction. Deadweight loss, or unrealized
+depcatialization, is therefore implicitly unforeseen. Human depreciation, like plant
+depreciation, is foreseen from the start. Aging and mortality come as no surprise. It
+is therefore foreseen as realized in pay.
+The second proof, stated in part by Becker, follows from the maximand rule. All
+behavior is maximization of perceived risk-adjusted return to the individual’s total
+capital. This follows from definitions, not from axioms. There are no exceptions
+because there are no square circles. The rule says that no one invests in anything
+without expected recovery with interest. Recovery means recovery of depreciation.
+We do invest in human capital, of ourselves and our children, and consequently
+expect recovery of human depreciation by ourselves or them. It’s that simple.
+Other proofs looked to evidence and experience. I offered the parable of the boss
+and her secretary, which had been decisive in converting me from Quesnay’s view.
+Let’s go through it once more. Assume that investment in each has ended before the
+last year for each. First take the possibility that neither maintenance consumption
+(the supposed prior claims) nor human depreciation is recovered in pay. Then work
+and cash flow for each have simplified to realized work and pay. Human capital of
+each is remaining pay less the time discount. At the beginning of the last year, it is
+something less than one year’s pay. If pay measured work, return to each
+(work/human capital) would be something over 100% per year. It would rise to
+100% per day at the beginning of the last day, and 100% per second at the
+beginning of the last second. At the end of the last second it reaches infinity. Yet the
+portfolio assets of each reveal their rates of time-preference (return) as only a few
+percentage points per year.
+Chapter 6: Parallels with the Firm 2/4/16 10
+This is enough to rule out the idea that pay recovers neither maintenance nor
+depreciation. Does it say which is recovered? It does if we look at the cases of the
+boss and her secretary separately. Each earns the same pay throughout, and the
+boss earns ten times more. By the beginning of the last day, the human capital and
+work of each is negligible. Pay is all depreciation recovery if I am right, or all
+maintenance recovery if Quesnay was right, or maybe both. The boss’s pay, anyhow,
+remains ten times higher. Is that because her maintenance is ten time more, per
+Quesnay, or because her depreciation is?
+The answer is easy. I concede that the higher-paid usually consume more. But not
+always, and anyhow not in proportion and not because they have to. I learned in the
+quartermaster corps that the consumption needs of the general and the private are
+not much different. The commanding officer, in the field, is expected to be the last to
+eat, the last to sleep and the first up in the morning. Maintenance consumption, as
+opposed to the rest, is what we need to keep up strength and vitality and
+performance. We can’t make do with less. More pay is more motive, but need not be
+spent on more consumption unless by choice.
+The boss and her secretary are paid to apply skills. They are in trouble if the worth
+of those skills doesn’t cover their maintenance needs. But they will tap savings if it
+doesn’t. Retirees need no money motive to consume. All they need is the means. The
+source of skills applied is human capital. The application is gross realized work. The
+difference between its human depreciation and realized work components matters
+because the maximand is net output (work) rather than gross. But it is not a
+difference in kind. Skill applied is skill applied. Pay is all depreciation at the last
+second for the same reason as with the mortgage payment. There is no balance left
+to earn interest.
+This argues strongly that human depreciation is recovered in literal pay and
+transferred to work products. It also argues that maintenance is not. The problem is
+Chapter 6: Parallels with the Firm 2/4/16 11
+in the exact 10:1 proportion required throughout. Whatever was contributed to pay
+by maintenance recovery, on top of depreciation recovery, would have to hold the
+same ratio in order for pay to cover both. Experience shows this as unlikely in any
+case, let alone all cases. The boss and her secretary probably couldn’t hold
+maintenance consumption to that ratio if they tried.
+Another strong argument against the hypothesis of prior claims on pay is lack of a
+source. The claimant would be whoever other than the worker had paid for the
+maintenance consumption and needed to be made whole. Thus the employing firm
+would hold a valid claim if it had provided the maintenance consumption in order to
+enable the work. That would put the firm in the position of a farmer who must feed
+the livestock and must earn enough profit to recoup the cost. We went through this
+in the parable of Phil and Bill. But the employer firm does not advance the cost
+because it has no motive to do so. It knows that the worker will pay it anyhow if
+means allow. Where means don’t allow, as in retirement without adequate savings,
+the worker looks to transfer payments from society generally rather than from the
+firm alone.
+Now comes the evidence of age-wage profiles. This evidence is the substance behind
+the parable of the boss and her secretary. The evidence is apt. Wage generally
+means hourly pay, while “earnings” means yearly pay. Wage-earnings profiles show
+a rise with age, but peaking and reversing as workers reach their fifties or so. The
+reason is that they tend to work fewer hours. I consider pay per hour a better
+measure of human capital than pay per year. If someone is worth $30 per hour half
+time, my impression is that she would be worth $30 per hour full time. If she prefers
+to stay home, her leisure must give her that much psychic pay instead. Psychic pay
+cuts just as much ice with me.
+My boss and secretary were cases preferring to work full time. Age-wage profiles
+bear out the scenario I imagined for them. They illustrate the logical certainty that
+human depreciation is expected to be recovered in pay, and support the
+Chapter 6: Parallels with the Firm 2/4/16 12
+convergence axioms leading from prediction to probable outcome. More than that,
+continuance of the 10:1 ratio through the last day tends to confirm that no
+maintenance consumption is recovered alongside human depreciation. If it were,
+age-wage profiles show that it would have to hold the same 10:1 ratio throughout.
+Exhaust Pay
+The present value and maximand truisms affirm that all including human
+depreciation is expected to be recovered in positive cash flow. Positive cash flow is
+transfer out plus exhaust. In human capital it is pay less plowback. Might some
+human depreciation be realized in exhaust? I thought all was when I also thought
+maintenance consumption was recovered in pay and work products. The boss and
+secretary parable turned my thinking around on that. But it doesn’t follow that none
+is.
+Some pretty clearly is. I argued that even suicide expresses the maximand rule.
+Deliberate self-maiming exists and expresses it again. Just as Citizen Kane destroyed
+his showcases because the fit was on him, some destroy their bodies. So long as the
+destruction is intended and compos mentis, it counts as economic behavior.
+Are there sunnier examples? What about voluntary unpaid vacations and voluntary
+retirements? What if the boss and her secretary enter convents in mid-career?
+These choices surrender human capital on the face of things because they surrender
+literal future pay. But the psychic pay of leisure makes up for it. Otherwise we would
+have stayed on the job track.
+Then some human depreciation is exhaust. Call the psychic pay for it “exhaust pay”.
+It seems mercifully small in the big picture. I tend to neglect it in modeling for that
+reason, just as with invested consumption after full-time job entry. But I claimed
+logical certitude as to expected recovery of human depreciation in pay. I’d better not
+leave loopholes. There are none. Some of the pay is psychic, and some of the tastes
+satisfied are not pretty.
+Chapter 6: Parallels with the Firm 2/4/16 13
+Tweaking the Axioms
+My last argument reasoned from experience that we need no money motive to
+consume, and that pay tends to cover our maintenance needs. But that wasn’t
+strictly in the axioms. I assumed a mortal and reproducing population strategizing
+for means to satisfy tastes, and more generally aims. I didn’t say out loud that the
+population in fact survives. Now I do. Let’s specify that the population has motive
+and means for lineage survival, whether in a group selection or kin selection sense.
+The means can be specified as skill sets, as an adult norm, sufficient to earn
+maintenance consumption needs for themselves and invested consumption needs
+for their young together. As to motive, I will specify at last that maintenance
+consumption is exhausted in satisfying our taste for survival. I already as much as
+assumed this in arguing that we need no money motive to consume.
+This assumption of motive and means amounts to the biological imperative. It is
+hardly new to economics. It is the essence of Petty’s overlapping generations model
+of 1662 in A Treatise of Taxes. It is the essence of the equilibrium wage theory of
+Smith in 1776 and Ricardo 1817, where pay converges to the level holding the work
+force intact. It is the essence of Malthus’ population principle of 1798 and 1801,
+chosen by Senior as his first axiom in his Outline of 1836. It is the essence of the
+productive consumption theory developed from Malthus through Mill in 1848.
+It lapsed from attention with the marginalist revolution beginning with Jevons and
+Menger in 1871, ironically the year of publication of Darwin’s The Descent of Man,
+because the marginalists treated explanations of tastes as irrelevant. I happen to be
+a huge fan of the marginalists. But they’ve made their point. The microeconomics
+they founded is a rich and mature science. It needs no assumptions as to what
+explains our tastes. But macro is not doing so well. I believe that it must start over,
+and that a grasp of motives helps.
+Chapter 6: Parallels with the Firm 2/4/16 14
+Quesnay’s Idea
+What Quesnay wrote, in his entry for “man” in Diderot’s Encyclopedia of 1750, was
+“Those who make manufactured commodities do not produce wealth…they
+spend their receipts in order to obtain their subsistence. Thus they consume
+as much as they produce…and no surplus of wealth results from it.”
+Quesnay, like Petty a century before, came to economics from medicine. He was
+personal physician to Madame de Pompadour, and then to the royal family. His
+argument was that value is added in agriculture alone, not in manufactures. His
+conclusion that only landowners can afford to pay taxes did not enchant the landed
+aristocracy of Versailles.
+Mill’s Essays 1 includes
+“as much as is necessary to keep the productive worker in perfect health and
+fitness for his employment, may be said to be consumed productivity. To this
+should be added what he expends in rearing children to the age at which they
+become capable of productive industry.”
+Mill’s Principles of 1848, which I quoted earlier, said the same:
+“What they consume in keeping up their health, strength and capacities of
+work, or in rearing the productive laborers to succeed them, is productive
+consumption.”
+Sraffa’s parallel idea is expressed in his 1960 paper Production of Commodities by
+Means of Commodities.
+My impression is that Quesnay’s “surplus of wealth” means value added, and that he
+thought maintenance consumption should be deducted from revenue in finding it.
+Mill can’t have meant what I think Quesnay did, in view of Mill’s evident belief that
+output is investment plus consumption. Rather, when I like Quesnay argued that
+1 Essays on Some Unsettled Questions of Political Economy (1844).
+Chapter 6: Parallels with the Firm 2/4/16 15
+maintenance is recovered in pay work products, I thought Mill and Sraffa might have
+reasoned partway there.
+My belief then that human depreciation is exhausted is satisfying tastes seemed
+defensible then. I argued, sensibly to a point, that getting older meant surviving. I
+suppose I might still argue the same but for the parable of the boss and her
+secretary.
+Another Look at Depreciation Theory
+My pay rules, illustrated in the parable of the boss and her secretary, depends on my
+idea that depreciation and amortization are the same. Capital means present value
+of a typically finite series of forseen cash flows. As each year passes, present value of
+the most distant and most discounted one is lost. Depreciation/amortization is that
+loss. It begins at a maximum, and rises steadily as the end point nears.
+I faulted national accounts for projecting an opposite trajectory from evidence of
+actual sales. I suggested a second look at likely circumstances and motivations.
+Depreciable assets are mostly structures and equipment. They tend to have been
+designed and modified for original users. Original users typically expect to own and
+operate them to the end. Then what is the likely driver of exceptions? Are secondary
+trades of plant and equipment likelier to be driven by pressure to buy or pressure to
+sell?
+Human capital, anyhow, is exempt from both pressures. We’re struck with what we
+have. We can invest more, as a homeowner might add a pool room, but we cannot
+sell. The years roll by, and present value of the most distant one’s pay is lost.
+Consider what happens when the expected end point changes. Say that the boss and
+her secretary, at the beginning of what was to be the last day, are both persuaded to
+re-up for another five years at the same pay. Human capital of each jumps from a
+little less than one day’s pay to present value of five years’ pay. But human
+depreciation of each is sharply reduced! At the beginning of what seemed the last
+Chapter 6: Parallels with the Firm 2/4/16 16
+day, it was substantially to be the whole of pay. Now it becomes present value of a
+day’s pay five years off.
+Another Look at Risk Theory
+I made the point that the boss and her secretary reveal their time preferences in the
+security portfolios they assemble, and discount their pay at the same rate of return
+to reveal their human capital. Is that too simple? Does it overlook risk, or other
+factors?
+I argued that human capital is the risker and higher-return factor because its
+exceptional versatility makes it as risky as we like, and because it is owned
+disproportionately by the risk-tolerant young. Does that make the bosses’ or
+secretary’s human capital riskier and higher in return than her portfolio assets? It
+does not. She molds all capital to her single risk-preference level at her current age.
+This is not to claim that age is the only determinant. Gender seems to count too, with
+males usually more risk-tolerant. Bob Trivers tells us why. And there is a wealth
+effect. We tend to tolerate more risk when wealth gives us more cushion against
+setbacks. But each of us, in present circumstances, has just so much tolerance.
+Tastes are properties of owners, not of assets. We assemble and modify assets of
+both factors to suit them. Human capital is not inherently riskier. It is riskier at the
+collective scale only because it is owned disproportionately by the risk-prone young.
+Each cohort, from youngest to oldest, molds it to suit that cohort’s characteristic risk
+profile. The boss and her secretary each molds all her assets of both factors to her
+single risk tolerance at the time.
+Tweaking the Life Cycle Model
+I consider Ben-Porath’s life cycle model of 1967 the most important paper in 20 th
+century economics. I agree with all of it more or less. Now it needs clarification and
+completion.
+Chapter 6: Parallels with the Firm 2/4/16 17
+All studies of human capital, as far as I know, effectively treat human depreciation as
+deadweight loss. Ben-Porath’s model seems no exception. How does he model pay?
+He multiplies human capital by a productivity factor, and then again by the fraction
+marketed for pay rather than self-invested. That gives what I call realized work. Pay,
+if I am right, measures gross realized work. That is the main amendment I would
+propose for his model.
+Ben-Porath’s first three equations summarize what I call the growth truism (6.14).
+In my terms, not his, he models
+human growth = invested consumption + self-invested work
+– human depreciation.
+He means positive self-invested work in the form of learning. Meanwhile the
+inalienability of human capital leaves its depreciation as its only avenue of
+decapitalization. Invested consumption corresponds to gross transfer in as meant in
+the growth truism (6.14c) while self-invested work is the same as proprietary
+output. Then (6.4c) applied to human capital could show as
+confirming (5.2) and (5.3a).
+human growth = invested consumption + positive self-invested work
+– human depreciation,
+= invested consumption + self-invested work
+– recovered human depreciation,
+Logic also seems to agree with Ben-Porath’s interpretation that self- invested work
+continues late into careers, and that it must stop when time for recovery runs out.
+But I would specify that invested consumption stops, for modeling purposes, at fulltime
+job entry or a little later to allow for initial job training.
+This needn’t follow from my adjusted axioms. It’s just an impression from what I see.
+I don’t agree with Schultz that outlays on medicine or worker relocation are
+investment. I see them as maintenance consumption preserving skills, not
+Chapter 6: Parallels with the Firm 2/4/16 18
+investment building skills. I don’t see much avenue for investment in adult human
+capital except through textbooks and tuition. Some happens. I went back to school at
+the Conservatory myself, and I buy lots of textbooks. But I just don’t see enough of it
+around me. Models must simplify. Mine would end invested consumption at
+independence more or less.
+I would also model adult self-invested work as subliminal and costless job
+experience. I don’t see it as taking a second away from work for pay. This again is
+meant to describe the usual rule only. Ben-Porath’s model, I think, allows an
+impression that workers can choose between earning and learning by allocation of
+time. The quotes from Schultz in Chapter 5 described that as common. I just don’t
+see much of it happening. Rather we tend to work fewer hours at the end of careers,
+not the beginning or middle when time for recovery of self-invested work remains.
+I said that Ben-Porath’s equations imply
+pay = realized work.
+I would substitute the pay rule
+pay = gross realized work
+= realized work + human depreciation
+= work – self-invested work + human depreciation, (6.17)
+as a norm or expectation. It isn’t a guaranteed outcome because deadweight loss
+happens to human capital too. We may be hit by a bus, or lose our jobs in a slump, or
+be sent to prison or drafted into the army. The pay rule means that recovery is
+foreseen. If (6.17) were stated in terms of outcomes, “recovered” would have to be
+inserted before “human depreciation”.
+Chapter 6: Parallels with the Firm 2/4/16 19
+I believe that the case for this rule is very strong. The deadweight loss rule and the
+argument from the maximand rule give logical certitude that human depreciation is
+expected to be recovered in pay. The convergence axioms would then give actual
+recovery as a norm. The rule disallows the prior claims hypothesis, or possibility
+that maintenance is recovered too, from an accumulation of implausibilities that led
+me finally to rule them out by adjusting the axioms.
+The life cycle model should also specify that human capital continues after
+retirement. I admit that this rules out the simplicities assumed in the boss/secretary
+parable. It continues because we earn imputed pay until the end, and human capital
+remains as its present value.
+I would also model in my depreciation theory. Pay, like the mortgage payments, is
+all realized work (interest) at the start and all human depreciation (amortization) at
+the end. No other explanation of age-wage profiles will hold water.
+A New Approach to the Pay Rule
+I reasoned to the pay rule from the maximand and deadweight loss rules. Another
+approach can reach the same conclusion.
+The total return truism finds
+output = capital growth + cash flow.
+(6.16) expressed Ben-Porath’s equation as
+human growth = invested consumption + self-invested work
+–recovered human depreciation.
+Cash flow is the flow discounted to present value. Tradition, since Farr in the midnineteenth
+century, has seen human capital as present value of future pay less what
+Chapter 6: Parallels with the Firm 2/4/16 20
+I call invested consumption. I argued in Chapter 3 that this tradition is sound,
+although not logical certitude. I put it as
+human cash flow = pay – invested consumption. (6.18)
+Work is defined as the output of human capital. Summing (6.16) and (6.17) now
+shows the pay rule
+work = pay + self-invested work – recovered human depreciation,
+after cancellation of invested consumption.
+This says that the pay rule is not so exotic after all. It has been staring us in the face
+since the Schultz-led consensus, with Ben-Porath, figured out the human growth
+equation a half a century ago. We had effectively recognized human cash flow as
+pay less invested consumption since Farr a century before, without putting it in
+those words. The total return truism does the rest.
+A New Approach to the Y Rule
+The marginalist tradition, which has dominated economic thought since its
+introduction by Jevons and Menger in 1871, has treated all consumption as the end
+point exhausting capital in satisfying tastes. It doesn’t follow that marginalists were
+unaware that some is invested in human capital. At least three of the leading ones
+understood human capital well. That includes Leon Walras, a third co-founder of the
+marginalist revolution in 1874. I also mentioned Marshall, who agreed with Farr in
+disputing Petty, and Irving Fisher. But all three, and marginalsts in general,
+preferred to locate human capital outside the economy proper. Whether they spoke
+of labor measured in dollars per unit time, or human capital meansured in dollars
+alone, the larger factor was taken to arrive exogenously. It provided its services
+from outside and was paid their market value in return, as if on the books of a firm.
+Chapter 6: Parallels with the Firm 2/4/16 21
+Marshall’s pupil Keynes was thoroughly a marginalist, as are economists in general
+today and as am I. One of the features of his General Theory of 1936 was a kind of
+double-entry accounting for national product. Product was output and equivalently
+income. Output meant the sum of prices of final products produced within the year,
+while income meant the shares of that sum paid to the workers and investors
+producing it. His double-entry idea can be put as
+output = investment + consumption = income = pay + profit. (6.19)
+I showed why I disagree. But let us see how the total return truism might seem to
+have led to that inference if we leave workers or human capital outside the economy.
+To treat them as arriving exogenously from outside is essentially to treat the
+national economy as if it were a single firm. Output inside is simply profit. Output
+outside is work, meaning creation of value by the workers. This gives the truism
+output = work + profit,
+confirming that total output is the sum of factor outputs.
+So far, so good. But now Mill and Keynes and most tradition slip by arguing that pay
+equals and compensates all of work and nothing else. That’s why (6.18) equates
+output to pay plus profit. Schultz and Ben-Porath and other students of human
+capital correct this in part by recognizing some work as self-invested rather than
+marketed for pay. My pay rule adds that pay recovers human depreciation as well as
+realized work. (6.19) should have reasoned
+output = income = work + profit
+= pay + self-invested work – human depreciation + profit. (6.20)
+Chapter 6: Parallels with the Firm 2/4/16 22
+Where Keynes and Kuznets and macroeconomic tradition have been right is in
+reasoning that pay and gross profit, meaning gross of depreciation, sum to the
+“expenditure” spent on consumption and gross investment. This fact of arithmetic is
+the logic behind Say’s law: pay plus profit are always enough to buy what is
+produced. We saw that this truism gives cold comfort when calamity or
+misjudgment make profit negative, as with the subprime houses of 2008. What it
+certifies, anyhow, is
+expenditure = pay + gross profit = consumption + gross investment. (6.21)
+We can subtract depreciation to reach
+pay + profit = consumption + investment. (6.22)
+Now (6.19) can be corrected as a whole to show
+income = pay + profit + self-invested work – human depreciation
+= output
+= consumption – investment + self-invested work
+– human depreciation. (6.23)
+My main goal in this book has been to further the work of Solow in exogenizing
+growth, and also the work of Ben-Porath in endogenizing human capital as
+something produced within the economy. It was in that spirit that I derived the Y
+rule in Chapters 2 and 5 by putting human capital inside. I reached
+output = investment + human capital growth + cash flow.
+Here “ex post net” is understood before output and investment, so that investment
+means physical capital growth. (6.16) applies the growth truism to human capital.
+The cash flow truism shows that cash flow is net transfer plus exhaust realized in
+Chapter 6: Parallels with the Firm 2/4/16 23
+taste satisfaction. These are all ex post descriptions of realized outcomes rather than
+intentions. Together they give
+output = investment + invested consumption + positive self-invested work
+− human depreciation + net transfer + exhaust
+= investment + invested consumption + self-invested work
+− recovered human depreciation + net transfer + exhaust. (6.24)
+This much is certitude. I now apply (5.9), which includes
+consumption = invested consumption + pure consumption,
+to reach the Y rule in its general form:
+output = investment + consumption + self-invested work
+− human depreciation + net transfer. (6.25)
+The net transfer term disappears at the collective scale.
+Although (6.24) is logical certitude infered from definitions, (5.9) and consequently
+(6.25) are not. I cannot rule out the possibility of a third kind of consumption
+recovered in work products as per Quesnay. I hope that my interpretation of agewage
+profiles in the light of the boss-secretary parable has revealed that as
+improbable. The same holds for my derivation of the pay rule through Ben-Porath’s
+equation and (6.18). (6.18), my inference that human cash flow equals less invested
+consumption, also trusts that all maintenance consumption is exhausted in
+satisfying tastes.
+Summary
+Accounting for human capital is much like accounting in a firm. Expected recovery of
+human depreciation in pay is logical certitude illustrated in age-wage profiles and in
+the boss-secretary parable. The pay rule is not entirely logical certitude, however, as
+it also asserts that maintenance consumption is not recovered. Age-wage profiles
+Chapter 6: Parallels with the Firm 2/4/16 24
+support this hypothesis too, as the constancy of pay differences to the end would
+otherwise be improbable. I made it the Darwinian axiom: maintenance is exhausted
+in satisfying our taste for survival.
+Ben-Porath’s life cycle was adjusted to express these features. Factor risk theory
+argued that human capital is the riskier and higher-return factor because capital of
+any kind takes on the risk characteristics of its owners and human capital is owned
+disproportionately by the risk-tolerant young.
+The Y rule contradicts the Y = I + C equation, while the pay rule contradicts the
+dogma that output equals pay plus work. National accounts are founded on both.
+That means I can expect tough resistance. I have tried to prepare for it by adding a
+little more to each argument with each chapter.
+Throughout this chapter, and throughout this book, I have bent over backwards to
+distinguish logical certitudes from falsifiable hypothesis. Economics needs both. But
+it needs to know which is which. The pay and Y rules, for example, are each
+certitude in part. The certain part is the heretical one. The present value and
+maximand rules follow from definitions, and compel expected recovery of human
+depreciation in pay. I then relied on the convergence axioms to infer actual recovery
+as a norm, not a invariable outcome, and on the new axiom of the biological
+imperative, as well as evidence from age-wage profiles, to infer that maintenance
+consumption is exhausted rather than recovered in pay as well.
+Chapter 6: Parallels with the Firm 2/4/16 25
+CHAPTER 7: PETTY’S IDEA
+How We Got to this Point
+I said that if I had any sense, I would have left the worms in the can by pretending to
+believe (4.1) as Mill did and as the rest of the world seems to do. Charts and tables
+confirm his prediction in his and their terms as well as mine. But Piketty’s argument
+was rightly criticized for leaving human capital out. Someone might or might not
+have faulted mine on the same ground if I had stopped at the end of Chapter 4.
+Whether they would have or not, every composer knows that the critic to hear is the
+one inside. What that critic told me was to gamble a case already won, open the can,
+and follow the argument and worms wherever they lead. That’s why my title
+promised other surprises.
+I risked following it past clarification into digression when I argued the pay rule. I
+since tried to justify the digression, if there was some, by showing how that rule
+could explain Piketty’s data for pay/net profit ratios in the twentieth century. And I
+tried to show how the pay rule and depreciation theory combined, making pay all
+human depreciation and no realized work at the end, gives the only convincing
+explanation of age-wage profiles showing rising or steady pay as human capital
+grades smoothly to zero. Risk theory reinforced this argument by revealing time
+discount rates for human capital as those made plain for physical capital owned by
+the same ageing cohorts. Every step was an adventure, and every step led to the
+next one. But I opened other questions and cans along the way, and the same critic
+tells me to follow the worms a little farther.
+I said that the cost of survival is adult consumption for the sake of investment in the
+next generation, that pure consumption is more or less the same, and that we will
+understand the maximand when we understand pure consumption. These threads
+lead into evolutionary biology, which reasons how traits are selected for lineage
+survival. The faithful need not take alarm. Although I mean natural selection, divine
+Chapter 7 Petty’s Idea 2/3/16 1
+selection should probably do as well. We are all at peace with the fact that people
+and other creatures care for their young.
+Economics and evolutionary biology are much the same. Helen Keller, born blind
+and deaf, might still have reasoned her way through much of both. Hamlet would
+have loved them. I love them most when they test the limits of logic, and consult the
+data only at the end. The theme from which both reason, as Herbert Spencer taught
+in the nineteenth century, is what he called “survival of the fittest.” Another
+philosopher, Karl Popper, found fault with this idea a century later. Popper was one
+of those I mentioned who disapprove of truisms. I haven’t read Popper, but gather
+that he thought it improper to define fitness as potential survival, and then measure
+it as survival. That objection is close to being understandable from an anti-truism
+viewpoint. But the reason why it is not quite a truism is instructive. Measurement
+implies an “empirical” world of data in external and observable reality. Spencer’s
+insight, really his paraphrase and generalization of Darwin’s, is not quite a truism
+because it carries the hypothesis that “potential” has an empirical meaning.
+Aristotle’s idea that potency precedes and explains act is called causality. Adam
+Smith’s friend and fellow Scotsman David Hume scarcely doubted causality, but
+argued correctly (I think) that it cannot be proved either by logic or by experiment.
+The fittest prove themselves such by surviving if and only if Aristotle was right.
+Natural selection simply means the untestable but little-doubted theory of causality.
+Spencer or Darwin or Gertrude Stein might be faulted for insulting our intelligence
+by stating the obvious. That shoe would fit Gertrude Stein. But Spencer and Darwin,
+like the little boy in Hans Christian Andersen’s The Emperor’s New Clothes, were
+stating the obvious unseen. Andersen’s point was that intelligence was not the thing
+lacking or what the little boy supplied. It was about how tradition and mind-sets and
+in-groups might sometimes need a look from outside. Peer review is not enough.
+Sometimes it perpetuates nonsense. The little boy was not a peer, but he could tell
+clothes when he saw them. (“Peer”, as any theorist knows, means someone who
+pees on your theory.)
+Chapter 7 Petty’s Idea 2/3/16 2
+I confess that this book casts me as that little boy crashing the economic party, and
+maybe the evolutionary biology one too, in trust that outsiders might have better
+chances to spot the obvious unseen. What else was the pay rule? I derived it easily
+from doctrines already accepted, I think, and anyhow hard to refute. Those were the
+total return turism and Ben-Porath’s equation for human growth. The maximand
+rule or deadweight loss rule would prove it as well. How could Becker have missed
+that what holds for investment in job training by employers holds for any
+investment by anyone in anything? How could students of the age-wage problem
+have missed the obvious solution? Investment implies expected recovery with
+interest, by the investor or a chosen donee, and recovery means recovery of
+depreciation. I belabor this point because tradition dies hard, and naturally tends to
+circle wagons under attack. I doubt that my surprise attack will meet the resistance
+Darwin’s found. Darwin’s met resistance founded on faith. I took pains to show that
+my version requires only selection for lineage survival, and that a benign Artificer
+might ordain the same.
+Evolutionary Biology and Hamilton’s Rule
+Economics, meaning any quantitative rationale of choice, normally describes
+humans and human choice. That goes for this book too. But some treatments of
+economics including this one are meant to fit other creatures as well. My axioms
+have kept that in mind. The mortal and reproducing population need not be human.
+Much of the animal kingdom, I think, shows convergent tastes and predictions or
+acts as if it did. The biological imperative is meant to apply to all. All, as I see it, own
+capital of both factors. Even protozoans own (“monopolize”) the nutrients they
+assimilate and the space they occupy. Humans are exceptional in their cultural
+accumulations of learning and technology shown in our secular (lasting) growth.
+But I did not make those features axioms.
+I argued that economics tended to reason explicitly or implicitly from the biological
+imperative, meaning what I call “ends” in lineage survival, from Petty through Smith
+Chapter 7 Petty’s Idea 2/3/16 3
+and Ricardo and Malthus and Mill, until the marginalist revolution shifted focus
+from objectives to the mechanics in supply, demand and price. Bioeconomics awoke
+a century later, largely it seems in response to the challenge of Hamilton’s rule. Now
+I will look at it too.
+My term “lineage survival” is unusual. It is meant not to take sides between “kin
+selection” and “group selection.” The kin selection idea was another word for
+Hamilton’s rule from his doctorial thesis in 1964. It said that genes encoding
+investment in close kin encode investment in likeliest sharers of those genes, and
+should tend to entrench and perpetuate themselves. His condition for investment
+was r 〉 bc . r here meant relatedness: ½ for offspring or siblings, ¼ for nephews or
+nieces or grandoffspring, and so forth. b meant benefit to the donee, and c meant
+cost to the investor. The sign > means “greater than”. The cost and benefit were
+measured in fitness itself, meaning chances to survive and breed. But that too meant
+“inclusive fitness” where investing in kin counted as breeding when adjusted for
+relatedness. The idea was that I give up some of my chances if I can increase yours
+to my net genic advantage in the long run. Hamilton allowed for exceptions
+including meiotic drive, which sometimes forecloses gene competition. His rule
+prevailed because it made mostly good predictions. Humans and creatures in
+general usually care for their own young first, if they have any, and for closely
+related young if not.
+Hamilton made it clear that cost c and benefit b in his hurdle rb > c respectively
+meant fitness given up by the investor and fitness grained by the investee. He
+further made it clear that fitness could be measured as R. A. Fisher’s “reproductive
+value” V(x) published in 1930 and 1957. V(x) meant likelihood at age x of
+reaching each successive age times expected offspring at that age. V(x), or Bob
+Trivers’ “reproductive success” RS, which simplifies V(x) to expected remaining
+offspring, is implicitly constant at the population scale unless there is population
+growth (Fisher’s “Malthusian parameter”). For creatures other than us, the
+Chapter 7 Petty’s Idea 2/3/16 4
+parameter typically fluctuates around zero and group fitness holds about where it
+started.
+Hamilton’s rule, applied to diploids like us where closest relatedness r absent
+inbreeding is ½, forbids investment where fitness gained (benefit) is less than twice
+fitness given up (cost). I see no escape from the inference that fitness would double
+with each generation, or more to account for cases where relatedness fell below ½. I
+see no relief in an interpretation, say, that each successive generation cures this
+imbalance by investing only half or less of its fitness and letting the rest lapse.
+Fitness is likelihood of leaving descendants of equal fitness. It is not strictly
+conserved, because likelihood is generally not identical to outcome. There is ex ante
+and ex post fitness. But the ex ante kind is meaningless unless potency, in Aristotle’s
+terms, is expected to converge to act. Hamilton’s rule should not have escaped this
+critique for half a century. It clearly has merit, but needs some different expression.
+Such a reformulation might treat rb/c as a maximand within practical constraints.
+We can see how it might be by looking at the context. Darwin’s idea is a competition
+for breeding success. This biological imperative is a powerful predictor in nature. It
+predicts that traits are selected for successful reproduction to the exclusion of all
+else. Evidence is impressive. “Semelparous” creatures who breed only once and do
+not invest postpartum care, like salmon and soybeans, die within hours. An octopus
+mother breeds only once, cares for her young a few weeks, and dies as they disperse.
+Nature is on a tight budget. Resources wasted soon become resources lost to
+thriftier lineages.
+Hamilton saw this. He was right in stressing the role of competition among
+individuals and individual heritable traits. Darwin did the same. One thing
+Hamilton’s rule leaves out, which is not to claim that he overlooked it, is that traits
+and their genes best at prioritizing self-replication might for that reason hurt
+chances of achieving it. We know this happens. Human tradition everywhere resists
+and punishes nepotism when it crosses a line. Jane Goodall reported the same for
+Chapter 7 Petty’s Idea 2/3/16 5
+her chimps at Gombe. I think I have seen it among the pack of dogs, led by my
+father’s favorite “Sean”, at Sutton Place. That would count as one of the practical
+constraints. Too little support for family over equally deserving others is seen as a

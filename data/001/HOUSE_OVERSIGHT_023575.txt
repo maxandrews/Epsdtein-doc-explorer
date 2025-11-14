@@ -1,0 +1,3092 @@
+﻿Global Equity Volatility Insights
+Why S&P vol dispersion may be the best
+way to trade a bubble in Tech
+we estimate 68% of the
+06 June 2017
+Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com
+US
+How to detect and position for a potential Tech Bubble
+Our investment strategists recently warned against the risk of an overshoot in US Tech,
+as data on valuations, relative performance, and inflows invoke echoes of the late ‘90s.
+However, rising Tech vol alongside rising Tech stock prices – a classic sign of an asset
+bubble – has yet to materialize, suggesting still early stages of bubble formation.
+Derivatives can be a key tool for trading bubbles, allowing investors to capture asset
+price upside while mitigating reversal risk. To this end, we like stock replacing FANG
+positions or overlaying Tech exposure with Nasdaq 100 (NDX) put spreads. Long
+volatility dispersion strategies are particularly well-suited for trading asset bubbles, in
+our view, as they can profit from both the inflation and deflation of a bubble without
+needing to time the top. Specifically, we like SPX 12M Top50 dispersion to position for
+a potential Tech Bubble as (i) the Top50 basket is dominated by Tech stocks, hence
+would benefit from any rise in their vol from currently low levels; (ii) the trade would
+benefit from any downward pressure on broad-market correlations as Tech stocks
+decouple from other large caps; and (iii) the late ‘90s Tech Bubble generated the most
+sustained period of elevated S&P vol dispersion in history.
+Europe
+DTE Sep17 collars can hedge DTE-TMUS merger risk; value in Enel bullish riskies
+DTE GY has run too fast, too quick: investors who own stock should consider hedging a
+pullback using a Sep17 collar (+17put/-18 call for 46bps) to hedge losses greater than
+2.9% while retaining upside to 18 (stock’s ~15yr high is 18.05). Extending our EU equity
+vs credit theme to single names, we find Enel 3m bullish risk reversals screen attractive
+as Enel’s projected 12m div yield is high versus Enel CDS (suggesting value in owning
+equity vs credit) and the price of 3M bullish risk reversals is low (versus other names) as
+well as versus history (2 nd 5y percentile).
+Asia
+Buy best-of puts to cheaply hedge a reversal in the melt-up rally
+While still high central bank liquidity may continue to push markets higher, heavy equity
+and option positioning suggests the risk of a market reversal. To minimize the cost of
+hedges and take advantage of the recent decline in volatility and correlation, we suggest
+owning 14-Sep-2017 95% strike best-of puts on KOSPI2/HSI/NKY at 0.8%, a 45%
+discount to average vanilla puts.
+>> Employed by a non-US affiliate of MLPF&S and is not registered/qualified as a research analyst under
+the FINRA rules.
+Refer to "Other Important Disclosures" for information on certain BofA Merrill Lynch entities that take
+responsibility for this report in particular jurisdictions.
+BofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a
+result, investors should be aware that the firm may have a conflict of interest that could affect the
+objectivity of this report. Investors should consider this report as only a single factor in making
+their investment decision.
+Refer to important disclosures on page 32 to 36. Analyst Certification on page 29. Price Objective
+Basis/Risk on page 29. 11753360
+Timestamp: 06 June 2017 01:43AM EDT
+Equity Derivatives
+Global
+Global Equity Derivatives Rsch
+MLPF&S
+Nitin Saksena
+Equity-Linked Analyst
+MLPF&S
+Stefano Pascale
+Equity-Linked Analyst
+MLPF&S
+Benjamin Bowler
+Equity-Linked Analyst
+MLPF&S
+benjamin.bowler@baml.com
+William Chan, CFA >>
+Equity-Linked Analyst
+Merrill Lynch (Hong Kong)
+Michael Youngworth
+Equity-Linked Analyst
+MLPF&S
+Clovis Couasnon >>
+Equity-Linked Analyst
+MLI (UK)
+Jason Galazidis >>
+Equity-Linked Analyst
+MLI (UK)
+Abhinandan Deb >>
+Equity-Linked Analyst
+MLI (UK)
+Nikolay Angeloff
+Equity-Linked Analyst
+MLPF&S
+See Team Page for List of Analysts
+Table 1: 3M volatility (weekly changes)
+Implied Realized
+S&P500 9.5 (-0.1) 7.3 (-0.4)
+ESTX50 13.0 (-0.4) 11.1 (-0.6)
+FTSE 10.6 (0.4) 9.2 (-0.5)
+DAX 12.2 (-0.7) 9.9 (-0.7)
+NKY 14.2 (-0.2) 12.5 (0.1)
+HSI 12.4 (0.3) 10.1 (-0.2)
+KOSPI 12.8 (-0.3) 10.6 (0.0)
+EEM US 15.4 (-0.1) 13.2 (-0.8)
+TOP40 15.1 (1.0) 10.9 (0.0)
+RDX 24.7 (1.2) 21.9 (0.0)
+IBOV 25.3 (0.5) 26.4 (-0.2)
+ISE30 19.6 (-0.2) 14.0 (-0.4)
+Source: BofA Merrill Lynch Global Research
+BofAML GFSI TM X-Asset Risk Landscape
+GFSI below ‘normal’ for longest period since summer 2014
+The GFSI continued its decline last week, falling to -0.21 as of 2-Jun from -0.17 a week
+prior. The indicator last spent a significant proportion of time below -0.2 back in
+summer 2014, when cross asset volatility recorded long term lows.
+• Equity risks led the broad based decline in stress across asset classes
+(Chart 2 and Chart 3), led by equity skew.
+• While most stresses fell, crude oil volatility was among the top gainers
+(Chart 2) as oil continued its slide despite the May OPEC meeting seeing
+agreement for extending production cuts.
+• Also, Euro member bond spreads recorded a historically significant move
+higher (Chart 5) as the potential for early Italian elections causing political
+instability amidst ECB tapering revived concerns about European sovereign risk
+Chart 1: Latest* stress across GFSI sub-components
+2.0
+1.5
+Red shaded area highlights components in
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+GFSI Stress
+1.61
+1.49
+Basis Swap USDJPY
+Govt-OIS EUR
+1.08
+0.99
+Basis Swap EURUSD
+Euro member Bond…
+0.81
+Bond Basis EUR
+USDJPY Skew
+Nikkei Skew
+Govt-OIS USD
+CDS Index Skew USD
+HY Bond Flow
+CDS Index Skew EUR
+Source: BofA Merrill Lynch Global Research. *Latest as of 2-Jun-17.
+Bond Basis USD
+IG Foreign Sovrn Bond…
+Libor-OIS USD
+GBPUSD Imp Vol
+Volume Flow
+Libor-OIS GBP
+Libor-OIS JPY
+Risk
+Skew
+Flow
+Green shaded area highlights components in
+Bullish territory
+-1.06
+-1.08
+-1.19
+-1.20
+-1.29
+EURJPY Skew
+AUDJPY Skew
+Equity Fund Flow EM
+Sub IG Foreign Sovrn…
+Libor-OIS EUR
+HY Corp CDS USD
+Comdty Imp Vol Crude
+IG Corp CDS EUR
+ESTX50 Skew
+IG Corp CDS USD
+HY Corp CDS EUR
+SP500 Skew
+USDJPY Imp Vol
+HSI Imp Vol
+FTSE Imp Vol
+Money Mkt Flow
+3Y/5Y Credit Curve EUR
+Comdty Imp Vol Gold
+ESTX50 Imp Vol
+Comdty Imp Vol Copper
+SP500 Imp Vol
+Int Rate Imp Vol USD
+Nikkei Imp Vol
+EURUSD Imp Vol
+Int Rate Imp Vol EUR
+Chart 2: Change** in stress across GFSI sub-components.
+0.4
+Change in GFSI Stress
+0.0
+-0.4
+-0.8
+0.23
+0.19
+CDS Index Skew USD
+Bond Basis EUR
+0.16
+0.10
+Comdty Imp Vol Crude
+Euro member Bond…
+0.09
+IG Foreign Sovrn Bond…
+GBPUSD Imp Vol
+Govt-OIS EUR
+FTSE Imp Vol
+Comdty Imp Vol Gold
+Source: BofA Merrill Lynch Global Research. **Latest as of 2-Jun-17. Change vs 1 week prior (26-May-17).
+Equity Fund Flow EM
+HSI Imp Vol
+Libor-OIS JPY
+USDJPY Imp Vol
+The GFSI Risk Allocator (using Bull, Bear & Neutral weights of 2, 0, 1) suggested a 21.7%
+overweight position on 2-Jun (vs 13.0% OW as of 26-May). The percentages of Bullish,
+Bearish and Neutral GFSI components (as used in the Risk Allocator) as of 2-Jun were
+30.4%, 8.7% and 60.9% respectively.
+3Y/5Y Credit Curve EUR
+EURJPY Skew
+IG Corp CDS EUR
+Sub IG Foreign Sovrn…
+Volume Flow
+USDJPY Skew
+Bond Basis USD
+Int Rate Imp Vol USD
+HY Corp CDS EUR
+SP500 Imp Vol
+HY Corp CDS USD
+AUDJPY Skew
+Basis Swap EURUSD
+Money Mkt Flow
+Libor-OIS GBP
+Nikkei Imp Vol
+Risk
+Skew
+Flow
+HY Bond Flow
+EURUSD Imp Vol
+Libor-OIS EUR
+Comdty Imp Vol Copper
+Libor-OIS USD
+ESTX50 Imp Vol
+Govt-OIS USD
+IG Corp CDS USD
+Int Rate Imp Vol EUR
+-0.07
+CDS Index Skew EUR
+-0.10
+Basis Swap USDJPY
+-0.29
+-0.38
+ESTX50 Skew
+Nikkei Skew
+-0.53
+SP500 Skew
+2 Global Equity Volatility Insights | 06 June 2017
+Chart 3: Equity stresses fell by the most last week
+Chart 4: Among regions, Japan & US stresses declined the most
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+-0.8
+-0.9
+0.05 0.03 0.01
+-0.02
+-0.12
+Commodities Credit FX Rates Equities
+0.10
+0.00
+-0.10
+-0.20
+-0.30
+-0.40
+-0.50
+0.02
+-0.01
+-0.05
+-0.13
+EM Europe US Japan
+Latest stress (02-Jun-17)
+Change in stress
+Latest stress (02-Jun-17)
+Change in stress
+Source: BofA Merrill Lynch Global Research. 1wk change (26-May-17 to 2-Jun-17).
+Source: BofA Merrill Lynch Global Research. 1wk change (26-May-17 to 2-Jun-17).
+Chart 5: Top 10 movers in stress (1-week abs chg %-ile vs history*)
+%-ile of abs chg in stress vs history*
+100%
+90%
+80%
+70%
+60%
+50%
+86%
+Nikkei Skew
+83% 82%
+SP500 Skew
+Euro member
+Bond Spread
+76%
+Libor-OIS USD
+72%
+CDS Index Skew
+USD
+IG Foreign Sovrn
+Bond Spread
+63% 61% 61% 61% 59%
+ESTX50 Skew
+Basis Swap
+USDJPY
+Stress fall
+Stress rise
+Libor-OIS JPY
+Libor-OIS EUR
+Source: BofA Merrill Lynch Global Research. * %-ile of weekly move in stress vs all historical weekly
+moves (earliest 3-Jan-00). Bar colours represent rise (red) or fall (green) in stress. 1wk change (26-
+May-17 to 2-Jun-17).
+Chart 6: Global volatility & credit spread stress in the GFSI
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+-0.8
+-1.0
+-1.2
+-1.4
+0.06 0.05 0.03 0.00
+Sovrn risk
+Latest stress (02-Jun-17)
+Commodity Vol
+FX Vol
+Equity Vol
+Change in stress
+HY CDS
+Source: BofA Merrill Lynch Global Research. 1wk change (26-May-17 to 2-Jun-17).
+-0.01 -0.02 -0.03
+IG CDS
+Rates Vol
+Global Equity Volatility Insights | 06 June 2017 3
+Volatility in the US
+How to trade the rise & fall of a potential Tech Bubble
+“Alexa, has the Tech Bubble started?”
+Our investment strategists recently warned against the risk of an overshoot in Tech,
+noting that the longer it takes Central Banks to tighten, the greater the risk of Tech and
+Growth stocks entering a speculative frenzy. Data on relative performance, valuation,
+and flows are reminiscent to varying degrees of the early stages of a bubble:
+• Market cap hegemony: Following the GFC, Tech stocks ousted Financials from
+their top position in terms of market cap and now account for 23% of the S&P500,
+the highest %-age from any single sector since the dotcom bubble (Chart 7).
+• Dazzling growth vs. value outperformance: S&P 500 Growth stocks (SGX) on
+aggregate cost ~1.4x as much as their Value counterparts (SVX), the largest
+premium since the dotcom bubble (Chart 8). Notably, the S&P 500 Growth index is
+dominated by Tech stocks, which account for 36% of its total market cap.
+• Third longest streak of monthly gains: In May, the Nasdaq 100 recorded its
+seventh consecutive monthly gain, the longest streak since 2009. Remarkably, the
+index has managed to establish a longer streak only twice in its history, in 1986 (10
+consecutive months) and in 1995 (8 months). The rally in these two episodes
+ultimately came to an abrupt halt. However, the index would have substantial
+further upside from current levels if it were to achieve similar gains (Chart 9).
+• Lofty valuations: The valuation of Tech as measured by price to consensus forward
+12M earnings expectations recently hit its highest value since Nov-07 and is
+exhibiting signs of acceleration (Chart 10). However, Tech remains far cheaper than
+its dotcom bubble highs.
+• Irrational exuberance: Inflows to Tech funds are rising at their fastest annualized
+rate (25% of AUM) in 15 years, a sign of renewed exuberance.
+Chart 7: The last instance where a single sector dominated SPX market
+cap as the Tech sector does now was the dotcom bubble era
+35% Sector leadership in US equities
+Chart 8: Growth has only been relatively more expensive vs. Value
+during the peak of the dotcom bubble
+1500
+1.8
+30%
+1250
+1.6
+25%
+20%
+15%
+1000
+750
+500
+1.4
+1.2
+10%
+250
+1
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+0
+0.8
+Tech
+Financials
+Discretionary
+Industrials
+Staples
+Energy
+Largest sector weight in the S&P500
+Current = 95th %-ile
+Source: BofA Merrill Lynch Global Research. Monthly data from Jan-1990 to Jun-17.
+1995
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+A / B (RHS) S&P Value (SVX) (B) S&P Growth (SGX) (A)
+Source: BofA Merrill Lynch Global Research. Daily data from 30-Jun-95 to 5-Jun-17
+4 Global Equity Volatility Insights | 06 June 2017
+Chart 9: In May, the Nasdaq recorded its longest streak of monthly gains
+since 2009 (7M). However, compared to the only other instances of
+longer streaks (‘86, ‘95) the current bull run is still only half the size
+Longest Tech Bull Runs with calendar monthly returns
+160
+150
+140
+130
+120
+110
+100
+90
+80
+2.3%
+5.3% -0.3%
+1.4%
+1.4% -0.8%
+5.7%
+6.0%
+5.6%
+4.1%
+10.2%
+-2.9%
+4.9%
+0.5%
+-11.1%
+5.0% 3.9%
+3.7%
+2.7%
+4.2%
+9.2%
+4.4%
+= 100 as of 30-Sep-85
+6.7% 3.4%
+0.3%
+= 100 as of 30-Dec-94
+1.1%
+0.2%
+5.2% 2.0%
+= 100 as of 31-Oct-16
+Sep-85
+Nov-85
+Dec-85
+Jan-86
+Feb-86
+Apr-86
+May-86
+Jun-86
+Jul-86
+Jan-95
+Mar-95
+Apr-95
+May-95
+Jun-95
+Aug-95
+Sep-95
+Oct-95
+Nov-95
+Source: BofA Merrill Lynch Global Research. Data from Sep-85 to 31-May-17
+Nov-16
+Dec-16
+Jan-17
+Feb-17
+Apr-17
+May-17
+May-86 Bull Run Oct-95 Bull Run May-17 Bull Run
+Chart 10: Tech valuations seem to be gaining momentum and are now at
+their highest levels since before the GFC but remain far from dotcom
+bubble peaks
+60
+50
+40
+30
+20
+10
+0
+1986
+1987
+1989
+1991
+1993
+1994
+1996
+1998
+2000
+2001
+2003
+2005
+2007
+2008
+2010
+2012
+2014
+2015
+SPX Tech P/E (price to consensus forward 12m earnings expectations)
+Current
+Source: BofA Merrill Lynch Global Research. Monthly data from Jan-86 to May-17.
+In addition to strong price performance, lofty valuations, and exuberant inflows, asset
+bubbles also tend to have two other hallmarks, best seen through the derivatives lens:
+(i) asset volatility rising alongside asset prices (Charts 11 & 12), and (ii) declining
+correlation as assets closest to the source of the bubble decouple from those farther
+removed (Chart 11).
+Chart 11: During the 2000s Tech Bubble, Tech vol rose with Tech stocks
+and broader market correlations fell as Tech stocks decoupled from
+other large caps – both classic signs of an asset bubble
+70%
+5000
+60%
+50%
+4000
+40%
+3000
+30%
+2000
+20%
+10%
+1000
+0%
+0
+'95 '96 '97 '98 '99 '00 '01 '02 '03 '04
+NDX 1Y realized vol
+NDX (right)
+SPX 1Y realized correl
+Source: BofA Merrill Lynch Global Research. Daily data from 3-Jan-95 through 31-Dec-03.
+SPX correlation = average pairwise realized correlation of all 500 stocks.
+Chart 12: Historically, in major asset bubbles, realized volatility has
+tended to rise meaningfully not only after the bubble deflates, but also
+in the run-up to the market peak
+Avg. 1M realized volatility
+75%
+65%
+55%
+45%
+35%
+25%
+15%
+Asset bubbles (peak):
+* Dow Jones (Sep-29)
+* Gold (Jan-80)
+* Nikkei (Jan-90)
+* Nasdaq 100 (Mar-00)
+* HSCEI (Oct-07)
+* Crude oil (Jul-08)
+* Biotech (Jun-15)
+-52
+-48
+-44
+-40
+-36
+-32
+-28
+-24
+-20
+-16
+-12
+-8
+-4
+0
+4
+8
+12
+16
+20
+24
+Source: BofA Merrill Lynch Global Research.
+Weeks from peak
+While Nasdaq 100 (NDX) implied volatility has spiked in recent weeks and now trades in
+the 94 th percentile as a spread to S&P 500 (SPX) implied volatility (Chart 14), the
+absolute level of NDX 3M implied vol remains historically low (2 nd percentile since Jun-
+09). In our view, at least for now, the spread widening is more of a response to the
+outsized sell-off seen in Tech stocks on 17-May rather than the volatility market trying
+to price in the onset of another Tech Bubble. Indeed, the -2.5% drop in the NDX on 17-
+May was a six standard deviation (6σ) event relative to trailing realized volatility (and the
+fourth worst risk-adjusted daily return since 1985), even more extreme than the 5σ
+decline experienced by the S&P.
+Global Equity Volatility Insights | 06 June 2017 5
+Chart 13: The -2.5% drop in the NDX on 17-May was a six standard
+deviation (6σ) event relative to trailing realized volatility and the fourth
+worst risk-adjusted daily return since 1985
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+'85 '87 '89 '91 '93 '95 '97 '99 '01 '03 '05 '07 '09 '11 '13 '15 '17
+Daily NDX return / trailing (EWMA) vol
+17-May-17
+Source: BofA Merrill Lynch Global Research. Daily data from 4-Feb-85 through 2-Jun-17.
+EWMA = exponentially-weighted moving average realized volatility with lambda = 0.94.
+Chart 14: The 6σ sell-off in the NDX on 17-May has helped drive shortdated
+Tech implied vol higher relative to S&P vol, although the absolute
+level of Tech vol still remains historically low
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+NDX vol = 2nd %-ile
+NDX-SPX vol spread = 94th %-ile
+Jun-09 Jun-11 Jun-13 Jun-15 Jun-17
+NDX 3M ATM implied vol
+NDX - SPX 3M ATM implied vol spread (right)
+Source: BofA Merrill Lynch Global Research. Daily data from 1-Jun-09 through 2-Jun-17.
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+Hedge near-term reversal risk via FANG stock replacement or NDX put spreads
+As we have previously noted, asset bubbles can be notoriously difficult to trade, as
+fundamentals give way to chasing higher highs, and derivatives can be a key tool for
+capturing asset price upside while mitigating reversal risk.
+Chart 15: Proxy hedge screen for a Nasdaq 100 (NDX) benchmark suggests NDX is the best hedge for itself, as basis risk runs too high with other assets
+Nov08 (-39%) Mar08 (-18%) Mar09 (-15%) Aug11 (-14%) Feb16 (-13%)
+Jul06 (-13%) Jul10 (-12%) Aug15 (-10%) Nov12 (-10%) May12 (-9%)
+ESTX50
+NIKKEI
+HYG
+FTSE
+TWSE
+HSI
+NIFTY
+HSCEI
+KOSPI
+Aluminum
+EEM US
+TLT*
+ASX200
+RDXUSD
+AUDUSD
+GLD*
+CADUSD
+NZDUSD
+Copper
+EURUSD
+USDJPY
+BOVESPA
+TOP40
+Crude Oil
+GBPUSD
+S&P500
+RTY
+Source: BofA Merrill Lynch Global Research. Data as of 2-Jun-17. *Call option volatility used.
+We continue to like hedging the risk of a US Tech overshoot via stock replacement
+strategies, for example, stock replacing long “FANG” positions with either cheap calls on
+the individual FANG stocks or with outperformance calls on FANG vs. S&P.
+NDX
+Average
+-0.5 0.0 0.5 1.0 1.5 2.0 2.5
+Estimated hedge benefit per unit cost vs. NDX
+6 Global Equity Volatility Insights | 06 June 2017
+For those who wish to remain fully invested and/or seek broader index-level hedges for
+Tech positions, we suggest 3M put spreads on NDX for two reasons: (i) our cross-asset
+hedging analysis (Chart 15) shows little value in proxy hedging Nasdaq 100 exposure,
+even with relatively lower vol S&P options, as the basis risk has tended to be too high
+historically for proxy hedging to be reliably beneficial; and (ii) compared to outright puts,
+put spreads help limit long exposure to short-dated NDX implied volatility that is low but
+not cheap (Chart 14).
+Hedge inflation & deflation of a Tech Bubble via SPX 12M Top50 dispersion
+Dispersion strategies can be particularly attractive hedges for asset bubbles as
+idiosyncratic market moves generate high volatility (to which dispersion is positively
+correlated) with a limited rise in correlation (to which dispersion is negatively
+correlated). Importantly, as seen from Chart 11, this can occur both during the run-up to
+the market peak as well as after the bubble pops. In other words, long vol dispersion
+strategies can profit from both the inflation and deflation of an asset bubble, without
+requiring an investor to time the top.
+With the SPX Top50 largely dominated by Tech stocks (34% of total market cap) and
+with average longer-dated single stock vol in the basket trading close to 3yr lows (12M
+SPX Top50 ATMf implied vol is in its 2 nd %-ile since Jun-14, Chart 16), we recommend
+investors go long 12M SPX Top50 dispersion. Chart 18 shows that such a strategy
+would have recorded its best performance during the formation and subsequent
+bursting of the dotcom bubble as volatility increased in tandem with falling correlation
+(see Chart 11).
+Importantly, while implied correlation continues trading in a new, lower range since the
+US election, the spread to realized correlation has remained healthy with the SPX Top50
+12M implied vs. 6M realized correlation spread in its 81 st %-ile over the past 3 years
+(Chart 17). This makes selling the correlation premium (inherently embedded in long
+dispersion strategies) attractive vs. history.
+Chart 16: Average SPX Top50 single stock 12M ATMf implied vol is
+depressed vs. history, in part driven by Tech market cap dominating the
+index and Tech vol the 2 nd lowest across sectors on a historical basis
+50%
+40%
+30%
+20%
+10%
+0%
+SPX Top50
+Tech
+Health Care
+Discretionary
+Staples
+Financials
+3yr %-ile of average 12m ATMf implied vol
+Industrials
+Source: BofA Merrill Lynch Global Research. Daily data from 5-Jun-14 to 5-Jun-17.
+Energy
+Sector market cap as a %-age of total SPX Top50 market cap
+Telecom
+Chart 17: Implied to realized correlation spread on the SPX Top50
+basket is historically elevated, making selling the correlation premium
+embedded in long dispersion strategies attractive
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Jun-14 Dec-14 Jun-15 Dec-15 Jun-16 Dec-16 Jun-17
+SPX Top50: 12m ATMf implied vs. 6m realized correlation (A - B)
+12m SPX Top50 ATMf implied correlation (A)
+6m SPX Top50 realized correlation (B)
+Current (81st %-ile)
+Source: BofA Merrill Lynch Global Research. Daily data from 2-Jun-14 to 2-Jun-17.
+Global Equity Volatility Insights | 06 June 2017 7
+Chart 18: Long SPX Top50 dispersion strategies performed the best
+during the dotcom bubble era, providing adequate convexity during
+both its formation as well as its bursting
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Long dispersion provided better convexity vs. outright long vol position both
+during the 'making' and the 'bursting' of the dotcom bubble
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2m SPX realized dispersion
+2m SPX realized vol
+Source: BofA Merrill Lynch Global Research. Daily data from 14-Mar-90 to 2-Jun-17
+8 Global Equity Volatility Insights | 06 June 2017
+Notable trends and dislocations (US)
+Major US equity indices soar to all-time highs as the low vol regime persists
+Friday marked the end of the second full week following the political turmoil on Wed,
+17-May. Since then, volatility has once again collapsed (10d realized is at 4.6%) and the
+S&P 500 term structure of volatility has steepened with the 3m-1m spread trading in
+the 90 th 2y %-ile. Low S&P 500 short-dated vols pushed down the back end of the curve
+(1y and beyond), while Russell 2000 1y+ vols remained bid (Chart 19). Last week, the VIX
+printed 2 of its 15 closes below 10 since 1990 (Chart 20). Vol-of-vol remained
+supported with the VVIX/VIX ratio setting yet another record (8.58) on Friday. All of this
+happened as SPX, NDX and INDU finished the week at all-time highs.
+Chart 19: In the trading sessions following the political turmoil and
+ensuing volatility spike on 17-May, long-term vols (1y and above) reset
+lower for SPX but remained bid for RTY
+20%
+18%
+16%
+14%
+12%
+10%
+8%
+6%
+4%
+1m 3m 6m 1y 1.5y 2y
+RTY change (RHS) SPX change (RHS) SPX 17-May
+SPX 1-Jun RTY 17-May RTY 1-Jun
+Source: BofA Merrill Lynch Global Research.
+20%
+15%
+10%
+5%
+0%
+-5%
+The political turmoil on 17-May caused short-term vols to reset
+higher and the VIX jumped to 15.59 from 10.65 the prior day.
+Short-term vols in turn moved the back end of the curve higher
+with e.g. SPX (RTY) 1y vols trading higher by 1.05% (0.79%).
+However, the agitation in equity markets was short-lived. The
+front end of the curve collapsed over the subsequent trading
+sessions and resulted in a very steep term structure for both
+indices, similar to what we have become accustomed to over
+the prior months.
+By the end of last week, SPX long term vols (1y and beyond) had
+moved to virtually the same levels where they traded prior to
+the vol spike. RTY long-term vols, however, remain bid.
+Chart 20: 2017 is already the 5 th calmest year for the VIX with 76 YTD
+closes below 12. Despite the short-lived vol spike on 17-May, the VIX
+had a very calm month of May, extending into June as it printed 6 out of
+its 15 historic closes below 10
+Number of VIX closes below 12
+140
+120
+100
+80
+60
+40
+20
+0
+125
+97
+83 81
+76
+56
+Average VIX level (RHS) Max VIX level (RHS)
+Source: BofA Merrill Lynch Global Research, Bloomberg. Daily data from Jan-90 to 5-Jun-17.
+40
+35
+21
+7 6 6
+'06 '95 '93 '05 '17 '94 '14 '07 '16 '92 '04 '13 '15
+YTD
+1
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+With only five months of the year behind us, the VIX has already
+closed below 12 on 76 days. Since 1990, only 4 other years
+have seen a larger number of trading sessions with the VIX
+closing below 12.
+Of the 15 trading sessions in VIX’s history since 1990 when the
+index closed below 10, 6 were between May-17 and Jun-17. The
+low short-dated implied vol is in part driven by realized vol; 10d
+is at 4.5%, which is already subdued even for the current lowvol
+regime (17th %-ile since the US election last November).
+Global Equity Volatility Insights | 06 June 2017 9
+Rates vol is near all-time lows and is favorable for positioning for a break-out
+Since the US Election last November, the 10y US Treasury rate has fluctuated between
+2.17% and 2.63%, constantly being jostled up or down by various economic forces. It is
+currently trading towards the bottom of that range. Our rates strategists have a yearend
+target of 2.85% for the 10y rate (just above the median forecast).
+Long-term rates have remained low due to uncertainty around Fiscal policy (Trump’s
+plans on infrastructure spending), subdued inflation expectations and a slower than
+expected Fed hiking cycle. On the other hand, a near full-employment economy, hopes
+for infrastructure spending, potential for higher inflation driven by energy prices &
+increased government spending and an accelerated hiking cycle are providing a floor for
+long-term rates. In the end, uncertainty remains and analysts’ estimates for the yearend
+target vary widely between 1.6% and 3.7% (based on 59 forecasts with median and
+mean of 2.8%).
+For investors who believe that long-term rates will break out of their range we
+recommend going long TLT 6m 35-delta strangles. The structure has rarely been
+cheaper in history (Chart 22) and at present TLT 6m implied vol is 94bps below 6m
+realized, with the spread at its lowest since Aug-15. A 3m version of the 35-delta
+strangle prices just as attractively versus its history.
+Chart 21: Rates volatility, as measured by the Merrill Option Volatility
+Estimate index (MOVE) and by TLT (20+ year bond ETF) 3m ATMf vols,
+are the lowest they have been all year and are very near the all-time
+lows
+300
+250
+200
+150
+100
+50
+0
+Jan-90
+Jan-92
+Jan-94
+Jan-96
+Jan-98
+Jan-00
+Jan-02
+Jan-04
+Jan-06
+Jan-08
+Jan-10
+Jan-12
+Jan-14
+Jan-16
+25%
+20%
+15%
+10%
+MOVE Index 2-Jun-17 TLT 3m ATMf vol 2-Jun-17
+Source: BofA Merrill Lynch Global Research. Daily data from Jan-90 to Jun-17 for MOVE Index and Jun-
+12 to Jun-17 for TLT vols.
+5%
+0%
+Chart 22: With vol and skew in favor of the structure, the price of a TLT
+6m 35d strangle is near all-time lows. Investors can go long the trade to
+position for a break-out from the range
+7.0%
+6.5%
+6.0%
+5.5%
+5.0%
+4.5%
+4.0%
+3.5%
+3.0%
+US Nov-16
+Election
+Jun-12
+Oct-12
+Feb-13
+Jun-13
+Oct-13
+Feb-14
+Jun-14
+Oct-14
+Feb-15
+Jun-15
+Oct-15
+Feb-16
+Jun-16
+Oct-16
+Feb-17
+Jun-17
+Price of TLT 6m 35-delta strangle 2-Jun-17 TLT (RHS)
+Source: BofA Merrill Lynch Global Research. Daily data from Jun-12 to Jun-17.
+150
+130
+110
+90
+70
+50
+30
+10 Global Equity Volatility Insights | 06 June 2017
+Chart 23: Steep put skew in FXB , the ETF underlying GBP, favors buying
+downside protection via cheap put spreads against the odds of a hung
+parliament outcome in the UK general election
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Jun-16
+Jul-16
+Aug-16
+Sep-16
+Oct-16
+Nov-16
+Dec-16
+Jan-17
+Feb-17
+Mar-17
+A - B 5d MA (RHS)
+1m Sterling (FXB) 95% implied vol (A)
+1m Sterling (FXB) ATMf implied vol (B)
+Current
+Apr-17
+May-17
+Source: BofA Merrill Lynch Global Research. Daily data from 5-Jun-16 to 6-Jun-17.
+4%
+3%
+2%
+1%
+0%
+The UK general election is scheduled to take place on Thu, 8-
+Jun-17. When the election was called on 18-April, the polls
+pointed to a landslide victory for the Conservative Party. This
+boosted the UK’s currency as investors assumed that such an
+outcome would lead to a “smoother” Brexit. Indeed, on that day
+the Sterling (GBPUSD) recorded its third best daily performance
+over the past 8 years.
+However, while official polls still suggest an outright majority
+for the Conservative Party, the odds of a hung parliament have
+increased in recent weeks. As a consequence the boost in the
+currency after the election was called has slightly faded. With
+significant further downside room to its recent pre-rally lows
+and FX markets complacent with prevailing opinion poll data,
+there clearly could be a significant near-term correction in the
+sterling if the probability of a hung parliament becomes reality.
+Hence we favor hedging downside risk in sterling via cheap FXB
+put spreads to lever steep put skew (3m 95%-ATMf implied vol
+spread at its 1-yr 90 th %-ile).
+Table 2: Current S&P500 volatility and correlation measures relative to the prior two year of historical daily data
+1-week change
+Over 2-year historical period
+2 Jun 17 26 May 17 Change
+Current
+ranking
+Minimum 25% Median 75% Maximum
+1-month ATM implied volatility 7.4% 7.6% -0.2% 0.1% 7.4% 10.0% 11.8% 14.5% 31.8%
+1-year ATM implied volatility 13.8% 13.9% -0.1% 2.5% 13.4% 15.4% 16.2% 17.3% 22.5%
+1-week intraday realized volatility 6.2% 6.1% 0.1% 3.7% 5.2% 8.5% 10.7% 14.0% 53.7%
+1-year minus 1-month term structure 6.3% 6.3% 0.0% 97.8% -12.0% 2.7% 4.3% 5.4% 7.0%
+3-month 90 minus 110 skew 7.9% 8.7% -0.8% 4.7% 7.1% 9.5% 11.3% 11.8% 13.8%
+1-year top 50 implied correlation 45.42 45.85 -0.44 6.7% 42.03 49.79 54.34 57.14 65.55
+3-month top 50 realized correlation 27.75 30.72 -2.97 24.4% 12.57 27.90 37.28 48.45 60.41
+VIX 1-month ATMf implied vol 76.5% 75.9% 0.6% 20.4% 61.2% 77.9% 85.0% 95.2% 162.2%
+VIX 1-month 110 minus 90 skew 28.4% 28.5% -0.1% 96.2% 9.3% 18.6% 21.5% 23.8% 30.3%
+Source: BofA Merrill Lynch Global Research
+Global Equity Volatility Insights | 06 June 2017 11
+Volatility in Europe
+Notable trends and dislocations (Europe)
+European equities were mostly flat over the week with the notable exception of the DAX
+which rallied 1.8% led by Bayer (which accounts for almost 10% of the index). In
+contrast, the Russian RDXUSD dropped by 3.3% as oil prices continued to decline.
+Short-dated (3M) implied vols dropped to 2y lows on the ESTX50, DAX and CAC which
+helped push 12M-3M volatility term-structures to 2y highs on all three indices.
+• The short 1xAug / long 2x Sep / short 1x Oct V2X futures fly jumped to 3.7v
+on 31-May given speculation around early Italian elections. This is higher than
+equivalent V2X flies at the same number of days to both the UK referendum and
+the French elections. The current price is higher than 94% of the values of
+historical flies 1d before the expiry of the earliest leg, suggesting it has ample
+room to trade lower should political uncertainty abate by Aug.
+• SX5E 2Y var convexity (var strike vs ATMf vol) has been driven lower by (A)
+a decline in the Tail liquidity Risk Premium and (B) volatility skew becoming
+more linear (i.e., less convex in strike)
+• GBPUSD short-dated (1wk) implied has reached its 92nd 4yr percentile ahead of
+the UK snap election on 8-Jun. It is however still at least 2.7v below the levels
+witnessed ahead of previous well known political catalysts.
+• DTE GY has run too fast, too quick: hedge a potential reversal using a Sep17
+collar (+17put/-18 call) for 46bps to hedge losses greater than 2.9% while
+retaining upside to 18 (near 15yr high of 18.05) by the Sep expiry
+• Equity vs credit: Enel stock attractive vs CDS given cheap bullish risky &
+high div yield vs CDS: Among 50 companies which have high dividend yields
+relative to bond yields (as highlighted by BofAML credit and equity strategists),
+we note that Enel’s projected 12m div yield is higher than its CDS and the price
+of 3M bullish risk reversals are cheap (vs other names and vs a 5-year history).
+ESTX50 Sep/Oct fwd vol rose as early Italian elections are (slightly) more likely
+According to our economists, the agreement reached between major Italian parties on a
+German-style proportional electoral law has made early elections more likely. They note
+that the Italian press cite possible early election dates between 10-Sep and 22-Oct, i.e.,
+almost entirely within the V2X Sep future’s volatility bucket (which also encompasses
+German elections). This may in part be why the short 1xAug / long 2x Sep / short 1x Oct
+V2X futures fly jumped to 3.7v on 31-May, which is higher than equivalent flies ahead of
+both the UK referendum and recently concluded French elections (Chart 24). However,
+our economists view an early vote within September as technically difficult.
+12 Global Equity Volatility Insights | 06 June 2017
+Chart 24: The V2X Aug17/Sep17/Oct17 futures fly reached 3.7v on 31-
+May. This is higher than equivalent flies at the same number of days
+before both the UK referendum and recently concluded French elections
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+Italian/German election (Aug/Sep/Oct) fly
+Italian referendum (Oct16/Nov16/Dec16) fly
+UK referendum (May16/Jun16/Jul16) fly
+French election (Mar/Apr/May) fly
+120 110 100 90 80 70 60 50 40 30 20 10 0
+Trading days to event
+Source: BofA Merrill Lynch Global Research. Data: 8-Jan-16 to 5-Jun-17.
+Chart 25: The V2X Sep17-Oct17 spread is actually significantly lower
+than the equivalent UK referendum and French election spreads,
+suggesting the majority of excess volatility is being priced in SX5E
+Sep/Oct fwd vol
+8
+6
+4
+2
+0
+-2
+Italian/German election (Sep-Oct) spread
+Italian referendum (Nov16-Dec16) spread
+UK referendum (Jun16-Jul16) spread
+French election (Apr-May) spread
+120 110 100 90 80 70 60 50 40 30 20 10 0
+Trading days to event
+Source: BofA Merrill Lynch Global Research. Data: 8-Jan-16 to 5-Jun-17.
+Chart 26: The current price of the V2X Aug/Sep/Oct fly would have
+overestimated the value of a 1d/26d/46d fly (i.e., equivalent to the
+Aug/Sep/Oct fly 1d before the Aug expiry) 94% of the time since Jun-09
+6
+4
+2
+0
+-2
+-4
+-6
+French elections (~13 vols)
+UK referendum (~4 vols)
+The current price of the V2X Aug/Sep/Oct fly would have
+overestimated the value of a 1d/26d/46d fly (i.e., equivalent
+tenor to the Aug/Sep/Oct fly 1d before the Aug expiry) 94% of
+the time since Jun-09. This suggests it has ample room to trade
+lower should political uncertainty abate by Aug. However, if
+instead implied risk becomes more concentrated in the 20-Sep
+to 20-Oct period ahead of the Aug expiry (due to, say, political
+developments in Italy or Germany increasing risk perception),
+the fly would stand to gain considerably.
+-8
+'09 '10 '11 '12 '13 '14 '15 '16
+Price of 1d / 26d / 46d fly* (equiv. of Aug/Sep/Oct fly 1d before Aug expiry)
+Current price of Aug/Sep/Oct fly
+Source: BofA Merrill Lynch Global Research. Data: 2-Jun-16 to 1-Jun-17. *Using constant maturity
+futures.
+Global Equity Volatility Insights | 06 June 2017 13
+Chart 27: SX5E 2Y var convexity (var strike vs. ATMf vol) has been
+driven lower by (A) a decline in the Tail liquidity Risk Premium and (B)
+volatility skew becoming more linear (i.e., less convex in strike)
+(A) VarSwap - 1dStrip TRP
+(B) VarSwap - Linear skew approximation*
+8%
+(A) + (B)
+VarSwap - ATMf vol
+6%
+4%
+2%
+We recently noted that ESTX50 long-dated (2Y) variance
+convexity (var strike vs. ATMf vol) had declined considerably in
+recent months. This has been driven by (A) a decline in the Tail
+liquidity Risk Premium (as defined in our piece More to variance
+swaps than meets the eye) and (B) volatility skew becoming
+more linear (i.e., 80-90 skew being similar to 90-100 skew).
+Both these components of variance convexity suggest that
+long-dated ESTX50 tails (e.g., VarSwaps or far OTM puts) are
+historically cheap vs. ATMf vol.
+0%
+Sep12
+Jan13
+May13
+Sep13
+Jan14
+May14
+Sep14
+Jan15
+May15
+Sep15
+Jan16
+May16
+Sep16
+Jan17
+May17
+Source: BofA Merrill Lynch Global Research. Data: 21-Sep-16 to 31-May-17. *Linear approximation of
+variance strike = ATMf vol squared x (1 + 3 x T x skew squared), where T is time to maturity and skew
+= [ implied vol at strike 90 – implied vol at strike 100 ] / [ 90 – 100 ]. For more details see Derman’s
+1999 paper: More than you ever wanted to know about volatility swaps.
+Chart 28: GBPUSD short-dated (1wk) implied has reached its 92 nd 4yr
+percentile ahead of the UK snap election on 8-Jun. It is, however, still at
+least 2.7v below the levels witnessed ahead of previous known events.
+35
+30
+25
+20
+15
+10
+Sep-14 Scottish
+referendum
+May-15 UK
+general election
+Jun-16
+Brexit vote
+Jan-17 Brexit
+supreme court
+rulling
+Jun-17 snap
+UK election
+With the UK parliamentary elections less than one week away,
+short-dated (1wk) implied vols on both the FTSE and GBPUSD
+appear more elevated vs. history, compared to last week.
+GBPUSD 1wk ATM vol is exhibiting some concern as it is
+trading in its 92 nd 4yr percentile. It is, however, still at least 2.7v
+lower than the same measure ahead of previous known political
+events. In contrast, FTSE 1wk ATMf implied vol is still well
+below 4yr median levels.
+5
+0
+FTSE 100 1wk vol
+GBPUSd 1wk vol
+May-14
+Aug-14
+Nov-14
+Feb-15
+May-15
+Aug-15
+Nov-15
+Feb-16
+May-16
+Aug-16
+Nov-16
+Feb-17
+May-17
+Source: BofA Merrill Lynch Global Research. Data from 5-Jun-13 to 5-Jun-17
+Deutsche Tel has run too fast too quickly; hedge using a Sep17 +17P/-18C collar
+BofAML equity telecom analysts have reiterated their recommendation to be cautious
+on Deutsche Tel as the company may face regulatory hurdles in their T-Mobile merger.
+Given the stock has outperformed European telcos (SXKP) by 15.1% over the past 1
+year, investors who own the stock should consider hedging downside with a long DTE
+GY Sep17 17 put, short DTE GY Sep17 18 call for 0.46%, in our view. Indeed, spending
+0.46% to protect gains is attractive as the price of the structure has rarely been cheaper
+(only 14% of the time since Jun-08, Chart 29). Moreover, Chart 30 illustrates that this
+structure enables stock owners to protect from losses greater than 2.1% while retaining
+3.6% upside potential if the stock rises to 18 (near its 15-year high) by the Sep expiry.
+14 Global Equity Volatility Insights | 06 June 2017
+Chart 29: DTE GY 3.5month +40delta put /-38 delta call collars
+(equivalent to Sep17 +17 put /-18 call) are cheap relative to history
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+DTE GY 3.5m 40d put - 38d call price (%)
+The option price has been cheaper
+only 14% of the time since Jun-08
+Jun-08
+Dec-08
+Jun-09
+Dec-09
+Jun-10
+Dec-10
+Jun-11
+Dec-11
+Jun-12
+Dec-12
+Jun-13
+Dec-13
+Jun-14
+Dec-14
+Jun-15
+Dec-15
+Jun-16
+Dec-16
+Source: BofA Merrill Lynch Global Research. Daily data from 2-Jun-08 to 5-Jun-17.
+Chart 30: DTE collars enable stock owners to protect against losses
+>2.9% while retaining upside to the stock’s ~15yr high (€18.05)
+P&L
+20%
+15%
+10%
+5%
+0%
+-5%
+-10%
+-2.9%
+-8.2%
+16
+Source: BofA Merrill Lynch Global Research. Data as of 5-Jun-17
+Option trade (long Sep 17 put / short Sep 18 call)
+DTE GY stock + option trade
+DTE GY stock
+Current stock price:
+€17.42
+15-year high in the stock price: €18.05
+17
+18
+Deutsche Tel stock price on September expiry day
+19
+Enel stock attractive vs credit given cheap bullish risky & high div yield vs CDS
+On 31-May-17, we recommended buying SX5E bullish risk reversals and selling IBOXX
+HY TRS as a low carry / low risk trade with gearing to improving earnings and FCF. We
+now look for similar opportunities at the single name level. Among the 50 companies
+which have high projected 12m dividend yield relative to bond yields (as highlighted by
+BofAML credit and equity strategists – Chart 9), we highlight a subset (15 names) where
+we have option data since at least Jun-12 (last 5yrs). The names in the bottom-right
+corner of Chart 31 indicate the cheapest 3m -25d put/+25delta call risk-reversals where
+projected dividend yield is highest relative to the CDS spread. We note that:
+• Royal Dutch Shell’s stock yield is attractive vs CDS: Shell’s projected 12m div
+yield is 7.5% while its CDS is 52bps (0.5%), resulting in a div yield-CDS spread of
+7.0%, the highest in our screen; this suggests value in Shell equity vs credit.
+• Cheap bullish risk reversals in Enel and Iberdrola: 3m -25delta put/+25delta call
+risk reversals in Enel and Iberdrola are the lowest across the 15 names in Chart 31.
+Notably, bullish risk reversals in Enel are also particularly cheap versus history as
+the price of 3m -95%f / +105%f bullish risk reversals is below its 5 th 5-y %-ile.
+Global Equity Volatility Insights | 06 June 2017 15
+Chart 31: Among the 50 names highlighted by BofAML equity & credit strategists, the 15 below have liquid options. Notably, Shell equity shows best value vs
+CDS (highest div yield - CDS). Enel risk reversals price lowest across names & vs history (large bubble size denotes low %-ile of risk reversal price vs 5y history)
+Current price of 3m -25d put / +25d call bullish risk reversal
+-0.10%
+-0.15%
+-0.20%
+Automobiles & Parts Oil & Gas Health Care Real Estate Telecommunications Utilities
+VIE FP
+Source: BofA Merrill Lynch Global Research. Data as of 2-Jun-17. *5-yr percentile of 3m 95%f-105%f bullish risk-reversals. **Projected dividend yield = implied 12m dividends/current stock price, where implied 12m
+dividends are derived from mid-single stock dividend swap pricing.. This screen is not a recommended list either individually or as a group of stocks. Investors should consider the fundamentals of the companies and their
+own individual circumstances/objectives before making any investment decisions
+VOD LN
+Highest div yield vs CDS
+-0.25%
+-0.30%
+-0.35%
+FP FP
+UL NA
+ORA FP BMW GY
+GSK LN
+ENGI FP
+ENI IM
+RDSA NA
+Bubble size legend:
+The bigger the bubble
+the cheaper the risk
+reversal versus history*
+0%
+-0.40%
+-0.45%
+-0.50%
+Cheapest riskreversal
+ENEL IM
+DAI GY
+IBE SQ
+BT/A LN
+REP SQ
+50%
+99%
+-0.55%
+2.0% 2.5% 3.0% 3.5% 4.0% 4.5% 5.0% 5.5% 6.0% 6.5% 7.0% 7.5% 8.0% 8.5%
+Projected 1y div yield** - CDS
+Chart 32: Korean-issued SX5E-linked structured products in May17 fell
+to €0.9bn from €1.3bn in Apr17
+EUR bn
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Issuance of SX5E structured products in South Korea
+Jan-14
+Mar-14
+May-14
+Jul-14
+Sep-14
+Nov-14
+Jan-15
+Mar-15
+May-15
+Jul-15
+Sep-15
+Nov-15
+Jan-16
+Mar-16
+May-16
+Jul-16
+Sep-16
+Nov-16
+Jan-17
+Mar-17
+May-17
+Source: BofA Merrill Lynch Global Research. Monthly Korean structured product issuance data from
+Jan-14 to May-17
+0.9
+Chart 33: We estimate current vega outstanding from Korean-issued
+SX5E-linked structured products sums up to €53mn vega and would
+peak at €81mn vega should the SX5E fall to 2875 (all else equal)
+Vega (€ Mn)
+90
+80
+70
+60
+50
+40
+30
+20
+SX5E Vega (from Korean structured product issuance)
+10
+SX5E = 3592
+0
+2000 2500 3000 3500 4000 4500
+Source: BofA Merrill Lynch Global Research. Data as of 2-Jun-17.
+Max vega:
+€81mn at ~2875
+53
+SX5E Dec18 div futures are high relative to Dec17 and BofAML div forecasts
+SX5E Dec18 dividend futures are trading at €122.4 (6.8% higher than Dec17 dividend
+futures), which is unusually high relative to history. Indeed, Chart 34 highlights that the
+second DED future (currently Dec18) is at its highest level in 8 years relative to the first
+(currently Dec17). Moreover, Dec18 div futures are trading only 1.5% below BofAML
+fundamental bottom-up forecasts of 124.2 for 2018, suggesting low upside potential if
+BofAML forecasts materialise (Chart 35).
+16 Global Equity Volatility Insights | 06 June 2017
+Chart 34: The SX5E DED2 future (currently SX5E Dec18 div future) is the
+highest in 9-years relative to DED1
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+DED1 DED2 DED3 DED4 DED5
+100%
+90%
+80%
+70%
+60%
+Median
+40%
+30%
+20%
+10%
+Current
+Source: BofA Merrill Lynch Global Research. Data from 5-Jun-09 to 5-Jun-17. Historical values of DED1
+are fixed at its current level of 116.6 and historical levels of DED2, DED3, DED4 and DED5 are rescaled
+using historical their historical ratios to DED1 (DED2/DED1, DED3/DED1, DED4/DED1 and
+DED5/DED1) as a multiplying factor.
+Chart 35: The DED2 div future (122.4) is not heavily discounted vs
+BofAML fundamental bottom-up forecasts (only 1.5% upside potential
+versus forecasts)
+ESTX50 realised dividends
+150
+Dividend futures
+130.2
+140
+Consensus
+124.2
+BofAML
+130
+116.3
+ESTX50 Div (index points)
+120
+110
+100
+90
+80
+70
+89.0
+89.3
+83.4
+71.4
+83.3
+99.0
+121.9
+146.5
+158.6
+Source: BofA Merrill Lynch Global Research. Data as of 2-Jun-17
+115.2
+112.8
+124.3
+115.6
+109.8
+114.1
+114.9
+118.4
+59.1div
+pts paid
+in 2017
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Table 3: Volatility measures of major equity indices in the EMEA region (data as of 02-Jun-17)
+3Mth ATM implied volatility 10D realised volatility 12Mth–3Mth ATM i-vol spread 3Mth 90-110 skew
+Equity
+index
+Weekly
+Weekly
+Weekly
+Weekly
+Weekly
+Current change 2Yr percentile Current change 2Yr percentile Current change 2Yr percentile Current change 2Yr percentile return
+ESTX50 13.0% -0.4% 0% 6.1% -3.9% 3% 3.6% 0.4% 100% 7.1% -0.4% 18% 0.4%
+FTSE 10.6% 0.4% 4% 4.2% -3.6% 3% 2.8% -0.1% 87% 5.3% -0.4% 2% 0.0%
+DAX 12.2% -0.7% 0% 7.1% -0.8% 8% 3.8% 0.4% 100% 7.1% -0.6% 22% 1.8%
+CAC 12.9% -0.3% 0% 6.1% -3.9% 3% 2.7% 0.3% 100% 7.2% 0.2% 18% 0.1%
+SMI 11.5% 0.1% 4% 6.5% -4.6% 6% 2.1% 0.0% 94% 6.2% -0.1% 19% 0.0%
+RDXUSD 24.7% 1.2% 14% 21.7% -7.3% 35% 1.4% -1.0% 80% 4.8% 0.1% 19% -3.3%
+TOP40 15.1% 1.0% 5% 9.3% 3.9% 9% 2.3% -0.4% 65% 7.2% 0.5% 15% -2.1%
+ISE30 19.6% -0.2% 1% 12.9% 0.6% 16% 3.5% -0.1% 86% 6.7% -0.1% 64% 1.4%
+Source: BofA Merrill Lynch Global Research
+European volatility: Sector snapshot
+Table 4: Volatility measures and indicative option prices for major European sector indices (data as of 02-Jun-17)
+Bearish <<<< --------------------------------------------------- >>>> Bullish
+3Mth ATMf implied
+volatility Real vol* 3Mth 95%-85% put spread** 3Mth 100%-110% call spread**
+3Mth 90%-110% risk
+reversal**
+Equity
+index
+Current
+Current
+Current
+Current
+Weekly
+change
+2Yr
+%-ile Current
+price
+(% of
+spot)
+Weekly
+change
+(bps)
+2Yr
+%-ile
+Max
+payout
+ratio
+price
+(% of
+spot)
+Weekly
+change
+(bps)
+2Yr
+%-ile
+Max
+payout
+ratio
+price***
+(% of
+spot)
+Weekly
+change
+(bps)
+2Yr
+%-ile
+Weekly
+return
+SX3P (Fd&Bv) 10.5% -0.2% 1% 8.5% 0.6% -3 1% 17.1 2.0% -4 1% 4.9 -0.2% 2 85% 0.6%
+SX6P (Utils) 11.7% -0.2% 1% 10.4% 0.7% -1 1% 13.8 2.3% -3 2% 4.4 -0.3% 1 100% -0.2%
+SX7E (Banks) 23.0% 0.9% 3% 20.9% 1.9% 8 4% 5.3 3.6% 12 13% 2.8 -0.5% -7 40% -3.1%
+SX7P (Banks) 19.8% 1.2% 12% 14.0% 1.6% 11 13% 6.4 3.3% 15 17% 3.0 -0.5% -8 60% -2.1%
+SXAP (Auto) 17.3% -0.2% 2% 13.5% 1.3% -1 2% 7.4 3.1% -1 2% 3.2 -0.4% 0 54% 0.9%
+SXDP (Health) 13.1% -0.6% 2% 8.6% 0.9% -7 2% 11.5 2.4% -14 2% 4.1 -0.2% 10 82% 1.6%
+SXEP (Oil&Gas) 15.4% -0.2% 1% 12.5% 1.2% -1 2% 8.5 2.8% -1 1% 3.6 -0.3% -1 94% -2.2%
+SXIP (Insur) 15.1% -0.3% 2% 8.6% 1.1% -2 3% 9.0 2.8% -3 6% 3.5 -0.5% -3 64% 0.8%
+SXKP (Telecom) 14.9% -2.0% 1% 11.5% 1.1% -21 1% 9.4 2.7% -20 1% 3.7 -0.2% 2 98% -1.0%
+SXNP (Indust) 16.1% -0.1% 6% 9.1% 1.2% 0 14% 8.3 2.8% -1 6% 3.6 0.0% 2 100% 1.5%
+SXPP (Basic) 25.1% -0.4% 5% 18.5% 2.1% -3 6% 4.8 3.6% -1 9% 2.8 -0.2% -2 58% -1.4%
+SXQP (Prsnl&HH Gds) 13.9% 3.2% 22% 6.4% 0.9% 34 21% 11.2 2.6% 53 25% 3.8 -0.5% -24 41% 0.7%
+SXRP (Retail) 12.7% 0.1% 7% 7.8% 0.8% 1 5% 13.2 2.3% 3 6% 4.4 0.1% -3 96% -0.4%
+SXTP (Trvl&Lsre) 13.7% -1.3% 6% 8.5% 0.9% -18 6% 10.8 2.6% -14 6% 3.9 -0.2% -4 55% 1.9%
+Source: BofA Merrill Lynch Global Research *Real vol = EWMA (Exponentially Weighted Moving Average) volatility, which measures historical price volatility but assigns greater importance to recent returns. Sigma(t)^2 =
+0.94*Sigma(t-1)^2+(1-0.94)*r(t)^2, where r(t) is the return on day t. **Indicative mid prices; strikes as % of forward ***Negative values indicate that the bullish risk reversal takes in a credit.
+Global Equity Volatility Insights | 06 June 2017 17
+Volatility in Asia
+Use best-of puts to cheaply hedge a reversal in the rally
+BofAML global strategists note that the massive central bank liquidity supernova has
+allowed the Wall Street bull to flare higher, led by uber "growth" (EM internet stock
+returns annualizing 125%). In light of this, we feel that it is prudent that investors
+protect gains as we think today’s low volatility environment remains highly fragile,
+characterized by the below stats:
+• The MSCI Asia Pac index is up for the 5 th consecutive month and is trading at multiyear
+highs, while equity foreign inflows year-to-date are at the highest since 2004.
+• Option delta-adjusted open interest for KOSPI2 and HSI are near a 4-year highs.
+• The BofAML global Risk-Love investor sentiment measure is in euphoria, and
+China’s nominal GDP is likely peaking. The Asian/EM EPS upgrade cycle is likely
+rolling over.
+Volatility of equity indices remains at post-GFC lows while markets continue to trend
+higher. If the market were to realize a correction, we believe that indices would be
+highly correlated, and hence we recommend buying a 14-Sep-2017 95% strike best-of
+put on NKY/KOSPI2/HSI that costs 0.8%, a 45% discount to average vanilla puts.
+Indicative pricing (As of 5-Jun-17, ref: NKY: 20170, KOSPI2: 307.33, HSI: 25874)
+Buy a 14-Sep-2017 best-of 95% put on NKY/KOSPI2/HSI: 0.80%
+Chart 36: Option positioning on KOSPI2 and HSI is near a 4-year high
+120
+100
+80
+60
+40
+20
+0
+29
+KOSPI2 HSI NKY
+Option Delta Adjusted OI (US$Bn) 4-year Percentile (%)
+8
+96
+Chart 37: The 3-month 95% best of put on HSI/NKY/KOSPI2 has
+significantly paid off during market corrections when correlation rose
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Mar-08
+Oct-08
+May-09
+Dec-09
+Jul-10
+Feb-11
+Sep-11
+Apr-12
+Nov-12
+Jun-13
+Jan-14
+Aug-14
+Mar-15
+Oct-15
+May-16
+Dec-16
+Historical Payoff of 3M 95% best of put on HSI/NKY/KOSPI2
+Source: BofA Merrill Lynch Global Research
+Data as of 2-Jun-17
+Source: BofA Merrill Lynch Global Research
+18 Global Equity Volatility Insights | 06 June 2017
+Chart 38: YTD equity inflows into EM Asia are at the highest levels since
+2004
+Chart 39: Similar to that of global markets, Asian volatility is at its most
+depressed levels post-GFC
+40
+30
+20
+10
+-
+-10
+-20
+-30
+15
+8 9
+14
+-21
+17
+10
+4
+17
+24 22 23
+11
+28
+35%
+30%
+25%
+20%
+15%
+10%
+Jan-12
+May-12
+Sep-12
+Jan-13
+May-13
+Sep-13
+Jan-14
+May-14
+Sep-14
+Jan-15
+May-15
+Sep-15
+Jan-16
+May-16
+Sep-16
+Jan-17
+May-17
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+YTD Foreign Equity Inflow into EM (US$bn)
+2015
+2016
+2017
+Average 3M ATM Vol of HSI/KOSPI2/NKY Current (13.2%)
+Source: BofA Merrill Lynch Global Research, Bloomberg. Data as of 2-Jun-17
+Foreign inflows into Korea, Taiwan, India, Indonesia, the Philippines, and Malaysia
+Source: BofA Merrill Lynch Global Research. Data from 2-Jan-12 to 2-Jun-17
+Notable trends and dislocations (Asia)
+Asian equity markets saw modest gains last week, led by Japan’s NKY index, which
+increased 2.5% week-over-week. In fact, the index breached the 20,000 mark last Friday
+for the first time since December 2015. Gains were driven by foreign inflows from
+investors attracted to very strong corporate profits. Additionally, economic data from
+last week indicated that Japan’s unemployment rate held at a two-decade low, and
+capital spending during Q1 beat analyst estimates. The biggest contributor to last
+weeks’ return was Fast Retailing Co Ltd (9983 JT), which added 3.9% week-over-week.
+The company reported that same-store-sales for its Uniqlo stores rose 2.4% year-overyear
+in May due to successful strategies during the Golden Week and Mother’s Day
+holidays. After the NKY, last week’s second biggest gainer was Hong Kong’s HSI, which
+added 1.1%. The leading name in the index was Geely Automobile Holdings (175 HK),
+which jumped 19.8% week-over-week in response to optimism over its recent
+acquisition of a 49.9% stake in Proton Holdings. Hong Kong’s HSCEI saw a similar return
+as the index added 0.8% last week.
+Next we turn to India, where the NIFTY gained 0.6% last week. The leading name in the
+index was Aurobindo Pharma (ARBP IS), which increased 11.4% week-over-week in
+response to an investor presentation which outlined the company’s plans to increase
+collaboration across its global customer business. Elsewhere in Asia, Korea’s KOSPI
+increased 0.3% week-over-week, Australia’s ASX added 0.6%, and Taiwan’s TWSE
+gained 0.5%.
+Asian term structures were unchanged week-over-week at 3.8% on average
+• Asian 3m ATM volatility increased on average 0.1 vol point to 12.6% last week,
+while 10 day realized vol fell on average 0.8 vol points to 8.6%. Notably, NIFTY’s
+implied vol increased 0.7 vol points, the biggest increase in the region. On the other
+hand, the HSCEI’s 10d realized vol saw the largest drop in the region, falling 5.1 vol
+points week-over-week to 9.2%.
+• On average, term structures among Asian indices remained unchanged at 3.8% last
+week. The KOSPI 12M-1M term structure steepened the most, increasing 0.7 vol
+points to 2.9%. On the other hand, India’s NIFTY saw the largest flattening as its
+term structure flattened 0.5 vol point to 3.8%.
+• Asian 3M 90-110% skews narrowed 0.2 vol points on average to 3.0%. Japan’s NKY
+narrowed the most, decreasing 1.0 vol point to 5.0%.
+Global Equity Volatility Insights | 06 June 2017 19
+Chart 40: Volatility measures of major Asian indices (data as of 02-Jun-17)
+3Mth ATM Implied Volatility 10D Realized Volatility 12Mth-1Mth ATM Vol Spread 3Mth 90-110 Skew Spread Equity Market
+Weekly 4Yr Weekly 4Yr Weekly 4Yr Weekly 4Yr Weekly
+Current change percentile Current change percentile Current change percentile Current change percentile return
+HSI 12.4% 0.3% 1.4% 5.4% -2.4% 0.3% 5.1% 0.4% 99.1% 2.3% -0.4% 19.9% 1.1%
+HSCEI 15.7% 0.3% 1.8% 9.2% -5.1% 1.6% 4.3% 0.2% 93.6% 0.4% 0.0% 20.4% 0.8%
+NKY 14.2% -0.2% 0.3% 10.7% 1.0% 13.4% 4.2% -0.4% 93.8% 5.0% -1.0% 59.4% 2.5%
+KOSPI 200 12.8% -0.3% 34.5% 9.8% 2.6% 36.9% 2.9% 0.7% 44.8% 3.0% 0.2% 15.8% 0.3%
+ASX 200 11.5% -0.1% 12.8% 8.5% -0.7% 20.5% 3.5% 0.3% 86.5% 6.3% -0.2% 20.1% 0.6%
+NIFTY 10.5% 0.7% 0.7% 9.7% -2.2% 18.9% 3.8% -0.5% 74.0% 5.5% 0.1% 53.0% 0.6%
+TWSE 10.7% 0.3% 8.2% 7.2% 1.5% 14.1% 2.9% -0.4% 72.6% -1.5% -0.1% 0.0% 0.5%
+Source: BofA Merrill Lynch Global Research
+Chart 41: Index correlation is generally further away from their 10-year
+lows while index and stock vols are near their lows, except for ASX200
+Percentile Since 2008
+25%
+20%
+15%
+10%
+5%
+0%
+6%
+0% 0% 0%
+4%
+20%
+3%
+2%
+16%
+9% 10%
+22%
+13%
+6%
+5%
+HSI HSCEI NKY KOSPI2 AS51
+3M Stock Vol 3M Index Vol Index Correlation
+Except for the ASX200, Asian stock and index vols are more
+depressed than index correlation
+Today’s ultra-low Asian index realized volatility is largely driven
+by depressed single stock realized volatility and low realized
+correlation. Stock and index volatilities are generally more
+depressed than index correlation. For instance, the KOSPI2 3-
+month realized correlation (0.13) is the highest relative to its
+history (at its 22 nd percentile since 2008) as foreign inflows
+have pushed the index to an all-time high and have driven
+correlation up. Korean market activities used to be dominated
+by domestic sector rotation trades.
+On the other hand, ASX200 correlation is relatively depressed as
+the correlation between the banks and materials sectors has
+broken down in recent months.
+Source: BofA Merrill Lynch Global Research
+US$3.6bn Korean auto-callable issuance in May-17, down 21% MoM
+• Korean issuance fell 21% MoM to US$3.6bn in May-17, which is close to the
+average monthly issuance of US$3.8bn since 2014. Products issued in Oct-16
+(US$3.1bn) and Nov-2016 (US$3.4bn) have knocked out recently and rolled into
+new products. However, the legacy HSCEI-linked products issued in May-15 were
+struck at a very high HSCEI spot level and were not able to knock-out this month.
+We think issuance may pick up in July and August as ~US$4.0bn of legacy products
+may knock-out in Jul-17 with an average HSCEI knock-out level of 9665 (Chart 43).
+• Issuance in KOSPI2-linked products (up from US$840mn to US$846mn) remained
+steady in May-17; HSI-linked products fell 66% from US$360mn to US$120mn as
+investors prefered HSCEI-linked products (which only fell from US$760mn to
+US$700mn).
+• SX5E-linked (US$1.0bn), KOSPI2-linked (US$846mn), HSCEI-linked (US$700mn),
+and SPX-linked products (US$550mn) accounted for 86% of the May-17 issuance.
+We estimate that structured product issuers are currently long US$10mn of KOSPI2
+vega and US$89mn HSCEI vega respectively. The majority of the US$89mn HSCEI
+outstanding vega came from the US$14bn of HSCEI-linked legacy products issued
+between Apr-15 and Jul-15 that have not knocked-out.
+20 Global Equity Volatility Insights | 06 June 2017
+NKY Uridashi monthly issuance slightly picked-up in May-17
+With NKY breaking above 19,500 in May and triggering some early knock-outs, Japanese
+Uridashi issuance picked up towards the end of May to US$630mn. We estimate there
+is now around US$7.9bn (vs. $8.1bn last month) in product outstanding and over 50% of
+it will be knocked out if the NKY rallies above 20,500. We estimate issuers are currently
+long US$44mn vega in NKY. The peak of the vega profile is around the 17,500 level and
+we expect issuers to lose US$2mn of vega for every 1% rally in the NKY.
+Chart 42: Korean auto-callable issuance fell 21% to US$3.6bn in May-17; Issuance in KOSPI2-linked products (rose from US$840mn to US$846mn) remained
+steady; HSI-linked products fell 66% from US$360mn to US$120mn as investors prefered HSCEI-linked products (which only fell from US$760mn to
+US$700mn)
+USD Mn
+3,000
+2,500
+2,000
+1,500
+1,000
+500
+-
+May15
+Jun15
+KOSPI2 HSCEI SX5E SPX HSI NKY Total issuance (RHS)
+Jul15
+Aug15
+Sep15
+Oct15
+Nov15
+Dec15
+Jan16
+Feb16
+Mar16
+Apr16
+May16
+Jun16
+Jul16
+Aug16
+Sep16
+Oct16
+Nov16
+Dec16
+Jan17
+Feb17
+Mar17
+Apr17
+May17
+8,000
+7,000
+6,000
+5,000
+4,000
+3,000
+2,000
+1,000
+-
+USD Mn
+Source: BofA Merrill Lynch Global Research. From May-15 to May-17
+Chart 43: Knock-out schedule for legacy HSCEI-linked products issued in
+2015; we expect more knock-outs in Jul-17 if HSCEI stays above 9,600
+14,000
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+-
+11,024
+9,665
+3,582 3,947
+- - - -
+Source: BofA Merrill Lynch Global Research. Data as of 2-Jun-17
+11,491 11,341
+3,165 3,261
+Jun-17 Jul-17 Aug-17 Sep-17 Oct-17 Nov-17
+Average HSCEI Knock-Out Level
+Notional (US$mn)
+Chart 44: In May-17, there was $630mn of Uridashi products issued
+which were NKY linked
+Issuance (US$bn)
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+-
+Jan-15
+May-15
+New NKY Linked Uridashi issuance
+NKY Index
+Sep-15
+Jan-16
+May-16
+Sep-16
+Jan-17
+May-17
+Source: BofA Merrill Lynch Global Research. Monthly data from Jan-15 through May-17
+22,000
+21,000
+20,000
+19,000
+18,000
+17,000
+16,000
+15,000
+14,000
+NKY l d
+Global Equity Volatility Insights | 06 June 2017 21
+Chart 45: We estimate that structured product issuers are currently long
+US$10mn of KOSPI2 vega
+90
+KOSPI2 Autocall Vega Outstanding Profile
+Estimate KOSPI2 outstanding vega
+(US$mn)
+80
+70
+60
+50
+40
+30
+20
+10
+-
+190
+200
+210
+220
+230
+240
+250
+260
+270
+280
+290
+300
+310
+320
+330
+Source: BofA Merrill Lynch Global Research.
+KOSPI2 Spot Level
+Chart 46: Structured product issuers are currently long ~US$89mn of
+HSCEI vega
+Estimate HSCEI outstanding vega
+(US$mn)
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+-
+-10
+-20
+6500
+7000
+7500
+8000
+8500
+9000
+9500
+10000
+10500
+11000
+11500
+12000
+12500
+13000
+Source: BofA Merrill Lynch Global Research.
+HSCEI Autocall Vega Outstanding Profile
+HSCEI Spot Level
+KOSPI2 3M ATM IV over SPX is at its 4-year high
+Table5 lists Asian index pairs with the highest IV ratio vs their 4-year histories. For
+instance, the ratio of KOSPI2 3M ATM IV over SPX is at its 4-year high.
+Chart 47: The ratio of KOSPI2 3M ATM IV over SPX is at its 4-yr high
+(Daily data from 1-Oct-12 through 02-Jun-17)
+Implied Vol
+25%
+20%
+15%
+10%
+5%
+Jan-13
+KOSPI2 3M ATM vol SPX 3M ATM vol Vol ratio
+1.60
+1.50
+1.40
+1.30
+1.20
+1.10
+1.00
+0.90
+0.80
+0.70
+May-13
+Sep-13
+Jan-14
+May-14
+Sep-14
+Jan-15
+May-15
+Sep-15
+Jan-16
+May-16
+Sep-16
+Jan-17
+May-17
+Ratio
+Table 5: Index pairs^ with the highest implied vol ratio vs their histories
+(data as of 02-Jun-17)
+Index A Index B A/B Implied
+Ratio 4-yr
+percentile
+(Implied vol) (Implied Vol) Vol ratio
+3M ATM KOSPI2 (12.8%) SPX (9.4%) 1.36 100%
+6M ATM KOSPI2 (13.6%) NIFTY (11.8%) 1.16 99%
+12M ATM KOSPI2 (14.8%) NIFTY (13.8%) 1.07 99%
+3M 25d-Put KOSPI2 (13.6%) HSCEI (16.4%) 0.83 99%
+6M 25d-Put KOSPI2 (14.7%) NIFTY (12.5%) 1.17 99%
+12M 25d-Put KOSPI2 (16.0%) NIFTY (14.4%) 1.11 99%
+3M 25d-Call KOSPI2 (12.6%) SX5E (11.6%) 1.09 100%
+6M 25d-Call KOSPI2 (13.4%) NIFTY (10.8%) 1.25 100%
+12M 25d-Call KOSPI2 (14.6%) NIFTY (12.0%) 1.21 100%
+Source: BofA Merrill Lynch Global Research
+^ Index universe includes the ASX200, HSCEI, HSI, KOSPI2, NIFTY, NKY, TWSE, SPX and SX5E
+* mid level implied vol
+Source: BofA Merrill Lynch Global Research
+22 Global Equity Volatility Insights | 06 June 2017
+Summary of Open Trades (5-Jun-17)
+Price data for open level reflects the price on open date and does not necessarily reflect
+the price at which the trade could be executed at the date of this report. Our trades are
+structured to be executed on the open date and are not necessarily appropriate to
+execute as formulated beyond that date.
+Table 6: Summary of open trades as of 5-Jun-17
+Trade Description
+Open
+Date
+Open
+Level
+Long SX5E vs short SPX Dec18 var swap 5-Jul-16 6.1 vols
+Long NKY vs short SPX Dec18 var swap 5-Jul-16 5.7 vols
+Long SX5E vs short SPX Dec18 put vs put 5-Jul-16 0.00%
+Dec-18 expiry
+Expected Trade
+Rationale
+Term
+Investors should re-assess attractiveness of popular and (typically) technically motivated longerdated
+RV vol trades, given environment of structurally higher political & economic risks and
+increasingly limited policy options
+Buy a 1Y ATM worst-of call on SPX & TLT 18-Jul-16 0.9% 1 year Cheap equity upside in a bond / equity melt-up
+Buy SPX>UKX Jun17 ATM outperformance call, conditioned on SPX lower
+at maturity (qUSD)
+Buy UKX Jun17 6650 put, sell SPX Jun17 1850 put
+17-Oct-16
+17-Oct-16
+2.0%
+2.6%
+Jun-17 expiry
+Jun-17 expiry
+Risks of a hard Brexit rising and (weak) currency tailwind likely to prove short-lived; position
+cheaply for FTSE 100 (UKX) underperformance
+Buy an EWZ Jun-17 40 call conditional on SPX<2200 at expiry 24-Oct-16 1.7% Jun-17 expiry Using derivatives to capture Brazil (EWZ) upside potential following start of easing cycle
+Buy an SX5E Sep-17 95% put conditional on EUR 10Y CMS > 1.1% or <
+0.3% in Mar-17
+14-Nov-16 2.7% Sep-17 expiry Remain long equities and cheapen hedges by conditioning on rates
+Buy 2823 HK Jun-17 90/110 strangle 21-Nov-16 5.55% Jun-17 expiry China risk premium rising but A-shares vol still at all-time lows
+Buy ESTX50 Dec17 90% put contingent on EURGBP < 0.82 by Jun17 expiry 2-Dec-16 1.63% Dec-17 expiry
+Buy SPX>UKX Jun17 5% outperformance call (qUSD) 2-Dec-16 2.05% Jun-17 expiry
+Long XLF vs SX7E Jun17 ATM outperf call, contingent on SX7E higher at
+Jun expiry (qEUR)
+2-Dec-16 1.20% Jun-17 expiry
+Buy SPX Jun17 95% put contingent on US 5Y CMS > 2.15 5-Dec-16 1.04% Jun-17 expiry
+Buy 1x Jun-17 ATM XLF call, sell 1.8x Jun-17 ATM worst-of calls on XLP
+and XLU
+Buy Jun-17 ATM R2K- value outperf call over EEM, contingent on EEM >
+95%
+5-Dec-16 2.10% Jun-17 expiry
+5-Dec-16 2.30% Jun-17 expiry
+Equity-FX correlation is not priced for a spillover of populism into the EU, which could cause EUR
+to fall against an already weakened GBP as equities fall
+UKX is heavily exposed to EU (50% revenues) and should underperform SPX if GBP tailwind
+fades. Volatility & correlation suit well for outperformance
+Cheapen long XLF upside to near 8y lows via selling upside on structurally challenged European
+banks & relatively more bearish outlook for US rates vs EU
+Still depressed equity-bond correlation (US 5Y bonds vs. SPX in the 37th%-ile since Jun-88)
+cheapens the cost of SPX puts conditioned on higher rates
+Participate in the continuation of the reflation trade. Cheapen Financials upside by selling rich
+Utilities and Staples vol & expensive correl.
+Higher US rates and stronger dollar are likely to hurt companies exposed to EM and help US DM.
+Trade the outperformance in a risk-controlled way, avoiding
+selling the record-low correlation
+Buy NKY Jun17 110% Call 02-Dec-16 1.83% Jun-17 expiry USDJPY and NKY the biggest beneficiaries of a Trump win
+Buy TPINSU Jun17 110-125% Call Spread 02-Dec-16 3.30% Jun-17 expiry Banks and Insurances are the most leveraged sector
+Buy TPNBNK Jun17 110-125% Call Spread 02-Dec-16 3.20% Jun-17 expiry Banks and Insurances are the most leveraged sector
+Buy 2823 HK Jun17 90/110% strangle 02-Dec-16 5.90% Jun-17 expiry China risk premium rising but A-shares vol still at all-time lows
+Buy HSCEI Jun17 105-120% call spread contingent on $KRW >1200 02-Dec-16 1.20% Jun-17 expiry Own contrarian EM upside at low cost & limited risk
+Buy NKY-SPX Dec19 70/110% corridor variance 02-Dec-16 1.50% Dec-19 expiry QE uncertainty and USDJPY vol support NKY vs SPX realized vol
+Buy NKY Jun17-Jun18 18,500 strike FVA 02-Dec-16 21.5% Jun-17 expiry What if QE hits its limit? Long NKY vol outright which is cheap to carry
+Long Russell 2000 vs. short S&P 500 Dec-18 var spread 5-Dec-16 3.9pts Dec-18 expiry
+With fiscal stimulus and potential tax cuts, small caps revert to old normal generating higher vol
+on upside and downside relative to large caps
+Buy 1x Jun17 64 call on Aug17 Brent futures, sell 1x SXEP Jun17 330 call 9-Jan-17 1.00% Jun-17 expiry
+Vol and price technicals are attractive. BofAML commodity strategists oil target is $70/bbl but this
+is already priced in SXEP levels according to BofAML Oil & Gas equity analysts
+Buy SPX 6m ATM call contingent on GLD 5% higher in 3m 23-Jan-17 1% Jul-17 expiry Position for a near-term wobble followed by yet another equity melt up
+Long NKY - SPX Dec-18 corridor var replication 13-Feb-17 4.00% Dec-18 expiry Cheaply access positive carry QE failure hedge
+Buy NDX Top20 volatility dispersion 27-Feb-17 17.0% Jan-18 expiry
+Long 1.8x vega on 1y single stock vols of UK Brexit exposed names,
+Short 1x vega on 1y FTSE index vol
+14-Mar-17 32.3vols 14-Mar-18
+Position for a pick-up in single stock realised vol on the 10 names (within FTSE’s top 30) where
+post EU referendum realised vol was the highest relative to current 1y ATMf vol. The 10 names
+are: Barclays, Aviva, Prudential, BT, Glencore, Tesco, CRH, BA, Standard Chartered & HSBC.
+SPX Sep-17 95% puts conditional on the 5yr CMS rate above 2.4% at
+maturity
+14-Mar-17 1% Sep-17, expiry Hedge portfolios against a buy-the-dip failure should a faster rate cycle ultimately jeopardize it
+Buy QQQ Jun17 132 call , sell XLF Jun17 25 call 20-Mar-17 0.57% Jun-17 expiry Sell rich Financials vol to fund cheap Tech upside
+Buy Buy-Rated MSCI A-shares stocks & hedge with puts 23-Mar-17 1.44% Jun-17 expiry Market may trade on the MSCI inclusion theme; Hedge with 2823 HK Jun17 95% put
+Buy A-shares with highest MSCI impact & hedge with put 23-Mar-17 1.44% Jun-17 expiry Market may trade on the MSCI inclusion theme; Hedge with 2823 HK Jun17 95% put
+Own Japan stock vol via gamma weighted vol dispersion 10-Apr-17 15.8% Mar18 expiry Historically attractive to own TOPIX Top 10 corridor gamma weighted volatility dispersion
+Buy CNOOC Jul-17 95% puts vs. sell HSCEI 95% puts 24-Apr-17 0.77% Jul17 expiry Hedge a rollover in China GDP and screen for cyclicals that could face pressure
+Buy CH Merchant Bk Jul-17 18.5/17 put spread vs 22 call 24-Apr-17 0.10% Jul17 expiry Hedge a rollover in China GDP and screen for cyclicals that could face pressure
+Buy SX5E Dec17 3800 calls contingent on EURUSD > 1.1 at expiry 8-May-17 1.3% Dec17 expiry Benefit from low vol, flat correl, likely hawkish ECB & (FX un-hedged) inflows into EU equities
+Buy 1.5x KOSPI2 285 puts vs. short 1x $KRW 1160 call 8-May-17 0.3% Jul17 expiry Leverage cheap equity vs. FX vols to own cheap tail protection
+Buy EEM Aug17 39.5 put and sell EEM Aug17 37 put 15-May-17 1.6% Aug17, expiry Buy cheap EM equity puts on near-record performance gap to commodities
+Buy Dec17 105% call on an equally weighted basket of SX7E, SXAP, SXPP
+& SXEP, sell Dec17 ATM worst-of call on the same
+15-May-17 1.6% Dec17 expiry
+Monetise low vol & high implied correl to position for greater sector dispersion in EU: long basket
+call, short worst-of call
+Buy NKY Jul-17 19500 puts vs. short Dec-17 17500 puts 15-May-17 0.0% Jul17 expiry Own cheap NKY hedges into FOMC; Term structure is too steep is under-pricing risks
+Short GILD $55-$62.5-$67.5 put spread collar 16-May-17 1.5% Sep-17 expiry Buy unloved and cheap biotech upside by levering depressed vol & skew
+Global Equity Volatility Insights | 06 June 2017 23
+Table 6: Summary of open trades as of 5-Jun-17
+Open Open Expected Trade
+Trade Description
+Rationale
+Date Level Term
+Long 1x EEM 3m 97.5% put vs. short ~0.09x units each of 3m 97.5% puts on
+FXI, EWY, EWZ, EPI, EWT, RSX, EZA, and EWW
+1.5% 0.0% 3m Buy EEM puts financed by a basket of EM puts to lever near record low correl
+Buy Tencent Jul17 250/300 strangle 22-May-17 2.45% Jul-17 expiry Hedge the China tech bubble; Tencent unlikely to stand still after a 45% rally YTD
+Buy A-shares (2823 HK) Jul17 105% call 22-May-17 1.15% Jul-17 expiry Hedge the upside into MSCI announcement on 20-Jun
+Buy 1x contract of ESTX50 Jun17 3525, sell 4x contracts of V2X Aug future 22-May-17 1.00%
+Buy SX5E Dec17 3450-3700 bullish risk reversal vs short IBOXX HY TRS
+with equal notional sizing
+Buy 6m ATM calls on FB, AMZN, NFLX and GOOGL
+30-May-17 1.17%
+6.9%
+(FB),
+7.2%
+(AMZN),
+30-May-17 6m
+9.4%
+(NFLX),
+6.2%
+(GOOGL)
+Jun-17 expiry
+Dec-17 expiry
+Fundamental case to be long EU equities remains intact but stretched bullish positioning could
+lead to near-term consolidation
+BofAML Equity & Credit strategists highlight they favour equities over HY credit as div yields have
+surpassed HY credit yield & equities offer more gearing to rising PMI’s, earnings and FCF
+Stock replace FANG stocks
+Buy a 6m outperformance call on FANG stocks vs. SPX conditional on SPX>
+30-May-17 3.4% 6m Lever extremely depressed FANG volatility and low correlation to buy upside
+current levels at expiry
+Buy HSI Sep17 90% put, sell ASX200 Sep-17 90% put 30-May-17 0.15% Sep-17 expiry HSI is unlikely to outperform if AS51 drops more than 10%; HSI vol below AS51 vol
+Source: BofA Merrill Lynch Global Research. Prices reflective of most recently available data which may be delayed in some cases. “Trade Value” represents current valuation of trades initiated on the “Open Date”.
+24 Global Equity Volatility Insights | 06 June 2017
+Summary of Closed Trades (5-Jun-17)
+Table 7: Summary of closed trades as of 5-Jun-17
+Open Open Close
+Trade Description
+Date Level Level Close Date Rationale
+Buy NKY Aug-16 105%-110% call spreads & sell 90% puts 11-Jul-16 0.26% 1.73% 25-Jul-16 Close position as the hurdle to surprise on the upside is high following a 5.8% NKY rally
+Replace FB long positions via Oct-16 ATM calls 25-Jul-16 5.9% 6.1% 1-Aug-16 Close position as Facebook rallied on better-than expected Q2 results
+Replace AMZN long positions via Oct-16 ATM calls 25-Jul-16 5.5% 6.3% 1-Aug-16 Close position as Amazon rallied on better-than expected Q2 results
+Buy AAPL Oct-16 ATM protective puts 25-Jul-16 4.6% 1.2% 1-Aug-16 Remove protection as worries around disappointing Q4 guidance faded post earnings
+Buy 1.5x 5-Aug-16 2950-3000 strangles by selling 1x 19-
+Aug-16 2950-3000 strangles
+25-Jul-16 0.00% -1.12% 5-Aug-16 The BoJ, Fed & EU bank stress tests could move mkts sharply in the near term
+Sell NKY Aug16 15500 puts, Buy Sep16 15500-14500 put
+spreads
+25-Jul-16 0.24% 0.28%
+Aug-16 expiry &
+Sep-16 expiry
+Unwinding before the Aug16 expiry; The NKY Sep put spread has carried well
+Buy TLS 25-Aug16 95% puts 18-Jul-16 1.05% 2.95% 15-Aug-16 Telstra has announced earnings and the stock has corrected 5% over the period
+Buy Newcrest 25-Aug-16 105/115% call spreads 18-Jul-16 2.64% 1.18% 15-Aug-16 NCM has stayed unchanged over the period despite better than expected earnings
+Buy CSL 25-Aug-16 95% puts 18-Jul-16 1.09% 1.18% 22-Aug-16 CSL fell 5.4% over the period with weak earnings announcement
+Buy BHP 25-Aug-16 105/115% call spreads 18-Jul-16 2.22% 0.77% 22-Aug-16 BHP rose 3.6% over the period but the option remains out of the money
+Buy HSCEI Aug16 9400 call, Short Oct16 10000 call 1-Aug-16 0.00% 0.67% 22-Aug-16 Close position as the HSCEI rallies 5.2% and we are approaching the Aug16 expiry
+Buy Tencent (700 HK) Sep16 105% call 15-Aug-16 1.70% 2.70% 22-Aug-16 Tencent jumped post better than expected earnings
+Sell 1x SX7E 1M 25d call to fully finance 1.85x SX5E 1M
+25d calls
+25-Jul-16 0.0% 0.0% 25-Aug-16 SX7E 1M 25d call / SX5E 1M 25d call price ratio is in the 100 th 2-yr percentile
+Buy CMB (3968 HK) Sep16 105-115% call spread 5-Jul-16 2.32% 6.12% 30-Aug-16 Close position and BofA ML turned neutral in EM in the short-term
+Buy ICBC (1398 HK) Sep16 105-115% call spread 5-Jul-16 2.12% 9.0% 30-Aug-16 Close position and BofA ML turned neutral in EM in the short-term
+Buy BOC (3988 HK) Sep16 105-115% call spread 5-Jul-16 2.10% 6.28% 30-Aug-16 Close position and BofA ML turned neutral in EM in the short-term
+Buy XLF Sep 24 strike call 25-Jul-16 1.4% 2.3% 6-Sep-16
+Buy XLU Sep 51 strike put 25-Jul-16 1.3% 2.6% 6-Sep-16
+Buy a 6M ATM worst-of {XLF call, XLU put} 25-Jul-16 1.35% 3.0% 6-Sep-16
+Buy 0.85x SX5E Sep16 3000-3100 strangle, sell 1x SX5E
+Dec16 3000-3100 strangle
+Close positions from trades that have benefited thus far from the rally in Financials and weakness
+in Utilities; monetize view that Fed will not hike in September
+15-Aug-16 -5.07% -5.73% Sep-16 expiry Take advantage of low near term vol and a steep term structure
+Long 0.5x V2X Oct16 future, short 0.5x V2X Jan-17 future
+11-Jul-16 0.05 vols -0.95 vols 19-Sep-16
+Unwind Oct/Jan spread and maintain Nov/Jan spread given clarity around the Italian referendum
+date
+Sell VSTOXX Sep 21 puts 30-Aug-16 1.20 vols 1.77 vols Sep-16 expiry Global macro event risk likely to keep V2X supported going into Sep expiry
+VIX Sep 17/22 1x2 call ratios (short 2x) + 0.75x SPY Sep23
+15-Aug-16
+210 puts
+$0.85 $0.45 Sep VIX expiry Trade provided hedging benefits during the sudden Sep market shock & has expired
+Buy NKY Oct 95/105 strangle outright 30-Aug-16 2.28% 0.44% 27-Sep-16 Take a loss post an disappointing market reaction on the BoJ announcement
+Buy NKY Oct 95/105 strangle daily delta-hedging 30-Aug-16 2.28% 0.56% 27-Sep-16 Take a loss post an disappointing market reaction on the BoJ announcement
+Long 3M 25d EFA put vs short 3M 25d UKX put 5-Jul-16 0.00% 0.00% 3 months Trade expired on 3-Oct
+Replace T long position via 3M ATM calls 19-Jul-16 2.72% 0.04% 3 months
+Replace LOW long position via 3M ATM calls 19-Jul-16 3.90% 0.00% 3 months
+Replace RTN long position via 3M ATM calls 19-Jul-16 3.16% 0.41% 3 months
+Replace CRM long position via 3M ATM calls 19-Jul-16 4.16% 0.19% 3 months
+Replace NEE long position via 3M ATM calls 19-Jul-16 2.32% 0.08% 3 months
+Overlay long WBA long position with 3M ATM calls 19-Jul-16 4.04% 1.20% 3 months
+Our analysts no longer expect impactful catalysts in the near term; stock replacement strategies
+proved useful in cushioning downside losses during the abrupt Sep-16 sell-off vs. long equity
+positions.
+Buy HKEx (388 HK) 1x2 105%-115% call ratio 15-Aug-16 0.60% 0.00% 29-Sep-16 HKEx failed to rally above the first call strike and expired worthless
+Buy NKY Oct16 17500 call, Sell 0.65x NKY Sep 17250 call 8-Aug-16 0.70% 0% 14-Oct-16 NKY Oct-16 call expired out of the money
+Close position as the Oct VIX future stayed well-supported as is typically the case in the weeks
+1-Aug-16 $0.45 $0.88 14-Oct-16
+Short VIX Oct 15 put vs. long VIX Nov 19/26 call spread
+leading up to the US presidential election
+Long 2x SPX Oct31 2125 puts vs. short 1x SPX Mar-17
+1975 put
+6-Sep-16 0.0% -0.34% 14-Oct-16
+Provided hedging benefits in the sudden equity shock in early Sep-16; now being unwound to
+mitigate decay
+DAX +2.31x Dec16 / -1x Dec17 put calendars 30-Aug16 0.00% -2.60% Dec-16 expiry DAX outperformance & low short dated DAX vol make put calendars attractive
+Buy SX5E Dec16 2950/2750 put spread 6-Sep-16 1.48% 0.00% Dec-16 expiry
+A catalyst-strewn fall and a remarkably low volatility summer suggests that there could be
+headwinds to continued market upside on low volatility
+Buy 1.5x SX5E Dec16 3100 call, sell 1x SX5E Mar17 3100
+24-Oct-16
+call for an upfront credit of 56bps
+-0.56% 1.62% Dec-16 expiry Monetise steep SX5E vol curve for tactical EU upside with an upfront credit
+Buy a 6M ATM worst-of call on XLP & GLD 11-Jul-16 1.05% 0.0% 6 months
+Buy a 6M ATM worst-of {SPX put, GLD call} 11-Jul-16 1.60% 0.0% 6 months
+Buy GLD 124/130 Dec-16 call spread 8-Nov-16 0.9% 0.0% Dec-16
+Buy GLD 116/124/130 Dec-16 call spread collar 8-Nov-16 0.65% -7.4% Dec-16
+Buy TLT 123/132/137 Dec-16 call spread collar 8-Nov-16 0.67% -5.03% Dec-16
+Buy Oct16 110%f calls on VIE FP, AI FP, IBE SQ, STAN LN 18-Jul-16
+and MUV2 GY
+2.37% 3.30% Oct-16 expiry
+Buy an Oct16 110%F call on an equally weighted basket
+(quanto EUR)
+18-Jul-16 0.81% 0.00% Oct-16 expiry
+Take a loss as safe-haven assets post a weak performance in H2-16 with fears over Trump’s
+surprise victory easing and stock markets rallying
+Add exposure via inexpensive upside on single names where positioning appears particularly
+bearish and stocks have underperformed vs. their sectors
+Buy 0.895x V2X Oct 21 puts, sell 1x VIX Oct 16 puts 19-Sep-16 0.0 $1.3 Oct-16 expiry Near term catalysts & curve differentials favour tactical long V2X, short VIX puts
+Sell SX7E Dec16 115 call 6-Sep-16 -0.88% -1.09% 24-Oct-16
+Close short SX7E call (part of SX5E put spread, short SX7E call trade) to limit potential risk from a
+“Yes” in the Italian referendum
+Global Equity Volatility Insights | 06 June 2017 25
+Table 7: Summary of closed trades as of 5-Jun-17
+Open Open Close
+Trade Description
+Date Level Level Close Date Rationale
+Buy HSI Oct-16 102% call, Sell HSP 105% call 19-Sep-16 0.60% 0.00% 28-Oct-16 HSP has under-performed HSI by 1.8% but both options expire out-of-the money
+Short 1x USO 3M 25d put, long 2.1x SXEP 3M 25d call 8-Aug-16 0.00% 0.00% 4-Nov-16
+The number of long SXEP calls per short USO put is historically high. Leverage commodity and
+equity strategists' views on oil and the Oil & Gas sector
+Sell Dec16 SXDP 635 puts, buy 0.6x Dec16 SX7E 110 calls 7-Nov-16 0.00% 1.23% 11-Nov-16 Tactical option trade ahead of US elections
+Long 0.5x V2X Nov16 future, short 0.5x V2X Jan-17 future 11-Jul-16 0.20 vols -1.19 vols Nov-16 expiry Hedge further Brexit fallout, Italian bank & referendum risk.
+Buy NIFTY Nov16 95/105 strangle outright 6-Sep-16 1.63% 6.36% 21-Nov-16 Close position as NIFTY has fallen 11.4% and we are approaching the expiry
+Buy H-shares w/ SZ-A & buy HSCEI Dec16 put 22-Aug-16 1.90% 8.72% 5-Dec-16 Close position as the Shenzhen HK connect has launched on 5-Dec-16
+Buy HK small-cap & buy HSCEI Dec16 put 22-Aug-16 1.90% 6.76% 5-Dec-16 Close position as the Shenzhen HK connect has launched on 5-Dec-16
+Buy 1.32x EFA US 3M 25d put, sell 1x SX5E 3M 25d put for
+22-Aug-16
+near 0 upfront premium
+0.04% 0.00% 22-Nov-16
+Buy 2.6x SX5E 3M 110% call, sell 1x SX5E 3M 90% put for
+near 0 upfront premium
+Own EFA puts vs ESTX50 puts to benefit from any increase in quantitative failure risk in Japan
+and post-Brexit uncertainty
+22-Aug-16 -0.04% 0.00% 22-Nov-16 Low vol, high skew combo makes ESTX50 levered riskies attractive
+Sell 1M 95%f SX5E put and buy 1M 105%f SX5E call 31-Oct-16 -0.40% 0.00% 1-Dec-16 Generate income in range-bound markets, benefiting from high ESTX50 skew
+Buy KOSPI2 Dec16 95% put, sell $KRW 97.4% put 17-Oct-16 0.00% 0.00% 8-Dec-16 Both legs expire out-of-the money at expiry
+Buy HSCEI Dec16 95% put, sell 2822 HK 94.8% put 12-Sep-16 0.00% 0.00% 29-Dec-16 Both legs expire out-of-the money
+Buy HSCEI Dec-16 105-115% call spread 27-Sep-16 1.82% 0.00% 29-Dec-16 HSCEI call spread expires out-of-the money
+Buy CH Banks Dec-16 105-115% call spread 27-Sep-16 2.05% 0.00% 29-Dec-16 Chinese Banks call spread expires out-of-the money
+Buy Best-of TWSE,KOSPI2,HSCEI Dec16 95% put 10-Oct-16 0.90% 0.00% 29-Dec-16 The best performing index (KOSPI2) fell less than 5% over the period
+Buy HSCEI Dec16 9800 call with a 10600 knock-out 7-Nov-16 1.00% 0.00% 29-Dec-16 HSCEI knock-out call expires out-of-the money
+Sell Samsung Jan17 90% put, buy KOSPI2 96% put 17-Oct-16 0.00% 0.00% 12-Jan-17 Both legs expire out-of-the money. The relative value trade has a zero profit & loss
+Buy an XOP Jan-17 45 call 22-Aug-16 1.4% 0.00% 20-Jan-17 Call expired out-of-the money at expiry
+Buy an XLE Jan-17 ATM call with 115% knock-in 22-Aug-16 2.5% 0.0% 20-Jan-17 Call expires in-the-money but the barrier was not breached at expiry
+Buy an XLE over SPX Jan-17 ATM outperformance call
+contingent on SPX up at expiry
+22-Aug-16 2.3% 3.4% 20-Jan-17
+Energy equity outperformed the overall equity market while both were up by the time the
+outperformance call expired
+Buy XLP Jan-17 52 / 49 put spread 19-Sep-16 1.4% 0.00% Jan-17 expiry Both legs expire out-of-the money
+Buy a 6M ATM best-of put on SPX & TLT 18-Jul-16 0.8% 0.00% 6 months Put expired out-of-the money as the S&P500 ended
+Buy LLY Jan-17 80/90 1x2 CS 17-Oct-16 1.8% 0.00% Jan-17 expiry Both legs expire out-of-the money
+Buy LLY Jan-17 80/85 CS with 90 KI on upper leg 17-Oct-16 2.4% 0.00% Jan-17 expiry Both legs expire out-of-the money
+Buy ZTS Jan-17 46/50 bullish risk reversal 17-Oct-16 2.6% 7.4% Jan-17 expiry Both legs expire in-of-the money
+Buy ZTS Jan-17 46/50/55 call spread collar 17-Oct-16 1.4% 7.4% Jan-17 expiry The 46 call and 50 call expire in-the-money
+Buy an EWZ Jan-17 40 call 24-Oct-16 3.1% 0.00% Jan-17 expiry Call expired out-of-the money at expiry
+Buy TPINSU 105-120% call spread, short 85% put 14-Nov-16 1.75% 4.50% 13-Jan-17 Option expired and Topix Insurance rose 9.5% over the period
+Buy TPNBNK 105-120% call spread, short 85% put 14-Nov-16 1.85% 10.60% 13-Jan-17 Option expired and Topix Banks rose 15.6% over the period
+Buy HSBC Jan-17 105% call, Sell HSP 105% call 14-Nov-16 0.52% 4.98% 26-Jan-17 Option expired; HSBC out-performed HSP on the upside
+Buy SX5E +Dec19/-Dec18 div future spread 4-Oct-16 €-7.0 €-4.2 6-Feb-17 Close position given sudden SX5E rally and Dec18 div future will lose equity beta
+Own Nifty Mar17 call to position for budget surprise 23-Jan-17 0.67% 2.15% 6-Feb-17 Nifty was up 4.9% over the period on the back of a positive budget announcement
+Buy HSI Feb17 23600 call 9-Jan-17 0.48% 1.09% 13-Feb-17 Close position. HSI was up 4.9% over the period
+Buy AMP AU 23-Feb-17 95% puts 30-Jan-17 1.85% 0.27% 13-Feb-17 Unwind the put option post the earnings result
+Buy SUN AU 23-Feb-17 95% puts 30-Jan-17 1.39% 0.08% 13-Feb-17 Unwind the put option post the earnings result
+Buy 1x V2X Feb17 19 calls, sell 0.85x V2X Mar17 futures 17-Jan-17 -16.1v -14.32v Feb-17 expiry Unwind as the Feb17 call expired
+Buy CBA AU 23-Feb-17 95% puts 30-Jan-17 0.76% 0.00% 21-Feb-17 Unwind the put option post the earnings result
+Overwrite WES AU 23-Feb-17 103% calls 30-Jan-17 -0.87% -1.20% 21-Feb-17 Unwind the put option post the earnings result
+Long V2X Apr future, short V2X May future
+9-Jan-17 0.45 4.55 24-Feb-17
+The Apr future has already richened significantly vs. the May future. Prefer V2X May long May call
+spread, short Apr put as a French election hedge instead.
+Buy 1x ESTX50 Dec17 3250 calls, sell 1.23x EURJPY Dec-
+17 115 puts
+5-Dec-16 0.00% 3.20% 24-Feb-17
+Unwind ahead of French elections as political uncertainty can weigh on the EUR
+Buy NKY Dec17 19500 call, short Mar17 18000 call 3-Oct-16 0.58% -1.82% 3-Mar-17 Unwind the option before the Mar-17 expiry
+Buy NKY Mar17-Dec17 17000 strike FVA 3-Oct-16 20.2% 21.6% 3-Mar-17 Unwind the option before the Mar-17 expiry
+Buy TPNBNK Mar17 1x1.5 180/170 put ratio 9-Jan-17 0.60% 0.00% 10-Mar-17 Option expired out-of-the money as the TPNBNK remained range-bounded
+Buy ESTX50 17-Mar-17 3350-3450 strangle 6-Mar-17 0.80% 0.00% 17-Mar-17 Expired out-of-the-money
+Buy Volkswagen 2017 dividend future 17-Jan-17 €1.3 €2.0 14-Mar-17 Volkswagen announced a dividend of €2.05 on 14-Mar-17
+Buy Mar17 UKX 6700 put cont. on GBPUSD<1.20 10-Oct-16 0.81% 0.0% 17-Mar-17
+Buy Mar17 UKX<6700 / GBPUSD<1.20 dual digital 10-Oct-16 9.1% 0.0% 17-Mar-17 UKX rallied making the hedges expire out-of-the-money
+Mar17 UKX 6700 buy qUSD put, sell 0.9x vanilla put 10-Oct-16 0.44% 0.0% 17-Mar-17
+Buy 6M ATM worst-of {XLF call, XLU put} 19-Sep-16 1.38% 0% 17-Mar-17 While XLF has rallied ~30% since inception, XLU is higher by 4% and the XLU put is the worst
+performing option, expiring OTM
+Buy an SPX Mar-17 97.5% put contingent on USO>105% at 3-Oct-16
+expiry
+1.08% 0% 17-Mar-17 The structure offered a deep discount for an SPX hedge and expires OTM as markets have rallied
+strongly
+Buy a USO Mar-17 105% call contingent on SPX<97.5% at 3-Oct-16
+expiry
+1.70% 0% 17-Mar-17 The trade expires OTM due to the SPX rally and a sell off in oil over the past two weeks
+Buy a Mar-17 SPX<97.5%, USO>105% dual digital 3-Oct-16 11.80% 0% 17-Mar-17 The trade expires OTM due to the SPX rally and a sell off in oil over the past two weeks
+Buy an IWM Mar-17 ATM call conditional on EEM<95% at 14-Nov-17 1.15% 0% 17-Mar-17 EEM has rallied 15% over the period together with IWM
+expiry
+Buy an XLI Mar-17 ATM call conditional on EEM<95% at expiry 14-Nov-17 0.89% 0% 17-Mar-17 EEM has rallied 15% over the period together with XLI
+Buy GLD Mar-17 116 call, sell Jun-17 127 call 23-Jan-17 1% 0.31% 17-Mar-17 While GLD rallied strongly earlier in the life of the trade, it recently retreated at the time of expiry
+with GLD 87bps above the lower strike, the short call is worth 56bps
+26 Global Equity Volatility Insights | 06 June 2017
+Table 7: Summary of closed trades as of 5-Jun-17
+Open Open Close
+Trade Description
+Date Level Level Close Date Rationale
+Long 2x SPX Aug-17 2200 puts, short 1x SPX Aug-17 2350 21-Feb-17
+put
+0.10% 0.01% 17-Mar-17 SPX has traded range bound since inception of the trade, still the carry has been minimal, close
+out or roll the position
+Own Nifty Mar17 strangle heading into 5 events 23-Jan-17 1.50% 3.96% 20-Mar-17 Unwind the option post the state election event and Close position
+Long XLF Jun17 24 call, short SX7E Jun17 120 call 2-Dec-16 0.74% -5.88% 27-Mar-17 The call vs call relative value trade is now riskier given the potential reversal in US reflation trades
+and the potential for European equities to rally in a French election market-favourable outcome.
+Buy Tencent Mar-17 105% calls 27-Feb-17 1.15% 2.31% 27-Mar-17 Unwind the position for the Tencent earnings
+Buy HSCEI Mar17 105% call contingent SPX <2200 24-Oct-16 1.20% 0.00% 30-Mar-17 Option expired; HSCEI was up 5.1% but the SPX ended above 2200
+Buy HSCEI Mar17 9600 put vs short Sep17 8200 put 17-Jan-17 -0.05% -0.78% 30-Mar-17 Unwind post Mar-17 expiry; the short Sep17 put helped reduce the hedging cost
+Buy HSCEI Mar-17 1x1.5 10800-11200 call ratio 21-Feb-17 0.57% 0.00% 30-Mar-17 Option expired; HSCEI stayed flat and failed to rally above the 10800 call strike
+Long SX5E Apr17 3300 call, short SX5E Dec17 3450 call 30-Jan-17 -0.60% -0.18% 21-Apr-17 Apr17 option expired so we unwind the entire trade as planned
+Short 1x SX5E May17 3350 calls, long 2x SX5E May17
+3450 calls
+21-Feb-17 0.00% 0.60% 24-Apr-17 Unwind before May expiry following the large 4% SX5E move on 24-Apr, given lack of near term
+catalysts
+Buy an SPX Apr-17 95% put conditional on US 10Y CMS > 14-Nov-16
+2.5% at maturity
+0.78% 0% 21-Apr-17 In Nov-16, we recommended remaining long equities with cheap hedges. The hedge expires out
+of the money, while SPX has returned 8.7% for the period
+Long SPX Apr17 2300 call, short SPX Dec17 2400 call 30-Jan-17 -0.80% -0.71% 21-Apr-17 The reflation trade has slowed down and the market is in a holding pattern. The long Apr-17 call
+expires in-the-money, and the short Dec-17 call still has time value
+Long VIX May 16 / 22 call spread vs. short VIX Apr 13 put 21-Feb-17 $0.35 $0.75 19-Apr-17 The call spread still has value due to elevated vol and vol-of-vol and we collect the premium on
+the expired short OTM put
+Short SPX 21-Apr-17 vs. long 28-Apr-17 2325 straddle pair 6-Mar-17 0.50% 1.06% 21-Apr-17 The trade benefited from the rise in post-event volatility relative to pre-event volatility
+Buy SX5E 28-Apr-17 3600 call 3-Apr-17 0.26% 0% 28-Apr-17 The option expired
+Buy Unicom Apr17 105-115% call spread 21-Feb-17 1.65% 4.25% 27-Apr-17 Single stock option expired in-the-money despite a 1.4% decline in the HSCEI
+Buy Sands China Apr17 105-115% call spread 21-Feb-17 2.00% 6.97% 27-Apr-17 Single stock option expired in-the-money despite a 1.4% decline in the HSCEI
+Buy Galaxy Apr17 105-115% call spread 21-Feb-17 2.10% 10.0% 27-Apr-17 Single stock option expired in-the-money despite a 1.4% decline in the HSCEI
+Buy SX5E Dec19 2500 put, sell SX5E Dec18 2500 put 27-Sep-16 3.97% 1.9% 8-May-17 SX5E has rallied 23.3% since we entered the trade and European political risk abated for now
+Buy KOSPI2 May17 103% calls 13-Mar-17 0.63% 5.37% 8-May-17 Option expired; KOSPI2 rallied 8.37% over the period
+Buy KOSPI2 May17 97/103% strangle 13-Mar-17 1.38% 5.37% 8-May-17 Option expired; KOSPI2 rallied 8.37% over the period
+Buy NKY Jun17 20750 call, sell 1-1.3x 18750-17750 put
+ratio
+06-Mar-17 0.00% 0.00% 15-May-17
+Closing the trade post French election; option strikes remain far from the spot level
+Long V2X May 26-32.5 call spread and short Apr 22 put 21-Feb-17 €0.20 €0.00 19-May-17 Expired
+Buy 1x contract of SX5E May17 3550 call, sell 5x contracts
+Expired
+of V2X May17 16 puts 3-Apr-17 0.0% -1.63% 19-May-17
+Long GLD May 123 call vs. short May 130 call 21-Feb-17 0.8% 0.00% 19-May-17 The hedge expired out-of-the-money as S&P 500 remained supported
+Buy 1.5x EFA Jun17 103% call, sell 1x EFA May17 ATM call 6-Mar-17 -0.15% -0.20% 19-May-17 EFA rallied strongly leading into the second round of the French elections but subsequently stalled
+Buy SPX Top50 volatility dispersion 27-Feb-16 14.7% 11.5% 30-May-17 Expired
+Long HSI vs. SPX May-17 90% put switch 06-Feb-17 0.07% 0.00% 29-May-17 Option expired; Both HSI and SPX puts expire out-of-the-money
+Buy the Nifty May17 95/105% strangle outright 20-Mar-17 1.20% 0.00% 25-May-17 Option expired; Nifty failed to move more than the straddle huddle (5%)
+Long HSBC May-17 65/70 call spread 3-Apr-17 0.95% 4.33% 29-May-17 Option expired; HSBC is up 6.75% on the back of a strong seasonal rally
+Source: BofA Merrill Lynch Global Research. Prices reflective of most recently available data which may be delayed in some cases. “Trade Value” represents current valuation of trades initiated on the “Open Date”.
+Global Equity Volatility Insights | 06 June 2017 27
+Volatility in Numbers (02-Jun-17)
+Table 8: Statistics on implied, realised, skew and term structure for 3-month and 12-month vols (developed markets)
+3-month
+12-month
+S&P500 ESTX50 FTSE DAX NKY HSI KOSPI S&P500 ESTX50 FTSE DAX NKY HSI KOSPI
+Implied 9.5% 13.0% 10.6% 12.2% 14.2% 12.4% 12.8% 13.8% 16.5% 13.4% 16.1% 17.3% 15.9% 14.8%
+%tile (2yr) 0.2% 0.0% 3.8% 0.0% 0.8% 2.6% 37.9% 2.6% 2.9% 5.7% 0.8% 3.9% 6.3% 32.4%
+1Week Change -0.1% -0.4% 0.4% -0.7% -0.2% 0.3% -0.3% -0.1% 0.1% 0.3% -0.3% 0.0% 0.2% 0.1%
+1Mth Change -0.6% -1.4% 0.1% -1.3% -0.7% 0.0% 0.9% 0.3% 0.0% 0.5% -0.4% -0.2% 0.7% 1.6%
+Realised 7.3% 11.1% 9.1% 10.0% 12.5% 10.3% 11.0% 9.6% 16.8% 12.7% 15.8% 19.8% 13.7% 11.5%
+%tile (2yr) 13.9% 11.8% 10.3% 1.0% 2.4% 0.6% 24.3% 1.6% 0.0% 0.0% 0.2% 14.7% 0.2% 24.5%
+1Week Change -0.4% -0.7% -0.6% -0.7% 0.1% -0.2% 0.1% 0.0% -0.3% 0.0% -0.1% 0.0% -0.1% 0.0%
+1Mth Change 0.4% -0.7% -0.2% -1.4% -0.4% -0.4% 2.4% -0.2% -0.7% -0.3% -0.5% -0.6% -0.4% 0.4%
+Imp-real spread 2.3% 1.9% 1.4% 2.3% 1.7% 2.2% 1.8% 4.1% -0.2% 0.8% 0.3% -2.5% 2.2% 3.3%
+Spread %tile (2yr) 51.4% 53.4% 61.9% 63.3% 67.8% 69.9% 64.4% 81.5% 79.8% 73.3% 79.6% 61.2% 88.0% 72.9%
+1Week Change 0.3% 0.3% 1.0% 0.0% -0.3% 0.5% -0.4% -0.2% 0.3% 0.3% -0.2% 0.0% 0.3% 0.1%
+1Mth Change -1.0% -0.6% 0.3% 0.1% -0.4% 0.4% -1.4% 0.5% 0.6% 0.9% 0.1% 0.4% 1.1% 1.2%
+90-110 skew 7.9% 7.1% 5.3% 7.1% 5.0% 2.3% 3.0%
+%tile (2yr) 4.6% 16.9% 1.1% 21.5% 19.0% 6.5% 2.7%
+1Week Change -0.9% -0.4% -0.4% -0.6% -1.0% -0.4% 0.2%
+1Mth Change 0.3% 0.8% -1.5% -0.4% -0.4% -0.7% -1.4%
+10-day realised
+12M - 3M term vol spread
+S&P500 ESTX50 FTSE DAX NKY HSI KOSPI S&P500 ESTX50 FTSE DAX NKY HSI KOSPI
+Current Level 6.6% 5.8% 4.6% 7.1% 11.1% 7.1% 10.6% 4.2% 3.6% 2.8% 3.8% 3.2% 3.5% 2.0%
+%tile (2yr) 21.8% 2.1% 0.6% 6.7% 16.3% 0.4% 46.2% 99.6% 100.0% 86.2% 100.0% 99.6% 98.9% 53.1%
+1Week Change -4.3% -4.1% -3.2% -0.6% 1.9% -0.9% 2.4% 0.0% 0.4% -0.1% 0.4% 0.2% -0.1% 0.4%
+1Mth Change -1.0% -14.4% -12.7% -10.5% -1.4% -4.8% 0.3% 0.9% 1.3% 0.4% 0.9% 0.5% 0.7% 0.6%
+Cash index
+Current Level 2,439.07 3,591.82 7,547.63 12,822.94 20,177.28 25,924.05 307.83
+1Wk Change 0.96% 0.36% 0.00% 1.75% 2.49% 1.11% 0.28%
+1Mth Change 2.00% 0.38% 4.10% 2.52% 3.76% 4.97% 6.28%
+Source: BofA Merrill Lynch Global Research
+Table 9: Statistics on implied, realised, skew and term structure for 3-month and 12-month vols (emerging markets)
+3-month
+12-month
+EEM US IBOV RDXUSD TOP40 EEM US IBOV RDXUSD TOP40
+Implied 15.4% 25.3% 24.7% 15.1% 19.0% 24.4% 26.1% 17.4%
+%tile (2yr) 4.0% 52.5% 13.4% 4.2% 6.9% 41.4% 12.1% 1.4%
+1Wk Change -0.1% 0.5% 1.2% 1.0% 0.3% 0.6% 0.2% 0.6%
+1Mth Change 0.8% 4.5% 1.0% 0.2% 1.6% 1.6% 0.3% -0.6%
+Realised 13.3% 26.3% 21.8% 10.9% 18.0% 22.9% 21.4% 14.9%
+%tile (2yr) 8.1% 70.1% 31.4% 1.0% 13.3% 9.7% 2.0% 0.6%
+1Wk Change -0.8% -0.2% 0.0% 0.1% 0.0% 0.1% 0.0% 0.0%
+1Mth Change 0.8% 7.6% 2.1% -1.2% -0.3% 1.6% 0.0% -0.4%
+Imp-real spread 2.2% -1.0% 2.9% 4.2% 1.1% 1.5% 4.7% 2.5%
+Spread %tile (2yr) 65.3% 24.4% 37.2% 76.4% 58.9% 67.9% 96.4% 44.1%
+1Wk Change 0.6% 0.8% 1.2% 0.9% 0.3% 0.5% 0.2% 0.6%
+1Mth Change 0.1% -3.0% -1.1% 1.4% 1.9% 0.0% 0.3% -0.2%
+90-110 skew 6.0% 4.9% 4.8% 7.2%
+%tile (2yr) 1.1% 28.7% 18.8% 14.6%
+1Wk Change -0.5% 0.5% 0.1% 0.5%
+1Mth Change -0.4% -0.9% 0.4% 0.7%
+10-day realised
+12M - 3M term vol spread
+EEM US IBOV RDXUSD TOP40 EEM US IBOV RDXUSD TOP40
+Current Level 13.1% 17.7% 21.2% 10.0% 3.6% -0.9% 1.4% 2.3%
+%tile (2yr) 23.0% 24.4% 31.8% 9.8% 98.7% 24.7% 79.9% 64.8%
+1Wk Change -4.1% -32.0% -6.4% 5.0% 0.5% 0.0% -1.0% -0.4%
+1Mth Change 1.2% -1.9% 8.2% -3.2% 0.7% -2.9% -0.8% -0.8%
+Cash index
+Current Level 41.76 62,510.70 1,189.17 46,522.53
+1Wk Change 0.05% -2.46% -3.33% -2.13%
+1Mth Change 2.91% -6.31% -6.17% -1.31%
+Source: BofA Merrill Lynch Global Research
+28 Global Equity Volatility Insights | 06 June 2017
+Options Risk Statement
+Potential Risk at Expiry & Options Limited Duration Risk
+Unlike owning or shorting a stock, employing any listed options strategy is by definition
+governed by a finite duration. The most severe risks associated with general options
+trading are total loss of capital invested and delivery/assignment risk, all of which can
+occur in a short period.
+Investor suitability
+The use of standardized options and other related derivatives instruments are
+considered unsuitable for many investors. Investors considering such strategies are
+encouraged to become familiar with the "Characteristics and Risks of Standardized
+Options" (an OCC authored white paper on options risks). U.S. investors should consult
+with a FINRA Registered Options Principal. For detailed information regarding the risks
+involved with investing in listed options:
+http://www.theocc.com/about/publications/character-risks.jsp
+Price objective basis & risk
+Deutsche Telekom (DTEGF / DTEGY, B-2-7, EUR17.42/US$19.45)
+Our price objective for DT is EUR18.0/sh (US$19.62) and is derived from our Sum-ofthe-Parts
+analysis.
+Each business is valued via DCF (except MtM for TMUS and OTE ) using a 7.0% WACC
+and 1.00% terminal growth rate for Domestic and Western Europe assets (and 8.0%
+WACC/1% term growth for Eastern Europe assets) and cross-checked using implied
+valuation multiple analysis.
+Our Domestic business valuation reflects DT's solid positioning in both fixed (FTTC
+rollout) and mobile (superior network quality, integrated business model).
+Upside risks to our PO are any asset sales (US, non-integrated assets in Austria or NL)
+and revenue upside from T-Home's TV push.
+Downside risks to our PO are higher than expected mobile impact coming from new
+Drillisch tariffs or failure to turnaround good US operational trends into more profitable
+revenue streams.
+Analyst Certification
+We, Benjamin Bowler, Clovis Couasnon and Frederic Boulan, CFA, hereby certify that the
+views each of us has expressed in this research report accurately reflect each of our
+respective personal views about the subject securities and issuers. We also certify that
+no part of our respective compensation was, is, or will be, directly or indirectly, related
+to the specific recommendations or view expressed in this research report.
+Special Disclosures
+BofA Merrill Lynch is currently acting as Financial Advisor to Royal Dutch Shell PLC in
+connection with its proposed sale of its UK North Sea assets to Chrysaor LTD, which
+was announced on January 31, 2017.
+Global Equity Volatility Insights | 06 June 2017 29
+EMEA - Telecoms Coverage Cluster
+Investment rating
+BUY
+NEUTRAL
+UNDERPERFORM
+RSTR
+RVW
+Company
+BofA Merrill Lynch
+ticker Bloomberg symbol Analyst
+BT BT BT US Sunil P. Patel
+BT BTGOF BT/A LN Sunil P. Patel
+DNA Oyj XDNAF DNA FH Sunil P. Patel
+Iliad ILIAF ILD FP Frederic Boulan, CFA
+Inwit XISWF INW IM Parin Shah, CFA
+KPN KKPNF KPN NA Frederic Boulan, CFA
+Orange FNCTF ORA FP Frederic Boulan, CFA
+Orange ORAN ORAN US Frederic Boulan, CFA
+TDC A/S TDCAF TDC DC Sunil P. Patel
+Tele Columbus XBTLF TC1 GR Sunil P. Patel
+Telecom Italia -RSP TIAJF TITR IM David Wright
+Telecom Italia SPA TI TI US David Wright
+Telecom Italia SPA TIAOF TIT IM David Wright
+Telefonica SA TEFOF TEF SM David Wright
+Telefonica SA TEF TEF US David Wright
+Telenet Group Holding NV TLGHF TNET BB David Wright
+Telenor TELNF TEL NO Sunil P. Patel
+Telenor TELNY TELNY US Sunil P. Patel
+Bouygues BOUYF EN FP Frederic Boulan, CFA
+Deutsche Telekom DTEGY DTEGY US Frederic Boulan, CFA
+Deutsche Telekom DTEGF DTE GR Frederic Boulan, CFA
+Liberty Global LBTYA LBTYA US David Wright
+Orange Belgium MBSRF OBEL BB David Wright
+SFR Group SA NUMCF SFR FP Frederic Boulan, CFA
+Swisscom SWZCF SCMN VX Frederic Boulan, CFA
+Swisscom SCMWY SCMWY US Frederic Boulan, CFA
+Telia Company TLSNF TELIA SS Sunil P. Patel
+Vodafone Group VOD VOD US David Wright
+Vodafone Group VODPF VOD LN David Wright
+Cellnex XWHXF CLNX SM Parin Shah, CFA
+Ei Towers EITOF EIT IM Parin Shah, CFA
+Elisa ELMUF ELISA FH Sunil P. Patel
+Proximus BGAOF PROX BB David Wright
+RAI Way XRWSF RWAY IM Parin Shah, CFA
+TalkTalk TLKTF TALK LN Sunil P. Patel
+Tele2 AB TLTZF TEL2B SS Sunil P. Patel
+Telefonica Deutschland TELDF O2D GR Frederic Boulan, CFA
+Altice NV -A ALLVF ATC NA Frederic Boulan, CFA
+Altice NV -B ALVVF ATCB NA Frederic Boulan, CFA
+Drillisch AG DRHKF DRI GY Frederic Boulan, CFA
+United Internet AG UDIRF UTDI GY Frederic Boulan, CFA
+30 Global Equity Volatility Insights | 06 June 2017
+EMEA - Utilities Coverage Cluster
+Investment rating
+BUY
+NEUTRAL
+UNDERPERFORM
+RSTR
+Company
+BofA Merrill Lynch
+ticker Bloomberg symbol Analyst
+EDF ECIFF EDF FP Peter Bisztyga
+EDP EDPFY EDPFY US Harry Wyburd
+EDP ELCPF EDP PL Harry Wyburd
+EDP Renovaveis EDRVF EDPR PL Pinaki Das
+Enel ESOCF ENEL IM Harry Wyburd
+Engie ENGQF ENGI FP Peter Bisztyga
+Gamesa GCTAF GAM SM Pinaki Das
+Iberdrola IBDSF IBE SM Peter Bisztyga
+innogy XISAF IGY GR Peter Bisztyga
+National Grid NGGTF NG/ LN Fraser McLaren
+National Grid NGG NGG US Fraser McLaren
+Red Electrica RDEIF REE SM Harry Wyburd
+Saeta Yield XSTAF SAY SM Pinaki Das
+Senvion SA XSHVF SEN GR Pinaki Das
+Suez SZEVF SEV FP Pinaki Das
+Terna TERRF TRN IM Harry Wyburd
+Veolia VEOEF VIE FP Pinaki Das
+Veolia VEOEY VEOEY US Pinaki Das
+Vestas VWSYF VWS DC Pinaki Das
+Acciona ACXIF ANA SM Pinaki Das
+Drax Group Ltd DRXGF DRX LN Fraser McLaren
+E.ON ENAKF EOAN GR Peter Bisztyga
+E.ON EONGY EONGY US Peter Bisztyga
+Gas Natural Fenosa GASNF GAS SM Harry Wyburd
+Italgas XXYZF IG IM Harry Wyburd
+Nordex NRDXF NDX1 GR Pinaki Das
+RWE RWNFF RWE GR Peter Bisztyga
+RWE RWEOY RWEOY US Peter Bisztyga
+SSE SSEZF SSE LN Fraser McLaren
+SSE SSEZY SSEZY US Fraser McLaren
+Uniper XUIKF UN01 GY Peter Bisztyga
+Centrica CPYYF CNA LN Fraser McLaren
+Centrica CPYYY CPYYY US Fraser McLaren
+DONG Energy XDJBF DENERG DC Pinaki Das
+Enagas ENGGF ENG SM Harry Wyburd
+Endesa ELEZF ELE SM Harry Wyburd
+Fortum FOJCF FORTUM FH Peter Bisztyga
+Pennon PEGRF PNN LN Fraser McLaren
+Severn Trent SVTRF SVT LN Fraser McLaren
+Snam SNMRF SRG IM Harry Wyburd
+United Utilities UUGWF UU/ LN Fraser McLaren
+Abengoa B AGOAF ABG/P SM Pinaki Das
+Global Equity Volatility Insights | 06 June 2017 31
+EMEA - Integrated & Refiners Coverage Cluster
+Investment rating
+BUY
+NEUTRAL
+UNDERPERFORM
+Company
+BofA Merrill Lynch
+ticker Bloomberg symbol Analyst
+Eni E E US Hamish Clegg
+Eni EIPAF ENI IM Hamish Clegg
+Galp Energia GLPEF GALP PL Hamish Clegg
+Royal Dutch Shell B RDSB RDS/B US Christopher Kuplent
+Royal Dutch Shell B RYDBF RDSB LN Christopher Kuplent
+Royal Dutch Shell PLC Shs A RDSA RDS/A US Christopher Kuplent
+Royal Dutch Shell PLC Shs A RYDAF RDSA LN Christopher Kuplent
+Statoil STOHF STL NO Hamish Clegg
+Statoil STO STO US Hamish Clegg
+BP plc BP BP US Christopher Kuplent
+BP plc BPAQF BP/ LN Christopher Kuplent
+Repsol REPYY REPYY US Hamish Clegg
+Repsol REPYF REP SM Hamish Clegg
+Total TTFNF FP FP Christopher Kuplent
+Total TOT TOT US Christopher Kuplent
+Neste NTOIF NESTE FH Georgia Harris
+OMV OMVJF OMV AV Hamish Clegg
+OMV OMVKY OMVKY US Hamish Clegg
+Disclosures
+Important Disclosures
+DTEGF Price Chart
+1-Jun N
+Ristimaki
+PO:EUR12
+21
+18
+15
+12
+9
+6
+3
+0
+DTEGF
+4-Nov B
+Boulan
+PO:EUR13
+9-Dec
+PO:EUR15
+29-Jan
+PO:EUR18
+7-Dec
+PO:EUR19
+23-Feb
+PO:EUR18
+5-May
+PO:EUR19
+13-Dec
+PO:EUR20
+12-Jan N
+PO:EUR19
+1-Jan-15 1-Jan-16 1-Jan-17
+Review Restricted No Coverage
+6-Mar
+PO:EUR18
+B: Buy, N: Neutral, U: Underperform, PO: Price Objective, NA: No longer valid, NR: No Rating
+The Investment Opinion System is contained at the end of the report under the heading "Fundamental Equity Opinion Key". Dark grey shading indicates the security is restricted with the opinion suspended. Medium grey
+shading indicates the security is under review with the opinion withdrawn. Light grey shading indicates the security is not covered. Chart is current as of May 31, 2017 or such later date as indicated.
+32 Global Equity Volatility Insights | 06 June 2017
+DTEGY Price Chart
+1-Jun N
+Ristimaki
+PO:US$15
+21
+18
+15
+12
+9
+6
+3
+0
+DTEGY
+4-Nov B
+Boulan
+PO:US$16
+9-Dec
+PO:US$18
+9-Jan
+PO:US$17
+2-Mar
+PO:US$20
+29-Jan
+PO:US$21
+7-Dec
+PO:US$21
+23-Feb
+PO:US$20
+5-May
+PO:US$21
+31-Aug
+PO:US$22
+13-Dec
+PO:US$21
+12-Jan N
+PO:US$20
+1-Jan-15 1-Jan-16 1-Jan-17
+Review Restricted No Coverage
+B: Buy, N: Neutral, U: Underperform, PO: Price Objective, NA: No longer valid, NR: No Rating
+The Investment Opinion System is contained at the end of the report under the heading "Fundamental Equity Opinion Key". Dark grey shading indicates the security is restricted with the opinion suspended. Medium grey
+shading indicates the security is under review with the opinion withdrawn. Light grey shading indicates the security is not covered. Chart is current as of May 31, 2017 or such later date as indicated.
+ESOCF Price Chart
+4.90
+4.20
+3.50
+2.80
+2.10
+1.40
+0.70
+0.00
+ESOCF
+13-Jan B
+Wyburd
+PO:EUR4.35
+27-Feb
+PO:EUR4.70
+23-Mar
+PO:EUR5.00
+3-Sep
+PO:EUR4.95
+25-Jan
+PO:EUR4.75
+1-Jan-15 1-Jan-16 1-Jan-17
+Review Restricted No Coverage
+B: Buy, N: Neutral, U: Underperform, PO: Price Objective, NA: No longer valid, NR: No Rating
+The Investment Opinion System is contained at the end of the report under the heading "Fundamental Equity Opinion Key". Dark grey shading indicates the security is restricted with the opinion suspended. Medium grey
+shading indicates the security is under review with the opinion withdrawn. Light grey shading indicates the security is not covered. Chart is current as of May 31, 2017 or such later date as indicated.
+IBDSF Price Chart
+26-Nov B
+Franco
+PO:EUR6.60
+15-Dec
+PO:EUR7.40
+19-Feb
+PO:EUR7.10
+15-Dec
+PO:EUR6.80
+8.00
+6.00
+15-Mar
+Bisztyga
+4.00
+2.00
+0.00
+IBDSF
+1-Jan-15 1-Jan-16 1-Jan-17
+Review Restricted No Coverage
+B: Buy, N: Neutral, U: Underperform, PO: Price Objective, NA: No longer valid, NR: No Rating
+The Investment Opinion System is contained at the end of the report under the heading "Fundamental Equity Opinion Key". Dark grey shading indicates the security is restricted with the opinion suspended. Medium grey
+shading indicates the security is under review with the opinion withdrawn. Light grey shading indicates the security is not covered. Chart is current as of May 31, 2017 or such later date as indicated.
+Global Equity Volatility Insights | 06 June 2017 33
+RYDAF Price Chart
+1-Jun N
+Kuplent
+PO:2420p
+21-Jul
+PO:2460p
+28
+24
+20
+16
+12
+8
+4
+0
+RYDAF
+9-Sep
+PO:2550p
+31-Oct
+PO:2550p
+25-Nov
+PO:2520p
+5-Dec
+PO:2400p
+15-Oct 11-Dec
+PO:2500pPO:2315p
+16-Jan
+PO:2180p
+16-Feb B
+PO:2135p
+5-May
+PO:2000p
+27-May
+PO:1950p
+8-Jun
+PO:2050p
+15-Jul
+PO:2350p
+29-Jul
+PO:2230p
+19-Oct
+PO:2380p
+9-Dec
+PO:2400p
+24-Jan
+PO:2420p
+1-Jan-15 1-Jan-16 1-Jan-17
+Review Restricted No Coverage
+3-Feb
+PO:2490p
+10-Mar
+PO:2500p
+11-May
+PO:2400p
+5-May
+PO:2530p
+B: Buy, N: Neutral, U: Underperform, PO: Price Objective, NA: No longer valid, NR: No Rating
+The Investment Opinion System is contained at the end of the report under the heading "Fundamental Equity Opinion Key". Dark grey shading indicates the security is restricted with the opinion suspended. Medium grey
+shading indicates the security is under review with the opinion withdrawn. Light grey shading indicates the security is not covered. Chart is current as of May 31, 2017 or such later date as indicated.
+Equity Investment Rating Distribution: Energy Group (as of 31 Mar 2017)
+Coverage Universe Count Percent Inv. Banking Relationships* Count Percent
+Buy 109 49.77% Buy 84 77.06%
+Hold 52 23.74% Hold 43 82.69%
+Sell 58 26.48% Sell 34 58.62%
+Equity Investment Rating Distribution: Telecommunications Group (as of 31 Mar 2017)
+Coverage Universe Count Percent Inv. Banking Relationships* Count Percent
+Buy 78 52.00% Buy 53 67.95%
+Hold 30 20.00% Hold 20 66.67%
+Sell 42 28.00% Sell 14 33.33%
+Equity Investment Rating Distribution: Utilities Group (as of 31 Mar 2017)
+Coverage Universe Count Percent Inv. Banking Relationships* Count Percent
+Buy 60 48.39% Buy 39 65.00%
+Hold 35 28.23% Hold 26 74.29%
+Sell 29 23.39% Sell 17 58.62%
+Equity Investment Rating Distribution: Global Group (as of 31 Mar 2017)
+Coverage Universe Count Percent Inv. Banking Relationships* Count Percent
+Buy 1578 51.33% Buy 979 62.04%
+Hold 690 22.45% Hold 434 62.90%
+Sell 806 26.22% Sell 381 47.27%
+* Issuers that were investment banking clients of BofA Merrill Lynch or one of its affiliates within the past 12 months. For purposes of this Investment Rating Distribution, the coverage universe includes only stocks. A
+stock rated Neutral is included as a Hold, and a stock rated Underperform is included as a Sell.
+FUNDAMENTAL EQUITY OPINION KEY: Opinions include a Volatility Risk Rating, an Investment Rating and an Income Rating. VOLATILITY RISK RATINGS, indicators of potential
+price fluctuation, are: A - Low, B - Medium and C - High. INVESTMENT RATINGS reflect the analyst’s assessment of a stock’s: (i) absolute total return potential and (ii)
+attractiveness for investment relative to other stocks within its Coverage Cluster (defined below). There are three investment ratings: 1 - Buy stocks are expected to have a total
+return of at least 10% and are the most attractive stocks in the coverage cluster; 2 - Neutral stocks are expected to remain flat or increase in value and are less attractive than
+Buy rated stocks and 3 - Underperform stocks are the least attractive stocks in a coverage cluster. Analysts assign investment ratings considering, among other things, the 0-12
+month total return expectation for a stock and the firm’s guidelines for ratings dispersions (shown in the table below). The current price objective for a stock should be
+referenced to better understand the total return expectation at any given time. The price objective reflects the analyst’s view of the potential price appreciation (depreciation).
+Investment rating Total return expectation (within 12-month period of date of initial rating) Ratings dispersion guidelines for coverage cluster*
+Buy ≥ 10% ≤ 70%
+Neutral ≥ 0% ≤ 30%
+Underperform N/A ≥ 20%
+* Ratings dispersions may vary from time to time where BofA Merrill Lynch Research believes it better reflects the investment prospects of stocks in a Coverage Cluster.
+INCOME RATINGS, indicators of potential cash dividends, are: 7 - same/higher (dividend considered to be secure), 8 - same/lower (dividend not considered to be secure) and 9 - pays
+no cash dividend. Coverage Cluster is comprised of stocks covered by a single analyst or two or more analysts sharing a common industry, sector, region or other classification(s). A stock’s
+coverage cluster is included in the most recent BofA Merrill Lynch report referencing the stock.
+Price charts for the securities referenced in this research report are available at http://pricecharts.baml.com, or call 1-800-MERRILL to have them mailed.
+One or more analysts responsible for covering the securities in this report owns options on the financial instrument
+The issuer is or was, within the last 12 months, an investment banking client of MLPF&S and/or one or more of its affiliates: Deutsche Telekom, Enel SpA, Iberdrola, Royal Dtch Shell.
+MLPF&S or an affiliate has received compensation from the issuer for non-investment banking services or products within the past 12 months: Deutsche Telekom, Enel SpA, Iberdrola, Royal
+Dtch Shell.
+The issuer is or was, within the last 12 months, a non-securities business client of MLPF&S and/or one or more of its affiliates: Deutsche Telekom, Enel SpA, Iberdrola, Royal Dtch Shell.
+In the US, retail sales and/or distribution of this report may be made only in states where these securities are exempt from registration or have been qualified for sale: Deutsche Telekom, Enel
+SpA, Iberdrola.
+MLPF&S or an affiliate has received compensation for investment banking services from this issuer within the past 12 months: Deutsche Telekom, Enel SpA, Iberdrola.
+34 Global Equity Volatility Insights | 06 June 2017
+MLPF&S or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer or an affiliate of the issuer within the next three months: Deutsche
+Telekom, Enel SpA, Iberdrola, Royal Dtch Shell.
+MLPF&S together with its affiliates beneficially owns one percent or more of the common stock of this issuer. If this report was issued on or after the 9th day of the month, it reflects the
+ownership position on the last day of the previous month. Reports issued before the 9th day of a month reflect the ownership position at the end of the second month preceding the date of
+the report: Royal Dtch Shell.
+MLPF&S or one of its affiliates is willing to sell to, or buy from, clients the common equity of the issuer on a principal basis: Deutsche Telekom.
+The issuer is or was, within the last 12 months, a securities business client (non-investment banking) of MLPF&S and/or one or more of its affiliates: Deutsche Telekom, Enel SpA, Iberdrola,
+Royal Dtch Shell.
+BofA Merrill Lynch Research Personnel (including the analyst(s) responsible for this report) receive compensation based upon, among other factors, the overall profitability of Bank of America
+Corporation, including profits derived from investment banking. The analyst(s) responsible for this report may also receive compensation based upon, among other factors, the overall
+profitability of the Bank’s sales and trading businesses relating to the class of securities or financial instruments for which such analyst is responsible.
+Other Important Disclosures
+Prices are indicative and for information purposes only. Except as otherwise stated in the report, for the purpose of any recommendation in relation to: (i) an equity security, the price
+referenced is the publicly traded price of the security as of close of business on the day prior to the date of the report or, if the report is published during intraday trading, the price referenced is
+indicative of the traded price as of the date and time of the report; or (ii) a debt security (including equity preferred and CDS), prices are indicative as of the date and time of the report and are
+from various sources including Bank of America Merrill Lynch trading desks.
+The date and time of completion of the production of any recommendation in this report shall be the date and time of dissemination of this report as recorded in the report timestamp.
+Officers of MLPF&S or one or more of its affiliates (other than research analysts) may have a financial interest in securities of the issuer(s) or in related investments.
+BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+"BofA Merrill Lynch" includes Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S") and its affiliates. Investors should contact their BofA Merrill Lynch representative or
+Merrill Lynch Global Wealth Management financial advisor if they have questions concerning this report. "BofA Merrill Lynch" and "Merrill Lynch" are each global brands for BofA
+Merrill Lynch Global Research.
+Information relating to Non-US affiliates of BofA Merrill Lynch and Distribution of Affiliate Research Reports:
+MLPF&S distributes, or may in the future distribute, research reports of the following non-US affiliates in the US (short name: legal name, regulator): Merrill Lynch (South Africa): Merrill Lynch
+South Africa (Pty) Ltd., regulated by The Financial Service Board; MLI (UK): Merrill Lynch International, regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority
+(PRA); Merrill Lynch (Australia): Merrill Lynch Equities (Australia) Limited, regulated by the Australian Securities and Investments Commission; Merrill Lynch (Hong Kong): Merrill Lynch (Asia
+Pacific) Limited, regulated by the Hong Kong Securities and Futures Commission (HKSFC); Merrill Lynch (Singapore): Merrill Lynch (Singapore) Pte Ltd, regulated by the Monetary Authority of
+Singapore (MAS); Merrill Lynch (Canada): Merrill Lynch Canada Inc, regulated by the Investment Industry Regulatory Organization of Canada; Merrill Lynch (Mexico): Merrill Lynch Mexico, SA de
+CV, Casa de Bolsa, regulated by the Comisión Nacional Bancaria y de Valores; Merrill Lynch (Argentina): Merrill Lynch Argentina SA, regulated by Comisión Nacional de Valores; Merrill Lynch
+(Japan): Merrill Lynch Japan Securities Co., Ltd., regulated by the Financial Services Agency; Merrill Lynch (Seoul): Merrill Lynch International Incorporated (Seoul Branch) regulated by the
+Financial Supervisory Service; Merrill Lynch (Taiwan): Merrill Lynch Securities (Taiwan) Ltd., regulated by the Securities and Futures Bureau; DSP Merrill Lynch (India): DSP Merrill Lynch Limited,
+regulated by the Securities and Exchange Board of India; Merrill Lynch (Indonesia): PT Merrill Lynch Sekuritas Indonesia, regulated by Otoritas Jasa Keuangan (OJK); Merrill Lynch (Israel): Merrill
+Lynch Israel Limited, regulated by Israel Securities Authority; Merrill Lynch (Russia): OOO Merrill Lynch Securities, Moscow, regulated by the Central Bank of the Russian Federation; Merrill Lynch
+(DIFC): Merrill Lynch International (DIFC Branch), regulated by the Dubai Financial Services Authority (DFSA); Merrill Lynch (Spain): Merrill Lynch Capital Markets Espana, S.A.S.V., regulated by
+Comisión Nacional del Mercado De Valores; Merrill Lynch (Brazil): Bank of America Merrill Lynch Banco Multiplo S.A., regulated by Comissão de Valores Mobiliários; Merrill Lynch KSA Company,
+Merrill Lynch Kingdom of Saudi Arabia Company, regulated by the Capital Market Authority.
+This research report: has been approved for publication and is distributed in the United Kingdom (UK) to professional clients and eligible counterparties (as each is defined in the rules of the
+FCA and the PRA) by MLI (UK) and Bank of America Merrill Lynch International Limited, which are authorized by the PRA and regulated by the FCA and the PRA, and is distributed in the UK to
+retail clients (as defined in the rules of the FCA and the PRA) by Merrill Lynch International Bank Limited, London Branch, which is authorized by the Central Bank of Ireland and subject to
+limited regulation by the FCA and PRA - details about the extent of our regulation by the FCA and PRA are available from us on request; has been considered and distributed in Japan by Merrill
+Lynch (Japan), a registered securities dealer under the Financial Instruments and Exchange Act in Japan; is issued and distributed in Hong Kong by Merrill Lynch (Hong Kong) which is regulated
+by HKSFC is issued and distributed in Taiwan by Merrill Lynch (Taiwan); is issued and distributed in India by DSP Merrill Lynch (India); and is issued and distributed in Singapore to institutional
+investors and/or accredited investors (each as defined under the Financial Advisers Regulations) by Merrill Lynch International Bank Limited (Merchant Bank) (MLIBLMB) and Merrill Lynch
+(Singapore) (Company Registration Nos F 06872E and 198602883D respectively). MLIBLMB and Merrill Lynch (Singapore) are regulated by MAS. Bank of America N.A., Australian Branch (ARBN
+064 874 531), AFS License 412901 (BANA Australia) and Merrill Lynch Equities (Australia) Limited (ABN 65 006 276 795), AFS License 235132 (MLEA) distribute this report in Australia only to
+'Wholesale' clients as defined by s.761G of the Corporations Act 2001. With the exception of BANA Australia, neither MLEA nor any of its affiliates involved in preparing this research report is an
+Authorised Deposit-Taking Institution under the Banking Act 1959 nor regulated by the Australian Prudential Regulation Authority. No approval is required for publication or distribution of this
+report in Brazil and its local distribution is by Merrill Lynch (Brazil) in accordance with applicable regulations. Merrill Lynch (DIFC) is authorized and regulated by the DFSA. Research reports
+prepared and issued by Merrill Lynch (DIFC) are done so in accordance with the requirements of the DFSA conduct of business rules. Bank of America Merrill Lynch International Limited,
+Frankfurt Branch (BAMLI Frankfurt) distributes this report in Germany and is regulated by BaFin.
+This research report has been prepared and issued by MLPF&S and/or one or more of its non-US affiliates. MLPF&S is the distributor of this research report in the US and accepts full
+responsibility for research reports of its non-US affiliates distributed to MLPF&S clients in the US. Any US person receiving this research report and wishing to effect any transaction in any
+security discussed in the report should do so through MLPF&S and not such foreign affiliates. Hong Kong recipients of this research report should contact Merrill Lynch (Asia Pacific) Limited in
+respect of any matters relating to dealing in securities or provision of specific advice on securities or any other matters arising from, or in connection with, this report. Singapore recipients of
+this research report should contact Merrill Lynch International Bank Limited (Merchant Bank) and/or Merrill Lynch (Singapore) Pte Ltd in respect of any matters arising from, or in connection
+with, this research report.
+General Investment Related Disclosures:
+Taiwan Readers: Neither the information nor any opinion expressed herein constitutes an offer or a solicitation of an offer to transact in any securities or other financial instrument. No part of
+this report may be used or reproduced or quoted in any manner whatsoever in Taiwan by the press or any other person without the express written consent of BofA Merrill Lynch.
+This research report provides general information only, and has been prepared for, and is intended for general distribution to, BofA Merrill Lynch clients. Neither the information nor any opinion
+expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities or other financial instrument or any derivative related to such securities or instruments (e.g.,
+options, futures, warrants, and contracts for differences). This report is not intended to provide personal investment advice and it does not take into account the specific investment objectives,
+financial situation and the particular needs of, and is not directed to, any specific person(s). This report and its content do not constitute, and should not be considered to constitute, investment
+advice for purposes of ERISA, the US tax code, the Investment Advisers Act or otherwise. Investors should seek financial advice regarding the appropriateness of investing in financial
+instruments and implementing investment strategies discussed or recommended in this report and should understand that statements regarding future prospects may not be realized. Any
+decision to purchase or subscribe for securities in any offering must be based solely on existing public information on such security or the information in the prospectus or other offering
+document issued in connection with such offering, and not on this report.
+Securities and other financial instruments discussed in this report, or recommended, offered or sold by Merrill Lynch, are not insured by the Federal Deposit Insurance Corporation and are not
+deposits or other obligations of any insured depository institution (including, Bank of America, N.A.). Investments in general and, derivatives, in particular, involve numerous risks, including,
+among others, market risk, counterparty default risk and liquidity risk. No security, financial instrument or derivative is suitable for all investors. In some cases, securities and other financial
+instruments may be difficult to value or sell and reliable information about the value or risks related to the security or financial instrument may be difficult to obtain. Investors should note that
+income from such securities and other financial instruments, if any, may fluctuate and that price or value of such securities and instruments may rise or fall and, in some cases, investors may
+Global Equity Volatility Insights | 06 June 2017 35
+lose their entire principal investment. Past performance is not necessarily a guide to future performance. Levels and basis for taxation may change.
+This report may contain a short-term trading idea or recommendation, which highlights a specific near-term catalyst or event impacting the issuer or the market that is anticipated to have a
+short-term price impact on the equity securities of the issuer. Short-term trading ideas and recommendations are different from and do not affect a stock's fundamental equity rating, which
+reflects both a longer term total return expectation and attractiveness for investment relative to other stocks within its Coverage Cluster. Short-term trading ideas and recommendations may
+be more or less positive than a stock's fundamental equity rating.
+Futures and options are not appropriate for all investors. Such financial instruments may expire worthless. Before investing in futures or options, clients must receive the appropriate risk
+disclosure documents. Investment strategies explained in this report may not be appropriate at all times. Costs of such strategies do not include commission or margin expenses.
+BofA Merrill Lynch is aware that the implementation of the ideas expressed in this report may depend upon an investor's ability to "short" securities or other financial instruments and that such
+action may be limited by regulations prohibiting or restricting "shortselling" in many jurisdictions. Investors are urged to seek advice regarding the applicability of such regulations prior to
+executing any short idea contained in this report.
+Foreign currency rates of exchange may adversely affect the value, price or income of any security or financial instrument mentioned in this report. Investors in such securities and instruments,
+including ADRs, effectively assume currency risk.
+UK Readers: The protections provided by the U.K. regulatory regime, including the Financial Services Scheme, do not apply in general to business coordinated by BofA Merrill Lynch entities
+located outside of the United Kingdom. BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+MLPF&S or one of its affiliates is a regular issuer of traded financial instruments linked to securities that may have been recommended in this report. MLPF&S or one of its affiliates may, at any
+time, hold a trading position (long or short) in the securities and financial instruments discussed in this report.
+BofA Merrill Lynch, through business units other than BofA Merrill Lynch Global Research, may have issued and may in the future issue trading ideas or recommendations that are inconsistent
+with, and reach different conclusions from, the information presented in this report. Such ideas or recommendations reflect the different time frames, assumptions, views and analytical
+methods of the persons who prepared them, and BofA Merrill Lynch is under no obligation to ensure that such other trading ideas or recommendations are brought to the attention of any
+recipient of this report.
+In the event that the recipient received this report pursuant to a contract between the recipient and MLPF&S for the provision of research services for a separate fee, and in connection
+therewith MLPF&S may be deemed to be acting as an investment adviser, such status relates, if at all, solely to the person with whom MLPF&S has contracted directly and does not extend
+beyond the delivery of this report (unless otherwise agreed specifically in writing by MLPF&S). MLPF&S is and continues to act solely as a broker-dealer in connection with the execution of any
+transactions, including transactions in any securities mentioned in this report.
+Copyright and General Information regarding Research Reports:
+Copyright 2017 Bank of America Corporation. All rights reserved. iQmethod, iQmethod 2.0, iQprofile, iQtoolkit, iQworks are service marks of Bank of America Corporation. iQanalytics®,
+iQcustom®, iQdatabase® are registered service marks of Bank of America Corporation. This research report is prepared for the use of BofA Merrill Lynch clients and may not be redistributed,
+retransmitted or disclosed, in whole or in part, or in any form or manner, without the express written consent of BofA Merrill Lynch. BofA Merrill Lynch Global Research reports are distributed
+simultaneously to internal and client websites and other portals by BofA Merrill Lynch and are not publicly-available materials. Any unauthorized use or disclosure is prohibited. Receipt and
+review of this research report constitutes your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or information contained in this report
+(including any investment recommendations, estimates or price targets) without first obtaining expressed permission from an authorized officer of BofA Merrill Lynch.
+Materials prepared by BofA Merrill Lynch Global Research personnel are based on public information. Facts and views presented in this material have not been reviewed by, and may not reflect
+information known to, professionals in other business areas of BofA Merrill Lynch, including investment banking personnel. BofA Merrill Lynch has established information barriers between
+BofA Merrill Lynch Global Research and certain business groups. As a result, BofA Merrill Lynch does not disclose certain client relationships with, or compensation received from, such issuers in
+research reports. To the extent this report discusses any legal proceeding or issues, it has not been prepared as nor is it intended to express any legal conclusion, opinion or advice. Investors
+should consult their own legal advisers as to issues of law relating to the subject matter of this report. BofA Merrill Lynch Global Research personnel’s knowledge of legal proceedings in which
+any BofA Merrill Lynch entity and/or its directors, officers and employees may be plaintiffs, defendants, co-defendants or co-plaintiffs with or involving issuers mentioned in this report is based
+on public information. Facts and views presented in this material that relate to any such proceedings have not been reviewed by, discussed with, and may not reflect information known to,
+professionals in other business areas of BofA Merrill Lynch in connection with the legal proceedings or matters relevant to such proceedings.
+This report has been prepared independently of any issuer of securities mentioned herein and not in connection with any proposed offering of securities or as agent of any issuer of any
+securities. None of MLPF&S, any of its affiliates or their research analysts has any authority whatsoever to make any representation or warranty on behalf of the issuer(s). BofA Merrill Lynch
+Global Research policy prohibits research personnel from disclosing a recommendation, investment rating, or investment thesis for review by an issuer prior to the publication of a research
+report containing such rating, recommendation or investment thesis.
+Any information relating to the tax status of financial instruments discussed herein is not intended to provide tax advice or to be used by anyone to provide tax advice. Investors are urged to
+seek tax advice based on their particular circumstances from an independent tax professional.
+The information herein (other than disclosure information relating to BofA Merrill Lynch and its affiliates) was obtained from various sources and we do not guarantee its accuracy. This report
+may contain links to third-party websites. BofA Merrill Lynch is not responsible for the content of any third-party website or any linked content contained in a third-party website. Content
+contained on such third-party websites is not part of this report and is not incorporated by reference into this report. The inclusion of a link in this report does not imply any endorsement by or
+any affiliation with BofA Merrill Lynch. Access to any third-party website is at your own risk, and you should always review the terms and privacy policies at third-party websites before
+submitting any personal information to them. BofA Merrill Lynch is not responsible for such terms and privacy policies and expressly disclaims any liability for them.
+Certain outstanding reports may contain discussions and/or investment opinions relating to securities, financial instruments and/or issuers that are no longer current. Always refer to the most
+recent research report relating to an issuer prior to making an investment decision.
+In some cases, an issuer may be classified as Restricted or may be Under Review or Extended Review. In each case, investors should consider any investment opinion relating to such issuer (or
+its security and/or financial instruments) to be suspended or withdrawn and should not rely on the analyses and investment opinion(s) pertaining to such issuer (or its securities and/or
+financial instruments) nor should the analyses or opinion(s) be considered a solicitation of any kind. Sales persons and financial advisors affiliated with MLPF&S or any of its affiliates may not
+solicit purchases of securities or financial instruments that are Restricted or Under Review and may only solicit securities under Extended Review in accordance with firm policies.
+Neither BofA Merrill Lynch nor any officer or employee of BofA Merrill Lynch accepts any liability whatsoever for any direct, indirect or consequential damages or losses arising from any use of
+this report or its contents.
+36 Global Equity Volatility Insights | 06 June 2017
+Research Analysts
+Benjamin Bowler
+Equity-Linked Analyst
+MLPF&S
++1 415 676 3595
+benjamin.bowler@baml.com
+Abhinandan Deb >>
+Equity-Linked Analyst
+MLI (UK)
++44 20 7995 7148
+abhinandan.deb@baml.com
+Anshul Gupta >>
+Equity-Linked Analyst
+MLI (UK)
++44 20 7996 7062
+agupta113@baml.com
+William Chan, CFA >>
+Equity-Linked Analyst
+Merrill Lynch (Hong Kong)
++852 3508 3921
+william.w.chan@baml.com
+Nitin Saksena
+Equity-Linked Analyst
+MLPF&S
++1 646 855 5480
+nitin.saksena@baml.com
+Clovis Couasnon >>
+Equity-Linked Analyst
+MLI (UK)
++44 20 7995 0303
+clovis.couasnon@baml.com
+Jason Galazidis >>
+Equity-Linked Analyst
+MLI (UK)
++44 20 7996 5713
+jason.galazidis@baml.com
+Chintan Kotecha
+Equity-Linked Analyst
+MLPF&S
++1 646 855 5478
+chintan.kotecha@baml.com
+Stefano Pascale
+Equity-Linked Analyst
+MLPF&S
++1 646 855 2631
+stefano.pascale@baml.com
+>> Employed by a non-US affiliate of MLPF&S and is not registered/qualified as a research analyst under the FINRA rules.
+Refer to "Other Important Disclosures" for information on certain BofA Merrill Lynch entities that take responsibility for
+this report in particular jurisdictions.
+Global Equity Volatility Insights | 06 June 2017 37

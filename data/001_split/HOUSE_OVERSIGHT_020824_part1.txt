@@ -1,0 +1,1995 @@
+﻿www.kpcb.com
+USA Inc.
+About USA Inc.
+Created and Compiled by Mary Meeker
+February 2011
+This report looks at the federal government as if it were a business, with the goal of informing the
+debate about our nation’s financial situation and outlook. In it, we examine USA Inc.’s income
+statement and balance sheet. We aim to interpret the underlying data and facts and illustrate
+patterns and trends in easy-to-understand ways. We analyze the drivers of federal revenue and
+the history of expense growth, and we examine basic scenarios for how America might move
+toward positive cash flow.
+Thanks go out to Liang Wu and Fred Miller and former Morgan Stanley colleagues whose
+contributions to this report were invaluable. In addition, Richard Ravitch, Emil Henry, Laura
+Tyson, Al Gore, Meg Whitman, John Cogan, Peter Orszag and Chris Liddell provided inspiration
+and insights as the report developed. It includes a 2-page foreword; a 12-page text summary;
+and 460 PowerPoint slides containing data-rich observations. There’s a lot of material – think of
+it as a book that happens to be a slide presentation.
+We hope the slides in particular provide relevant context for the debate about America’s
+financials. To kick-start the dialogue, we are making the entire slide portion of the report
+available as a single work for non-commercial distribution (but not for excerpting, or modifying or
+creating derivatives) under the Creative Commons license. The spirit of connectivity and sharing
+has become the essence of the Internet, and we encourage interested parties to use the slides to
+advance the discussion of America’s financial present and future. If you would like to add your
+own data-driven observations, contribute your insights, improve or clarify ours, please contact us
+to request permission and provide your suggestions. This document is only a starting point for
+discussion; the information in it will benefit greatly from your thoughtful input.
+This report is available online and on iPad at www.kpcb.com/usainc
+In addition, print copies are available at www.amazon.com
+www.kpcb.com
+USA Inc.
+ii
+Foreword
+George P. Shultz, Paul Volcker, Michael Bloomberg, Richard Ravitch and John Doerr
+February 2011
+Our country is in deep financial trouble. Federal, state and local governments are deep in debt
+yet continue to spend beyond their means, seemingly unable to stop. Our current path is simply
+unsustainable. What to do?
+A lot of people have offered suggestions and proposed solutions. Few follow the four key
+guideposts to success that we see for setting our country back on the right path:
+1) create a deep and widely held perception of the reality of the problem and the stakes involved;
+2) reassure citizens that there are practical solutions;
+3) develop support in key constituencies; and
+4) determine the right timing to deliver the solutions.
+USA Inc. uses each of these guideposts, and more; it is full of ideas that can help us build a
+better future for our children and our country.
+First, Mary Meeker and her co-contributors describe America’s problems in an imaginative way
+that should allow anyone to grasp them both intellectually and emotionally. By imagining the
+federal government as a company, they provide a simple framework for understanding our
+current situation. They show how deficits are piling up on our income statement as spending
+outstrips income and how our liabilities far exceed nominal assets on our balance sheet. USA
+Inc. also considers additional assets – hard to value physical assets and our intangible wealth –
+our creativity and energy and our tradition of an open, competitive society.
+Additionally, the report considers important trends, pointing specifically to an intolerable failure to
+educate many in the K-12 grades, despite our knowledge of how to do so. And all these
+important emotional arguments help drive a gut reaction to add to data provided to reinforce the
+intellectual reasons we already have.
+Second, USA Inc. provides a productive way to think about solving our challenges. Once we
+have created an emotional and intellectual connection to the problem, we want people to act and
+drive the solution, not to throw up their hands in frustration. The authors’ ingenious indirect
+approach is to ask what a turnaround expert would do and what questions he or she would ask.
+The report describes how we first stumbled into this mess, by failing to predict the magnitude of
+program costs, by creating perverse incentives for excessive behavior, and by missing important
+trends. By pointing to the impact of individual responsibility, USA Inc. gives us reason to believe
+that a practical solution exists and can be realized.
+www.kpcb.com
+USA Inc.
+iii
+Third, the report highlights how powerful bipartisan constituencies have emerged in the past to
+tackle great issues for the betterment of our nation, including tax reform, civil liberties,
+healthcare, education and national defense. Just as presidents of both parties rose to the
+occasion to preside over the difficult process of containment during the half-century cold war, we
+know we can still find leaders who are willing to step up and overcome political or philosophical
+differences for a good cause, even in these difficult times.
+Finally, the report makes an important contribution to the question of timing. Momentum will
+follow once the process begins to gain support, and USA Inc. should help by stimulating broad
+recognition and understanding of the challenges, by providing ways to think about solutions, and
+by helping constituencies of action to emerge. As the old saying goes, “If not now, when? If not
+us, who?”
+With this pioneering report, we have a refreshing, business-minded approach to understanding
+and addressing our nation’s future. Read on…you may be surprised by how much you learn. We
+hope you will be motivated to help solve the problem!
+www.kpcb.com
+USA Inc.
+iv
+Table of Contents
+About USA Inc. ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ii
+Foreword ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ iii
+Summary ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ vii
+Introduction ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 5
+High-Level Thoughts on Income Statement/Balance Sheet ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 25
+Income Statement Drilldown ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 53
+Entitlement Spending ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 72
+Medicaid ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 94
+Medicare ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 100
+Unemployment Benefits ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 121
+Social Security ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 129
+Rising Debt Level and Interest Payments ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 142
+Debt Level ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 145
+Effective Interest Rates ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 161
+Debt Composition ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 168
+Periodic Large One-Time Charges ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 177
+TARP ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 188
+Fannie Mae / Freddie Mac ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 193
+ARRA ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 200
+Balance Sheet Drilldown ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 209
+www.kpcb.com
+USA Inc.
+v
+What Might a Turnaround Expert Consider? ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 221
+High-Level Thoughts on How to Turn Around USA Inc.’s Financial Outlook ∙ ∙ ∙ ∙ 237
+Focus on Expenses ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 253
+Reform Entitlement Programs ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 255
+Restructure Social Security ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 256
+Restructure Medicare & Medicaid ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 268
+Focus on Operating Efficiency ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 329
+Review Wages & Benefits ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 335
+Review Government Pension Plans ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 338
+Review Role of Unions ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 342
+Review Cost Structure & Headcount ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 345
+Review Non-Core 'Business' for Out-Sourcing ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 349
+Focus on Revenues ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 355
+Drive Sustainable Economic Growth ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 356
+Invest in Technology / Infrastructure / Education ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 366
+Increase / Improve Employment ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 383
+Improve Competitiveness ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 389
+Consider Changing Tax Policies ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 395
+Review Tax Rates ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 396
+Reduce Subsidies / Tax Expenditures / Broaden Tax Base ∙ ∙ ∙ ∙ ∙ ∙ ∙ 400
+Consequences of Inaction ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 413
+Short-Term, Long-Term ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 415
+Public Debt, Net Worth vs. Peers ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 416
+Lessons Learned From Historical Debt Crisis ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 422
+General Motors ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 431
+Summary ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 437
+Appendix ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ 453
+Glossary ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ xix
+Index
+∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ xxvii
+www.kpcb.com
+USA Inc.
+vi
+Summary
+Imagine for a moment that the United States government is a public corporation. Imagine
+that its management structure, fiscal performance, and budget are all up for review. Now
+imagine that you’re a shareholder in USA Inc. How do you feel about your investment?
+Because 45% of us own shares in publicly traded companies, nearly half the country expects
+quarterly updates on our investments. But although 100% of us are stakeholders in the United
+States, very few of us look closely at Washington’s financials. If we were long-term investors,
+how would we evaluate the federal government’s business model, strategic plans, and operating
+efficiency? How would we react to its earnings reports? Nearly two-thirds of all American
+households pay federal income taxes, but very few of us take the time to dig into the numbers of
+the entity that, on average, collects 13% of our annual gross income (not counting another 15-
+30% for payroll and various state and local taxes).
+We believe it’s especially important to pay closer attention to one of our most important
+investments.
+As American citizens and taxpayers, we care about the future of our country. As investors, we’re
+in an on-going search for data and insights that will help us make more informed investment
+decisions. It’s easier to predict the future if one has a keen understanding of the past, but we
+found ourselves struggling to find good information about America’s financials. So we decided to
+assemble – in one place and in a user-friendly format – some of the best data about the world’s
+biggest “business.” We also provide some historical context for how USA Inc.’s financial model
+has evolved over decades. And, as investors, we look at trend lines which help us understand
+the patterns (and often future directions) of key financial drivers like revenue and expenses.
+The complexity of USA Inc.’s challenges is well known, and our presentation is just a starting
+point; it’s far from perfect or complete. But we are convinced that citizens – and investors –
+should understand the business of their government. Thomas Jefferson and Alexis de
+Tocqueville knew that – armed with the right information – the enlightened citizenry of America
+would make the right decisions. It is our humble hope that a transparent financial framework can
+help inform future debates.
+In the conviction that every citizen should understand the finances of USA Inc. and the plans of
+its “management team,” we examine USA Inc.’s income statement and balance sheet and
+present them in a basic, easy-to-use format. We summarize our thoughts in PowerPoint form and
+in this brief text summary at www.kpcb.com/usainc. We encourage people to take our data and
+thoughts and study them, critique them, augment them, share them, and make them better.
+There’s a lot of material – think of it as a book that happens to be a slide presentation.
+www.kpcb.com
+USA Inc.
+vii
+There are two caveats. First, we do not make policy recommendations. We try to help clarify
+some of the issues in a straightforward, analytical way. We aim to present data, trends, and facts
+about USA Inc.’s key revenue and expense drivers to provide context for how its financials have
+reached their present state. Our observations come from publicly available information, and we
+use the tools of basic financial analysis to interpret it. Forecasts generally come from 3rd-party
+agencies like the Congressional Budget Office (CBO), the nonpartisan federal agency charged
+with reviewing the financial impact of legislation. Second, the ‘devil is in the details.’ For US
+policy makers, the timing of material changes will be especially difficult, given the current
+economic environment.
+By the standards of any public corporation, USA Inc.’s financials are discouraging.
+True, USA Inc. has many fundamental strengths. On an operating basis (excluding Medicare
+and Medicaid spending and one-time charges), the federal government’s profit & loss statement
+is solid, with a 4% median net margin over the last 15 years. But cash flow is deep in the red (by
+almost $1.3 trillion last year, or -$11,000 per household), and USA Inc.’s net worth is negative
+and deteriorating. That net worth figure includes the present value of unfunded entitlement
+liabilities but not hard-to-value assets such as natural resources, the power to tax or mint
+currency, or what Treasury calls “heritage” or “stewardship assets” like national parks.
+Nevertheless, the trends are clear, and critical warning signs are evident in nearly every data
+point we examine.
+F2010 Cash Flow = -$1.3 Trillion; Net Worth = -$44 Trillion
+With a Negative Trend Line Over Past 15 Years
+USA Inc. Annual Cash Flow & Year-End Net Worth, F1996 – F2010
+$400
+$15,000
+Annual Cash Flow ($Billion)
+$0
+-$400
+-$800
+-$1,200
+One-Time Expenses*
+Cash Flow (left axis)
+$0
+-$15,000
+-$30,000
+-$45,000
+Year-End Net Worth ($Billion)
+Net Worth (right axis)
+-$1,600
+-$60,000
+F1996 F1998 F2000 F2002 F2004 F2006 F2008 F2010
+Note: USA federal fiscal year ends in September; Cash flow = total revenue – total spending on a cash basis; net worth includes unfunded future liabilities from
+Social Security and Medicare on an accrual basis over the next 75 years. *One-time expenses in F2008 include $14B payments to Freddie Mac; F2009
+includes $279B net TARP payouts, $97B payment to Fannie Mae & Freddie Mac and $40B stimulus spending on discretionary items; F2010E includes $26B
+net TARP income, $137B stimulus spending and $41B payment to Fannie Mae & Freddie Mac. F2010 net worth improved dramatically owing to revised
+actuarial estimates for Medicare program resulted from the Healthcare reform legislation. For more definitions, see next slide. Source: cash flow per White
+House Office of Management and Budget; net worth per Dept. of Treasury, “2010 Financial Report of the U.S. Government.”
+www.kpcb.com
+USA Inc. | Summary
+www.kpcb.com
+USA Inc.
+viii
+Underfunded entitlements are among the most severe financial burdens USA Inc. faces.
+And because some of the most underfunded programs are intended to help the nation’s
+poorest, the electorate must understand the full dimensions of the challenges.
+F2010 USA Inc. Revenues + Expenses At A Glance
+Unfunded Entitlement (Medicare + Social Security) + Underfunded
+Entitlement Expenditures (Medicaid) =
+Among Largest Long-Term Liabilities on USA Inc.'s Balance Sheet
+Corporate
+Income Tax
+$191B
+F2010
+Revenues =
+$2.2T
+Other
+$208B
+10%
+9%
+41%
+Individual
+Income Tax
+$899B
+Discretionary
+One-Time Items
+$152B
+Non-Defense
+Discretionary
+$431B
+F2010 USA Inc. Expenses =
+$3.5T
+12%
+20%
+Net Interest
+Payment
+$196B
+6%
+4%
+20%
+Entitlement
+Programs
+22%
+Social
+Security
+$707B
+All
+Other
+Federal
+Employee
+Benefits
+$1.6T $2.1T
+Veteran
+Benefits
+USA Balance Sheet Liabilities Composition, F2010
+Federal
+Debt
+Unfunded
+Social
+Security
+$3.7T $9.1T $7.9T
+Unfunded
+Medicare
+$22.8T
+Medicaid*
+$35.3T
+40%
+Social
+Insurance Tax
+$865B
+www.kpcb.com
+Defense
+$694B
+16%
+Medicare +
+Federal
+Medicaid
+$724B
+Unemployment Insurance
++ Other Entitlements
+$553B
+Note: USA federal fiscal year ends in September; *individual & corporate income taxes include capital gains taxes. Nondefense
+discretionary includes federal spending on education, infrastructure, law enforcement, judiciary functions…
+Source: White House Office of Management and Budget.
+USA Inc. | Summary
+www.kpcb.com
+Note: Medicaid funding is appropriated by Congress (from general tax revenue) on an as-needed basis every year, therefore,
+there is no need to maintain a contingency reserve, and, unlike Medicare, the “financial status” of the program is not in question
+from an actuarial perspective. Here we estimated the net present value of future Medicaid spending through 2085E, assuming a
+3% discount rate. Data source: Dept. of Treasury, Dept. of Health & Human Services Center for Medicare & Medicaid Services.
+USA Inc. | Summary
+Some consider defense outlays – which have nearly doubled in the last decade, to 5% of GDP –
+a principal cause of USA Inc.’s financial dilemma. But defense spending is still below its 7%
+share of GDP from 1948 to 2000; it accounted for 20% of the budget in 2010, compared with
+41% of all government spending between 1789 and 1930. The principal challenges lie
+elsewhere. Since the Great Depression, USA Inc. has steadily added “business lines” and, with
+the best of intentions, created various entitlement programs. They serve many of the nation’s
+poorest, whose struggles have been made worse by the recent financial crisis. Apart from Social
+Security and unemployment insurance, however, funding for these programs has been woefully
+inadequate – and getting worse.
+Entitlement expenses amount to $16,000 per household per year, and entitlement spending far
+outstrips funding, by more than $1 trillion (or $9,000 per household) in 2010. More than 35% of
+the US population receives entitlement dollars or is on the government payroll, up from ~20% in
+1966. Given the high correlation of rising entitlement income with declining savings, do
+Americans feel less compelled to save if they depend on the government for their future savings?
+It is interesting to note that in China the household savings rate is ~36%, per our estimates
+based on CEIC data, in part due to a higher degree of self-reliance – and far fewer established
+pension plans. In the USA, the personal savings rate (defined as savings as percent of
+disposable income) was 6% in 2010 and only 3% from 2000 to 2008.
+www.kpcb.com
+USA Inc.
+ix
+Millions of Americans have come to rely on Medicare and Medicaid – and spending has
+skyrocketed, to 21% of USA Inc.’s total expenses (or $724B) in F2010, up from 5% forty
+years ago.
+Together, Medicaid and Medicare – the programs providing health insurance to low-income
+households and the elderly, respectively – now account for 35% of total healthcare spending in
+the USA. Since their creation in 1965, both programs have expanded markedly. Medicaid now
+serves 16% of all Americans, compared with 2% at its inception; Medicare now serves 15% of
+the population, up from 10% in 1966. As more Americans receive benefits and as healthcare
+costs continue to outstrip GDP growth, total spending for the two entitlement programs is
+accelerating. Over the last decade alone, Medicaid spending has doubled in real terms, with
+total program costs running at $273 billion in F2010. Over the last 43 years, real Medicare
+spending per beneficiary has risen 25 times, driving program costs well (10x) above original
+projections. In fact, Medicare spending exceeded related revenues by $272 billion last year.
+Amid the rancor about government’s role in healthcare spending, one fact is undeniable:
+government spending on healthcare now consumes 8.2% of GDP, compared with just
+1.3% fifty years ago.
+Total Government* Healthcare Spending Increases are Staggering –
+Up 7x as % of GDP Over Five Decades vs. Education Spending Only Up 0.6x
+8%
+USA Total Government Healthcare vs. Education Spending as % of GDP, 1960 – 2009
+8.2%
+Spending as % of GDP
+6%
+4%
+2%
+1.2%
+Total Government (Federal + State + Local) Spending on Healthcare
+Total Government (Federal + State + Local) Spending on Education
+0%
+1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008
+www.kpcb.com
+Note: *Total government spending on healthcare includes Medicare, Medicaid and other programs such as federal
+employee and veteran health benefits; total government spending on education includes spending on pre-primary through
+tertiary education programs. Source: Dept. of Education, Dept. of Health & Human Services.
+USA Inc. | Summary
+The overall healthcare funding mix in the US is skewed toward private health insurance due to
+the predominance of employer-sponsored funding (which covers 157MM working Americans and
+their families, or 58% of the total population in 2008 vs. 64% in 1999). This mixed private-public
+funding scheme has resulted in implicit cross-subsidies, whereby healthcare providers push
+www.kpcb.com
+USA Inc.
+x
+costs onto the private market to help subsidize lower payments from public programs. This
+tends to help drive a cycle of higher private market costs causing higher insurance premiums,
+leading to the slow erosion of private market coverage and a greater enrollment burden for
+government programs.
+The Patient Protection and Affordable Care Act, enacted in early 2010, includes the biggest
+changes to healthcare since 1965 and will eventually expand health insurance coverage by
+~10%, to 32 million new lives. Increased access likely means higher spending if healthcare
+costs continue to grow 2 percentage points faster than per capita income (as they have over the
+past 40 years). The CBO sees a potential $143B reduction in the deficit over the next 10 years,
+but this assumes that growth in Medicare costs will slow – an assumption the CBO admits is
+highly uncertain.
+Unemployment Insurance and Social Security are adequately funded...for now. Their
+future, unfortunately, isn’t so clear.
+Unemployment Insurance is cyclical and, apart from the 2007-09 recession, generally operates
+with a surplus. Payroll taxes kept Social Security mainly at break-even until 1975-81 when
+expenses began to exceed revenue. Reforms that cut average benefits by 5%, raised tax rates
+by 2.3%, and increased the full retirement age by 3% (to 67) restored the system’s stability for
+the next 25 years, but the demographic outlook is poor for its pay-as-you-go funding structure. In
+1950, 100 workers supported six beneficiaries; today, 100 workers support 33 beneficiaries.
+Since Social Security began in 1935, American life expectancy has risen 26% (to 78), but the
+“retirement age” for full benefits has increased only 3%.
+Regardless of the emotional debate about entitlements, fiscal reality can’t be ignored – if
+these programs aren’t reformed, one way or another, USA Inc.’s balance sheet will go
+from bad to worse.
+Federal Government Spending Had Risen to 24% of GDP in 2010,
+Up From an Average of 3% From 1790 to 1930
+Federal Government Spending as % of GDP, 1790 – 2010
+40%
+35%
+Federal Spending as % of GDP
+30%
+25%
+20%
+15%
+10%
+3% Trendline Average
+1790-1930
+24% in 2010
+5%
+0%
+1790 1810 1830 1850 1870 1890 1910 1930 1950 1970 1990 2010
+www.kpcb.com
+Source: Federal spending per Series Y 457-465 in "Historical Statistics of the United States, Colonial Times to 1970, Part II“ and per
+White House OMB. GDP prior to 1930 per Louis Johnston and Samuel H. Williamson, "What Was the U.S. GDP Then?"
+MeasuringWorth, 2010. GDP post 1930 per White House OMB. Neither federal spending nor GDP data are adjusted for inflation.
+USA Inc. | Summary
+www.kpcb.com
+USA Inc.
+xi
+Entitlement Spending Increased 11x
+While Real GDP Grew 3x Over Past 45 Years
+USA Real Federal Expenses, Entitlement Spending, Real GDP % Change, 1965 – 2010
+% Change From 1965
+1200%
+1000%
+800%
+600%
+400%
+200%
+Total Expenses
+Entitlement Programs
+Real GDP
+Entitlement
+Expenses
++10.6x
+Total
+Expenses
++3.3x
+Real GDP
++2.7x
+0%
+1965 1969 1973 1977 1981 1985 1989 1993 1997 2001 2005 2009
+www.kpcb.com
+Note: Data adjusted for inflation. Source: White House Office of Management and Budget.
+USA Inc. | Summary
+Take a step back, and imagine what the founding fathers would think if they saw how our
+country’s finances have changed. From 1790 to 1930, government spending on average
+accounted for just 3% of American GDP. Today, government spending absorbs closer to 24% of
+GDP.
+It’s likely that they would be even more surprised by the debt we have taken on to pay for this
+expansion. As a percentage of GDP, the federal government’s public debt has doubled over the
+last 30 years, to 53% of GDP. This figure does not include claims on future resources from
+underfunded entitlements and potential liabilities from Fannie Mae and Freddie Mac, the
+Government Sponsored Enterprises (GSEs). If it did include these claims, gross federal debt
+accounted for 94% of GDP in 2010. The public debt to GDP ratio is likely to triple to 146% over
+the next 20 years, per CBO. The main reason is entitlement expense. Since 1970, these costs
+have grown 5.5 times faster than GDP, while revenues have lagged, especially corporate tax
+revenues. By 2037, cumulative deficits from Social Security could add another $11.6 trillion to
+the public debt.
+The problem gets worse. Even as USA Inc.’s debt has been rising for decades, plunging interest
+rates have kept the cost of supporting it relatively steady. Last year’s interest bill would have
+been 155% (or $290 billion) higher if rates had been at their 30-year average of 6% (vs. 2% in
+2010). As debt levels rise and interest rates normalize, net interest payments could grow 20% or
+more annually. Below-average debt maturities in recent years have also kept the Treasury’s
+borrowing costs down, but this trend, too, will drive up interest payments once interest rates rise.
+www.kpcb.com
+USA Inc.
+xii
+Can we afford to wait until the turning point comes? By 2025, entitlements plus net
+interest payments will absorb all – yes, all – of USA Inc.'s revenue, per CBO.
+Entitlement Spending + Interest Payments Alone Should
+Exceed USA Inc. Total Revenue by 2025E, per CBO
+Entitlement Spending + Interest Payments vs. Revenue as % of GDP, 1980 – 2050E
+Total Revenue & Entitlement + Net Interest
+Payments as % of GDP
+40%
+30%
+20%
+10%
+Revenue
+Entitlement Spending + Net
+Interest Payments
+0%
+1980 1990 2000 2010E 2020E 2030E 2040E 2050E
+Source: Congressional Budget Office (CBO) Long-Term Budget Outlook (6/10). Note that entitlement spending includes federal government expenditures on Social
+Security, Medicare and Medicaid. Data in our chart is based on CBO’s ‘alternative fiscal scenario’ forecast, which assumes a continuation of today’s underlying
+fiscal policy. Note that CBO also maintains an ‘extended-baseline’ scenario, which adheres closely to current law. The alternative fiscal scenario deviates from
+CBO’s baseline because it incorporates some policy changes that are widely expected to occur (such as extending the 2001-2003 tax cuts rather than letting them
+expire as scheduled by current law and adjusting physician payment rates to be in line with the Medicare economic index rather than at lower scheduled rates) and
+that policymakers have regularly made in the past.
+www.kpcb.com
+USA Inc. | Summary
+Less than 15 years from now, in other words, USA Inc. – based on current forecasts for revenue
+and expenses - would have nothing left over to spend on defense, education, infrastructure, and
+R&D, which today account for only 32% of USA Inc. spending, down from 69% forty years ago.
+This critical juncture is getting ever closer. Just ten years ago, the CBO thought federal revenue
+would support entitlement spending and interest payments until 2060 – 35 years beyond its
+current projection. This dramatic forecast change over the past ten years helps illustrate, in our
+view, how important it is to focus on the here-and-now trend lines and take actions based on
+those trends.
+How would a turnaround expert determine ‘normal’ revenue and expenses?
+The first step would be to examine the main drivers of revenue and expenses. It’s not a pretty
+picture. While revenue – mainly taxes on individual and corporate income – is highly correlated
+(83%) with GDP growth, expenses – mostly entitlement spending – are less correlated (73%)
+with GDP. With that as backdrop, our turnaround expert might try to help management and
+shareholders (citizens) achieve a long-term balance by determining “normal” levels of revenue
+and expenses:
+www.kpcb.com
+USA Inc.
+xiii
+• From 1965 to 2005 (a period chosen to exclude abnormal trends related to the recent
+recession), annual revenue growth (3%) has been roughly in line with GDP growth, but
+corporate income taxes have grown 2% a year. Social insurance taxes grew 5% annually and
+represented 37% of USA Inc. revenue, compared with 19% in 1965. An expert might ask:
+o What level of social insurance or entitlement taxes can USA Inc. support without reducing
+job creation?
+o Are low corporate income taxes important to global competitive advantage and stimulating
+growth?
+• Entitlement spending has risen 5% a year on average since 1965, well above average annual
+GDP growth of 3%, and now absorbs 51% of all expenses, more than twice its share in 1965.
+Defense and non-defense discretionary spending (including infrastructure, education, and law
+enforcement) is up just 1-2% annually over that period. Questions for shareholders:
+o Do USA Inc.’s operations run at maximum efficiency? Where are the opportunities for cost
+savings?
+o Should all expense categories be benchmarked against GDP growth? Should some grow
+faster or slower than GDP? If so, what are the key determinants?
+o Would greater investment in infrastructure, education, and global competitiveness yield
+more long-term security for the elderly and disadvantaged?
+With expenses outstripping revenues by a large (and growing) margin, a turnaround expert
+would develop an analytical framework for readjusting USA Inc.’s business model and strategic
+plans. Prudence would dictate that our expert assume below-trend GDP growth and above-trend
+unemployment, plus rising interest rates – all of which would make the base case operating
+scenario fairly gloomy.
+This analysis can’t ignore our dependence on entitlements. Almost one-third of all
+Americans have grown up in an environment of lean savings and heavy reliance on
+government healthcare subsidies. It’s not just a question of numbers – it’s a question of
+our responsibilities as citizens…and what kind of society we want to be.
+Some 90 million Americans (out of a total population of 307 million) have grown accustomed to
+support from entitlement programs; so, too, have 14 million workers in the healthcare industry
+who, directly or indirectly, benefit from government subsidies via Medicare and Medicaid. Low
+personal savings and high unemployment make radical change difficult. Political will can be
+difficult to summon, especially during election campaigns.
+www.kpcb.com
+USA Inc.
+xiv
+At the same time, however, these numbers don’t lie. With our demographics and our
+debts, we’re on a collision course with the future. The good news: Although time is
+growing short, we still have the capacity to create positive outcomes.
+Even though USA Inc. can print money and raise taxes, USA Inc. cannot sustain its financial
+imbalance indefinitely – especially as the Baby Boomer generation nears retirement age. Net
+debt levels are approaching warning levels, and some polls suggest that Americans consider
+reducing debt a national priority. Change is legally possible. Unlike underfunded pension
+liabilities that can bankrupt companies, USA Inc.’s underfunded liabilities are not legal contracts.
+Congress has the authority to change the level and conditions for Social Security and Medicare
+benefits; the federal government, together with the states, can also alter eligibility and benefit
+levels for Medicaid.
+Options for entitlement reform, operating efficiency, and stronger long-term GDP growth.
+As analysts, not public policy experts, we can offer mathematical illustrations as a framework for
+discussion (not necessarily as actual solutions). We also present policy options from third-party
+organizations such as the CBO.
+Reforming entitlement programs – Social Security.
+The underfunding could be addressed through some or all of the following mechanical changes:
+increasing the full retirement age to as high as 73 (from the current level of 67); and/or reducing
+average annual social security benefits by up to 12% (from $13,010 to $11,489); and/or
+increasing the social security tax rate from 12.4% to 14.2%. Options proposed by the CBO
+include similar measures, as well as adjustments to initial benefits and index levels. Of course,
+the low personal savings rates of average Americans – 3% of disposable income, compared with
+a 10% average from 1965 to 1985 – limit flexibility, at least in the early years of any reform.
+Reforming entitlement programs – Medicare and Medicaid.
+Mathematical illustrations for these programs, the most underfunded, seem draconian: Reducing
+average Medicare benefits by 53%, to $5,588 per year, or increasing the Medicare tax rate by
+3.9 percentage points, to 6.8%, or some combination of these changes would address the
+underfunding of Medicare. As for Medicaid, the lack of a dedicated funding stream (i.e., a tax
+similar to the Medicare payroll tax) makes the math even more difficult. But by one measure
+from the Kaiser Family Foundation, 60% of the Medicaid budget in 2001 was spent on so-called
+optional recipients (such as mid- to low-income population above poverty level) or on optional
+services (such as dental services and prescription drug benefits). Reducing or controlling these
+benefits could help control Medicaid spending – but increase the burden on some poor and
+disabled groups.
+Ultimately, the primary issue facing the US healthcare system is ever-rising costs, historically
+driven by increases in price and utilization. Beneath sustained medical cost inflation is an
+entitlement mentality bolted onto a volume-based reimbursement scheme. All else being equal,
+the outcome is an incentive to spend: Underlying societal, financial, and liability factors combine
+to fuel an inefficient, expensive healthcare system.
+www.kpcb.com
+USA Inc.
+xv
+Improving operating efficiency.
+With nearly one government civilian worker (federal, state and local) for every six households,
+efficiency gains seem possible. A 20-year trend line of declining federal civilian headcount was
+reversed in the late 1990s.
+Resuming that trend would imply a 15% potential headcount reduction over five years and save
+nearly $300 billion over the next ten years. USA Inc. could also focus intensively on local private
+company outsourcing, where state and local governments are finding real productivity gains.
+Improving long-term GDP growth – productivity and employment.
+Fundamentally, federal revenues depend on GDP growth and related tax levies on consumers
+and businesses. Higher GDP growth won’t be easy to achieve as households rebuild savings in
+the aftermath of a recession. To break even without changing expense levels or tax policies,
+USA Inc. would need real GDP growth of 6-7% in F2012-14 and 4-5% in F2015-20, according to
+our estimates based on CBO data – highly unlikely, given 40-year average GDP growth of 3%.
+While USA Inc. could temporarily increase government spending and investment to make up for
+lower private demand in the near term, the country needs policies that foster productivity and
+employment gains for sustainable long-term economic growth.
+How Much Would Real GDP Need to Grow to Drive USA Inc. to Break-Even
+Without Policy Changes? 6-7% in F2012E-F2014E & 4-5% in F2015-
+F2020E…Well Above 40-Year Average of 3%
+8%
+CBO’s Baseline Real GDP Growth vs. Required Real GDP
+Growth for a Balanced Budget Between F2011E and F2020E
+6%
+Real GDP Y/Y Growth (%)
+4%
+2%
+0%
+2009 2011E 2013E 2015E 2017E 2019E
+-2%
+-4%
+Real GDP Annual Growth (CBO Baseline Forecast)
+Real GDP Annual Growth Needed to Eliminate Fiscal Deficit
+1970-2009 Average Real GDP Growth
+www.kpcb.com
+Source: CBO, “The Budget and Economic Outlook: Fiscal Years 2010 to 2020,” 8/10.
+USA Inc. | Summary
+Productivity gains and increased employment each contributed roughly half of the long-term
+GDP growth between 1970 and 2009, per the National Bureau of Economic Research. Since the
+1960s, as more resources have gone to entitlements and interest payments, USA Inc. has
+scaled back its investment in technology R&D and infrastructure as percentages of GDP.
+Competitors are making these investments. India plans to double infrastructure spending as a
+percent of GDP by 2013, and its tertiary (college) educated population will double over the next
+ten years, according to Morgan Stanley analysts, enabling its GDP growth to accelerate to 9-
+10% annually by 2015 (China’s annual GDP growth is forecast to remain near 8% by 2015).
+USA Inc. can’t match India’s demographic advantage, but technology can help.
+www.kpcb.com
+USA Inc.
+xvi
+For employment gains, USA Inc. should minimize tax and regulatory uncertainties and
+encourage businesses to add workers. While hiring and R&D-related tax credits may add to
+near-term deficits, over time, they should drive job and GDP growth. Immigration reform could
+also help: A Federal Reserve study in 2010 shows that immigration does not take jobs from
+U.S.-born workers but boosts productivity and income per worker.
+Changing tax policies.
+Using another simple mechanical illustration, covering the 2010 budget deficit (excluding onetime
+charges) by taxes alone would mean doubling individual income tax rates across the board,
+to roughly 26-30% of gross income, we estimate. Such major tax increases would ultimately be
+self-defeating if they reduce private income and consumption. However, reducing tax
+expenditures and subsidies such as mortgage interest deductions would broaden the tax base
+and net up to $1.7 trillion in additional revenue over the next decade, per CBO. A tax based on
+consumption - like a value added tax (VAT) - could also redirect the economy toward savings
+and investment, though there would be drawbacks.
+These issues are undoubtedly complex, and difficult decisions must be made. But
+inaction may be the greatest risk of all. The time to act is now, and our first responsibility
+as investors in USA Inc. is to understand the task at hand.
+Our review finds serious challenges in USA Inc.’s financials. The ‘management team’ has
+created incentives to spend on healthcare, housing, and current consumption. At the margin,
+investing in productive capital, education, and technology – the very tools needed to compete in
+the global marketplace – has stagnated.
+America’s Resources Allocated to Housing + Healthcare Nearly Doubled as a Percent
+of GDP Since 1965, While Household and Government Savings Fell Dramatically
+25%
+20%
+Healthcare + Housing Spending vs. Net Household +
+Government Savings as % of GDP, 1965-2009
+Housing + Healthcare Spending as % of GDP
+Net Household + Government Savings as % of GDP
+20%
+As % of GDP
+15%
+10%
+5%
+11%
+7%
+0%
+1965 1970 1975 1980 1985 1990 1995 2000 2005
+-5%
+-10%
+-9%
+www.kpcb.com
+Note: Housing includes purchase, rent and home improvement. Government savings occur when government runs a surplus.
+Source: BEA, CMS via Haver Analytics.
+USA Inc. | Summary
+www.kpcb.com
+USA Inc.
+xvii
+With these trends, USA Inc. will not be immune to the sudden crises that have afflicted others
+with similar unfunded liabilities, leverage, and productivity trends. The sovereign credit issues in
+Europe suggest what might lie ahead for USA Inc. shareholders – and our children. In effect,
+USA Inc. is maxing out its credit card. It has fallen into a pattern of spending more than it earns
+and is issuing debt at nearly every turn. Common principles for overcoming this kind of burden
+include the following:
+1) Acknowledge the problem – some 80% of Americans believe ‘dealing with our growing
+budget deficit and national debt’ is a national priority, according to a Peter G. Peterson
+Foundation survey in 11/09;
+2) Examine past errors – People need clear descriptions and analysis to understand how the
+US arrived at its current financial condition – a ‘turnaround CEO’ would certainly initiate a
+‘no holds barred’ analysis of the purpose, success and operating efficiency of all of USA
+Inc.’s spending;
+3) Make amends for past errors – Most Americans today at least acknowledge the problems
+at personal levels and say they rarely or never spend more than what they can afford (63%
+according to a 2007 Pew Research study). The average American knows the importance
+of managing a budget. Perhaps more would be willing to sacrifice for the greater good with
+an understandable plan to serve the country’s long-term best interests;
+4) Develop a new code of behavior – Policymakers, businesses (including investment firms),
+and citizens need to share responsibility for past failures and develop a plan for future
+successes.
+Past generations of Americans have responded to major challenges with collective
+sacrifice and hard work. Will ours also rise to the occasion?
+www.kpcb.com
+USA Inc. xviii
+USA Inc. – Outline
+1
+2
+3
+4
+5
+6
+7
+8
+Introduction
+High-Level Thoughts on Income Statement/Balance Sheet
+Income Statement Drilldown
+Balance Sheet Drilldown
+What Might a Turnaround Expert – Empowered to Improve
+USA Inc.’s Financials – Consider?
+Consequences of Inaction
+Summary
+Appendix
+www.kpcb.com
+USA Inc.
+2
+This work is licensed for non-commercial distribution (but NOT for excerpting, or modifying or creating derivatives) under the Creative Commons
+Attribution-NonCommercial-NoDerivs 3.0 Unported CC BY-NC-ND license. You can find this license at http://creativecommons.org/licenses/by-ncnd/3.0/legalcode
+or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA, 94105, USA.
+www.kpcb.com
+USA Inc.
+3
+This page is intentionally left blank.
+www.kpcb.com
+USA Inc.
+4
+Introduction
+www.kpcb.com
+USA Inc. | Introduction
+5
+�About This Report
+www.kpcb.com USA Inc. | Introduction 6
+Presentation Premise
+� For America to remain the great country it has been for the past 235 years,
+it must determine the best ways to honor the government’s fundamental
+mission derived from the Constitution:
+� …to form a more perfect union, establish justice, insure domestic tranquility,
+provide for the common defense, promote the general welfare and secure the
+blessings of liberty to ourselves and our posterity.
+� To this end, government should aim to help create a vibrant environment for
+economic growth and productive employment. It should manage its operations
+and programs as effectively and efficiently as possible, improve its financial
+position by driving the federal government’s income statement to long-term
+break-even, and reduce the unsustainable level of debt on its balance sheet.
+www.kpcb.com
+USA Inc. | Introduction
+7
+USA Inc. Concept
+Healthy financials and compelling growth prospects are key to success for businesses
+(and countries). So if the US federal government – which we call USA Inc. – were a
+business, how would public shareholders view it? How would long-term investors evaluate
+the federal government’s business model, strategic plans, and operating efficiency? How
+would analysts react to its earnings reports? Although some 45% 1 of American households
+own shares in publicly traded companies and receive related quarterly financial statements, not
+many “stakeholders” look closely at Washington’s financials. Nearly two-thirds of all American
+households 2 pay federal income taxes, but very few take the time to dig into the numbers of the
+entity that, on average, collects 13% 3 of all Americans’ annual gross income (not counting
+another 15-30% for payroll and various state and local taxes).
+We drill down on USA Inc.’s past, present, and (in some cases) future financial dynamics and
+focus on the country’s income statement and balance sheet and related trends. We isolate and
+review key expense and revenue drivers. On the expense side, we examine the major
+entitlement programs (Medicare, Medicaid and Social Security) as well as defense and other
+major discretionary programs. On the revenue side, we focus on GDP growth (driven by labor
+productivity and employment in the long run) and tax policies.
+We present basic numbers-driven scenarios for addressing USA Inc.'s financial challenges. In
+addition, we lay out the type of basic checklists that corporate turnaround experts might use as
+starting points when looking at some of USA Inc.’s business model challenges.
+Source: 1) 2008 ICI (Investment Company Institute) / SIFMA (Securities Industry and Financial Markets Association) Equity
+and Bond Owners Survey; 2) Number of tax returns with positive tax liability (91MM) divided by total number of returns filed (142MM), per Tax Foundation
+calculations based on IRS data; 3) Total federal income taxes (ex. payroll taxes) paid divided by total adjusted gross income, per IRS 2007 data.
+www.kpcb.com
+USA Inc. | Introduction
+8
+Why We Wrote This Report
+As American citizens / tax payers, we care about the future of our country.
+As investors, we search for data and insights to help us make better
+investment decisions. (It’s easier to predict the future with a keen
+understanding of the past.)
+We found ourselves searching for better information about the state of America’s
+financials, and we decided to assemble – in one place and in a user-friendly format
+– some of the best data about the world’s biggest “business.” In addition, we have
+attempted to provide some historical context for how USA Inc.’s financial model has
+evolved over decades.
+The complexity of USA Inc.’s challenges is well known, and our presentation is just
+a starting point; it’s far from perfect or complete. But we are convinced that citizens
+– and investors – should understand the business of their government. Thomas
+Jefferson and Alexis de Tocqueville knew that – armed with the right information –
+the enlightened citizenry of America would make the right decisions. It is our
+humble hope that a transparent financial framework can help inform future debates.
+www.kpcb.com
+USA Inc. | Introduction
+9
+What You’ll Find Here…
+In the conviction that every citizen should understand the finances of
+USA Inc. and the plans of its “management team,” we examine USA Inc.’s
+income statement and balance sheet and present them in a basic, easy-touse
+format.
+In this document, a broad group of people helped us drill into our federal
+government’s basic financial metrics. We summarize our thoughts in PowerPoint
+form here and also have provided a brief text summary at www.kpcb.com/usainc.
+We encourage people to take our data and thoughts and study them, critique them,
+augment them, share them, and make them better. There’s a lot of material – think
+of it as a book that happens to be a slide presentation.
+www.kpcb.com
+USA Inc. | Introduction
+10
+…And What You Won’t
+We do not make policy recommendations. We try to help clarify some of the
+issues in a simple, analytically-based way. We aim to present data, trends, and
+facts about USA Inc.’s key revenue and expense drivers to provide context for
+how its financials have reached their present state.
+We did not base this analysis on proprietary data. Our observations come
+from publicly available information, and we use the tools of basic financial
+analysis to interpret it. Forecasts generally come from 3rd-party agencies like the
+Congressional Budget Office (CBO). For US policy makers, the timing of material
+changes will be especially difficult, given the current economic environment.
+No doubt, there will be compliments and criticism of things in the
+presentation (or missing from it). We hope that this report helps advance the
+discussion and we welcome others to opine with views (backed up by data).
+www.kpcb.com
+USA Inc. | Introduction
+11
+We Focus on Federal,
+Not State & Local Government Data
+� Federal / State & Local Governments Share Different Responsibilities
+� Federal government is financially responsible for all or the majority of Defense, Social
+Security, Medicare and Interest Payments on federal debt and coordinates / shares
+funding for public investment in education / infrastructure.
+� State & local governments are financially responsible for all or the majority of Education,
+Transportation (Road Construction & Maintenance), Public Safety (Police / Fire
+Protection / Law Courts / Prisons) and Environment & Housing (Parks & Recreation /
+Community Development / Sewerage & Waste Management).
+� Federal / state & local governments share financial responsibility in Medicaid and
+Unemployment Insurance.
+� We Focus on the Federal Government
+� State and local governments face many similar long-term financial challenges and may
+ultimately require federal assistance. To be sure, the size of state & local government
+budget deficits ($70 billion 1 in aggregate in F2009) and debt-to-GDP ratio (7% 2 on
+average in F2008) pales by comparison to the federal government’s ($1.3 trillion budget
+deficit, 62% debt-to-GDP ratio in F2010). But these metrics may understate state & local
+governments’ financial challenges by 50% or more 3 because they exclude the long-term
+cost of public pension and other post employment benefit (OPEB) liabilities.
+www.kpcb.com
+Note: 1) Per National Conference of State Legislatures, State fiscal years ends in June. $70B aggregate excludes deficits
+from Puerto Rico ($3B deficits in F2009). 2) Debt-to-GDP ratio per Census Bureau State & Local Government Finance; 3)
+Calculation based on the claim that $1T of collective short fall in State & local government pension and OPEB funding
+would be $2.5T using corporate accounting rules, per Orin S. Kramer, “How to Cheat a Retirement Fund,” 9/10.
+USA Inc. | Introduction
+12
+�Summary
+www.kpcb.com
+USA Inc. | Introduction
+13
+Highlights from F2010 USA Inc. Financials
+� Summary – USA Inc. has challenges.
+� Cash Flow – While recession depressed F2008-F2010 results, cash flow has been negative
+for 9 consecutive years ($4.8 trillion, cumulative), with no end to losses in sight. Negative
+cash flow implies that USA Inc. can't afford the services it is providing to 'customers,' many
+of whom are people with few alternatives.
+� Balance Sheet – Net worth is negative and deteriorating.
+� Off-Balance Sheet Liabilities – Off-balance sheet liabilities of at least $31 trillion (primarily
+unfunded Medicare and Social Security obligations) amount to nearly $3 for every $1 of debt
+on the books. Just as unfunded corporate pensions and other post-employment benefits
+(OPEB) weigh on public corporations, unfunded entitlements, over time, may increase USA
+Inc.’s cost of capital. And today’s off-balance sheet liabilities will be tomorrow’s on-balance
+sheet debt.
+� Conclusion – Publicly traded companies with similar financial trends would be pressed by
+shareholders to pursue a turnaround. The good news: USA Inc.’s underlying asset base and
+entrepreneurial culture are strong. The financial trends can shift toward a positive direction,
+but both ‘management’ and ‘shareholders’ will need collective focus, willpower, commitment,
+and sacrifice.
+Note: USA federal fiscal year ends in September; Cash flow = total revenue – total spending on a cash basis; net worth includes
+unfunded future liabilities from Social Security and Medicare on an accrual basis over the next 75 years. Source: cash flow per
+White House Office of Management and Budget; net worth per Dept. of Treasury, “2010 Financial Report of the U.S.
+www.kpcb.com
+Government,” adjusted to include unfunded liabilities of Social Security and Medicare.
+USA Inc. | Introduction
+14
+Drilldown on USA Inc. Financials…
+� To analysts looking at USA Inc. as a public corporation, the financials are challenged
+�
+Excluding Medicare / Medicaid spending and one-time charges, USA Inc. has supported a 4% average net
+margin 1 over 15 years, but cash flow is deep in the red by negative $1.3 trillion last year (or
+-$11,000 per household), and net worth 2 is negative $44 trillion (or -$371,000 per household).
+� The main culprits: entitlement programs, mounting debt, and one-time charges
+�
+�
+�
+Since the Great Depression, USA Inc. has steadily added “business lines” and, with the best of intentions,
+created various entitlement programs. Some of these serve the nation’s poorest, whose struggles have
+been made worse by the financial crisis. Apart from Social Security and unemployment insurance,
+however, funding for these programs has been woefully inadequate – and getting worse.
+Entitlement expenses (adjusted for inflation) rose 70% over the last 15 years, and USA Inc. entitlement
+spending now equals $16,600 per household per year; annual spending exceeds dedicated funding by
+more than $1 trillion (and rising). Net debt levels are approaching warning levels, and one-time charges
+only compound the problem.
+Some consider defense spending a major cause of USA Inc.’s financial dilemma. Re-setting priorities and
+streamlining could yield savings – $788 billion by 2018, according to one recent study 3 – perhaps without
+damaging security. But entitlement spending has a bigger impact on USA Inc. financials. Although
+defense nearly doubled in the last decade, to 5% of GDP, it is still below its 7% share of GDP from 1948 to
+2000. It accounted for 20% of the budget in 2010, but 41% of all government spending between 1789 and
+1930.
+www.kpcb.com
+Note: 1) Net margin defined as net income divided by total revenue; 2) net worth defined as assets (ex. stewardship assets like national
+parks and heritage assets like the Washington Monument) minus liabilities minus the net present value of unfunded entitlements (such as
+Social Security and Medicare), data per Treasury Dept.'s “2010 Annual Report on the U.S. Government”; 3) Gordon Adams and Matthew
+Leatherman, “A Leaner and Meaner National Defense,” Foreign Affairs, Jan/Feb 2011)
+USA Inc. | Introduction
+15
+…Drilldown on USA Inc. Financials…
+� Medicare and Medicaid, largely underfunded (based on ‘dedicated’ revenue) and
+growing rapidly, accounted for 21% (or $724B) of USA Inc.’s total expenses in F2010,
+up from 5% forty years ago
+� Together, these two programs represent 35% of all (annual) US healthcare spending; Federal Medicaid
+spending has doubled in real terms over the last decade, to $273 billion annually.
+� Total government healthcare spending consumes 8.2% of GDP compared with just
+1.3% fifty years ago; the new health reform law could increase USA Inc.’s budget
+deficit
+� As government healthcare spending expands, USA Inc.’s red ink will get much worse if healthcare costs
+continue growing 2 percentage points faster than per capita income (as they have for 40 years).
+� Unemployment Insurance and Social Security are adequately funded...for now. The
+future, not so bright
+� Demographic trends have exacerbated the funding problems for Medicare and Social Security – of the
+102 million increased enrollment between 1965 and 2009, 42 million (or 41%) is due to an aging
+population. With a 26% longer life expectancy but a 3% increase in retirement age (since Social
+Security was created in 1935), deficits from Social Security could add $11.6 trillion (or 140%) to the
+public debt by 2037E, per Congressional Budget Office (CBO).
+www.kpcb.com
+USA Inc. | Introduction
+16
+…Drilldown on USA Inc. Financials
+� If entitlement programs are not reformed, USA Inc.’s balance sheet will go from bad to
+worse
+� Public debt has doubled over the last 30 years, to 62% of GDP. This ratio is expected to surpass the
+90% threshold* – above which real GDP growth could slow considerably – in 10 years and could near
+150% of GDP in 20 years if entitlement expenses continue to soar, per CBO.
+� As government healthcare spending expands, USA Inc.’s red ink will get much worse if healthcare costs
+continue growing 2 percentage points faster than per capita income (as they have for 40 years).
+� The turning point: Within 15 years (by 2025), entitlements plus net interest expenses
+will absorb all – yes, all – of USA Inc.’s annual revenue, per CBO
+� That would require USA Inc. to borrow funds for defense, education, infrastructure, and R&D spending,
+which today account for 32% of USA Inc. spending (excluding one-time items), down dramatically from
+69% forty years ago.
+� It’s notable that CBO’s projection from 10 years ago (in 1999) showed Federal revenue sufficient to
+support entitlement spending + interest payments until 2060E – 35 years later than current projection.
+www.kpcb.com
+Note: *Carmen Reinhart and Kenneth Rogoff observed from 3,700 historical annual data points from 44 countries that the
+relationship between government debt and real GDP growth is weak for debt/GDP ratios below a threshold of 90 percent of GDP.
+Above 90 percent, median growth rates fall by one percent, and average growth falls considerably more. We note that while
+Reinhart and Rogoff’s observations are based on ‘gross debt’ data, in the U.S., debt held by the public is closer to the European
+countries’ definition of government gross debt. For more information, see Reinhart and Rogoff, “Growth in a Time of Debt,” 1/10.
+USA Inc. | Introduction
+17
+How Might One Think About Turning Around USA Inc.?...
+� Key focus areas would likely be reducing USA Inc.’s budget deficit and improving /
+restructuring the ‘business model’…
+� One would likely drill down on USA Inc.’s key revenue and expense drivers, then develop a
+basic analytical framework for ‘normal’ revenue / expenses, then compare options.
+�
+�
+Looking at history…
+Annual growth in revenue of 3% has been roughly in line with GDP for 40 years* while
+corporate income taxes grew at 2%. Social insurance taxes (for Social Security / Medicare)
+grew 5% annually and now represent 37% of USA Inc. revenue, compared with 19% in 1965.
+Annual growth in expenses of 3% has been roughly in line with revenue, but entitlements are
+up 5% per annum - and now absorb 51% of all USA Inc.’s expense - more than twice their
+share in 1965; defense and other discretionary spending growth has been just 1-2%.
+�
+One might ask…
+Should expense and revenue levels be re-thought and re-set so USA Inc. operates near
+break-even and expense growth (with needed puts and takes) matches GDP growth, thus
+adopting a ‘don’t spend more than you earn’ approach to managing USA Inc.’s financials?
+Note: *We chose a 40-year period from 1965 to 2005 to examine ‘normal’ levels of revenue and expenses. We did not choose the most recent
+40-year period (1969 to 2009) as USA was in deep recession in 2008 / 2009 and underwent significant tax policy fluctuations in 1968 /1969, so
+www.kpcb.com
+many metrics (like individual income and corporate profit) varied significantly from ‘normal’ levels.
+USA Inc. | Introduction
+18
+…How Might One Think About Turning Around USA Inc.?
+One might consider…
+�
+�
+�
+Options for reducing expenses by focusing on entitlement reform and operating efficiency
+�
+�
+Formula changes could help Social Security’s underfunding, but look too draconian for Medicare/Medicaid;
+the underlying healthcare cost dilemma requires business process restructuring and realigned incentives.
+Resuming the 20-year trend line for lower Federal civilian employment, plus more flexible compensation
+systems and selective local outsourcing, could help streamline USA Inc.’s operations.
+Options for increasing revenue by focusing on driving long-term GDP growth and changing tax
+policies
+� USA Inc. should examine ways to invest in growth that provides a high return (ROI) via new investment in
+technology, education, and infrastructure and could stimulate productivity gains and employment growth.
+�
+Reducing tax subsidies (like exemptions on mortgage interest payments or healthcare benefits) and
+changing the tax system in other ways could increase USA Inc.’s revenue without raising income taxes to
+punitive – and self-defeating – levels. Such tax policy changes could help re-balance USA’s economy
+between consumption and savings and re-orient business lines towards investment-led growth, though
+there are potential risks and drawbacks.
+History suggests the long-term consequences of inaction could be severe
+�
+USA Inc. has many assets, but it must start addressing its spending/debt challenges now.
+www.kpcb.com
+USA Inc. | Introduction
+19
+Sizing Costs Related to USA Inc.’s Key Financial Challenges
+& Potential AND / OR Solutions
+� To create frameworks for discussion, the next slide summarizes USA Inc.’s various
+financial challenges and the projected future cost of each main expense driver.
+� The estimated future cost is calculated as the net present value of expected
+‘dedicated’ future income (such as payroll taxes) minus expected future expenses
+(such as benefits paid) over the next 75 years.
+� Then we ask the question: ‘What can we do to solve these financial challenges?’
+�
+The potential solutions include a range of simple mathematical illustrations (such as
+changing program characteristics or increasing tax rates) and/or program-specific
+policy solutions proposed or considered by lawmakers and agencies like the CBO
+(such as indexing Social Security initial benefits to growth in cost of living).
+� These mathematical illustrations are only a mechanical answer to key financial
+challenges and not realistic solutions. In reality, a combination of detailed policy
+changes will likely be required to bridge the future funding gap.
+www.kpcb.com
+USA Inc. | Introduction
+20
+Overview of USA Inc.’s Key Financial Challenges
+& Potential and/or Solutions
+Rank
+Financial
+Challenge
+Net Present Cost 1
+($T / % of 2010 GDP)
+Mathematical Illustrations
+and/or Potential Policy Solutions 2
+1 Medicaid $35 Trillion 3 / 239%
+2 Medicare $23 Trillion / 156%
+• Isolate and address the drivers of medical cost inflation
+• Improve efficiency / productivity of healthcare system
+• Reduce coverage for optional benefits & optional enrollees
+• Reduce benefits
+• Increase Medicare tax rate
+• Isolate and address the drivers of medical cost inflation
+• Improve efficiency / productivity of healthcare system
+3
+Social
+Security
+$8 Trillion / 54%
+• Raise retirement age
+• Reduce benefits
+• Increase Social Security tax rate
+• Reduce future initial benefits by indexing to cost of living growth rather
+than wage growth
+• Subject benefits to means test to determine eligibility
+4
+Slow GDP /
+USA
+Revenue
+Growth
+--
+• Invest in technology / infrastructure / education
+• Remove tax & regulatory uncertainties to stimulate employment growth
+• Reduce subsidies and tax expenditures & broaden tax base
+5
+Government
+Inefficiencies
+--
+• Resume the 20-year trend line for lower Federal civilian employment
+• Implement more flexible compensation systems
+• Consolidate / selectively local outsource certain functions
+Note: 1) Net Present Cost is calculated as the present value of expected future net liabilities (expected revenue minus expected costs) for each program / issue over the
+next 75 years, Medicare estimate per Dept. of Treasury, “2010 Financial Report of the U.S. Government,” Social Security estimate per Social Security Trustees’ Report
+(8/10). 2) For more details on potential solutions, see slides 252-410 or full USA Inc. presentation. 3) Medicaid does not have dedicated revenue source and its $35T net
+present cost excludes funding from general tax revenue, NPV analysis based on 3% discount rate applied to CBO’s projection for annual inflation-adjusted expenses.
+www.kpcb.com
+USA Inc. | Introduction 21
+The Essence of America’s Financial Conundrum
+& Math Problem?
+While a hefty 80% of Americans indicate balancing the budget should
+be one of the country’s top priorities, per a Peter G. Peterson
+Foundation survey in 11/09…
+…only 12% of Americans support cutting spending on Medicare or
+Social Security, per a Pew Research Center survey, 2/11.
+Some might call this ‘having your cake and eating it too…’
+www.kpcb.com
+USA Inc. | Introduction
+22
+The Challenge Before Us
+Policymakers, businesses and citizens need to share responsibility for
+past failures and develop a plan for future successes.
+Past generations of Americans have responded to major challenges
+with collective sacrifice and hard work.
+Will ours also rise to the occasion?
+www.kpcb.com
+USA Inc. | Introduction
+23
+This page is intentionally left blank.
+www.kpcb.com
+USA Inc. | Introduction
+24
+High-Level Thoughts on
+Income Statement/Balance Sheet
+www.kpcb.com
+USA Inc. | High Level Thoughts
+25
+How Would You Feel if…
+…your Cash Flow was NEGATIVE for
+each of the past 9 years…
+?
+…your Net Worth* has been
+NEGATIVE for as long as you can
+remember…
+… it would take 20 years of your
+income at the current level to pay off
+your existing debt – assuming you
+don’t take on any more debt.
+www.kpcb.com
+Note: *See slide 30 for net worth qualifier.
+USA Inc. | High Level Thoughts
+26
+Welcome to the Financial Reality (& Negative Trend) of USA Inc.
+F2010 Cash Flow = -$1.3 Trillion; Net Worth = -$44 Trillion
+USA Inc. Annual Cash Flow & Year-End Net Worth, F1996 – F2010
+$400
+$15,000
+Annual Cash Flow ($Billion)
+$0
+-$400
+-$800
+-$1,200
+One-Time Expenses*
+Cash Flow (left axis)
+$0
+-$15,000
+-$30,000
+-$45,000
+Year-End Net Worth ($Billion)
+-$1,600
+Net Worth (right axis)
+F1996 F1998 F2000 F2002 F2004 F2006 F2008 F2010
+-$60,000
+Note: USA federal fiscal year ends in September; Cash flow = total revenue – total spending on a cash basis; net worth includes unfunded future liabilities from
+Social Security and Medicare on an accrual basis over the next 75 years. *One-time expenses in F2008 include $14B payments to Freddie Mac; F2009
+includes $279B net TARP payouts, $97B payment to Fannie Mae & Freddie Mac and $40B stimulus spending on discretionary items; F2010 includes $26B net
+TARP income, $137B stimulus spending and $41B payment to Fannie Mae & Freddie Mac. F2010 net worth improved dramatically owing to revised actuarial
+estimates for Medicare program resulted from the Healthcare reform legislation. For more definitions, see next slide. Source: cash flow per White House Office
+of Management and Budget; net worth per Dept. of Treasury, “2010 Financial Report of the U.S. Government.”
+www.kpcb.com
+USA Inc. | High Level Thoughts
+27
+Think About That…
+The previous chart is in
+TRILLIONS of dollars. Just
+because million, billion and
+trillion rhyme, doesn’t mean
+that they are even close
+to the same quantity.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+28
+Only Politicians Work in Trillions of Dollars—
+Here’s How Much That Is
+1 Pallet
+1 Football Field
+$1 Million (MM)
+217 Football Fields
+$1 Billion (B)
+$1 Trillion (T)
+www.kpcb.com
+USA Inc. | High Level Thoughts
+29
+Net Worth Qualifier
+• The balance sheet / net worth calculation does not include the power to tax
+– the net present value of the sovereign power to tax and the ability to print the
+world’s reserve currency would clearly bolster USA Inc.’s assets – if they could be
+accurately calculated.
+• Plant, Property & Equipment (PP&E) on USA Inc.’s balance sheet is valued
+at $829B 1 (or 29% of USA Inc.’s total stated assets) – this includes tangible
+assets such as buildings, internal use software and civilian and military
+equipment.
+• The PP&E calculation DOES NOT include the value of USA Inc.’s holdings in
+the likes of public land (estimated to be worth $408B per OMB) 1 , highways,
+natural gas, oil reserves, mineral rights (estimated to be worth $345B per OMB),
+forest, air space, radio frequency spectrum, national parks and other heritage and
+stewardship assets which USA Inc. does not anticipate to use for general
+government operations. The good news for USA Inc. is that the aggregate value
+of these heritage and stewardship assets could be significant.
+Note: 1) USA Inc.’s holding of land is measured in non-financial units such as acres of land and lakes, and number of National Parks and National Marine
+Sanctuaries. Land under USA Inc.’s stewardship accounts for 28% of the total U.S. landmass as of 9/10. Dept. of Interior reported 552 national wildlife refuges, 378
+park units, 134 geographic management areas, 67 fish hatcheries under their management as of 9/10. Dept. of Defense reported 203,000 acres of public land and
+16,140,000 acres withdrawn public land, the USDA’s Forest Service managed an estimated 155 national forests, while the Dept. of Commerce had 13 National
+Marine Sanctuaries, which included near–shore coral reefs and open ocean, as of 9/10. Dept. of Treasury, “2010 Financial Report of the U.S. Government.”
+www.kpcb.com
+USA Inc. | High Level Thoughts
+30
+A Word of Warning About Comparing
+Corporate & Government Accounting…
+� Government accounting standards do not report the present value of future
+entitlement payments (such as Social Security or Medicare) as liabilities.
+Instead, entitlement payments are recognized only when they are paid.
+� Our analysis takes a different view: governments create liabilities when they
+enact entitlements and do not provide for revenues adequate to fund them.
+� We measure the entitlement liability as the present value of estimated
+entitlement payments in excess of expected revenues for citizens of working age
+based on Social Security and Medicare Trust Funds’ actuarial analysis.
+� Government accounting standards also do not recognize the value of internallygenerated
+intangible assets (such as the sovereign power to tax). We do not
+recognize those assets either, as we have no basis to measure them. But the
+US government has substantial intangible assets that should provide future
+economic benefits.
+Note: For more discussion on alternatives to corporate and official government accounting methods, see Laurence J. Kotlikoff, Alan J. Auerbach, and Jagadeesh
+Gokhale, “Generational Accounting: A Meaningful Way to Assess Generational Policy,” published on 12/94 in The Journal of Economic Perspectives.
+Source: Greg Jonas, Morgan Stanley Research.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+31
+…and About Government Budgeting
+� Federal government budgeting follows arcane practices that are very different
+from corporate budgeting – and can neglect solutions to structural problems in
+favor of short-term expediency.
+� Federal government does not distinguish capital budget (for long-term
+investment) from operating budget (for day-to-day operations). As a result, when
+funding is limited, government may choose to reduce investments for the future
+to preserve resources for day-to-day operations.
+� Budget “scoring” rules give Congress incentives to hide the true costs...and help
+Congressional committees defend their turf.*
+Note: *For more detail, refer to slide 116 on congressional budget scoring rules related to recent Healthcare reform.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+32
+Metric Definitions & Qualifiers
+� Cash Flow = ‘Cash In’ Minus ‘Cash Out’
+� Calculated on a cash basis (which excludes changes in non-cash accrual of
+future liabilities) for simplicity.
+� One-Time Expenses = ‘Spending Minus Repayments’ for Non-Recurring
+Programs
+� Net costs of programs such as TARP, ARRA, and GSE bailouts.
+� Net Worth = Assets Minus Liabilities Minus Unfunded Entitlement Liabilities
+� Assets include cash & investments, taxes receivable, property, plant &
+equipment (as defined by Department of Treasury).
+� Liabilities include accounts payable, accrued payroll & benefits, federal
+debt, federal employee & veteran benefits payable…
+� Unfunded Entitlement Liabilities include the present value of future
+expenditures in excess of dedicated future revenues in Medicare and Social
+Security over the next 75 years.
+www.kpcb.com
+Note: USA Inc. accounts do not follow the same GAAP as corporations.
+USA Inc. | High Level Thoughts
+33
+Common Financial Metrics Applied to USA Inc. in F2010
+� Cash Flow Per Share = -$4,171
+� USA Inc.’s F2010 cash flow -$1.3 trillion, divided by population of ~310
+million (assuming each citizen holds one share of USA Inc.).
+� Net Debt to EBITDA Ratio = -8x
+� USA Inc. net debt held by public ($9.1 trillion) divided by USA Inc.
+F2010 EBITDA (-$1.1 trillion). It’s notable that the ratio compares with
+S&P500 average of 1.4x in 2010.
+Note: USA Inc. accounts do not follow the same GAAP as corporations. Refer to slide 31 for a word of warning about comparing
+corporate and government accounting. EBITDA is Earnings Before Interest, Tax, Depreciation & Amortization. Source: Dept. of
+Treasury, White House Office of Management and Budget, Congressional Budget Office, BEA, BLS.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+34
+Even Adjusting For Cyclical Impact of Recessions, USA Inc.’s 2010
+Structural Operating Loss = -$817 Billion vs. -$78 Billion 15 Years Ago
+Annual Federal Government Surplus / Deficit ($ Billion)
+-$1,200
+-$1,600
+USA Inc. Annual Operating Surplus / Deficit, Structural vs. Cyclical 1 , F1996 – F2010
+$400
+$0
+-$400
+-$800
+Structural
+Cyclical
+F1996 F1998 F2000 F2002 F2004 F2006 F2008 F2010
+Note: 1) Congressional Budget Office defines a structural surplus or deficit as the budget surplus or deficit that would occur under current law if the influences of
+the business cycle on the budget – the automatic stabilizers – were removed, and cyclical surplus or deficit as the automatic net changes in revenues and outlays
+that are attributable to cyclical movements in real (inflation-adjusted) output and unemployment. CBO compiled this data from Dept. of Commerce’s Bureau of
+Economic Analysis (BEA), which maintains the national income and product accounts (NIPA). An important difference between the official budget deficit and the
+NIPA measure of net federal government saving is that the latter excludes such purely financial transactions as the sale of government assets, and most
+transactions under the Troubled Asset Relief Program, because those transactions do not help to measure current production and income. In addition, historical
+NIPA data are subject to significant revision; historical budget data, by contrast, are rarely revised significantly. Source: 1996-2006 data per CBO, “The Effects of
+Automatic Stabilizers on the Federal Budget,” 5/10, 2007-2010 data per White House OMB F2012 Budget Analytical Perspective.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+35
+Understanding Differences Between
+Economist Language vs. Equity Investor Translation
+Economist Language
+� Budget Deficit – The amount by which a
+government's expenditures exceed its
+receipts over a particular period of time.
+� Structural Deficit – The portion of the
+budget deficit that results from a
+fundamental imbalance in government
+receipts and expenditures, as opposed to
+one based on the business cycle or onetime
+factors.
+� Cyclical Deficit – The portion of the
+budget deficit that results from cyclical
+factors such as economic recessions
+rather than from underlying fiscal policy.
+Equity Investor Approximate Translation*
+� Cash Flow – ‘Cash in’ minus ‘cash out.’
+� Cash Flow (ex. One-Time Items)* –
+‘Cash in’ minus ‘cash out’ excluding
+expenditures that are one-time in nature
+(such as economic stimulus spending).
+� One-Time Expenses* – TARP / GSE /
+stimulus spending related to economic
+recession.
+� Federal Debt Held By the Public – The
+accumulation of all previous fiscal years’
+deficits.
+www.kpcb.com
+� Debt – Cumulative negative cash flow
+financed by borrowing.
+Note: *We acknowledge that while the concept of ‘cash flow ex. one-time items’ and ‘one-time expenses’ is similar to ‘structural deficit’ and
+‘cyclical deficit,’ respectively, these terms are not interchangeable and have different definitions. Congressional Budget Office defines a
+structural surplus or deficit as the budget surplus or deficit that would occur under current law if the influences of the business cycle on the
+budget – the automatic stabilizers – were removed, and cyclical surplus or deficit as the automatic net changes in revenues and outlays that
+are attributable to cyclical movements in real (inflation-adjusted) output and unemployment.
+USA Inc. | High Level Thoughts
+36
+How Did USA Inc.'s Financial Reality
+Get to this Difficult Point?
+USA Inc. Has Not Adequately Funded Its Entitlement Programs
+Recessions come and go (and affect USA’s revenue), but future claims
+(related to entitlement program commitments) on USA Inc. now
+meaningfully exceed its projected cash flows.
+For the last 40 years, management (the government) has committed
+more long-term benefits through ‘entitlement’ programs like Medicaid /
+Medicare / Social Security…without developing a sound plan to pay for
+them.
+Many of these programs provide important services to low-income,
+unemployed, and disabled Americans in great need for help. But without
+proper financing, support may dwindle.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+37
+USA Inc. Has Substantially Expanded
+Its “Business Lines” Over Past 80 Years
+From 1789 to 1930, 41% 1 of USA Inc.’s cumulative
+budget was dedicated to defense spending (compared
+with 20% 1 in F2010), per the Census Bureau.
+This began to change in the 1930s, when the federal
+government substantially expanded its role (in effect,
+expanded its “business lines”) in response to the Great
+Depression.
+Note: 1) 41% is the cumulative defense spending (excluding veterans’ benefits and services) as % of cumulative total federal
+spending from 1789 to 1930. Including veterans’ benefits and services, defense spending would have been 49% of cumulative
+annual budget from 1789 to 1930 and would have been 22% in F2009. Source: Census Bureau, “Historical Statistics of the
+United States, Colonial Times to 1970,” Data series Y 457-465.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+38
+USA Inc. “Business Lines” Have Expanded
+From Defense to Insurance & Other Areas
+USA Inc. Major ‘Business Line’ Spending as % of GDP, F1800 vs. F1900 vs. F2000
+F1800
+2.2%
+F1900
+2.5%
+F2000
+18.2%
+Other
+0.3%
+Interest
+Payment
+0.7%
+Defense
+1.3%
+Other
+1.4%
+Defense
+0.9%
+Other
+5.1%
+Defense
+3.0%
+Interest
+Payment
+2.3%
+Interest
+Payment
+0.2%
+Health
+Insurance*
+3.6%
+Retirement +
+Disability
+Insurance*
+4.2%
+Note: Fiscal year 1800 / 1900 ended in June. Fiscal year 2000 ended in September. *Health insurance includes Medicare, Medicaid (federal portion)
+and other federal health programs, retirement and disability insurance is Social Security. Other spending includes public sector employee and veteran
+pension & benefits cost and spending on community development, law enforcement / education / public infrastructure / energy, etc. Source: 1800 /
+1900 data per Census Bureau, 2000 per White House OMB.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+39
+USA Inc. First 155 Years (1776-1930) = Era of Defense
+Dept. of Army + Navy = 41% 1 of Cumulative Spending From 1789-1930
+USA Inc.’s Budget Outlays For the First 155 Years (1776-1930) 2
+1789-1791 … 1800 … 1850 … 1900 … 1930
+1789-1930
+Cumulative
+Total Federal Government Outlays ($MM) $4 $11 $40 $521 $3,320 $98,747
+Defense $1 $6 $17 $191 $839 $40,332
+% of Total Outlays 15% 56% 44% 37% 25% 41%
+Dept. of the Army $1 $3 $9 $135 $465 $28,831
+% of Total Outlays 15% 24% 24% 26% 14% 29%
+Dept. of the Navy $0 $3 $8 $56 $374 $11,500
+% of Total Outlays -- 32% 20% 11% 11% 12%
+Interest on the Public Debt $2 $3 $4 $40 $659 $13,790
+% of Total Outlays 55% 31% 10% 8% 20% 14%
+Other* $1 $1 $18 $290 $1,822 $44,626
+% of Total Outlays 30% 13% 47% 56% 55% 45%
+Veteran Compensation and Pensions $0 $0 $2 $141 $221 $8,273
+% of Total Outlays 4% 1% 5% 27% 7% 8%
+Note: Data is rounded and not adjusted for inflation. 1) 41% is the cumulative defense spending (excluding veterans’ benefits and services) as % of
+cumulative total federal spending from 1789 to 1930. Including veterans’ benefits and services, defense spending would have been 49% of cumulative
+annual budget from 1789 to 1930. 2) Data not available from 1776 to 1789. * Other includes various spending on administration, legislation and veteran
+compensation and pensions. Source: Census Bureau, “Historical Statistics of the United States, Colonial Times to 1970,” Data series Y 457-465.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+40
+USA Inc. Next 80 Years (1931-2010) = Era of Expansion
+Defense Down to 20% of Spending; Social Security + Healthcare Up to 44% in F2010
+USA Inc.’s Budget Outlays For the Next 78 Years (1931-2010) 2
+… … … … … … … …
+1931 1940 1950 1960 1970 1980 1990 2000 2010
+Total Federal Government Outlays ($B) $4 $9 $43 $92 $196 $591 $1,253 $1,789 $3,456
+Defense $1 $2 $14 $48 $82 $134 $299 $294 $694
+% of Total Outlays 23% 20% 32% 52% 42% 23% 24% 16% 20%
+Interest on the Public Debt $1 $1 $5 $7 $14 $53 $184 $223 $196
+% of Total Outlays 17% 11% 11% 8% 7% 9% 15% 12% 6%
+Retirement & Disability Insurance $0 $0 $1 $12 $30 $119 $249 $409 $707
+% of Total Outlays 0% 0% 2% 13% 15% 20% 20% 23% 20%
+Healthcare $0 $0 $0 $1 $12 $55 $156 $352 $821
+% of Total Outlays 0% 1% 1% 1% 6% 9% 12% 20% 24%
+Physical Resources (Energy / Housing…) $0 $2 $4 $8 $16 $66 $126 $85 $89
+% of Total Outlays 5% 26% 9% 9% 8% 11% 10% 5% 3%
+Other $2 $4 $19 $17 $42 $165 $239 $426 $950
+% of Total Outlays 55% 42% 45% 18% 21% 28% 19% 24% 27%
+Note: Data is rounded and not adjusted for inflation. Physical resources include energy, natural resources, commerce & housing credit, transportation
+infrastructure, community and regional development. Other includes international affairs, agriculture, administration of justice, general government, education
+and veterans’ benefits and services. Source: 1931-1939 data per Census Bureau, “Historical Statistics of the United States, Colonial Times to 1970.” 1940-
+2010 data per White House OMB.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+41
+USA Inc. “Business Line” Extensions: 1930 – 2010
+1970’s
+1960’s
+1950’s
+1940’s
+1930’s
+www.kpcb.com
+“Business Line”
+Extensions
+F2010
+Expense ($B)
+Energy Policy $12
+Community
+Development
+13
+Healthcare 724
+Education 97
+Housing 36
+Welfare 28
+Agencies / Programs
+Created (Year)
+Department of Energy
+(1977)
+Community
+Development Block
+Grant* (1974)
+Medicare / Medicaid
+(1965)
+Federal Subsidies for
+K-12 & Higher
+Education (1965)
+Federal Housing
+Administration (1937)
+/ Fannie Mae (1938)
+Aid to Dependent
+Children (1935)
+Goals
+Establish the Strategic Petroleum Reserve /
+mandate automobile fuel efficiency standards &
+temporary oil price control
+Provide federal grants to local governments for
+projects like parking lots / museums / street repairs
+Provide medical insurance program for the elderly
+(Medicare) and welfare program for low-income
+population (Medicaid)
+Provide federal subsidies for student loans / school
+libraries / teacher training / research / textbooks and
+other items.
+Reduce cost of mortgages and spur home building /
+purchasing by offering federal mortgage insurance
+and create secondary market for mortgage loans.
+Provide cash assistance to low-income families with
+children. Replaced by Temporary Assistance for
+Needy Families program in 1996
+Retirement 584** Social Security (1935) Provide retirement income to the elderly
+TOTAL $1.5 Trillion Or 10% of F2010 GDP / 69% of USA Inc.’s Revenue / 43 of Expense
+Note: *Community Development Block Grant was an effort to consolidate various pre-existing categorical community development
+programs that started with "urban renewal" in the 1950’s. **Social Security’s F2010 expense excludes ~$123B payments to
+disabled workers via Disability Insurance program (created in 1956). Source: CATO Institute, White House OMB.
+USA Inc. | High Level Thoughts 42
+Entitlement Programs Are the Largest & Growing Expense Items
+on USA Inc.'s Income Statement in Peace Time
+USA Inc. Spending as % of GDP, 1795 – 2010
+45%
+40%
+All Other Spending Social Security Medicare + Medicaid
+35%
+World War II
+Federal Spending As % of GDP
+30%
+25%
+20%
+15%
+10%
+War of 1812
+Civil War
+Great Depression
+World War I
+5%
+0%
+www.kpcb.com
+1795 1820 1845 1870 1895 1920 1945 1970 1995
+Note: Medicaid spending only includes federal (not state) portion of spending.
+Source: John Cogan, Stanford University.
+USA Inc. | High Level Thoughts
+43
+Perspective –
+USA Entitlement Spending = India’s GDP
+• With a population of 1.2 billion (vs. USA’s 310 million) and
+2010 GDP growth of 10% (vs. USA’s 3%), India is a wellrecognized
+emerging country on the global stage.
+• It’s notable that India’s 2010 nominal GDP* of $1.43
+trillion was equal to USA’s $1.43 trillion in federal
+government spending on Social Security, Medicare, and
+Medicaid.
+www.kpcb.com
+Note: *Nominal GDP is not adjusted for purchasing power parity (PPP). Population and GDP data per IMF.
+USA Inc. | High Level Thoughts
+44
+The Original Estimates of Medicare’s Costs
+Were Vastly Underestimated
+• In 1965, the official estimate of Medicare’s costs was $500 million per year,
+roughly $3 billion in 2005 dollars.*
+• The actual cost of Medicare has turned out to be 10x that estimate.
+• Medicare’s actual net loss (tax receipts + trust fund interest – expenditures)
+has exceeded $3 billion (adjusted for inflation) every year since 1976 and
+was $146 billion in 2008 alone. In other words, had the original estimate been
+accurate, the cumulative 43-year cost since Medicare was created would
+have been $129 billion, adjusted for inflation.
+• In fact, the actual cumulative spending has been $1.4 trillion** (adjusted for
+inflation)...in effect, 10x over budget.
+• While calculations have been flawed from the beginning for some of USA Inc.’s
+entitlement programs, little has been done to correct the problems.
+� An accurate economic forecast might have sunk Medicare.
+David Blumenthal and James Morone
+“The Lessons of Success – Revisiting the Medicare Story”, November 2008
+www.kpcb.com
+Sources: * Lyndon B. Johnson Library & Museum. Medicare spending data per White House OMB.
+**Dept. of Health & Human Services, CMS, data adjusted for inflation based on BEA’s GDP price index.
+USA Inc. | High Level Thoughts
+45
+Many Leaders Have Voiced Concerns About
+Entitlement Program Math / Spending
+� The entitlement programs are not self-funded…they are unfunded
+liabilities. They are the single biggest component of spending going
+forward.
+� -- Ben Bernanke, Chairman of the Federal Reserve
+� Testimony before House Budget Committee, June 9, 2010
+� The time we have is growing short…there are serious questions, most
+immediately about the sustainability of our commitment to growing
+entitlement programs.
+� -- Paul Volcker, Former Chairman of the Federal Reserve
+� Chairman of President Obama’s Economic Recovery Advisory Board
+� Speech at Stanford University, May 18, 2010
+www.kpcb.com
+USA Inc. | High Level Thoughts
+46
+40-Year USA Inc. Data Points and Trends
+1965 2005
+‘65-’05
+Change
+National 1 Healthcare Spending as % of GDP 6% � 16% 167%
+Federal 2 Healthcare Spending as % of GDP 1 � 5 --
+Out-of-Pocket Healthcare Spending as % of GDP 3 � 2 --
+% of Adult Population Considered Obese 13 � 32 146
+% of Americans Receiving Govt. Subsidy 3 20 � 35 75
+% of Americans that Pay No Federal Income Tax 20 � 33 65
+National 1 Education Spending as % of GDP 5 � 7 48
+Federal Education Spending as % of GDP 0 � 1 --
+Gross Debt as % of GDP 47 � 64 36
+Interest Payments as % of GDP 1.2 � 1.5 25
+Gini Index of Income Inequality 4 0.34 4 � 0.41 20
+Net Debt 5 as % of GDP 38 � 37 -3
+People Below Poverty Level as % of Population 17 � 13 -26
+Defense Spending as % of GDP 7 � 4 -33
+% of Americans that Pay 50% of All Income Tax 10 6 � 4 -60
+Federal Budget Surplus / Deficit as % of GDP -0.2 � -3 --
+Note: 1) Includes all government and private spending. 2) Includes federal spending on Medicare, Medicaid and other healthcare programs, excludes state spending on Medicaid.
+3) % of Americans receiving government subsidy include all recipients of Social Security, Medicare and Medicaid, as well as government employees (incl. federal / state / local /
+military). Data excludes our estimated duplicates. 4) A Gini index of 0 implies perfect income equality and an index of 1 implies complete inequality, the higher the index, the more
+inequality there is. Earliest data for USA was measured in 1967. 5) Net debt is federal debt held by the public. 6) Earliest data available in 1980. Source: White House Office of
+Management and Budget, Department of Health & Human Services, Centers for Disease Control, Internal Revenue Service, Census Bureau.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+47
+Summary: 40-Year USA, Inc. Trends*
+� America is spending beyond its means, and the problem – with mounting
+losses & increasing debt – is getting worse, not better
+� Healthcare spending and obesity are rising dramatically.
+� Education spending is growing slower than healthcare spending.
+� Defense spending is declining on relative basis.
+� More and more Americans are on the government payroll or receive
+government subsidies for retirement income, medical care, housing, and
+food.
+� Inequality of income and wealth is rising, and fewer Americans pay income
+taxes to support USA Inc.
+� Government increasingly resorts to borrowing to fund rising spending
+levels (primarily for entitlement programs)…
+Note: *We chose a 40-year period from 1965 to 2005 to examine ‘normal’ levels of data points and trends. We did not
+choose the most recent 40-year period (1969 to 2009) as USA was in deep recession in 2008 / 2009 and underwent
+significant tax policy fluctuations in 1968 /1969 and subsequently many metrics (like individual income and corporate
+profit as well as federal budget surplus / deficit and debt levels) were significantly off their ‘normal’ levels.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+48
+What’s the Proper Level of This and That? What’s Normal?
+We begin with the premise that for an enterprise (even a country
+that can ‘print money’ and tax) to be sustainable, it cannot lose
+money on an ongoing basis.
+Successful businesses (and households) typically base their
+expenses on their ability to generate present and future revenue
+– in other words, they don’t spend unless they can pay.
+We analyze the data and present scenarios and options for solving
+the math and financial challenges facing USA Inc.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+49
+This page is intentionally left blank.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+50
+This page is intentionally left blank.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+51
+This page is intentionally left blank.
+www.kpcb.com
+USA Inc. | High Level Thoughts
+52
+Income Statement Drilldown
+www.kpcb.com
+USA Inc. | Income Statement Drilldown
+53
+Income Statement –
+USA Inc. Shows -8% Median Net Margin Over 15 Years
+USA Inc. Annual Net Income & Median Net Margin, F1996 – F2010
+$400
+40%
+$0
+0%
+USA Inc. Net Income ($B)
+-$400
+-$800
+-$1,200
+Net Income ($B)
+15-Year Median Net Margin (%)
+-40%
+-80%
+-120%
+Net Margin (%)
+-$1,600
+F1996 F1998 F2000 F2002 F2004 F2006 F2008 F2010
+-160%
+www.kpcb.com
+Note: USA federal fiscal year ends in September. Source: White House Office of Management and Budget.
+USA Inc. | Income Statement Drilldown
+54
+Income Statement –
+F2010 USA Inc. Revenues + Expenses at a Glance
+Corporate
+Income Tax
+$191B
+F2010 Revenue =
+$2.2 Trillion
+Other
+$208B
+10%
+9%
+Individual
+Income Tax
+$899B
+Non-Defense
+Discretionary
+$431B
+Discretionary
+One-Time Items
+$152B
+F2010 USA Inc. Expenses =
+12%
+$3.5 Trillion
+Net Interest
+Payment
+$196B
+6%
+4%
+20%
+Entitlement
+Programs
+Social
+Security
+$707B
+41%
+20%
+22%
+Social
+Insurance Tax
+$865B
+www.kpcb.com
+40%
+Defense
+$694B
+16%
+Medicare +
+Federal
+Medicaid
+$724B
+Unemployment Insurance
++ Other Entitlements
+$553B
+Note: USA federal fiscal year ends in September; *individual & corporate income taxes include capital gains taxes. Nondefense
+discretionary includes federal spending on education, infrastructure, law enforcement, judiciary functions…
+Source: White House Office of Management and Budget.
+USA Inc. | Income Statement Drilldown
+55
+Income Statement –
+USA Inc. Supported -60% Net Margin in F2010
+USA Inc. Profit & Loss Statement, F1995 / F2000 / F2005 / F2010
+F1995 … F2000 … F2005 … F2010 Comments
+Revenue ($B) $1,352 $2,026 $2,154 $2,163 On average, revenue grew 3% Y/Y
+Y/Y Growth -- 11% 15% 3% over past 15 years
+Individual Income Taxes* $590 $1,005 $927 $899 Largest driver of revenue
+% of Revenue 44% 50% 43% 42%
+Social Insurance Taxes $484 $653 $794 $865 Payroll tax on Social Security +
+% of Revenue 36% 32% 37% 40% Medicare
+Corporate Income Taxes*
+% of Revenue
+$157
+12%
+$207
+10%
+$278
+13%
+$191
+9%
+Fluctuates significantly with
+economic conditions
+Other
+% of Revenue
+$120
+9%
+$161
+8%
+$154
+7%
+$208
+10%
+Includes estate & gift taxes / duties &
+fees; relatively stable
+Expense ($B) $1,516 $1,789 $2,472 $3,456 On average, expense grew 6% Y/Y
+Y/Y Growth -- 5% 8% -2% over past 15 years
+Entitlement / Mandatory
+% of Expense
+$788
+52%
+$937
+52%
+$1,295
+52%
+$1,984
+57%
+Significant increase owing to aging
+population + rising healthcare cost
+Non-Defense Discretionary
+% of Expense
+$223
+15%
+$335
+19%
+$497
+20%
+$431
+12%
+Includes education / law enforcement
+/ transportation…
+"One-Time" Items
+% of Expense
+Defense
+% of Expense
+--
+--
+$272
+18%
+--
+--
+$294
+16%
+--
+--
+$495
+20%
+$152
+4%
+$694
+20%
+Includes discretionary spending on
+TARP, GSEs, and economic stimulus
+Significant increase owing to ongoing
+War on Terror
+Net Interest on Public Debt
+% of Expense
+$232
+15%
+$223
+12%
+$184
+7%
+$196
+6%
+Decreased owing to historic low
+interest rates
+Surplus / Deficit ($B) -$164 $237 -$318 -$1,293 USA Inc. median net margin
+Net Margin (%) -12% 12% -15% -60% between 1995 & 2010 = -8%
+www.kpcb.com
+Note: USA federal fiscal year ends in September; *individual & corporate income taxes include capital gains taxes. Nondefense
+discretionary includes federal spending on education, infrastructure, law enforcement, judiciary functions…
+Source: White House Office of Management and Budget.
+USA Inc. | Income Statement Drilldown 56
+Income Statement – Excluding ‘Underfunded’ Medicare / Medicaid 1 + One-Time
+Charges, USA Inc. Shows 4% Median Net Margin Over 15 Years
+USA Inc. Annual Net Income & Median Net Margin
+(Excluding Medicare / Medicaid & One-Time Charges), F1996 – F2010
+$600
+60%
+$400
+40%
+USA Inc. Net Income ($B)
+$200
+$0
+-$200
+-$400
+-$600
+Net Income (ex. Medicare / Medicaid / One-Time Charges) ($B)
+15-Year Median Net Margin (%)
+20%
+0%
+-20%
+-40%
+-60%
+Net Margin (%)
+-$800
+F1996 F1998 F2000 F2002 F2004 F2006 F2008 F2010
+-80%
+www.kpcb.com
+Note: 1) Excludes both ‘dedicated’ revenue and spending for Medicare and Medicaid. USA federal fiscal year ends in
+September. Source: White House Office of Management and Budget.
+USA Inc. | Income Statement Drilldown
+57
+Income Statement: USA Inc. Profit & Loss Statement Is Solid, Excluding
+‘Underfunded’ Medicare / Medicaid Revenue and Spending + One-Time Charges
+USA Inc. Profit & Loss Statement (ex. Medicare / Medicaid / One-Time Expense), F1995 / F2000 / F2005 / F2010
+F1995 … F2000 … F2005 … F2010 Comments
+Revenue ($B) $1,256 $1,890 $1,988 $1,983
+Y/Y Growth -- 11% 15% 4%
+Individual Income Taxes* $590 $1,005 $927 $899
+% of Revenue 47% 53% 47% 45%
+Social Insurance Taxes (ex. Medicare) $388 $517 $628 $685
+% of Revenue 31% 27% 32% 35%
+Corporate Income Taxes* $157 $207 $278 $191
+% of Revenue 13% 11% 14% 10%
+Other $120 $161 $154 $208
+% of Revenue 10% 9% 8% 10%
+Expense ($B) $1,248 $1,474 $1,992 $2,580
+Y/Y Growth 5% 8% 7%
+Entitlement (ex. Medicare / Medicaid) $520 $622 $815 $1,259
+% of Expense 42% 42% 41% 49%
+Non-Defense Discretionary $223 $335 $497 $431
+% of Expense 18% 23% 25% 17%
+Defense $272 $294 $495 $694
+% of Expense 22% 20% 25% 27%
+Net Interest on Public Debt $232 $223 $184 $196
+% of Expense 19% 15% 9% 8%
+Surplus / Deficit ($B) $8 $416 -$4 -$597
+Net Margin (%) 1% 22% 0% -30%
+On average, revenue (ex. Medicare)
+grew 3% Y/Y over past 15 years
+Largest driver of core revenue
+Payroll tax on Social Security
+Fluctuates significantly with
+economic conditions
+Includes estate & gift taxes / duties &
+fees; relatively stable
+Expenses(ex. Medicare Medicaid)
+grew 5% Y/Y over past 15 years
+Significant increase owing to aging
+population
+Includes education / law enforcement
+/ transportation…
+Significant increase owing to ongoing
+War on Terror
+Decreased owing to historic low
+interest rates
+USA Inc. core operations were in
+surplus 9 out of the past 15 years
+Note: USA federal fiscal year ends in September; *individual & corporate income taxes include capital gains taxes. Non-defense discretionary includes
+federal spending on education, infrastructure, law enforcement, judiciary functions… Source: White House Office of Management and Budget.
+www.kpcb.com
+USA Inc. | Income Statement Drilldown
+58
+100-Year Review of USA Inc.’s Basic Income Statement
+Including Revenue & Expense Drivers as Percent of GDP
+… … … … … … … … … …
+1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2008 2009 2010
+Revenue ($B) $0.7 $7 $4 $7 $41 $92 $193 $517 $1,032 $2,025 $2,524 $2,105 $2,163
+% of GDP 2% 8% 4% 7% 15% 18% 19% 19% 18% 21% 18% 15% 15%
+Individual Income Taxes -- $1 $1 $1 $16 $41 $90 $244 $467 $1,004 $1,146 $915 $899
+% of GDP -- 1% 1% 1% 6% 8% 9% 9% 8% 10% 8% 6% 6%
+Social Insurance Taxes -- -- -- $2 $4 $15 $45 $158 $380 $653 $900 $891 $865
+% of GDP -- -- -- 2% 2% 3% 4% 6% 7% 7% 6% 6% 6%
+Corporate Income Taxes -- -- $1 $1 $10 $21 $33 $65 $94 $207 $304 $138 $191
+% of GDP -- -- 1% 1% 4% 4% 3% 2% 2% 2% 2% 1% 1%
+Other* $0.7 $6 $3 $3 $10 $16 $24 $51 $92 $161 $174 $161 $208
+% of GDP 2% 6% 3% 3% 4% 3% 2% 2% 2% 2% 1% 1% 1%
+Expense ($B) $0.7 $6 $3 $9 $43 $92 $196 $591 $1,253 $1,789 $2,983 $3,518 $3,456
+% of GDP 2% 7% 4% 9% 16% 18% 19% 22% 22% 18% 21% 25% 24%
+Defense $0.3 $2 $1 $2 $14 $48 $82 $134 $299 $294 $616 $661 $694
+% of GDP 1% 3% 1% 2% 5% 9% 8% 5% 5% 3% 4% 5% 5%
+Interest on the Debt $0 $1 $1 $1 $5 $7 $14 $53 $184 $223 $253 $187 $196
+% of GDP 0% 1% 1% 1% 2% 1% 1% 2% 3% 2% 2% 1% 1%
+Social Security -- -- -- $0 $1 $12 $30 $119 $249 $409 $617 $683 $707
+% of GDP -- -- -- 0% 0% 2% 3% 4% 4% 4% 4% 5% 5%
+Healthcare -- -- -- $0 $0 $1 $12 $55 $156 $352 $671 $764 $821
+% of GDP -- -- -- 0% 0% 0% 1% 2% 3% 4% 5% 5% 6%
+Other** $0 $3 $2 $6 $23 $25 $57 $231 $365 $511 $825 $1,222 $1,039
+% of GDP -- -- -- 6% 8% 5% 6% 8% 6% 5% 6% 9% 7%
+Surplus / Deficit ($B) -$0 $0 $1 -$2 -$2 $0 -$3 -$74 -$221 $236 -$459 -$1,413 -$1,293
+% of GDP 0% 0% 1% -2% -1% 0% 0% -3% -4% 2% -3% -10% -9%
+Note: Data are not adjusted for inflation. *Other revenue includes customs and excise / estate taxes. **Other expenses include spending on law enforcement
+/ education / public infrastructure / energy, etc. Source: 1910 – 1930 per Census Bureau, 1940-2010 per White House OMB.
+www.kpcb.com
+USA Inc. | Income Statement Drilldown
+59
+100-Year Review of USA Inc.’s Basic Income Statement
+Including Revenue & Expense Drivers as Percent of Revenue & Expenses
+… … … … … … … … … …
+1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2008 2009 2010
+Revenue ($B) $0.7 $7 $4 $7 $41 $92 $193 $517 $1,032 $2,025 $2,524 $2,105 $2,163
+% of GDP 2% 8% 4% 7% 15% 18% 19% 19% 18% 21% 18% 15% 15%
+Individual Income Taxes -- $1 $1 $1 $16 $41 $90 $244 $467 $1,004 $1,146 $915 $899
+% of Revenue -- 16% 28% 16% 38% 44% 47% 47% 45% 50% 45% 43% 42%
+Social Insurance Taxes -- -- -- $2 $4 $15 $45 $158 $380 $653 $900 $891 $865
+% of Revenue -- -- -- 25% 11% 16% 23% 31% 37% 32% 36% 42% 40%

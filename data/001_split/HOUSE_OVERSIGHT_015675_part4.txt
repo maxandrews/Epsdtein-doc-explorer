@@ -1,0 +1,1676 @@
+number (the successor number).
+From this we can prove some very simple things.
+1+1=2. Because the next number after 1 is 2 and ‘+1’ means take
+the successor. (You can see I cheated here a little and did not take 100
+pages for the proof.)
+Back to my poor mother: “Why is the lowest number zero,
+Mummy?” “Because I say so!” Or, at least “…because Mr. Peano said
+so.” That’s what an axiom is.
+“OK, but why is 3 greater than 2.”
+“Because I said that each number has a thing that comes after it.
+“But, why can’t 3 come after zero!”
+“It can!”
+“But then, if 3 is the thing after zero, I could count 0, 3, 2, 4…”
+“Yes, if you want to…”
+“I’m sort of lost. Now, you are saying that 3 doesn’t really ‘mean’
+anything. It just comes after 0.”
+“Yes. You can make up any symbols you like. You just have to
+remember what you said and be consistent.”
+The dialogue shows the importance of definition in mathematics.
+I could define my counting numbers as 0, 1, 2, 3, 4 or as ο, π, ρ, σ, ς, or
+享 , 仇 , 仕 , 仝 or to be really annoying and confusing 0, 3, 1, 2, 4; they
+are only arbitrary symbols. It helps us to learn the numbers because 1
+is a single line, 2 is two lines joined, three is basically three lines looped
+together, and four is four lines, but we could have used any symbols
+we cared for. It is the rules for manipulating these symbols that are the
+important part and give mathematics its meaning.
+200 Are the Androids Dreaming Yet?
+The Game of Mathematics
+When I was a child, our living room carpet had a square pattern. You
+could use boiled sweets to play checkers on it. Even though there was
+no board and no pieces, it was clearly a game of checkers because we
+followed the right rules (with the one exception that if you jumped over
+a sweet you got to eat it). Mathematics is like a game with a set of rules.
+If you follow the rules, you are doing mathematics.
+Consider the simple mathematical theory that if A equals B, then B
+equals A. This seems clear-cut, but you can get into trouble if you’re not
+careful when defining the word ‘equals’. ‘My dog equals naughty’ does
+not imply ‘naughty equals my dog. Here I have used ‘equals’ to mean
+‘has the property of.’ My dog has the property of being naughty. This is
+an attribute, not equivalence. You must be careful with mathematics. A
+equals B implying B equals A is a property of numbers when the equals
+sign is used to mean equivalence.
+Here are the rules of the game that provide a proof for this theory.
+Let us start with the position in which we don’t know whether A
+equals B implies B equals A. We have these three axioms, call them rules
+for now since we are using the game analogy.
+Rule 1: If I have no minus sign in front of a letter I can assume there
+is an invisible + sign there.
+Rule 2: If I have a positive letter (or a letter with no symbol in front
+of it) I can put a minus in front of it and put it on the other
+side of the equals sign.
+Rule 3: I can swap the plus and minus signs of all the letters in my
+equation if I do it to all of them.
+Now I am ready to prove my theorem.
+A = B is the same as +A = + B. (rule 1)
++A = + B is the same as -B = - A (rule 2 done twice)
+-B = -A is the same as B = A (rule 3)
+Success.
+So A = B is the same as B = A.
+I have my proof. It might be glaringly obvious, but that’s not the
+point. The point is you can apply rules to symbols and derive new rules.
+It does not matter what the symbols are or how obvious it is. Here’s the
+same proof with dingbats.
+Known Unknowns
+201
+Rule 1: If I have no glyph in front of a symbol I can assume there is
+an invisible Ψ there.
+Rule 2: If I have a positive letter (or a letter with no symbol in front
+of it) I can put a � in front of it and put it on the other side
+of the →
+Rule 3: I can swap the Ψ and �symbols of all the symbols in my
+equation if I do it to all of them.
+The proof in symbols
+� → ß is the same as Ψ � → Ψ ß. (rule 1)
+Ψ � → Ψ ß is the same as �ß → �� (rule 2 twice)
+�ß → �� is the same as ß → � (rule 3)
+Any collection of symbols will do. The symbols have no meaning
+in themselves other than the meaning we have given them. A tribe in
+the Amazon jungle could demonstrate a proof without knowing any
+mathematics. All I need say is, “Hey, I want to play a game with you. Can
+anyone make this into that, in the fewest possible steps, while obeying
+these rules?”
+But, is it true we can ignore the meaning behind the symbols. Does
+it matter that we were talking of numbers rather than spears, counters, or
+crocodiles? If we look at the marathon winning analogy again, we know
+the nature of a game is important. In a running race we can interpret
+holding hands to mean the two athletes are treated as one, the existing
+rules can then be applied as normal and the pair become a single winner.
+But, in tennis, there would be a problem. I wouldn’t want to come on court
+and find I’m playing against two opponents! On consideration though
+I’d be happy if they had to hold hands while they played so that they
+constituted a single player. When we examine the actual circumstances,
+we can add a rule and show the rule works, but we have to see something
+about the specific sport that makes the rule fair and workable.
+Hilbert was convinced mathematical truth is not like this and
+that proofs follow from the rulebook without any knowledge of the
+circumstances, i.e., the sport being played or any other analogous thing.
+He was to be proven wrong by Kurt Gödel.
+202 Are the Androids Dreaming Yet?
+Königsberg Bridges
+Gödel
+Gödel studied mathematics at Königsberg University, Hilbert’s
+hometown. Königsberg is famous for having a mathematical problem
+related to the seven bridges that link the city together. It’s quite fun to try
+to solve. Find a route across the city that crosses each bridge once and
+once only. You can start anywhere, but no walking halfway over a bridge
+and no swimming!
+Euler discovered a rigorous mathematical proof that there can
+be no solution in 1735 after five hundred years of failure by other
+mathematicians. The answer is you cannot.
+In 1931 Kurt Gödel, then working at the University of Vienna, proved
+mathematics is like our sporting analogy. There are true statements in
+mathematics that cannot be proven by the rules of the system. Someone
+outside the system, with common sense, can see a statement is true, but
+it’s impossible to prove this if you constrain yourself inside the system. It
+is the equivalent of all the members of the London Marathon Committee
+wondering what to do about the race while all of us watching the TV are
+shouting, “It’s a draw!” Looking at the rulebook ‘really hard’ doesn’t help.
+Known Unknowns
+203
+You have to step back and think about the problem in the round and then
+devise some additional rules to handle the circumstances. Mathematics
+is like this also.
+Here is how Gödel proved his result.
+It is easy to turn logic or any text into numbers. That’s how this
+book is stored on my laptop. All we need do is translate sentences into
+ASCII or Unicode. In this way, any theory can be reduced to a string of
+numbers.
+Since Gödel’s proof predates the invention of the computer, he had
+to come up with a novel way to store information. He deployed an old
+Roman invention; a substitution code. The number one was represented
+by 1, two by 2 and the symbols by larger numbers, for example, ‘=’ was
+coded as 15 and so on. He then raised a sequence of prime numbers to
+the power of each of these codes and multiplied all the results together.
+This generated a single enormous but unique number that he could later
+factor back into its constituent parts to recover the information. This is
+a truly complicated solution to a very simple problem. Today we would
+solve it by storing each number in the memory of a computer as an array.
+Let’s use the easier table method to store things and code as follows:
+000 will stand for ‘start of proof ’. Each step in the proof will start with 00
+and each symbol in the proof starts and ends with a zero. This way we
+can code one plus one equals two as follows.
+0000001110454011101210222000000
+I think this is simple enough for you to guess the coding scheme.
+Hint: 111 stands for 1. The scheme is on my website if you can’t work
+it out. Using this technique, any series of mathematical statements can
+be turned into a number. As a series of mathematical statements is a
+proof, we can generate proof numbers. They are just the sequential list of
+all the instructions. These numbers are sometimes referred to as Gödel
+numbers.
+Gödel’s next step was to say one number demonstrates the proof of
+another number. For example, the number 000820962 might demonstrate
+the proof of another number 000398... This is the mathematical equivalent
+of my saying a Word file demonstrates the truth of your mathematical
+theorem. Any statement can be represented by numbers, provided
+you have a consistent coding scheme that allows you to get back to the
+meaning.
+Now Gödel set up his paradox:
+204 Are the Androids Dreaming Yet?
+Every correctly formed theorem number has another number,
+which demonstrates the proof of that number.
+If this is universally true there should be no contradiction.
+Unfortunately if you apply the theorem to itself you get something
+similar to the liar’s paradox.
+“This proof number is not a proof of the truth of this theorem
+number.”
+The proof number proves the theorem number is true, but the truth
+of the statement is that it can’t be a proof of the statement… Paradox.
+The only way to resolve the paradox is to go back one step and
+realize that not every correctly formed theorem number has a proof
+number using only the rules of that system.
+Concisely, Gödel’s theorem says, “Within any formal system of
+mathematics there can be statements that are true but are not provable
+using only the rules of that system.”
+When Hilbert heard of Gödel’s proof, his first reaction was anger.
+After all, he had spent 30 years of his life trying to prove mathematics was
+tidy and complete. Gödel had just shown it was not. Hilbert never worked
+on formalism again, but the rest of the mathematical establishment
+largely ignored the result. Gödel’s proof did not stop mathematicians
+proving new theorems nor doing useful mathematics. They went on
+much as before, using a mixture of intuition and analysis. The only
+difference was someone had told them analysis alone would not succeed.
+The repercussions of Gödel’s theory have more to do with understanding
+our place in the Universe and the nature of knowledge discovery. These
+are ‘big’ philosophical questions, which don’t greatly affect the day-today
+ability of a mathematician to do their job. However, it is important
+to understand that knowledge discovery is not simply analysis. Knowing
+this helps us understand human creativity.
+Inconsistency
+In the proof above, I said the only way to resolve the paradox is by saying
+there cannot be a proof number for every mathematical statement and
+therefore mathematics is incomplete. There is one other way to solve the
+paradox, and that is by allowing inconsistency into the system. Gödel’s
+proof assumes you can prove something true or false, but what if you
+could prove it true and false? In this case, the system is complete but you
+can prove truths and untruths within it! This may seem an acceptable
+solution, but inconsistency in a mathematical model is a cancer that will
+Known Unknowns
+205
+spread through the entire body. Think about it. If I am allowed to prove
+anything either way, of course, my system is complete. It can say anything
+it wants, but the proofs I make are worthless.
+Let us imagine, for a moment, we created a new system of
+mathematics where all the numbers in our new theory behave as we
+expect, except for the numbers 5 and 6. You may use them to count, but
+they are also equal to each other! This feels bad and it certainly breaks the
+Peano axioms. In my new system 1 plus 5 and 0 plus 5 are the same, so I
+can equate 0 to 1. Because 0 and 1 are the basis of binary arithmetic, all
+numbers can be equated. Numbers now have no guaranteed meaning in
+my system and, what is worse, since logic uses 1 and 0 to represents true
+and false, all of logic falls apart as well. Whenever we allow inconsistency
+into mathematics it rapidly brings the whole pack of cards down.
+The example I gave was glaring; an inconsistency right in the
+middle of the counting numbers! Maybe I was too aggressive and a
+subtle and less damaging inconsistency might be tolerable. However,
+any inconsistency allows me to make zero equal one somewhere in my
+system and, therefore, any theorem based on proof by counterexample
+will be suspect.
+There might be systems where inconsistency could be a legitimate
+part of a mathematical system, but I would always need positive
+corroboration for each proof. If I tried hard enough, I could always prove
+something either way. I would need to formulate a new mathematical
+rule – something like “I will believe short, sensible-looking proofs to be
+right and circuitous proofs to be wrong.” Mathematics would be a bit like
+a court of law. You would have to weigh up the evidence from a variety
+of sources and the verdict would be a matter of subjective opinion rather
+than objective fact. Inconsistency is very bad in mathematics.
+The Lucas Argument
+J.R. Lucas of Oxford University believes Gödel’s theorem says something
+fundamental about the nature of the human mind. In 1959, he wrote a
+paper, Minds, Machines and Gödel, where he argued humans must be able
+to think outside a fixed set of formal rules. The paper has been causing
+arguments ever since. Strong AI proponents have a visceral reaction to
+it. Forty years later, in 1989 Roger Penrose picked up the baton and put
+the Lucas argument on a stronger theoretical footing. The Lucas-Penrose
+argument is this:
+206 Are the Androids Dreaming Yet?
+If humans used a formal system to think, they would be limited by
+the incompleteness theorem and unable to discover new theorems that
+required them to extend the formal rules. Humans do not appear to have
+such a limitation and regularly extend their appreciation of mathematics
+by expanding the rules, and seeing through to the truth.
+Many scientists dislike this argument and think it farfetched, saying
+there is no evidence to show people see past the limitation. Our brains
+could be following a formal system capable of discovering everything we
+have discovered to date or, indeed, might encounter in the future. Why
+should we assume human minds are constrained in the same way as the
+mathematical systems they discover? There is no evidence to suggest a
+human thinking about Peano arithmetic is running a Peano based model
+in their head. When Peano discovered his theorem he was certainly
+extending our mathematical knowledge, but this does not imply he was
+extending the capability of his brain.
+The critics of Lucas and Penrose have one big problem to deal with.
+The formal system in our head would need to be able to see the truth in
+everything we could ever encounter. But, our formal system appears to
+be small. As infants, it is almost nonexistent. Where does this enormous
+system come from? It can’t come from our parents because they have
+the same problem; they were once children. You might argue that the
+capability of the human brain is huge and we can learn from all the other
+humans on earth, but let me remind you what Gödel said. However large
+Two Giants
+Known Unknowns
+207
+a system you have and however much you extend it, the system will
+always be incomplete. And we really do mean; however large. Even an
+infinitely large formal system would be incomplete.
+The only way to avoid this problem is with some sort of conspiracy
+theory where we only come across problems our formal system can
+already solve. Such a theory is a determined Universe. In a determined
+Universe, all the mathematical problems we ever solve must be expressed
+by the formal systems existing in the Universe. We must never encounter
+a problem where we need to extend the system and break the Gödel limit
+because we are pre-determined not to do so.
+The Inconsistency Defense
+An argument put forward by opponents of the Lucas-Penrose position
+is that humans are inconsistent formal systems. Inconsistent formal
+systems are not subject to the incompleteness limit. Humans certainly
+behave inconsistently with remarkable regularity but simply making
+inconsistent statements is not sufficient to show the underlying formal
+system is, itself, inconsistent. Inconsistent beliefs can come simply from
+making mistakes or reading the same story in two different newspapers!
+We need a fundamentally inconsistent thinking mechanism inside our
+brains to break the constraint. The very machinery itself would have
+to be inconsistent. But this is exactly Penrose’s point. Constructing a
+machine capable of reasoning in an inconsistent but useful manner would
+need exotic technology, some sort of non-deterministic, rationalizing
+computer. The components to make it could not be computer logic as we
+know it today. All such logic is entirely computationally deterministic.
+Let me see if I can reframe the Lucas argument. Imagine IBM’s
+Watson computer was let loose on mathematical reasoning. Watson could
+scan every mathematical theorem ever written down. It would know
+every programming language created. It would have its enormous bank
+of general knowledge to call upon and it could answer many questions.
+It would sometimes appear inconsistent because the information it had
+trawled from the Internet would be wrong. But Watson would still be a
+consistent formal system and Gödel’s theorem says there would be truths
+Watson could never see. Lucas argues humans can see such truths where
+a machine cannot, and these truths would allow a human to discover a
+proof to a mathematical problem that would forever elude Watson.
+The Lucas argument runs into a brick wall because it asserts we see
+truths a machine cannot. For each alleged creative step, his opponents
+simply assert your brain was already sufficiently powerful to perform
+208 Are the Androids Dreaming Yet?
+that creative step. Lucas’s argument is largely a philosophical one. Surely
+all this creativity can’t all be pre-coded within the brain. Surely we must
+be extending our model in order to extend mankind’s mathematical
+model. “Prove it,” say the detractor, and he cannot. We need something
+more practical if we’re going to show a difference between humans and
+machines - something an engineer, or even a physicist, could grasp! That
+thing is a Turing Machine. We will examine this next.
+Chapter 10
+TURING’S
+MACHINE
+Alan Turing
+“A computer would deserve to
+be called intelligent if it could
+deceive a human into believing
+that it was human.”
+Alan Turing
+“The only real valuable thing is
+intuition.”
+Albert Einstein
+“Mathematical reasoning may be
+regarded rather schematically as
+the exercise of a combination of
+two facilities, which we may call
+intuition and ingenuity.”
+Alan Turing
+It is 1943 and a small group of Polish mathematicians sit, ears glued
+to their wireless set, waiting to hear whether the German army will
+advance on Warsaw. The Polish Intelligence Bureau badly needed
+to know what the German army was planning and had recruited this
+group of young mathematicians as code breakers. Up to this point, codebreaking
+had been the domain of linguists able to see word patterns
+in apparently random sets of letters. The arrival of electro-mechanical
+machines made this method redundant, and code-breaking had become
+the domain of mathematical minds. The British, French, and American
+intelligence agencies were all hard at work deciphering the German
+codes, but only the Polish group, motivated by the imminent threat of
+invasion, had made real progress. The code they were breaking: ‘Enigma’.
+As with many inventions, Enigma got off to a difficult start. The
+inventor, Arthur Scherbius, tried to sell it to the army but they rejected it
+saying it did not provide any real military benefit. Instead, the machine
+went into service transmitting commercial shipping manifests. However,
+some senior figures in the German military had not forgotten the lesson
+of the First World War. During that war, the German army suffered
+major setbacks because the British broke all their codes early on. With
+the onset of World War II, Rommel ordered the German Army and Navy
+to deploy modern coding machines. The previously rejected Enigma was
+rapidly pressed into service and, all of a sudden, Europe went dark to
+Allied Intelligence. The man to lead the task of breaking Enigma for the
+English was Alan Turing.
+Alan Turing
+Alan Turing was conceived in India but born in London in early 1912.
+He was precocious from an early age and an extraordinarily determined
+character. His first day at Public School, Sherborne in Dorset, coincided
+with the British General Strike of 1926. With no public transport available,
+the thirteen-year-old Turing cycled the 60 miles to school, staying in a
+guesthouse on the way and earning a write-up in his local newspaper.
+Turing went on to study Mathematics at King’s College, Cambridge and
+was made a Fellow at only 22. In 1936 Turing, aged 24, published On
+Computable Numbers and their Application to the Entscheidungsproblem,
+not a snappy title, but one of the most influential mathematical works of
+the 20 th century. The paper described the new the science of computing
+and solved Hilbert’s ‘Entscheidungsproblem’, a mathematical puzzle
+212 Are the Androids Dreaming Yet?
+simply translated as ‘the Decision Problem’ – could you decide the truth
+of a mathematical statement using some sort of automatic computation
+– an ‘algorithm’ as we now call it?
+It is difficult to imagine, but Turing worked on ‘computing’ before
+the invention of the computer. When he talked of computing, he
+meant the abstract idea of doing something mechanically. The nearest
+thing he had to a ‘computer’ at the time was a human mindlessly but
+methodically calculating something with pencil and paper! The scientific
+paper he submitted to the London Mathematical Society described both
+the theoretical basis of computing, and the design of a general-purpose
+computing machine: the forerunner of all modern computers.
+At the time, only a handful people in the world could assess
+Turing’s paper. One of them, Alonzo Church, was based at the Institute
+of Advanced Mathematics in the USA on the Princeton University
+campus, next door to the Institute for Advanced Study that housed
+Einstein. Turing travelled to America in 1937 and completed his doctoral
+thesis at Princeton. He might have stayed, but Europe was heating up
+and war seemed inevitable, so Turing returned to England to take up
+a part-time job in the government code-breaking branch. Here he was
+able to indulge his passion for hands-on engineering, experimenting
+with the newly invented valve technologies. When war finally broke out
+Turing was ordered to report to Bletchley Park, just north of London.
+This was to be the home of the top-secret British code-breaking group
+tasked with cracking Enigma. Turing’s first task was to debrief the
+Polish mathematicians and see what they had discovered. The Polish
+mathematicians had seen there were flaws in Enigma that made it repeat
+itself. They had made a copy of the machine to test different coding
+configurations and had been routinely cracking Enigma for 6 years,
+but the Germans had been getting smarter and it was taking longer and
+longer to crack the codes. Turing realized he could apply the Polish ideas
+in a more general way and break the codes on an industrial scale. He was
+installed at Bletchley Park to lead the project.
+Initially he was successful but as the war continued, Enigma
+developed subtleties making it harder to break. At one point, it was
+taking a whole month to break a single day’s messages. Turing realized
+the only solution was to use computer technology to fully automate the
+decryption. He built a computing machine that could simulate thousands
+of Enigma machines and try out all the possible settings in a short space
+of time. The machine acquired the nickname ‘a bombe’, perhaps because
+of the ominous ticking sound it made as it calculated (or maybe as a
+reference to the smaller Polish machines).
+Turing’s Machine
+213
+Thanks to Turing’s insight into coding schemes and the machines
+he designed, the British were soon able to read almost every coded
+message the Germans sent during the war, giving the Allies an enormous
+advantage. The D-Day invasion involved convincing Hitler that the Allies
+had a huge army of nearly 400,000 men, massed around Dover preparing
+an attack on Calais head on, with a second army in Scotland poised to
+attack Norway. In truth, they had only 150,000 men planning an assault
+on the Normandy Beaches in the South. Just before the landings messages
+were decoded showing Hitler had fallen for the Allied subterfuge. Even
+as the Normandy landings began, Hitler still thought this a bluff and
+kept his 28 divisions at Calais waiting for the imagined attack. Without
+this intelligence advantage, the Allies would have needed a much larger
+invasion force, and Churchill believed Turing’s work shortened the war
+by as much as two years.
+The cracking of Enigma remained a secret after the war and
+Turing’s story remained untold for many years. When Churchill wrote
+his history, The Second World War, a massive work in six volumes, all
+sorts of sensitive information featured, but Turing’s work was omitted.
+One sentence hints that Churchill might write something about it in the
+future, but he never did. Churchill considered the work at Bletchley Park
+so sensitive he had it put in the highest classification – extending the
+30-year secrecy rule. We must presume the decoding schemes were still
+being deployed during the Cold War. The papers were finally released in
+2010.
+In one of those sad turns in history Turing was found guilty of gross
+indecency for homosexuality in 1954, a criminal act at the time, and was
+prescribed hormone treatment. This affected his mental state and he took
+his life by eating an apple laced with cyanide. He was eventually honored
+posthumously as a war hero and one of the most significant thinkers of
+the 20 th Century. A Turing Award is the equivalent of the Nobel Prize for
+Computing. He was given a royal pardon in 2013.
+To see how Turing came up with the idea for the Turing machine
+and solved the decision problem, we need to get a feel for theoretical
+mathematics. That might sound a little heavy going but don’t worry, I will
+use a simple piece of mathematics to explain, one we have all played with
+as children, secret codes.
+214 Are the Androids Dreaming Yet?
+Codes
+Everyone has played with some sort of
+secret code as a child – the Aggy Waggy
+game, passing notes written in invisible
+ink made from lemon juice, or perhaps
+a simple cypher. If I want to send you a
+secret message, I can use a substitution
+code. Let’s see how good a code breaker
+you are. Can you decode this?
+Gdkkn Qdzcdq
+It’s really easy. You might guess the
+Enigma Machine
+message from the pattern of letters and
+your knowledge of my writing style. There are a couple of interesting
+patterns to note: the 3 rd and 4 th letter of the first word are the same and
+the first and last letter of the second word are the same. As a test I gave
+this code to my wife and my eight-year-old daughter to see how long it
+took them to decode… Less than a minute for my wife – a linguist. We
+will come back to my daughter shortly!
+Roman Emperors used this sort of simple code to secure their
+messages, but modern codes have to be a great deal more sophisticated.
+Let us use a progressive cipher where we vary the substitution using a
+secret word. Take the name of my dog and write it down repeatedly next
+to the letters of the message you want to keep secret. Now translate all
+the letters in the message and the code into numbers ‘a’ = 1, ‘b’ = 2 and
+so on. Then add the letters of my dog’s name to the letters of the message
+one at a time. If I get to 26 (‘z’) just wrap around to ‘a’ and carry on. This
+is called modulo arithmetic. This coding scheme will translate ‘l’ to ‘a’ the
+first time but ‘l’ to ‘c’ the second making it much harder for a linguist to
+see any pattern.
+hello reader can you read this code
+georgegeorgegeorgegeorgegeorgegeorge
+Gives
+ojacveyjpvlwghpegcvzoilfkehzpxghcvle
+
+Turing’s Machine
+215
+The advantage of this cipher is that I can easily remember the name
+George. I don’t need to write it down. And the circular application makes
+the message sufficiently obscure you can’t easily work it out…
+Is this, therefore, a good code?
+No.
+This cipher is easy to break. Once you have guessed that I have
+applied a repeated short code word, you can write out ALL the possibilities
+and decrypt my message! This may be tedious, but if you are fighting a
+war and your life depends on it, you can employ a thousand people to
+write them all out. The British government employed 10,000 people at
+Bletchley Park, many of them doing exactly this. You might think that
+applying ALL the possibilities is too time consuming in practice but
+there are many shortcuts. If I suspect the message contains the name
+of a German town all I need do is try keys until I find a German town
+somewhere in the message then work my way outwards from there. Or
+perhaps I suspect the key is something easy to remember like the name
+of the Commandant’s dog. I can try ALL German dog names until I get
+lucky. If I’ve 10,000 people working for me this is easy.
+The Enigma machine and the coding process set up to operate it
+was designed to remove these loopholes. For a start, the keys were all
+random numbers taken from a code book – no dog names allowed – and
+the machine took the idea of a simple progressive cipher and made it
+much more complex.
+Imagine I took my GeorgeGeorgeGeorge pattern but then every
+3 rd character added one, every 14 th character subtracted 15 and every
+40 th character added the 3 rd letter of the First Mate’s mother’s maiden
+name. Now this would be a VERY hard code to break. I would need a
+machine to code messages because if I tried to do it by hand I would
+make so many mistakes that the messages I send would be unintelligible.
+The Enigma machine made these coding schemes a practical possibility.
+But, although Enigma is hard to break it is not impossible with enough
+computing power. Is there any code that is impossible to break?
+An Unbreakable code
+Is there a way of coding a message so you can never break it?
+The answer is there are two ways to code a message so it is
+PERFECTLY safe. The first is to use a one-time pad and the second is
+quantum cryptography.
+216 Are the Androids Dreaming Yet?
+One perfect way to encode a message is to use a one-time pad. On
+a sheet of paper I write a completely random set of numbers or letters
+– since we are going to translate numbers to letters it does not matter
+which. I make a copy and give it to a person I later want to send a coded
+message. Because I will only use these two paired sheets once it helps to
+make a few of them – a pad in fact. By convention, we refer to a single
+sheet or a whole book as a one-time pad code. Here is the one-time pad I
+created earlier. It is just a random sequence of letters and spaces.
+kaleygnqaloiuebldlan dlkawoqyevbax gmlsosuebal
+To code a message, I substitute numbers for letters as with the
+progressive cypher earlier again using modulo arithmetic to wrap around
+if I reach the letter ‘z’. I have applied my one-time pad to the hello reader
+message below to get ‘sfacngfvbpta’.
+hello reader
+sfacngfvbpta
+This code is unbreakable – almost! Notice there are very few clues
+for anyone wanting to decode it without holding a copy of the pad. Spaces
+do not necessarily indicate breaks between words, and letter patterns are
+absent. It has only one flaw. The total number of characters and spaces
+could have some meaning. This is a problem because if I routinely
+communicated bombing targets and my message was “Bomb Bath”. You
+could figure out the sender was not going to bomb Bristol if the message
+were shorter than 11 letters and spaces. To avoid this problem, messages
+are extended with nonsense at beginning and end to make sure no
+information can be gleaned from the length. The convention is to code
+messages to the full length of the pad. You must never reuse a pad. Each
+time you code a message, rip off that page rather like a calendar. Destroy
+it and use the next page for the next message. At the other end, the
+recipient uses his copy of the pad to run the process in reverse. Decode
+the message by swapping each letter according to the modulo method,
+rip the page from the pad, and burn it. Because each key is only used
+once you can’t use any sort of statistical method to work out the message,
+making the one-time pad perfectly secure. Claude Shannon proved this
+in 1945 while working for Bell Corporation but, due to wartime secrecy,
+his proof was not published until 1948.
+Turing’s Machine
+217
+The Perfect Code
+The proof that a one-time pad is perfectly secret is straightforward.
+Imagine I take a coin and flip it 1000 times. I’ll write down some of the
+results as follows:
+HHTHHHTTHTTTHTTTTTHTH…
+I give you a copy of my results and keep one for myself. Now we
+each have the same random set of Heads and Tails recorded on a piece
+of paper. I can convert any message from letters to binary numbers: ‘a’
+= 00000001, ‘b’ = 00000010, ‘c’ = 00000011 and so on. If you are not
+familiar with binary just assume I have a code where we only ever use
+combinations of 0s or 1s. To encrypt the message we flip each bit – 0 goes
+to 1 or 1 goes to 0 – using my random list of heads and tails according
+to the following rule: If I have a head flip the bit, otherwise leave it the
+same. I now have a randomized message, and it really is truly random. To
+convince yourself, imagine answering the question, do you like coffee or
+tea? Think of your answer and flip a coin. If the coin lands heads change
+your answer otherwise leave it the same. Now write your answer down.
+Try it out a few times. Do you see you end up with a totally random set
+of decisions – tea, coffee, coffee, tea, tea, tea. If you don’t record the coin
+toss there is no way to determine your true answer.
+Similarly, the message I encoded above now looks like a completely
+random stream of 1s and 0s and the only person who can decode it is the
+party with the other record of the coin tosses. Apply this to the message
+and, as if by magic, the message reappears. Any other random sequence
+will yield gibberish. It has to be the SAME random sequence I used in
+the first place.
+Mathematically, the proof involves working out that the probability
+of getting the right answer by applying a random sequence is 1 in 2 n and
+the probability I could guess the answer is also 1 in 2 n ? The same! So the
+chance of decrypting the message knowing the encryption method is the
+same as simply guessing the message and getting lucky. Therefore, the
+message is perfectly encrypted.
+Quantum Cryptography
+It turns out there is one other perfect encryption method that involves
+thinking about the nature of secrets. Normally we consider the primary
+problem with sending a secret message is coding it so that it can’t be read
+218 Are the Androids Dreaming Yet?
+by anyone but the intended recipient. However, wouldn’t it be equally
+valuable to know if someone other than the recipient had intercepted
+and read the message? This is the trick quantum cryptography gives us.
+Taking a measurement with a quantum device disturbs the system
+so measurements can be taken only once with the same results. By the
+same logic, I could send you a message and if someone else has read it in
+the meantime, you will know. I could arrange to meet with you in Berlin
+and if you detect the message has been intercepted, you could simply not
+show up.
+I could use this same technique to send you a one-time pad. If you
+receive it without it being overheard, I could then safely send you an
+encrypted message. In 2007, this technique was used to transmit the
+results of a Swiss election from the polling booths to the central counting
+center.
+Enigma
+World War II accelerated the evolution of encryption from simple
+substitutions a human could perform to complex ciphers only a machine
+could calculate. You might wonder why everyone does not use a onetime-pad
+since it is a perfect code. The problem is distributing and
+maintaining the pads while keeping them secret. My daughter cracked
+my earlier code because she knows my laptop password, broke in, and
+read the answer. That’s the problem with codes – security. The pads
+could be sent out in sealed envelopes but it would be easy to intercept an
+envelope, copy the pad and reseal it. You would then have a perfect and
+undetectable way to break the code. Also, if I were an Admiral wanting
+to communicate with my fleet of submarines I would need a huge pad
+– one page for every message I want to send – and either a pad for each
+submarine or one pad for all submarines. If I use only one pad, then I
+cannot talk to a submarine privately, and if any pad were lost all security
+would be breached. One-time-pads were used by both sides during
+World War Two, and often printed on nitrocellulose – a chemical similar
+to the explosive nitroglycerine. This allowed users to burn the codebooks
+quickly if an enemy threatened to capture them.
+Both the Americans and British captured Enigma machines and
+codebooks during the war. A Navy Enigma machine was a sought-after
+prize, as it was more complex than the Army version, with extra dials
+and plug settings. To crack the more sophisticated codes Bletchley Park
+Turing’s Machine
+219
+needed to get hold of Enigma machines, ideally without the Germans’
+knowledge. The film U-571 merges two such capture stories into one,
+taking a few dramatic liberties along the way, but it’s well worth watching.
+Even with a captured machine, the codes were hard to break. You
+needed a starting point – a crib to give you a clue what the machine
+settings were. Helpfully, the German Army often began their messages
+with a weather report. Everyone knows the German word for weather –
+‘Wetter’. Decode the first 20 letters of a message until you found ‘Wetter’
+and the message is unlocked. The German Navy, however, was less chatty
+and avoided obvious words in their messages. One way the Allies could
+find a crib was to blow something up. They would sail to some point in
+the Atlantic, fill an old boat with oil drums, and set it alight. The German
+Navy would get wind of this and go to investigate. The first thing they
+would do is to radio a message back to base with the coordinates of
+the wreckage, which, of course, the British already knew. This gave the
+British a crib, and once they were in, they could decode messages for
+several days in a row because the Enigma machines often cycled through
+a repeating pattern.
+Throughout the War, the German military never suspected the
+British had cracked their codes and thought they must have traitors giving
+away their secrets. The Enigma machine was an elegant compromise
+between a truly unbreakable code and a simple cipher. Unfortunately for
+the Germans, Turing was on the side of the Allies.
+In the 1930s almost all mathematics, accounting, and code-breaking
+were performed by humans using pencil and paper. It was the science
+behind this process Turing sought to understand. We’ll take a step back
+in time again to 1935 and Turing’s discovery of a solution to the Decision
+Problem – the Entscheidungsproblem.
+Lego Turing Machine
+“Machines take me by surprise
+with great frequency.”
+Alan Turing
+The Machine
+Turing probably learned of the Entscheidungsproblem in a lecture
+given at Cambridge University by Max Newman. Newman
+described a new proof by Gödel showing mathematics was
+incomplete. The proof solved the completeness and consistency problems
+by turning mathematical statements into numbers and showing you
+could generate a logical paradox if you tried to argue for completeness
+and consistency at the same time. Thus, of the three original Hilbert
+problems, completeness, consistency and decidability, only decidability
+remained unanswered.
+Turing spent all of 1935 and much of 1936 thinking about
+this question: Is mathematics intuitive, or could a machine decide
+mathematical questions automatically? Eventually, cycling through
+the Cambridge countryside one day, he stopped to rest in a field near
+Grantchester and in a flash of inspiration envisioned his mathematical
+machine. The machine was entirely imaginary but made as if from
+mechanical parts common in the 1930s.
+The idea was to reduce the process of computing with pen and paper
+to its most basic level. Turing hit upon the idea of using a long ribbon of
+paper tape similar to the ones used in telegraph machines. A paper tape
+is simpler than rectangular paper as it can be handled mathematically as
+a single sequence of numbers – we don’t have to worry about turning the
+page or working in two dimensions. If you are worried that a tape is less
+powerful than a sheet of paper remember Cantor’s theorem: an infinite
+plane is the same as an infinite line. The use of a tape massively simplified
+the mathematics, and subsequently many early computers used tapes, as
+they were easy to handle in practice as well as in theory.
+222 Are the Androids Dreaming Yet?
+The eye, hand and pencil of a human mathematician was modeled
+as the read-write head of a teletype. It allowed the machine to read
+input from the tape and write information back so as to keeping track of
+intermediate calculations or provide the final output. The operation of
+the machine was straightforward. At each moment in time the machine
+could read a symbol on the tape, move the tape forward or backwards,
+and write or erase a symbol. That’s all he needed to model a human doing
+something like long multiplication. Turing argued his model was exactly
+analogous to a human performing a computation.
+Turing’s imaginary machine was now able to perform computations
+just like a human. You could write down the rules for a given procedure
+and the machine could, for example, do long multiplication. At each step
+of the calculation, the computer would examine the state machine, look
+up the state in the instruction book and put the machine into its new
+state. If you recall Searle’s Chinese Room, this is the same process the
+man in the room followed: get a symbol, look it up in a book, and reply
+with the corresponding symbol.
+Universal Turing Machine
+We have missed one important step from our explanation of the modern
+computer: the ability to run programs. Nowadays, we take for granted
+you can download a program from the Internet or buy one from a shop.
+In the 1930s adapting a single machine to multiple purposes was a radical
+idea. Machines were built to do one thing, and one thing only, and there
+was no concept of a general-purpose machine. Nowadays this is hard to
+comprehend, but there is a similar revolution going on in manufacturing
+today with the widespread adoption of 3D printing. Today most factories
+use tools – lathes, drills and saws – to fashion objects. Each machine does
+a specific job and is not ‘general purpose’. But innovative new machines
+can now be purchased relatively inexpensively called 3D fabricators,
+which print entire objects. The same happened for electronic logic in
+Turing’s time.
+Before computers, logical tasks were performed by banks of relays.
+How these banks work can be illustrated by the workings of an oldfashioned
+elevator. If you pressed a button to call an elevator, you closed
+a switch coupled to a relay in the basement sending power to the car.
+Another switch was tripped automatically when the elevator reached the
+desired floor. All the functioning of the elevator system was fixed. Once
+you pressed a button to go up you could not change your mind and press
+Turing’s Machine
+223
+Old Fashioned Relay Mechanism
+the button to go down. That logic did not exist in the relay banks. If you
+wanted to improve the logic of the elevator you would need to rip out all
+the relays and rewire everything from scratch.
+Turing’s first imaginary machine was set up in the same way. It
+had a fixed set of hard-wired logic, a rule book. In order to perform
+different tasks – say addition or multiplication you had to use a different
+rule book. His revolutionary idea was to write a rule book that told
+the machine to read a soft-wired set of instructions from the tape and
+execute those instead. He called this a Universal machine since it could
+perform any procedure written on the tape. Today we call this software.
+It is fair to say Turing was not the first to use this idea. Charles Babbage’s
+analytical engine could read instructions from cards and execute
+different procedures, but Turing thought through all the ramifications
+of the idea and made it general purpose, giving us the modern science
+of computing. It is easy to build a real Turing machine, but by today’s
+standards it is a little clumsy; a team in Denmark has built one using
+Lego. You can see a link on my website.
+Very soon after Turing’s paper was published, a number of people
+proposed better practical implementations. In 1943, John von Neumann
+of Princeton University created the architecture for ENIAC, the first
+stored program computer, developed for the United States Army’s Ballistic
+224 Are the Androids Dreaming Yet?
+3D Printing Machine
+Research Laboratory. The laptop I am writing on uses the von Neumann
+architecture, and most modern computers evolved from it. By contrast,
+mobile phones are descended from the Harvard architecture developed
+by IBM and first supplied to Harvard University in 1944, hence its name.
+The distinction in architectures has blurred over the years. The world
+supports two main computer chip technologies, one built for desktop
+and laptop computers, designed by Intel in Santa Clara, California, and
+the other, designed for mobile devices by ARM, in Cambridge, England.
+All these computers can, in principle, run any piece of software.
+Programs
+Software is just a series of numbers. When you click an icon on your
+desktop, the computer reads the number and interprets it as a series
+of instructions. There is a decoder inside the computer that knows the
+number ‘1’ means add the next two digits and the number 5493 means
+display them on screen and so on. On my computer the operating system,
+Apple’s OSX, takes the number, decodes it and passes it to the CPU for
+Turing’s Machine
+225
+execution. You might ask what runs the operating system and that is a
+smaller program called the BIOS. What runs BIOS? An even smaller
+program called the Bootstrap. Once all this is up and running you have a
+working computer, which can run any program you throw at it.
+The problem with programs is they tend to crash – usually at
+the most inconvenient times. It is often not clear whether a program
+has truly crashed. It might be stuck in an infinite loop, or it could be
+calculating the answer to a complex question, such as the answer to life,
+the Universe, and everything. How would we know? If only I had waited
+a little longer before rebooting, the program would have run to its end
+and given me the answer to Douglas Adams’ question.
+It would be very useful, and save a great deal of time, if I had a way
+of telling whether a program will ever stop. An elegant solution would be
+to have a second program called ‘Halt’, which would test the program and
+output ‘will halt’ or ‘will crash’ as appropriate. It turns out this program
+would be more than just useful. It could be used as an oracle, capable of
+answering almost any question imaginable.
+I could, for example, write a program that says: for every index in
+Fermat’s puzzle try every number and halt if you find a solution greater
+than 2. Now if I run my halt program on this program and it states ‘will
+crash’, I will have solved Fermat’s Last Theorem! Do you see why?
+If we give ‘Halt’ an input: a program we are interested in, along with
+some data, it will tell us if the program finds an answer. If I am trying to
+solve Fermat’s Last Theorem, we will ask it to try every possible index for
+the equation 3 x +4 x =5 x and halt when it finds a true result greater than 2.
+If the halt program says yes and halts, you can trace through the program
+and work out how it did it. The theory would be proved. If the program
+says no, the theory is disproved. This gives us a way to discover proofs of
+many mathematical theorems.
+I could try almost any puzzle using a program with this form. All I
+need do is put a problem in the following decision format: try all possible
+options, and then stop and ring a bell if a solution is found. The Halt
+program would then give the result leading to untold riches, winning all
+the remaining Clay Mathematics prizes at the very least and earning me
+$6m.
+Does such a magical program exist? The answer, sadly, is no. There
+is no Halt program and the final part of Turing’s paper proved there can
+never be.
+226 Are the Androids Dreaming Yet?
+The Proof
+Let’s write a list of all the possible programs my laptop could ever run. A
+comprehensive way to do this is to start at one and try every number.As
+I count up I am simply generating numbers, for example, 5,433,232, then
+turning each number into a program file and running it. For a bit of fun,
+I created a couple and tried them out on my laptop. They did nothing, so
+it was not very edifying. Most numbers are just junk because programs
+have to be in the right format for the computer you are working on. It’s
+just like words. If you randomly take a handful of scrabble tiles out of a
+bag, most of the time you will have nonsense, but every now and they
+you will have an actual word. Be careful with this; you could accidentally
+write, “delete every item on my hard disk.” Of course, the probability is
+astronomically low, but Murphy’s Law says it will happen, so back up
+your data!
+As you count up, you will generate every possible program along the
+way. A mathematician would say programs are recursively enumerable.
+The word recursive means there is an algorithm and enumerable means
+to count. Therefore, there is a counting algorithm that would run every
+imaginable program. Here is a list of them, or at least a some of the
+highlights:
+0 (probably doesn’t run)
+1 (ditto)
+00 (ditto)
+01 (ditto)
+011001001001000100 (makes the computer beep once)
+… (from here on I’ll give the program names since the numbers are
+too large to print)
+Does Nothing (there are many of these)
+Is Gibberish (there are an infinite number of these)
+Junk (an infinite number of these)
+Print Something (again an infinite number of these)
+More Gibberish
+Excel
+Word
+PowerPoint
+Mathematica...
+Fermat’s Last Theorem enumerator (runs for ever)
+A nonworking version of the Halting Program
+A nonworking version of the Crashing Program
+Really big programs that don’t fit on my hard drive
+Turing’s Machine
+227
+and so on.
+You can see that every program imaginable is generated in our
+list. If you are wondering which version of Word or Excel, the answer
+is every version and every bug ridden unreleased version as well. We
+are enumerating every program that could ever be run in the known
+universe!
+Perhaps you can see a problem looming. I can pose any mathematical
+puzzle in a clever way so that a program only stops if there is a solution.
+I am about to list every possible program that could ever be created. If
+halt exists this will automatically prove every mathematical theorem
+imaginable.
+Let us see if this is so.
+For our thought experiment, we will assume every program takes
+an input. Historical convention in computing means this is generally the
+case. If you type a program into the command line of a computer with
+some words listed afterwards, the computer will usually run the program
+with the words as input. For example, if you type, “Print ‘Hello World’”,
+most computers will print ‘Hello World’.
+We now imagine there is a Halt program that can run on an infinity
+of inputs. Will it work for every input? We are looking for a paradox
+caused by the existence of the Halt program. If Halt causes a paradox
+then Halt cannot exist.
+Here goes...
+If there is a Halt program, we can write a Crash program. That’s a
+program that goes into an infinite loop if it detects a program will halt.
+Now what happens when we feed Crash into itself? Does Crash halt if it
+runs with the input Crash?
+This creates a paradox; there is no solution which makes sense. It’s
+similar to the Barber Paradox of earlier. Since a paradox is created there
+must be a fault in our original theory. The error is the existence of Crash.
+Since Crash cannot exist and it was created as the logical opposite of
+Halt, Halt cannot exist either. QED. There is no general program that will
+tell if another program will halt because such a program could not run
+with the negative of itself as input.
+This places a limit on the power of computers to automatically
+solve problems. There is certainly no general purpose algorithm which
+will solve every problem. Slightly more subtly there is no general
+purpose program that is guaranteed to solve one arbitrary problem.
+228 Are the Androids Dreaming Yet?
+If there were, you could just write a program to sequentially present
+every problem to the arbitrary problem solver and you would have
+solved everything.
+This presents us with a puzzle. A huge software industry has
+grown up based on Turing’s ideas, employing tens of millions of people
+worldwide. This industry regularly solves all manner of problems.
+The proof from Turing’s original 1936 paper suggests there should be
+quite strict limits on the power of computers. In the next chapter, we
+will examine this industry and take a look at Turing’s theorem from a
+modern view point. The chapter can be read as a stand alone article but
+was originally written as an integral part of this book.
+Chapter 11
+SOFTWARE
+Fred Brooks
+Medieval Block Print from ‘No Silver Bullet’
+“The bearing of a child takes nine
+months, no matter how many
+women are assigned.”
+Fred Brooks
+“Adding manpower to a late
+software project makes it later.”
+Brooks’ Law
+In No Silver Bullet – Essence and Accidents of Software Engineering,
+Fred Brooks explains why writing software is hard, and why machines
+are not going to do it for us anytime soon. The original article
+appeared in the proceedings of the Tenth World Software Conference.
+It was subsequently expanded into the, now famous, book, The Mythical
+Man Month.
+Brooks believed solving real world problems involves understanding
+the essential complexity of life. ‘Accidental Complexity’ – the simple type
+– is the time-consuming part of writing software, for example, listing all
+220 countries of the world in a website, or making sure all the buttons in
+an interface line up correctly. These tasks are tedious – you have to look
+up all the countries in Wikipedia and make decisions, such as whether
+the United Kingdom will be denoted ‘UK’ or ‘GB’. They don’t need any
+real ingenuity. ‘Essential Complexity’ is altogether different. It involves
+understanding the world and setting out the rules in meticulous detail.
+Brooks argued essential complexity is not susceptible to being sped up
+by machine processes. Navigating these architectural decisions cannot
+be automated. He gives us an analogy by comparing writing software to
+building a house.
+When you build a house, an architect designs it, an engineer makes
+the calculations to ensure it is safe, and a construction firm builds it. The
+construction process dominates the cost and time. In software projects,
+an engineer writes a program that precisely defines the design and the
+construction and calculation is done by a compiler – software that
+takes the design and makes it machine-readable. Compilers operate in
+a fraction of a second. Making software is, therefore, dominated by the
+design time, and design is all about capturing the essential complexity
+of a task.
+This chapter will try to show where essential complexity comes
+from, why computers can’t tackle this sort of complexity and, therefore,
+why they can’t write software. Good news for programmers as this means
+job security!
+For a more thorough treatment of the mathematics read my paper
+The Free Will Universe at www.jamestagg.com/freewillpaper.
+James Tagg’s Home Page
+“Computers are stupid. They can
+only give you answers.”
+Pablo Picasso
+“Software is like sex: it’s better
+when it’s free.”
+Linus Torvalds
+Silver Bullets
+Can’t be Fired
+Human brains are wonderfully creative things. We can compose
+music, play golf, write novels, and turn our hands to all manner
+of problems. Many people use their brains to write software. In
+our modern-day lives we use software all the time: when we access the
+web, type on a word processor or play a computer game. Software also
+inhabits many apparently dumb devices. Modern cars contain dozens
+of computers quietly working away; providing entertainment and
+navigation, controlling the engine, and helping the car brake safely. In
+my living room I count over a hundred computers. Many are tiny, like
+the one in my TV remote control, while others are hidden as parts of
+larger machines. The laptop on which I write has over twenty computers
+inside it, besides the main Intel processor.
+One thing all these computers have in common is that a human
+being sat for many hours writing their software. Software is formal logic
+written in something resembling English.
+If I go to my ATM and try to withdraw cash, a programmer will
+have written out the logic for the transaction as a set of rules.
+When I put my bankcard in the slot, and type in my PIN, a line of
+software will ask: If the bank balance of ‘James Tagg’ is less than twenty
+dollars and I have pressed ‘withdraw’ for an amount in excess of twenty
+dollars, then display, “We are sorry we cannot process the transaction at
+this time.” and return the card. There seems to be an unwritten rule that
+the things a computer says should be accurate but unhelpful!
+234 Are the Androids Dreaming Yet?
+Alice, Ted and Software Specification
+It would have been much more helpful if the computer had said,
+“You do not have enough balance in your account.” And, it would have
+been more helpful still if it had asked whether I needed a temporary
+overdraft. However, such a feature needs many more lines of software
+and this is time-consuming to write.
+Software takes time and is expensive, because it has to be written
+in a general-purpose way. Any name could substitute for James Tagg,
+and any amount could be used. After all, it would be useless if an ATM
+machine could only give out $20 to one person. The generalization of
+software makes use of variables instead of fixed values and this renders
+it hard to understand. Wherever we meet an idea that needs to be
+generalized, a letter must be used instead of a fixed value. Computer
+programs tend to look like this: if ‘a’ wants to do ‘b’ with ‘c’ then allow
+it only if ‘d’ is greater than ‘c’. The software programmer has to keep
+track of all the possible values that could be inserted into each of the
+variables and make sure each and every combination would make sense.
+My ATM scenario gets complex quickly. It needs to be able to answer a
+range of questions for all the bank’s customers, deal with any amount of
+Software
+235
+money and handle security when communicating with foreign banks is
+necessary. A human being must write lines of code for all the rules and
+every exception, making provision for any gibberish that might be typed
+in by the customer.
+Many people ask, “Wouldn’t it be great if my computer could write
+software for me? Humans could sit back and put their feet up.” While
+most people don’t actually believe this could happen, they will often ask
+why we can’t specify software exactly and use unskilled people to write
+it. Both proposals fundamentally misunderstand the nature of writing
+software.
+What do Programmers Do?
+A human software programmer can write up to 1000 lines of code per
+day. At the beginning of a project, when the work is unconstrained,
+programmers write fast. Things slow down once programmers encounter
+the enemy: the real world. By the time the code is complete and selling
+in shops, the productivity of a programmer can be as low as one line
+of code per day. This is staggeringly low and luckily only applies to big
+236 Are the Androids Dreaming Yet?
+commercial software, equating to about 10 words per day. A good typist
+types at 80 words per minute and most programmers are reasonable
+typists. So software writers in a big project spend only a minute or so
+per day in the act of writing. The rest is taken up by meetings, process
+discussions, email, reporting and so on. In projects that avoid much
+of this administrative overhead, good software programmers reach a
+long-run average of about 225 lines per day. This has been the level of
+productivity on the products I have developed in the past. These projects
+were lucky. They had a single team on the task from beginning to end and,
+in general, the projects took few wrong turns. Still these programmers
+were spending only 10-20 minutes of each day on actual programming.
+What were they doing the rest of the time?
+In the early days of programming you might have a great idea,
+but the process of turning this idea into software was immensely longwinded.
+I learned to program at Manchester University in the 1980s. The
+enormous machines in the basement of the computer building provided
+heat for both our building and the mathematics tower next door. We were
+not permitted to play with these basement monsters but were ‘privileged’
+to submit instructions to a mini computer in the undergraduate section
+– a PDP11-34.
+For those of you not acquainted with computers I can tell you the
+process of writing software in the 1980s was immensely tedious. To
+add two numbers and display them on a screen took a month of lab
+time, using detailed instructions written in machine code. Everything
+was manual, including writing your code out in pencil on special paper
+with little numbered squares and then giving it to someone to type in
+overnight! You would return the next day to discover whether you had a
+usable program or a something riddled with errors. If you found an error,
+it would require editing. This was nothing like using a modern word
+processor. The online editors of the day were the ultimate in annoying
+software. If you misspelled a word, you would need to count up the letters
+and spaces manually on a printout and enter a command – replace letter
+27 of line 40 with the character ‘r’. Each and every typo would take five
+minutes to correct. I managed to finish the simple program required for
+course credit – I think it displayed an eight-digit decimal number – and
+ran for the hills. In my second year I bought a PC and decamped to
+the physics department next door where I remained for the rest of my
+undergraduate life.
+The PC revolution provided programmers with a new and intuitive
+software creation environment where almost all the tedium was removed.
+A wealth of tools for creating software was pioneered by Bill Gates of
+Software
+237
+Microsoft and Philip Kahn of Borland, along with intuitive applications
+such as the spreadsheet invented by Dan Bricklin and Bob Frankston and
+made popular by Lotus Corporation. Today all computers have elegant
+WYSIWYG, ‘What You See Is What You Get’ interfaces, where you drag
+and drop elements into place on the screen. Over the last 25 years writing
+software has sped up and stopped being tedious – becoming almost a joy!
+In No Silver Bullet, Brooks explains that writing software can’t be
+accelerated any further because all the tedious mechanical tasks have
+already been removed. Remember his analogy: Writing software is like
+building a house, but with some important differences. With a house,
+an architect handles the design and then turns over construction to
+a building company. Construction takes an appreciable time, more
+time than the design and quite a bit more effort. But in software the
+construction is totally automated. When we complete the design for a
+piece of software we press compile on the computer and the software
+is built and tested automatically in a matter of seconds. Speeding this
+process up any further would make only a tiny improvement in the
+overall software creation time, since the process is already 99% design
+and 1% building. For the most part, the creative process of writing
+software cannot be improved through mechanical means.
+This is not always the case. I recently upgraded the machines for
+some developers I work with. We added solid state hard drives. Compiling
+a program now takes only 10 seconds, compared with 6 minutes before.
+Because programmers nowadays tend to compile their programs very
+regularly we estimate this saves them as much as an hour a day. This is
+the only real innovation I have seen in the build phase of software in the
+last 5 years, and it’s arguably not an innovation at all. We just forgot to
+keep on top of the build time and allowed it to get out of hand.
+You might argue some counter examples. Modern software design
+suites let you drag and drop things on the screen to make applications
+or build a website. Two hundred million people have managed to put
+together WordPress websites using this technique. These are mechanical
+procedures for solving a programming task and seem to contradict my
+argument. They allow us to lay out graphics, press a button and turn the
+design into software. But they perform very simple tasks. The computer
+simply notes the coordinates of each box on the screen and places those
+numbers into a file. The process is entirely mechanical and could be
+performed by a clerk with no programming knowledge following a set
+of rules. The computer just does it faster. I did the clever work; I had the
+238 Are the Androids Dreaming Yet?
+idea for the software, I came up with the idea for the interface, I decided
+where to place the boxes, and I chose all the colors, fonts and graphics. I
+did all the creative bits!
+So, now we know what programmers do all day. They create!
+Origins of Software
+Alan Turing first described the modern day computer in a paper presented
+to the London Mathematical Society in 1936. He was not trying to invent
+the computer. That was a by-product. He was trying to solve a puzzle that
+had been troubling mathematicians for 30 years: The Decision Problem.
+David Hilbert set out the challenge during a public lecture to the
+French Academy of Science in 1901, marking the turn of the century.
+Rather than give a boring lecture extolling the virtues of scientists, he
+decided to give his audience a list of all the puzzles mathematicians were
+stumped on.
+Rather like the XPRIZE of today, he presented the problems as
+a series of challenges. Sadly for the mathematicians of his time, there
+were no million dollar prizes on offer, just a moment of fame and the
+adulation of their colleagues. Each challenge was given a number. The
+list included many famous puzzles; the Riemann Hypothesis, the puzzle
+of Diophantine Equations and the Navier Stokes Hypothesis, to name
+only three. A group of these questions were to coalesce into what we now
+know as the Decision Problem.
+The Decision Problem is very important to computer science
+because it asks whether an algorithm can be written to automatically
+discover other algorithms. Since all software is itself algorithmic you
+could rephrase the question: Can software write software? This might
+seem esoteric. But, if you are a computer scientist, it is an important
+question. If we could solve all mathematical problems automatically
+we would not need mathematicians anymore. And, since programs are
+applied mathematics, the same goes for computer programmers.
+Before you breathe a sigh of relief because you are neither a
+mathematician nor a computer scientist, you should remember it is
+possible to describe all knowledge using numbers. That’s what your
+iPhone does when it stores music. If everything can be represented by
+numbers, then a fast-enough computer could use an algorithm to create
+everything! You really could set Douglas Adams’ Ultimate Question of
+Life the Universe and Everything before a computer and it would come
+up with the answer – presumably extrapolating the existence of rice
+pudding and income tax along the way.
+Software
+239
+Algorithms
+Back in the 1930s no mechanical system could perform a calculation
+with any speed. People still used pencil and paper for most things; the
+newly-invented mechanical cash registers were slow and could perform
+only one calculation for each crank of the handle. If you wanted to
+calculate something complex, you had to employ a computer: a person
+who could do mental arithmetic enormously fast. Richard Feynman’s
+first job was computing for the Manhattan Project. The question was:
+Could a computer, either mechanical or human, blindly follow known
+rules to decide all mathematical questions? Hilbert’s 10 th Problem asked
+this question of a particular type of mathematical expression – called a
+Diophantine equation.
+Hilbert’s 10 th Problem
+“Given a Diophantine equation with any number of unknown
+quantities, devise a finite process to determine whether the
+equation is solvable in rational integers.”
+David Hilbert
+Diophantus lived in ancient Persia – now Iran. His son died young
+and Diophantus was so consumed by grief he retreated into mathematics.
+He left us seven books of mathematical puzzles – some he devised himself
+and some of them taken from antiquity. The puzzles look deceptively
+simple and are all based on equations using whole numbers. His most
+famous puzzle is set in a poem which tells how old Diophantus was when
+he died. Can you solve it?
+“Here lies Diophantus,’ the wonder behold. Through art algebraic,
+the stone tells how old: ‘God gave him his boyhood one-sixth of
+his life, One twelfth more as youth while whiskers grew rife; And
+then yet one-seventh ere marriage begun; In five years there came
+a bouncing new son. Alas, the dear child of master and sage, after
+attaining half the measure of his father’s age, life chill fate took him.
+After consoling his fate by the science of numbers for four years, he
+ended his life.”
+Diophantine puzzles look straightforward. Hilbert asked if these
+problems could be solved by a mechanical procedure, in modern terms,
+by an algorithm. To show you what is meant by this, allow me to take you
+240 Are the Androids Dreaming Yet?
+Long Multiplication
+back to your childhood. Do you recall being taught long multiplication
+at school? Take a look at the next illustration and it will all come flooding
+back. Once you learn the process of long multiplication you can follow
+the rules and get the right answer for any similar problem every time. To
+do this, you lay out the calculation in a particular format and apply the
+logic. Multiply each number by a single digit of the other number and
+then add the results together.
+Diophantine problems are a little more complex than long
+multiplication and some of them are a bit abstruse. But there is one
+very famous Diophantine problem we can all recite. “The square on the
+hypotenuse is equal to the sum of the squares of the other two sides.” The
+equation for a Pythagorean triangle.
+The theorem applies to right-angled triangles and there are sixteen
+whole number solutions, known as Pythagorean triples; three, four, five;
+is one example.
+Software
+241
+Purists may protest that Fermat’s Last Theorem isn’t strictly
+Diophantine because it refers to a variable exponent – the x to the n
+part. This is hair splitting. But, of course, the splitting of hairs is bread
+and butter to a mathematician. We will see later that Fermat’s Theorem
+can be made Diophantine, but we are jumping ahead of ourselves a little.
+A question that taxed mathematicians for many centuries was
+whether there are triples for higher powers, such as cubes. In other words,
+would the cube of the hypotenuse be equal to the sum of the cubes of the
+other two sides for some set of numbers? After much work, it was proven
+no triple exists which can solve the cubic equation. But what happens if
+we substitute higher indices?
+The next shape to consider is the hypercube – a four-dimensional
+cube. That may stretch your visual imagination but the equation is simple,
+3 4 +4 4 ≠5 4 . Again the challenge is to find a whole number solution for:
+Hypercube
+242 Are the Androids Dreaming Yet?
+“The hypercube of the hypotenuse is equal to the sum of the hypercubes
+of the other two sides.” A picture of the hypercube might help you
+visualize things.
+It’s quite difficult to get your head around this shape because it is
+hard to think in four dimensions. This seems strange because we have no
+problem seeing in three dimensions on flat, two-dimensional paper – it’s
+called a picture, but four dimensions on flat paper appears to stump us.
+Again there is no solution for a hypercube: no Pythagorean triple exists.
+Fermat’s Last Theorem asked whether this inequality for the cube
+and the hypercube is true for all higher dimensions – for the hyperhypercube,
+the hyper-hyper-hypercube and so on. Tantalizingly, he
+claimed to have found a proof but wrote that it was too large to fit in
+the margin of his book. It’s partly due to this arrogant annotation
+that it became the most famous puzzle in mathematics, frustrating
+mathematicians for nearly 400 years.
+Hilbert’s question back at the turn of the 20 th century was whether a
+machine could find a proof of this conjecture by following a mechanical
+procedure, similar to our long multiplication example above.
+The puzzle was eventually solved in 1995 by Andrew Wiles, a mere
+358 years after Fermat claimed to have solved it. Wiles’ proof runs to
+eighty pages of densely typed mathematical notation – considerably
+larger than the margin in which Fermat claimed his proof did not quite
+fit! There is an excellent book by Simon Singh – Fermat’s Last Theorem –
+that tells the whole story.
+We now know for certain, thanks to Wiles, that the answer is ‘no’.
+There are sixteen answers to the two-dimensional triangle puzzle but
+there is none for any higher dimension all the way up to infinity. How
+might a computer tackle this problem and find a proof?
+A computer could apply brute force and try many solutions; every
+combination up to 100 million has already been tried and no exception
+found. But, mathematicians are haunted by big mistakes of the past.
+There were theories they imagined to be true until someone discovered
+a counterexample. This sort of thing dogged prime number theorems.
+Mathematicians don’t like to look foolish and are suspicious of
+practical answers, “Well, I’ve tried it and I can’t seem to find an exception.”
+This sort of argument does not wash with them. That’s what engineers
+and physicists do. Mathematicians are better than that!
+Mathematicians want definitive answers; “It is certain no solution
+can exist”, and these sorts of answers require an understanding of the
+problem to see why no solution could exist. That’s a very high bar. What
+we need is a program that, rather than mechanically trying every possible
+Software
+243
+combination, takes our problem and definitively says, “Yes, there is a
+solution,” or, “No, there is not.” There are plenty of man-made proofs of
+this nature. Pythagoras’s proof there are an infinite number of primes
+is an example. Pythagoras did not have to try every prime number. He
+simply understood the nature of prime numbers and gave us a logical
+reason why it is so.
+Mathematicians love a general solution. One way to solve Hilbert’s
+10 th Problem would be to find a single mechanical way to solve every
+problem. If you could solve every possible problem, you could certainly
+solve Hilbert’s 10 th Problem. It turns out there is a way to test whether
+every problem has a mechanical solution – pose the Halting Question.
+The Halting Question
+I should say for a little historical color that the Halting Problem was not
+called that by Turing. The name was coined much later, in the sixties, by
+Martin Davis. Turing knew the problem by the less catchy name of the
+“not crashing” problem, or as he preferred, “Being circle free”, meaning
+the program did not get caught in an infinite loop.
+To understand halting we should imagine a brute force program
+stepping through all the possible solutions to Fermat’s problem. If there
+is a solution this stepping program will eventually halt and answer ‘true’.
+If there is not, the program will run forever. Can we predict a program
+will not run forever? At first pass this is hard. We can’t watch it forever
+and say, “It never halted.” So is there a clever way to do this? An algorithm
+perhaps?
+The Answer to the Ultimate Question
+The answer is ‘No!’ In 1936, Alan Turing proved there is no generalpurpose
+mechanical way to tell whether a program is going to find an
+answer at all, much less what the answer is. This means Hilbert’s Decision
+Problem has no solution; there is no general purpose algorithm which
+will discover all mathematical theorems.
+Turing succeeded in proving this by turning the problem on its
+head. He proved that a crash detection program is unable to see whether
+it will crash itself. Since you cannot tell whether a program will crash
+– and by this I mean go into an infinite loop – you cannot tell if it will
+halt. He used the simple argument that since you can’t tell if the crashing
+program will halt, you have already proved you can’t predict if every
+program will halt.
+244 Are the Androids Dreaming Yet?
+Impossible Shape
+That is Turing’s argument in a nutshell. But if that was too large a
+step, let’s take the argument a little more slowly and prove it a couple of
+different ways. First, we will use a proof by counterexample, known by
+mathematicians as an ‘indirect proof ’. These may tax your brain. If you
+want a visual image to help with the idea of an indirect proof, take a look
+at the impossible shape. It is paradoxical, which means it does not exist.
+QED.
+The Proofs
+There are several ways to prove the non-existence of the Halting Program.
+I am going to present a few in the hope one of them will hit the mark and
+allow you to see why. The first proof uses a software flowchart. I have
+laid this out on the assumption the program exists and then attempted
+to apply it to itself. Unfortunately, the flowchart contains a paradox
+and thus there can be no Halting Program. The paradox is at once
+straightforward and confusing. It is a more elaborate version of the liar’s
+paradox: “This sentence is a lie.” If the sentence is true it must be false,
+and if the sentence is false then it must be true.
+The Halting Program
+Let us suppose there is a Halting Program. Remember that a Halting
+Program simply takes another program as input and predicts if it will
+halt or not. It follows there must also be a program called Haltcrash.
+Haltcrash goes into an infinite loop if it examines a program with input
+that halts, otherwise it halts itself.
+Software
+245
+Halting Flowchart
+Now we create a third program called RunMe. RunMe runs
+Haltcrash on itself. Still following this? Now execute RunMe with RunMe
+as its own input. What happens? The analysis is as follows:
+1. RUNME started on input RUNME halts. If RUNME started on
+RUNME halts, then Haltcrash started on RUNME with input
+RUNME halts. If Haltcrash started on RUNME with input
+RUNME halts, then HALT decided that RUNME started on
+RUNME does not halt!
+Therefore,
+RUNME started on input RUNME halts implies that RUNME
+started on input RUNME does not halt. (contradiction)
+2. RUNME started on input RUNME does not halt. If RUNME
+started on RUNME does not halt, then Haltcrash started on
+RUNME with input RUNME does not halt. If Haltcrash started
+on RUNME with input RUNME does not halt, then Halt decided
+that RUNME started on RUNME halts!
+Therefore,
+RUNME started on input RUNME does not halt implies that
+RUNME started on input RUNME halts. (contradiction)
+246 Are the Androids Dreaming Yet?
+Both analyses lead to a paradox! There is only one way out. There
+can be no halting procedure. I’m sorry if this is quite convoluted.
+Philosophical Proof
+If you find these technical proofs difficult to follow, it may be easier to
+examine the problem philosophically. Consider the consequence of
+the existence of a Halting procedure. A Universal Turing Machine is a
+relatively small program. Roger Penrose gives a three-page example in
+The Emperor’s New Mind, and Stephen Wolfram has implemented one
+using a cellular automaton with as few as five component parts.
+A Halting Program running on such a machine should be able
+to compute all the knowledge in the Universe. Every structure, every
+work of literature, every galaxy could be the output of this single, simple
+program. My pocket calculator could, theoretically, paint like Picasso
+and compose like Mozart. All art, knowledge and science would be
+entirely determined in our Universe and we would have no free will. If
+you philosophically rebel against this then the Halting Problem must
+have no solution.
+Gödel’s Insight
+Another way to understand this conundrum is through the earlier work
+of Gödel. Solutions to mathematical puzzles are neat, orderly sequences
+of statements where the problem is solved step by step. Computers are
+good at step by step processes. Surely a computer could simply proceed
+in a painstaking fashion to check all the possible combinations of words
+and symbols to discover a proof.
+An analogy might be trying to find your hotel room if you have
+forgotten the number. You could simply find it by trying every room.
+As you progressed through each floor, you would try every corridor
+and retrace your steps to the main hallway before attempting the next.
+Eventually you would succeed.
+Finding proofs of theorems is often understood to be the same sort
+of task: search systematically through all the numbers and you will find
+the solution. But this is not so: There is a hidden problem.
+Although it is true to say problems and proofs can be described by
+numbers, they are not simply related like a lock and key. We need the
+first number to translate into a set of symbols meaning something about
+mathematics: for example, that x squared plus y squared equals z squared
+but for higher powers there is no equality, and the second number to
+Software
+247
+denotes a set of sequential steps we can apply to demonstrate this fact.
+These steps must have meaning and obey the rules of mathematics, but
+what are these rules? Are they written down in a text book?
+It turns out there is no way to find this set of rules; it is a superinfinite
+task. We would need to reach into our infinite bag of numbers
+and pull out rule after rule, turning each into a mathematical model
+that explains numbers and logic and what can be done with them to
+form mathematical statements. The number of ways to do this is not just
+infinity, but two to the power of infinity. This is the number of ways to
+permute all possible mathematical rules.
+Your mind may be rebelling at this. Surely, if I have an infinite
+set of numbers I can just pluck all the numbers from my bag and then
+I am certain to have the solution. Unfortunately, it turns out there is
+no complete, consistent set of rules; no valid dictionary that maps all
+numbers to all of mathematics. That is Gödel incompleteness theorem.
+Despite a fundamental limit on mapping all numbers to all of
+mathematics, there might still have been an algorithm which could
+practically find solutions for a given arbitrary problem. Turing proved
+this is not the case.
+The Wiles Paradox
+Turing showed us there can be no general purpose, mechanical procedure
+capable of finding solutions to arbitrary problems. A computer program
+cannot discover mathematical theorems nor write programs to do so. Yet
+computers regularly solve problems and generate programs. That’s what
+software compilers do. This seems to be contradiction.
+The solution to this apparent contradiction is to propose a boundary:
+a ‘logic limit’ above which computers may not solve problems. With a
+high boundary a general-purpose machine could solve most problems
+in the real world, though some esoteric mathematical puzzles would be
+beyond it. But if the boundary were low, many activities in our daily life
+would need some sort of alternative, creative thinking. It is crucial to
+know where the logic limit lies.
+The Logic Limit
+Amazingly, in many branches of science it is possible to pinpoint the exact
+location of the logic limit, but finding that boundary in mathematics has
+taken forty years work from some of the greatest mathematicians of the
+20 th century.
+248 Are the Androids Dreaming Yet?
+The story starts back in the 1940s at Berkeley University with a
+young Julia Robinson, one of the first women to succeed in the previously
+male-dominated profession of mathematics. By all accounts, she had a
+wry sense of humor. When asked by her personnel department for a job
+description she replied: “Monday—tried to prove theorem, Tuesday—
+tried to prove theorem, Wednesday—tried to prove theorem, Thursday—
+tried to prove theorem, Friday—theorem false.” Like Andrew Wiles, she
+fell in love with one of the great mathematical puzzles, and although she
+made great strides, the problem passed from her to Martin Davis for the
+next steps.
+The final elements were put in place in the 1970s with the work of
+another young mathematician, this time a Russian – Yuri Matiyasevich.
+Robinson wrote to him when she heard of his proof, “To think all I had
+to do was to wait for you to be born and grow up so I could fill in the
+missing piece.” The complete result is the Robinson Davis Matiyasevich
+theory which sets out the limits of logic and algebra. What, you may ask,
+do we mean by logic and algebra?
+Mathematicians like to turn everything into logical statements, even
+ordering a round of drinks! The discipline of logic emerged from ancient
+Greece as the study of language. The starting point was the syllogism:
+Statements such as, “All cows eat grass.” or Lewis Carroll’s assertion,
+“There are no teachable gorillas.” Over time the study of logic became
+ever more precise with, for example, the introduction of variables and
+equations; a=all cows, b=some grass. The formula “a eats b” translates by
+substitution into, “The cows eat the grass.” This doesn’t look much like a
+step forward but, trust me, it is.
+The modern way to represent logic is using prenex normal form.
+This mouthful simply means separating relationships between things
+from the things themselves. The following four statements say the same
+thing, each in a more formalized way.
+Speech: Harry loves Sally
+Logical: x loves y (substitute Harry for x and Sally for y)
+Formal: There exists an x, there exists a y (x loves y)
+Prenex:
+∃x∃y (x R y), Where R, the relationship, is ‘loves’
+Software
+249
+The final example is in prenex normal form. The symbol ‘∃’ means
+‘there exists’ and R stands for relationship in this equation. All logical
+statements can be translated into this form using a purely mechanical
+process. There is even a website that will do this for you. It’s useful but I
+don’t recommend it as entertainment!
+In the example above, something exists in relation to the existence
+of something else: one person who loves another. Give me a name and I
+can look up the person they love. This is simple. A computer can easily
+solve such problems. Indeed there are hundreds of websites doing this
+every day. Once you’ve solved one problem of this type, you have solved
+them all.
+We can rearrange Diophantine equations into many different
+prenex forms. The simplest form might be, ‘there exists an x which solves
+the following equation, x equals three.’ This would be written out as ∃x,
+x=3 and is of the ∃ class – ‘there exists’. There are slightly more complex
+classes than our simple ∃ relationship: ∀∃∀ ‘for all, there exists for all’ or
+the class ∀ 2 ∃∀ ‘for all, for all, there exists, for all’. Each of these groups of
+equation is called a ‘reduction class’.
+One way to think about a reduction class is as a problem in topology,
+‘knots’, to non-mathematicians. Imagine someone handed you a bunch
+of tangled cables – the sort of mess you get when they are thrown
+haphazardly into a drawer. You can tease them apart and rearrange
+them but you must not cut them or break any connection. Once you
+have done this you will be left with a series of cables on the desk. They
+are all separate, looped or in someway knotted together. Each cable has
+a fundamental topological arrangement: straight cables, granny knots,
+figure eight, and so on. You have reduced them to their simplest form,
+their logical classes. The same goes for logical statements. Once you
+have rearranged logical statements into their simplest form you can lay
+them out and group them together according to their complexity. Each
+group makes up a reduction class and you can ask whether that class as a
+whole is automatically decidable. It is a huge task to untangle and classify
+mathematical problems, and it took Robinson and her colleagues nearly
+forty years to succeed.
+It turns out problems with a form as simple as ∀∃∀ (for all,
+there exists, for all) have no general purpose algorithm. Each must be
+examined individually and solved by something that is not a computer.
+This is a remarkable result as the logic boundary is set quite low. An ∃∃,
+(exists, exists), class of problem is automatically solvable by a general
+250 Are the Androids Dreaming Yet?
+algorithm, but a ∀∃∀, (for all, there exists, for all), is not. Each individual
+type of problem within the class must be examined with insight and
+understanding.
+Our lives are full of problems – playing chess, finding a mate,
+designing space ships and simply getting to work in the morning.
+Imagine we expressed everyday problems as logical problems. Where is
+the logic limit for life? We have no answer for this yet, but we do know
+the logic limit for computing; it is given by Rice’s Theorem.
+Named after Henry Rice, and proven in 1951 as part of his doctoral
+thesis at Syracuse University, Rice’s Theorem states: “No nontrivial feature
+of a computer program can be automatically derived.” You cannot tell if
+a program will halt with a given input. You cannot tell if one program
+will generate the same output as another. You cannot tell if a simpler
+program could be written to do the same task as a more complex one.
+In fact, no nontrivial thing can be proven. This means the logic limit in
+computers is low, and computer programmers have job security.
+For Programmers
+For the programmers amongst you, here are some of the things that
+cannot be done automatically even given infinite time:
+• Self-halting Problem. Given a program that takes one input,
+does it terminate when given itself as input?
+• Totality Problem. Given a program that takes one input, does it
+halt on all inputs?
+• Program Equivalence Problem. Given two programs that take
+one input each, do they produce the same result on every input?
+• Dead Code Elimination. Will a particular piece of code ever be
+executed?
+• Variable Initialization. Is a variable initialized before it is first
+referenced?
+• Memory Management. Will a variable ever be referenced again?
+Software
+251
+Can humans solve ‘unsolvable’ problems?
+The question of whether Fermat’s Last Theorem could be solved
+mechanically remained unanswered until 1970 when Yuri Matiyasevich
+filled in the missing piece in Julia Robinson’s proof. Matiyasevich used
+an ingenious reduction method to match up sequences in Robinson’s
+theorem with a set of Turing machines. This showed that if Robinson’s
+theorem was false you could solve the halting problem and since you
+can’t solve the halting problem, then Robinson’s theorem must be true.
+All this effort proved Diophantine equations have no general algorithmic
+solution. This was a hugely important result but, as we noted earlier,
+Fermat’s Last Theorem is not, strictly speaking, a Diophantine. It is an
+exponential Diophantine equation. We still had no definitive answer to
+Fermat.
+In 1972 Keijo Ruohonen and again in 1993, Christoph Baxa
+demonstrated that Diophantine equations with exponential terms could
+be rewritten as regular Diophantine equations with one additional
+complication – the necessity of adding an infinite set of terms to the end
+of the equation. In 1993, J.P. Jones of the University of Calgary showed the
+logic limit for regular Diophantine equations lies at thirteen unknowns.
+Matiyasevich had already pointed this out but never completed his proof.
+Since infinity is greater than thirteen, all exponential Diophantine
+equations are above the logic limit and, therefore, undecidable. Finally,
+we have a proof that Fermat’s Last Theorem is unsolvable by a computer
+– or at least by a general purpose algorithm running on a computer.
+Matiyasevich went on to show many mathematical problems can be
+rewritten as exponential Diophantine equations and that much of
+mathematics is undecidable. For example, the Four Color Conjecture:
+“Given an arbitrary map on a Euclidean plane, show the map can
+be colored in a maximum of four colors such that no adjacent area
+shares the same color.”
+Meanwhile, Andrew Wiles, an English mathematics Professor at
+Princeton had been secretly working on Fermat’s Last Theorem. When
+I say secretly, he had not told anyone in his department, and only told
+his wife late in 1993 when he suspected he might have a solution. He
+had been working on the problem a long time, having fallen in love with
+it at the age of 8! In 1995, after nearly 30 years work, he announced he
+252 Are the Androids Dreaming Yet?
+Four Colors is All You Need
+had found a proof. He had solved an unsolvable problem, a problem that
+could not be answered by using a computer. Therefore, Andrew Wiles
+cannot be a computer!
+As with all real-life stories, it was not quite as neat as this. It turned
+out Wiles’ initial proof had an error in it, identified by one of his referees.
+Wiles had made an assumption about a particular number theory that
+had not been proven: it was still a conjecture. Working with another
+Software
+253
+mathematician, he managed to prove this conjecture and so, two years
+after first announcing that he had solved Fermat’s Last Theorem he could
+finally lay it to rest.
+The Special Purpose Objection
+Before I declare mankind’s outright victory over computers, the Special
+Purpose Objection must be overcome. The objectors would argue that
+Wiles is a Special Purpose computer. Special Purpose computers are at
+no risk of breaking the Turing limit when they solve problems they have
+Theorem (Undecidability of Hilbert’s tenth problem)
+There is no algorithm which, for a given arbitrary Diophantine
+equation, would tell whether the equation has a solution or not.
+been programmed to answer. The objection misses the key point. I am
+not arguing having a solution to a given mathematical puzzle presents a
+difficulty to a computer; I am arguing a computer cannot discover one.
+Take, for example, the search engine Google. If I type “where can
+I find the proof of Fermat’s Last Theorem?” into the search box, it will
+retrieve a PDF of the proof as the third result. It appears this special
+purpose computer solved the problem. But you immediately see the
+difficulty. Google search already knew the answer, or more precisely had
+indexed the answer. The computer was not tackling a random problem
+from scratch. It was tackling a problem for which it knew the answer, or
+at least where an answer could be found. There is no sense in which the
+search engine discovered the proof.
+To really understand this objection we need to examine exactly
+what Turing and Matiyasevich proved.
+An arbitrary problem is one you do not already know the solution
+to when you write the algorithm. You can think of it as a variable. Is
+there an algorithm that can solve problem ‘X’? The alternative is a special
+program. It can solve problem Y. Y is a problem it knows. It must have
+the solution coded somewhere within it in a computably expandable way.
+You might think of this as a table of constants; problem Y has solution
+1, problem Z has solution 2, and so on. But it could be more subtle than
+that. Problem Y might have a solution which is encrypted so you cannot
+recognize it within the program, or it might even be the result of some
+254 Are the Androids Dreaming Yet?
+chaotic equation so complex that the only way to see it is to run the
+program and watch the output: no form of program analysis will give
+you any clue as to what it produces. There is only one stipulation. The
+answer to problem Y MUST be held within the program as a computable
+algorithm. Put another way, the computer must already be ‘programmed’
+to answer the question.
+Could a human mathematician be pre-programmed from birth?
+Yes, there is no fundamental objection to this. Mathematicians could be
+born to solve the problems they solve. But this would present a couple of
+issues. Where is this program stored? And who, or what, programmed
+the mathematician? Could we perhaps find an experiment to determine
+whether mathematicians are pre-programmed?
+One view held by philosophers is that the Universe programmed
+the mathematician. They believe we live in an entirely determined
+Universe with no free will. There is then no mystery as to how Andrew
+Wiles came up with his proof. He was destined to do it from the dawn of
+time. The ink that fell from his pen to the paper was always going to fall
+in just that way. We live in a clockwork Universe and although we might
+feel we have free will, this is an illusion. I simply don’t believe this. If I
+am right and humans do exercise free will, Andrew Wiles cannot be a
+computer. And because Andrew is not alone in discovering proofs, those
+mathematicians cannot be computers either. Humans are, therefore, not
+computers.
+The Chance Objection
+I said there was no automatic way to solve any problem above the
+logic limit, but this is not quite true. There is one automatic method
+you could deploy to generate a non-computable proof, the infamous
+‘monkeys and typewriters’ idea where we use random chance to generate
+information. Many people have suggested it is possible to write a play
+such as Shakespeare’s Hamlet by simply typing random characters until
+we happened upon the play. The argument is flawed.
+The first flaw is the process would take a super-astronomically
+long time. Even if every atom in the Universe were a monkey with a
+typewriter, it would take orders of magnitude longer than the age of the
+known Universe to come up with the script to a play or a mathematical
+proof.
+The probability of finding a solution to Fermat’s Last Theorem
+by chance is about 1 in 10 50,000 . That’s 1 with 50,000 zeros after it. For a
+comparison, there are only 10 120 atoms in the known Universe. To be, or
+not to be, certain of finding the proof, you would need to run a computer
+long enough to calculate all the possible proofs up to the length of Wiles’
+solution. Currently, a computer using every particle in the Universe
+clocked at the Plank interval – the fastest conceivable computer running
+at 10 34 operations per second – would take 10 500 times the age of the
+known Universe to do this. If someone tells you this is astronomically
+unlikely they are making a huge understatement. A computer running
+until the end-of-time would only scratch the surface.
+The second flaw is even more damning. Even if the monkeys
+succeeded in generating something interesting, something else needs to
+spot this. If an algorithm stumbled upon a proof of Fermat’s Last Theorem,
+what would recognize it as such? There are no ways to systematically
+analyze proofs. There are no mechanical methods that understand these.
+Dalek Trouble
+“All non-trivial abstractions, to
+some degree, are leaky.”
+Spolsky’s Law
+of Leaky Abstractions
+Consequences
+Machines cannot discover theorems using algorithms, yet
+mathematicians do it all the time. Do the rest of us break the
+logic limit? It seems we do. People appear creative – painting,
+composing, sculpting and so forth. But, are these endeavors creative

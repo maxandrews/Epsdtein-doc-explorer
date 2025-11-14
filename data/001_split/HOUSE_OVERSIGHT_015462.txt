@@ -1,0 +1,1810 @@
+﻿education
+Text Sets
+BETA PRODUCT Science Connected NAUTIL. US
+NAUTIL. US | TEXT SETS
+Introducing
+Nautilus Education
+The modern world has placed an unprecedented emphasis on
+science literacy. But most existing science texts do not emphasize
+literacy, and most literary texts don’t have science.
+This Nautilus Education text set pamphlet is a beta product
+intended to fill this gap. It contains three groups of articles from the
+award-winning science magazine, Nautilus, each accompanied by lesson
+plans and guides for teachers.
+Key science concepts like genetics and astronomy are explored
+through narrative story telling and tailor-made artwork, letting science
+spill over its usual borders, and waking the imagination and interest of
+the student. This kind of literary science classroom material was
+designed to helps teachers satisfy the new U.S. common core and
+next gen standards but have global application. The relevant standards
+are listed in each lesson plan.
+Nautilus is looking for partners interested in using and further
+developing this kind of content. For more information, please write
+to education@nautil.us.
+—Michael Segal
+Editor-in-Chief
+About Nautilus Magazine
+Nautilus is a new kind of science magazine. Each monthly issue tackles
+a single topic in contemporary science using multiple vantage points,
+from biology and physics to culture and philosophy. We are science,
+connected.
+2
+NAUTIL. US | TEXT SETS
+Contents
+Physics
+Biology
+4 Astronomy & Space Travel
+6 Roadmap to Alpha Centauri
+Pick your favorite travel mode—
+big, small, dark, or twisted
+BY GEORGE MUSSER
+12 Chemistry & Fuels
+16 You are Made of Waste
+Searching for the ultimate example of recycling? Look
+in the mirror
+BY CURT STAGER
+28 Genetics & Human Health
+30 Their Giant Steps to a Cure
+Battling a rare form of muscular dystrophy,
+a family finds an activist leader, and hope
+BY JUDE ISABELLA
+36 An Unlikely Cure Signals
+Hope for Cancer
+How “exceptional responders” are revolutionizing
+treatment for the deadly disease
+BY KAT MCGOWAN
+22 Frack’er Up
+Natural gas is shaking up the search for
+green gasoline.
+BY DAVID BIELLO
+3
+NAUTILUS EDUCATION | BETA PRODUCT
+Astronomy & Space Travel
+How would we travel nearly five light years? This article explores different engineering solutions
+to the puzzle of taking a very, very, long trip, intertwining science-fiction goals with real world
+solutions. Students will explore fanciful applications of Newton’s second law, and concepts of
+momentum, ions, and nuclear fusion.
+Lesson Plan
+Review vocabulary words in class. Have students read the article and answer the reading comprehension questions
+for homework, as well as generate a discussion question of their own. In class, address any conceptual
+questions that the class might have. Have students write discussion questions on the board, along with the ones
+suggested in this document. Have students break up into small groups, each of which should address one of the
+discussion questions. 15 MIN
+Dedicate the remaining class time to completing one of the activities. 30-45 MIN
+Teacher’s Notes: Roadmap to Alpha Centauri
+VOCAB WORDS
+Magnetic field: produced by a magnetic material or a
+current, a magnetic field will push or pull a moving
+charge or magnet that comes in contact with it.
+Ion: an atom in which the number of electrons and
+protons is unequal—thus, the atom is positive or
+negative.
+Momentum: the product of the mass and velocity of
+an object.
+Recoil: the backward momentum from a fired gun.
+Plasma: one of the four fundamental states of matter,
+composed of ions and electrons.
+Nuclear fusion: when two or more clusters of neutrons
+and protons collide, forming a new nucleus and
+releasing energy.
+READING COMPREHENSION
+1. What does AU stand for?
+2. How fast is Voyager 1 moving in miles per hour?
+3. “The engine first strips propellant atoms [typically
+xenon] of their outermost electrons.” What
+is the charge of a stripped xenon atom?
+4
+NAUTIL. US | TEXT SETS
+4. What concept is at work in the ion drive? (Hint:
+what is conserved?)
+5. What other travel options work on this principle?
+6. How much momentum does an electron fired
+from a gun have?
+DISCUSSION QUESTIONS
+1. Why not take a traditional rocket to Alpha
+Centauri?
+2. Which of the propulsion meturds listed is most
+likely to succeed? Would any be used together?
+3. Would it be worth going if it took generations?
+4. How far away is the next-nearest star?
+ACTIVITIES
+1. Research and create a brochure or ad enticing
+astronauts to make the trip. What would they eat?
+What psychological qualities would they need? If
+robots were sent, how would they be fixed? What
+kind of data could they expect to collect?
+WHERE THIS FITS IN THE CURRICULUM
+Structure and Properties of Matter (HS-PS1-8) Develop
+models to illustrate the changes in the composition
+of the nucleus of the atom and the energy released
+during the processes of fission, fusion, and radioactive
+decay.
+Forces and Interactions (HS-PS2-1) Analyze data to support
+the claim that Newton’s second law of motion
+describes the mathematical relationship among the
+net force on a macroscopic object, its mass, and its
+acceleration.
+Forces and Interactions (HS-PS2-2) Use mathematical
+representations to support the claim that the total
+momentum of a system of objects is conserved when
+there is no net force on the system.
+Engineering Design (HS-ETS1-3) Evaluate a solution
+to a complex real-world problem based on prioritized
+criteria and trade-offs that account for a range
+of constraints, including cost, safety, reliability, and
+aesthetics, as well as possible social, cultural, and
+environmental impacts.
+2. Propose another method of traveling to Alpha
+Centauri.
+ADDITIONAL MULTIMEDIA
+1. Voyager 1 Leaves the Solar System
+(The Guardian) 1 MIN 45 SEC
+A quick explanation of where Voyager 1 is, and
+how scientists know its location: http://www.
+theguardian.com/science/video/2013/sep/13/
+voyager-1-leaves-solar-system-video
+2. New Mars Rover Powered by Plutonium
+(Space.com) 2 MIN 30 SEC
+An introduction to the nuclear battery on
+board the Mars Curiosity Rover, and the
+advantages of not using solar power (as with
+past missions): https://www.youtube.com/
+watch?v=1JOPW8aAcgEt
+5
+•.x --------------------------------- 0
+MATTER | TECHNOLOGY
+Roadmap to Alpha Centauri
+Pick your favorite travel mode—big, small, light, dark, or twisted
+BY GEORGE MUSSER
+VER SINCE THE DAWN of the space age, a
+quixotic subculture of physicists, engineers,
+and science-fiction writers have devoted their
+lunch hours and weekends to drawing up plans
+for starships, propelled by the imperative for humans
+to crawl out of our Earthly cradle. For most of that
+time, they focused on the physics. Can we really fly to
+the stars? Many initially didn’t think so, but now we
+know it’s possible. Today, the question is: Will we?
+Truth is, we already are flying to the stars, without
+really meaning to. The twin Voyager space probes
+launched in 1977 have endured long past their original
+goal of touring the outer planets and have reached
+the boundaries of the sun’s realm. Voyager 1 is 124
+astronomical units (AU) away from the sun—that
+is, 124 times farther out than Earth—and clocking
+3.6 AU per year. Whether it has already exited the
+solar system depends on your definition of “solar system,”
+but it is certainly way beyond the planets. Its
+instruments have witnessed the energetic particles
+and magnetic fields of the sun give way to those of
+interstellar space—finding, among other things, what
+Ralph McNutt, a Voyager team member and planetary
+scientist, describes as “weird plasma structures” begging
+to be explored. The mysteries encountered by
+the Voyagers compel scientists to embark on followup
+missions that venture even deeper into the cosmic
+woods—out to 200 AU and beyond. But what kind of
+spacecraft can get us there?
+Going Small: Ion Drives
+NASA’s Dawn probe to the asteroid belt has demonstrated
+one leading propulsion system: the ion drive.
+An ion drive is like a gun that fires atoms rather than
+bullets; the ship moves forward on the recoil. The system
+includes a tank of propellant, typically xenon, and
+a power source, such as solar panels or plutonium batteries.
+The engine first strips propellant atoms of their
+outermost electrons, giving them a positive electric
+charge. Then, on the principle that opposites attract,
+ILLUSTRATION BY CHAD HAGEN
+7
+NAUTILUS EDUCATION | BETA PRODUCT
+a negatively charged grid draws the atoms toward the
+back of the ship. They overshoot the grid and stream
+off into space at speeds 10 times faster than chemical
+rocket exhaust (and 100 times faster than a bullet).
+For a post-Voyager probe, ion engines would fire for 15
+years or so and hurl the craft to several times the Voyagers’
+speed, so that it could reach a couple of hundred
+AU before the people who built it died.
+Star flight enthusiasts are also pondering ion drives
+for a truly interstellar mission, aiming for Alpha Centauri,
+the nearest star system some 300,000 AU away.
+Icarus Interstellar, a nonprofit foundation with a mission
+to achieve interstellar travel by the end of the century,
+has dreamed up Project Tin Tin—a tiny probe
+weighing less than 10 kilograms, equipped with a miniaturized
+high-performance ion drive. The trip would
+still take tens of thousands of years, but the group sees
+Tin Tin less as a realistic science mission than as a
+technology demonstration.
+Going Light: Solar Sails
+A solar sail, such as the one used by the Japanese
+IKAROS probe to Venus, does away with propellant
+and engines altogether. It exploits the physics of
+light. Like anything else in motion, a light wave has
+momentum and pushes
+on whatever surface
+it strikes. The force is
+feeble, but becomes
+noticeable if you have
+a large enough surface,
+a low mass, and a lot
+of time. Sunlight can
+accelerate a large sheet
+of lightweight material,
+such as Kapton, to an
+impressive speed. To
+reach the velocity needed
+to escape the solar
+system, the craft would
+first swoop toward
+the sun, as close as it
+dared—inside the orbit
+of Mercury—to fill its
+sails with lusty sunlight.
+Such sail craft could
+conceivably make the
+crossing to Alpha Centauri in a thousand years. Sails
+are limited in speed by how close they can get to the
+sun, which, in turn, is limited by the sail material’s
+durability. Gregory Matloff, a City University of New
+York professor and longtime interstellar travel proponent,
+says the most promising potential material is graphene—ultrathin
+layers of carbon graphite.
+A laser or microwave beam could provide an even
+more muscular push. In the mid-1980s, the doyen of
+interstellar travel, Robert Forward, suggested piggybacking
+on an idea popular at the time: solar-power
+satellites, which would collect solar energy in orbit
+and beam it down to Earth by means of microwaves.
+Before commencing operation, an orbital power station
+could pivot and beam its power up rather than
+down. A 10-gigawatt station could accelerate an ultralight
+sail—a mere 16 grams—to one-fifth the speed of
+light within a week. Two decades later, we’d start seeing
+live video from Alpha Centauri.
+This “Starwisp” scheme has its dubious features—it
+would require an enormous lens, and the sail is so fragile
+that the beam would be as likely to fry it as to push
+it—but it showed that we could reach the stars within
+a human lifetime.
+8
+NAUTIL. US | TEXT SETS
+Going Big: Nuclear Rockets
+Sails may be able to whisk tiny probes to the stars,
+but they can’t handle a human mission; you’d need
+a microwave beam consuming thousands of times
+more power than the entire world currently generates.
+The best-developed scheme for human space travel is
+nuclear pulse propulsion, which the government-funded
+Project Orion worked on during the 1950s and ’60s.
+When you first hear about it, the scheme sounds
+unhinged. Load your starship with 300,000 nuclear
+bombs, detonate
+one every three seconds,
+and ride the blast
+waves. Though extreme,
+it works on the same
+basic principle as any
+other rocket—namely,
+recoil. Instead of shooting
+atoms out the back
+of the rocket, the nuclear-pulse
+system shoots
+blobs of plasma, such as
+fireballs of tungsten.
+You pack a plug of
+tungsten along with a
+nuclear weapon into a
+metal capsule, fire the
+capsule out the back of
+the ship, and set it off
+a short distance away.
+In the vacuum of space,
+the explosion does less
+damage than you might
+expect. Vaporized tungsten
+hurtles toward the ship, rebounds off a thick
+metal plate at the ship’s rear, and shoots into space,
+while the ship recoils, thereby moving forward. Giant
+shock absorbers lessen the jolt on the crew quarters.
+Passengers playing 3-D chess, or doing whatever else
+interstellar passengers do, would feel rhythmic thuds
+like kids jumping rope in the apartment upstairs.
+The ship might reach a tenth the speed of light.
+If for some reason—solar explosion, alien invasion—
+we really had to get off the planet fast and we didn’t
+care about nuking the launch pad, this would be the
+way to go. We already have everything we need for
+it. “Today the closest technology we have would be
+nuclear pulse,” Matloff says. If anything, most people
+would be happy to load up all our nukes on a ship and
+be rid of them.
+Ideally, the bomb blasts would be replaced with controlled
+nuclear fusion reactions. That was the approach
+suggested by Project Daedalus, a ’70s-era effort to
+design a fully equipped robotic interstellar vessel. The
+biggest problem was that for every ton of payload,
+the ship would have to carry 100 tons of fuel. Such a
+behemoth would be the
+size of a battleship, with a
+length of 200 meters and
+a mass of 50,000 tons.
+“It was just a huge,
+monstrous machine,”
+says Kelvin Long, an English
+aerospace engineer
+and co-founder of Project
+Icarus, a modern effort
+to update the design.
+“But what’s happened
+since then, of course, is
+microelectronics, miniaturization
+of technology,
+nanotechnology. All these
+developments have led
+to a rethinking. Do you
+really need these massive
+structures?” He says
+Project Icarus planned to
+unveil the new design in
+London in October 2013.
+Interstellar designers
+have come up with all sorts of ways to shrink the
+fuel tank. For instance, the ship could use electric or
+magnetic fields to scoop up hydrogen gas from interstellar
+space. The hydrogen would then be fed into a
+fusion reactor. The faster the ship were to go, the faster
+it would scoop—a virtuous cycle that, if maintained,
+would propel the ship to nearly the speed of light.
+Unfortunately, the scooping system would also produce
+drag forces, slowing the ship, and the headwind
+of particles would cook the crew with radiation. Also,
+pure-hydrogen fusion is inefficient. A fusion-powered
+ship probably couldn’t avoid hauling some fuel from
+9
+NAUTILUS EDUCATION | BETA PRODUCT
+Going Dark: Scavenging Exotic Matter
+Instead of scavenging hydrogen gas, Jia Liu, a physics
+graduate student at New York University, has proposed
+foraging for dark matter, the invisible exotic
+material that astronomers think makes up the bulk
+of the galaxy. Particle physicists hypothesize that
+dark matter consists of a type of particle called the
+neutralino, which has a useful property: When two
+neutralinos collide, they annihilate each other in a
+blaze of gamma rays. Such reactions could drive a
+ship forward. Like the hydrogen scooper, a dark-matter
+ship could approach the speed of light. The problem,
+though, is that dark matter is dark—meaning it
+doesn’t respond to electromagnetic forces. Physicists
+know of no way to collect it, let alone channel it to
+produce rocket thrust.
+If engineers somehow overcame these problems
+and built a near-light-speed ship, not just Alpha Centauri
+but the entire galaxy would come within range.
+In the 1960s astronomer Carl Sagan calculated that, if
+you could attain a modest rate of acceleration—about
+the same rate a sports car uses—and maintain it long
+enough, you’d get so close to the speed of light that
+you’d cross the galaxy in just a couple of decades of
+shipboard time. As a bonus, that rate would provide a
+comfortable level of artificial gravity.
+On the downside, hundreds of thousands of years
+would pass on Earth in the meantime. By the time you
+got back, your entire civilization might have gone ape.
+From one perspective, though, this is a good thing. The
+tricks relativity plays with time would solve the eternal
+problem of too-slow computers. If you want to do
+some eons-long calculation, go off and explore some
+distant star system and the result will be ready for you
+when you return. The starship crews of the future may
+not be voyaging for survival, glory, or conquest. They
+may be solving puzzles.
+Going Warp: Bending Time and Space
+With a ship moving at a tenth the speed of light,
+humans could migrate to the nearest stars within a
+lifetime, but crossing the galaxy would remain a journey
+of a million years, and each star system would still
+be mostly isolated. To create a galactic version of the
+global village, bound together by planes and phones,
+you’d need to travel faster than light.
+Contrary to popular belief, Einstein’s theory of relativity
+does not rule that out completely. According to
+the theory, space and time are elastic; what we perceive
+as the force of gravity is in fact the warping of space and
+time. In principle, you could warp space so severely that
+you’d shorten the distance you want to cross, like folding
+a rug to bring the two sides closer together. If so, you
+could cross any distance instantaneously. You wouldn’t
+even notice the acceleration, because the field would
+zero out g-forces inside the ship. The view from the ship
+windows would be stunning. Stars would change in color
+and shift toward the axis of motion.
+It seems almost mean-spirited to point out how far
+beyond our current technology this idea is. Warp drive
+would require a type of material that exerts a gravitational
+push rather than a gravitational pull. Such material
+contains a negative amount of energy—literally less
+than nothing, as if you had a mass of –50 kilograms.
+Physicists, inventive types that they are, have imagined
+ways to create such energy, but even they throw up their
+hands at the amount of negative energy a starship would
+need: a few stars’ worth. What is more, the ship would
+be impossible to steer, since control signals, which are
+restricted to the speed of light, wouldn’t be fast enough
+to get from the ship’s bridge to the propulsion system
+located on the vessel’s perimeter. (Equipment within
+the ship, however, would function just fi
+When it comes to starships, it’s best not to get hung up
+on details. By the time humanity gets to the point it might
+actually build one, our very notions of travel may well
+have changed. “Do we need to send full humans?” asks
+Long. “Maybe we just need to send embryos, or maybe in
+the future, you could completely download yourself into
+a computer, and you can remanufacture yourself at the
+other end through something similar to 3-D printing.”
+Today, a starship seems like the height of futuristic thinking.
+Future generations might fi it quaint.
+george musser is a writer on physics and cosmology and
+author of The Complete Idiot’s Guide To String Theory (Alpha,
+2008). He was a senior editor at Scientific American for 14 years
+and has won honors such as the American Institute of Physics
+Science Writing Award.
+10
+NAUTILUS EDUCATION | BETA PRODUCT
+Chemistry & Fuels
+The matter in our world is recycled. The pair of articles here explores how elements and atoms
+wend their way through space and time. Students will explore how chemical reactions usher elements
+through their journeys. You Are Made of Waste illustrates, in five short vignettes, the lives of
+the elements that make up our teeth, fi breath, hair, and blood. Frack ‘er Up is an in-depth
+look at the botched promise of biofuel—energy from cars made from renewable plant growth.
+In the “curriculum” section of the teacher’s notes, you will find information on how these pieces
+can help fulfill requirements of the Next Generation Science Standards. Specifically, they make
+for entry points to—or a means of reinforcing—lessons on photosynthesis, chemical reactions,
+valence electrons, and energy. But more than that, these lessons will connect to the students’ daily
+lives, and spark discussion.
+Lesson Plan:
+Ask students to read one or both of the articles for homework. Briefly introduce or review the vocabulary words
+in class. Assign all or a selection of the reading comprehension questions for the students to complete along
+with the reading, and ask them to come up with one question for further discussion. (Note that a couple of the
+questions for each article are redundant.)
+Start class with students raising any technical questions they might have about the readings. Ask them to
+contribute their discussion questions, and write these on the board, along with the questions provided in the
+teacher’s notes. Ask the students to break into small groups; assign each group to address a question, and
+briefly present to the class for further discussion. 30-45 MIN
+In the following class time (or another class) have the students complete one or more of the activities in the
+teacher’s notes in small groups. 30 MIN
+Teacher’s Notes: You Are Made of Waste
+VOCAB WORDS
+Mass: a physical property that describes an object’s
+resistance to force. The mass of an object can be used
+to calculate its weight: (mass) x (gravitational force)
+= weight.
+Carbon: an element found in stars, planets, comets,
+as well as in all known living things.
+Radioactive decay: the process by which a nucleus
+ejects alpha particles, particles of ionizing radiation.
+A nucleus that does this is considered “unstable;” a
+substance that contains unstable nuclei is considered
+“radioactive.” This process usually only occurs in
+atoms heavier than iron.
+12
+NAUTIL. US | TEXT SETS
+Fusion: when two or more nuclei collide, fusing to
+make a new nucleus and releasing energy. This process
+usually only occurs in atoms lighter than iron.
+Chemical bond: an attraction between two or more
+atoms that allows them to form a substance of definite
+chemical composition. Breaking these bonds
+requires energy.
+Petroleum: a “fossil fuel” that forms when organisms
+are crushed under rock and subjected to lots of pressure,
+and lots of time. Like the organisms it’s made of,
+petroleum consists largely of carbon.
+2. How does the story change the way you see yourself?
+Others?
+ACTIVITIES
+1. Pick an element not discussed in this article.
+Where else is it found? Where did it come from?
+2. Draw a map or annotated illustration of all the
+places carbon goes in this article. Use outside
+research to complete a full picture of the carbon
+cycle.
+ADDITIONAL MULTIMEDIA
+READING COMPREHENSION
+1. “Each of those waste molecules is a carbon atom
+borne on two atomic wings of oxygen.” Write out
+the chemical equation for the molecule described
+here.
+2. “Organic” is used in two different ways in this
+piece. What are the two different definitions?
+3. What does it mean for a chemical to be “highly
+reactive?” Identify oxygen’s location on the periodic
+table, the group of atoms that it belongs to,
+and why they are considered “highly reactive.”
+4. Which elements on the periodic table are the
+least reactive?
+5. “Fossil-based carbon dioxide molecules that
+are not soaked up by oceans or stranded in the
+upper atmosphere are eventually captured by
+plants, shorn of their oxygen wings, and woven
+into botanical sugars and starches.” What is the
+process described here? (Hint: it is mentioned
+by name later in the piece.) Write down the equation
+for this reaction.
+1. Whose air do you share?
+(It’s OK To Be Smart, PBS) 3 MIN 30 SEC
+A video that explains how we breathe recycled
+air—including molecules of air exhaled by Einstein
+himself:
+https://www.youtube.com/watch?v=BybkIJysAKc
+2. We Are Star Stuff segment
+(Carl Sagan’s Cosmos) 8 MIN
+Carl Sagan explains how the elements of life
+were born in stars, evolved into simple organisms,
+then into us: intelligent creatures, capable
+of exploring the stars we came from:
+https://www.youtube.com/watch?v=iE9dEAx5Sgw
+3. The Microbes We’re Made Of
+(Smithsonian.com) 2 MIN 30 SEC
+We’re not just made of waste. We’re made of
+trillions of other organisms. This video provides
+a quick exploration of the microbiome crucial
+to keeping our bodies working, and what we’re
+doing to kill them:
+http://www.smithsonianmag.
+com/videos/category/3play_1/
+the-microbes-were-made-of/?no-ist
+DISCUSSION QUESTIONS
+1. “Chemophobia” is the fear of chemicals. What are
+some chemophobic practices or products that we
+engage with? Are there good reasons to be afraid
+of chemicals?
+WHERE THIS FITS IN THE CURRICULUM
+Chemical Reactions (HS-PS1-2) Construct and revise
+an explanation for the outcome of a simple chemical
+reaction based on the outermost electron states of
+atoms, trends in the periodic table, and knowledge of
+chemical properties.
+13
+NAUTILUS EDUCATION | BETA PRODUCT
+Matter and its interactions (HS-PS1-1) Use the periodic
+table as a model to predict the relative properties
+of elements based on the patterns of electrons in the
+outermost energy level of atoms.
+From molecules to organisms: structure and processes
+(HS-LS1-6) Construct and revise an explanation
+based on evidence for how carbon, hydrogen, and
+oxygen from sugar molecules may combine with other
+elements to form amino acids and/or other large
+carbon-based molecules.
+Ecosystems: Interactions, energy and dynamics (HS-
+LS-3) Construct and revise an explanation based on
+evidence for the cycling of matter and flow of energy
+in aerobic and anaerobic conditions.
+Teacher’s Notes: Frack ’er Up
+VOCAB WORDS
+Ethanol: also found in beer and wine, it is a kind of
+biofuel that is sometimes added to gasoline for use
+in automobiles. Ethanol can be made from corn,
+potatoes, or green plants. Its chemical formula is
+CH 3CH 2OH.
+Biofuel: a fuel made from plants or other organisms,
+in recent time.
+Biomass: material from recently living organisms.
+Organic compound: a molecule containing carbon.
+Hydrocarbon: Made of just hydrogen and carbon,
+these are the simplest kind of organic compound.
+Octane: a highly flammable hydrocarbon, and component
+of gasoline. Its chemical formula is C 8H 18.
+Catalyst: a component of a chemical reaction that
+helps facilitate the reaction, but is not used up.
+2. A polymer is a chain of molecules. Identify a kind
+of polymer in the story, and the monomer that
+composes it.
+3. Plants need carbon dioxide for photosynthesis.
+What are some of the sources for this carbon
+dioxide?
+DISCUSSION QUESTIONS
+1. Why is it advantageous for companies to be
+green?
+2. Would you pay more for gas—or any other product,
+say a shirt—from a “green” company? What
+if some of that company’s practices were just as
+questionable as those of “dark” companies?
+3. How would the world change if gasoline could
+be made cheaply from natural gas? Should we
+consider this technology to be progress given
+that natural gas has it’s own environmental
+consequences.
+ACTIVITIES
+1. Have students construct a timeline of fuel. Ask
+them to include dates mentioned from the story,
+and to research and add other relevant information:
+like the moment in history when organisms
+die, the life cycle of a tree that contributed the
+author’s container of Primus fuel.
+2. Draw a map or annotated illustration of all the places
+carbon goes in this article. Use outside research
+to complete a full picture of the carbon cycle.
+3. Write a 30-second ad convincing car drivers to
+pay a premium for green gasoline like Primus’.
+Include “fine print”—side effects, or caveats—as
+you see necessary.
+READING COMPREHENSION
+1. “Plant biomass absorbs carbon dioxide as it grows.”
+What is the name of the process by which plants do
+this? Look up and write down the chemical reaction.
+ADDITIONAL MULTIMEDIA
+1. Algae (The Guardian)
+An interactive slide show that illustrates how
+biofuels are made out of algae:
+14
+NAUTIL. US | TEXT SETS
+http://www.theguardian.com/environment/interactive/2008/jun/26/algae
+https://www.youtube.com/watch?v=BybkIJysAKc
+2. Bioprospecting (TED-Ed) 4 MIN
+An animated video introducing the concept of
+biofuels, and how they could help reduce reliance
+on our planet’s limited supply of fossil fuels:
+http://ed.ted.com/lessons/biofuels-and-bioprospecting-for-beginners-craig-a-kohn
+3. The Microbes We’re Made Of
+(Smithsonian.com) 2 MIN 30 SEC
+We’re not just made of waste. We’re made of
+trillions of other organisms. This video provides
+a quick exploration of the microbiome crucial
+to keeping our bodies working, and what we’re
+doing to kill them:
+http://www.smithsonianmag.
+com/videos/category/3play_1/
+the-microbes-were-made-of/?no-ist
+WHERE THIS FITS IN THE CURRICULUM
+Matter and energy in organisms and ecosystems
+(HS-LS1-5) Use a model to illustrate how photosynthesis
+transforms light energy into stored chemical
+energy.
+History of the Earth (HS-ESS1-6) Apply scientific
+reasoning and evidence from ancient Earth materials,
+meteorites, and other planetary surfaces to construct
+an account of Earth’s formation and early history.
+Chemical reactions (HS-PS1-2) Construct and revise
+an explanation for the outcomes of simple chemical
+reactions based on the outermost electron state of
+atoms, trends in the periodic table, and knowledge of
+the patterns of chemical properties.
+Ecosystems: Interactions, energy and dynamics (HS-
+LS-3) Construct and revise an explanation based on
+evidence for the cycling of matter and flow of energy
+in aerobic and anaerobic conditions.
+15
+MATTER | ENVIRONMENT
+You Are Made of Waste
+Searching for the ultimate example of recycling? Look in the mirror
+BY CURT STAGER
+YOU MAY THINK OF YOURSELF as a highly refined and
+sophisticated creature—and you are. But you are also
+full of discarded, rejected, and recycled atomic
+elements. Don’t worry, though—so is almost everyone
+and everything else.
+Carbon: Your inky nails
+Look at one of your fingernails. Carbon makes up
+half of its mass, and roughly 1 in 8 of those carbon
+atoms recently emerged from a chimney or a tailpipe.
+Coal-fired power plants, petroleum-guzzling
+cars, and kitchen gas stoves release carbon dioxide
+into the atmosphere. Each of those waste molecules
+is a carbon atom borne on two atomic wings of oxygen.
+Fossil-based carbon dioxide molecules that are
+not soaked up by the oceans or stranded in the upper
+atmosphere are eventually captured by plants, shorn
+of their oxygen wings, and woven into botanical sugars
+and starches. Eventually, some of them end up in
+bread, sweets, and vegetables, while others help form
+carbon-rich animal tissues, finding their way into
+meat and dairy products. Historically, atmospheric
+carbon dioxide was mainly replenished by volcanoes,
+forest fires, and biotic respiration. Today, one quarter of
+atmospheric CO₂ is the result of fossil fuel combustion,
+whether it rose from smokestacks or was displaced
+from the oceans. (When fossil-fuel CO₂ dissolves into
+ocean water, it displaces already-dissolved carbon
+dioxide derived from natural sources.) And because
+all of the carbon in your body derives from ingested
+organic matter, which in turn obtains it from the atmosphere,
+your fingernails and the rest of the organic
+matter in your body are built, in part, from emissions.
+ILLUSTRATIONS BY YUKO SHIMIZU
+16
+NAUTIL.US I TEXT SE TS
+17
+NAUTILUS EDUCATION | BETA PRODUCT
+Radioactive Carbon-14: Your pearly whites
+When you smile, the gleam of your teeth obscures a
+slight glow from radioactive waste. During the late
+1950s and early 1960s, atmospheric testing of thermonuclear
+weapons scattered so much radioactive carbon-14
+into the atmosphere that it contaminated virtually
+every ecosystem and human. Several thousand
+unstable radiocarbon atoms explode within and among
+your cells every second as their unstable nuclei undergo
+spontaneous radioactive decay. Some are the natural
+products of cosmic rays that can turn atmospheric
+nitrogen into carbon-14, while others result from the
+decay of unstable mineral elements that are found in
+soil. But many of them represent the echoes of thermonuclear
+airbursts from the Cold War, finding their
+way into our water supply and meals. If they happen to
+disintegrate within your DNA, they can damage your
+genes. And many of them are bound up in your teeth.
+Unlike most of the atoms in your body, those embedded
+in your strong, stable tooth enamel have been with
+you ever since you ingested them through your umbilical
+cord and your infant feeding. If you were born during
+the early 1960s, you have more nuclear waste in
+your teeth than if you were born later, when soils and
+oceans had had time to bury radioactive atoms. In fact,
+forensic scientists use the proportion of bomb carbon
+in tooth enamel to determine the age of unidentified
+human remains.
+18
+NAUTIL. US | TEXT SETS
+Oxygen: Your leafy breath
+The oxygen in your lungs and bloodstream is a highly
+reactive waste product generated by vegetation and
+microbes. Trees, herbs, algae, and blue-green bacteria
+split oxygen atoms out of water molecules during
+photosynthesis. They use most of the resultant gas for
+their own purposes, but thankfully some leaks out to
+sustain you. In fact it makes up about a fifth of the
+air you breathe. Your cells harness oxygen to release
+energy from chemical bonds in the food you consume.
+Oxygen absorbs electrons released by broken food
+molecules, which attract hydrogen ions, resulting in
+a molecular waste of your own making: metabolic
+water, which comprises one tenth of your body fluids.
+An average adult carries between 8 and 10 pounds of
+homemade wastewater within them, and 1 in 10 of your
+tears are the metabolic by-products of your breathing
+and eating.
+NAUTILUS EDUCATION | BETA PRODUCT
+Nitrogen: Your natural curls
+The next time you brush your hair, think of the nitrogenous
+waste that helped create it. All of your proteins,
+including hair keratin, contain formerly airborne
+nitrogen atoms. But the nitrogen in air is biologically
+inert. For nitrogen to become a component of your
+hair, it has to be converted into a more accessible form.
+Nitrogen-fixing bacteria is one way that can happen.
+They live among the roots of beans, peas, and other
+legumes, consuming atmospheric nitrogen and releasing
+it as ammonia, a kind of microbial manure that
+fertilizes soil in which plants grow. When you eat a
+plant, you consume formerly atmospheric nitrogen.
+Every flash of lightning and every automotive spark
+plug emits a puff of nitrogen oxide, which can dissolve
+into raindrops and fall to earth as a form of fertilizer,
+again finding its way into food webs through plants.
+But most of the nitrogen in modern foods comes from
+urea and ammonium nitrate fertilizers artificially fixed
+by industrial processes. In ages past, the nitrogen in
+human hair came mainly from bacterial waste and
+lightning. But today, unless you eat a strictly organic
+diet, you run your hairbrush through nitrogenous
+frameworks that are mostly of human origin.
+NAUTIL. US | TEXT SETS
+Iron: Your ancient blood
+When you cut yourself, the wreckage of stars spills
+out. Every atom of iron in your blood, which helps
+your heart shuttle oxygen from your lungs to your
+cells, once helped destroy a massive star. The fierce
+nuclear fusion reactions that set stars ablaze create
+the atomic elements of life. As the star ages, it fuses
+progressively larger elements, such as silicon, sulfur,
+and calcium. Eventually, iron atoms are fused.
+The problem is that iron fusion consumes as much
+energy as it produces, so it weakens the star. If the
+star is big enough, it will collapse in on itself, its outer
+layers rebounding against the dense inner core, and a
+supernova explosion will result. The blast sprays out
+iron at supersonic speeds, filling great swathes of space
+with debris that can form new solar systems. The iron
+in your frying pan, house keys, and blood is essentially
+cosmic shrapnel from the tremendous explosions that
+ripped through our galaxy billions of years ago. The
+same blasts also released carbon, nitrogen, oxygen, and
+other elements of life, which later produced the sun,
+the Earth, and eventually—you.
+curt stager is an ecologist and climate scientist at Paul
+Smith’s College. He is the author of Deep Future: The Next 100,000
+Years of Life On Earth, and also co-hosts a weekly science program
+on North Country Public Radio.
+21
+
+MATTER | BIOFUEL
+Frack ’er Up
+Natural gas is shaking up the search for green gasoline
+BY DAVID BIELLO
+AM SPEEDING DOWN New Jersey’s highways,
+propelled by gasoline with a dash of ethanol, an
+alcoholic biofuel brewed from stewed corn kernels.
+As I drive through the outskirts of the township
+of Hillsborough, in the center of the state, I see
+that spring has brought with it a bounty of similar “biomass,”
+as the fuel industry likes to call plants. Trees
+line the road and fresh-cut grass covers the sidewalks
+as I pull into the business park that is home to Primus
+Green Energy—a company that has been touting
+a technology to transform such biomass into a green
+and renewable form of gasoline.
+But there’s a hitch. The boom in hydraulic fracturing,
+or “fracking,” a technique in which horizontal drilling
+and high-pressure jets of water are deployed to release
+gas trapped in sedimentary shale rock, has made natural
+gas cheap and plentiful. That’s not bad for Primus,
+whose technology can make gasoline from natural gas,
+biomass, or even low-grade coal, such as lignite or peat.
+This versatility makes Primus a potential part of what
+has been called the “olive economy”—companies that
+are neither bright green nor darkest black, but combine
+environmentally-friendlier technologies with older
+and dirtier ones in order to compete. In fact, Primus
+may become a leader in advancing this kind of technology.
+“We can be as dark as you want or as green as you
+want,” says geologist, serial entrepreneur, and Primus
+salesman George Boyajian.
+In July, President Barack Obama gave a major
+speech on climate change that described natural gas
+as a “transition fuel” towards the “even cleaner energy
+economy of the future.” But Primus’s trajectory raises
+the question of whether natural gas is a boost on the
+road to a genuinely green fuel, or if it is prolonging our
+addiction to dirty modes of transport, and taking us on
+a detour from a low-carbon path.
+At the Primus headquarters, I first meet Primus’s
+chief chemist Howard Fang in front of a prototype of
+a Primus conversion machine. Fang, who joined the
+company for what he calls his “semi-retirement,” is
+ILLUSTRATION BY PETER & MARIA HOEY
+23
+NAUTILUS EDUCATION | BETA PRODUCT
+avuncular and black-haired. His interests are broad:
+He spends his spare time writing and reading history,
+and has authored books on conflict in the Middle East
+and the role of Christian missionaries in China.
+A lifetime in fuels chemistry left Fang with one
+burning question: “What is the real solution to the
+energy crisis?” His career at oil companies BP and
+ExxonMobil, and engine manufacturer Cummins,
+spanned not just one but two major energy upheavals—the
+oil crisis of the 1970s and then its sequel in
+the first decade of the 21st century, which is arguably
+still ongoing. These experiences impressed on Fang
+the importance of securing the fuel supply in such
+a way as to avoid despoiling the environment. The
+solution, says the bespectacled chemist, is “naturesourced
+biomass or natural gas converted effectively
+to gas or diesel.”
+Primus’s original idea was simple: take scrap wood
+or other biomass, turn it into pellets, and apply pressure
+and heat (700 degrees Celsius or more) to break
+it down into hydrogen and carbon monoxide. Then
+build this composite “syngas,” shorthand for “synthetic
+gas,” back up into whatever hydrocarbon product is
+desired—the molecules of eight carbon and 18 hydrogen
+atoms known as iso-octane that are a measure
+of the quality of conventional gasoline, or the longer
+chains of similar hydrocarbons that comprise diesel or
+jet fuel. Because plant biomass absorbs carbon dioxide
+as it grows, the emissions produced by burning the
+biofuel should balance out overall—every molecule of
+CO2 emitted when the fuel is burned was previously
+absorbed by the plant that made the fuel.
+The story of the search for such green fuel is littered
+with disappointments, however. Major companies
+brew ethanol in large quantities in the United
+States. It is routinely added to gasoline (at levels of
+around 10 percent, on its way to 15 percent) as a way
+to improve combustion, reduce pollution, and support
+industrial corn farmers. But most ethanol is still made
+from the edible kernels of corn plants, instead of the
+inedible cellulose that was promised in the heady days
+of the mid-2000s, when Congress passed a spate of
+laws promoting biofuel production. Since 1978, the
+ethanol industry has enjoyed subsidies and tax credits
+to the order of 40 cents per gallon, and now produces
+an annual dead zone at the mouth of the Mississippi
+River each summer as a result of fertilizer washing off
+the endless cornfields of the Midwest. But ethanol is
+unlikely to ever fully replace conventional fossil fuels,
+since it is more difficult to transport, produces a fraction
+of the energy of oil, and would require engines to
+be refitted or replaced on a massive scale.
+Hence the interest in “drop-in” biofuels as a substitute
+for conventional fuels in existing cars, planes,
+and trucks. The problem is not one of infrastructure,
+but chemistry: Companies must find a way to economically
+imitate and fast-track a process for which
+time and geology have done most of the work in conventional
+fossil fuels. The energy in these fuels is the
+pent-up power of ancient sunlight, which billions of
+photosynthetic microorganisms soaked up before
+dying, fossilizing, and turning into the hydrocarbonrich
+stew we know as petroleum, and from which we
+refine gas, diesel, and jet fuel, among other products.
+In theory, then, it should be possible to turn the carbohydrates
+and other chemicals that store energy for
+today’s living things into the hydrocarbons we rely on
+for transportation.
+Potential routes to such “green crude” include
+algae, other photosynthetic organisms, and specialty
+microbes engineered to spit out hydrocarbons. Biofuel
+company Solazyme has a contract to supply United
+Airlines with 20 million gallons of algal jet fuel, and
+teamed up with a green fuel-station network to offer
+biodiesel in a test run in San Francisco’s Bay Area. But
+it takes a lot of water—and a lot of energy to move that
+water around—in order to grow algae in large quantities,
+and tailor-making microbes is expensive at its
+current scale. As a result, companies are diversifying.
+Algal fuel producer Sapphire Energy is now focusing
+on isolating the genetic traits in the ancestors of all
+plants that might be usefully incorporated into other
+crops. Solazyme is making oils and specialty fats to sell
+at high margins to cosmetics and food companies, as
+is would-be microbial fuel-maker Amyris. The industry
+for “advanced biofuels is literally in its infancy,” concedes
+Jonathan Wolfson, Solazyme CEO.
+The allure of Primus’s technology is its promise to
+harness waste wood and other inedible biomass that
+would otherwise be thrown into landfills, and turn
+it into a renewable source of gasoline. Its “syngas to
+gasoline plus” process consists, essentially, of four
+24
+NAUTIL. US | TEXT SETS
+“We can be as dark as
+you want or as green
+as you want,” says
+Boyajian.
+chemical reactors. One turns the syngas into methanol.
+The next makes methanol into a molecule known as
+dimethyl ether, or DME in chemist-speak. In the third
+reactor, catalysts known as zeolites knit DME into gasoline,
+in the most expensive and energy-intensive part
+of the process. The fourth reactor eliminates some of
+the unwanted byproducts that cause the resulting fuel
+to congeal at low temperatures.
+The key is the zeolites, porous minerals made up of
+aluminum, silicon, and oxygen that allow the desired
+chemical reactions to take place. Both Primus and a
+conventional oil refinery employ zeolites to manipulate
+hydrocarbons. At an oil refinery, these catalysts
+help crack and sort hydrocarbons broken down from
+crude oil. At Primus, heat and pressure allow zeolites
+to build gasoline hydrocarbons from the smaller molecules
+of syngas. Such “catalysts are a bit of a dark art,”
+says Boyajian. He spars with Fang over whether or not
+the company will one day make their own. Fang does
+not accept Boyajian’s need for secrecy, and would be
+more than happy to reveal all those dark arts—a prospect
+that makes the affable Boyajian nervous and tightlipped.
+For now, the fledgling company buys the necessary
+catalysts off the shelf and must sign agreements
+not to examine these zeolites too closely.
+Using different catalysts in the reactors, Fang notes,
+the company could spit out diesel or jet fuel instead
+of gasoline. And for every 100 kilograms of syngas,
+he says, Primus can make 30 kilograms of gasoline or
+more, using a continuous looping system within the
+machine that eliminates the need for wasting energy
+to convert gases to liquids along the way. Little red
+containers of Fang-made gasoline record its characteristics,
+scrawled on masking tape affixed to the sides:
+low vapor pressure, a higher-than-average octane content
+of around 93, and a favorable absence of sulfur
+or benzene. Oil prices have been rising over the last
+month, and are currently at more than $100 per barrel;
+the company estimates that its gasoline costs as little
+as that derived from oil at $65 per barrel—and could
+25
+NAUTILUS EDUCATION | BETA PRODUCT
+cost as little as $2 per gallon, or about half the price
+gas currently goes for at local pumps, to produce at a
+full-sized facility, even though such an industrial plant
+would require a lot of capital to build.
+However, the machine Fang shows me is not running
+on the biomass that Fang originally tested: wood
+chips, switchgrass, canary grass, miscanthus. Instead,
+it churns through natural gas, turning methane into
+syngas. Making long hydrocarbons from the single carbon
+in methane molecules is “very easy,” he assures
+me. But “natural gas is not true green,” he concedes.
+“There is no benefit in [the reduction of] greenhouse
+gases. Biomass is still true green.”
+Natural gas from the fracking boom has revolutionized
+the global energy landscape—particularly in the
+United States, the world’s biggest producer of shale
+gas. But it is also controversial. Gas burns cleaner, but
+it still produces around half the greenhouse emissions
+of its dirtier cousins like coal, not including the excess
+methane that leaks from fracking sites and the pipelines
+that transport the gas. Fracked gas can also contaminate
+groundwater supplies. And while in 2012 it
+brought America’s carbon footprint down to its lowest
+level in 20 years, relying on it in the long-term will
+make it hard to eliminate greenhouse gas emissions, as
+is required to combat climate change.
+As the price of natural gas slid in response to the
+glut of shale gas, Primus changed gears in mid-2012
+to move away from biomass and to focus on making
+syngas from natural gas. This is not a new idea: ExxonMobil
+built a plant in New Zealand in 1986 to turn
+natural gas into methanol and then gasoline, but abandoned
+its efforts when the price of petroleum dropped
+dramatically in the mid 1990s. Now, though, natural
+gas is cheap and attractive. Boyajian has a map of all
+the shale formations in North America tacked to the
+wall of his office. “The world is full of shale,” he notes.
+An earlier version of Primus’ machine, tuned to process
+biomass, sits swathed in silvery insulating tape
+in a locked and darkened lab. “Right now it is abandoned,”
+Fang says. The company insists that the statement
+doesn’t apply to Primus’s biomass efforts more
+generally. “This is the way to get to biofuels,” says Primus
+CEO Robert Johnsen, of the gas to gasoline process,
+through a tight smile. “Will we be the ones to get
+there? Maybe.”
+The energy in these fuels
+is the pent-up power of
+ancient sunlight, which
+billions of photosynthetic
+microorganisms soaked up
+before dying.
+26
+NAUTIL. US | TEXT SETS
+Will natural gas be a bridge for Primus to green
+fuel, or will it be too cheap and attractive to resist as
+a permanent substitute for biomass? For the moment,
+the company seems keen to squeeze what it can out of
+the shale gale. With the help of more than $50 million
+in Israeli money, Primus is building a demonstration
+plant the size of a house near its headquarters in New
+Jersey, due to open this year. The location is off the
+map—even Google won’t guide you there, as if it were
+some secretive skunk works facility, which is how the
+company likes to think of it. The plant will take natural
+gas from the local utility, run it through its proprietary
+set of chemical reactions and, on the far end, out of a
+spigot, will come gasoline—12.7 gallons per hour at full
+capacity. The company’s first commercial plant, due to
+start construction next year, will likely be located near
+a source of natural gas.
+Scaling up the technology this way will reduce the
+overhead costs per unit of gasoline—that is, the cost
+of fabricating the reactors and buying the zeolites and
+feedstocks. Plus, Primus’ technology may prove economical
+enough at a scale small to allow its plants to
+be distributed close to remote natural gas wells or even
+sources of biomass. It is no coincidence that the company
+based itself in verdant New Jersey, “the Garden
+State”; proximity to biomass is crucial for producers,
+because transporting heavy and unwieldy wood or
+corn stalks across large distances tends makes the end
+product too costly and undercuts the greenhouse-gas
+savings that are a large part of its appeal.
+As I prepare to drive off, Fang carts out one of his
+collection of red plastic gas cans and dumps a liter or
+so of Primus-made, natural gas-to-gasoline fuel into
+my tank. A test car tooled around on it last summer,
+with no problems. The hope is to be able to charge
+a premium for the higher-octane premium product.
+“People pay twice as much for organic food,” Boyajian
+says. “So why not pay more for green gasoline?” My
+fuel sensor can tell the difference: it registers an anomalously
+high miles-per-gallon number.
+Fang gives me two thumbs up as I pull away, watching
+me drive off on his preferred solution to the energy
+crisis. It’s unclear whether Primus will ever find
+the occasion to turn back towards biogasoline—and
+whether that’s a long-term fix for the world’s energy
+and environmental conundrum. Striving to make
+cleaner fuel for standard, dirty combustion engines
+may reinforce drivers’ loyalty to today’s technology.
+Such lock-in makes a true revolution difficult until
+some alternative energy source—whether batterydriven
+electric cars or engines modified to burn carbon-neutral,
+as-yet-unmade biofuels—offers the kind
+of convenience and low cost that justifies replacement.
+At present, Primus appears set to become part of a
+sprawling infrastructure that reinforces the incentives
+to use greenhouse gas-producing, gasoline-like fuels.
+And for all those concentrated octanes in my tank, I
+still have to pull into a Shell station to fill up on conventional
+gasoline, blended with corn ethanol, in order
+to drive home.
+david biello is the Environment and Energy Editor for
+Scientific American. He is currently working on a book about the
+Anthropocene.
+27
+NAUTILUS EDUCATION | BETA PRODUCT
+Genetics & Human Health
+Since DNA is often heralded as the “code of life,” what clues can mutations—changes to the DNA
+sequence—tell us about human health and disease? The pair of articles in the Genetics and Human
+Health module will explore the consequences of mutations in the context of cancer treatment
+and rare diseases such as muscular dystrophy. Their Giant Steps to a Cure discusses the challenges
+associated with treating a rare form of muscular dystrophy. An Unlikely Cure Signals Hope for
+Cancer explores how specific mutations in a patient’s cancer can be used to a patient’s advantage.
+Lesson Plan
+Ask students to read both of the articles for homework. Briefly introduce or review the vocabulary words in class.
+Assign the questions listed under “Reading Comprehension” for them to complete along with the reading and
+ask them to come up with one question for further discussion.
+Start class by asking students if they have any questions about the readings. Ask them to contribute their discussion
+questions (in addition to the ones provided under Deep Thinking / Discussion questions). Have the class
+brainstorm and answer both discussion questions. 15 MIN .
+Next, break the class up into four groups for the Suggested Activity. Assign each group to one protein that is listed
+in the interactive. 15 MIN .
+Have each group present their thoughts to the class for further discussion. 15 MIN .
+Teacher’s Notes: Their Giant Steps to a Cure, and An Unlikely Cure Signals Hope for Cancer
+VOCAB WORDS
+Muscular dystrophy: a genetic disease marked by
+progressive weakening of the muscles. Some forms of
+muscular dystrophy are seen in infancy or childhood.
+Orphan diseases: diseases that have yet to be “adopted”
+by the pharmaceutical industry because there are
+very few incentives to develop new medications to
+treat or prevent them. Orphan diseases can be rare
+or they are common diseases that have been ignored
+(e.g.: tuberculosis, cholera, typhoid, malaria).
+Calpainopathy: a rare type of muscular dystrophy
+characterized by symmetric and progressive weakness
+of proximal (limb-girdle) muscles.
+Cancer: A term used to describe disease in which
+abnormal cells divide without control and are able to
+invade into other tissues. Cancers are often categorized
+based on the organ or cell type they originate in.
+Oncologist: A doctor who specializes in treating
+patients with cancer.
+Outlier: An observation that deviates from a majority
+and can be seen to be a rare event. In the context
+of this piece, the outliers are patients who respond
+28
+NAUTIL. US | TEXT SETS
+to therapy when the same therapy has failed other
+patients.
+Remission: a decline or disappearance of signs and
+symptoms of cancer.
+READING COMPREHENSION
+1. Why are orphan diseases underfunded?
+2. How does the mutation in calpain 3 cause muscle
+to fail to grow?
+3. What are some reasons pharmaceutical companies
+would want to develop drugs for orphan
+diseases? What are some possible reasons they
+would be against doing so?
+4. Statistically speaking, outliers are often ignored.
+In this story, why is patient number 45 such an
+interesting case? Why is it generally important to
+study the outliers of response?
+5. Which protein’s activity is blocked by everolimus?
+What is the function of this particular
+protein?
+DISCUSSION QUESTIONS
+1. In what contexts would it be desirable and undesirable
+to sequence your genome to see if you
+are at risk for a disease? What are the benefits
+and downsides of knowing if you are at risk for a
+particular disease?
+2. In both pieces, mutations are responsible for
+causing disease. Compare and contrast the ways
+mutations can lead to muscular dystrophy and
+cancer. Are the mutations in one case hereditary?
+Are mutations leading to either disease caused
+by environmental factors? Are the mutations in
+either case preventable? If so, how could they be
+prevented?
+3. How should doctors and scientists decide
+whether to work on a rare condition?
+ACTIVITIES
+Some genes are not specific to humans, but rather,
+are common to myriad species. In a smaller group,
+you will be assigned to read about one of the proteins
+listed here: http://nautil.us/issue/5/fame/
+genes-that-won-the-fame-game
+Please answer the following questions when it is your turn
+to present to the class:
+1. What organisms is the gene present in? Were you
+surprised by the presence of the gene in any of
+the organisms listed? If so, why?
+2. If this protein was mutated, what could the consequences
+look like? Could it cause a disease?
+3. Research and present one other case of an outlier
+being useful in science or medicine.
+WHERE THIS FITS IN THE CURRICULUM
+Structure and Function (HS-LS1-1) A cell contains
+genetic information in the form of DNA molecules.
+Genes are regions in the DNA that contain the
+instructions that code for the formation of proteins,
+which carry out most of the work of cells.
+Variation of Traits (HS-LS3-2) Although DNA replication
+is tightly regulated and remarkably accurate,
+errors do occur and result in mutations, which are
+also a source of genetic variation. Mutations can, in
+turn, cause disease and/or affect human health. The
+pattern of mutations can also predict response to
+drugs.
+Inheritance and Variation of Traits - Environmental
+Factors (HS-LS3-3) Technological advances have
+influenced the progress of science and science has
+influenced advances in technology. Technologies have
+evolved to sequence human genes, which can better
+inform doctors of their patients’ health. Likewise,
+pharmaceutical companies have also created many
+drugs for the treatment of human disease.
+29
+
+BIOLOGY | MEDICINE
+Their Giant Steps to a Cure
+Battling a rare form of muscular dystrophy,
+a family finds an activist leader, and hope
+BY JUDE ISABELLA
+N 2007, AT HER high school graduation in Quesnel,
+British Columbia, Ivana Topic stood at the top
+of the auditorium stairs, her long gown skimming
+the floor, her dark brown hair spilling over her
+shoulders. She had on ridiculously high heels. As she
+eased down the stairs, very slowly, she hung on to her
+date. She was afraid her knees would collapse, as her
+muscles were weak for her age.
+From the audience, Ivana’s mother, Marijana,
+watched her daughter’s every step, silently panicking
+and breaking into a sweat. She knew Ivana could easily
+tumble down the stairs and break a limb. The year
+before, Ivana had been diagnosed with muscular dystrophy,
+an incurable genetic disease characterized by
+progressive weakening of the muscles. Antonia, Ivana’s
+younger sister by five years, was later diagnosed with
+the same disease.
+Around the time of Ivana’s graduation, the Topics,
+an unassuming family originally from Croatia, had
+begun adjusting their lives as best they could, inquiring
+about ramps everywhere they went, avoiding walking
+in snow and sleet. For years, Ivana and Antonia had
+been subjected to endless medical tests. In 2010, they
+learned they had a rare form of muscular dystrophy,
+calpainopathy, which affects about 1 in 200,000 people.
+The diagnosis meant both would likely be bound to
+wheelchairs while they were still young women.
+Today, Ivana is 24. In May, she graduated from college
+with a bachelor’s degree in finance and general
+business. She still walks up stairs in her house; her
+bedroom is upstairs. “I’m definitely a fighter, and will
+try and walk for as long as I can,” she says. “When I
+notice I’m falling a lot, when I need help a lot, I will
+go in a chair.”
+Muscular dystrophy treatment is limited to only palliative
+medications and therapies. Ivana herself practices
+yoga. While researchers worldwide are working
+on lasting cures for muscular dystrophy (funded in part
+by the famous Jerry Lewis Telethons), rare forms like
+calpainopathy are “orphans,” with only a fraction of
+ILLUSTRATIONS BY ELLEN WEINSTEIN
+31
+NAUTILUS EDUCATION | BETA PRODUCT
+“I’m definitely a fighter, and will try and
+walk for as long as I can.”
+researchers and funds devoted to them. With quiet
+stoicism, the Topics have accepted that modern medicine
+may not have a solution for their daughters’ disease.
+Still, says Marijana, “Without hope, there’s no
+life.”
+Following a current grassroots trend in medicine,
+many individuals with orphan diseases do not wait for
+the medical industry to care about them. Facing long
+odds, they are forced to raise money to find a potential
+cure themselves. But the Topics live by modest means.
+Marijana runs a daycare center and her husband and
+the childrens’ father, Niko, works for a lumber company.
+They are in no position to mount a quest.
+But then there’s Michele Wrubel, 49, a stay-at-home
+parent from Connecticut who has calpainopathy. For
+years, Wrubel has been a passionate crusader for a
+cure. Affluent and well connected, she doesn’t varnish
+the truth about what it has taken to make the medical
+industry pay attention to her. “To make a difference in
+this disease, you need money and meetings,” she says.
+“Researchers are not going to study a disease unless
+there’s money behind it to fund the research.” For the
+Topics, Wrubel may be their best hope.
+THE GLOBAL GENES PROJECT, an advocacy group,
+estimates 350 million people suffer from orphan diseases
+worldwide. Most rare diseases are genetic and
+tend to appear early in life. About 30 percent of children
+who have them die before reaching their fifth
+birthday. The rest battle their conditions throughout
+life, as most orphan diseases have no cure. Out of the
+7,000 orphan diseases identified to date, with about
+250 new ones added annually, less than 400 can be
+treated therapeutically.
+This year the European Commission gave 144
+million euros to develop 200 new therapies and the
+National Institute of Health allocated $3.5 billion to
+research orphan diseases. Yet some diseases are so rare
+that they remain stepchildren even among orphans.
+As a result, they receive little research attention and
+funding. Neither do they fit the list of billable insurance
+procedures. There’s no standard healthcare path
+to diagnosis, let alone treatment. Similar to the Topics,
+many patients go through an ordeal, which Marijana
+describes as “a blur,” only to find out that medicine
+can’t help them.
+Orphan disease organizations, such as the National
+Organization for Rare Disorders and the Rare Disease
+Foundation, encourage patients to take matters into
+their own hands. “Families have to advocate,” says Isabel
+Jordan, chair of the Rare Disease Foundation. She
+encourages patients to form organizations, find new
+methods of funding, and push for research.
+“Push for research” could be Michele Wrubel’s calling
+card. She was diagnosed with muscular dystrophy
+in her mid-20s. But even though calpainopathy was
+identified nearly 20 years ago—about the same time
+Wrubel got her initial diagnosis—it took almost the
+entire second half of her life to determine that she
+was afflicted with calpainopathy. There were no clinical
+procedures that would lead to a diagnosis.
+“It took a really long time and a very concerted
+effort,” says Wrubel, who walks with canes, submitting
+to a wheelchair for long trips or when in crowded places.
+“If you don’t know what you’re looking for, they don’t
+know what to tell you or how to help you,” she says.
+In 2008, gene sequencing came of age, which aided
+physicians in diagnosing muscular dystrophy subtypes.
+That year, Wrubel’s husband, Lee, who holds a medical
+degree and a master’s in public health from Tufts, an
+MBA from Columbia University, and is a venture capitalist
+in the medical field, tracked down a neurologist
+32
+NAUTIL.US I TEXT SE TS
+NAUTILUS EDUCATION | BETA PRODUCT
+In the quest for a
+cure, she says, “It’s
+a matter of patients
+taking charge of their
+diagnosis.”
+to sequence his wife’s genomes. He paid several thousand
+dollars from his own pocket to learn his wife had
+calpainopathy.
+The Topics had no such luxury. But they did have
+luck. Cornelius Boerkoel, a clinical geneticist at the
+University of British Columbia, enrolled the Topics
+in one of his studies, and so they didn’t have to pay to
+have each of the family member’s genomes sequenced.
+The genome tests gave Ivana and Antonia the bad
+news about calpainopathy. Their younger brother,
+Mario, is free of the disease.
+Scientists classify calpainopathy, or “calpain,” as
+a limb-girdle muscular dystrophy Type 2a, caused
+by a mutation in the gene calpain 3, predominantly
+expressed in skeletal muscle. Those who suffer from
+Type 2a, such as Wrubel, Ivana, and Antonia, generally
+exhibit weak hip flexors—muscles that lift up the
+thigh. The weak flexors give them an awkward gait;
+they swing their legs forward, landing on their toes,
+and then sometimes on the sides or soles of their feet.
+Some walk only on the balls of their feet. The upper
+body muscle weakness creates abnormally prominent
+shoulder blades.
+Melissa Spencer from the University of California,
+Los Angeles, who has studied calpainopathy for 14
+years, explains that the disease contains many subtypes.
+The problem with Type 2a, she says, “was a
+34
+NAUTIL. US | TEXT SETS
+really strange gene mutation that was completely inexplicable.”
+She says it has been a hard disease to study,
+partially because the implicated protein is unstable
+and partially because it was a rarity among the orphan
+diseases. When it comes to funding, calpainopathy
+has been overshadowed by other forms of muscular
+dystrophy. “Muscle studies have been underfunded
+forever and certainly a rare disease like 2a especially
+underfunded,” Spencer says.
+In 2010, Wrubel formed the nonprofit Coalition to
+Cure Calpain 3. In the quest for a cure, she says, “It’s
+a matter of patients taking charge of their diagnosis.”
+She reached out to other sufferers via Facebook, and
+some donated money. She partnered up with two other
+nonprofits that had raised funds on their own, both
+started by those afflicted with Type 2a. So far Wrubel’s
+efforts have gathered close to half a million dollars.
+With that money, she has funded a project with Louis
+Kunkel, professor of genetics and pediatrics at Boston
+Children’s Hospital, one of the nation’s key muscular
+dystrophy researchers.
+Her coalition also organized a conference to bring
+calpainopathy researchers together, including Spencer.
+Years earlier, in 2005, Spencer made a significant
+breakthrough. She discovered that calpainopathy,
+unlike more common forms of muscular dystrophy,
+was not a weakening of the muscle but a growth problem—muscle
+forms, but fails to grow because of a
+missing protein. It is different from other muscular
+dystrophies in which the lack of the protein complex,
+dystrophin, damages muscle membranes. “With calpainopathy,
+the muscles lack the growth signal,” she
+says. “It’s not transmitted properly.” That difference
+makes a drug cure more possible. “I think this is going
+to be the easiest muscular dystrophy to cure,” she says.
+Encouraged by the promise, the Coalition to Cure
+Calpain 3 gave Spencer’s lab a $260,000 grant to
+investigate how to circumvent the signaling problem
+and come up with a drug to fix it. But because the
+United States Food and Drug Administration already
+has a library of approved compounds that stimulate
+cell growth in muscle, Spencer’s team may arrive at
+a solution sooner. With the help of the coalition’s
+money, her lab is now plowing through the thousands
+of existing compounds, choosing those fit for testing.
+“I think it will be five years before we start thinking
+about clinical trials,” Spencer says—and then another
+five years before the drugs can be commercially available,
+she estimates.
+Wrubel’s coalition intends to get pharmaceutical
+companies interested, too. “Many pharmaceutical companies
+see treating orphan diseases as a way to increase
+profits,” Wrubel says. Her husband, Lee, adds, “The
+whole model for big pharmaceutical companies going
+forward is different. There is too little in the big pharmaceutical
+pipeline, and they’re looking to feed that
+beast as much as possible.” A 2012 Thomson Reuters
+study found that drug companies stand to profit from
+orphan drugs because, compared to drugs for common
+afflictions, they often have shorter and less expensive
+clinical trials, with more success. Spencer says a drug
+for calpainopathy, for instance, would also be useful
+for patients with Lou Gehrig’s Disease and bed rest
+patients, as it would help arrest the loss of bone and
+muscle mass. Wrubel hopes to bring Cydan Development,
+a venture-capital backed orphan drug developer,
+to their upcoming fall conference in the Netherlands.
+As for the Topics, they were excited to learn about
+Wrubel from Nautilus. Ivana recently connected with
+Wrubel through Facebook. “I only talked with her a little
+bit, but she seems ambitious and driven,” Ivana says.
+“Definitely not someone who is going to sit around and
+wait for something to happen. Definitely inspiring. And
+the possibility that something might help in any way is a
+good thing to hear, for sure.” Ivana says she now wants
+to get involved and advocate for her own disease. “I definitely
+want to do something,” she says, and Wrubel’s
+coalition “would be a good place to start.”
+jude isabella is a science writer based in Victoria, Brit-
+ish Columbia. Her new book, Salmon, A Scientific Memoir, will be
+released next year.
+35
+BIOLOGY | MEDICINE
+An Unlikely Cure Signals
+New Hope for Cancer
+How “exceptional responders” are revolutionizing treatment
+for the deadly desease
+BY KAT MCGOWAN
+UST LIKE EVERY NEW drug the oncologists at
+Memorial Sloan-Kettering Cancer Center tested
+against bladder cancer in the last 20 years,
+this one didn’t seem to be doing any good. Forty-four
+people in the study were given everolimus in a
+last-ditch attempt to slow down or stop their advanced
+cancer. When the researchers analyzed the data, they
+could see that the drug wasn’t slowing or stopping
+tumor growth. Everolimus seemed to be another bust.
+Then there was patient number 45. She joined the
+trial with advanced metastatic cancer. Tumors had
+invaded deep into her abdomen, clouding her CT scan
+with solid grey blotches. She was 73 years old. None of
+the standard bladder cancer drugs were working for
+her anymore; she had “failed treatment,” in the dismal
+lingo of oncologists. She enrolled in the study only
+because she happened to be a patient at Sloan-Kettering
+in January 2010. In April 2010, her cancer was gone.
+This sort of happy surprise is not unheard of
+in drug studies. Bodies are fluky, each with its own
+idiosyncratic combination of genetic blueprints and
+environmental inputs. So sometimes a patient will be
+cured by a drug that is useless for everyone else. In
+the past, these spectacular reactions were written off
+as outlier responses that defied explanation—medical
+mysteries. Doctors just shrugged their shoulders and
+thanked their lucky stars that even though the study
+tanked, they did manage to help one person.
+But this time was different. Clinical oncologist
+David Solit, director of developmental therapeutics
+at Sloan-Kettering, saw a new opportunity to explain
+what happened by sequencing the whole genome of
+the woman’s cancer. Just five years ago, decoding and
+analyzing all 3 billion bases of the DNA from a tumor
+would’ve been absurdly time-consuming and expensive.
+Now the sequencing takes as little as a few days.
+Poring over the outlier patient’s genetic code, Solit
+pinpointed two mutations that made her tumor sensitive
+to this drug. He found that one of her mutations
+shows up in about 8 to 10 percent of other bladder cancer
+patients, meaning that they too might be helped
+by everolimus. His success has inspired a whole set of
+ILLUSTRATION BY ELLEN WEINSTEIN
+36
+NAUTIL. US | TEXT SETS
+programs to study “exceptional responders”: those rare
+cancer patients who do well while nobody else does.
+Cancer is a personal disease, Solit explains. Each
+tumor constitutes its own world of defective genes and
+proteins. By studying the genetic quirks of exceptional
+responders, physicians can systematically identify
+weaknesses in cancer subtypes and blast them with
+drugs that target their unique vulnerabilities. “It’s a
+testament to how much has been learned about the
+genome in the past 30 years,” Solit says. “We’ve always
+wanted to find out why some individuals respond so
+well. Now we have the capacity. It’s going to really
+change the way we treat patients.”
+UNLIKELY CASES HAVE AN eminent history in medicine.
+The modern science of the mind owes a lot to
+the freakish accident suffered by Phineas Gage, a
+19th century railroad construction foreman whose
+job involved packing down explosive powder with a
+three-and-a-half-foot-long iron tamping rod. On Sept.
+13, 1848, the powder exploded in his face, blasting the
+rod up through his chin and out the back of his head.
+Against all odds, he survived. But his personality was
+transformed. The formerly shrewd and patient Gage
+became obnoxious and unreliable.
+An observant doctor named John Martyn Harlow
+who cared for Gage proposed that his personality
+change was due to the destruction of the frontal lobe
+of the left side of the brain. Gage’s unlikely transformation
+revealed a universal truth about brains, that
+particular parts—the frontal lobes—are required for
+self-control. The strange case of Phineas Gage is still
+mentioned in neuroscience textbooks.
+Rare events can also lead to new cures. As the story
+goes, English physician Edward Jenner’s observations
+of an 18th century milkmaid who caught cowpox and
+thereby became immune to smallpox paved the way for
+the fi vaccines. New ideas for curing HIV are emerging
+from the famously unlucky lucky case of the “Berlin
+patient.” Timothy Ray Brown, who was HIV positive,
+developed blood cancer leukemia in 2006. His chemotherapy
+and radiation treatments wiped out the cells
+of his immune system, where the virus is believed to
+hide. He then got a bone marrow transplant from one
+of those rare people with a gene mutation that makes
+them resistant to HIV. Today, Brown still has no sign
+of HIV in his body, and his case has inspired a study
+to genetically engineer HIV-positive patients’ cells to
+resist the virus.
+In the past, cancer researchers weren’t able to
+capitalize on their unexpected outlier successes. Not
+enough was known about the biology of cancer, and
+the right tools hadn’t been invented. “Even if someone
+had a complete remission, you had no way to figure out
+why,” says James Doroshow, director of the Division of
+Cancer Treatment and Diagnosis of the National Cancer
+Institute (NCI). That changed in the 2000s, when
+it became possible to analyze the genetics of cancer
+tumors for clues.
+The first major success came with studies of the
+drug gefitinib in non-small-cell lung cancer (the most
+common kind). Gefitinib helped less than 20 percent
+of the people who took it, but a few outliers had dramatic,
+rapid recoveries. In 2004, two Harvard groups
+found that the responders had mutations in the epidermal
+growth factor receptor (EGFR) gene. EGFR is
+one of many genes that regulates how cells grow and
+when they die, and the mutation basically forced it to
+pump out two or three times as much growth signal as
+it should, fueling the cancer. Gefitinib dialed down the
+signal. A clinical trial later proved that the drug keeps
+tumors at bay for more than nine months in people
+with certain EGFR mutations.
+More insights gleaned from extraordinary responders
+soon followed. One melanoma patient in a study of
+22 people taking sorafenib saw his tumor shrink quickly,
+a response due to a mutation in the gene KIT, which
+regulates cell growth, division and survival. People
+with certain kinds of melanoma, such as the type that
+grows on mucus membranes, now routinely get tested
+for this mutation. The drug helps about 40 percent of
+those with the mutation—an impressive advance in a
+cancer that once had no effective treatment.
+In these studies, investigators had to make educated
+guesses about where in the genome to look for the
+culprit mutations. It was the keys-under-the-lamppost
+phenomenon: They could only examine genes they
+already suspected were involved in the cancer. But as
+the speed and efficiency of DNA sequencing skyrocketed,
+and its price plummeted, it started to look reasonable
+to sequence the whole tumor genome to cast the
+widest possible net. By 2010, when the bladder cancer
+37
+NAUTILUS EDUCATION | BETA PRODUCT
+patient (who doesn’t want her name made public)
+had such a wonderful response to everolimus, the technology
+was ripe to analyze her entire tumor.
+The outlier patient had already gone through several
+rounds of treatment, including surgery at Memorial
+Sloan-Kettering. That was another stroke of luck
+because it allowed Solit’s group to acquire samples of
+her tissue to be sequenced. Cancers typically start with
+mutations that cause cells to divide too much, ignoring
+normal stop signals and evading quality controls that
+repair or prevent errors in DNA reproduction. “Cancer
+is a disease of mutations,” says Solit.
+The outlier patient’s cancer had accumulated 17,136
+mutations, of which 140 seemed most suspect, because
+they appeared in “coding” regions of the genome, the
+segments that include instructions on how to build the
+proteins that do the work in a cell. Out of those 140,
+two looked particularly menacing to Solit. In a gene
+called TSC1, just two of its 8,600 DNA base-pairs were
+missing, but the error would cause the gene to make a
+defective version of the protein it was supposed to create.
+In the gene NF2, an error meant a protein would
+be built only halfway, unable to do its job.
+Solit could now see how these mutations were
+affected by everolimus, a drug typically used to suppress
+the immune system after organ transplants, and
+to combat advanced kidney cancer. Everolimus shuts
+down one crucial link in a chain of interacting proteins
+called the mTOR pathway that fuels cell growth, division,
+and survival. The drug inhibits the cells of the
+immune system from dividing, which they must do in
+order to attack foreign tissue, and protects transplanted
+organs. Likewise, it slows down the uncontrolled
+cell division that happens in cancer. The kicker was
+that both of the woman’s mutations, NF2 and TSC1,
+affect the mTOR system. “It’s not surprising, in retrospect,
+that our patient responded really well to this
+specific drug,” Solit says. “She had the mutation that
+activated the pathway the drug targets.”
+Solit’s team analyzed 13 more people from the trial
+and found different TSC1 mutations in three other
+people, including two whose tumor shrank a little in
+response to the drug. (Nobody else had NF2 mutations,
+which is probably why she alone responded dramatically.)
+Meanwhile, eight of nine people whose tumors
+grew during the study did not have the mutation.
+DOROSHOW OF THE National Cancer Institute says
+Solit’s work “turned on the lightbulb.” It showed how
+the analysis of exceptional responders could be made
+systematic. Inspired by his example, the NCI is now
+trawling through its own archives, revisiting outlier
+responses among the roughly 10,000 patients who
+enrolled in NCI-sponsored clinical trials during the
+last decade. Picture the long rows of crates in the government
+warehouse at the end of Raiders of the Lost Ark:
+There’s treasure in there somewhere, if only someone
+would look. “We ought to study these people more,
+since we have the means now,” says Barbara Conley,
+the associate director of the cancer diagnosis program
+at NCI, who leads the project.
+In the few months since the project began, Conley’s
+team have already found about 100 exceptional
+responders. The next steps are to find out if their
+tumors were biopsied, if that tissue sample is still sitting
+in a freezer somewhere, and whether it’s in good
+enough shape to be sequenced. Starting next year, the
+group will start inviting any scientist who is doing a
+clinical trial to submit new cases.
+The NCI project will include whole-genome
+sequencing (provided they have adequate tissue samples)
+and repeated reads of the whole “exome”—the
+1 percent of human DNA that is translated into exons,
+the sequences that are used as templates for protein
+construction. The reason to do both, explains Conley, is
+that cancer cells, even within a single tumor, often have
+a hodgepodge of mutations. Re-doing whole exome
+sequencing dozens of times captures most of the significant
+genetic variation in one tumor, and it’s more
+practical than trying to sequence the whole genome
+over and over. Finally, RNA expression will also be analyzed.
+Evaluating RNA, an intermediary between DNA
+and proteins, provides a measure of which genes are
+switched on and how much protein they’re producing.
+Other elite cancer research centers and genomesequencing
+centers have similar in-house projects.
+Much like the NCI project, the unusual responder program
+at the University of Texas, MD Anderson Cancer
+Center, is beginning by combing through the archives
+to hunt for outliers of the past. A patient at the clinic
+who has an unusual response—good or bad—will also
+be referred for genome sequencing and other kinds of
+genetic analysis.
+38
+NAUTIL. US | TEXT SETS
+Even if each outlier case only applies to 3 or 7 percent
+of one type of cancer, as more cases are solved,
+the benefits quickly add up. “We’re talking about
+small subsets of patients that together make a radical
+change,” says Funda Meric-Bernstam, chair of the
+Department of Investigational Cancer Therapeutics at
+MD Anderson, who leads the unusual responders program.
+In some cases, existing cancer drugs can simply
+be repurposed, such as discovering
+that an immunosuppressant
+drug works for certain bladder
+cancers. Or it might mean finding
+new life for an experimental
+drug that had been abandoned.
+If Conley and Doroshow can
+pinpoint who might be helped
+by an abandoned drug, a pharmaceutical
+company might
+have to do just one or two further
+studies to get that drug
+approved for routine use.
+The future might look something
+like what’s been going on
+for several years at the Genome
+Institute of Washington University,
+where genome sequencing
+is being used to help people
+with relapsed cancers and who
+have run out of options. The
+project puts insights from studies
+like Solit’s into practice, analyzing a patient’s tumor
+to determine whether currently available drugs might
+target the troublemaker mutations. Combining whole
+genome sequencing, exome sequencing, and RNA
+expression analysis—what Washington University professor
+of genetics and Genome Institute co-director
+Elaine Mardis calls the “Maserati approach”—the team
+compares a comprehensive genetic profile against a
+database of drugs that target specific gene variants,
+looking for a match.
+If there is a match, the results can be impressive,
+as was the case with a young Washington University
+doctor with leukemia, Lukas Wartman, who had suffered
+two relapses. In his case, analysis revealed that
+a gene called FLT3 was expressing more RNA than
+normal. A drug that inhibits this gene, usually used in
+kidney cancer, sent his cancer into remission. Washington
+University now has a special genetic test for
+patients with his type of leukemia.
+Just recently, Solit’s group solved another exceptional
+responder mystery—a case of ureteral cancer
+eliminated with a combination of old and new drugs.
+The old drug is a standard chemotherapy treatment
+that prevents DNA from unwinding, which it must do
+in order to duplicate itself during
+cell division. The new one
+sensitizes cells to the effects of
+radiation. This patient turned
+out to have a mutation in RAD50,
+involved in repairing broken
+DNA strands (badly repaired
+DNA can lead to uncontrolled
+cancerous growth). Here, too,
+the outlier finding may lead to
+a new treatment, since about
+4 percent of the other tumors
+Solit has looked at have mutations
+that affect part of the
+RAD50 complex. “To look at
+these individuals’ cancers can
+tell us a lot more than just a
+random case of cancer,” says
+Solit. “There’s a phenotype—a
+response—that gives you information
+about the genes.”
+Solit is now making a quick,
+reliable test for the TSC1 mutation to single out people
+with bladder cancer who might be helped by everolimus,
+and is planning a new study to test the drug in
+them. And the original outlier, the woman with bladder
+cancer? Three years later, she’s still on everolimus
+and still having a “complete response,” Solit says. She’s
+doing fine.
+kat mcgowan is a contributing editor at Discover magazine
+and an independent journalist based in Berkeley, Calif.,
+and New York City.
+39
+EDUCATION@NAUTIL. US

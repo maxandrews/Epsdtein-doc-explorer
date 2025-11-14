@@ -1,0 +1,1008 @@
+﻿User Name: DAVID SCHOEN
+Date and Time: Thursday, February 28, 2019 10:34:00 AM EST
+Job Number: 83853687
+Document (1)
+1. Article: Criminal Enforcement Redundancy: Oversight of Decisions Not to Prosecute, 103 Minn. L. Rev. 844
+Client/Matter: -None-
+Search Terms: cvra and sixth amendment
+Search Type: Terms and Connectors
+Narrowed by:
+Content Type
+Narrowed by
+Secondary Materials
+Sources: Law Reviews and Journals
+| About LexisNexis | Privacy Policy | Terms & Conditions | Copyright © 2019 LexisNexis
+DAVID SCHOEN
+Article: Criminal Enforcement Redundancy: Oversight of Decisions Not to Prosecute
+Reporter
+103 Minn. L. Rev. 844 *
+December, 2018
+Length: 23570 words
+Author: Darryl K. Brown*
++ O. M. Vicars Professor of Law and Barron F. Black Research Professor of Law, University of Virginia School of Law.
+Copyright © 2018 by Darryl K. Brown.
+Text
+[*844]
+INTRODUCTION
+In light of concerns about mass incarceration and excessive search practices by police, 1 underenforcement of criminal law is
+not the first problem that springs to mind for American criminal justice. But in fact, some of the prominent contemporary
+complaints about U.S. criminal justice, as well as some longstanding ones, object to underenforcement of criminal law. Two of
+the most notable categories are failures to prosecute in cases of unjustified police violence, especially against nonwhite victims,
+and in cases of sexual assaults. Lower-profile examples abound as well, as do historical examples.
+Given the nation's history, underenforcement problems are often related to race. Insufficient law enforcement attention to
+crimes in minority neighborhoods, for example, has been criticized as depriving African American victims and communities of
+their fair share of government protection from criminal harm. 2 In earlier eras, law enforcement inattention to, or wholesale
+neglect [*845] of, white offenders' victimization of black victims - in lynchings, attacks on civil right activists, sexual assaults,
+and other contexts - was often patent. 3 But the problem of unjustified underenforcement is not confined to these contexts, nor
+to the United States. Failures to prosecute arise from a fundamental structural challenge faced by all criminal justice systems:
+how to ensure unbiased, evenhanded enforcement practices - safeguards in favor of justified enforcement. This challenge gets
+less attention than criminal procedure's central preoccupation of guarding against excessive or groundless criminal charges.
+Concern about misuse of the state's prosecution authority rightly motivates much in criminal procedure, from search and
+seizure rules 4 and judicial review of arrests 5 to evidence disclosure duties, 6 the right to counsel, 7 and standards of proof. 8
+1
+U.S. incarceration rates quintupled over the last forty years and are five to seven times higher than those in other advanced democracies.
+See Floyd v. City of New York, 959 F. Supp. 2d 540, 572-602 (S.D.N.Y. 2013) (documenting and holding unconstitutional widespread stopand-frisk
+practices by New York City police that disproportionately targeted non-white men); Michelle Alexander, The New Jim Crow: Mass
+Incarceration in the Age of Colorblindness 6-9 (2010); World Prison Brief Data, Inst. for Crim. Pol'y Res. (2016),
+http://www.prisonstudies.org/country/united-states-america (comparing national data on total prison population and incarceration rates and
+reporting that the United States has the world's largest prison population at 2,217,947 inmates).
+2
+Randall Kennedy, Race, Crime, and the Law 29 (1997).
+3
+See, e.g., Equal Justice Initiative, Lynching in America: Confronting the Legacy of Racial Terror 39, 48 (3d ed. 2017) (documenting
+approximately 4000 lynchings in the years 1877-1950; about one percent resulted in a conviction for perpetrators).
+4
+See generally Wayne R. LaFave et al., Criminal Procedure 126-63, 512-49 (5th ed. 2009) (discussing search and seizure rules).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *845
+Page 2 of 42
+Structural responses to the state declining to use its enforcement authority are much fewer and less prominent. At least in
+common law countries, enforcement decisions are the province of police and prosecutor discretion, and oversight of officials'
+failures to enforce has been left almost wholly to the political process. Decisions to search, arrest, or charge face modest
+judicial scrutiny on evidentiary grounds and - at the extreme margins - racial or [*846] ethnic bias. 9 Decisions not to arrest or
+charge are virtually immune from judicial review or other nonpolitical oversight. 10 Like other common law jurisdictions, U.S.
+justice systems have always rejected an approach long adopted in some civil law jurisdictions to prevent unjustified and
+disparate nonenforcement - a rule of mandatory prosecution that restricts executive officials' discretion over arrest and charging
+decisions. 11
+A broader view, however, reveals that all criminal justice systems incorporate one or more strategies to address
+underenforcement, which can be collectively described as redundant charging authority. All are to some degree familiar,
+though they are not usually described in these terms or understood as serving this common purpose.
+One approach is creation of two distinct enforcement agencies with overlapping or duplicative jurisdiction. This model is a
+familiar safeguard against underenforcement of transnational crimes or crimes on the high seas; international criminal law
+routinely grants nation-states coextensive, duplicative jurisdiction to enforce international or domestic criminal laws outside
+their borders. International treaties on subjects such as public corruption, drug trafficking, and human trafficking 12 can be
+understood as agreements to create enforcement redundancy among national criminal justice agencies to solve
+underenforcement problems by particular states. 13 The same arrangement occurs domestically for enforcement of civil or
+regulatory law when administrative agencies have overlapping, and thus redundant, [*847] jurisdiction over the same
+regulated activities. 14 The most important version of this model in the United States, however, is criminal justice federalism.
+Due to the steady growth of federal criminal law, jurisdiction, and institutional capacity over the last century, state and federal
+5
+Gerstein v. Pugh, 420 U.S. 103, 111-16 (1975) (holding that the Fourth Amendment requires a judicial determination of probable cause
+prior to extended detention); County of Riverside v. McLaughlin, 500 U.S. 44, 52-58 (1991) (defining "prompt" under Gerstein's requirement
+of a prompt judicial determination of probable cause).
+6
+Brady v. Maryland, 373 U.S. 83, 86 (1963) (holding prosecution's withholding of the confession of defendant's confederate violated
+defendant's due process rights).
+7
+Gideon v. Wainwright, 372 U.S. 335, 342 (1963) (extending Sixth Amendment right to assistance of counsel to indigent state criminal
+defendants); Powell v. Alabama, 287 U.S. 45, 53 (1932) (holding defendants' rights to counsel of their choice throughout the prosecution
+process had been violated).
+8
+In re Winship, 397 U.S. 358, 364 (1970) (holding that proof beyond a reasonable doubt is constitutionally required under the Due Process
+Clause).
+9
+United States v. Armstrong, 517 U.S. 456, 456-71 (1996) (examining selective prosecution claim based on racial bias); see also Whren v.
+United States, 517 U.S. 806, 813 (1996) (holding that, in assessing the legality of police decisions to stop suspects under the Fourth
+Amendment, courts should ignore officers' subjective motivations).
+10
+See, e.g., Abby L. Dennis, Reining in the Minister of Justice: Prosecutorial Oversight and the Superseder Power, 57 Duke L.J. 131, 132-33
+(2007) (describing prosecutors' "limitless, unmonitored and … unreviewable power").
+11
+See infra Part II.B.
+12
+See Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children, G.A. Res. 55/25, annex II (Nov.
+15, 2000), https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html; United Nations Office on Drugs & Crime, World Drug
+Report 2017, U.N. Sales No. E.17.XI.7 (2017), https://www.unodc.org/wdr2017/index.html; U.S. Dep't of State, Trafficking in Persons
+Report 438 ( 2017), https://www.state.gov/documents/organization/271339.pdf.
+13
+See Neil Boister, An Introduction to Transnational Criminal Law 135-95 (2d ed. 2012),
+http://opil.ouplaw.com/view/10.1093/law/9780199605385.001.0001/law-9780199605385-chapter-12.
+14
+See Jacob E. Gersen, Overlapping and Underlapping Jurisdiction in Administrative Law, 2006 Sup. Ct. Rev. 201, 201-03 (2007).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *847
+Page 3 of 42
+law enforcement substantially overlap for many categories of crime. Much of this enforcement redundancy, as considered in
+detail below, has been a deliberate federal response to diverse problems of underenforcement in state criminal justice. The
+point for now, however, is the functional equivalence of duplicative federal-state jurisdiction, nation-state jurisdiction, and
+agency jurisdiction. All represent a common strategy to reduce underenforcement by empowering redundant enforcement
+authorities: independent entities with equivalent institutional capacity and expertise share jurisdiction. If one neglects to
+enforce, the other may. Functionally, each backstops, or provides oversight of, failures to enforce by the other.
+A second model for minimizing unjustified failures to prosecute relies on private actors to create redundancy with public
+prosecutors' authority. Empowering private actors to file and litigate public law claims is familiar in many civil law contexts;
+numerous federal statutes authorize private rights of action that enable private individuals or groups to supplement public
+agencies' law enforcement efforts. 15 Through much of the nineteenth century, this kind of duplicative public-private
+enforcement authority was a familiar feature in the criminal justice systems of many states, which permitted private parties -
+victims - to prosecute alleged criminal wrongdoing.
+Redundant charging authority takes other forms as well. In large hierarchical agencies such as the U.S. Department of Justice,
+internal administrative review of front-line prosecutors' charging or declination decisions by higher-ups creates a version of
+redundant enforcement authority; supervisors can make independent determinations and reverse front-line prosecutors. 16
+[*848] This kind of redundancy through administrative review now exists in English, Irish, and many European criminal
+justice systems. 17
+More ambitiously from a U.S. perspective - because it is rare here - judicial power to review prosecutorial charging decisions is
+another means to create some degree of redundant charging authority between the executive and judicial branches. Although
+criminal charging is a core function of the executive branch, state and federal courts have modest authority to review and bar
+executive officials' decisions to file criminal charges. It is only as a matter of policy that courts - with a few exceptions - are not
+empowered to address underenforcement by reviewing the executive's noncharging decisions. (This power is somewhat broader
+for courts in England and Wales as well as in the law of a few states.) 18 This model of redundancy separates charging
+authority - for courts as for Department of Justice supervisors, the power to order prosecutors to prosecute - from enforcement
+authority, which includes the institutional capacity to file and litigate charges. Courts (with rare exceptions) have no
+administrative capacity to litigate a prosecution; but they could provide some redundancy in charging authority. 19
+In sum, charging redundancy can occur between equivalent agencies in separate governments, between public and private
+actors, or between agencies or branches of the same government. Criminal justice systems in Europe and the common law
+world have adopted or strengthened one or more of these mechanisms in recent decades. In the United States, choices among
+these strategies have changed over time and between jurisdictions. Nearly all states that once authorized private prosecution
+have long since prohibited it. Federal prosecutors are organized in a centralized hierarchical agency that makes administrative
+review possible, but few state prosecutors are similarly organized. For these reasons and others, the primary means of
+enforcement redundancy to combat underenforcement is overlapping federal- [*849] state authority made possible by the
+distinctive U.S. model of federalism.
+15
+Examples of federal statutes authorizing private rights of action include the Clayton Act, 15 U.S.C. § 15 (2006) (granting a private right of
+action for antitrust violations); Federal Tort Claims Act, 28 U.S.C. § 2680(h) (1994); Title VI of the Civil Rights Act of 1964, 42 U.S.C. §
+2000e-5(f) (1994); Americans with Disabilities Act, 42 U.S.C. § 12133 (1994). For an overview, see Pamela H. Bucy, Private Justice, 76 S.
+Cal. L. Rev. 1, 12-54 (2002).
+16
+See 18 U.S.C. § 3771(f) (2012) (mandating review of federal prosecutor decisions within the Justice Department upon victim's request).
+17
+See infra Part II.A.1.
+18
+See infra Parts II.B.3-B.4.
+19
+Note that this conception of redundant authority intersects with, but is distinct from, constitutional separation of powers. In a standard
+account (briefly put), separation of powers describes branches of government having distinct roles, authority, and competencies. In the main,
+branches do not do the same things; they do different, rival, and complementary things. But if so empowered by the legislature, courts can
+exercise some degree of charging authority, creating limited redundancy in charging authority between the executive and judicial branches.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *849
+Page 4 of 42
+This Article has several aims. One is to introduce the concept of enforcement redundancy and demonstrate its utility. Another is
+to highlight problems of criminal law underenforcement and to situate contemporary complaints about failures to prosecute
+police violence and sexual assaults as specific examples of broader enforcement deficiencies that stem from bias and favoritism
+in police and prosecutorial discretion. The Article also defends the observation that enforcement redundancy strategies are
+responses to versions of this problem. It then assesses the strengths and weaknesses of different such strategies, with primary
+attention on the effectiveness of the U.S. approach of redundant federal-state authority. A focus on three different categories of
+criminal law underenforcement - government corruption, police violence, and sexual assaults - clarifies differences in the
+effectiveness of the U.S. approach. Federalism has proven an effective response to states' failures to address forms of public
+corruption, and for those crimes, it is likely superior to its alternatives. Federal authority has had some success in compensating
+for states' failures to prosecute police violence and other police wrongdoing, but its efficacy is harder to judge and arguments
+for supplemental redundancy strategies are stronger. For sexual assaults, federal authority has failed to assert any meaningful
+enforcement jurisdiction to compensate for weaknesses in state justice systems. Despite the sustained efforts and notable
+successes of reform advocates in this area, no model of enforcement redundancy has made inroads.
+The Article proceeds as follows. Part II briefly surveys evidence of and reasons for underenforcement. The need for safeguards
+against unjustified nonenforcement has long been recognized in the United States and elsewhere; outside the United States, as
+part of victims' rights reforms, it has been the object of institutional reforms. Part III elaborates the mechanisms available to
+address risks of criminal law underenforcement. The predominant options are (1) some authority for private actors to initiate or
+participate in criminal prosecutions; (2) judicial or administrative review of initial nonprosecution decisions by public
+prosecutors; and (3) authority for a separate, independent public prosecutor's office to bring charges when another prosecutor
+has declined to. Other countries - out of tradition, an absence of federalism, or as part of victims' rights reforms - rely on
+versions of [*850] the first and second options. Part III also considers why U.S. victims' rights laws, which are otherwise
+robust, lack either of these components adopted elsewhere, especially given that many state criminal justice systems relied on
+private prosecution for much of the nineteenth century. The likely answers help explain why the United States relies almost
+exclusively on the third option as a safeguard against underenforcement.
+Finally, Part IV assesses how effectively federalism-based enforcement redundancy addresses underenforcement, particularly
+the recurrent, contemporary controversies around police violence and sexual assault. Redundant enforcement through
+overlapping federalism has had considerable success addressing some underenforcement problems, such as corruption by state
+and local officials, certain kinds of civil rights violations, or crimes against disfavored minority groups. 20 It is doubtful that
+private prosecution or judicial review could match its success. The federalism strategy has a more mixed record on the problem
+of unjustified police violence. Federal officials have succeeded where state officials have failed in overseeing reform of local
+police departments to reduce police lawbreaking, and they occasionally prosecute and convict individual officers. 21 But the
+vast majority of incidents of police violence go unprosecuted, including most that lead to large civil settlements for victims. 22
+20
+See, e.g., David Grann, Killers of the Flower Moon: The Osage Murders and the Birth of the FBI 57 (2017) (describing "corrupt sheriffs
+and police departments" that failed to enforce the law and were unable to solve serial murders of Native American victims); Margaret
+Burnham, The Long Civil Rights Act and Criminal Justice, 95 B.U. L. Rev. 687, 687-88 (2015) (discussing federalism-based redundancy in
+the context of the Civil Rights Acts); Gregory L. Padgett, Racially-Motivated Violence and Intimidation: Inadequate State Enforcement and
+Federal Civil Rights Remedies, 75 J. Crim. L. & Criminology 103, 105 (1984) (advocating for federalism-based enforcement redundancy to
+ensure punishment in crimes against racial minorities).
+21
+On federal reform of local police, see Rachel A. Harmon, Limited Leverage: Federal Remedies and Policing Reform, 32 St. Louis U. Pub.
+L. Rev. 33, 53-56 (2012); Rachel A. Harmon, Promoting Civil Rights Through Proactive Policing Reform, 62 Stan. L. Rev. 1, 20-51 (2009)
+[hereinafter Harmon, Policing Reform].
+22
+Human Rights Watch, Shielded from Justice: Police Brutality and Accountability in the United States 77-84, nn.149-72 (1998),
+https://www.hrw.org/legacy/reports/reports98/police/index.htm (documenting "civil remedies");id. at 89-96, nn.182-200, 92-93 tbls.1-2
+(documenting "low rate of federal prosecutions"); Joanna C. Schwartz, How Governments Pay: Lawsuits, Budgets, and Police Reform, 63
+UCLA L. Rev. 1144, 1147-71 (2016) (documenting civil settlements for police wrongdoing in 100 localities); Ian Simpson, Prosecution of
+U.S. Police for Killings Surges to Highest in Decade, Reuters (Oct. 26, 2015), https://www.reuters.com/article/us-usa-police -
+idUSKCN0SK17L20151026 (noting twelve officers were charged for fatal shootings in the first nine months of 2015, compared to about five
+per year between 2005 and 2014).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *850
+Page 5 of 42
+It is [*851] unclear what portion of those incidents merit criminal prosecution. Key facts are often disputed, and while federal
+and state jurisdiction are coextensive here, federal criminal law generally sets a higher bar for liability than state law, especially
+due to its more onerous mens rea requirement. 23 That makes the former an imperfect backstop to the latter, because they are
+only partially redundant. And as recent changes in federal policy suggest, 24 redundancy between governments is subject to
+political shifts in those governments; federal oversight of state enforcement works only if federal officials are committed to the
+oversight role. Moreover, keeping prosecution in the exclusive province of executive officials keeps prosecutorial discretion
+more closely aligned with political majorities and thereby with popular sentiments about certain groups of defendants (such as
+police officers) and victim groups (such as criminal suspects). In this context, redundancy in state law charging by courts or
+private actors, rather than rival prosecutors, might make a real contribution. Finally, cases of sexual assault reveal a weakness
+of federalism-based redundancy. State and federal criminal jurisdiction in the United States overlap more than elsewhere, but
+they are not wholly coextensive. Federal prosecutors lack authority over most assaults that do not involve public officials or
+federal [*852] property. Sexual assaults are one context in which the enforcement strategies favored in Europe and England -
+regulated private prosecution or review of declination decisions - hold more promise.
+I. UNDERENFORCEMENT AND REASONS NOT TO PROSECUTE
+A. Sources of Unjustified Noncharging Decisions
+Public prosecutors are the gatekeepers of criminal law enforcement, and justice systems employ a variety of safeguards against
+prosecutors' misjudgment, bias, incompetence, or laziness. Most are directed at prosecutors' charging decisions rather than
+decisions declining to charge (i.e., declination decisions), for familiar reasons - charging creates real burdens and risks for
+defendants. 25 Many familiar procedural components are aimed at preventing improper criminal charges or the harm they can
+cause. Requirements that charges are based on sufficient evidence are an obvious example, but double jeopardy laws and
+restrictions on prosecutors' conflicts of interest serve the same purpose. The full range of pretrial and trial procedures designed
+to assure accurate and unbiased adjudication are intended to sort out improper charges and attach punishments only to proper
+ones. 26
+Safeguards against nonenforcement, or unjustified decisions not to prosecute, are fewer, are less explicit, and (in common law
+jurisdictions) are less often in the form of legal rules and mandates. One explanation for this is simply that the interests at stake
+are not as high - no individual faces prosecution and possible punishment. Another is that many non-prosecution decisions
+23
+Police violence is often prosecuted under 18 U.S.C. § 242 (2012) (criminalizing the deprivation of rights under color of law). On
+challenges to prosecuting police violence, including federal law's intent requirement, see Barbara E. Armacost, Organizational Culture and
+Police Misconduct, 72 Geo. Wash. L. Rev. 453, 465-67 (2004); Mary M. Cheh, Are Lawsuits an Answer to Police Brutality?, in Police
+Violence 247, 253, 258-66 (William A. Geller & Hans Toch eds., 1996); John V. Jacobi, Prosecuting Police Misconduct, 2000 Wis. L. Rev.
+789, 806-11 (2000); Paul J. Watford, Screws v. United States and the Birth of Federal Civil Rights Enforcement, 98 Marq. L. Rev. 465, 477-
+86 (2014); Mark Joseph Stern, Why the Feds Can't Charge Darren Wilson: They Should, but the Supreme Court Gutted the Civil Rights Law
+He Violated when He Killed Michael Brown, Slate (Mar. 4, 2015),
+http://www.slate.com/articles/news_and_politics/jurisprudence/2014/11/will_justice_department_charge_darren_wilson_
+supreme_court_gutted_civil.html; William Yeomans, The Cognitive Dissonance of Federal Civil Rights Prosecutions and Race, ACS Blog
+(Feb. 13, 2015), https://www.acslaw.org/acsblog/the-cognitive-dissonance-of-federal-civil-rights -prosecutions-and-race.
+24
+See, e.g., U.S. Attorney Gen., Memorandum: Supporting Federal, State, Local and Tribal Law Enforcement (2017); Sari Horwitz et al.,
+Sessions Orders Justice Department to Review All Police Reform Agreements, Wash. Post (Apr. 3, 2017),
+https://www.washingtonpost.com/world/national -security/sessions-orders-justice-department-to-review-all-police-reform -
+agreements/2017/04/03/ba934058-18bd-11e7-9887-1a5314b56a08_story.html.
+25
+See, e.g., United States v. Armstrong, 517 U.S. 456, 463-66 (1996) (examining the Equal Protection Clause's prohibition on raciallymotivated
+charging); Wayte v. United States, 470 U.S. 598, 608 (1985) (holding due process bars prosecution in retaliation for exercising
+fundamental rights); Kolender v. Lawson, 461 U.S. 352, 355 (1983) (holding due process bars unduly vague offense definitions to reduce
+opportunities for selective enforcement); Papachristou v. Jacksonville, 405 U.S. 156, 162 (1972) (same).
+26
+See Duncan v. Louisiana, 391 U.S. 145, 156 (1968) (regarding trial by jury as a "safeguard against the corrupt or overzealous
+prosecutor").
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *852
+Page 6 of 42
+follow from determinations that there is insufficient evidence to support charging, and common law jurisdictions [*853] have
+long left those assessments in the unregulated discretion of police and prosecutors. 27
+But that is not the whole story. For one, it does not follow from the fact that officials must assess evidentiary sufficiency that
+their assessments should be unregulated or unsupervised. The tradition in civil law jurisdictions is otherwise, and available
+evidence often depends on the effort and priority officials give to finding it. More importantly, how rigorously we guard against
+unmerited nonenforcement depends on how we value the interests harmed by nonenforcement, and on how much we worry
+about nonenforcement for the wrong reasons. Both have changed over time.
+The primary causes of underenforcement are failing to investigate and charge due to biases against certain victims or harms, or
+favoritism toward certain kinds of suspects. 28 Three kinds of crimes - local government corruption, sexual assaults, and
+unjustified uses of force by law enforcement officers - illustrate the link between these risks, failures to enforce, and the
+consequences of underenforcement. Local corruption garners the least public and political attention now; 29 not coincidentally,
+the United States has found an effective model of enforcement redundancy on this front. 30 The justice system's responses to
+sexual assault and police violence, on the other hand, are subjects of heated political and policy debates. 31 There has been
+notable progress in reducing the criminal justice system's disregard of [*854] both kinds of offenses, but underenforcement -
+and almost as important, widespread suspicion of underenforcement - remain significant enough that they illustrate some of the
+key costs of those failures. Suspicion of underenforcement is itself a cost, because it reflects a loss of legitimacy for criminal
+justice institutions. That loss in turn undermines the system's efficacy if citizens decline to report victimization or otherwise
+decline to cooperate with law enforcement officials. Evidence for those effects is strong for both sexual assaults and police
+violence. 32 More generally, underenforcement is a form of unequal treatment that unevenly - and unjustly - distributes the
+important public benefits of criminal law enforcement, including the state's commitment to protect everyone equally from
+unlawful harms. 33 It also deprives victims of the private benefits that criminal justice is now widely recognized to afford, and
+owe, to victims.
+27
+See Morrison v. Olson, 487 U.S. 654, 727-28 (1988) (Scalia, J., dissenting) ("Law enforcement is not automatic … . What every
+prosecutor is practically required to do is to select the cases for prosecution and to select those in which the offense is the most flagrant, the
+public harm the greatest, and the proof the most certain." (quoting Robert H. Jackson, Attorney Gen. of the U.S., Address to the Second
+Annual Conference of United States Attorneys: The Federal Prosecutor (Apr. 1, 1940))); 483 Parl Deb HC (5th ser.) (1951) col. 681 (UK) ("It
+has never been the rule … that suspected criminal offences must automatically be the subject of prosecution.").
+28
+See Alexandra Natapoff, Underenforcement, 75 Fordham L. Rev. 1715, 1722-39 (2006) (documenting underenforcement as a significant
+problem). On underenforcement of sexual assault offenses, see Deborah Tuerkheimer, Underenforcement as Unequal Protection, 57 B.C. L.
+Rev. 1287, 1292-1303 (2016) (discussing empirical evidence of bias leading to underenforcement).
+29
+Concern about public corruption at the federal government level, by contrast, has increased, precisely where criminal and regulatory level
+are somewhat weaker. See, e.g., Zephyr Teachout, Corruption in America: From Benjamin Franklin's Snuff Box to Citizens United 1-16
+(2014).
+30
+See infra Part III.B.1.
+31
+See, e.g., Do Police Use Deadly Force Too Often?, N.Y. Times: Room for Debate (Apr. 9, 2015),
+https://www.nytimes.com/roomfordebate/2015/04/09/are -police-too-quick-to-use-force.
+32
+See Michael Planty et al., U.S. Dep't of Justice, Female Victims of Sexual Violence, 1994-2010, at 6 (2013),
+https://www.bjs.gov/content/pub/pdf/fvsv9410.pdf (estimating portion of sexual assaults reported to police annually varied from fifty-nine to
+thirty-two percent between 2003-10); Nancy Krieger et al., Police Killings and Police Deaths Are Public Health Data and Can Be Counted,
+PLOS Medicine 1-4 (2015), https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1001915&type=printable
+(describing underreporting of killings by police); Kate B. Wolitzky-Taylor et al., Is Reporting of Rape on the Rise? A Comparison of Women
+with Reported Versus Unreported Rape Experiences in the National Women's Study Replication, 26 J. Interpersonal Violence 807, 807-08
+(2011) (estimating fifteen percent of rapes were reported to police in 2006).
+33
+This point is better developed in literature on policing than prosecution. See, e.g., Angela J. Davis, Arbitrary Justice: The Power of the
+American Prosecutor 166 (2007) (noting that prosecutorial discretion can unintentionally "produce inequitable results for similarly situated
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *854
+Page 7 of 42
+1. Underenforcement Against Corruption
+Crimes of corruption by state and local officials are a good example of harms that, at times, criminal justice systems have
+unduly ignored. 34 Local police and prosecutors are not institutionally well-situated to pursue and evaluate those crimes. They
+often have professional, if not personal, ties to other local officials, which heightens the risk of undue favoritism or judgments
+that are otherwise not fully disinterested. That is the main reason [*855] that federal investigators and prosecutors have state
+and local corruption in their portfolios. 35
+2. Underenforcement Against Sexual Assault
+Sexual assault offenses are another context in which underenforcement is now widely recognized, but the causes are different.
+Rather than favoritism toward offenders, the problem seems to be bias against the type of offense, and, in varying degrees,
+against the victims. Failures of police to rigorously pursue allegations of sexual assaults have been widely documented. 36
+Among the explanations that advocates, attorneys and some scholars point to are "the entrenched nature of long-recognized,
+gender-driven biases by police against domestic violence or sexual assault claims" and "against individuals from particular
+groups or under particular circumstances," especially against victims who are poor or are racial, ethnic or gender minorities. 37
+One large-scale empirical study of why rape-kit evidence remained untested, for example, suggested that the explanation in part
+was "negative beliefs and stereotypes about victims, which adversely affected the quality of the investigation." 38 It bears
+noting that much of this bias is understood to be subtle or unconscious patterns built on cultural norms, rather than conscious,
+purposeful disfavor. 39 But when evidentiary records are incomplete or ambiguous, their effects are substantial.
+[*856]
+3. Underenforcement Against Police Excessive Uses of Force
+Failures to prosecute in the wake of police shootings and other possibly excessive uses of force against civilians are scenarios
+that raise suspicions of both bias against victims, many of whom are black men (and often criminal suspects, another disfavored
+victims and defendants"); Natapoff, supra note 28, at 1753; David Alan Sklansky, Police and Democracy, 103 Mich. L. Rev. 1699, 1822
+(2005) (arguing that policing failures in some communities undercuts "the egalitarian project of protecting all citizens from private
+violence").
+34
+The point extends to private actors, especially organized crime, with ties to local officials.
+35
+See infra Part III.B.1. On local corruption, see generally, for example, Corruption and American Cities: Essays and Case Studies in Ethical
+Accountability (Joaquin Jay Gonzalez III &? Roger L. Kemp eds., 2016) (discussing the role of corruption in American cities); James L.
+Merriner, Grafters and Goo Goos: Corruption and Reform in Chicago, 1833-2003 (2004) (discussing the role of corruption in Chicago).
+36
+See Tuerkheimer, supra note 28, at 1292-99.
+37
+ACLU, Responses from the Field: Sexual Assault, Domestic Violence, and Policing 40 (2015); see also Tuerkheimer, supra note 28, at
+1292-99 (citing a range of studies to conclude that "in many jurisdictions, the widespread perception that law enforcement officers will likely
+not pursue allegations of rape [due to race, class or gender bias] is entirely accurate").
+38
+Rebecca Campbell et al., The Detroit Sexual Assault Kit (SAK) Action Research Project (ARP), Final Report 109 (2015).
+39
+Davis, supra note 33, at 23-34; Tuerkheimer, supra note 28 (discussing bias in sexual assault prosecutions); cf. ACLU, supra note 37
+(surveying advocates, service providers, and attorneys, who described "the entrenched nature of long-recognized, gender-driven biases by
+police against domestic violence or sexual assault claims" and "against individuals from particular groups or under particular circumstances,"
+including "bias against survivors of color, and against survivors who are poor, Native American, immigrant, or LGBTQ"); Joshua Correll et
+al., The Police Officer's Dilemma: A Decade of Research on Racial Bias in the Decision to Shoot, 8 Soc. & Personality Psychol. Compass
+201, 202-09 (2014) (finding that police training reduces some forms of racial bias compared to lay people in shooting simulations but
+cautioning training effects may be reduced by real-world stress and fatigue conditions); Jeffery J. Pokorak, Probing the Capital Prosecutor's
+Perspective: Race of the Discretionary Actors, 83 Cornell L. Rev. 1811, 1817 (1998) (discussing unconscious bias in death penalty
+prosecutions).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *856
+Page 8 of 42
+group), and favoritism toward the class of perpetrators, law enforcement officers. 40 In the ordinary organization of criminal
+justice systems, those cases call on officials from one law enforcement agency to assess the evidence against officials from
+another, even when the agencies regularly work together. 41 As in the context of local public corruption, conflict-of-interest
+rules 42 are far from adequate to prevent prosecutors from making judgments in light of such professional relationships and
+circumstances. 43 The possibility of partiality is inevitable. When [*857] that possibility combines with the long history of
+racial disparities in U.S. criminal justice administration, widespread suspicion of non-prosecution decisions in cases of police
+violence against minority civilians is hardly surprising, as the Black Lives Matter movement demonstrates. 44
+4. Other Underenforcement Contexts
+Corruption, sexual assaults, and police violence illustrate the key causes and effects of failures to enforce criminal law, but the
+same forces are recognizably at work in other social contexts. Scholars and advocates have pointed to biases as explanations for
+inadequate law enforcement responses to offenses against undocumented aliens, sex workers, institutionalized persons, and
+targets of anti-LGBT hate crimes. 45 Complaints that police ignored wrongdoing against racial-minority victims in minority
+communities were prominent in the 1970s and 1980s. 46 Some of [*858] the remedies, however - which included harsher
+drug laws adopted with substantial support from African American politicians and communities - have proven deeply
+problematic for those same communities. 47
+Finally, less pernicious biases and favoritism are suspected explanations for lenient enforcement patterns in lower-visibility
+contexts, such as bicyclists killed by motor vehicle drivers, 48 employees injured on the job due to workplace safety violations,
+and bystanders shot by recreational hunters. 49 Even critics of those enforcement decisions in those settings view them as
+products of subtle or unconscious empathy with vehicle drivers, employers, and recreational gun users, which incline officials
+40
+Prison guard assaults on inmates raise the same concerns, although they get less public attention. For a notorious failure to prosecute
+prison guards and law enforcement officials for unjustified lethal force, see generally Heather Ann Thompson, Blood in the Water: The Attica
+Prison Uprising of 1971 and Its Legacy (2016).
+41
+Cf. Paul Cassell, Who Prosecutes the Police? Perceptions of Bias in Police Misconduct Investigations and a Possible Remedy, Wash. Post:
+Vololkh Conspiracy Blog (Dec. 5, 2014), https://www.washingtonpost.com/news/volokh -conspiracy/wp/2014/12/05/who-prosecutes-thepolice-perceptions-of-bias-in-police-misconduct-investigations-and-a-possible-remedy
+(describing the problem of local prosecutors' handling
+police cases as a "perception of bias" rather than a "conflict of interest" and recommending state attorneys general handle police cases). One
+solution, followed in Wisconsin, is to assign investigation of deaths involving law enforcement officers to a state-level investigative agency
+unconnected to the local agency of the officer under investigation.Wis. Stat.§§175.47, 950.04(1v)(do), 950.08(2g)(h) (2014).
+42
+E.g., Criminal Justice Standards 3-1.3 (A.B.A. 2015); cf. Braman v. Corbett, 19 A.3d 1151, 1154 (Pa. Super. Ct. 2011) (describing a
+situation where a district attorney's office recused itself from decision to prosecute on a private complaint alleging the district attorney
+committed rape, and the state attorney general investigated and made the decision not to prosecute).
+43
+For a disturbing account of prosecutorial deference to police, see Nicole Gonzalez Van Cleve, Crook County: Racism and Injustice in
+America's Largest Criminal Court 127-56 (2016); David A. Harris, The Interaction and Relationship Between Prosecutors and Police Officers
+in the United States, and How This Affects Police Reform Efforts, in The Prosecutor in Transnational Perspective 54, 55, 60-63 (Erik Luna &
+Marianne Wade eds., 2012) (describing reasons why the prospect of police reform through the efforts of state prosecutors is "bleak"); Nicole
+Gonzalez Van Cleve, Chicago's Racist Cops and Racist Courts, N.Y. Times (Apr. 14, 2016),
+https://www.nytimes.com/2016/04/15/opinion/chicagos-racist-cops-and-racist-courts.html; see also Kate Levine, The Ultimate Conflict, Slate
+(Sept. 11, 2014),http://www.slate.com/articles/news_ and_politics/jurisprudence/2014/09/local_prosecutor_bob_mcculloch_should_
+not_be_the_one_to_decide_whether_to.html. For a harrowing account of a federal prosecutor who did not show deference to fellow law
+enforcement officials and faced apparent retaliation for it, see Paul Butler, Let's Get Free: A Hip-Hop Theory of Justice 1-21 (2009).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *858
+Page 9 of 42
+to assess conduct as non-negligent rather than reckless. 50 Yet even those relatively benign affinities can lead to sub-optimal
+enforcement policies that might benefit from redundant evaluation of charging decisions.
+B. Other Contributions to Underenforcement
+It is worth noting that prosecutors themselves might not share those biases so much as take account of them in a local
+community and jury pool. Expecting juries will be unreceptive to a case is one reason that some prosecutors cite for not
+charging in some cases. There is evidence for this with regard to hate [*859] crimes against LGBT victim groups, for
+example, 51 and the difficulty prosecutors have faced in convicting police officer defendants is a well-recognized hurdle in
+police violence cases. 52 The same considerations can cut against prosecutions when victims are undocumented immigrants,
+sex workers, prisoners, and suspects in custody. 53 Redundant enforcement authority can do less to redress this barrier,
+although depending on its form, it is not powerless. A separate prosecuting authority might bring better investigation and fact
+development, or different jurisdictional rules that change the composition of jury venires. 54
+Inadequate funding for criminal justice agencies can also play a role in aggravating areas of unjustified underenforcement.
+Lack of public resources is an accepted (and inevitable) justification for declining to prosecute in some cases where evidence is
+sufficient to prove guilt. 55 But funding constraints are [*860] not an affirmative good on par with other policy-based, publicinterest
+justifications for non-prosecution, such as judgments finding that civil, regulatory, or public-health remedies are
+preferable to criminal sanctions, or concluding that third-party harms outweigh prosecution's benefits. 56 Resource constraints
+are a problem justice systems would like to minimize. Two of the three primary forms of enforcement redundancy do exactly
+that, or have in the past. Expanding federal law enforcement jurisdiction over crimes already within state jurisdiction was
+designed to bring federal resources to bear on crimes where state resources were insufficient. 57 And private prosecution,
+where it [*861] still exists, has an equivalent effect - it permits victims to contribute private funds to public enforcement
+efforts. It is no coincidence that common law jurisdictions relied on private prosecution most heavily - through the midnineteenth
+century - when state capacity, including criminal justice infrastructure, was much thinner. 58
+44
+See, e.g., Paul D. Butler, Poor People Lose: Gideon and the Critique of Rights, 122 Yale L.J. 2176, 2204 (2013) (describing protest
+movements and other responses to racially disparate criminal justice policies); Roseanna Sommers, Will Putting Cameras on Police Reduce
+Polarization?, 125 Yale L.J. 1304, 1307-17 (2016) (describing polarized public perceptions of, and protests against, police uses of force and
+non-prosecution of police); What We Believe, Black Lives Matter, https://blacklivesmatter.com/about/what-we-believe (last visited Oct. 30,
+2018).
+45
+See Avlana Eisenberg, Expressive Enforcement, 61 UCLA L. Rev. 858, 861-64 (2014) (studying the reasons prosecutors choose not to
+charge hate crimes); Natapoff, supra note 28 (summarizing evidence of underenforcement of crimes against prostitutes, undocumented
+immigrants, residents of certain low-income neighborhoods, and drug-crime suspects); see also Human Rights Watch, supra note 22, at 102
+("In fiscal year 1997, the [DOJ] Civil Rights Division received a total of 10,891 complaints [against law enforcement officers], … leading to
+twenty-five indictments and informations, involving sixty-seven law enforcement agents; nine were convicted, nineteen entered guilty pleas,
+and four were acquitted."); Ryan Gabrielson et al., Deadly Force, in Black and White, ProPublica (Oct. 10, 2014),
+https://www.propublica.org/article/deadly-force-in-black-and-white ("Analysis of killings by police shows outsize risk for young black
+males.").
+46
+See Kennedy, supra note 2, at 29-75 (providing a broader account of complaints about law enforcement providing insufficient protection
+to black communities); Rod K. Brunson & Ronald Weitzer, Police Relations with Black and White Youths in Different Urban
+Neighborhoods, 44 Urb. Aff. Rev. 858, 876 (2009) ("Perceived police under-protection or poor service in poor, minority neighborhoods has
+been complained about for generations … .").
+47
+Michael Javen Fortner, Black Silent Majority: The Rockefeller Drug Laws and the Politics of Punishment 173-216 (2015) (describing
+support from working-class and middle-class blacks for punitive drugs laws in the 1970s as a means to fight growing disorder in black
+communities); Kennedy, supra note 2, at 351-86; David A. Sklansky, Cocaine, Race, and Equal Protection, 47 Stan. L. Rev. 1283, 1285-90
+(1995) (describing the effects of anti-cocaine laws on black communities). Underenforcement of criminal law by southern states through the
+1960s, when civil rights activists were the victims, are another example.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *861
+Page 10 of 42
+When resource constraints remain, however, they force officials to choose which cases get priority. That creates more
+opportunity for biases and favoritism to play a role in determining which cases to charge and which to forgo. That is especially
+so with crimes in which evidence development is more costly, so officials have to decide whether to invest scarce resources in
+those that require substantial investigative efforts. Both sexual assault and police violence cases often require larger-scale
+investments to develop evidence sufficient for prosecution. Failures to make those investments are common reasons for nonprosecution
+in both contexts. 59
+II. MECHANISMS OF PROSECUTORIAL ACCOUNTABILITY
+For a range of reasons and across a range of contexts, public prosecutors' failures to enforce criminal law have been of
+sufficient concern to lead contemporary justice systems to devise checks against unjustified underenforcement. Approaches
+take three basic forms: (1) limited authority for private parties to initiate or participate in criminal prosecutions; (2) independent
+review of initial non-prosecution decisions, upon petition from a [*862] victim; and (3) multiple, independent public
+prosecution agencies with independent authority to bring charges for the same wrongdoing. Outside the United States, the first
+two options predominate; their expansion in recent years is a direct consequence of broader reforms to expand crime victims'
+rights. 60 U.S. jurisdictions, however, rely almost wholly on the third model. Despite having adopted otherwise expansive
+victims' rights laws in recent decades in response to an influential movement for crime victims' rights, state and federal laws
+consistently and explicitly avoid granting any formal authority to private parties, or courts, over criminal charging. The next
+three Sections provide an overview of these options, where they exist. Largely with regard to U.S. policy choices only, they
+also suggest reasons that one model prevailed over others.
+A. Victim Rights and Private Versus Public Interests
+In the wake of victims' rights movements in North America and Europe, crime victims now have an array of legal rights once
+criminal charges are filed. Victims in the U.S. and European jurisdictions now commonly have rights to participate that include
+rights to consult with prosecutors, to be notified of and present at court proceedings, and to offer statements at stages such as
+hearings on bail, sentencing, and parole. 61
+48
+See Daniel Duane, Is It O.K. to Kill Cyclists?, N.Y. Times (Nov. 9, 2013), https://www.nytimes.com/2013/11/10/opinion/sunday/is-it-okto-kill-cyclists
+.html (discussing failures to prosecute motor vehicle drivers who injure or kill bicyclists); see also BikeMaps.org,
+https://bikemaps.org (last visited Oct. 30, 2018) (displaying a crowd-sourced map of locations of cyclist injuries and fatalities).
+49
+See John F. Decker, Don't Forget to Wear Your Hunter Orange (or Flack Jacket): A Critique on the Lack of Prosecution of Hunting
+"Accidents," 56 S.C. L. Rev. 135, 166-73 (2004).
+50
+See id.; Duane, supra note 48.
+51
+Eisenberg, supra note 45, at 893-96 (discussing data from prosecutor interviews). In the contexts Eisenberg describes, prosecutors
+typically forgo hate-crime offenses in favor of other charges rather than declining to prosecute altogether. Though the focus here is on
+prosecutors, they may not be the key cause of underenforcement. For similar reasons, police may not investigate or arrest in such cases, or if
+they do prosecution can be undermined by lax evidence-gathering. Police practices are the focus on much of the scholarship on
+underenforcement of certain offenses. Much of the literature on inadequate enforcement of sexual assault crimes focuses on weaknesses in
+the police rather than prosecutors. See, e.g., Tuerkheimer, supra note 28, at 1292-99 (discussing evidence of police bias).
+52
+See, e.g., Alan Blinder, Michael Slager, Officer in Walter Scott Shooting, Gets 20-Year Sentence, N.Y. Times (Dec. 7, 2017),
+https://www.nytimes.com/2017/12/07/us/michael-slager-sentence-walter-scott.html (explaining that an officer pled guilty in federal court
+after a 2016 prosecution in state court ended with a hung jury).
+53
+See Natapoff, supra note 28.
+54
+See, e.g., id.
+55
+See U.S. Dep't of Justice, United States Attorneys' Manual § 9-27.230 cmt. 1 (1997) (recognizing limited prosecution resources); see also
+Human Rights Watch, supra note 22, at 99 (listing "lack of investigative or prosecutorial resources" among the most common reasons noted
+by the federal Civil Rights Division for declining to prosecute); U.S. Dep't of Justice, FY 2013 Performance Budget: Civil Rights Division 39
+(noting that strengthening of civil rights enforcement efforts under the "Vulnerable People Priority" policy "has been reversed because full
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *862
+Page 11 of 42
+Under the criminal justice systems of all other major common law countries and nearly all European states, victims' rights also
+include authority to challenge prosecutors' decisions not to prosecute, either by a limited right to initiate prosecutions as private
+parties or by enabling victims to trigger judicial or [*863] administrative review of noncharging decisions. 62 By contrast,
+nearly every U.S. jurisdiction rejects these mechanisms. State and federal laws consistently avoid permitting victims any power
+to challenge or encroach on public prosecutorial authority. Federal law, for example, explicitly dictates that "nothing in this
+[victims' rights] chapter shall be construed to impair the prosecutorial discretion of the Attorney General or any officer under
+his direction." 63 State statutes manifest the same policy in various ways, such as by prohibiting legal remedies for violations
+of participation rights they create. 64 U.S. laws limit victims' participation to "non-dispositive" forms, such as providing
+information and personal statements to prosecutors, judges, and parole boards, which facilitates victims' influence on public
+officials' decisionmaking. 65 But state and federal policy rejects enlisting victims as "agents of accountability" for public
+prosecution. 66
+In U.S. jurisdictions and elsewhere, the conceptual innovation of victims' rights laws was to recognize victims' distinct private
+[*864] interests in public criminal litigation. Most rights are specific entitlements to advance victims' broader, dignitary right
+to be "treated with fairness and with respect for the victim's dignity." 67 These provisions conceive of victims as "agents of
+individual rights" and "independent from systemic interests," and their interests can either conflict or align with those of law
+enforcement. 68 At the same time, victim participation rights can also be understood to serve a broader public interest in
+procedural outcomes, on the premise, for example, that prosecutors' and judges' decisions will improve with direct input from
+victims. Public decisionmaking risks substantive deficiency, and criminal process would be procedurally deficient, without due
+regard for victims' interests. Jurisdictions that empower victims to challenge non-prosecution decisions enable private parties
+themselves to address the problem of criminal law underenforcement. The remainder of this Section provides some detail on
+contemporary forms of private prosecution authority, their capacity to advance public as well as private interests, and reasons
+for its absence (or demise) in U.S. jurisdictions.
+1. Private Prosecution in the Shadow of Public Prosecution
+funding of these program areas was not provided"). In specific contexts as diverse as tax law and marijuana control, legislators intentionally
+limit enforcement budgets in order to restrict enforcement efforts. See Daniel C. Richman, Federal Criminal Law, Congressional Delegation,
+and Enforcement Discretion, 46 UCLA L. Rev. 757, 793-99 (1999) (discussing agency budget appropriations as a mechanism of congressional
+control over some agencies, such as the IRS, more than others, such as the FBI); Rachael Bade, Republicans Seek to Cripple IRS: The GOP's
+Moves Will Gut the Tax Agency, Advocates Warn, Politico (Dec. 11, 2014), https://www.politico.com/story/2014/12/republicans-irsregulations-113484
+(quoting a senator's aim to use "the power of the purse" to "push back on the regulatory overreach" of the IRS and EPA);
+Douglas A. Berman, Mixed Outcomes for Marijuana Reform Efforts in Latest Omnibus Spending Bill from Congress, Sent'g L. & Pol'y Blog
+(Dec. 16, 2015),http://sentencing.typepad.com/sentencing_law_and_policy/2015/week51/index.html (describing H.R. 4660, enacted as part of
+a spending bill, which prohibited spending of Justice Department funding to hinder state medical marijuana policies).
+56
+See, e.g., Crown Prosecution Serv., The Code for Crown Prosecutors 4 (2013),
+https://www.cps.gov.uk/sites/default/files/documents/publications/code_2013_accessible_english.pdf (providing guidelines for England and
+Wales). Familiar policies include declinations based on first-offender or drug-court diversion programs, the adequacy of civil penalties, a
+policy preference for public health responses to drug abuse, and - with regard to marijuana - federal deference to state policymaking. See
+Memorandum from James M. Cole, Deputy Attorney Gen. to U.S. Attorneys, Guidance Regarding Marijuana Enforcement (Aug. 29,
+2013),http://www.justice. gov/iso/opa/resources/3052013829132756857467.pdf (describing Justice Department policy not to prosecute
+marijuana dealers who comply with state law). For local examples, see Joseph Goldstein, Spare a Swipe? New York City Eases Rules for a
+Subway Request, N.Y. Times (Apr. 17, 2016), https://www.nytimes.com/2016/04/18/nyregion/spare-a-swipe-new-york-city-eases-rules-for-asubway-request.html
+(describing a new policy "by the Manhattan district attorney's office to no longer prosecute people arrested for minor
+infractions such as swipe-begging, smoking in the subway, or taking up two seats on a subway car"); Greg LaRose, No Arrests for Pot
+Possession in New Orleans, Council Decides, Nola.com (Mar. 17, 2016),
+https://www.nola.com/politics/index.ssf/2016/03/marijuana_possession_ city_coun.html (reporting city council vote to expand range of
+marijuana offenses for which police do not have to arrest offenders or charge as state criminal misdemeanors); Max Taves & Justin Scheck,
+San Francisco Police Ease Drug Enforcement, Wall St. J. (Aug. 1, 2012),
+https://www.wsj.com/articles/SB10000872396390444226904577559243414878630 (describing police treating drug possession crimes as a
+low priority in part because the chief prosecutor "looks at drug possession as a health issue"). Seattle city voters in 2003 approved Initiative
+75, which established adult personal marijuana use as "Seattle's lowest law enforcement priority." Seattle Voters Approve Initiative Making
+Marijuana Enforcement City's "Lowest Priority," NORML (Sept. 18, 2003),http://norml.org/news/2003/09/18/seattle-voters-approveinitiative-making
+-marijuana-enforcement-city-s-lowest-priority.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *864
+Page 12 of 42
+Public prosecutors now dominate enforcement decisions in both common law-based and civil law-based justice systems
+worldwide. That is hardly surprising, given the far-reaching regulatory scope of modern criminal law and high expectations that
+the state will ensure security against social disorder and innumerable harms, and will intervene in risk creation long before
+manifest criminal conduct or injury. 69 That agenda requires capacity, resources, and expertise that only public agencies can
+marshal. Moreover, a criminal enforcement regime that relied heavily on private plaintiffs would be one skewed against redress
+for poor victims who cannot bear litigation costs to vindicate their own interests. 70 Without safeguards, such a regime [*865]
+also could be at the mercy of the varied, perhaps idiosyncratic motives and interests of private actors lodging criminal
+complaints.
+Still, many countries continue to authorize private citizens to initiate criminal prosecutions when public officials do not, and
+others allow privately funded attorneys to assist or supplement public prosecutors in litigating criminal cases. Canada,
+Australia, New Zealand, and England and Wales all continue to allow private prosecutions, 71 and fifteen of the twenty-eight
+member states of the European Union grant victims some comparable [*866] authority. 72 Details vary across jurisdictions,
+but everywhere private prosecutors' authority is limited by oversight from public [*867] prosecutors and courts. 73 The
+standard common law model is that public prosecutors retain the power to take over privately filed charges and then either try
+the case themselves, negotiate a plea bargain, or - more commonly when intervention occurs - dismiss the charges altogether.
+In this framework, private actors can press charges when public officials do not, but functionally they serve primarily as a
+mechanism for political accountability. Through private charging in the wake of public prosecutors' declination, victims force
+public officials to justify publicly their reasons for not charging and for vetoing privately filed charges - and to do so on
+grounds other than public resource constraints, given that a private actor has offered to bear the costs. Given the private cost
+barriers and the capacity of public prosecution agencies, it is unsurprising that, even where permitted, privately initiated
+charges nonetheless contribute to a tiny fraction of prosecutions on criminal dockets. 74
+2. Abolition of Private Prosecution in State Criminal Justice
+U.S. jurisdictions are comparative exceptions; nearly all long ago prohibited privately initiated prosecutions, 75 even though in
+other contexts private actors continue to enforce public law in service of public interests. 76 But private criminal charges were
+57
+See Harmon, Policing Reform, supra note 21, at 20-51. Federal funding to state and local enforcement agencies is a more direct example
+of supplementing resources. Federal influence over local enforcement policies that comes with such funding is an attenuated version of
+enforcement redundancy. Id. at 66.
+58
+On staffing of state prosecutor offices in the nineteenth century, see Nicholas R. Parrillo, Against the Profit Motive: The Salary
+Revolution in American Government, 1780-1940, at 11-23 (2013).
+59
+On sexual assault cases (especially reasons for not testing evidence gathered in rape kits), see Campbell et al., supra note 38, at 60-100;
+Tuerkheimer, supra note 28, at 1297. On police use-of-force cases, see Human Rights Watch, supra note 22, at 99 (reporting that the Justice
+Department Civil Rights Division's "most common reasons for declining prosecution were: weak or insufficient admissible evidence … ; lack
+of evidence of criminal intent; … and lack of investigative or prosecutorial resources"). For a good analysis of how police shootings of
+"unarmed victims" vary widely in critical factual details and why many are justified, see Heather Mac Donald, Black and Unarmed: Behind
+the Numbers: What the Black Lives Matter Movement Misses About Those Police Shootings, Marshall Project (Feb. 8, 2016), https://www
+.themarshallproject.org/2016/02/08/black-and-unarmed-behind-the-numbers.
+60
+See, e.g., Council Directive 2012/29, 2012 O.J. (L 315) 57 (EC), http://eur -lex.europa.eu/legalcontent/EN/TXT/?uri=CELEX:32012L0029
+(defining standards for treatment and rights of crime victims in E.U. member states); Marie
+Manikis, Conceptualizing the Victim Within Criminal Justice Processes in Common Law Tradition, in Oxford Handbook on Criminal
+Process (Darryl K. Brown et al. eds., forthcoming 2019) (manuscript at 18-19) (on file with author).
+61
+For an overview of victim rights in Europe, see Slawomir R. Buczma, An Overview of the Law Concerning Protection of Victims of
+Crime in the View of the Adoption of the Directive 2012/29/EU Establishing Minimum Standards on the Rights, Support and Protection of
+Victims of Crime in the European Union, 14 ERA F. 235, 239-41 (2013). On U.S. jurisdictions, see Crime Victim Rights Act (CVRA), 18
+U.S.C. § 3771(a) (2012) (enumerating the federal rights of victims of crime); Michael Solimine & Kathryn Elvey, Federalism, Federal
+Courts, and Victims' Rights, 64 Cath. U. L. Rev. 909, 913-14 & nn.30-31 (2015) (collecting all thirty-two state constitutional provisions and
+all fifty state statutes relating to victims' rights).
+62
+See infra Part II.B.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *867
+Page 13 of 42
+once common and significant in many state justice systems. U.S. colonies and states created public prosecution offices much
+earlier than England. 77
+[*868] Even so, in the nation's earliest decades, those officials were often part-time or short-term officials, whose duties were
+often primarily quasi-judicial or administrative. 78 For those reasons, in many states those officials coexisted alongside private
+prosecutors with whom they shared some similarities. Early public prosecutors were paid by the case or the conviction 79 and
+pursued cases from private complainants. 80 But by the mid-nineteenth century, every state had public prosecutor offices of
+some sort. 81 Increasingly, they were full-time and accompanied by [*869] public police forces. In this context, private
+prosecutions diminished, then vanished. 82
+However, because public prosecutors continued to suffer from poor funding (and consequently were held in low regard), 83
+some states continued an alternate form of private prosecution: privately funded attorneys could assist in criminal prosecutions
+as long as the public prosecutor supervised or retained formal control. 84 This form of ancillary or supplementary private
+prosecution, which leaves charging decisions in public hands, is still permitted in several states. 85 Otherwise, only vestiges of
+private [*870] prosecution remain in a few states. Pennsylvania seems to have the strongest version: it permits private
+prosecutions for any offense upon the approval from a state prosecutor or a judge. 86 Rhode Island authorizes private
+prosecutions only for misdemeanors. 87 Under state common law, New Hampshire might permit the same for nonjailable
+offenses. 88 Beyond that, judges in many states can issue an arrest warrant or criminal summons based on a private person's
+testimony, but public prosecutors control whether to go forward with the case. 89
+[*871] In sum, U.S. jurisdictions are unusual among common law jurisdictions in having abolished private prosecution as a
+means to vindicate victims' private interests, a supplement to public enforcement resources, and a structural check on selective
+underenforcement from biases in public prosecutors' discretionary decisions not to charge. English authorities, in contrast,
+explicitly recognize this public function for private prosecution. Private actors' authority to second-guess declination decisions -
+charging decision redundancy - operates as "the ultimate safeguard for the citizen against inaction on the part of the
+authorities." 90 The only remnant of this view in the United States seems to be in Pennsylvania. Its courts view victim-initiated
+63
+18 U.S.C. § 3771(d)(6). Elsewhere, regarding victim complaints of rights violations to the Justice Department, the statute provides that
+"the Attorney General … shall be the final arbiter of the complaint, and that there shall be no judicial review of the final decision of the
+Attorney General by a complainant." Id. § 3771(f)(2)(D); see also United States v. Thetford, 935 F. Supp. 2d 1280, 1282 (N.D. Ala. 2013)
+("These rights, however, do not extend to giving crime victims veto power over the prosecutor's discretion."); Does v. United States, 817 F.
+Supp. 2d 1337, 1343 (S.D. Fla. 2011) ("To the extent that the victims' pre-charge CVRA rights impinge upon prosecutorial discretion, under
+the plain language of the statute those rights must yield.").
+64
+See, e.g., Ohio Rev. Code Ann. § 2930.06(A) (West 2004) ("A prosecutor's failure to confer with a victim … does not affect the validity"
+of a decision to dismiss charges, plea agreement, or other disposition). Only a few jurisdictions, such as California and the federal system,
+provide for meaningful enforcement of participation rights by, for example, allowing victims to intervene in trial proceedings to demand
+rights, or to appeal trial court violations; to facilitate a remedy, courts may order that a guilty plea or sentence be re-opened. See Cal. Const.
+art. I, § 28(c)(1) (stating that a victim may enforce a list of enumerated rights in trial or appellate court "as a matter of right"); 18 U.S.C. §
+3771(d); cf. Paroline v. United States, 134 S. Ct. 1710, 1718 (2014) (providing an example of a decision resulting from a victim's appeal of a
+restitution order).
+65
+See Ian Edwards, An Ambiguous Participant: The Crime Victim and Criminal Justice Decision-Making, 44 Brit. J. Criminology 967, 974
+(2004) (classifying "dispositive" and "non-dispositive" forms of victim participation and putting modes of consultation, informationprovision,
+and expression under the latter heading).
+66
+See Marie Manikis, Expanding Participation: Victims as Agents of Accountability in the Criminal Justice Process, Pub. L. 63, 69 n.29
+(2017).
+67
+See, e.g., Ohio Const. art. I, § 10(a) (establishing victims' rights to "fairness, dignity, and respect"); Tex. Const. art. I, § 30(a)(1)
+(establishing victims' "right to be treated with fairness and with respect for the victim's dignity and privacy"); 18 U.S.C. § 3771(a)(8)
+(establishing victims' "right to be treated with fairness and with respect for the victim's dignity").
+68
+Manikis, supra note 60.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *871
+Page 14 of 42
+prosecutions as fulfilling the same structural purpose. Allowing private actors to begin prosecutions meets "the need for a
+system of checks and balances on the office of the district attorney" and "constitutes a recognition by the legislature that the
+office of the district attorney should be subject to a system of checks and balances." 91
+The rarity of private charges in jurisdictions that authorize them hardly justifies their abolition. Private prosecutions should be
+rare in well-functioning public prosecution systems, because public agencies pursue most provable cases and because private
+actors must bear considerable costs to press charges themselves. Moreover, other rules and institutions - including other
+safeguards on prosecutorial charging - endure despite few indications of their utility. There has never been a successful claim
+that a criminal charge violated the Equal Protection prohibition on racially biased charging, 92 but few argue the doctrine lacks
+at least normative value. 93 Grand juries rarely reject prosecutors' [*872] charging requests for indictments, but courts
+continue to tout them as a structural check on prosecutors. 94 Like private prosecution, these safeguards may work by deterring
+biased or ill-conceived prosecutorial decisions; their efficacy is probably impossible to measure.
+A contributing explanation for the U.S. aversion to private prosecution may lie in a familiar theme of U.S. law and history:
+race. During the first several decades of the nineteenth century, when private citizens could prosecute crimes, many states - and
+not only Southern ones - either denied African Americans legal capacity as litigants 95 or barred them from testifying under
+oath on the basis of race. Among other effects, those barriers barred private prosecutions by African Americans. 96 After 1865
+- an era in which rights to litigate and testify were viewed by many as more meaningful than the right to vote 97 - those racebased
+legal disabilities were abolished. 98 In the same period, private charging authority, already on the decline, was abolished
+in most [*873] states that still permitted it. States that retained a formal litigation role for crime victims did so by allowing
+privately funded attorneys to assist in prosecutions filed and controlled by public prosecutors, thus ensuring that public officials
+are the exclusive gatekeepers of criminal law enforcement. Between the 1840s and 1860s, prosecutors had become locally
+elected officials in nearly all states. That effectively aligned their charging monopoly with the preferences of local white
+majorities (or white minorities in localities in which black citizens were the majority, once Southern whites succeeded in
+disenfranchising black citizens). 99 Evidence for the relationship between race and the demise of private prosecution is
+69
+Among myriad examples are crimes of preparation, conspiracy, possession of contraband, consensual exchanges (e.g., of drugs or sex for
+money), and many kinds of criminal attempts. See Andrew Ashworth & Lucia Zedner, Preventive Justice 95-118, 171-223 (2014).
+70
+Douglas Campbell, 2 The Puritan in Holland, England, and America 444 (1892) (criticizing the English system of private prosecution as
+one "by the rich for the rich"); Joan E. Jacoby, The American Prosecutor: A Search for Identity 17 (1980). German victims who challenge a
+non-prosecution decision must put up security to cover the public costs of judicial review. See Strafprozessordnung [StPO] [Code of Criminal
+Procedure], § 176, translation at https://www.gesetze-im-internet.de/englisch_stpo/englisch_stpo .html; Ante Novokmet, The Right of a
+Victim to a Review of a Decision Not to Prosecute as Set out in Article 11 of Directive 2012/29/EU and an Assessment of Its Transposition
+in Germany, Italy, France and Croatia, 12 Utrecht L. Rev. 86, 94 (2016).
+71
+For England and Wales, see Prosecution of Offences Act 1985, c. 23, § 6, https://www.legislation.gov.uk/ukpga/1985/23 (stating that the
+creation of Crown Prosecution Service shall not "preclude any person from instituting any criminal proceedings or conducting any criminal
+proceedings"). For Canada, see, for example, Ontario Provincial Offences Act, R.S.O. 1990, c. P.33; Director of Public Prosecutions Act,
+S.C. 2006, c 9, § 121, para. 3(3)(f) (describing DPP "duties and functions," which includes "exercising the authority of the Attorney General
+respecting private prosecutions, including to intervene and assume the conduct of - or direct the stay of - such prosecutions"); Private
+Prosecutions, Ministry Att'y Gen., https://www.attorneygeneral.jus.gov.on.ca/english/private_prosecution.php (last modified Oct. 29, 2015)
+(describing private prosecutions and noting "the Criminal Code and the Crown Attorneys Act authorize Crown Counsel to supervise privately
+laid charges to ensure that such prosecutions are in the best interest of the administration of justice" and to "take over the prosecution" of
+indictable offences); Private Prosecutions, Pub. Prosecution Serv. Can.,http://www.ppsc-sppc.gc.ca/eng/pub/fpsd-sfpg/fps-sfp/fpd/ch26 .html
+(last modified Dec. 24, 2008). For Australia, see, for example, Director of Public Prosecutions Act 1983 s 10(2) (Austl.) (preserving private
+prosecution); id. s 9(5) (giving the Director power to take over a prosecution for a Commonwealth offence that has been instituted by another
+and either carry on or discontinue it); Annual Report 2014-15, Commonwealth Dir. Pub. Prosecutions (2015), https://www.cdpp.gov.au/2014
+-15-annual-report-html-0 (reporting three private prosecutions in 2014-15, two of which were discontinued by the DPP); see also Director of
+Public Prosecutions Act 1984 (Queensl.) s 10(c)(2) (Austl.) (giving DPP the power to "take over and conduct" criminal proceedings);
+Director of Public Prosecutions Act 1986 (N.S.W.) s 9 (Austl.) (using similar language to Commonwealth DPP Act); Dir. of Pub.
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *873
+Page 15 of 42
+correlative rather than causal, but it nonetheless suggests a reason for why state justice systems took a different path from other
+common-law jurisdictions and abolished private charging. Local white majorities had little need for a structural check on
+prosecutors they elected, and they likely did not want a way for African-American citizens to challenge prosecutors and
+independently pursue their interests in criminal courts. Prosecution redundancy would reduce the control of local majorities to
+dictate enforcement policies, including preferences for selective underenforcement.
+B. Judicial and Administrative Review of Decisions Not to Charge
+A second structure that creates some redundant authority over decisions not to prosecute exposes those prosecutorial decisions
+to review, either by courts or by supervising officials within an administrative hierarchy. As with private prosecution, this
+mechanism is almost nonexistent among U.S. jurisdictions, with the significant exception of federal law. But this option has
+gained ground elsewhere, in England and throughout E.U. countries. In all these contexts, its adoption responds to demands for
+expanded victims' rights in the criminal process. This Section briefly surveys prominent examples of noncharging review in
+federal law and Europe, then considers why state justice systems uniformly reject it.
+[*874]
+1. Oversight of Declination Decisions in Europe
+Pursuant to an E.U. Directive, 100 twenty-five of the twenty-eight member states of the European Union grant crime victims
+formal rights to seek review of decisions not to file criminal charges based on their complaints. 101 The details of these review
+procedures vary. Some authorize judicial review of prosecutors' decisions; most jurisdictions, including Scotland and France,
+provide at least a means for review by independent officials within the prosecution agency, perhaps with an additional
+possibility for judicial review. 102 Although E.U. nations with common law-based legal systems, such as Ireland, Northern
+Ireland, 103 and England, have adopted versions of this practice, the [*875] practice is more established in civil law
+jurisdictions, likely because it is consistent with the longstanding duty in some civil law countries of mandatory prosecution.
+104
+Prosecutions Vict., Annual Report 14-15, at 86,http://www.opp.vic.gov.au/getattachment/8bc2fefc-8715-4516-9fb8-
+57ea3e4b6342/OPP_Annual_Report_14_15_Full_web .aspx (noting that pursuant to discretion granted under § 22(b)(ii), the DPP took over
+and dismissed one private prosecution instituted for an "improper purpose"). Regarding New Zealand, see Criminal Disclosure Act 2008
+(N.Z.); Criminal Procedure Act 2011 (N.Z.); Crown Law, Solicitor-General's Prosecution Guidelines 4 (2013), http://www
+.crownlaw.govt.nz/assets/Uploads/Prosecution-Guidelines/prosecution-guidelines-2013.pdf. Scotland is much more restrictive. See Criminal
+Procedure (Scotland) Act 1975, c. 21, § 310A (Scot.) (stating in a provision added in 1996 that "except where any enactment otherwise
+expressly provides, all prosecutions under this Part of this Act shall be brought at the instance of the procurator fiscal"); Frazer McCallum,
+Scottish Parliament Info. Ctr., The Scottish Criminal Justice System: The Public Prosecution System 2 (2016), http://www
+.parliament.scot/ResearchBriefingsAndFactsheets/S5/SB_16-47_The_
+Scottish_Criminal_Justice_System_The_Public_Prosecution_System.pdf ("Prosecutions by private individuals are possible in some
+circumstances, but are very rare."). Before 1995, judicial approval was granted for only two private prosecutions in Scotland in the twentieth
+century. See Woman Loses Attempt to Bring Private Prosecution. Judges Reject Move on Rape Case, Herald Scot. (June 1, 1995),
+http://www.heraldscotland.com/sport /spl/aberdeen/woman-loses -attempt-to-bring-private-prosecution-judges-reject-move-on-rape-case-1
+.677607.
+72
+See Challenging the Decision Not to Prosecute, Eur. Union Agency for Fundamental Rts. (2014) [hereinafter FRA Report],
+http://fra.europa.eu/en/publications-and-resources/data-and-maps/comparative-data/victims-support -services/prosecution (summarizing
+policies of EU nations). This source arguably overstates private-prosecution jurisdictions by characterizing "private prosecution" broadly to
+include states, such as France, in which victims can initiate petty offense charges and inquiries by investigating judges but may pursue only
+civil actions without public prosecutors. See Country Studies for the Project "Victim Support Services in the EU: An Overview and
+Assessment of Victims' Rights in Practice,' Eur. Union Agency for Fundamental Rts. (Feb. 2016), http://fra.europa.eu/en/countrydata/2016/country-studies-project-victim-support
+-services-eu-overview-and-assessment-victims. For separate developments in the Council
+of Europe, including standards for victim assistance and procedural rights to be informed about and participate in criminal proceedings, and
+for a victim's right to review decisions not to prosecute, see Comm. of Ministers, Council of Eur., Recommendation Rec(2006)8 of the
+Committee of Ministers to Member States on Assistance to Crime Victims (2006); Comm. of Ministers, Council of Eur., Recommendation
+No. R (87) 4 of the Committee of Ministers to Member States Concerning the Simplification of Criminal Justice (1987); Comm. of Ministers,
+Council of Eur., Recommendation No. R (87) 4 of the Committee of Ministers to Member States on the Protection of Workers in the Event of
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *875
+Page 16 of 42
+The mandatory prosecution duty, known as the "legality principle," is itself a safeguard against selective underenforcement due
+to bias or favoritism. It is primarily an anti-discrimination injunction, intended to ensure that prosecutors treat like cases alike,
+rather than a mandate to ensure public safety and order through full enforcement. 105 Administrative and judicial enforceability
+of that duty is intended to ensure its effectiveness.
+2. Oversight of Declination Decisions in England and Wales
+The United Kingdom was an E.U. member state when the victim's right Directive was issued, 106 and its largest criminal
+[*876] justice system - the combined jurisdictions of England and Wales - provides several grounds on which victims or other
+aggrieved parties may obtain both administrative and judicial review of non-prosecution decisions. Yet the reasons for this
+relate foremost to public rather than private interests: "a decision not to prosecute, especially in circumstances where it is
+believed or asserted that the decision is or may be erroneous, can affect public confidence in the integrity and competence of
+the criminal justice system." 107
+In line with other E.U. member states, English victims can seek administrative review within the Crown Prosecution Service.
+The process appears to be meaningful; in recent years, between seven and thirteen percent of prosecution decisions challenged
+in this way have been reversed. 108 Moreover, noncharging decisions are also subject to judicial review - a policy rarely seen
+in other common law jurisdictions. 109 The standard is deferential, but English courts do periodically overturn non-prosecution
+decisions after evaluating them against written standards in the Code for Crown Prosecutors and other guidelines. 110 English
+courts have disapproved of decisions not to prosecute upon finding they were based on an unlawful policy 111 or were found to
+be [*877] "perverse" under a general reasonableness standard. 112 And in particular contrast to U.S. law with regard to lethal
+force by police, English judges give special scrutiny to cases that arise from deaths in state custody, which by their nature raise
+the specter of prosecutorial favoritism toward fellow law enforcement officials. 113
+Employers' Insolvency (1987); Comm. of Ministers, Council of Eur., Recommendation No. R (85) 11 of the Committee of Ministers to
+Members States on the Position of the Victim in the Framework of Criminal Law and Procedure (1985). For analysis of Directive 2012/29 as
+well as Council of Europe recommendations, see Buczma, supra note 61, at 242-48. In Germany, victims can initiate a private prosecution for
+certain minor offenses, and for more serious offenses may take a formal role as accessory prosecutors with rights to participate in proceedings
+and to be heard before charges are dismissed. See Strafprozessordnung [StPO] [Code of Criminal Procedure], §§374-94, translation at
+https://www.gesetze-im-internet.de/englisch_ stpo/englisch_stpo.html (describing rights of privateklage); id. §§153, 395-402 (describing
+rights of nebenklager); see also id.§§403-406c (describing compensation); id. § 172 (describing victim's right to seek court order to compel
+public prosecution); Michael Bohlander, Principles of German Criminal Procedure 25, 64 (2012).
+73
+This describes, for example, the German system that allows private parties to act as accessory prosecutors alongside public prosecutors.
+See Strafprozessordnung [StPO] [Code of Criminal Procedure],§§153, 395-402 (describing rights of nebenklager).
+74
+See, e.g., Commonwealth Dir. of Pub. Prosecutions, supra note 71 (reporting three private prosecutions in federal courts in 2014-15).
+75
+By the end of the nineteenth century, state and federal justice systems were firmly committed to the principle that prosecution is an
+exclusive power of public officials in which private victims have no role or standing. See Malley v. Lane, 115 A. 674, 676 (Conn. 1921); cf.
+Linda R.S. v. Richard D., 410 U.S. 614, 619 (1973) ("[A] citizen lacks standing to contest the policies of the prosecuting authority when he
+himself is neither prosecuted nor threatened with prosecution… . In American jurisprudence at least, a private citizen lacks a judicially
+cognizable interest in the prosecution or nonprosecution of another.").
+76
+See Manikis, supra note 66.
+77
+See Jacoby, supra note 70, at 5-7; Jack M. Kress, Progress and Prosecution, 423 Annals Am. Acad. Pol. & Soc. Sci. 99, 100 (1976); Allen
+Steinberg, From Private Prosecution to Plea Bargaining: Criminal Prosecution, the District Attorney, and American Legal History, 30 Crime
+& Delinq. 568, 571-72 (1984) (finding that private prosecutions predominated in the colonies). In 1704, Connecticut established what was
+probably the first public prosecutor's office. See Jacoby, supra note 70, at 17; Kress, supra, at 103. When Blackstone described criminal law
+as predominantly directed at public wrongs, he did so in the context of a late eighteenth century justice system in which private prosecutions
+were common. See 4 William Blackstone, Commentaries on the Laws of England: Book the Fourth 5-6 (1795).
+78
+See Jacoby, supra note 70, at 23 (concluding that after 1789 "for the first half-century at least" the public prosecutor was "clearly a minor
+actor in the court's structure" with a more judicial than executive role); Stephanie A.J. Dangel, Note, Is Prosecution a Core Executive
+Function? Morrison v. Olson and the Framers' Intent, 99 Yale L.J. 1069, 1073 (1990) ("First, colonial attorneys general and district attorneys
+performed non-prosecutorial tasks … ." ); see also Steinberg, supra note 77, at 577 (noting public prosecutor's duties included responsibility
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *877
+Page 17 of 42
+[*878]
+3. Federal Oversight of Declination Decisions
+In the United States, only the federal justice system provides for a process of administrative review somewhat comparable to
+those in E.U. member states. Federal law grants victims a right to seek review of prosecutors' decisions within the Department
+of Justice hierarchy, although it also explicitly bars judicial review of Justice Department decisions in this process. 114
+Although decision makers in an internal review process have less institutional independence from those they review than do
+judges engaged in judicial review, they also have a comparative advantage in institutional expertise, which could translate into
+less deference to, and more meaningful oversight of, front-line prosecutors.
+In addition, federal law guarantees victims "the reasonable right to confer with the attorney for the Government in the case."
+115 The Department of Justice interprets this not to create a right to confer before charges are filed, reasoning that no "case"
+exists until charges are filed. 116 Some lower courts have interpreted the statute differently, however, and concluded that it
+[*879] creates an enforceable right for victims to confer with prosecutors before, and about, the charging decision. One held
+that prosecutors cannot enter a non-prosecution agreement with a suspect until they confer with victims, and that if they fail to
+do so the court can order prosecutors to re-open the non-prosecution agreement. 117 A few other lower federal courts have
+reached similar conclusions, 118 although at least two have opposing conclusions. 119
+Even in its stronger form, this is a limited entitlement, in effect, to an opportunity to try to influence charging decisions. Even
+the most aggressive federal courts on this point do not examine prosecutors' good faith during consultations or their reasons for
+disagreeing with victims. In sum, neither the consultation right nor the right to review by Justice Department supervisors
+infringes federal prosecutors' monopoly power over charging from judicial oversight.
+for the court calendar). England had no full-scale prosecution agency until the creation of the Crown Prosecution Service in the Prosecution
+of Offences Act 1985. See Prosecution of Offences Act 1985, c. 23. The Director of Public Prosecutions office was established in 1879, but it
+supplemented rather than displaced private prosecution. See Glanville Williams, The Power to Prosecute, Crim. L. Rev. 596, 601-03 (1955)
+(noting 1879 creation of Director of Public Prosecutions and describing police as de facto public prosecutors).
+79
+See Parrillo, supra note 58.
+80
+Professional police forces did not arise until the 1850s, so victims investigated crimes and arrested offenders. See Peggy M. Tobolowsky,
+Victim Participation in the Criminal Justice Process: Fifteen Years After the President's Task Force on Victims of Crime, 25 New Eng. J.
+Crim. & Civ. Confinement 21, 25 (1999) (explaining that, to arrest offenders, victims could enlist the "aid of the local watchman, justice of
+the peace, or constable for whose assistance the victim paid").
+81
+See, e.g., Mike McConville & Chester Mirsky, Jury Trials and Plea Bargaining: A True History 25-42 (2005) (describing early systems in
+New York of judicial or gubernatorial appointment of prosecutors, until the office first became elective in 1847); Allen Steinberg, The
+Transformation of Criminal Justice: Philadelphia, 1800-1880, at 152-58 (1989) (stating that Philadelphia first elected its district attorney in
+1850). Prosecutors as well as judges became elected positions in many states as part of a wave of state constitutional reform in the midnineteenth
+century. See, e.g., Ind. Const. art. 7, § 11 (1851); Md. Const. art. 5 (1851); see also id. art. 3 (forbidding creation of state attorney
+general office); Mich. Const. arts. 8, 10 (1850); N.Y. Const. art. 10 (1846); N.C. Const. art. 4, § 29 (1868); Va. Const. art. 6,§§6, 8, 30
+(1851).
+82
+See Jacoby, supra note 70, at 6 (arguing that American prosecutors evolved from weak to strong figures largely because they were
+popularly elected and tied to local government organization). Public and private prosecutors coexisted for a few decades in some places. See
+Cantrell v. Commonwealth, 329 S.E.2d 22, 25 (Va. 1985) (describing the history of private prosecution in Virginia); State v. Stein, 30 S.C.L.
+(1 Rich.) 189, 190 (S.C. 1845) (affirming that private individuals may file criminal or civil actions for the same offense but must elect the
+form before trial); Corley v. Williams, 17 S.C.L. (1 Bail.) 588, 588-89 (S.C. 1830) (providing an example of private prosecution).
+Pennsylvania and New York relied heavily on private prosecutors for criminal law enforcement before 1850. See Stewart v. Sonneborn, 98
+U.S. 187, 198 (1879) (Bradley, J., dissenting) ("Every man in the community, if he has probable cause for prosecuting another, has a perfect
+right, by law, to institute such prosecution, subject only, in the case of private prosecutions, to the penalty of paying the costs if he fails in his
+suit."); McConville & Mirsky, supra note 81 (describing New York courts with private prosecutors and, prior to 1847, judicial or
+gubernatorial appointments of public prosecutors); Steinberg, supra note 81, at 24-69, 152-57 (describing private prosecutions, screened by
+aldermen acting as magistrates, and creation of elected district attorney's office in 1852).
+83
+Robert M. Ireland, Privately Funded Prosecution of Crime in the Nineteenth-Century United States, 39 Am. J. Legal Hist. 43, 44-45
+(1995) (recounting numerous comments by state supreme courts on the low quality and inadequate funding of public prosecutor offices).
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *879
+Page 18 of 42
+[*880]
+4. Oversight of Declination Decisions in State Justice Systems
+State justice systems do not go as far as the federal system does, much less provide the kind of oversight or victim recourse
+that European systems now offer. And this is so despite the fact that all states have adopted substantial victims' bills of rights,
+nearly all of which include rights for victims to consult with prosecutors. Most make clear that the consultation right attaches
+only after the prosecutor decides to file charges. 120 Rights of administrative review are rare. 121 One reason for that is surely
+structural. The U.S. Department of Justice is a hierarchically organized agency within which all federal prosecutors operate, a
+structure that enables supervisory and quasi-independent review within the agency. But few states follow that model. Instead,
+prosecutors in most states are locally elected and operate [*881] autonomously from state justice departments or attorneys
+general, which generally exercise little, if any, oversight. 122 Administrative review of state prosecutors' charging decisions is
+simply not feasible without major reorganization of state justice systems.
+That structural barrier probably explains why state prosecutors' decisions are functionally immune to administrative oversight,
+but the lack of judicial oversight has a different origin. In accord with common law tradition, state and federal courts have
+never meaningfully reviewed public prosecutors' noncharging decisions. 123 In particular, they have unambiguously rejected
+victims' claims of standing to challenge those decisions. 124 A few [*882] limited exceptions prove the rule. In cases of
+private criminal complaints filed by alleged victims, Colorado, Michigan, Nebraska, and Pennsylvania authorize judges to
+review public prosecutors' decisions not to charge. 125 Even when statutes grant courts the power to review (or even mandate
+review) of charging and dismissal decisions, state judges consistently have refused to scrutinize the merits of prosecutors'
+judgments. Many states have replaced the common law rule that gave prosecutors complete discretion to nolle prosequi (or
+dismiss) any criminal charge with statutes that require judges to confirm that non-prosecution is in the interest of justice. 126
+Yet courts uniformly refuse to engage in meaningful review, inferring instead that those statutes require deference to
+prosecutors. 127
+84
+See Erikson v. Pawnee Cty. Bd. of Cty. Comm'rs, 263 F.3d 1151, 1154 (10th Cir. 2001) (finding no due process violation because private
+attorney assisting prosecution did not "control[] critical prosecutorial decisions"). The first states to prohibit privately funded prosecutors
+even under supervision of public prosecutors were Massachusetts, Michigan, and Wisconsin. See Commonwealth v. Gibbs, 70 Mass. (4 Gray)
+146, 147-48 (1855); Meister v. People, 31 Mich. 99, 104-06 (1875); Biemel v. State, 37 N.W. 244, 248-49 (Wis. 1888). See also Ireland,
+supra note 83, at 49 (listing fifteen states that still approved privately funded prosecutors in 1900). Other states abolished this practice more
+recently. See State ex rel. Wild v. Otis, 257 N.W.2d 361, 365 (Minn. 1977) (holding that party has no right of private prosecution); State v.
+Harrington, 534 S.W.2d 44, 48 (Mo. 1976) (holding that a right of private prosecution should not be permitted); People v. Calderone, 573
+N.Y.S.2d 1005, 1007 (N.Y. City Crim. Ct. 1991) (concluding that under New York law private prosecutions by interested parties or their
+attorneys present inherent conflicts of interest which violate defendants' due process rights); State v. Best, 186 S.E.2d 1, 4 (N.C. 1972) (noting
+that a public prosecutor must be in charge of all prosecutions).
+85
+See, e.g., N.J. Ct. R. 3:23-9 (permitting private prosecutor with approval of the public prosecutor and court); N.J. Ct. R. 7:8-7(b)
+(permitting private prosecutor for cross-complaints with court approval); State v. Harton, 296 S.E.2d 112, 113 (Ga. 1982) (private party not
+allowed to prosecute without state approval); State v. Moose, 313 S.E.2d 507, 512-13 (N.C. 1984) (stating that private attorneys may assist
+public solicitors where public solicitors retain control and management of prosecution); Cantrell, 329 S.E.2d at 25 (stating that private
+attorneys may assist commonwealth attorneys with the permission of the prosecutor and the court); 63C Am. Jur. 2d Prosecuting Attorneys §
+12 (2018) (citing authority in some states that private attorneys may assist public prosecutors). For a state statute that apparently gives the
+"prosecuting witness" a right to pay a private attorney to assist the public prosecutor without the latter's consent, see Kan. Stat. Ann. § 19-717
+(2017); see also John D. Bessler, The Public Interest and the Unconstitutionality of Private Prosecutors, 47 Ark. L. Rev. 511, 529, nn.71-72
+(1994) (citing cases in majority of states allowing private prosecutors to assist in public prosecutions). Bessler identifies three states that
+"allow private prosecutors to participate without the consent or supervision of the district attorney," but in all three states, the public
+prosecutor initiated and litigated the criminal charge, while the private prosecutor assisted in the litigation as counsel to a victim. Id. at 529,
+n.71.
+86
+234 Pa. Code § 506 (2001); In re Private Criminal Complaints of Rafferty, 969 A.2d 578, 582 (Pa. 2009) (discussing the ability of a
+prosecutor to approve or disapprove of private complaints). Judges may authorize private counsel to take over as prosecutor upon finding that
+a district attorney has "neglected or refuseed to prosecute" a properly grounded charge. See 16 Pa. Stat. and Cons. Stat. Ann. § 1409 (West
+DAVID SCHOEN
+103 Minn. L. Rev. 844, *882
+Page 19 of 42
+[*883] This is a stark contrast with European justice systems, but U.S. jurisdictions are not alone in shielding prosecution
+decisions from judicial oversight. Aside from England and Wales, courts in other common law jurisdictions - notably Canada
+and Australia - take roughly the same approach and defer to prosecutorial charging discretion. 128
+5. Summary of Declination Oversight
+Both private prosecution and review procedures provide a kind of redundancy that checks prosecutorial declination decisions,
+and both can do so in service of public interests as well as victims' private interests. Both options have some capacity to
+challenge prosecutorial judgments affected by political or personal biases, institutional allegiances (especially between police
+and local politicians), or other illicit sources of favor or disfavor. As one commentator put it in the English context, private
+prosecution authority recognizes that victims possess some capacity to be independent "assessors of the evidence as well as the
+public interest." 129 Review procedures enable judges and supervisory [*884] officials to do much the same thing, without the
+cost barriers for victims posed by private prosecutions. (Although it may well be that poorer victims are less likely even to
+petition for review, especially if they lack legal counsel to press their review requests.)
+Why, then, have U.S. jurisdictions so uniformly rejected both options? As noted, both racial politics and the power of common
+law tradition are probable contributing reasons. 130 Another is the singular choice of most state justice systems to make
+prosecutors locally elected officials, which does much to prevent kinds of over-and underenforcement disfavored by local
+majorities. That, in turn, likely reduces pressure for reforms that would improve other safeguards against decisions not to
+prosecute - especially decisions that cut against popular local preferences, which in many communities include rigorous
+2016) (authorizing victims dissatisfied with public prosecutor to petition the court and granting courts the power to allow victim's attorney to
+take over as private prosecutor).
+87
+See 12 R.I. Gen. Laws§§12-4-1, 12-4-2, 12-4-6, 12-12-1.3 (2017); Cronan ex rel. State v. Cronan, 774 A.2d 866, 871 (R.I. 2001)
+(approving private misdemeanor prosecution for assault under state statutes).
+88
+See State v. Martineau, 808 A.2d 51, 54 (N.H. 2002); see also State by Tucker v. Gratta, 133 A.2d 482, 482 (N.H. 1957) (holding that state
+prosecutors retain power to dismiss private criminal complaints).
+89
+See, e.g., N.C. Gen. Stat.§§15A-303, 304 (2016); Moose, 313 S.E.2d at 512-13 (requiring that the public prosecutor remain in continuous
+control of the case). Scattered marginal remnants of private enforcement may remain elsewhere, such as an Oklahoma statute providing that
+prosecutions for adultery (a felony) may be "commenced and carried on against either of the parties to the crime only by his or her own
+husband or wife." Okla. Stat. tit. 21 § 871 (2017) ("Prosecution for adultery can be commenced and carried on against either of the parties to
+the crime only by his or her own husband or wife as the case may be, or by the husband or wife of the other party to the crime.").
+90
+The Royal Commission on Criminal Procedure, 1981, Cmnd. 8092, P 7.47 (UK); see also Gouriet v. Union of Post Office Workers [1978]
+AC (HL) 435 at 477 (Eng. and Wales) (private prosecutions are a "valuable constitutional safeguard against inertia or partiality on the part of
+the authority"); cf. Manikis, supra note 66, at 67, 71 (describing review as a means to correct prosecution errors).
+91
+In re Hickson, 2000 PA Super 402, PP 22, 41; see also In re Piscanio, 344 A.2d 658, 660-61 (Pa. Super. Ct. 1975) ("The judge's
+independent review of the complaint checks and balances the district attorney's decision and further hedges against possibility of error.").
+92
+United States v. Armstrong, 517 U.S. 456, 461-64 (1996).
+93

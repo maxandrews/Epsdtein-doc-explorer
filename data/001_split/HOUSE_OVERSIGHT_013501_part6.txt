@@ -1,0 +1,1524 @@
+has been approached by a kind of method of moments (Renyi, 1970; Grassberger,
+1983; Hentschel and Procaccia, 1983; Halsey et al, 1986; Mayer-Kress, 1986; Ott et
+al, 1994). We outline the general arguments here so that the reader will be
+generally familiar with the ideas and terms, not to serve as a definitive summary. It
+is a complicated area and the reader will find the required detailed descriptions in
+the references. .
+We recall that with respect to a statistical distribution, the first moment is the
+mean; the second moment, σ 2 , the variance; the third moment, σ 3 , the distribution’s
+asymmetry, the skew; and the fourth moment, σ”, its relative peakedness with
+respect to the probability mass in the tail, called the kurtosis. In these moment
+computations of an observable
+q
+x i
+’s deviation from the mean, |x − x| , the value for
+q accentuate particular regions of the density distribution. Similarly, the q’s of the
+i
+230
+“generalized dimensions,” D q , emphasize different aspects of the relative point
+density that are assumed to be uniform in the computation of D 0 . We recall from
+above that the power law slope constituting D
+ln M( ε)
+lim
+ε ln( ε)
+0 = →o
+. If we emphasize the
+component of the probability (measure, µ) or, equivalently, time spent by the orbit in
+cube i, µ( C i
+) instead of simply the number of cubes occupied by any points, M(ε),
+along with the different length scales of the cube as ε→0 we have a generalized
+dimension. A common expression for the generalized dimension includes the
+fractional pre-factor in q written so as to make things come out right:
+M ( ε )
+Iq
+D = 1 lim ln ( , ε)
+q
+, where Iq ( , ε ) = ∑[ µ ( C i
+)]
+q −1ε
+→ 0 ln( ε)
+i=
+1
+the dominance of the higher probability cubes,
+q
+. The higher the q, the greater
+µ( C i
+). To see how this q-induced
+separation in emphasis might work, if the ratio for q = 2 between the probability
+containing cubes 0.25 and 0.05 is 25, their ratio for q = 3 is 125. For q = 0, the
+scaling exponent is the capacity dimension. This result of the actions of a changing
+q has been analogized to the way changing temperature in a thermodynamic
+system evokes different aspects of its behavior.
+The “multifractal formalism” generally begins by determining the statistical
+densities over a range of scale lengths by one means or another including wavelet
+transformations across wavelength scale (Arneodo et al, 1988). These densities by
+scale are then systematically raised to a range of q exponents. Since q, and
+therefore D q , can vary continuously, functions are created that shows how D q varies
+with q. These are then further transformed, resulting in a single maximum parabolic
+curve whose shape and size is sensitive to the conditions of the experiment (Halsey
+et al, 1986). Generalized dimensions decrease as q increases. A unique
+neuropsychopharmacological application of the multifractal technique to a study of
+the behavioral influence of increasing amounts of cocaine on the time-dependent
+patterns of spatial exploration, temporal-spatial fluctuations, in rats, demonstrated a
+global splitting in the parabolic distribution suggestive of a cocaine-induced global
+phase transition, not unlike the well-known, dose-dependent, amphetamine-induced
+231
+shift from hyperactivity to motor stereotypy (Paulus et al, 1991). Studies that
+followed demonstrated that “q-moment” distributions of heterogeneous scaling
+exponents and their relative statistical weightings were useful in making subtle
+discriminations between effects of psychopharmacological agents and behavioral
+(isolation) influences on animal behavior as well as patterns of simple psychomotor
+behavior in normal subjects and schizophrenic patients (Paulus et al, 1994; 1996;
+1998; Krebs-Thomson et al, 1998a; 1998b).
+Fractal Scaling Measures on Reconstructed Time Series from
+Biological Dynamics
+Publications involving the applications of various D measures, particularly D 2 ,
+to brain-relevant times series number in the hundreds and are growing
+exponentially. The following constitutes a brief review of a representative set of
+empirical findings. In doing so, for the reasons discussed below, we ignore what
+some might consider the rather abstract and philosophical issue of “determinism”
+versus “randomness” or “error” (Sugihara and May, 1990; Casdagli, 1991; Wayland
+et al, 1993; Kaplan and Glass, 1992; Kaplan, 1994) since this question is relatively
+unproductive with respect to generating new neurobiological insights, novel
+experiments or new quantitative approaches to brain dynamics. In addition, as
+noted in the final section, this discrimination may not even have definitive theoretical
+meaning in that the conduct of much of the rigorous mathematics about
+“deterministic dynamical systems” involve Markoff partitions and matrices which are
+also the generic operators of formal probability theory (Sullivan, 1979; Kolmogorov,
+1950). For example, N-dimensional non-linear Markoff processes can be shown to
+capture the dynamics of multidimensional neurobiological processes such as the
+EEG (Silipo et al, 1998).
+We have also ignored the related issue of the presence or absence of “low
+dimensional structure” (Theiler and Rapp, 1996; Rapp, 1995) which, from the
+authors’ point of view, resulted from an unfortunately concrete interpretation of the
+word “dimensions.” With respect to experimental brain data, dimensions are defined
+232
+most relevantly by their computational procedures and what are computed are
+empirical scaling exponents describing real observables as limited by the precision
+of the observations, their resolution and series lengths (Smith, 1988; Eckmann and
+Ruelle, 1992). The “correlation integral,” the probability that two vectors chosen at
+random from the phase space reconstruction lie within “r” distance of each other,
+not unrelated to the phase randomization controlled, D 2 measure, yields statements
+about amount of “nonlinearity” (not accountable by the linear regressively
+capturable component of the power spectrum), which are also difficult to translate
+into experimentally or theoretically useful concepts (Casdagli et al, 1997). These
+efforts contrast with a more direct attempt to establish a spiking neuron system’s
+dynamical “dimension” using trial and error prediction in which “dimension” was
+defined as the number of potentially physiologically relevant variables required to
+make the predictive equations fit (Segundo et al, 1998).
+Computations of scaling exponent descriptors of orbital point distributions on
+reconstructed attractors of the brain sciences have proven to be most useful as
+atheoretical, empirical techniques discriminating experimental, clinical and/or
+treatment conditions with various approaches to statistical significance. In this
+regard, one can say that D 2 is often found to be superior to central tendency
+oriented statistics in making these discriminations. Dimension and correlation
+integral descriptors appear least useful when dealing with global issues such as
+chaos, randomness, linearity and the “underlying dimensions” of (unknown)
+differential equations. We discuss below the possibility that the failure to find chaos
+in the more recent EEG studies (Theiler and Rapp, 1996; Prichard et al, 1996) may
+be because the EEG attractor is better characterized as a “strange nonchaotic
+atttractor” with orbital patterns manifesting fractional scaling exponents but no λ( + )
+(Grebogi et al, 1984; Mandell and Selz, 1993).
+The relatively subtle influence of high altitude (Mt. Everest) oxygen
+concentrations was not seen in the central moments of the cardiac interbeat
+intervals, but the D 2 of the attactor was reduced significantly (Yamamoto et al,
+1993). The latencies and amplitudes of the visual evoked potential failed to
+233
+discriminate normal subjects from those with early glaucoma, but the reconstructed
+attractor of the steady state visual cortical response to full field flicker demonstrated
+a statistically significant decrease in D 2 (Schmeisser et al, 1993). Marginal
+qualitative differences in optokinetic nystagmus were quantitatively significant when
+studied as the D 2 of the attractor’s points in patients with vertigo compared with
+controls (Aasen et al, 1997). Reconstructions of maximum velocity waves from
+Doppler studies of middle cerebral artery hemodynamics (using phase random
+“controls”) demonstrated an increase in D 2 (and a decrease in λ( + ) correlated with
+age in an adult population (Keuner et al, 1996; Vliegen et al, 1996). D 2 served as a
+sensitive descriptor of functional changes in the EMG from the surface of the biceps
+muscle, increasing with muscle load and rate of flexion and extension and
+decreasing with muscle fatigue (Rapp et al, 1993; Nieminen and Takala, 1996;
+Gupta et al, 1997), suggesting its use in suspected early myotonic dystrophies and
+myasthenias. Reconstructed time series of stomatognathic motions in high school
+students with temporomandipular joint syndromes compared with those with
+malocclusion revealed a specific decrease in D 0 in the plane of horizontal motion in
+the former (Morinushi et al, 1998). Time series of plasma growth hormone levels in
+acromegalic patients with functioning pituitary adenomas manifested a statistically
+significant increase in D 0 when compared with age-matched controls (Mandell and
+Selz, 1997) which corresponded nicely to the reduction in “approximate entropy”
+(Pincus, 1991a) computed on this same data set (Hartman et al, 1994). On the
+other hand, comparative in vitro studies of growth hormone release patterns in
+normal rat pituitary cells and their neoplastically transformed relatives, the GH3
+strain, demonstrate a decrease in D 0 in the latter (Guillemin et al, 1983; Mandell,
+1986).
+The number of examples of the use of D 2 on orbital point geometries in
+explorations of physiological and pharmacological regulation are increasing. The D 2
+of respiratory rhythms is higher with intact vagal afferents than without (Sammon
+and Bruce, 1991). Histamine induced an increase in D 2 in the attractor point
+distribution of rabbit ear artery vasomotion, attributed to calcium-activated
+membrane potassium channels in that TEA prevented and reversed the change
+234
+(Edwards and Griffith, 1997). The role of central and autonomic innervation in
+cardiac interval dynamics has been explored using D 2 in various ways. For
+examples, the transplanted heart rhythm in man has a lower D 2 than that of the
+normal heart (Guzzetti et al, 1996) and general anesthesia and cholinergic (but not
+β-adrenergic) blockade decreased multisystem D 2 in a series of multiparameter
+(respiration, mean blood pressure and heart rate) studies in piglets (Zwiener et al,
+1996; Hoyer et al, 1998).
+The activities of single and aggregates of neurons are being described and
+differentiated by the D 2 of their interevent interval attractors. Early and important
+studies related to both neuronal and field electrical activity indicated their promise
+(Rapp et al, 1985; Zimmerman and Rapp, 1991). The olefactory bulb demonstrated
+spatially uniform scaling dimensions that changed with event-related perturbation
+(Skinner et al, 1990). An iron-induced spiking focus in the rat hippocampus in vivo
+manifested the same decrease in D 2 as it did in the kindled in vitro hippocampal
+slice (Koch et al, 1992). D 2 also differentiated among characteristic single unit time
+series in norepinephrine, dopamine and serotonin neurons (Selz and Mandell,
+1991) and among A8, A9 and A10 dopamine neurons (Selz and Mandell, 1992).
+Attractors reconstructed from single unit interspike intervals in the substantia nigra
+pars compacta and the auditory thalamus manifested discriminatable values for D 2
+in neurons recorded by the same electrode (Celletti and Villa, 1996) and changes in
+state manifested in patterns of subthreshold oscillations in single neurons in the
+inferioir olivary nucleus could be characterized using this index (Makarenko and
+Llinas, 1998).
+D 2 reliably discriminated between states of arousal and between the
+multiparameter (eye movements, neck muscle tone, EEG stage) defined EEG
+stages of sleep (Bablyoyantz, 1986; Rapp et al, 1989; Ehlers et al, 1991) with non-
+REM having a lower D 2 than REM. D 2 of the EEG record was selectively reduced in
+Stage II and REM in schizophrenic patients compared with controls (Roschke and
+Aldenhoff, 1993), this difference was made more prominent by treatment with the
+aminodiazopoxide, lorazepam (Roschke and Aldenhoff, 1992). In the waking state,
+235
+higher EEG D 2 values were frontal in schizophrenic patients and more central in
+controls (Elbert et al, 1992). The D 2 computed on the EEG during Stage IV (“delta”)
+sleep was sensitive to acute sleep deprivation and recovery, but demonstrated
+compensation (Cerf et al, 1996). Non-alcholic children of alcoholic parents
+manifested lower values for D 1 in their EEG attractors than the children of a normal
+control group (Ehlers et al, 1995). Higher I.Q. correlated with EEG D 2 in most leads
+in the resting state but not during a visual imagery task (Lutzenberger et al, 1992).
+These differences also correlated with individual differences in task performance in
+a perceptual pattern predictive task (Gregson et al, 1990) and with a working
+memory task load with regional differences most marked in the right fronto-temporal
+cortex (Sammer, 1996).
+Peripheral nerve stimulation in the earlobe and trapezius muscle induced
+increments in D 2 in the EEG of specific brain regions (Heffernan, 1996). Memory for
+but not induced pain increased EEG D 2 in chronic pain patients but not in normal
+controls (Lutzenberger et al, 1997). Using contingent reinforcement of brain wave
+modes by hypothalamic, but not cerebral hemispheric, stimulation reduced D 2 in the
+EEG (Mogilevskii et al, 1998) resembling the changes accompanying defensive
+reflex conditioning in the rabbit between the early and late stages of the process
+(Efremova and Kulikov, 1997). Difficult to diagnose “periodic lateralized epileptiform
+discharge” syndromes have apparently yielded to D 2 computations (Stam et al,
+1998). In equally problematic “atypical seizure” syndromes in children, D 2 computed
+on the autocovariance functions of 200 Hz digitized EEG records from multiple
+channels demonstrated characteristic changes (Yaylali et al, 1996).
+Unlike computing a reliable leading λ( + ) on a point set of a time series
+reconstruction denoting the “sensitivity to initial conditions” requirement for the
+diagnosis of chaos (and a potential for change such that a decrease in the positivity
+of λ( + ) → λ( 0)
+may auger a nearby bifurcation), the presence of a fractional scaling
+exponent,
+D i
+, does not in and of itself implicate a chaotic dynamical state. A nice
+example of a nonchaotic dynamic with
+λ = 0 that has a fractional scaling exponent,
+D = 0.538, is the “Feigenbaum” point where the above noted “infinite” series of
+236
+period doubling bifurcations accumulate (Grassberger, 1981). This is a dust-like
+region, which when endlessly dilated looks like the same dust. Some
+mathematicians call these objects “Lebesgue points” because even though at low
+magnifications when they look rather solid, they are not. Composed of points, they
+have topological measure zero (a line has measure one) and non-integer fractal
+dimension. These λ = 0 , D ≠ Integer, period doubling accumulation points can be
+found in a wide variety of attractors, though in each case the parameter space in
+which they are located is so small (in point set topology also called “Lebesgue
+measure zero”) that they are very difficult to locate and therefore have little chance
+of being physiologically significant.
+This constrasts with a relatively new category of dynamical systems which
+promises to be important in studies of the nervous system. These are ones that are
+driven by two or more independent frequencies (called quasiperiodic driving). We
+found them to be relevant to brain stem, thalamocortical neurophysiology of
+perceptual processes and states of consciousness. They have the properties,
+λ = 0 , D 0 and D 1 ≠ integer and a characteristic scaling “spectral distribution
+function” (see below). They have been named “strange nonchaotic attractors”
+(Grebogi et al, 1984; Romeiras et al, 1987; Ding et al, 1989). In addition, the
+strange nonchaotic behavior of these quasiperiodically-driven, nonlinear oscillators
+has positive (>0) measure in parameter space and thus is of potential physiological
+significance. A good demonstration of a multiple frequency driven strange
+nonchaotic attractor can be found and manipulated in the software package of
+Nusse and Yorke (1991).
+The neurobiological substrate for this system is the brain stem neuronal
+modulatory driving of on- going thalamocortcal oscillatory brain waves (once called
+“recruitment waves” in the 7-14 Hz, θ to α, day dreaming to quiet alert range) and
+as perturbed by multifrequency driving in what was once called “reticular formation
+arousal” are realized as dominant EEG modes and associated states of perceptual
+acuity and consciousness (Moruzzi and Magoun 1949; Moruzzi, 1960; Klemm,
+1990; Steriade and McCarley, 1990; Contreras et al, 1997). In addition to intrinsic
+237
+multiply periodic and aperiodic oscillations of thalamic and cortical cells and their
+recursive, feedback coupling, the brain stem manifests more than two orders of
+magnitude of “independent” neuronal driving frequencies ranging from serotonin
+discharges at 1 Hz, cortically direct dopamine and norepinephrine neurons in the
+10-50Hz range and mesencephalic reticular neurons discharging as fast as 100 to
+200 Hz. The “thalamocortical brain wave oscillator” as their target has been a fixture
+in global state neurophysiology since the 1940’s and 1950’s and is of great current
+interest (Fessard et al, 1961; Bazhenov et al, 1998). We have explored the
+relationships between strange nonchaotic dynamics and brain-stem neuronal and
+thalamocortical physiology from the standpoint of neuronal coding and the
+properties of the EEG attractor. (Mandell et al, 1991; Mandell and Kelso, 1991;
+Mandell and Selz, 1992; 1993;1994;1997a). We found that the EEG attractor could
+be characterized by the diagnostic triad identifying strange nonchaotic attractors:
+λ = 0 , D 0 and D 1 ≠ Integer, and a signatory power spectral distribution in which the
+number of peaks, N, with amplitudes greater than ϖ, N(ϖ ), went as ϖ -α , 1 < α < 2
+(Romeiras et al, 1987; Mandell et al, 1991). In addition to being consistent with
+known multifrequency, brain stem driving of thalamocortical oscillations, the EEG as
+a strange, nonchaotic attractor is intuitively appealing in that it has the necessary
+mechanisms for the power law scaling of a wide range of characteristic times (D 0
+and D 1 ≠ Integer) from picosecond fluctuations of neural membrane proteins to the
+decades of bipolar phenomena and since λ = 0 , the orbital points don’t tend to
+“mix”(get out of order) on the attractor, thus protecting the fidelity of sequence
+dependent brain information transport (Berns and Sejnowski, 1998).
+Entropies, Unstable Periodic Orbits and Shadowing; Short Time Series
+Can Discriminate Experimental Conditions in Studies of Biological Dynamics
+We avoid the temptation to deal with the deep analogy between
+thermodynamic entropy (Clausius, 1897) and information theoretic entropy
+(Shannon and Weaver, 1949), constraining our discussion to the context of an
+operational equivalence (in healthy systems) between gain of information and
+238
+decrease in entropy in brain-relevant dynamical systems. As we shall see, certain
+pathophysiological processes appear to manifest themselves as reductions in
+background or “resting” state entropy which then limits its supply with respect to
+information gain and/or transport. Relationships between “physical” thermodynamic
+observables, such as changes in heat capacity or temperature dependence of
+kinetic constants, and information-transport driven, neurotransmitter evoked
+conformational changes in neural membrane proteins may someday come together
+in an experimentally productive way (Hitzemann et al, 1985; Zeman et al, 1987;
+Borea et al, 1988), but they are beyond the scope of this paper.
+The idea of taming the orbit of an expanding flow (with at least one λ( + )) by
+partitioning the geometric space supporting its actions, its “manifold,” and then
+labeling each box so that its trajectory is representable by a symbol string of box
+indices is the way “symbolic dynamics” are applied to dynamical systems. Symbolic
+dynamics arose in pure mathematics in the context of obtaining a one-to-one,
+topological (sequence not distance preserving ) representation of a difficult to
+characterize system of “geodesics on surfaces of negative curvature” (Hadamard,
+1898; Morse, 1917; Morse and Hedlund, 1938). Geodesics here are the shortest
+lines in this curved, non-Euclidean space in which nearby lines spread apart and far
+away ones came together with (in Euclidian space) parallel lines meeting at infinity.
+Remarkably, symbolic dynamic encoding of the motions on this abstract
+manifold of negative curvature also capture how uniformly divergent (and
+convergent), “hyperbolic” chaotic systems, such as brain systems, behave in
+Euclidean space, an intuitive similarity about which Poincare experienced his
+famous vacation bus trip epiphany (Stillwell, 1985). It should also be noted that
+encoding neural spike trains in one dimension for symbolic dynamical comparisons
+of sequence structure and recurrances, “favored patterns” has been developed
+independently of orbital dynamics on manifolds (Dayhoff, 1984; Dayhoff and
+Gerstein, 1983a; 1983b). A similar approach has been used to characterize firing
+patterns and their response to acupuncture in dopamine neurons in the substantia
+nigra and hypothalamic neurons (Chen and Ku, 1992).
+239
+For real neurobiological data, a time series and its n time delays are first
+reconstructed as a trajectory in an n+1 dimensional geometric embedding space
+and, following partition of that geometric space into n+1 dimensional lettered boxes
+(the choice of partition being a sensitive step), what was once an orbit has become
+a sequence of symbols. Dynamical systems in geometric space become symbolic
+dynamics in sequence space. It was Kolmogoroff (1958) who first applied
+Shannon’s ideas of entropy and information (Shannon and Weaver, 1949; Khinchin,
+1957) to the quantification of these dynamical system’s telegraphic messages as
+discrete, “stochastic” (random, probabilistic) output. Kolmogoroff turned to Shannon
+entropy,
+−∑ p i
+log p i
+(where p = 1/n and n = number of possibilities) to decide the
+question whether a dynamical system that naturally partitioned into a two or three
+box system per unit time had the same entropy. His answer was no, that –3(1/3 ln
+(1/3)) = 1.098 > -2(1/2 ln (1/2) = 0.6931 loge and in computer relevant log 2 , 1.5850 >
+1.0 (Kolmogorov, 1959). Entropy increases with possibility.
+Nonlinear differential equations representing brain-relevant expanding
+dynamical systems replace Shannon’s linguistically weighted and serially ordered,
+Markoff-dependent random number generator of probabilistic language. As noted
+above, in the case of the Sharkovskii sequences (Sharkovskii, 1964; Metropolis et
+al, 1973; Misiurewicz, 1995), a small change in the single parameter of an entire
+class of single maximum maps generating motions that are coded from their
+position at the left or right of center of the unit interval, alters and determines
+precisely the periodic output such as {1,0,0,1,0,1,1,0,0,1,0,1…) of its binary
+message. In higher dimensional examples such as the Rössler and Lorenz
+systems, one can visualize the joint actions of λ( + ) and λ( − ) moving the trajectory
+so as to both enter, “create,” new boxes and generate new letters as well as visit old
+ones, unstable fixed points, thus forming unstable periodic orbits. The latter, one of
+three diagnostic features of chaotic attractors (see above), can also be seen as
+resulting from the “coarse-grained” imprecision of real world neurobiological
+measurement such that two points that are brought close to attractive-repelling
+points are, within measurement error, recorded as having the same value.
+240
+Problems of measurement precision, amplified by the expansive actions of
+systems that are sensitive to initial conditions, yield parameter sensitive entropies of
+two (mathematically) fundamental kinds called topological and metric entropies, h T
+and h M , proven to be the upper and lower bounds of any estimate of the entropy in a
+uniformly expanding and/or equidistributed system (Adler and Weiss, 1965).
+Measures of entropy, as “missing information related to the number of alternatives
+which remain possible to a physical system” (Boltzmann, 1909), “index of
+probability” (Gibbs, 1902) or the “amount of uncertainty associated with a finite
+scheme” (Khinchin,1957) are obviously sensitive to the partition rules and its
+fineness of the grain. The most theoretically defensible partition is called the
+“generating partition” in which no box contains more than one point. Comparisons of
+control and experimental data can be differentially sensitive to partition construction,
+so that if a generating partition is not practicable due to sample length or dense
+curdling in the point distribution, some arbitrary choices have to be made. These
+have included naturally renormalized variational partitions, such that in one
+dimension the boxes are defined by ±1, ±2, ±3,…standard deviations, or quartiles or
+quintile, above and below the mean and in n dimensions. Partitions have also been
+constructed and used to described drug effects on rat exploratory behavior by
+sequential partitioning along the dimension of the highest remaining variation (after
+the previous partition) called the “KD” partition (Paulus et al, 1991). Partition
+strategies to capture entropic measures on serial ordering (Klemm and Sherry,
+1981; Strong et al, 1998) can grow from knowledge or hypotheses about the
+physiological sources of temporal irregularities and discontinuities in brain dynamics
+including characteristic interval(s) of refractoriness, relaxation times of the inhibitory
+surround, correlation time in dendritic tree summation, the time course of reciprocal
+inhibition and its decay and chemical influences such as the synaptic half-life and
+time of action of inhibitory influences such as GABA on cell firing.
+The logarithmic growth rates of occupancy of new symbolically indexed
+boxes or, equivalently, the growth rates of visitations to old ones generating
+unstable periodic orbits, are called topological entropies, h T . They record new
+happenings, the growth rate of the diversity of orbits, and not how likely with respect
+241
+to box occupancy densities they are likely to occur ( Adler et al, 1964; Alexeev and
+Jacobson, 1981; Cornfield et al, 1982; Ornstein, 1989; Ruelle, 1990). The close
+relationships in real brain observables between the appearance rate of new
+symbols or new unstable periodic orbits, h T , and log λ( + ), reflecting the rate of
+divergence from the next expected value generating a new, unexpected value, is
+not surprising. In fact, a maximal estimate of the entropy of a dynamical system, h T
+= log λ( + ) whereas the largest value that h M can attain is log(#of states). A great
+deal of substantial mathematics has gone into proofs that similarities (“equivalence
+relations”) and differences between dynamical patterns are robustly indicated by
+differences in h T and h M (Adler et al, 1977; Adler and Marcus, 1979).
+If the sum of the densities in each j box were normalized so as to sum to 1.0,
+such that each is a probability, p j , then - Σ p j log p j represents the metric entropy,
+h M . h M was first described in the dynamical context by Kolmogorov (1958;1959).
+The sum having a –1 prefactor converts the negative log of < 1 to a meaningful
+positive value in the expression. h M is maximal for the equidistributed, uniformly
+expansive, C or Axiom A systems (see above). As noted above, generally h T = the
+maximum estimate of the entropy and h M the minimum estimate (Adler and Weiss,
+1965). h T = h M in uniformly hyperbolic systems (Bowen, 1975) and the difference,
+|h T – h M | is an index of non-uniformity found useful in discriminating among classes
+of single neurons from their discharge patterns (Mandell, 1987; Selz and Mandell,
+1992; Mandell and Selz, 1993; Mandell and Selz, 1997a). These measures applied
+to temporal and spatial patterns of rat exploratory behavior have been used to
+discriminate among stimulant drug effects (Paulus et al, 1990; Paulus and Geyer,
+1992). Similar computations involving the symbolic dynamics and disallowed
+transitions have been used to study the complexity of the the EEG (Xu, 1994) in
+which both extremely low (fixed point, periodic) and high (Gaussian random)
+entropies are seen as manifesting low “complexity as a function of the diversity of
+the available patterns of behavior (Crutchfield and Young, 1989a).
+Before describing the simple but definitional matrix operations for h T and h M
+below which might seem forbidding to those “not up on their linear algebra,” we note
+242
+that procedures such exponentiation of a matrix can be carried out automatically
+using computer algebra programs such as Maple or for data processing available as
+computational modules in MatLab.
+One of the techniques for the computation of h T involves determining the
+logarithm of the asymptotic growth rate of the major diagonal (“trace”) in the
+transition matrix symbolically encoding the trajectory which would therefore count
+the “self visitations” of each indexed boxes as the dynamics proceed. This involves
+setting up a transition incidence matrix, each box scored for a disallowed, 0, or
+allowed, 1, transitions and the matrix is exponentiated t times with the logarithm of
+the asymptotic growth rate of the sum of the diagonal values serving as a (leading
+eigenvalue) estimate of h T . More technical considerations involving the Frobenius-
+Perron theorem guaranteeing the existence of such an logarithmic index of new
+information generation rates, even in random matrices (Seneta, 1981), will not be
+discussed here.
+We have found that computing h T in this way is empirically useful for difficult
+to obtain or only transiently stationary brain data series. Even with relatively short
+samples lengths, if one is willing to make the pragmatic assumption of “temporary
+stationarity” or “things as they are right now will, for the sake of argument, go on
+forever” (perhaps the best we can do with intrinsically transient brain phenomena)
+then this “freeze framed” representation of reality yields an asymptotic measure on
+relatively short sample lengths since they are computationally infinite. A similar
+approach to h M , requires repeatedly exponentiating a Markoff matrix constructed
+from relatively short samples and generates the probabilistic (eigenvector) “dual” of
+h T. h M computed in this way serves as a useful quantity, h M called by some the
+Kolmogorov entropy in comparisons of control and experimental conditions of the
+same sample lengths. Systematic decreases in h M (“Kolmogorov entropy”) have
+been shown to accompany increasing “depth” of sleep using standard sleep staging
+techniques (Gallez and Babloyantz, 1991) and increases in h M were associated with
+both positive and negative emotional states induced by movies (Aftanas et al,
+1997).
+243
+h T and λ( + ) have been analogized to what is called algorithmic complexity,
+which quantifies a computer algorithm’s minimal representation of a symbol
+sequence as it grows longer (Chaitin, 1974; Bennett, C.H., 1982; Nicolis, 1986;
+Rissanen, 1982; Crutchfield and Young, 1989b). Examples of applications of a
+pseudocomputational compression scheme have quantified differences among
+protein sequences (Ebling and Jimenez-Montano, 1980), discriminated therapistdirected
+“transference” manifestations in verbally encoded processes in
+psychotherapy (Rapp et al, 1991), characterized neural spike train patterns in a
+penicillin kindled spike focus (Rapp et al, 1994), differentiated among spike
+sequence patterns of biogenic amine families of brain stem neurons (Mandell and
+Selz, 1994) and as a sample length-dependent rate, in content-free, mouse driven
+computer tasks differentiated borderline from obsessive-compulsive personality
+patterns (Selz and Mandell, 1997).
+Computation of lexical complexity is a good example of this approach. This
+procedure recursively surveys the sequence of symbols for the longest word, where
+“words” are subsequences that appear at least three times if they contain two letters
+or at least twice if they contain more than two letters. Upon finding a longest
+repeated word, the compression algorithm replaces all occurances of this word with
+a single distinct (new) symbol and looks again for the longest repeated word in the
+modified sequence. When the sequence cannot be further recursively compressed,
+there may remain identical adjacent symbols in the sequence. These are coded as
+the symbol raised to the power of the number of its adjacent occurances. This
+exponent cannot exceed five because six adjacent identical symbols would be two
+occurances of a three letter word. The numerical value of the lexical complexity is
+simply the sum of the number of distinct symbols and the (sum of the) logarithm of
+the exponents of the symbol sequences (Ebling and Jimenez-Montano, 1980).
+A clear account of algorithmic and lexical complexity in relationship to other
+measures of “complexity” in the context of brain relevant research data can be
+found in Rapp and Schmah (1996). The relationship between thermodynamic and
+ergodic, measure theories in relationship to forced-dissipative dynamics and the
+244
+role of self-intersection on manifolds in this new source of irreversibility (with a
+resulting “arrow of time”) is developed in Mackey (1992).
+As noted, the skeleton which configures attractors is composed of unstable,
+“saddle” fixed points, each of which attract (iron down) the trajectory along one
+dimension and repel or spread it out along another. Systems fulfilling the criteria for
+a chaotic dynamical system have the property of a countably infinite number of
+unstable periodic orbits composed of these unstable fixed points. Depending upon
+parameters, the orbital points can pull up their tails to be discrete with respect to
+each other or spread along the unstable direction to connect smoothly with others
+along a curve such as a saddle cycle. Parametric control of the strengths and
+structures of the saddle point skeleton of typical attractors can be used to change
+both the rate of generation of novel symbols as well as recurrances to old ones in
+the symbolic dynamics generating a brain dynamical system’s lexagraphic products
+(Bowen, 1978; Alexeev and Jacobson, 1981)).
+Using a variety of techniques to algorithmically register “return times,”
+experimental condition-sensitive “saddle orbits” composing unstable periodic orbits
+have been demonstrated in geometric reconstructions of real data series generated
+by a 40+ component chemical reaction (Lathrop and Kostelich, 1989), in response
+to natural stimuli in the time dependent behavior of the crayfish caudal
+photoreceptor (Pei and Moss, 1996) and in the interburst interval sequences
+recorded in hippocampal slices of the rat (So et al, 1997; So et al, 1998). If the
+reader uses the software listed above to simulate the time evolution of one of these
+attractors of abstract or real systems , she will learn that a remarkably small number
+of points, a very short time sample, will outline, “shadow” (Bowen, 1978), the
+complete array of unstable fixed points before filling in the attractor. It is tempting to
+speculate about the potential nervous system relevance of this dynamical
+anticipation of the attractor’s recognizable geometry, as well as a precis of what the
+symbolic dynamics are going to say occurs many time steps before filling in the
+attractor and its asymptotic message. Values of the measures made on the early
+unstable periodic orbit arrays such h T , h M and λ( + ), resemble very closely those
+245
+made on their attractors when they were much more densely filled (Lathrop and
+Kostelich , 1989). Bowen’s “shadow lemma” in support of a thin film of points over
+the skelton of unstable fixed points of attractors is the fundamental reason that short
+sample length time series can often discriminate between control and experimental
+conditions in brain research studies.
+Another recently implemented entropy, called “approximate entropy,” is
+exploiting the underlying unstable fixed point skeletal shadowing principle in
+expansive dynamical systems to find statistically significant differences between
+control and experimental results in reasonably short, physiologically realistic,
+sample lengths (Pincus, 1991; Pincus et al, 1991). This algorithm is somewhat
+derivative of those involved in the computation of the correlation dimension (see
+above). Instead of computing across a range (and taking the limits) of embedding
+dimensions, d, and sequential paired-vectorial distances, ε, it empirically tailors and
+fixes them to compute a “logarithmic likelihood” that points remains close through
+incremental change in the time series. The “approximate entropy” is not easily
+relatable to either h T and h M. One is tempted to predict that this geometrically
+oriented algorithm might be fooled into a postive entropy diagnosis if applied to
+strange, nonchaotic dynamical systems with fractal dimension but no λ( + ) -related
+mixing. Since sequence position is conserved in this computation, two
+simultaneously studied (“multiparameter”) systems can be examined for their mutual
+coherence as the “cross approximate entropy.” Among the interesting findings from
+applications of this index to neuroendocrine studies are an increase in approximate
+entropy in LH and FSH secretory patterns with age in both sexes, perhaps
+quantitatively heralding menopause (Pincus and Minkin, 1998) and decreased cross
+approximate entropy, a decrease in regulatory coupling between ACTH and cortisol
+secretion patterns in patients with Cushing’s syndrome (Roelfsema et al, 1998).
+Among the many of other empirically derived entropies, one is called “power
+spectral entropy,” which is equivalent to the normalized variance of the distribution
+of frequencies in a power spectral transformation of a time series (Farmer et al,
+1980). This has been successfully applied to brain enzyme and receptor fluctuations
+246
+(Russo and Mandell, 1984a; Mandell, 1984), and, more recently, to multiple
+simultaneously EEG leads which demonstrated focal increases in epileptic patients
+(Inouye et al, 1991; 1992). An entropy derived from the quantification of the failures
+in temporal forecasting of EEG signals increased in the fronto-temporal region with
+drug treatment in patients with Alzheimer’s syndrome (Pezard et al, 1998).
+With respect to their implications for the clinical neurosciences, changes in
+dynamical entropy in behavior of brain dynamical systems has been regarded in two
+general ways: (1) Since representation of information requires the resolution of
+relevant ambiguity, a nonrelevant and global reduction in the dynamical entropy of a
+brain system (Stage IV sleep EEG slow waves, neuronal fixed point or regularly
+periodic activity, extrapyramidal motor tremor, fixed paranoid or obsessional
+mentation, the actions of some anxiolytics and antipsychotics ) reduces its potential
+for information encoding and transport. In contrast, “arousal” induced increases in
+the measures of entropy in brain wave and neuronal discharge patterns (pre-task
+warning signals, motivating conditions, stimulant drugs) are associated with
+improved psychophysical receptive and discrimination functions, learning rates and
+memory. (2) Regarding as potentially pathophysiological both of the two extremes
+of entropy generation, fixed point and periodic behavior as the lowest and fair coin
+flipping, “Bernoulli” randomness as the highest, another descriptor, “complexity” is
+defined as maximal (optimal) midway through the entropy range, making a new kind
+of parabolic entropy curve (Bennett, 1986; Crutchfield and Young, 1989a).
+In analogy with an optimal amalgam of periodic rotations and coin flips, in
+higher dimension, the most meaningful maximum complexity of real, nonuniformly
+expansive processes may derive from a multiplicity of measure invariants,
+symmetries, of the system such as the growth rate of unstable periodic orbits,
+divergence of the tail of a density distribution and specifiable linguistic variables
+such as word length and redundancy. The more symmetries, the more potential for
+complicated information encoding and transport with the maximum complexity
+located midrange in each one. We have pursued the hypothesis that entropy is a
+conserved property in the healthy brain and that complementarity in other statistical
+measure mechanisms make that possible. For example, in uniformly expansive,
+247
+idealized systems, topological entropy has been proven be equivalent to the product
+of an index of expansion and the dimension of the support such that an increase in
+expansiveness , λ( + ), is compensated by a decrease in D 0 leaving h T invariant
+(Manning,1981). This relationship has also been found in the behavior of some
+nonuniformly expansive neuroendocrine, neuronal and human behavioral systems
+(Mandell and Selz, 1995; Smotherman et al, 1996; Mandell and Selz, 1997a;).
+Is Randomness Versus Determinism a Productive Question for the Biological
+Sciences? Are There Better Ones?
+Measures made on realistically nonuniformly expansive behavior of
+dynamical systems emerging from nonlinear differential equations and that arising
+from a variety of non-classical random walk models overlap such that making what
+may be more a metaphysical discrimination at this point is labor intensive,
+contentious and unproductive for generating new experimental work in the
+neurosciences. It is important to note that random walk theory and computation has
+matured to such an extent that almost any “nonlinear dynamical behavior” can, with
+respect to statistical measure, be modeled using one of many varieties. For
+examples, power law distributions in continuous time random walks (times of
+movement are also randomly chosen) , random walks with traps (temporarily
+immobilizing the trajectory like unstable fixed points), random walks in random
+environments, time of passage of ants in a labyrinth and Levy leaps and local
+diffusive exploration (looking for a wallet) among many others can represent much
+of the irregular behavior we observe in the brain (Shlesinger et al, 1982; Montroll
+and Shlesinger, 1984; Hughes, 1995; Klafter et al, 1996). On the other hand,
+(Markoff) partition of the sequence and a probabilistic style of analysis of nonlinear
+dynamical systems has been a major strategy for description and quantification
+from the field’s beginnings (Parry, 1964; Adler and Weiss, 1967; Bowen, 1970;
+Lasota and Yorke, 1973). The issue of randomness versus determinism remains
+current although many if not most properties of deterministic dynamical systems can
+248
+be simulated with a suitably constructed random process and all of our random
+number generators are deterministic.
+This theoretical blind alley is reminiscent of the decades lost partialing out
+causal attributes of nature versus nurture before knowledge of dynamical influences
+on nucleotide dynamics was available. It is perhaps unfortunate that for finite length
+real data, “house keeping requirements” (Ruelle, 1990; Rapp, 1993;1994) and
+“warnings on the label” with various random sequence, random phase controls
+(“surrogate data”) have become so intimidating to those of us in the early stages of
+exploring the use of these theories and methods in the brain sciences. Currently the
+“controls” are more relevant to abstract statistical processes and what can be said
+about them rather than generating and addressing new claims and the controls for
+them related to quantitatively oriented, experimental brain physiology.
+Statistical caveats have arisen to retard the emergence of potentially
+important and robust neurophysiologically-relevant phenomena. For example, a
+recent well conducted and analyzed study of the influence of low doses of ethanol in
+32 normal male subjects, which honored almost all of the current analytic rituals
+including sequence and phase randomized surrogate data and searches for the
+continuity features of deterministic dynamical systems such as time asymmetry,
+concluded that the drug “reduced the evidence for nonlinear dynamical structure” in
+the brain (Ehlers et al, 1998). Though honoring the currently popular statistical
+rituals, what appears to be missing here are suggestions for new neurobiological or
+mathematical intuitions that will lead to the design of the next experiment.
+We now see that it is now possible to use these new ideas and methods to
+ask and at least partially answer more specific questions relevant to the clinically
+oriented neurosciences such as: whether increases in lithium-induced
+expansiveness and mixing in the dynamics of brain enzymes, neurons and behavior
+help explicate a mechanism of de-coherence in bipolar disease (Mandell et al,
+1985); do these approaches to membrane conductance fluctuations suggest a new
+way to think about ion channel dynamics (Liebovitch, 1990); can alcohol-induced
+changes in statistical dynamics of the EEG predict genetic predilection in males to
+249
+alcoholism (Ehlers et al, 1995); do these approaches suggest a new neural
+dynamical mechanism for the actions of anticonvulsant drugs (Zimmerman et al,
+1991); can these measures made on non-verbal, psychomotor tasks yield a nonintrusive
+measure of personality and character (Selz, 1992); can these approaches
+to deviant patterns of psychomotor sequencing in schizophrenics give us some
+insight into potential (cerebeller-basal ganglia?) mechanisms of the thought disorder
+in schizophrenia (Paulus et al, 1994); does cocaine induce new patterns of behavior
+that conserve pre-treatment entropy in developing animals (Smotherman et al,
+1996); will these quantities applied to objective gait observables supply early
+diagnoses and quantification of clinical course in patients with extra-pyramidal
+disorders or taking anti-psychotic medication (Hausdorff et al, 1998); can these
+transformations of time series on the EEG give us an early diagnostic approach to
+Alzheimer’s disease (Jeong et al, 1998) or a new acute preventive pharmacological
+approach to patients with psychomotor and partial seizures (Iasemidis et al, 1990).
+To end where we began: We think that if neuroscientists “did their own”
+nonlinear dynamical theory and analysis, shaped and tailored by intuitions growing
+out of their own experimental work and thinking, abstract and philosophical
+questions about what is determinism and what is random would retreat in favor of
+new specific ideas and experiments about brain dynamical mechanisms and their
+pathophysiology. From the studies reviewed here, it appears that a robust move in
+this direction in the brain sciences is well underway.
+250
+References
+Aasen,T.,Kugiumtzis,D.,Nordahl,G. (1997) Procedure for estimating the correlation
+dimension of optokinetic nystagmus signals. Comput Biomed Res. 30:95-116
+Accardo, A., Mumolo, E.(1998): An algorithm for the automatic differentiation
+between the speech of normals and patients with Friedreich's ataxia based on the
+short-time fractal dimension. Comput Biol. Med. 28:75-89
+Adler, R.J., Feldman, R.E., Taqqu, M. (1998) A Practical Guide to Heavy Tails;
+Statistical Techniques and Applications. Birkhauser. Boston
+Adler, R.L., Goodwyn, L.W., Weiss, B. (1977) Equivalence of topological Markov
+shifts. Isreal J. Math. 27:49-63
+Adler, R.L., Konheim, A.G., McAndrew, M.H. (1964) Topological entropy. Trans.
+Amer. Math. Soc. 114:309-319
+Adler, R.L., Marcus, B. (1979) Topological entropy and equivalence of dynamical
+systems. Mem. Amer. Math. Soc. 219:
+Adler, R.L., Weiss, B. (1967) Entropy, a complete metric invariant for
+authomorphisms of the torus. Proc. Natl. Acad. Sci. 57:1573-1576
+Aftanas, L.I.,Lotova, N.V., Koshkarov, V.I., Pokrosvskaja, V.L., Popov, S.A.,
+Makhnev, V.P (1997) Non-linear analysis of emotion EEG: calculation of
+Kolmogorov entropy and the principal Lyapunov exponent. Neurosci Lett 226:13-16
+251
+Aihara, K., Matsumoto, G., Ikegaya, Y. (1984): Periodic and non-periodic responses
+of a periodically forced Hodgkin-Huxley oscillator. J. Theor. Biol. 140:27-38.
+Aihara, K., Numajiri, T., Matsumoto, G., Kotani, M. (1986): Structures of attractors in
+periodically forced neural oscillators. Phys. Lett. A116:313-317
+Akay, M., Mulder, E.J. (1998) Effects of maternal alcohol intake on fractal properties
+in human fetal breathing dynamics. IEEE Trans Biomed Eng 45:1097-1103
+Alexeev, V.M., Jacobson, M.V. (1981) Symbolic dynamics and hyperbolic dynamical
+systems. Phys. Rep. 75:287-325.
+Alonso, A., Faure, M.-P., Beaudet, A. (1994): Neurotensin promotes oscillatory
+bursting behavior and is internalized in basal forebrain cholinergic neurons. J.
+Neurosci. 14:5778-5792.
+Anderson, C.A., Mandell, A.J., Selz, K.A., Terry, L.M., Smotherman, W.P., Wong,
+C.H., Robinson, S.R., Robertson, S.S., Nathanielsz, P.W. (1998) The development
+of nuchal atonia associated with active (REM) sleep in fetal sheep: presence of
+recurrent fractal organization. Brain Res. 787:351-357
+Arnold, V.I. (1984) Catastrophe Theory. Springer-Verlag. N.Y.
+Arnold, V.I., Avez, A. (1968) Ergodic Problems in Classical Mechanics. Addison-
+Wesley. Redwood City, CA
+Babloyantz, A. (1986) Evidence of chaotic dynamics of brain activity during the
+sleep cycle. In (ed. Mayer-Kress, G) Dimensions and Entropies in Chaotic Systems.
+Springer-Verlag, 1986
+252
+Babloyantz, A., Destexhe, A. (1986) Low dimensional chaos in an instance of
+epilepsy. Proc. Natl. Acad. Sci. 83:3513-3517.
+Baker, G.L., Gollub, J.P. (1991) Chaotic Dynamics; An Introduction. Cambridge
+University Press. Cambridge
+Bassingthwaighte, J., Liebovitch, L., West, B. (1994) Fractal Physiology. Oxford
+University Press. Oxford.
+Bayne,W.F., Hwang, S.S. (1985) Effect of nonlinear protein binding on equilibration
+times for different initial conditions. J Pharm Sci 74:120-123
+Bazhenov, M., Timofeev, I., Steriade, M., Sejnowski, T.J. (1998) Computational
+models of thalamocortical augmenting responses. J. Neurosci. 18:6444-6465
+Bennett, C.H. (1982) Thermodynamics of computation; A review. Intl. J. Theor.
+Phys. 21:905-946
+Bennett, C.H. (1986) On the nature and origin of complexity in discrete,
+homogeneous, locally-interacting systems. Found. Phys. 16:585-604
+Beard, D.A., Bassingthwaighte, J.B. (1998) Power-law kinetics of tracer washout
+from physiological systems. Ann Biomed Eng 26:775-779
+Berge′,P., Pomeau, Y., Vidal, C. (1984) Order Within Chaos. Wiley-Interscience.
+N.Y.
+Berlin, Yu. A., Miller, J.R., Plonka, A. (1996) Rate Processes with Kinetic
+Parameters Distributed over Time and Space. Chem. Physics 212: Special Issue
+253
+Berns, G.S., Sejnowski, T.J. (1998) A computational model of how the basal ganglia
+produce sequences. J. Cogn. Neurosci. 10:108-121
+Birkhoff, G.D. (1922): Surface transformations and their dynamical applications.
+Acta Math. 43:1-119
+Boiteux, A., Goldbeter, A., Hess, B. (1975): Control of oscillating glycolysis of yeast
+by stochastic, periodic, and steady source of substrate: a model and experimental
+study. Proc Natl Acad Sci. 72:3829-33
+Boltzmann, L. (1909) Wissenschaftliche Abhandlungen (ed. Hassenohrl, F.) Barth,
+Liepzig
+Bores, P.A., Bertelli, G.M., Gilli, G. (1988) Temperature dependence of the binding
+of mu, delta, and kappa agonists to the opirate receptors in guinea-pig brain. Eur. J.
+Pharmacol. 146:247-252
+Bowen, R. (1970) Markoff partitions and minimal sets of Axiom A diffeomorphisms
+Amer. J. Math. 92:907-918
+Bowen, R. (1975): Equilibrium States and the Ergodic Theory of Anosov
+Diffeomorphisms. Lect. Notes. Math. 35
+Bowen, R. (1978) On Axiom A Diffeomorphisms. CBMS Regional Conference
+Series in Mathematics. Vol 35 A.M.S. Providence, RI
+Bressler, S.L. (1995): Large-scale cortical networks and cognition. Brain. Res. Rev.
+20:288-304
+254
+Briggs, K. (1990) An improved method for estimating Lyapounov exponents of
+chaotic time series. Phys. Lett. A151:27-32
+Brodskii,V.(1998) The nature of the circahoralian (ultradian) intracellular rhythms.
+Similarity to fractals Izv Akad Nauk Ser Biol 3:316-29
+Broomhead, D.S., King, G.P. (1986) Extracting qualitative dynamics from
+expeirmental data. Physica D20:217-236.
+Brown, R., Bryant, P., Abarbanel, H.D. (1991) Computing the Lyapounov spectrum
+of a dynamical system from an observed time series. Phys. Rev. A43:2787-2806
+Bryant, P., Brown, R., Abarbanel, H.D. I. (1990) Lyapounov exponents from
+observed time series. Phys. Rev. Lett. 65:1523-1526
+Bullard, W.P., Guthrie, P.B., Russo, P.V., Mandell, A.J. (1978) Regional and
+subcellular distribution and some factors in the regulation of reduced pterins in rat
+brain. J. Pharmacol. Exp. Therap. 206:4-20
+Buzug, Th., Reimers, T., Pfister, G. (1990) Optimal reconstruction of strangeattractors
+from purely geometrical arguments. Europhys. Lett. 13:605-610
+Callahan, J., Sashin, J.I. (1987) Models of affect-response and anorexia nervosa.
+Ann. N.Y. Acad. Sci. 504:241-259
+Canavier, C.C., Clark, J.W., Byrne, J.H. (1990): Routes to chaos in a bursting
+neuron. Biophys J. 57:1245-1251
+Carpenter, G.A. (1979): Bursting phenomena in excitable membranes. SIAM J.
+Appl. Math. 36:334-352
+255
+Casdagli, M. (1991) Chaos and deterministic versus stochastic nonlinear modeling.
+J. Royal. Stat. Soc. 54B:303-328
+Casdagli, M.C., Iasemidis, L.D., Savit, R.S., Gilmore, R.L., Roper, S.N.,
+Sacklellares, J.C. (1997) Non-linearity in invasive EEG recordings from patients with
+temporal lobe epilepsy. Electroenceph. Clin. Neurophys. 102:98-105
+Cartwright, M.I., Littlewood, J. (1945): On nonlinear differential equations of the
+second order. J. London. Math. Soc. 20: 180-189
+Celletti, A.,Villa, A.E.(1996) Low-dimensional chaotic attractors in the rat brain. Biol
+Cybern 74:387-393
+Cerf, R., Sefrioui, M., Toussaint, M., Luthringer, R., Macher, J.P. (1996) Lowdimensional
+dynamic self-organization in delta-sleep: effect of partial sleep
+deprivation Biol Cybern 74:395-403
+Chaitin, G.J. (1974) Information theoretical computational complexity. IEEE Trans.
+Inform. Theory IT20:10-15.
+Chay, T.R., Rinzel, J. (1985) Bursting, beating and chaos in an excitable membrane
+model. Biophys. J. 47:357-366
+Chen, Y-Q., Ku, Y-H. (1992) Properties of favored patterns in spontaneous spike
+trains and responses of favored patterns to electroacupuncture in evoked trains.
+Brain Res. 578:297-304
+Clausius, R. (1897) The Mechanical Theory of Heat. MacMillan London
+256
+Coffman, K., McCormick, W.D., Swinney, H.L. (1986) Multiplicity in a chemical
+reactions with one-dimensional dynamics. Phys. Rev. Lett. 56:999-1002
+Contreras, D., Dextexhe, A., Sejnowski, T.J., Steriade, M. (1997) Spatiotemporal
+patterns of spindle oscillations in cortex and thalamus. J. Neurosci. 17:1179-1196
+Cooper, N.G. (1987): From Cardinals to Chaos, Cambridge University Press,
+Cambridge.
+Cornfield, I.P., Fomin, S.V., Sinai, Ya.G. (1982) Ergodic Theory. Springer-Verlag.
+Berlin
+Crevier,D.W., Meister,M (1998): Synchronous period-doubling in flicker vision of
+salamander and man. J Neurophysiol. 79:1869-1878
+Crutchfield, J.P., Young, K. (1989a) Inferring statistical complexity. Phys. Rev. Lett.
+63:105-108
+Crutchfield, J.P., Young, K. (1989b) Computation at the onset of chaos. In (ed.
+Zurek, W.H.) Complexity, Entropy and the Physics of Information. Addison-Wesley.
+Redwood City, CA.pp 223-269.
+Cvitanovic′, P. (1989): Universality in Chaos. Adam-Hilger, Bristol.
+Dayhoff, J.E. (1984) Distinguished words in data seqauences; analysis and
+applications to neural coding and other fields. Bull. Math. Biol. 46:529-543
+Dayhoff, J.E., Gerstein, G.L. (1983a) Favored patterns in spike trains. I. Detection.
+J. Neurophysiol. 49: 1334-1346
+257
+Dayhoff, J.E., Gerstein, G.L. (1983b) Favored patterns in spike trains. II.
+Applications. J. Neurophysiol. 49:1347-1363
+DeBrouwer, S. Edwards, D.H.,Griffith, T.M (1998): Simplification of the
+quasiperiodic route to chaos in agonist-induced vasomotion by iterative circle
+maps.Am J Physiol. 274:H1315-26
+de Gennes, P-G. (1979) Scaling Concepts in Polymer Physics. Cornell University
+Press, Ithica, N.Y.
+Devaney, R.L. (1989): An Introduction to Chaotic Dynamical Systems, 2 nd ed.
+Addison-Wesley, Redwood City, CA.
+Dewey, T.G. (1997) Fractals in Molecular Biophysics Oxford University Press,
+Oxford
+Ding, M., Grebogi, C., Ott, E. (1989) Dimensions of strange nonchaotic attractors.
+Phys. Lett. A137:167- 172
+Ding, M., Grebogi, C., Ott, E., Sauer, T., Yorke, J. (1993) Plateau onset for
+correlation dimension: When does it occur. Phys. Rev. Lett. 70:3872-3875.
+Duke, D.W. and Pritchard, W.S. (eds) (1991)Measuring Chaos in the Human Brain.
+World Scientific. Singapore.
+Dvorak, I. and Holden, A. (eds) (1991) Mathematical Approaches to Brain
+Functioning Diagnostics. Manchester University Press. Manchester
+Ebling, W., Jimenez-Montano, M.A. (1980) On grammars, complexity and
+information measures of biological molecules. Math. Biosci 52:53-71
+258
+Eckmann, J.-P. (1981): Roads to turbulence in dissipative dynamical systems. Rev.
+Mod. Phys. 53:643-654
+Eckmann, J., Ruelle, D. (1985) Ergodic theory of chaos and strange attractors. Rev.
+Mod. Phys. 57:617-656
+Eckmann, J.P., Ruelle, D. (1992) Fundamental limitations for estimating dimensions
+and Lyapounov exponents in dynamical systems. Physica 56D:185-187
+Eckmann, J.-P., Kamphorst, S.O., Ruelle, D., Cilberto, S. (1986) Lyapounov
+exponents from time series. Phys. Rev. A34:4971-4979
+Edwards, D.H., Griffith, T.M. (1997) Entrained ion transport systems generate the
+membrane component of chaotic agonist-induced vasomotion. Am J Physiol
+273:H909-920
+Efremova, T.M., Kulikov, M.A.(1997) The chaotic component of the high-frequency
+EEG of the rabbit cerebral cortex in the formation of a defensive conditioned reflex.
+Zh Vyssh Nerv Deiat Im I P Pavlova 47:858-869
+Elger,C., Lehnertz, K. (1998) Seizure prediction by non-linear time series analysis of
+brain electrical activity. Eur J Neurosci.10:786-789
+Enns, R.H., McGuire, G.C. (1997) Nonlinear Physics with Maple for Scientists and
+Engineers. Birkhauser. Boston
+Ehlers, C.L. (1995) Chaos and complexity. Arch. Gen. Psychiat. 52:960-964
+Ehlers, C.L., Havstad, J.W., Garfinkel, A., Kupfer, D.J. (1991) Nonlinear analysis of
+EEG sleep states. Neuropsychopharmacology 5:167-176
+259
+Ehlers, C.L., Havstad, J., Prichard, D., Theiler, J. (1998) Low doses of ethanol
+reduce evidence for nonlinear structure in brain activity. J Neurosci 18:7474-86
+Ehlers, C., Havstad, J.W., Schuckit, M.A. (1995) EEG dimension in sons of
+alcoholics. Alcohol Clin. Exp Res 19:992-998
+Elbert, T., Lutzenberger, W., Rockstroh, B., Berg, P., Cohen, R.(1992) Physical
+aspects of the EEG in schizophrenics. Biol Psychiatry 32:595-606
+Erdos, P., Renyi, A. (1970). On a new law of large numbers. J. Anal. Math. 22:103-
+111
+Farmer, D., Crutchfield, J., Froehling, H., Packard, N., Shaw, R. (1980) Power
+spectra and mixing properties of strange attractors. Ann. N.Y. Acad. Sci. 357:453-
+472
+Farmer, J.D., Ott, E., Yorke, J.A. (1983) The dimension of chaotic attractors.
+Physica D7: 153-180
+Feder, J. (1988) Fractals. Plenum. N.Y.
+Feigenbaum, M.J. (1979) The universal metric properties of nonlinear
+transformations, J. Stat. Phys. 21:669-702
+Fell, J.,Roschke, J., Beckmann, P. (1993) Deterministic chaos and the first positive
+Lyapunov exponent: a nonlinear analysis of the human electroencephalogram
+during sleep. Biol Cybern 69:139-46
+Fell, J., Roschke, J., Schaffner, C. (1996) Surrogate data analysis of sleep
+electroencephalograms reveals evidence for nonlinearity. Biol Cybern 75:85-92
+260
+Feller, W. (1968) An Introduction to Probability Theory and Its Applications. Wiley.
+NY. Vol. I., Chapter 3
+Fermi, E., Pasta, J., Ulam, S. (1955): Studies of nonlinear problems. Los Alamos
+Scientific Laboratory Report # 1940
+Fessard, A., Gerard, R.,W. , Konorski, J. (1961) (eds) Brain Mechanisms and
+Learning. Blackwell, Oxford.
+Flory, P. (1971) Principles of Polymer Physics. Cornell University Press, Ithica, N.Y.
+Frank, G.W., Lookman, T., Nerenberg, M.A.H., Essex, C., Lemieux, J., Blume, W.
+(1990) Chaotic time series of epileptic seizures. Physica D46:427-438
+Friedrich, R., Fuchs, A., Haken, H. (1991): Spatio-temporal EEG patterns In (ed.
+H.Haken and H.P. Kopchen) Synergetics of Rhythms. Springer. Berlin
+Gallez, D.,Babloyantz, A. (1991) Predictability of human EEG: a dynamical
+approach. Biol Cybern 64:381-391
+Ganz,R.E., Faustman, P.M. (1996) Functional coupling between the centralautonomic
+and the cognitive systems is enhanced in states after optic neuritis and
+early multiple sclerosis. Int J Neurosci, 86:87-93
+Geist, K., Parlitz, U., Lauterborn, W. (1990) Comparison of different methods for
+computing Lyapunov exponents. Prog. Theor. Physics 83:875-893
+Gershenfeld, N.A. (1992) Dimension measurement on high-dimensional systems
+Physica D55: 135-154
+261
+Gerstein, G.L., Mandelbrot, B.B. (1964) Random walk models for the spike activity
+of a single neuron. Biophys. J. 4:41-68.
+Gibbs, J.W. (1902) Elementery Principles in Statistical Mechanics, Yale University
+Press, New Haven.
+Gilmore, R. (1981): Catastrophe Theory for Scientists and Engineers. Wiley. N.Y.
+Glass, L., Mackey, M. (1988) From Clocks to Chaos; The Rhythms of Life.
+Princeton University Press. Princeton.
+Goldberger, A.L., Rigney, D.R., West, B.J. (1990) Chaos and fractals in human
+physiology. Scientific American 262:42-49
+Goldberger, A.L. (1996) Non-linear dynamics for clinicians: chaos theory, fractals
+and complexity at the bedside. Lancet 347:1312-1314
+Gong, Y., Xu, J., Ren, W., Hu, S., Wang, F.(1998) Determining the degree of chaos
+from analysis of ISI time series in the nervous system: a comparison between
+correlation dimension and nonlinear forecasting methods. Biol Cybern 78:159-65
+Gottschalk, A., Bauer, M.S., Whybrow, P.C. (1995) Evidence of chaotic mood
+variation in bipolar disorder. Arch. Gen. Psychiat. 52:947-959
+Grebogi, C., Ott, E., Pellikan, S., Yorke, J.A. (1984) Strange attractors that are not
+chaotic. Physica 13D:261-268
+Grassberger, P. (1981) On the Hausdorf dimension of fractal attractors. J. Stat.
+Phys. 26:173-179
+262
+Grassberger, P. (1983) Generalized dimensions of strange attractors. Phys. Lett.
+A97:227-230.
+Grassberger, P, Procaccia, I. (1983) Measuring the strangeness of strange
+attractors. Physica 9D:189-208
+Gregson, R.A.,Britton, L.A., Campbell, E.A., Gates, G.R. (1990) Comparisons of the
+nonlinear dynamics of electroencephalograms under various task loading
+conditions: a preliminary report. Biol Psychol 31:173-191
+Grimmett, G. (1989) Percolation. Springer-Verlag.
+Guckenheimer, J., Holmes, P. (1983): Nonlinear Oscillations, Dynamical Systems
+and Bifurcations of Vector Fields. Springer. N.Y.
+Guillemin, R.C., Brazeau, P., Briskin, A., Mandell, A.J. (1983) Evidence for
+synergetic dynamics in a mammalian pituitary cell perfusion system in (ed. E.Basar,
+H. Flohr, H. Haken, A.J. Mandell) Synergetics of Brain. Springer-Verlag. pp 155-162
+Gupta, V., Suryanarayanan, S., Reddy, N.P. (1997) Fractal analysis of surface EMG
+signals from the biceps. Int J Med Inf 45:185-192
+Guzzetti, S.,Signorini,M.G., Cogliati, C., Messetti,S., Porta, A., Cerutti, S., Malliani,
+A. (1996) Non-linear dynamics and chaotic indices in heart rate variability of normal
+subjects and heart-transplanted patients. Cardiovasc Res 31:441-446
+Hadamard, J. (1898) Les surfaces a courbures opposees et leur lignes geodesic. J.
+Math. Pures. Appl. 4:27-73
+263
+Hagerman, I.,Berglund, M., Lorin, M., Nowak, J., Sylven, C.(1996) Chaos-related
+deterministic regulation of heart rate variability in time- and frequency domains:
+effects of autonomic blockade and exercise. Cardiovasc 31:410-418
+Haken, H. (1997) Visions of synergetics. Int. J. Bifurcat. Chaos. 7:1927-1951
+Halsey, T.C., Jensen, M.H., Kadanoff, L.P., Procacccia, I., Shraiman, B.I. (1986)
+Fractal measures and their singularities: the generalization of strange sets. Phys.
+Rev A33:1141-1151
+Hartman, M., Pincus, S., Johnson, M., Matthews, D., Faunt, L., Vance, M., Thorner,
+M., Veldhuis, J. (1994): Enhanced basal and disorderly growth hormone secretion
+distinguish acromegalic from normal pulsatile growth hormone release. J. Clin.
+Invest. 94:1277-1288.
+Hausdorff, J.M., Cudkowicz, M.E., Firtion, R., Wei, J.Y., Goldberger, A.L. (1998)
+Gait variability and basal gangia disorders: stride-to-stride variations in gait cycle
+timing in Parkinson’s and Huntington’s disease. Mov. Disord. 13:428-437
+Hausdorff, J.M., Peng, C.-K., Ladin, Z., Wei, J.Y., Goldberger, A.L. (1995) Is
+walking a random walk? Evidence for long range correlations in the stride interval of
+human gait. J. Appl. Physiol. 78:349-358
+Hausdorff. J.M., Purdon, P.L., Peng, C.-K., Ladin, Z., Wei, J.Y., Goldberger, A.L.
+(1996) Fractal dynamics of human gait stability of long-range correlations in stride
+interval fluctuations. J. Appl. Physiol. 80:1448-1457
+Heffernan, M.S.(1996) Comparative effects of microcurrent stimulation on EEG
+spectrum and correlation dimension. Integr Physiol Behav Sci 31:202-209
+264
+Hentschel, H.G.E., Procaccia, I. (1983) The infinite number of generalized
+dimensions of fractals and strange attractors. Physica D8:435-444
+Herman, M.L., Pincus, S.M., Johnson, M.L.,Matthews, D.L.., Faunt, , L.M.., Vance,
+M.L.., Thorner, M.O., Veldhuis, J.D. (1994) Enhanced basal and disorderly growth
+hormone secretion distinguish acromegalic from normal pulsatile growth hormone
+release. J. Clin. Invest. 94:1277-1288.
+Hitzemann, R., Murphy, M., Curell, J. (1985) Opiate receptor thermodynamics:
+agonist and antogonist binding. Eur. J. Pharmacol. 108:171-177
+Hoyer, D.,Pompe, B., Herzel, H., Zwiener, U. (1998) Nonlinear coordination of
+cardiovascular autonomic control. IEEE Eng Med Biol Mag 17:17-21
+Huber, M.T., Braun, H.A., Krief, J.C. (1999) Effects of noise on different states of
+recurrent affective disorder. Biol. Psychiat. In press.
+Huberman, B.A. (1987) A model for dysfunctions in smooth pursuit eye movement.
+Ann. N.Y. Acad. Sci. 504:260-273
+Hughes, B.D. (1995) Random Walks and Random Environments. Clarendon.
+Oxford.
+Hurewicz, W., Wallman, H. (1948) Dimension Theory. Princeton University Press,
+Princeton
+Iasemidis, L.D., Sackellares, J.C. (1996) Chaos theory and epilepsy The
+Neuroscientist. 2:118-128.
+Iasemidis, J., Sacklellares, H., Zaveri,H., Williams, W.J. (1990): Phase space
+topolography and the Laypounov exponent of electrocorticograms in partial
+seizures. Brain Topolography 2:187-201.
+265
+Iasemidis, LD., Sveri, H.P. Sackellares, J.C., William, W.J., Hood, T.W. (1988)
+Nonlinear dynamics of electrocorticographic data. J. Clin. Neurophysiol. 5:339
+Inouye, T., Shinosaki, K., Sakamoto, H., Toi, S., Ukai, S., Iyama, A., Katsuda, Y.,
+Hirano, M. (1991) Quantification of EEG irregularity by use of the entropy of the
+power spectrum. Electroencephalogr Clin Neurophysiol 79:204-210
+Inouye, T., Shinosaki, K., Toi, S., Ukai, S., Iyama, A., Katsuda, Y., Hirano, M. (1992)
+Abnormality of background EEG determined by the entropy of power spectra in
+epileptic patients. Electroencephalogr Clin Neurophysiol 82:203-207
+Jansen, B.H. (1996) Nonlinear dynamics and quantitative EEG analysis.
+Electroencephalogr Clin Neurophysiol Suppl 45:39-56
+Jansen, B.H. and Brandt, M.E. (eds) 1993 Nonlinear Dynamical Analysis of the
+EEG. World Scientific. Singapore
+Jeong, J., Joung, M.K., Kim, S.Y. (1998) Quantification of emotion by nonlinear
+analysis of the chaotic dynamics of electroencephalograms during perception of 1/f
+music. Biol Cybern 78:217-25
+Jeong,J., Kim, S.Y., Han, S.H. (1998) Non-linear dynamical analysis of the EEG in
+Alzheimer's disease with optimal embedding dimension. Electroencephalogr Clin
+Neurophysiol 106:220-228
+Kaneko, K. (1983): Similarity structure and scaling property of the period adding
+phenomena. Prog. Theor. Phys. 69:403-414
+Kaplan, D.T. (1994) Exceptional events as evidence of determinism. Physica
+D73:38-48
+266
+Kaplan, D.T., Glass, L. (1992) Direct test for determinism in a time series. Phys.
+Rev. Lett. 68:427-430
+Katz, B. (1966) Nerve, Muscle and Synapse. McGraw-Hill. N.Y.
+Kelly,O.E., Johnson, D.H., Delgutte, B., Cariani, P. (1996)Fractal noise strength in
+auditory-nerve fiber recordings. J Acoust Soc Am 99:2210-20
+Keunen, R.W.,Vliegen, J.H., Stam,C.J., Tavy, D.L.(1996) Nonlinear transcranial
+Doppler analysis demonstrates age-related changes of cerebral hemodynamics.
+Ultrasound Med Biol 22:383-390
+Khinchin, A.I. (1957) Mathematical Foundations of Information Theory. Dover. N.Y.
+King, R., Barchus, J.D., Huberman, B.A. (1984) Chaotic behavior in dopamine
+neurodynamics. Proc. Natl. Acad. Sci. 81:1244-1247
+Klafter, J., Shlesinger, M.F., Zumofen, G. (1996) Beyond brownian motion. Physics
+Today Feb. pp 33-39
+Klemm, W.R. (1990) Historical and introductory perspectives on brain-stem
+mediated behaviors In (ed. Klemm, W.R., Vertes, R.P.) Wiley-Interscience, N.Y.
+Klemm, W.R., Sherry, C.J. (1981) Serial ordering in spike trains: what's it "trying to
+tell us"? Int J Neurosci 14:15-33
+Knapp, S., Mandell, A.J. (1983) Scattering kinetics in a complex tryptophan
+hydroxylase preparation from rat brainstem raphe nuclei: statistical evidence that
+267
+the lithium-induced sigmoid velocity function reflects two states of available catalytic
+potential. J. Neural Trans. 58:169-182
+Knapp, S., Mandell, A.J. (1984) TRH influences the pterin-cofactor and timedependent
+instabilities of rate raphe trypophan hydroxylase activity assessed under
+far-from-equilibrium conditions. Neurochem. Internat. 6:801-812
+Knapp, S., Mandell, A.J., Russo, P.V., Vitto, A., Stewart, K. (1981) Strain
+differences in kinetic and themal stability of two mouse strain tryptophan
+hydroxylase activities. Brain Res. 230:317-336
+Koch, C.D.,Palovcik, R.A., Uthman, B.M., Principe, J.C. (1992) Chaotic activity
+during iron-induced "epileptiform" discharge in rat hippocampal slices. IEEE Trans
+Biomed Eng 39:1152-1160
+Koch,H.P, Zajcek, H. (1991) Fractals also in pharmacokinetics? Pharmazie 46:870-
+871
+Kolmogorov, A.N. (1950) Foundations of Probability Theory. Chelsea, N.Y.
+Kolmogorov, A.N. (1957): General theory of dynamical systems and classical
+mechanics. In Proc. 1954 International Congress of Mathematics, North-Holland.
+Kolmogorov, A.N. (1958) A new metric invariant of transient dynamical systems and
+automorphisms in Lebesgue space. Dokl. Acad. Nauk. SSSR 119:861-864
+Kolmogorov, A.N. (1959) Entropy per unit time as a metric invariant of
+automorphisms. Dokl. Acad. Nauk. SSSR 124:754-758
+268
+Korn, S.J., Horn, R. (1988) Statistical discrimination of fractal and Markov models of
+single-channel gating. Biophys J. 54:871-877
+Korsch, H.J., Jodl, H. (1993) Chaos; A Program Collection for the PC. Springer-
+Verlag.
+Krebs-Thomson, K., Lehmann-Masten, V., Naiem, S., Paulus, M.P., Geyer, M.A.
+(1998a) Modulation of phencyclidine-induced changes in locomotor activity and
+patterns in rats by serotonin. Eur. J. Pharmacol. 343:135-143
+Krebs-Thomson, K., Paulus, M.P., Geyer, M.A. (1998b) Effects of hallucinogens on
+locomotor and investigatory activity and patterns: influence of 5-HT2A and 5-HT2C
+receptors. Neuropsychophamracology. 18:339-351
+Kowalik, Z.J., Elbert, T. (1995) A practical method for the measurement of the
+chaoticity of electric and magnetic brain activity. Int. J. Bifurcation. Chaos 5:475-490
+Kumar, A.R., Johnson, D.H. (1993) Analyzing and modeling fractal intensity point
+processes. J Acoust Soc Am 93:3365-3373
+Krystal, A.D., Weiner, R.D. (1991) The largest Lypounov exponent of the EEG in
+ECT seizures. In (ed. D.Duke and W. Pritchard) Measureing Chaos in the Human
+Brain. World Scientific. Singapore
+Lasota, A., Yorke, J. (1973) On the existence of invariant measures for piecewise
+monotonic transformations. Trans. Amer. Math. Soc. 186:481-488
+Lathrop, D.P., Kostelich, E.J. (1989) Characterization of an experimental strange
+attractor by periodic orbirts. Phys. Rev. A40:4028-4031
+269
+Levinson, N. (1949): A second order differential equation with singular solutions..
+Ann. Math. 50:127-153
+Li, T.Y., Yorke, J.A. (1975): Period three implies chaos. Amer. Math. Mon. 82:985-
+992
+Liebovitch, L.S. (1989) Analysis of fractal ion channel gating kinetics: kinetic rates,
+energy levels, and activation energies. Math Biosci. 93:97-115
+Liebovitch, L.S. (1998) Fractals and Chaos; Simplified for the Life Sciences. Oxford
+University Press, Oxford.
+Liebovitch,L.S., Sullivan, J.M. (1987) Fractal analysis of a voltage-dependent
+potassium channel from cultured mouse hippocampal neurons. Biophys J. 52:979-
+88
+Liebovitch, L.S., Todorov, A.T. Using fractals and nonlinear dynamics to determine
+the physical properties of ion channel proteins. (1996) Crit Rev Neurobiol 10:169-87
+Liebovitch, L.S., Todorov, A.T. (1996) Invited editorial. J. Appl. Physiol. 80:1446-
+1447
+Liebert, W., Pawelzik, K., Schuster, H.G. (1991) Optimal embeddings of chaotic
+attractors from topological considerations. Europhys. Lett. 14:521-526
+Lorenz, E.N. (1963): Deterministic nonperiodic flow. J. Atmos. Sci. 20:130-141
+Lowen, S.B.,Teich, M.C.(1992) Auditory-nerve action potentials form a nonrenewal
+point process over short as well as long time scales. J Acoust Soc Am 92:803-6
+270
+Lutzenberger, W., Flor, H., Birbaumer, N. (1997) Enhanced dimensional complexity
+of the EEG during memory for personal pain in chronic pain patients. Neurosci Lett
+226:167-170
+Lutzenberger, W., Birbaumer,N., Flor, H., Rockstroh, B., Elbert, T. (1992)
+Dimensional analysis of the human EEG and intelligence Neurosci Lett 143:10-14
+Macheras, P.,Argyrakis, P., Polymilis, C. (1996) Fractal geometry, fractal kinetics
+and chaos en route to biopharmaceutical sciences. Eur J Drug Metab
+Pharmacokinet 21:77-86
+Mackey, M. (1992) Time’s Arrow: The Origins of Thermodynamic Behavior.
+Springer-Verlag. NY
+Mackey, M., Glass, L. (1977) Oscillation and chaos in physiological control systems.
+Science 197:287-289
+Magoun, H.W. (1954) The ascending reticular formation and wakefulness. In (ed.
+E.D. Adrian, F. Bremer, H.H. Jasper. Brain Mechanisms and Consciousness.
+Blackwell. Oxford pp 1-20
+Makarenko, V., Llinas, R.(1998) Experimentally determined chaotic phase
+synchronization in a neuronal system. Proc Natl Acad Sci 95:15747-15752
+Mandelbrot, B.B. (1967) How long is the coast of Britain? Statistical self-similarity
+and fractional dimension. Science 155:636-638
+Mandelbrot, B.B. (1974) Intermittent turbulence in self-similar cascades: divergence
+of high moments and dimension of the carrier. J. Fluid Mech. 62:331-358
+271
+Mandelbrot, B.B. (1975) Les Objets Fractals:Forme, Hasard et Dimension.
+Flammarion. Paris
+Mandelbrot, B.B. (1977) Fractals; Form, Chance and Dimension. Freeman. N.Y.
+Mandelbrot, B.B. (1977) Fractals: Form, Chance and Dimension, Freeman. San
+Francisco
+Mandell, A.J. (1983) From intermittency to transitivity in neuropsychobiological
+flows. Am. J. Physiol. 245: R484-R494
+Mandell, A.J. (1984) Non-equilibrium behavior of some brain enzyme and receptor
+systems. Ann. Rev. Pharmacol. Toxicol. 24:237-274
+Mandell, A.J. (1986) The hyperbolic helix hypothesis in (ed. L Pietronero, E. Tosatti)
+Fractals in Physics. Elsevier. N.Y.
+Mandell, A.J. (1987) Dynamical complexity and pathological order in the cardiac
+monitoring problem. Physica D27:235-242
+Mandell, A.J., Kelso, J.A.S. (1991) Dissipative and statistical mechanics of amine
+neuron activity. In (eds. Ellison, J.A., Uberall, H.) Essays on Classical and Quantum
+Dynamics. Gordon Beach. Philadelphia pp 203-236
+Mandell, A.J., Knapp, S., Ehlers, C., Russo, P.V. (1985) The stability of constrained
+randomness: lithium prophylaxis at several neurobiological levels. In (ed. R.M. Post,
+J. Ballenger). Neurobiology of Mood Disorders. Williams and Wilkins. Baltimore.
+pp744-776
+272
+Mandell, A.J., Russo, P.V. (1981): Striatal tyrosine hydroxylase:multiple
+conformational kinetic oscillators and product concentration frequencies. J.
+Neuroscience 1:380-389
+Mandell, A.J., Russo, P.V., Knapp, S. (1982) Strange stability in hierarchically
+coupled neuropsychobiological systems. In (ed. Haken, H.) Evolution of Order and
+Chaos. Springer-Verlag. Berlin. pp 270-286
+Mandell, A.J., Selz, K.A. (1991) Period adding, hierarchical protein modes and
+electroencephalographically defined states of consciousness. In (eds. Vohra, S.,
+Spano, M., Shlesinger, M.F., Pecora, L., Ditto, W. ) Proc. 1 st Experimental Chaos
+Conference. World Scientific. Hong Kong
+Mandell, A.J., Selz, K.A. (1992) Dynamical systems in psychiatry: now what? Biol.
+Psychiat. 32:299-301.
+Mandell, A.J., Selz, K.A. (1993): Brain stem neuronal noise and neocortical
+“resonance.” J. Stat. Phys. 70:355-371
+Mandell, A.J., Selz, K.A. (1994) Resonance, synchroniation and lexical redundancy
+in the expanding dynamics of brain stem neurons. SPIE Proc 2036:86-99
+Mandell, A.J. and Selz, K.A. (1994) Resonance, synchronization and lexical
+redundancy in the expanding dynamics of brain stem neurons. Chaos in Medicine
+and Biology SPIE Proc: 2036:86-99
+Mandell, A.J., Selz, K.A. (1995) Nonlinear dynamical patterns as personality theory
+for neurobiology and psychiatry. Psychiatry 58:371-390
+273
+Mandell, A.J., Selz, K.A. (1997a) Entropy conservation as h
+neurobiological dynamical systems. Chaos 7:67-81
+≈ + d in
+t µ
+λ µ µ
+Mandell, A.J. and Selz, K.A. (1997b) Is the EEG a strange attractor? Brainstem
+neuronal discharge patterns and electroencehphalographic rhytms in (ed. Grebogi,
+C., Yorke, J) The Impact of Chaos on Science and Society United Nations
+University Press, Tokyo, pp 64-96
+Mandell, A.J., Selz, K.A., Shlesinger, M.F. (1991) Some comments on the weaving
+of contemporaneous minds: Resonant neuronal quasiperiodicity, period adding and
+O(2) symmetry in the EEG In (ed. Pritchard W., Duke, D.) Chaos in the Brain World
+Scientific Singapore pp 136-155
+Manneville, P., Pomeau, Y. (1980): Different ways to turbulence in dissipative
+systems. Physica 1D:219-226
+Mantegna, R.N. (1991) Levy walks and enhanced diffusion in Milan stock exchange.
+Physica A 179:232-242
+Martinerie, J.,Adam, C., Le Van Quyen, M., Baulac, M., Clemenceau, S., Renault,
+B., Varela, F.J. (1998) Epileptic seizures can be anticipated by non-linear analysis
+Nat Med 4:1173-1176
+May, R.M. (1976): Simple mathematical models with very complicated dynamics.
+Nature 261:459-467
+Mayer-Kress, G. (1986) Dimensions and Entropies in Chaotic Systems. Springer-
+Verlag. N.Y.
+274
+McManus, O.B., Weiss, D.S., Blatz, A.L., Magleby, K.L. (1988) Fractal models are
+inadequate for the kinetics of four different ion channels. Biophys J 54:859-70
+McMullen, C. T. (1994) Complex Dynamics and Renormalization. Princeton
+University Press. Princeton.
+McMurran, S., Tattersal, J. (1999): Mary Cartwright. Notices, AMS 46:214-220
+Mestivier, D., Dabire, H., Safar, M., Chau, N.P. (1998) Use of nonlinear methods to
+assess effects of clonidine on blood pressure in spontaneously hypertensive rats. J
+Appl Physiol 84:1795-800
+Metropolis, N., Stein, M.L., Stein, P.R. (1973): On limit sets for transfomrations on
+the unit interval . J. Combinatorial Theory 15:25-44
+Meyer-Lindenberg, A., Bauer, U., Krieger, S., Lis, S., Vehmeyer, K., Schuler, G.,
+Gallhofer, B. (1998) The topography of non-linear cortical dynamics at rest, in
+mental calculation and moving shape perception. Brain Topogr 10:291-9
+Micheloyannis, S., Flitzanis, N., Papanikolaou, E., Bourkas, M., Terzakis, D.,
+Arvanitis, S., Stam, C.J. (1998) Usefulness of non-linear EEG analysis Acta Neurol
+Scand 97:13-9
+Milnor, J. (1985): On the concept of attractor. Commun. Math. Phys. 99:177-195
+Milton, J.G., Longtin, A. (1990): Evaluation of pupil constriction and dilation from
+cycling measurements. Vision Res. 30:515-525
+275
+Misiurewicz, M. (1995) Thirty years after Sharkovskii’s theorem. Int. J. Bifurcation
+Chaos 5:1275-1281
+Mogilevskii, A.Ya., Derzhiruk, L.P., Panchekha, A.P., Dershiruk, E.A.(1998)
+Adaptive regulation of the nonlinear dynamics of electrical activity of the brain.
+Neurosci Behav Physiol 28:366-375
+Molnar, M., Gacs,G., Ujvari, G., Skinner, J.E., Karmos, G. (1997) Dimensional
+complexity of the EEG in subcortical stroke--a case study. Int J Psychophysiol.
+25:193-199
+Montroll, E.W., Badger, W.W. (1974) Introduction to Quantitative Aspects of Social
+Phenomena. Gordon & Breach. N.Y.
+Montroll, E.W., Shlesinger, M.F. (1984) On the wonderful world of random walks. In
+(ed. Liebowitz, J.L, Montroll, E.W.) Nonequilibrium Phenomena II: From Stohastics
+to Hydrodynamics. Elsevier. North-Holland. Amsterdam
+Moon, F. (1992): Chaotic and Fractal Dynamics; An Introduction for Applied
+Scientists and Engineers. Second Edition, Wiley, N.Y.
+Morinushi, T., Kawasaki, H., Masumoto, Y., Shigeta, K., Ogura, T., Takigawa, M.
+Examination of the diagnostic value and estimation of the chaos phenomenon in
+masticatory movement using fractal dimension in patients with temporomandibular
+dysfunction syndrome. (1998): J. Oral Rehabil.25:386-94
+Morse, M. (1921) A one-to-one representation of geodesics on a surface of negative
+curvature. Amer. J. Math. 43:33-51
+Morse, M. Hedlund, G.A. (1938) Symbolic dynamics. Amer. J. Math. 60:815-866.
+276
+Moruzzi, G. (1960) Synchronizing influences of the brain stem and the inhibitory
+mechanisms underlying the production of sleep by sensory stimulation.
+Electroencephal. Clin. Neurophysiol. Suppl. 13:231-256
+Moruzzi, G., Magoun, R.W. (1949) Brain stem reticular formation and activation of
+the EEG. Electroencephal. Clin. Neurophysiol. 1:455-473
+Musha, T. (1981) 1/f fluctuations in biological systems. In Sixth International
+Conference on Noise in Physical Systems. National Bureau of Standards #614 :
+143-146
+Nicolelis, M.A.L., Baccala, L.A., Lin, R.C.S., Chapin, J.K. (1995): Sensorimotor
+encoding by synchronous neural ensemble activity at multiple levels of the
+somatosensory system. Science 268:1353-1358
+Nicolis, J.S. (1986) Chaotic dynamics applied to information processing. Rep. Prog.
+Phys. 49:1109-1196
+Nieminen, H., Takala, E.P.(1996) Evidence of deterministic chaos in the myoelectric
+signal. Electromyogr Clin Neurophysiol 36:49-58
+Nozaki,D., Nakazawa, K., Yamamoto, Y.(1996) Supraspinal effects on the fractal
+correlation in human H-reflex. Exp Brain Res 112:112-118
+Nusse, H.E., Yorke, J.A. (1991). Dynamics: Numerical Explorations. Springer-
+Verlag. N.Y.
+277
+Ogihara,T., Tamai, I., Tsuji, A. (1998) Application of fractal kinetics for carriermediated
+transport of drugs across intestinal epithelial membrane. Pharm Res
+15:620-625
+Olsen, L.F., Degn, H. (1977): Chaos in an enzymel system. Nature 267:177-178
+Ornstein, D.S. (1989) Ergodic theory, randomness and chaos. Science 243:182-
+198.
+Ott, E. (1981): Strange attractors and chaotic motions of dynamical systems. Rev.
+Mod. Phys. 53:655-671
+Ott, E., Sauer, T., Yorke, J.A. (1994) Coping with Chaos. Wiley-Interscience. N.Y.
+Packard, N., Crutchfield, J., Farmer, D., Shaw, R. (1980) Geometry from a time
+series. Phys. Rev. Lett. 45:712-716
+Parker, T.S., Chua, L.O. (1989) Practical Numerical Algorithms for Chaotic
+Systems. Springer-Verlag. N.Y.
+Parlitz, U. (1992) Identification of true and spurious Lyapounov exponents from time
+series. Int. J. Bifurcation and Chaos 2:155-165
+Parry, W. (1964) Intrinsic Markoff chains . Trans. Amer. Math. Soc. 112:55-66
+Paulus, M.P., Bakshi, V.P., Geyer, M.A. (1998) Isolation rearing affects sequential
+organization of motor behavior in post-pubertal but not pre-pubertal Lister and
+Sprague-Dawley rats. Behavior Brain Res. 94:271-280
+278
+Paulus, M.P., Gass, S.F., Mandell, A.J. (1989): A realistic , minimal “middle layer”
+for neural networks. Physica D40:135-155
+Paulus, M.P., Geyer, M.A. (1992) The effects of MDMA and other methylenedioxysubstituted
+phenylalkylamines on the structure of rat locomotor activity.
+Neuropsychopharmacology 7:15-31
+Paulus, M.P, Geyer,M.A., Braff, D.L. (1994) The assessesment of sequential
+response organization in schizophrenic and control subjects. Prog.
+Neuropsychopharm. & Biol. Psychiat. 18:1169-1185
+Paulus, M.P., Geyer, M.A., Braff, D.L. (1996): The use of methods from chaos
+theory to quantify a fundamental dysfunction in the behavioral organization of
+schizophrenic patients. Am. J. Psychiat. 153:714-717
+Paulus, M.P., Geyer, M.A., Gold, L.H., Mandell, A.J. (1990) Application of entropy
+measures derived from the ergodic theory of dynamical systems to rat locomotor
+behavior. Proc. Natl. Acad. Sci. 87:723-727
+Paulus, M.P., Geyer, M.A., Mandell, A.J. (1991) Statistical mechanics of a
+neurobiological dynamical system: The spectrum of local entropies, s(α) applied to
+cocaine-perturbed behavior. Physica A174:567-577
+Pei, X., Moss, F. (1996) Characterization of low-dimensional dynamics in the
+crayfish caudal photoreceptor. Nature 379:618-621
+Peng, C.-K., Buldyrev, S.V., Goldberger, A.L., Havlin, S., Simons, M., Stanley, H.E.
+(1993) Finite size effects on long range correlations: implications for analyzing DNA
+sequences. Phys. Rev. E47:3730-3733
+279
+Peng, C.-K., Havlin, S., Stanley, H.E., Goldberger, A.L. (1995) Quantification of
+scaling exponents and crossover phenomena in nonstationary heartbeat time
+series. Chaos 6:82-87
+Perkel, D.H., Gerstein, G.L., Moore, G.P. (1967) Neuronal spike trains and
+stochastic point processes. Biophys. J. 7:419-440
+Pezard, L., Martinerie, J., Varela, F.J., Bouchet, F., Guez, D., Derouesne, C.,
+Renault, B. (1998) Entropy maps characterize drug effects on brain dynamics in
+Alzheimer's disease Neurosci Lett 253:5-8
+Pezard, L., Nandrino, J.L., Renault, B., Massioui, F.E., Allilaire, F., Muller, J. (1996)
+Depression as a dynamic disease. Biol. Psychiat. 39:991-999
+Pijn, J., Velis, D., van der Heyden, M., DeGoede, J., van Veelen, C.W., Lopes da
+Silva, F. (1997): Nonlinear dynamics of epileptic seizures on basis of intracranial
+EEG recordings. Brain Topogr. 9:249-70
+Pincus, S.M. (1991) Approximate entropy as a measure of a system’s complexity.
+Proc. Natl. Acad. Sci. 88:2297-2301
+Pincus, S.M., Gladstone, I.M., Ehrenkranz, R.A. (1991) A regularity statistic for
+medical data analysis. J Clin Monit 7:335-245
+Pincus, S.M.,Minkin, M.J. (1998) Assessing sequential irregularity of both endocrine
+and heart rate rhythms. Curr Opin Obstet Gynecol 10:281-291
+Popivanov, D., Mineva, A., Dushanova, J. (1998) Tracking EEG signal dynamics
+during mental tasks. A combined linear/nonlinear approach. IEEE Eng Med Biol
+17:89-95
+280
+Porta, A., Baselli, G., Montano, N., Gnecchi-Ruscone, T., Lombardi, F., Malliani, A.,
+Cerutti, S. (1996): Classification of coupling patterns among spontaneous rhythms
+and ventilation in the sympathetic discharge of decerebrate cats. Biol Cybern.
+75:163-172
+Pradhan, N. Sadasivan, P.K. (1996) The nature of dominant Lyapunov exponent
+and attractor dimension curves of EEG in sleep. Comput Biol Med 26:419-428
+Press, W.H., Flannery, B.P., Teukolsky, S.A., Vetterling, W.T. (1991) Numerical
+Recipies; The Art of Scientific Computing. Cambridge University Press, Cambridge.
+Pritchard, W.S. (1992) The brain in fractal time: 1/f-like power spectrum scaling of
+the human electroencephalogram. Int J Neurosci 66:119-129
+Pritchard, W.S., Krieble, K.K., Duke, D.W. (1996) Application of dimension
+estimation and surrogate data to the time evolution of EEG topographic variables.
+Int. J. Psychophysiol. 24:189-195
+Rapp, P. E. (1993) Chaos in the neurosciences: Cautionary tales from the frontier.
+The Biologist (London) 40:89-94.
+Rapp, P.E. (1994) A guide to dynamical analysis. Integrat. Physiol. Behavioral. Sci.
+29:311-327
+Rapp, P.E. (1995) Is there evidence for chaos in the human central nervous system.
+In (ed. R. Robertson and A. Combs) Chaos Theory in Psychology and the Life
+Sciences. Larence Erlbaum. Mahway, N.J. pp 89-100
+Rapp, P. E., Bashore, T.R., Martinerie, J.M., Albano, A.M., Mees, A.I. (1989)
+Dynamics of brain electrical activity. Brain Topolography 2:99-118
+281
+Rapp, P.E., Goldberg, G., Albano, A.M., Janicki, M.B., Nurphy, D., Niemeyer, E.,
+Jimenez-Montano, M.A. (1993) Using coarse-grained measures to characterize
+electromyographic signals. Int. J. Bifurcat. Chaos. 3:525-542.
+Rapp, P.E., Jimenez-Montano, M.A., Langs, R.J., Thomson, L. (1991) Quantitative
+characteristization of patient-therapist communication. Math. Biosci. 105:207-227
+Rapp, P.E., Schmah, T. (1996) Complexity measures in molecular psychiatry.
+1:408-416
+Rapp, P.E., Zimmerman, I.D., Vining, E.P., Cohen, N., Albano, A.M., Jimenez-
+Montano, M.A. (1994) The algorithmic complexity of neural spike trains increases
+during focal seizures. J. Neurosci. 14:4731-4739
+Ren, W., Hu. S.J., Zhang, B.J., Wang, F.Z. (1997): Period-adding bifurcation with
+chaos in the interspike intervals generated by an experimental neural pacemaker.
+Int. J. Bifurc. Chaos 7:1867-1872
+Renyi, A. (1970) Probability Theory. North-Holland. Amsterdam
+Rinzel, J. (1985) Excitation dynamics: insights from simplified membrane models.
+Fed. Proc. 44:2944-2946
+Rissanen, J. (1982) Estimation of structure by minimum desciption length. Circuit
+Systems Signal Processing 1:395-396
+Roelfsema, F., Pincus, S.M., Veldhuis, J.D. Patients with Cushing's disease secrete
+adrenocorticotropin and cortisol jointly more asynchronously than healthy subjects.
+J Clin Endocrinol Metab 83:688-692
+282
+Romeiras, F.J., Bondeson, A., Ott, E., Antonsen, T.M., Grebogi, C. (19987)
+Quasioperiodically forced dyanmical systems with strange, nonchaotic attractors.
+Physica 26D:277-294.
+Roschke, J. (1992) Strange attractors, chaotic behavior and informational aspects
+of sleep EEG data. Neuropsychobiology 25:172-176
+Roschke, J., Aldenhoff, J.B.(1992) A nonlinear approach to brain function:
+deterministic chaos and sleep EEG. Sleep 15:95-101
+Roschke, J., Aldenhoff, J.B. (1993) Estimation of the dimensionality of sleep-EEG
+data in schizophrenics Eur Arch Psychiatry Clin Neurosci 242:191-196
+Roschke, J., Fell, J., Mann, K. (1997) Non-linear dynamics of alpha and theta
+rhythm: correlation dimensions and Lyapunov exponents from healthy subject's
+spontaneous EEG Int J Psychophysiol 26:251-61
+Rössler, O. (1976): An equation for continuous chaos. Phys. Lett. A57:397-398
+Rössler, O.E. (1979) An equation for hyperchaos. Phys. Lett. 71A:155-157
+Ruelle, D. (1978) What are measures describing turbulence. Prog. Theor. Phys.
+Supp. 64:339-345
+Ruelle, D.(1979) Ergodic theory of differentiable dynamical systmes. Publ. Math.
+IHES 50:27-58
+Ruelle, D. (1987) Chaotic Evolution and Strange Attractors. Cambridge University
+Press. Cambridge
+283
+Ruelle, D. (1990) Deterministic chaos: The science and fiction. Proc. Roy. Soc.
+Lond. 427A:241-248.
+Ruelle, D., Takens, F. (1971): On the nature of turbulence. Commun. Math. Phys.
+20:167-192; 23:343-344
+Russo, P.V., Mandell, A.J. (1984a) A kinetic scattering approach to the nonlinear
+instabilities of rat brain tyrosine hydroxylase preparations at several levels of
+tetrahydrobiopterin cofactor demonstrates evolutionary behavior characteristic of
+global dynamical systems. Brain Res. 299:313-322
+Russo, P.V., Mandell, A.J. (1984b) Metrics from nonlinear dynamics adapted for
+characterizing the behavior of non-equilibrium enzymatic rate functions. Anal.
+Biochem. 139:91-99
+Russo, P.V., Mandell, A.J. (1986) Sonication, calcium and peptides have
+systermatic effects on the nonlinear dynamics of tyrosine hydroxylase activity.
+Neurochem. Int. 9:171-176
+Sadana,A.,(1998) Analyte-receptor binding kinetics for biosensor applications. An
+analysis of the influence of the fractal dimension on the binding rate coefficient. Appl
+Biochem Biotechnol 73:89-112
+Saltzman, B. (1962): Finite amplitude free convection as an initial value problem. J.
+Atmos. Sci. 19:329-341
+Sammer, G.(1996) Working-memory load and dimensional complexity of the EEG.
+Int J Psychophysiol 24:173-182
+284
+Sammon, M.P., Bruce, E.H. (1991) Vagal afferent activity increases dynamical
+dimension of respiration in rats. J Appl Physiol 70:1748-1762
+Sano, M., Sawada, Y. (1985) Measurement of the Lyapounov spectrum from
+chaotic time series. Phys. Rev. Lett. 55:1082-1085
+Sansom, M.S., Ball, F.G., Kerry, C.J., McGee, R., Ramsey, R.L., Usherwood, P.N.
+(1989) Markov, fractal, diffusion and related models of ion channel gating. A
+comparison with experimental data from two ion channels. Biophys J 56:1229-43
+Sato, S., Sano, M., Sawada, Y. (1987) Practical methods of meaureing the
+generalized dimension and largest Lyapounov exponent in high dimensional chaotic
+systems. Prog. Theor. Phys. 77:1-5
+Sauer, T., Yorke, J.A., Casdagli, M. (1991) Embedology. J. Stat. Phys. 65:579-616
+Schiff, S.J., So, P., Chang, T., Burke, R.E., Sauer, T. (1997): Detecting generalized
+synchrony through mutual prediction in a spinal neural ensemble. Preprint
+Schierwagen, A.K. (1990) Growth, structure and dynamics of real neurons: model
+studies and experimental results Biomed Biochim Acta 49:709-722
+Schmeisser, E.T.(1993) Fractal analysis of steady-state-flicker visual evoked
+potentials: feasibility. J Opt Soc Am 10:1637-1641
+Schuster, H.G. (1989): Deterministic Chaos. Second Edition, VCH, Weinheim,
+Germany.
+Scott, A. (1990) The solitary wave: An enduring pulse first seen in water may
+convey energy in the cell. Science 30:28-35
+285
+Segundo, J.P., Sugihara, G., Dixon, P., Stiber, M.,Bersier, L.F.(1998) The spike
+trains of inhibited pacemaker neurons seen through the magnifying glass of
+nonlinear analyses. Neuroscience 87:741-66
+Selz, K.A. (1992) Mixing Properties in Human Behavioral Style and Time
+Dependencies in Behavior Identification; The Modeling of a Universal Dynamical
+Law. Doctoral Disseration. UMI. N.Y.
+Selz, K.A., Mandell, A.J. (1991) Bernoulli partition-equivalence of intermittent
+neuronal discharge patterns. Int. J. Bifurcation Chaos 1:717-722.
+Selz, K.A., Mandell, A.J. (1992) Critical coherence and characteristic times in brain
+stem neuronal discharge patterns. In (ed. T. McKenna, J. Davis, S.F. Zornetzer)
+Single Neuron Computation, Academic. N.Y. pp 525-560.
+Selz, K.A., Mandell, A.J. (1993): Style as mechanism: from man to a map of the
+interval and back. In (ed. W. Ditto) Chaos in Medicine and Biology, Proc. SPIE
+2036:174-182
+Selz, K.A., Mandell, A.J. (1997) The power of style: differential operator scaling in
+the lexical compression of sequences generated by psychological, content-free
+computer tasks. Complexity 2:50-55
+Selz, K.A., Mandell, A.J., Anderson, C.A., Smotherman, W., Teicher, M. (1995)
+Distribution of local Mandelbrot-Hurst exponents: motor activity in cocaine treated
+fetal rats and manic depressive patients. Fractals 3:893-904
+Seneta, E. (1981) Non-negative Matrices and Markoff Chains. Springer-Verlag, New
+York.
+286
+Shannon, C.D., Weaver, W. (1949) The Mathematical Theory of Communication.
+University of Illinois Press, Urbana
+Sharkovskii, A.N. (1964): Coexistence of the cycles of a continuous mapping of the
+line to itself. Ukranian Mat. Z. 16:61-71
+Shaw, R. (1981): Strange attractors, chaotic behavior and information flow. Z.
+Naturfursch. 36a:80-112
+Shenker, S.J., Kadanoff, L.P. (1982): Critical behavior of a KAM surface. J. Stat.
+Phys. 27:631-645
+Shlesinger, M.F. (1988) Fractal time in condensed matter. Ann. Rev. Phys. Chem.
+39:269-290
+Shlesinger, M.F. (1996) Random Processes. Encyclopedia of Applied Physics.
+16:45-70
+Shlesinger, M.F., Klafter, J., Wong, Y.M. (1982) Random walks with infinite spatial
+and temporal moments. J. Stat. Phys. 27:499-512
+Shlesinger, M.F., Zaslavsky, G.M. (1996) Strange kinetics. Physics Today. Feb. pg.
+33-39.
+Shlesinger, M.F., Zaslavsky, G.M., Frisch, U. (1995) Levy Flights and Related
+Topics in Physics. Springer-Verlag
+287
+Silipo, R., Deco, G., Vergassola, R., Bartsch, H.(1998)Dynamics extraction in
+multivariate biomedical time series. Biol Cybern 79:15-27
+Simoyi, R.H., Wolf, A., Swinnery, H.L (1982): One dimensional dynamics in a
+multicomponent chemical reaction. Phys. Rev. Lett. 49:245-248
+Sinai, Ya G. (1959) On the concept of entropy of a dynamical system. Dokl. Akad.
+Nauk SSSR 124:768
+Singer, W. (1993): Synchronization of cortical activity and its putative role in
+information processing and learning. Ann. Rev. Physiol. 55:349-374
+Skinner, J.E., Martin, J.L., Landisman, C.E., Mommer, M.M., Fulton, K., Mitra, M.,
+Burton, W.D., Saltzberg,B. (1990) Chaotic attractors in a model of neocortex:
+dimensionalities of olfactory bulb surface potentaisl are spatially uniform and eventrelated.
+In (eds. Basar, E., Bullock, T.H.) Brain Dynamics, Progress and
+Perspectives. Springer-Verlag, Berlin. pp 119-134
+Smale, S. (1967): Differentiable dynanmical systems. Bull. AMS 13:714-817
+Smith, L.A. (1988) Intrinsic limits on dimension calculations Phys. Lett. A133:283-
+288
+Smith, L.A. (1992) Identification and prediction of low-dimensional dynamics.
+Physica D58:50-76
+288
+Smotherman, W.P., Selz, K.A., Mandell, A.J. (1996) Dynamical entropy is
+conserved during cocaine-induced changes in fetal rat motor patterns.
+Psychoendocrinology 21:173-187
+So, P., Francis, J.T., Netoff, T.I., Gluckman, J., Schiff, S.J. (1998) Periodic orbits: a
+new language for neuronal dynamics. Biophys. J. 74:2776-2785
+So, P., Ott, E., Sauer, T., Gluckman, B.J., Grebogi, C., Schiff, S.J. (1997) Extracting
+unstable periodic orbits from chaotic time series. Phys. Rev. E55:5398-5417
+Sprott, J.C. (1993) Strange Attractors; Creating Patterns in Chaos. M&T Books.
+N.Y.
+Sprott, J.C., Rowlands, G. (1991) Chaotic Data Analyzer. Am. Institute Physics.
+N.Y.
+Stam, C.J., Nicolai, J., Keunen, R.W. (1998) Nonlinear dynamical analysis of
+periodic lateralized epileptiform discharges Clin Electroencephalogr 29:101-105
+Stanley, H.E. (1971): Introduction to Phase Transitions and Critical Phenomena.
+Oxford University Press, Oxford
+Stauffer, C. (1985) Introduction to Percolation Theory. Taylor and Francis. London
+Stergiopulos, N., Porret, C.A., De Brower, S., Mesiter, J.J. (1998) Arterial
+vasomotion: effect of flow and evidence of nonlinear dynamics. Am J Physiol
+274:H1858-1864
+Steriade, M., McCarley, R.W. (1990) Brainstem Control of Wakefulness and Sleep.
+Plenum. N.Y.
+289
+Stillwell, J. (1985) Poincare’s Papers on Fuchsian Groups. Springer-Verlag, N.Y. pp
+1-50
+Stockbridge,L.L., French,A.S. (1989) Characterization of a calcium-activated
+potassium channel in human fibroblasts Can J Physiol Pharmacol 67:1300-1307
+gating. Biophys J 54:871-877
+Stoop, R., Parisi, J. (1991) Calculations of Lyapounov exponents avoiding spurious
+elements. Physica D50:89-94
+Straver,J., Keunen, R.W., Stam, C.J., Tavy, D., de Ruiter, G., Smith, S., Thijs, L.,
+Schellens, R., Gielen, G.(1998): The EEG diagnosis of septic encephalopathy.
+Neurol. Res. 20:100-106
+Strogatz, S.H. (1994) Nonlinear Dynamics and Chaos. Addison-Wesley.
+Strong, S.P., de Ruyter van Steveninck, R.R., Bialek, W., Koberle, R. (1998) On the
+application of information theory to neural spike trains. Pac Symp Biocomput 621-
+632
+Sugihara, G., May, R.M. (1990) Nonlinear forcasting as a way of distinguishing
+chaos from measurement error in time series. Nature 344:734-741.
+Sullivan, D. (1979) Rufus Bowen. Publ. Math. I.H.E.S. 50:255
+Szeto, H.H., Cheng, P.Y., Decena, J.A., Cheng, Y., Wu, D., Dwyer, G. (1992)
+Fractal properties in fetal breathing dynamics. Am. J. Physiol. 263:R141-R147.
+Takahashi, N., Hanyu, Y., Musha, T., Kubo, R., Matsumoto, G. (1990): Global
+bifurcation structure in periodically stimulated giant axons of squid. Physica
+D43:318-334
+290
+Takens, F. (1981) Detecting strange attractors in time series. Lect. Notes. Math.
+898:366-381
+Teich M.C. (1989) Fractal character of the auditory neural spike train. IEEE Trans
+Biomed Eng 36:150-60
+Teich, M.C., Heneghan, C., Lowen, S.B., Ozaki, T., Kaplan, E. (1997) Fractal
+character of the neural spike train in the visual system of the cat. J Opt Soc Am A
+14:529-546

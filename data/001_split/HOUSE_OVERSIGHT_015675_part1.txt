@@ -1,0 +1,1785 @@
+﻿How Alan Turing invented the computer, helped win World War
+II and left us with one of the greatest puzzles of our time: are humans
+simply computers or are we more than that? Many scientists think we
+have a tenuous hold on the title, “most intelligent being on the planet”.
+They think it’s just a matter of time before computers become smarter
+than us, and then what? This book charts a journey through the science
+of information, from the origins of language and logic, to the frontiers of
+modern physics. From Lewis Carroll’s logic puzzles, through Alan Turing
+and his work on Enigma and the imitation game, to John Bell’s inequality,
+and finally the Conway-Kochen ‘Free Will’ Theorem. How do the laws
+of physics give us our creativity, our rich experience of communication
+and, especially, our free will?
+Can a computer win the imitation game and pass the Turing Test?
+Why do creative people make better mates than rich people?
+Why are humans bad at mathematics, yet so creative?
+Could an infinite number of monkeys write Hamlet?
+Is our brain a quantum computer?
+Is free will an illusion?
+James Tagg is an inventor and entrepreneur. A pioneer of
+touchscreen technology, he has founded several companies, including
+Truphone, the world’s first global mobile network. He holds numerous
+patents, filed in over a hundred countries. He studied Physics and
+Computer Science at Manchester University, Design at Lancaster
+University and Engineering at Cambridge University. He lives with his
+family on a farm in Kent, England.
+www.jamestagg.com
+“I can’t tell you when the last time was that I had this much fun
+reading and using my brain. From the very beginning, James Tagg had
+me hooked with the premise; the question of whether or not humans are
+the most intelligent beings on the planet....”
+Janet, Netgalley
+“This is a fantastic book. It seams together cutting edge
+neuroscience, psychology, thought experiments, artificial intelligence/
+machine learning, mathematics and even some history!...”
+PFJ H., Amazon
+“Hard work to read, but makes you think about the nature of human
+intelligence and AI...”
+Brian Clegg, Popular Science
+“This is a fat book that covers a huge amount of ground. James’
+topic is primarily the brain and how we think, but there is a running
+theme contrasting the human brain with computers. His thesis is that
+computers can never think like humans (for example, that they can never
+be truly creative) and he explores many fields from philosophy and logic
+to mathematics in pursuit of this proof....”
+R. Hanbury, Amazon
+If you have enjoyed reading this book please leave a review and if
+you would like to hear more, or come to one of my talks, please join the
+mailing list at: www.jamestagg.com/updates.
+Are the Androids
+Dreaming Yet?
+Amazing Brain.
+Human
+Communication,
+Creativity &
+Free Will.
+
+Are the Androids
+Dreaming Yet?
+Amazing Brain.
+Human
+Communication,
+Creativity &
+Free Will.
+JAMES TAGG
+Hurst Farm Books
+An Imprint of
+Hurst Farm Enterprises
+Published by Hurst Farm Books
+Hurst Farm, Dairy Lane, Crockham Hill, TN8 6RA.
++44 1732 807246
+12 Williams Road, Chatham, NJ 07928
++1 646 355 1250
+www.jamestagg.com
+bookinfo@jamestagg.com
+Copyright © James Tagg 2015
+The Moral Right of the author has been asserted.
+All rights reserved. Without limitation to copyright, no part of this publication may be
+reproduced, stored, or transmitted in any form without the prior written permission of
+the copyright owner and the publisher.
+A catalogue record for this book is available from the British Library.
+Publisher’s Cataloging-in-Publication Data
+Tagg, James, 1964-
+Are the Androids Dreaming Yet?: Amazing Brain.
+Human Communication, Creativity & Free Will. /
+James Tagg.
+pages cm
+Includes bibliographical reference and index
+ISBN: 978-1-910464-03-8 (softcover)
+ISBN: 978-1-910464-01-4 (ebook)
+1. Creative ability. 2. Communication—Social aspects.
+3. Technology—Social aspects. 4. Mind and body. 5.
+Computers and civilization. I. Title.
+T174 .T24 2015
+303.48`34—dc23
+Library of Congress Control Number: 2014945686
+(hardback)
+p2 220415 postc
+To my family,
+who have patiently listened to my interminable
+ramblings about ‘Elephantine’ Equations.
+
+PREFACE
+ACPMM, Wolfson College, Cambridge
+“A man may have twenty years
+of experience, or one year of
+experience twenty times.”
+Mike Sharman
+“Rules are for the obedience of
+fools and the guidance of wise
+men.”
+Douglas Bader
+I
+am an inventor. I’ve always been an inventor. Ever since childhood
+I’ve tinkered with electronics and computers, taking things apart
+and putting them back together. There is no academic course
+for inventing, so I had to choose my own path through school and
+University. I studied design, physics and mathematics at secondary
+school, and engineering and management at University. Part of that time
+was spent in the Engineering Department of Cambridge University on a
+particularly special course.
+x
+Are the Androids Dreaming Yet?
+Mathematical Bridge, Cambridge
+Every autumn about thirty graduate students arrive at the
+Engineering Department in Cambridge to join the Advanced Course in
+Design, Manufacturing and Management. They expect to spend the year
+walking among the city’s hallowed spires, attending lectures, bumping
+into Stephen Hawking and punting on the River Cam.
+Instead, they get quite a shock!
+In 1989, I joined the course. There were twenty-six engineers, a
+psychologist and a physicist – me. There was no prescribed syllabus;
+instead the course used learning-by-experience and lectures from the
+experts in a given field. To study advertising, you might visit a top London
+agency, for shipbuilding a shipyard on the Clyde. If you were unlucky
+enough to find these two lectures scheduled for the same week, you had
+to travel the length of Britain. The course runs a half dozen minibuses
+to solve this transport problem. Every four weeks we would undertake a
+project in a different company. I remember designing pit props for coal
+mines and imaging software for a weaving company. At the end of each
+project we presented our findings to each other and, with eight projects
+and thirty students, this made for a great many presentations. To keep
+the process manageable, the course put great store in teaching us the art
+of communication.
+These days I design large complex systems, and clear communication
+is extremely important. My ideas are often turned into working products
+and, if those products have flaws, a post-mortem usually shows the cause
+Preface
+xi
+was a breakdown in communication. Of course, this may be a purely
+personal failing, but when I talk to people in other companies they
+report the same problem. It seems we all find communication difficult.
+have wondered for many years why it is called the ‘art of
+communication’. Surely it’s a science, governed by bits, bytes and
+bandwidth. That might be true of the symbols in an email – they are
+clearly encoded symbolically – but is the understanding in our brains
+simply encoded by symbols? What is the physics that underlies human
+understanding?
+Each summer I go on holiday to escape engineering for a couple of
+weeks. While away I indulge my passion for reading books by the likes
+of Douglas Hofstadter, David Deutsch and Stephen Hawking. One book
+that struck me years ago was Roger Penrose’s The Emperor’s New Mind.
+In it, he tackles the question of what happens in the human brain when
+we understand something. He extends an idea put forward by J.R. Lucas
+of Oxford University that minds must be more powerful than computers
+because they do something computers cannot: namely to step beyond
+mere rules and see truth. Colloquially we call this ‘common sense’ or
+‘stepping outside the box’.
+The Lucas argument uses the theories of Gödel and Turing to
+show computer algorithms have limitations. Some things are simply
+not computable. Computers can do many useful things, but they cannot
+discover new mathematical theorems, such as a proof of Fermat’s Last
+Theorem. In 1996, Andrew Wiles succeeded in finding a solution to this
+problem. This presents a paradox, solved only if we conclude Andrew
+Wiles is not a computer. Indeed, since most mathematicians discover at
+least one theorem during their lives, we must conclude no mathematician
+is a computer! This is controversial. Most philosophers tend to the
+view put forward by Daniel Dennett that the Universe is an entirely
+determined place and any personal sense of free will and creativity is
+an illusion. In Dennett’s worldview, Andrew Wiles is a special purpose
+machine that was always destined to solve Fermat’s Last Theorem. I
+believe this model is flawed. It is my aim in this book to show you why.
+Indeed I am going to go further and argue all human creativity is noncomputational;
+art, communication, understanding – all are based on
+non-algorithmic principles.
+If you consider creative thinking deeply enough you’re inevitably
+drawn into the question of whether we have free will. When I get to
+work each morning, the first thing I do – after a cup of coffee, obviously
+– is choose which creative task to tackle first. I feel this choice is freely
+made, but the determined determinists assure me I am wrong and my
+xii
+Are the Androids Dreaming Yet?
+decision was already made. As Daniel Dennett says, “You have no free
+will. Get over it!” They say I am effectively an avatar in some giant cosmic
+computer game, going about my business in an entirely predefined way. I
+do not agree! If they are right all the coincidences and chance actions of
+my life were fixed at the time of the Big Bang. I feel this must be wrong,
+but finding a chink in the determinist armor is hard work; the laws of
+physics as we know them today are almost exclusively deterministic.
+This book lays out the options – the chinks – that would allow free will
+to enter our Universe.
+To understand human thinking we would really like to look inside
+a working human brain. We can’t do this yet. All we can do is observe
+minds at work when they communicate with one another. If our minds
+think non-computationally – as I believe – we should be able to see them
+struggle when they have to translate thoughts into symbolic form. The
+more symbolic, the harder it will be. This is indeed what we observe: faceto-face
+communication is easy, while formal written modes are much
+harder. We will explore the difference between human and computer
+communication as our first step in locating the weakness in the armor
+of determinism.
+What do I Believe?
+As a scientist, I ought not to have beliefs. I should have theories and
+working assumptions. But, as a human being, I must admit believing
+certain things are true. Science does not forbid beliefs. It just requires
+you to be prepared to have one overturned if a better one comes along.
+Richard Feynman summed this up in a lecture he delivered at Cal Tech:
+“If you want to discover a theorem,” he said, “first, you guess, then you
+work out some effect predicted by the theorem. Finally, you see if the
+effect happens in the real world. If it does, you have a good theory. If the
+effect happens a little differently, you will need to look for a better theory.”
+Here are some of my overturn-able beliefs.
+Preface
+xiii
+Beliefs
+• We have true free will. We consciously decide our actions and
+these decisions are in no way predetermined. We shape the
+future. Allowing for free will is, therefore, a boundary condition
+for any theory of our Universe.
+• The world is an amazing place, but understandable. We can
+understand the Universe through the application of thought and
+reason.
+• There is only one Universe and it appears to make sense.
+• Humans think creatively, computers do not.
+• The process of understanding and communication is complex,
+much more complex than the digital theorems of Claude
+Shannon and Harry Nyquist.
+• Understanding is hard.
+• The communication of understanding is even harder.
+CONTENTS
+Preface
+ix
+Introduction – Experiments, Multimedia and Puzzles 1
+Chapter 1 – Mind Over Computer 3
+Deep Blue 5
+Man v Machine 11
+Intelligence 25
+The Learning Brain 35
+Determinism 41
+Creative Theories 49
+Chapter 2 – Understanding 53
+Bad Understanding Can Kill 59
+The Imitation Game 65
+Chapter 3 – Body Language & Banter 77
+Chapter 4 – The Brain 95
+Thinking 117
+Chapter 5 – Knowledge 127
+Chapter 6 – Kittens & Gorillas 147
+Chapter 7 – Complexity & Chaos 161
+Chaos 171
+Chapter 8 – ∞ 177
+Chapter 9 – Known Unknowns 191
+The Game of Math 199
+Chapter 10 – Turing’s Machine 209
+The Machine 221
+Chapter 11 – Software 229
+Silver Bullets Can’t be Fired 233
+Consequences 257
+Chapter 12 – Hyper-Computing 273
+Chapter 13 – Hyper-Communication 285
+Chapter 14 – Creativity 295
+Chapter 15 – Free Will 313
+Schrödinger’s Cat 325
+Twins 331
+Does God have Free Will? 339
+The Free Will Theorem 343
+Free Will Universe 351
+Chapter 16 – The Quest for Knowledge 355
+Awards for Discovery 365
+Chapter 17 – The Future 371
+Appendix 1 – Acknowledgments 374
+Appendix 2 – Bibliography 382
+Appendix 3 – Puzzles and Experiments 395
+Appendix 4 – Conventions in the Book 397
+Appendix 5 – Index of Theorems 401
+Index 405
+“It is no good getting furious if
+you get stuck. What I do is keep
+thinking about the problem
+but work on something else.
+Sometimes it is years before I see
+the way forward. In the case of
+information loss and black holes,
+it was 29 years.”
+Stephen Hawking
+Introduction
+EXPERIMENTS,
+MULTIMEDIA AND
+PUZZLES
+Throughout this book you will come across experiments to try,
+multimedia references to track down, and puzzles to solve.
+You can get additional information at www.jamestagg.com/
+understanding.
+If you undertake an experiment I would appreciate your leaving a
+note of your results on the website and making useful comments on the
+blog.
+Most of the experiments and puzzles are quick and simple. The
+puzzles I have set often benefit from creative thinking. I have made
+finding the answers to these problems a little hard, so you are not
+tempted to cheat. I want you to try to solve the problems and ‘feel’ your
+brain working.
+This book argues that intuitive thought solves problems in a
+different way to analytical thought. The process takes time and often
+benefits from putting a problem to one side while you use your mind
+to process foreground tasks. I hope you read this book at a time when
+the website is not available – or at least don’t peek. Give your intuitive
+thought processes time to work.
+Graham Wallas described the process of creative thinking in 1926
+and I think it is still one of the best models we have:
+First you must prepare and become fully acquainted
+with the problem. It might seem impossible but don’t despair,
+just commit to it. Next, you should leave the problem to
+stew – incubation, he called it. After a while, you will feel
+a solution is at hand. You don’t quite have it yet but you are
+2 Are the Androids Dreaming Yet?
+sure you will. This is intimation. Finally, some inspiration or
+insight will pop into your head – this is the Eureka moment.
+Now you have a solution but intuitive thinking is far from
+infallible. You will need to check the solution and may find
+your answer wrong the first few times. Persevere; you will
+get there in the end.
+As a warm-up exercise, let me give you a simple childhood riddle
+to solve.
+A man lives on the twentieth floor of a skyscraper with an
+old elevator. Each morning he gets into the elevator and
+goes down to the ground floor, but each evening he gets
+into the elevator, travels up to the tenth floor, gets out, and
+walks the rest of the way. Why?
+ANSWER IN YOUR OWN TIME
+ddd
+Chapter 1
+MIND OVER
+COMPUTER
+Computer versus Human
+“I visualize a time when we will
+be to robots what dogs are to
+humans, and I’m rooting for the
+machines.”
+Claude Shannon
+“The question of whether
+computers can think is just
+like the question of whether
+submarines can swim.”
+Edgar Dijkstra
+“The Three Laws of Robotics:
+1. A robot may not injure a
+human being or, through
+inaction, allow a human
+being to come to harm;
+2. A robot must obey the orders
+given it by humanbeings
+except where such orders
+would conflict with the First
+Law;
+3. A robot must protect its own
+existence as long as such
+protection does not conflict
+with the First or Second Law.
+The Zeroth Law: A robot may
+not harm humanity, or, by
+inaction, allow humanity to
+come to harm.”
+Isaac Asimov, I, Robot
+Kasparov versus Deep Blue
+Deep Blue
+It is 1997 and we are on the 39th story of the Equitable Center in New
+York, watching a chess match. It’s no ordinary match. Two men sit
+opposite each other. One, a neatly suited figure, stares intently at the
+board. You can almost see the heat rising from his head as he processes
+the possibilities before him. The other, sits implacably calm and, before
+each turn, looks to a screen at the side of the board, reads the instruction,
+and makes his move.
+This is the famous match between Garry Kasparov and IBM’s Deep
+Blue. Kasparov, a child prodigy, became world chess champion at the age
+of fifteen and, to this day, holds the record for the highest chess ranking
+ever achieved. Some consider him one of the most intelligent people on
+the planet. His opponent, Deep Blue, is a massively parallel chess-playing
+computer built by IBM’s Watson Research Laboratory. The machine itself
+sits a few blocks north of the tournament in an air-conditioned room,
+and relays the moves over a phone line to Joe Hoane, the IBM researcher
+who moves the pieces.
+Six months earlier, in Philadelphia, Kasparov won against Deep Blue.
+This is the rematch and has generated a worldwide media frenzy. Tickets
+to the event are sold out and most news organizations give a blow-byblow
+report each day. On the eighth day of the tournament Kasparov and
+Deep Blue are level pegging. Kasparov is playing an opening he knows
+well. It’s one designed to be hard for computers to play and has been
+tested extensively against Fritz, a chess computer Grand Masters use for
+practice. But Deep Blue doesn’t seem fazed. Kasparov is visibly tired. On
+the 16 th move he makes a dreadful blunder and sinks into despair. An
+hour later, after some moments of quiet contemplation, he tips over his
+6 Are the Androids Dreaming Yet?
+king, gets up, and leaves the room. Kasparov has resigned, Deep Blue has
+beaten him 3½ to 2½ points and is now the most powerful chess player
+on the planet.
+Later, when interviewed about his experience, Kasparov thought
+Deep Blue must have been assisted by humans during the games because
+the program appeared to play intuitively. The rules of the tournament
+allowed humans to work on the program between matches, but not
+during actual play. The argument has never been settled, and Deep
+Blue was long ago dismantled. These days chess players avoid big public
+matches against computers, arguing it is really a different sort of game.
+A computer’s ability to crunch mathematically through all the many
+possibilities means a chess player must play without error against a
+machine, but can play a more interesting and fluid match against a fellow
+human.
+Chess is computer-friendly because it is a finite problem. You always
+win, lose or draw. The game can’t go on forever because any position that
+repeats itself more than three times is declared a draw, and if a player
+makes 50 moves without moving a pawn or taking a piece, the game
+is also declared a draw. In a typical game, each player makes 40 moves,
+and on each turn you can choose from 30 possible moves. Although this
+equates to a huge number of options, it is still a finite number.
+It is possible, therefore, to create a perfect chess-playing machine.
+Such a machine would project any position it encountered through
+every permutation to the endgame. But, although chess is solvable using
+brute force this might not be practical in our Universe. The storage
+required to hold all the possible positions being analyzed would be
+vast – needing most of the atoms in the Universe. You would need to
+pack this information into a small enough space to allow fast retrieval in
+order to play the first 40 moves in two hours. This would require storing
+all the information within a sphere no larger than three light minutes.
+Putting that much data in such a small space would exceed the Hawking
+Bekenstein bound – a limit on the information carrying capacity of
+space-time put forward by Stephen Hawking and Jacob Bekenstein
+– causing the region of space-time to collapse to a black hole! Despite
+these minor technical problems, an ingenious algorithm could be made
+that was unbeatable: chess is essentially computable.
+The term algorithm will often arise in the book, so it is worth giving
+a little history. The word comes from the name of an 8 th Century Persian
+mathematician, Al-Khwarizmi, and means a step-by-step procedure. We
+use one whenever we do long division or look up a phone number on
+Mind over Computer
+7
+The Music of Emily Howell
+our mobile phone. It is any mechanical procedure you perform without
+thinking about it. Computers are always executing an algorithm; that’s
+what they do.
+Fast forward to 2010 and Centaur Records releases a new classical
+music CD featuring the piano music of Emily Howell. Critics are
+enthusiastic about the new talent. She has composed music in a broad
+range of classical and contemporary styles. You can find some examples
+on my website.
+But, it transpires, Emily is a computer, the brainchild of David
+Cope from the University of Santa Cruz. On hearing this news critics
+revise their opinion of the compositions – “repetitive and formulaic,”
+“not real music,” “pastiche”. Listen again to the music and see whether
+you have changed your opinion. Whatever you think, Emily has made
+a good attempt at composing in the style of several great composers: J.S.
+Bach and Franz Liszt, as well as modern ones such as Stockhausen and
+8 Are the Androids Dreaming Yet?
+Philip Glass. The compositions would get a reasonable technical score in
+an exam, better than many of my attempts, but are these compositions
+truly art?
+There’s no question computers are gaining ground on us in certain
+mathematically oriented tasks – playing chess, musical composition, and
+various modeling tasks. But attempts to have them work with words and
+ideas have generally produced dismal results. Until now.
+In 2008, IBM unveiled Watson: a computer capable of answering
+general knowledge questions. Watson has an enormous database of
+human knowledge: the Encyclopedia Britannica, a billion web pages,
+the entire text of Wikipedia and millions of books. It uses artificial
+intelligence to trawl through this vast reservoir of knowledge and answer
+questions using a statistical approach. In 2011, Watson featured as a
+contestant on Jeopardy, the American quiz show, where it beat the two
+record-holding contestants – the one with the highest number of wins
+and the one with most consecutive wins. Let me give you a few sample
+questions and see how you fare.
+Question 1.
+Question 2.
+Question 3.
+It can mean to develop
+gradually in the mind or to
+carry during pregnancy.
+William Wilkinson’s “An
+Account of the Principalities
+of Wallachia and Moldavia”
+inspired this author’s most
+famous Novel.
+Its largest airport is named
+for a World War II hero; its
+second largest, for a World
+War II battle.
+Watson answered questions one and two correctly but failed on
+question three. You can probably see the final question is posed in poorly
+structured English and this threw off Watson’s comprehension algorithm.
+Mind over Computer
+9
+IBM’s Watson Plays Jeopardy
+Ignoring the odd hiccup, Watson is much better at Jeopardy than a
+human. Should humans be worried? First chess, then music, now general
+knowledge, will all human endeavors succumb to a computer? What will
+be our purpose on the planet if this happens?
+Steve Wozniak
+“Machines will run the world,
+humans will become idle pets.”
+Steve Wozniak
+Man v Machine
+re humans advanced computers with a temporary hold on the title,
+‘most intelligent being on the planet,’ or are we fundamentally
+different?
+We are extraordinarily creative, but we can’t add up as
+well as a cheap pocket calculator. We have poor memories, but we can
+use common sense to solve problems we have never seen before. Our
+communication skills are woefully imprecise, but we can tell jokes that
+send our fellow humans into paroxysms of laughter. We might conclude
+humans are not computers, but the scientific consensus is that brains
+are ‘wet computers’. I don’t agree with this and I’m going to set out the
+argument to show why man is not a computing machine.
+There is an urban legend we think with only 10% of our brains. This
+is not true. Science has mapped the vast majority of the human brain
+using two methods. The first, an amazing set of noninvasive imaging
+techniques, allows us to ‘see’ the brain as it thinks. The second is more
+macabre: with seven billion humans on the planet, enough accidents
+occur through sports injuries, car crashes and surgical mistakes to
+provide a large enough sample to conduct research. Questioning
+patients with brain-damage allows us to work out what the injured part
+did before the accident.
+One famous patient had an accident where the blade of a toy
+sword went up his nose and damaged a small part of his amygdala and
+hippocampus, the area of the brain responsible for storing memory. This
+rendered the man unable to lay down permanent memories after the
+accident. Events before the accident remained clear but he could not
+memorize new information. You could tell a joke and he would find it
+12 Are the Androids Dreaming Yet?
+Turning Images to Music
+funny and laugh uproariously. A few minutes later, you could tell the
+same joke and he would find it just as funny as the first time. For him,
+every time was the first time, because he had lost the ability to record
+long-term memories. The syndrome is wonderfully depicted in the film
+50 First Dates starring Adam Sandler and Drew Barrymore. Another
+patient with specific stroke damage was unable to recall the names of
+fruits but, oddly, could still name vegetables. Interestingly tomatoes
+presented a particular problem. He had probably never known how to
+catalogue them so they were partially remembered in both areas.
+There are many such medical cases. In Oliver Sachs’ The Man who
+Mistook his Wife for a Hat, the author relates the tale of a man with visual
+agnosia who could not reliably name familiar objects, including his own
+wife! He had a perfectly loving relationship with her but simply could
+not name her from a picture. Sachs, Professor of Neurology at New York
+University School of Medicine, provides many such fascinating stories,
+along with their medical backgrounds.
+The fruit and vegetable case suggests our brains are organized like a
+filing cabinet. When we damage a part of the brain, it’s like losing a drawer:
+All the information stored in that drawer is lost. Quite a few experiments
+contradict this model and indicate many tasks are distributed around the
+brain. The curious case of blindsight is one such example. People with
+a damaged visual cortex can often recognize objects despite reporting
+they have no sensation of vision. Show them a shape and they will report
+they can see nothing. Ask them to name the shape and they might even
+get a little irritated by the question; they are blind after all. But, ask them
+to guess the shape and they will get it right every time. Seeing is more
+Mind over Computer
+13
+Brain Image of Fish Hunting Prey
+widely distributed in the brain than was first thought. Conscious seeing
+is based in the visual cortex, but there are older pathways still active in
+the brain that facilitate this unconscious seeing.
+The brain is very plastic. Lose your sight through damage to the eye
+or optic nerve, and the brain can repurpose the visual cortex to other
+uses such as processing sound or touch. Daniel Kish has developed this
+to such a high level that he can ride a bicycle despite being blind. He
+clicks his tongue against the roof of his mouth and uses echolocation
+to form an auditory model of the world around him. Using a similar
+approach, Amir Amedi from the Hebrew University of Jerusalem has
+built an audio imager that turns pictures of the world into musical sound
+patterns. CAT scans of people using this system show they use the visual
+cortex to convert these sound images into models of the world in similar
+parts of the brain to a sighted person.
+We now know roughly what each part of the brain does, but we
+have no idea how it does it. The scale of an individual thought is too
+small to see in a brain scan. All we can do is observe large-scale electrical
+activity associated with those thoughts. A video, from a group at Tokyo
+University, shows an example of electrical activity filmed in real time
+as a fish hunts for its prey. Fish have transparent bodies and thin skulls
+facilitating this sort of imaging. Humans are much harder subjects to
+work with!
+The most popular theory to explain how brains work is as some form
+of computer. Computers are easy to study because we manufacture them.
+They tend to crash quite frequently – usually at the most inconvenient
+14 Are the Androids Dreaming Yet?
+moments – so we have packed them with diagnostic monitoring systems.
+These systems allow us to watch a computer think and, since they think
+symbolically, we can easily read their minds.
+Unfortunately computers don’t display many human-like thoughts.
+They don’t laugh and cry, they don’t report consciousness and they don’t
+appear to exercise free will or display creative impulses. This is frustrating
+because these are the thoughts we would most like to study. It might be
+that computers are not yet powerful enough, and in another few years
+they will be giving Mozart a run for his money. But there may also be
+a fundamental difference which renders them incapable of this sort of
+thinking. This is the crux of the modern scientific debate: do humans
+think differently?
+Computer Brains
+On the face of it, humans and computers behave very differently. Our
+memories are poor, but we understand things. We are creative, but bad
+at mathematics. We learn by example, computers are programmed.
+We are emotional, impulsive and appear to have free will. Computers
+are ordered, predictable, but lack common sense. Both humans and
+computers appear to be physical, discrete systems. We both take inputs,
+generate outputs and are capable of solving similar problems. Indeed,
+each time we examine a problem solved by humans we usually find we
+can automate it. This is known as ‘knowledge engineering’ and there are
+many examples; from aerospace to finance, and architecture to medicine.
+An example of where computers excel is in medical diagnosis.
+ISABEL is a clinical diagnosis program designed to help ER doctors
+quickly diagnose critical patients. It was created by the parents of Isabel
+Maude, a little girl who presented with multiple symptoms to an ER unit.
+Doctors were initially confused by the symptoms and misdiagnosed
+her condition. She was later diagnosed with meningitis. Isabel suffered
+multiple organ failure but survived. Her parents realized there was
+something wrong with the ER triage process. They got together with
+some computer scientists and built the expert system ‘ISABEL’. When
+ER doctors are presented with symptoms, they must mentally scan a vast
+array of literature to rule in and out possible diagnoses. The problemsolving
+process is not linear; if you’ve ever watched the TV series House
+it gives a great dramatization of the process. Certain symptoms might
+suggest a diagnosis but are not conclusive, and there are many paths to
+explore. Programmers have taken the heuristic rules from many doctors
+and codified them into software. ISABEL allows a doctor to input a set
+Mind over Computer
+15
+of symptoms and it will spit out a range of possible alternative diagnoses
+with probability weightings and suggested further tests. Similar systems
+are widely deployed in other fields, to build racing cars, design dams
+and fight crime. Even the game consoles in our living rooms implement
+artificial intelligence to make the aliens more believable and our hearts
+pump faster.
+Origin of Computers
+Alan Turing effectively invented the modern day computer in a paper
+he submitted to the London Mathematical Society in the summer
+of 1936. He was not the first person to come up with the idea – that
+honor probably goes to Charles Babbage – but he was the first to fully
+understand its power. When we talk about computers today we mean
+machines, but it is worth noting computers in Turing’s time were more
+often humans using pencil and paper. The mechanical computers before
+Turing were elementary at best.
+Rudimentary calculating machines were developed in Greece,
+Persia and China as far back as the Ming Dynasty. An astrolabe recovered
+from a ship wreck off the Greek Island of Antikythera had cogs and gears
+and could accurately predict the motions of the sun and planets. Many
+Babbage’s Difference Engine No. 2, Computer History Museum, CA
+16 Are the Androids Dreaming Yet?
+of these skills were lost in the Dark Ages but, once the Renaissance was
+underway in the 16 th and 17 th centuries, complex mechanical clocks were
+devised that were capable of predicting the motions of the planets to a
+high degree of precision. Mechanical, hand-cranked calculators appeared
+in the mid-18 th century, and in 1886 Charles Babbage conceived the
+first programmable computing machine, The Analytical Engine. It was
+designed to read programs from cards, and used cogs and wheels to
+perform the calculations. His first machine – The Difference Engine –
+was designed to help the Admiralty calculate tide tables, but Babbage
+realized he could generalize it to compute almost any function. He ran
+out of money to complete any of his machines, but in the 20th century a
+dedicated band of enthusiasts built a working model of Difference Engine
+No.2. One copy sits in the London Science Museum and another in the
+Computer History Museum in California. These difference machines are
+not Turing complete and his Analytical Engine has never been built.
+19 th Century Calculators
+Mind over Computer
+17
+In 1935, Turing was made a Fellow
+of King’s College, Cambridge, and became
+interested in whether mathematical
+proofs could be found automatically.
+He wanted to know whether solving a
+mathematical puzzle was simply a matter
+of working through all the possibilities in a
+methodical manner, or whether something
+more subtle was required. Although chess
+is a fantastically complex game, it is finite,
+a big enough, fast enough computer can
+play the perfect game. Is this the case
+with discovering knowledge? Could a big
+enough, fast enough computer calculate all
+the knowledge in the Universe? Is Douglas
+Adams’ fabled computer Deep Thought a
+possibility, able to calculate the answer to
+the ultimate question of ‘life, the Universe
+and everything’, albeit with a more
+enlightening answer than 42?
+Turing boiled down the process
+of pencil and paper computation to a
+systematic program – a computer program.
+Model of the Antikythera
+Mechanism
+He proposed a thought experiment where he would run every possible
+program and see if such a procedure would yield the solution to every
+imaginable mathematical problem. He was able to show this would lead
+to a paradox and concluded the universal problem solver could not exist.
+His discovery is one of the most important of the 20 th century – in the
+same league as relativity and quantum mechanics – and I will use it as
+my main tool in trying to explain the difference between brains and
+computers.
+Although Turing’s original paper was not intended as a blueprint
+for a practical device, he was one of those rare mathematicians who also
+liked to tinker with real world machines. The outbreak of the Second
+World War made the practical application of his work very important,
+and in Chapter 8 I will relate some of the code breaking stories that were
+to make him famous and caused Churchill to credit him with shortening
+the war by two years.
+Calling Turing’s work an ‘invention’ is probably the wrong term;
+‘discovery’ might be more appropriate. Whatever you call it, people
+immediately equated human brains with computers. This is not new.
+18 Are the Androids Dreaming Yet?
+Each time a new advance in technology is made, people use it to explain
+the working of the brain. The ancient Greeks thought the brain was a
+fire consuming oxygen. When Alexander Graham Bell invented the
+telephone, the nervous system resembled a maze of wires and the brain
+an exchange. Brains were obviously a sophisticated telephone system.
+This idea has some potentially frightening consequences, particularly in
+light of the speed at which computers are improving.
+The most striking feature of computer technology is the rate of
+development. Cars travel faster than a person’s legs will carry them,
+machines manufacture things faster than our hands are capable of
+working. If brains are computers, surely it is just a matter of time before
+they will think faster than humans. Turing predicted this would happen
+when computers reached the level of storing around 10 billion units of
+information. This happened some time in mid-2000. But today, in the
+year 2014, I can report that although my computer can beat me at chess,
+it still cannot fill out my expense report for me. So I am still ahead!
+Maybe Turing just got the mathematics wrong. The human brain
+has about 10,000 times more neurons than our most powerful computers
+have logic gates. By this calculation, it’s not a billion units of storage we
+need but, a trillion trillion units to put the computer on a par with a
+human brain. It’s just a matter of time!
+The worrying thing – especially for fans of the ‘computers taking
+over the world’ science fiction genre – is that computers are improving
+exponentially fast in line with Moore’s Law, and the parity point is
+coming soon. Gordon Moore founded Intel with Andy Grove, and ran
+the engineering department there for more than 20 years. According
+to Moore’s Law, the power of a computer doubles approximately every
+18 months. The next significant event in the computer versus human
+competition is the gate count parity point – the moment when the
+number of logic gates and the number of neurons become equal. By my
+reckoning this will happen some time in 2053.
+Don’t despair. There may be a few dodges yet. The gate parity point
+assumes a logic gate and a neuron are equally powerful. However, some
+single cell organisms with only one neuron are capable of complex
+behaviors, such as hunting prey and avoiding obstacles. To perform these
+simple behaviors, a computer would need as many as 10,000 logic gates,
+about the complexity of my TV remote control. This gives us a bit more
+breathing space. The extra four orders of magnitude push the gate parity
+point out to around 2080, too late for me to see, but certainly within the
+bounds of some readers of this book.
+Mind over Computer
+19
+To give you some idea of how Moore’s Law works, the graph shows
+growth in computing power over time; the y-axis is a logarithmic plot
+using engineering notation. Because the growth is exponential we rapidly
+end up with very large numbers. Scientists use a special notation to cope
+with these large and small numbers. In scientific notation a number
+is written out in a compact form. For example, three hundred can be
+written as 3.0 × 10 2 . To expand it back to a regular number you move the
+decimal point in 3.0 two spots to the right, making the number 300.0. A
+similar technique is used for small numbers. To expand 3.0 × 10 -2 move
+the decimal point 2 points to the left, giving 0.03. Why use scientific
+notation? Well, once the numbers get large they would no longer fit on
+a page! We can shorten the representation of numbers even further by
+dropping the ‘3.0 ×’ part and just looking at the order of magnitude.
+The number 10 80 , one with eighty zeroes after it, is the number of atoms
+in the Earth, and 10 120 the number of particles in the known Universe.
+10 -43 meters is the ‘plank number’, believed to be the smallest dimension
+you can have, and 10 100 is called a googol, named by Milton Sirotta, the
+Moore’s Law Extended by Ray Kurzweil
+20 Are the Androids Dreaming Yet?
+nephew of the famous American mathematician Edward Kasner, and
+subsequently the inspiration for the name ‘Google’, the Internet search
+engine.
+Ray Kurzweil, the prolific inventor and futurologist, is fascinated
+by this exponential growth. Exponential curves grow slowly to start with
+but they pick up speed rapidly and, in the end, growth tends towards
+infinity. We are all painfully acquainted with one example of exponential
+growth: The common cold. Each infected cell in our body releases
+virus particles into the blood which infect further cells, leading to an
+exponential increase. This makes us feel rotten. Luckily our immune
+system can also respond exponentially, albeit somewhat delayed, so we
+survive. In the case of computer power there is no opposing immune
+system fighting back, so Kurzweil thinks computers will achieve almost
+limitless processing power; perhaps even within our lifetime. He thinks
+this will lead to some interesting consequences, for example, allowing
+people to live forever! Far-fetched? Follow his argument.
+The two most important elements in keeping us alive are medical
+imaging, to see what is wrong; and genetic engineering, to fix those
+things. Both are improving in line with digital technology, doubling
+in power every 18 months. As computers get better at seeing into our
+bodies, and our ability to sequence and synthesize spare parts improves,
+we will reach a point where we can fix almost any problem. Kurzweil
+figures technology is improving and his body is decaying at just the right
+rate to mean by the time he needs heavy duty medical intervention it will
+be available. Barring a traffic accident or mad-axe-murderer, he should
+live forever. Even if his calculation is slightly off, the next generation will
+definitely have this option.
+You might dismiss this as science fiction, but some amazing things
+are already happening. Recently a female patient in the USA suffering
+from bone cancer had her jaw replaced with a 3D printed component.
+Doctors were able to scan her head and take an image of the good side of
+her jaw, flip it right to left within the computer and repair any problems
+they saw. Then they sent the image to a 3D printer. The printer made a
+new jaw from tungsten powder, which was fused in a kiln. The final stage
+was to cover the metal part with an inert bone-like substance to give
+the human body a scaffolding on which to build real bone. They then
+performed the operation to remove her old jaw and replace it with the
+new one: result, brand new healthy jaw.
+There are some practical limits to the power of computers on the
+horizon. Currently, the wires in a silicon chip are about twenty-two
+nanometers wide. That’s around a thousandth of the width of a human
+Mind over Computer
+21
+hair, or approximately two hundred atoms wide. To match the complexity
+of a brain we will need to pack an order of ten million more gates into
+a silicon chip. One way to achieve this is to simply shrink the wires, but
+when we get down to around ten atoms wide, quantum effects begin to
+dominate. Signals in today’s chips involve tens of thousands of electrons.
+We normally think of these electrons as a group, but in these tiny circuits
+we need to consider the behavior of each individual electron. Problems
+arise as this behavior is subject to quantum uncertainty. With only ten
+electrons there is a finite probability that none of them will be where you
+were expecting them to be. This causes problems for digital logic. You
+can’t put a ‘1’ in a memory location and be sure when you come to read it
+you will get a ‘1’ back. You have to factor in the possibility of error.
+Quantum effects can be annoying – requiring us to devise all
+manner of error checking hardware – but they can also be helpful.
+Richard Feynman proposed using quantum bits, ‘qubits’, to perform
+computation. Quantum computers can calculate many times faster than
+a classical computer because a single bit can represent more than one
+piece of information. Enterprising entrepreneurs are making use of this
+effect to build the next generation of devices, and you can already buy a
+512 qubit computer from a Canadian company called D-Wave.
+The biggest problem with building more powerful conventional
+chips is their area is reaching the manufacturing limit for economic
+viability. Silicon wafers contain random spots of damage and, as a
+chip gets larger, the chance it will have one of these spots approaches
+certainty. One solution is to use the third dimension and print the logic
+3D Chip, Intel
+22 Are the Androids Dreaming Yet?
+gates so that they communicate in the vertical direction as well. Intel
+demonstrated the first three-dimensional chip in 2004, and these chips
+should begin to appear in our laptops by around 2020.
+Taking a chip into the third dimension solves the economic
+problem but adding logic gates to a 3D chip presents a new problem
+– heat. Heat is generated in proportion to the volume of the chip but
+it can only be lost through the surface area. Result: the chip overheats.
+Large animals have the same problem which is why elephants have huge
+ears, filled with blood vessels, they can flap to cool themselves and really
+big mammals, such as whales, live in the ocean. The thermal problem
+is now the biggest problem in most computer designs. One data point
+suggests we could solve this problem, the human brain. We pack huge
+processing power into our skulls without overheating by using a variety
+of techniques, including folding the surface of the brain, running each
+neuron very slowly and maybe even using quantum mechanics. A very
+recent discovery is that brains could be using quantum effects to transmit
+signals. If true – and the research has only been recently published –
+it means we may use a form of high-temperature superconductivity to
+avoid overheating. More on this in Chapter 4.
+Excluding exotic quantum effects, the main difference between
+computer and human brains is their processing architecture. Brains
+use slow, asynchronous logic to process information rather than the
+fast, synchronous type used in modern day computers. Logic gates in
+today’s computers work all the time, even when there is nothing to do.
+For example, if I multiply 2 by 3 on my laptop the entire multiply circuit,
+designed to work on 20 digit numbers will still operate, and, even worse,
+it will operate on every tick of the master clock even if there is nothing
+to multiply. The brain, by contrast, works only as it needs; unused gates
+don’t operate. This gives a massive reduction in unnecessary power
+consumption. We’d like to use this technique in modern computers but
+it is very difficult to implement. Tiny changes in timing cause completely
+different operation and this makes them hard to test. We accept this
+sort of problem in humans, calling it ‘human error’, but we count on
+computers to behave absolutely reliably, so full-blown asynchronous logic
+is not likely to appear anytime soon. Some of these ideas, however, have
+made their way into today’s consumer devices. For example, the chips
+in the latest iPhone contain two CPUs: a small slow one operating when
+the phone is dormant in your pocket, and a large fast one that switches
+on when you need the power for a game or other high performance task.
+All things considered there doesn’t appear to be a fundamental
+engineering problem that would prevent computer hardware reaching
+the complexity of the human brain. But, even with all this hardware, it’s
+not clear we would have something intelligent.
+Richard Branson
+“I was dyslexic, I had no
+understanding of schoolwork
+whatsoever. I certainly would
+have failed IQ tests. And it was
+one of the reasons I left school
+when I was 15 years old. And
+if I – if I'm not interested in
+something, I don't grasp it.”
+Richard Branson
+Intelligence
+lthough my computer appears to have a mischievous sense of humor
+– deleting files and crashing just before important presentations
+– it does not appear to enjoy listening to Bach, nor does it ever
+ask me to put it near the window to admire the view. I think this means
+it’s not intelligent, but what is ‘intelligence’?
+Intelligence is hard to define; I usually conclude someone is
+intelligent if I have an interesting conversation with them. In the
+workplace we typically hire people based on interview, rather than
+practical tests. Could a computer hold a conversation with me and
+persuade me it is intelligent? Meet Eliza.
+Invented by Joseph Weizenbaum of the Massachusetts Institute
+of Technology, and named after George Bernard Shaw’s character in
+Pygmalion, Eliza runs an algorithm pretending to be a psychiatrist
+offering a sympathetic ear to anyone who cares to talk. Try her out at my
+website or read the sample dialogue below!
+User: Men are all alike.
+Eliza: In what way?
+USER: Men are all alike.
+ELIZA: In what way ?
+USER: They’re always bugging us about something or other.
+ELIZA: Can you think of a specific example ?
+USER: Well, my boyfriend made me come here.
+ELIZA: Your boyfriend made you come here ?
+USER: He says I’m depressed much of the time.
+ELIZA: I am sorry to hear that you are depressed.
+USER: It’s true. I am unhappy.
+26 Are the Androids Dreaming Yet?
+ELIZA: Do you think coming here will help you not to be unhappy ?
+USER: I need some help, that much seems certain.
+ELIZA: What would it mean to you if you got some help ?
+USER: Perhaps I could learn to get along with my mother.
+ELIZA: Tell me more about your family.
+USER: My mother takes care of me.
+ELIZA: Who else in your family takes care of you ?
+USER: My father.
+ELIZA: Your father ?
+USER: You are like my father in some ways.
+ELIZA: What resemblence do you see ?
+USER: You are not very aggressive but I think you don’t want me to notice that.
+ELIZA: What makes you think I am not very aggressive ?
+USER: You don’t argue with me.
+ELIZA: Why do you think I don’t argue with you ?
+USER: You are afraid of me.
+ELIZA: Does it please you to believe I am afraid of you ?
+USER: My father is afraid of everybody.
+ELIZA: What else comes to your mind when you think of your father ?
+USER: Bullies.
+ELIZA: Does that have anything to do with the fact that your boyfriend made
+you come here ?
+If you think Eliza a bit odd, you are right. Perhaps you won’t hire
+her just yet. The program looks for keywords in speech, and parrots them
+back at you interspersed with a few stock phrases. If you type a sentence
+containing the word “job”, the computer will say, “Tell me more about
+your job.” It’s a simple program and runs to only three pages of text. It
+shows how good a job you can do with very few resources and how far we
+are away from a real human being. More complex programs with a larger
+repertoire have been built and can hold a plausible conversation. People
+are occasionally taken in by them and are quite shocked when told they
+have been conversing with a machine. If you’re on your guard, they are
+easy to spot. So far, no one has built a computer capable of holding an
+extended human conversation and fooling a human into thinking it’s a
+person. Incidentally, having a sympathetic listener is so important to
+human beings these programs are used in psychotherapy and can be as
+effective as drugs.
+Turing proposed a test to tell whether a computer had truly achieved
+human intelligence called the imitation game. His argument is as follows:
+Mind over Computer
+27
+IQ Test
+Humans are intelligent. (If you disagree with this premise then
+you’re going to have a problem with this argument!) If you talk to a
+computer and cannot tell it from a human, it must also be intelligent:
+QED. The logic is sound but somehow feels wrong. It neatly, but
+irritatingly, sidesteps the whole problem of defining intelligence.
+In 1912, William Stern devised a method for measuring intelligence
+in children. He named it ‘IQ’ from the German Intelligenz-Quotient.
+You may have taken one of these tests at school. The tests consist of a
+series of abstract reasoning problems that minimize cultural references.
+For example, you might be asked to look at a set of blocks with dots on
+them and identify which is the odd one out. Numerous versions of the
+test have been developed over the years, but nowadays we mostly use one
+of three standard tests, Wechsler being the most common.
+Measuring intelligence is complicated. Culture and language play a
+big part. If we take a tribe of Amazonian Indians and ask them to list the
+presidents of the United States, they will fail. That does not mean they’re
+stupid. Drop me into the Amazon Rainforest and I will probably starve
+to death; they, on the other hand, can live off the land as hunter-gatherers
+with only a few hours work per day. Who is more intelligent?
+One problem with IQ is that individual candidate scores can differ
+wildly from test to test, sometimes by as much as 20 points. That’s huge. At
+the high end of the scale it can be the difference between being classified
+as smart or as a genius; and, at the low end, between being average or
+mentally subnormal. These variations don’t usually matter and most
+universities and colleges take IQ with a pinch of salt, preferring more
+specific tests such as SATs in America, the Baccalaureate in Europe or A
+levels in the UK. IQ can be very important; and is sometimes a matter of
+28 Are the Androids Dreaming Yet?
+life or death. In Atkins v. Virginia, the US Supreme Court found a person
+with mental disability, defined as having an IQ of less than 80, cannot be
+executed.
+IQ is not really a measurement, in the normal sense. Most
+measurements in life are absolute, for example, distance, weight, and time.
+I can prove my house is bigger than yours using a tape measure. We each
+ensure our measures are the same by calibrating them against a common
+reference. In the 1900s we could have walked down to the local town hall
+and checked our measurements against a ‘yardstick’. As measurements
+became standardized, these sticks were compared with a common central
+reference. For example, the metre was a platinum-iridium bar kept at the
+Pavillon de Breteuil near Paris. In the 1960s, a laser superseded the metal
+reference, and today a metre is defined as 1,650,763.73 wavelengths of the
+orange-red emission line in the electromagnetic spectrum of krypton-86
+in a vacuum. Measurement has become very precise!
+Intelligence is different. It has no yardstick. If I were to ask, “How
+much intelligence does it take to design a building?” there’s no simple
+answer. IQ is not an absolute measurement – it’s a relative score. Test
+100 people and list their scores in order. The ones in the middle get a
+score of 100; the top 5 a score of at least 130 and the top person a score
+of 140. Similarly at the lower end. A person with a high IQ is probably
+smarter than one with a low IQ, but it doesn’t tell you if the building
+they designed will stand up. It’s rather like quoting the odds of a horse
+winning the Derby. Quoting the odds does not give the speed of the
+horse, nor often the winner of the race!
+Despite attempts by test creators to remove cultural bias, it can
+never be completely eliminated. Certain Amazonian tribes have no
+concept of counting above five. For them, numbers are an alien idea and
+serve no useful purpose in their habitat. In the jungle there are always
+enough trees to make spears, and as a hunter-gatherer you simply need
+to know where to find your prey. There is no need to count animals into
+an enclosure at night. Another interesting environment is the Australian
+Outback. Aboriginal Australians appear to have a remarkable aptitude for
+visio-spatial memory and can remember maps or collections of objects
+much better than you or I. Tests for this skill involve playing a variant
+of Pelmanism. A collection of objects is placed on a tray and covered
+with a cloth. The cloth is lifted for 60 seconds to reveal the location and
+type of objects and then replaced. Subjects are then given a bucket full of
+objects and asked to recreate the tray. You and I do a modest job. Native
+Australians do this almost perfectly. Why?
+Mind over Computer
+29
+In the vast, inhospitable Outback it is vitally important you
+remember that water can be found at the two rocks near the old gnarled
+tree. Forget this and you will die of thirst. It was once thought the skill
+evolved through natural selection, but this might not be the correct
+explanation. Recent studies show many of us can use mnemonic tricks
+to significantly improve our memory. Aboriginal skills might actually be
+learned and passed on from generation to generation.
+IQ gives us a way to sum up intelligence using a single number
+but is this too simplistic? We all have friends who would be our first
+call if we met that special someone or lost our jobs. They are often not
+the smartest people we know, but they are highly empathetic. These
+people have ‘social intelligence’. Other friends may fail academic tests
+yet demonstrate wonderful musical or artistic ability. They have creative
+intelligence. As we dig deeper, more talents emerge: sporting prowess,
+organizational brilliance, the ability to inspire loyalty. All these traits
+appear independently of academic brilliance.
+During the last century, scientists worked hard to understand these
+different intelligence traits. The most influential theory came out of
+studies done at the United States Army Educational testing service, by
+Raymond Cattell and John Horn, and later added to by John Carroll.
+Their initials give the theory its name. CHC theory breaks down the
+general idea of intelligence into many different subgroups: ‘G’ factors.
+If you are good at recalling all the kings and queens of England
+in chronological order, or can name every member of the 1966 English
+World Cup team or, perhaps, all the members of the baseball Hall of Fame,
+you would have high ‘crystalized intelligence’ – ‘Gc’. It measures the sum
+total of all the things you have learned and retained in your long-term
+memory, your store of useful, and useless, facts. On the other hand there
+is innate intelligence, the sort that allows you to solve problems where
+tapping memory banks is not useful. My family often buy me puzzles for
+Christmas, the sort where you manipulate bits of bent metal that appear
+linked, but can be separated
+with a little ingenuity. These
+puzzles test our ability to work
+with problems we have never
+seen before and is called ‘fluid
+intelligence’ – ‘Gf ’.
+We can go further. A good
+tennis player will have high ‘Gt’
+and ‘Gv’ scores: ‘t’ for time and
+‘v’ for vision, a good pub quiz
+Metal Puzzle
+
+30 Are the Androids Dreaming Yet?
+contestant a high ‘Glr’ score – ‘lr’ denoting for long-term retrieval. Carol
+Vorderman, a UK game show presenter famous for mental arithmetic,
+would have a good ‘Gq’ score, ‘q’ for quantitative numerical skills. With
+all these types of intelligence to choose from it begs the question, “Is there
+a single master intelligence from which the rest follow?”
+Political correctness plays a part here. It feels rather elitist to say
+smart people are good at everything. It is far nicer to think we each have
+our individual talents and some just have a few more than others. But
+that’s not what the science tells us. ‘Group Intelligence’ – the overall G
+score – does appear to be the underlying cause of the other types of
+intelligence, and smart people do tend to be good all-rounders. However,
+there is one major flaw in the analysis; the studies only measure the
+subjects’ ability to pass academic tests, they don’t look at our success in
+real-life, nor our creativity.
+Lewis Terman began the long est running study of intelligence
+and its relationship to life success back in the 1920s. It continues to this
+day. A group of 1500 children with high IQs were selected and tracked
+throughout their lives. Terman assumed their high IQs would result in
+them being very successful. They certainly did well, but studies show
+they did no better than if they had been chosen randomly from the same
+area (all the children came from around Stanford University). Famously
+two children, William Shockley and Luis Alvarez, tested too low to be
+chosen for the study but went on to win Nobel Prizes for Physics in 1956
+and 1968, respectively.
+There are many similar anecdotes: Apparently stupid people go on
+to great things. Einstein’s teacher famously stated he would never amount
+to anything and Sir John Gurdon’s school report said he was ‘too stupid’
+for science. He went on to discover monoclonal antibodies for which he
+was awarded a Nobel Prize! Scientists have now devised the alternative
+theory of an intelligence tidemark. Once above this level – an IQ of
+about 130 – you can pretty much do anything you want to. This might be
+because one very important type of intelligence – creative intelligence – is
+not highly correlated with the rest. Creative people tend to be sufficiently
+intelligent for their field but once above that threshold the relationship
+breaks down. Success in creative endeavors seems to reflect strength of
+character and creative aptitude rather than raw brainpower.
+Physical Basis of Intelligence
+The high correlation between different sorts of academic intelligence
+suggests we might find a physical process within the brain leading to
+Mind over Computer
+31
+high IQ. Functional MRI scans show intelligent people use more neurons
+when tackling a given mental task, perhaps bringing to bear greater raw
+horsepower, but this is not really an explanation. It is akin to saying Usain
+Bolt runs faster because he gets more power to his legs. This is obvious.
+What we want to know is how.
+The problem with looking at brains for a common cause is the
+variation from brain to brain. We all have different genes and life
+experiences. On top of this, we really only see brains post mortem and
+this tends to confound comparisons of brain structure. One way to
+minimize the variation is to use separated identical twins. Twins have
+identical genes so their fundamental hardware is the same. We should be
+able to see features of the brain that are common to smart sets of twins but
+absent in less smart pairs. If a feature is not shared it can be discounted as
+something accidental, caused by disease, environment, or the like.
+When we examine smart twins, they appear to have greater
+myelination of their neurons. Myelin is a flat protein that acts as an
+insulating sheath, wrapping the nerves and the neurons in our brain.
+Myelination appears to be part of the mechanism involved in laying
+down long-term memory – more myelin, more memories. It may also
+help sustain signals and allow them to move faster over a longer distance:
+the increased insulation allowing the brain to include information from
+more distant parts of the brain within a given thought. But increased
+myelination may be an effect of higher intelligence rather than a cause.
+The brain is responsible for a significant part of our overall energy
+consumption so insulating the neurons might simply help with energy
+conservation. This is an active area of research.
+Evolution also gives a clue to the causes of intelligence. Humans,
+nonhuman primates, and dolphins all share spindle neurons. These
+spread across the brain and appear to help us coordinate complex
+actions between the different parts. The high function intelligence that
+characterizes these disparate species requires a great deal of cooperation
+between different areas of the brain. Take playing a musical instrument.
+This uses physical coordination (motor cortex), sound processing
+(auditory cortex), rhythm (another part of the motor cortex), along
+with emotional interpretation (amygdala). Humans have more spindle
+cells than other animals so this might explain our superior ability in
+performing these complex tasks.
+However plausible these ideas, they are all hardware arguments. It
+is like me saying my word processor is better than yours because it has
+gold plated connectors. That might be true – it might allow the machine
+to run a little faster without electrical errors creeping in, but we all know
+32 Are the Androids Dreaming Yet?
+it’s software that matters. A great computer game is great because it is
+cleverly written and has beautiful graphics. The speed of the hardware
+might help, but it does not define ‘great’.
+Can we see these software effects in the brain?
+No, unfortunately, this is where our imaging technologies fail. They
+lack sufficient resolution. We would need 100,000 times more resolution
+to see our thoughts, even assuming we would recognize thought if we saw
+it. There is no reason to believe the brain lays out thinking in anything
+resembling the computer software we are accustomed to reading.
+There is one exceptional group of people that does show a software
+difference on a large-scale – chess players. It seems Chess Masters use
+a different part of their brain to process information about chess than
+you and I. This can be clearly seen on scans of the brain and is such a
+gross effect it even shows up in old-fashioned EEGs – where electrodes
+are taped to your head. Interestingly the effect can be used to predict
+greatness. Players likely to become Grand Masters show they use a
+different part of their brain from the rest of us at an early age. Chess
+players possess the only large scale wiring difference we know of, but
+there is another group with a visible physical difference, London taxi
+drivers. Their hippocampi are noticeably larger than the rest of ours. The
+hippocampus does many things, but one of its most significant jobs is to
+memorize maps. The three years it takes to acquire ‘the knowledge’ and
+the subsequent years of navigating London’s complex streets give cabbies
+a 30% larger hippocampus than the average London resident.
+Is Intelligence Static?
+We’ve all seen the headline. Every summer public examination results
+come out and every year is pronounced a record breaker! Year after year,
+students get better and better grades. This creates a problem. There’s is no
+better grade than an A – and eventually all students get As. Welcome to
+grade inflation – a problem affecting systems the world over, from British
+‘A’ levels to Harvard grade point averages. Newspapers are awash with
+stories bemoaning the dumbing down of today’s tests. “Examinations
+aren’t what they used to be.”
+Grade inflation undoubtedly exists and studies of undergraduate
+grades show progressive compression into the top grades, most competent
+students get ‘A’s, making it difficult to distinguish a good student from a
+great one.
+Mind over Computer
+33
+At first glance, the problem appears to be one of social engineering.
+Teachers don’t want to disappoint, and academic institutions want to
+improve on last year’s results. The people awarding the grades often have
+a vested interest in those grades improving. Even a tiny positive bias in
+the most scrupulously honest teacher is enough for grades to creep up.
+However, grade inflation might not be purely a matter of over enthusiastic
+teachers. IQ scores are also rising. Welcome to the Flynn Effect.
+James Flynn, Emeritus Professor of Political Studies at the
+University of Otago in Dunedin, New Zealand, reported in 1987 that
+IQ scores rise over time throughout the world. All told the population
+gains about one IQ point every three years, and approximately every
+ten years IQ tests have to be re-calibrated, so the average student once
+again receives the average grade. This is a mystery. It is a large effect and
+cannot be explained by the rote learning of lots of sample questions. The
+human race is either rapidly getting smarter or the least smart members
+of society are coming up to the general average fast; either way it means
+there are fewer dumb people around. The Flynn Effect has recently
+slowed in western countries, suggesting it might be that intelligence is
+converging rather than increasing overall. Another interesting fact is
+people become more intelligent as they age, gaining about one IQ point
+every ten years. Against the stereotype, it’s not all downhill after forty.
+There is hope for me yet!
+Until recently we thought IQ was fixed, but new research contradicts
+this. Muscles get stronger with exercise, physical skills, such as playing
+golf and tennis, improve with practice; why not intelligence? Scientists
+used to believe brains couldn’t get smarter; you had the IQ you were
+born with. You might learn more ‘stuff ’ during your life, but the G factor
+stayed the same. It looks like this is wrong and we were simply not using
+the right exercises.
+In 2008, Susanne Jaeggi and Martin Buschkuehl, of the University
+of Maryland, modified an intelligence test into a game and showed
+playing the game improved ‘fluid’ intelligence and increases IQ. They
+believe playing their game helps improve working memory – the shortterm
+memory we use for storing sums as we do mental arithmetic –
+or remembering telephone numbers. Previous attempts to improve
+IQ through practice had not shown much success as the skills did not
+transfer between tests, but working memory is such a useful thing it
+appears to help across the board.
+These factors argue against intelligence being a hardware feature of
+our brain. It does not remain static but instead improves with age, time,
+and education.
+At the beginning of the chapter, I said Garry Kasparov was once
+thought to be one of the most intelligent people on the planet. When
+his IQ was eventually tested – the German magazine Der Spiegel put up
+the money – he scored 135. That means, in academic terms, he is smart
+but no genius. Yet, he is undoubtedly a genius by any common sense
+definition: the best chess player to ever live. These days he involves himself
+in politics rather than chess and is still uniquely able to concentrate for
+long periods of time. Concentration seems a very important factor.
+Einstein was once asked where his genius came from. He replied that
+he did not consider himself a genius but instead put his success down to
+his persistence and ability to concentrate on a problem for many years.
+IQ tests say nothing of our ability to concentrate over extended periods
+and nothing about our drive to change the world. The tests are, at best,
+a useful but dangerous diagnostic tool for educators. One of the worst
+things IQ can do is pigeonhole people. Would Kasparov have become
+world champion if he had been given his IQ score of 135 as a teenager
+rather than late in his thirties after he had conquered the world?
+“Education is what is left after
+what has been learnt has been
+forgotten.”
+B.F. Skinner
+Hole-in-the-Wall Experiment
+The Learning Brain
+Human beings are born with an extraordinary ability to learn
+through experiencing the world around them. Studies show
+babies as young as three weeks understand musical ideas,
+smiling as you play music to them in a major key and frowning at music
+in a minor key. By six months, babies have learned to distinguish the
+relationship between objects, and by two, they have a command of
+language and are beginning to develop a theory of self. They understand
+how to lie and become adept at playing parents off against each other!
+Sugata Mitra, of Newcastle University, has run an experiment in
+India to test minimally invasive education called the ‘Hole in the Wall
+Project’. As the name suggests, he cut a hole in the wall of a building in
+Delhi and put a computer in it. The hole opens out onto a slum district
+and local children rapidly discovered the computer. Without any formal
+training they picked up the necessary skills and very soon became adept
+at searching the Web. Remember, in order to ‘pick up’ this skill they often
+had to learn the English language as well.
+Another example showing children’s innate ability to learn is Nicolas
+Negroponte’s ‘One Laptop per Child’ program, which gives computers to
+children in remote villages around the world. The laptops are a triumph of
+cost engineering but are fully functional and can connect to the Internet.
+The inspiration for the project came from an analysis of the economics
+of the computer industry. Huge capital investment in the western world
+is driving most costs down, but one cost that seems to have stuck fast is
+the access device. Laptops tend to remain at a floor price of around $500,
+far too high for much of the developing world. At $500, a computer store
+makes $80 when they sell you a laptop. This is as low as is cost-effective
+36 Are the Androids Dreaming Yet?
+Laptops Galore
+for them to stock the machine, employ someone to tell you about it, and
+fix it if it goes wrong in the first year. Value for money improvements
+have all focused on faster processors, more memory, sharper displays
+and larger hard drives, not lower prices. These improvements are useful if
+you want to shoot aliens, but overkill if you only want to surf the Internet
+and learn the ‘3 Rs’. So the ‘One Laptop per Child’ project has developed
+a device for $100.
+Negroponte is often asked how he deals with the maintenance and
+repair issues. His answer, “There aren’t any.” The computers are treasured
+possessions and rarely broken or lost. Children become empowered by
+the machines and can access knowledge and information far beyond the
+wildest dreams of their parents’ generation. Stories abound of children
+checking the spot prices for wheat or coffee on the Chicago Stock
+Exchange, and advising their parents on the price to accept for their
+crop. Negroponte estimates there are currently 500,000 children in South
+America teaching their parents to read!
+It’s interesting to speculate whether children learn spontaneously or
+are somehow ‘programmed’ by the adult members of society. In both the
+‘Hole in the Wall’ experiment and the ‘One Laptop per Child’ program
+the children could simply be learning from adults and older children, but
+there is a novel way to eliminate this influence. Negroponte and Mitra
+have teamed up to run an experiment to see how children learn for
+themselves. They are planning to air-drop laptops into remote villages
+in the Andes. In this scenario, the children can’t possibly learn from the
+Mind over Computer
+37
+One Laptop per Child
+adults – the adults have never even seen a computer before. Instead,
+they must rely entirely on their innate learning ability. At this point, the
+experiment has only just started; I will put details on my website as the
+experiment progresses.
+The 10,000 Hour Club
+Learning by experience takes
+humans quite a bit of time. Anders
+Ericsson, Professor of Psychology
+at Florida State University, studied
+musicians in the early 1990s and
+found they had accumulated a
+huge number of practice hours
+by the time they became experts.
+His research was popularized by
+Malcolm Gladwell, in the book
+Outliers, and by Daniel Coyle
+in The Talent Code. The idea is
+that humans need around ten
+thousand hours of practice to
+become proficient at a skill. The
+more skilled players seem to have
+simply accumulated even more
+Dan McLaughlin
+38 Are the Androids Dreaming Yet?
+practice. A number of people
+have wondered whether you
+can take this literally, and if you
+devote 10,000 hours to practicing
+something you can become
+world class. Dan McLaughlin
+from the USA used to be a
+professional photographer and
+decided he might like to become
+a professional golfer. He quit his
+job and is now 3,500 hours in. So
+far, he has achieved a 4 handicap.
+I also personally got bitten by this
+bug and am learning the piano. I
+am about 3,000 hours in and am
+making good progress.
+Gladwell’s interpretation of
+Ericsson’s results is not without
+controversy. Ericsson stresses
+‘purposeful practice’ is the
+important element. Practicing
+Piano Practice
+the wrong thing for ten thousand
+hours will just make you good at doing something wrong. Practicing
+without concentration and attention will equally have little effect. One
+illustrative example is the story of Edward Sanford, a supreme court
+judge, who read the morning prayer aloud every day over a 25 year
+period. After he retired he was asked if he could recite it from memory.
+Despite reading it as many as 5000 times during his working life, he was
+unable to remember it. It seems you must purposefully practice the exact
+thing you want to do if you wish to learn it, in this case recall.
+Computers don’t require practice to learn a skill. If their program
+is right they work correctly, and if it is wrong, they are always wrong.
+Computers can be programmed to learn but so far this learning has been
+limited to specific problem domains, such as face recognition. They do
+not have the general-purpose capability humans enjoy.
+
+Astrological Clock at Hampton Court Palace
+“The die is cast”
+Shakespeare
+“How does the water of the
+brain turn into the wine of
+consciousness?”
+David Chalmers
+
+Determinism
+I
+have free will.
+Look…
+I can choose to type any word I like.
+Giotto...
+Many philosophers tell me I am deluded. I was always going to type
+that word and I have no free will. Everything in my life is predetermined.
+I’m rather like a character in an enormous video game. The character
+might think it was free to act, and its actions would appear random.
+Yet from the moment the player clicked the button to start the game,
+every action the character takes is determined by a preprogrammed set
+of rules. This is the free will debate. How can we tell we are free? Would
+there be any observable effect?
+One of the big problems is that philosophers codified much of our
+modern theory of free will in the 19 th century, at a time when all the
+known physical laws were deterministic and reversible. They could not
+see a way for free will to emerge from such physical laws. There was even
+a group called the Compatibilists lead by David Hume that thought free
+will could coexist with determinism. Provided you felt free it did not
+matter that your actions were inevitable.
+We all want free will to mean actual freedom to make conscious
+choices. We would like to affect the world in which we live; not the other
+way around. I dislike making definitions – I find they take away from the
+core argument and only result in linguistic jousting, but it seems that two
+centuries of philosophers have avoided a proper discussion of free will by
+loosely defining the term. Here is my definition:
+42 Are the Androids Dreaming Yet?
+‘We consciously, and through the exercise of will, make decisions
+between different choices without anyone or anything causing the
+decision in advance. Others can influence decisions – by offering advice
+or even holding a gun to our head, but we choose.’
+If you can devise a better, stronger definition please email me and
+I will revise my definition to your better one. I’m searching for the most
+powerful definition of free will – totally free and born out of the exercise
+of will.
+The human mind appears to have free will. At least this is my
+personal conscious experience. Computers, on the other hand, do not.
+They run programs that dictate exactly how they will operate in every
+situation. Could a computer be programmed to have free will? That’s
+hard to do. Let’s see why.
+Thinking with Clockwork
+Astronomers have been predicting the motions of the heavens for
+centuries and to do this they need accurate clocks. The very first clocks
+were sundials. These suffered the obvious disadvantage of not working
+at night, but it was also unsatisfactory to use the motion of the sun to
+predict the motion of the sun. The earliest ‘heaven independent’ clocks
+used water flowing through small holes in pottery vessels. They were
+effective over short intervals but plagued by dust, dirt and evaporation.
+It was the invention of the anchor escapement that enabled the first
+accurate mechanical clocks.
+By the sixteenth century clockmakers had gone to town developing
+astrological clocks with more and more gears, to show all manner of
+information; the phases of the moon, the motions of planets, even the
+motion of moons orbiting those planets. These clocks became hugely
+ornate. The astrological clock at Hampton Court Palace was built for
+Henry VIII circa 1542 and, as well as showing phases of the moon
+and the signs of the zodiac, it accurately calculated the time of high
+tide at London Bridge, allowing Henry to travel quickly to the Tower
+of London. You might also notice it shows the sun orbiting the earth!
+Copernicus published his book, De revolutionibus orbium coelestium (On
+the Revolutions of the Celestial Spheres) showing the earth orbited the sun
+a year later in 1543, and it took centuries before it became accepted fact.
+Clocks need gears. The humble gear is a simple machine. They
+work because wheels of different size have different circumferences – the
+distance around the edge – but one full turn is the same for all wheels.
+Imagine you have a circular sweet such as a Life Saver – or Polo for
+Mind over Computer
+43
+British readers – and you roll it once around the wheel of your car. The
+small sweet will turn many times. Now put a pencil through the hole
+in the sweet, jack up your car so the wheel is off the ground, hold the
+sweet next to the wheel of your car and press the accelerator. The sweet
+will spin round very fast and probably disintegrate in a shower of minty
+sugar. This is the principle of gearing. A small circle has to do a lot of
+work to keep up with a big circle. It’s very predictable. The sweet will turn
+a set number of times for each rotation of the car wheel, equal to the ratio
+of the circumferences of the two circles.
+Gears usually have teeth to lock the wheels together, but this is really
+just to make sure they can’t slip against one another when they transfer
+huge forces, such as in racing cars. Some passenger cars have been built
+with smooth gears; a friend of mine had one at university. If he put his
+foot down too hard, the gears would slip, heat up and you would get a
+terrific smell of burning rubber. If you were lucky you could leave the car
+for a few hours and all would be well. But, if not, you had to replace the
+rubber belt, which was very expensive. Toothed gears generally win out.
+Toothed gears also have the enormous benefit of being digital. This
+is quite important if you want to keep things accurate. Gears can’t move
+a fraction of a tooth so if a toothed gear has ‘slipped’ forward a small
+amount, it will be kicked back into position when it meshes with another
+gear.
+In a modern mechanical clock, a balance wheel swings back and
+forth on a spring and moves the main gear one notch forward each time
+it passes its central position. Gears divide this down to move the hour and
+minute hands. If I put the hands of a clock at midday and let the clock
+tick 86,400 times, the clock hands will come back to the same place. Once
+you understand how a clock works you can play a trick. If you tell me the
+number of ticks the clock has tocked, I can tell you the exact position the
+hands will be in. To a small child this might be dressed up as a magicians
+trick – but, of course, it is simply a matter of dividing the number of ticks
+by 60 and then 60 again to calculate the amount of time elapsed. This
+type of precisely predictable behavior is called deterministic behavior.
+Something is deterministic if you can set it up in a particular way and
+know the exact state later or, conversely, examine something and trace it
+back into the past.
+Modern computers scale up clockwork and make it much more
+efficient; gears are translated into electronic logic gates and a quartz
+crystal vibrates at 1000 million ticks per second to give us the clock tick.
+On each tick, the computer can do a mathematical operation, store and
+retrieve information, or branch down an avenue in its program. Using
+44 Are the Androids Dreaming Yet?
+these simple building blocks the computer allows us to play computer
+games or process the words of this book as I write. Importantly, all these
+operations are deterministic; given a set of inputs the computer will
+always generate the same outputs and that means a computer has no free
+will.
+“Ah,” I hear you say, “but my computer plays games with me and is
+not predictable, otherwise I would always beat it.” You are right, but the
+computer has a clever trick to fake non-deterministic behavior: it uses
+you!
+Computers on their own cannot generate random numbers. All
+a computer can do is generate a pseudo-random number and it does
+this by working its way through a very long calculation. It could, for
+example, calculate the first thousand digits of π (pi), and then start using
+the subsequent digits as random numbers. The digits look jumbled up
+but we know they follow an entirely predictable pattern. The computer
+appears to behave randomly because when I press the button to kill
+an alien the computer picks the number it had counted up to at that
+moment, say the 55,678 th digit of π, and uses that. It is I, the human, who
+unconsciously picks the precise moment in time and therefore provides
+the random element. My choice is governed by all sorts of extraneous
+quantum influences: Did I have coffee this morning? Was it a big mug
+or a small cup? How hot was it? All these things will be important as
+they determine the amount of caffeine absorbed across the brain blood
+barrier and the exact timing of my actions.
+Humans are not good at consciously generating random numbers.
+We tend to choose the same numbers too often. If I ask you to pick a
+number between one and ten, you are likely to choose three or seven.
+This effect is called social stereotyping; magicians often use it when they
+pretend to read your mind. The problem arises because we tend to over
+think the problem. I asked you to pick a random number between one
+and ten. You won’t pick one or ten. Five is too obviously the mid-point.
+Even numbers don’t feel random. Nine is too large. That just leaves three
+and seven. So the mind reading magician has you! Humans can unlearn
+this social programming and become quite good random number
+generators but normally we tend to conform.
+There is a way two humans can generate a truly random number
+without training. Find a friend for this experiment. One of you should
+pick any number between one and ten and start counting under your
+breath, when you get to ten just go back to one and keep repeating. The
+other should wait a while and then shout stop. The number reached should
+be genuinely random. Please post the results on my website and I’ll tell
+Mind over Computer
+45
+you if this crowd-sourced random
+number generator really works.
+There should be no way to predict
+the resulting number as both
+of you are affected by quantum
+randomness and, provided you
+wait a little before shouting stop,
+any social stereotyping should
+be overcome. If you want to be
+scientific, remember the random
+number you started with and the
+length of time before your friend
+shouted stop. There should be an
+improvement in randomness with
+the amount of time they wait.
+In the absence of human
+interaction another way to give
+a computer access to a random
+number is from a quantum
+device. A lava lamp works well!
+The Lavarand, developed by
+Silicon Graphics, is a hardware
+random number generator which
+uses images of a lava lamp to seed
+a random number generator. It is
+covered by U.S. Patent 5,732,138,
+Lava Lamp
+titled “Method for seeding a pseudo-random number generator with a
+cryptographic hash of a digitization of a chaotic system.” Got that!
+A computer does not acquire free will just through the injection of
+randomness. You could simply put an intercept on the link from the lava
+lamp to the computer and completely predict the computer’s behavior.
+The system as a whole will certainly do unpredictable things, but the
+computer did not make a choice; behaving randomly is not exercising
+free will. Where is the will?
+Consciousness
+I remember my first trip to Death Valley in the United States. We were
+driving along the main east-west highway at the bottom of the valley
+and a sign said, “Turn off your air conditioning now.” I did as I was told
+and to cool down I opened the window. When I put my hand out I felt
+46 Are the Androids Dreaming Yet?
+nothing; no wind chill, nothing. The air was so hot the wind carried no
+heat from my hand. When I imagine hot weather it always brings back
+this memory. It’s my conscious experience of the world.
+Humans experience the world through a vivid lens we call
+consciousness. It allows us to think about the world as we watch it and
+plan actions. But, it also summons associated memories, something
+scientists call ‘qualia’. Most writers describe consciousness as an internal
+dialogue with themselves and see it as a consequence of human language.
+That’s probably because most writers are linguists. Non-linguists, perhaps
+even dyslexic engineers like me, experience consciousness as more of a
+visual dialogue.
+It’s hard to pin down consciousness as the difference between
+humans and computers. Computers do have something that resembles
+consciousness; they have watchdog functions, they plan and anticipate
+actions and are aware of their own existence. But they don’t understand
+or make free choices based on this consciousness. It is an entirely
+mechanistic affair. A computer might know its CPU is overheating and
+send a notification message to the administrator, but it does not really
+appreciate what this means. It does not have our sensation of a near death
+experience. This self-awareness is the ‘hard question’ of consciousness.
+Why, despite the computer knowing it is overheating, does this not
+translate into the intense experience we have? Philosophers, such as
+Daniel Dennett, think this lack of consciousness is only a matter of time;
+once computers live long enough and have sufficient internal complexity
+they will begin to experience the world the way we do. We are nothing
+special.
+The problem with consciousness is it does not seem to have any
+externally discernible effect. Anesthetics can take it away and brain
+scanners can see that it has been switched off, but what is it for? I think it
+comes hand in hand with our faculty of creativity. Consciousness allows
+us to shape the world – not the other way round.
+Steve Jobs
+“We can't solve problems by using
+the same kind of thinking we
+used when we created them.”
+Albert Einstein
+
+Creative Theories
+Once I have exercised my free will by getting out of bed in the
+morning, I often decide to do something creative. Humans seem
+driven to create. We compose music, draw, paint, and solve
+mathematical puzzles. Computers are not naturally creative; they spend
+most of their time doing exactly the opposite – following preset rules. Is
+this a fundamental limitation distinguishing the computational world
+from the real world?
+The Conventional View
+Most scientists believe pattern-matching algorithms in the brain allow
+us to be creative. To see how this might work, imagine our brains are
+chaotic – not hard to do – and process many competing ideas at the same
+time. The neurons in our brains build millions of useful, and useless,
+connections based on the patterns in the data we see and hear. Then a
+selection process goes to work – something akin to natural selection – to
+sift and prune the connections until something bubbles to the surface
+and we get that, ‘aha’ feeling.
+Douglas Hofstadter, Professor of Cognitive Science at Indiana
+University, famous for the book Gödel Escher Bach, has written a computer
+program using pattern matching to discover number theorems; things
+like any number ending in a zero is divisible by 5. The program produces
+interesting results, even perhaps generating some new theorems. He
+argues the human brain is essentially a scaled up version of his program.
+By the way, if you like trivia, his book Fluid Concepts & Creative Analogies
+was the first book ever sold on Amazon.com.
+50 Are the Androids Dreaming Yet?
+The Unconventional View
+Roger Penrose, Professor of Mathematics at Oxford University, holds a
+completely different view. He thinks brains operate in a non-algorithmic
+manner and provides a sketch of the possible mechanism in two books –
+The Emperor’s New Mind and Shadows of the Mind. He suggests tubulin
+molecules, which form the skeleton of our neurons, exploit quantumgravitational
+effects to calculate non-computable functions. The
+scientific community was initially highly skeptical that quantum effects
+could survive the warm, wet environment of biological systems, but in
+January of 2014, Edward O’Reilly and others at UCL discovered plants
+use quantum effects to improve the efficiency of photosynthesis. No
+prize has yet been awarded for this discovery but it must be a contender
+for a Nobel Prize at some point. Recently Travis Craddock, now of the
+Nova Institute in Florida, has submitted a paper showing a very similar
+geometry of proteins exists within tubulin microtubules in the brain. He
+believes this is evidence quantum effects may exist there as well.
+A simple quantum effect in the brain could merely reduce the
+resistance of the wiring in the brain to help conserve power and avoid
+overheating. We recognize this is a major problem in building small,
+powerful conventional computers. Roger Penrose suggests an altogether
+more radical idea. He proposes our brains are quantum gravity computers
+capable of calculating non-computable functions. We don’t yet have a
+theory for quantum gravity so his idea is at the cutting edge of physics
+– read highly controversial. He raises a deep mathematical question. If
+the Universe is deterministic and effectively equivalent to a computation,
+how does ‘creative’ knowledge emerge within it? Lots of knowledge can
+be manufactured by simply mechanically rearranging data. That’s what
+happens when I watch a DVD or play a computer game, but, at some
+point in the past, a director or a programmer had to put in the creative
+effort to make the movie or write the computer program. How did that
+happen? Was it baked into the fabric of the Universe at the moment of
+the Big Bang? Is what we take for a Universe really nothing more complex
+than putting a DVD in the slot and hitting play?
+One last piece of trivia links Hofstadter with Penrose: Roger
+Penrose and his father invented the Penrose Steps, inspiring the neverending
+staircase in the Escher prints featured in Hofstadter’s book. For
+movie buffs, the Penrose steps appear in the film Inception, starring
+Leonardo DiCaprio. The fact we get pleasure from these trivial links tells
+me something is going on in our brains that is not so mechanical.
+Mind over Computer
+51
+M. C. Escher’s Ascending and Descending (Penrose Steps)
+
+Chapter 2
+UNDERSTANDING
+Afghanistan COIN Dynamics
+“Power corrupts, PowerPoint
+corrupts absolutely.”
+Ed Tufte
+“No battle plan survives contact
+with the enemy.”
+Colin Powell
+Originally, Helmuth von Moltke
+54 Are the Androids Dreaming Yet?
+John Masters stood up to address General Stanley A. McChrystal
+and his military staff in Kabul. The topic, of course, the war in
+Afghanistan. The main war lasted only eight weeks, but this did not
+end the conflict. A level of tribal violence and insurgent warfare rumbled
+on for years, killing around 30 people a week. Masters’ job was to explain
+the dynamics of Afghanistan and provide politicians and military
+commanders a framework to understand what was going on.
+Think about your country for a moment. What maintains the fabric
+of society – police, family, the local charity club, church, newspapers, the
+broadcast media? All these institutions work to keep us civilized, but what
+happens if a country loses them? There are institutions in Afghanistan,
+good and bad: tribes, gangs, corrupt officials, families. Masters had spent
+a year investigating these interactions, and questioning the returning
+commanders. He and his team believed that understanding the dynamics
+of the conflict was the key to bringing peace to Afghanistan.
+If you live in an industrialized country, you rarely see society
+without its civilizing web in place. One interesting ‘experiment’ that
+shows what happens when it fails was the 1976 traffic police strike
+in Finland. Finland is a fantastically law abiding country where most
+people obey both the written and unwritten laws. During the strike, this
+behavior changed. Many people began parking illegally but refrained
+from blocking the roads. A few took advantage of the absence of police to
+drive incredibly fast – twice the national limit. These would be labeled as
+‘defectors’ in game theory. Without traffic police, a different automotive
+General Stanley A. McChrystal
+Understanding
+55
+morality emerged, a different structure to society. Of course all the other
+parts of society remained the same. People paid their taxes and went
+about their lives normally; only the traffic behavior was affected.
+Afghanistan has had most of its social structures removed over the
+last forty or so years. First the Soviets, and then the Taliban, took apart
+much of the fabric until finally the Allied Forces swept the Taliban out,
+leaving very little behind. There were no police or courts, and few laws
+– or at least none enforced by the rule of law. The Allied Forces have
+spent a decade rebuilding these structures. Before we examine Masters’
+presentation, let’s look at the daily life of an Afghan farmer.
+If you are an Afghan farmer you have a dilemma. Your most reliable
+crop is opium. It grows well in the arid soil, does not require irrigation, and
+is resistant to most pests. For this crop there is a financial infrastructure
+to rival the Chicago Commodities Exchange. You get interest free loans
+secured against the crop, and you can forward sell your product on a
+futures market. Your investors can ‘add value’ by dealing with the major
+pest – the US military. They do this through the simple expedience of
+taking pot shots at them if they get too close to the crop. Since a field of
+opium is worth $30,000 and a militia wage for the year is $350, you can
+easily employ a few men to protect your investment. Of course, you are
+indebted to thugs and criminals, but they are at least reliable thugs and
+criminals.
+On the other hand, the traditional products of the Himalayas –
+walnuts, pomegranates and vines – need years to cultivate. There is no
+forward market and the timescales over which you must take risks are
+far greater. If you believe your American protectors will leave before the
+crops mature, you will be loath to plant and care for them. But, if you
+make the decision to take this risk, you have a strong incentive to foster
+stability and reap the rewards of your effort. There is a feedback effect:
+the balance of power between all the different parties is important to the
+decisions you make, and the decisions you make affect your desire to
+invest in future stability.
+Masters’ team built a slide pack to demonstrate the complex
+interactions between the groups: farmers, security, stability, markets,
+military power, and emerging institutions. The COIN – COunter
+INsurgency – dynamics slide shows just how hard it is to communicate
+complex topics between human beings. The presentation is beautifully
+crafted but it was a public relations disaster. At the end of the presentation
+General McChrystal said jokingly, “When we understand that slide, we
+will have won the war.” The slide was paraded in the press as, “the most
+complicated PowerPoint slide in history.”
+56 Are the Androids Dreaming Yet?
+If you invest a little time on the slide you will understand it
+and may even see it as a thing of beauty. But Masters’ audience was
+obviously expecting something different and, presented with this level
+of complexity, went into shutdown. Perhaps they wanted a simpler
+presentation, a high-level summary, a few bullet points. Of course, there
+is no simple presentation on Afghanistan. The lesson is that context,
+timing and expectation are often as important to good communication
+as the elegance of the content, and that information is a complex thing.
+If you want a lighthearted poke at PowerPoint here is Peter Norvig’s
+PowerPoint version of the Gettysburg Address.
+Understanding
+Next time you are in a business meeting, count the number of times the

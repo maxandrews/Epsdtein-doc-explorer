@@ -1,0 +1,1726 @@
+﻿Epst_9780451494566_2p_all_r1.z.indd 1
+9/29/16 5:51 PM
+also by edward jay epstein
+The Annals of Unsolved Crime
+Three Days in May: Sex, Surveillance, and DSK
+The Hollywood Economist: The Hidden Financial Reality Behind the Movies
+The Big Picture: The New Logic of Money and Power in Hollywood
+Dossier: The Secret History of Armand Hammer
+Deception: The Invisible War Between the KGB and the CIA
+The Rise and Fall of Diamonds: The Shattering of a Brilliant Illusion
+Cartel
+Legend: The Secret World of Lee Harvey Oswald
+Agency of Fear: Opiates and Political Power in America
+Between Fact and Fiction: The Problem of Journalism
+News from Nowhere: Television and the News
+Counterplot
+Inquest: The Warren Commission and the Establishment of Truth
+Epst_9780451494566_2p_all_r1.z.indd 2
+9/29/16 5:51 PM
+HOW AMERICA
+LOST ITS SECRETS
+Epst_9780451494566_2p_all_r1.z.indd 1
+9/29/16 5:51 PM
+Epst_9780451494566_2p_all_r1.z.indd 2
+9/29/16 5:51 PM
+HOW AMERICA
+LOST ITS SECRETS
+Edward Snowden, the Man and the Theft
+Edward Jay Epstein
+alfred a. knopf | new york | 2017
+Epst_9780451494566_2p_all_r1.z.indd 3
+9/29/16 5:51 PM
+this is a borzoi book
+published by alfred a. knopf
+Copyright © 2017 by E. J. E. Publications, Ltd.
+All rights reserved. Published in the United States by Alfred A. Knopf,
+a division of Penguin Random House LLC, New York,
+and distributed in Canada by Random House of Canada,
+a division of Penguin Random House Canada Limited, Toronto.
+www.aaknopf.com
+Knopf, Borzoi Books, and the colophon
+are registered trademarks of Penguin Random House LLC.
+Library of Congress Cataloging- in- Publication Data [to come]
+Jacket photograph by TK
+Jacket design by TK
+Manufactured in the United States of America
+First Edition
+Epst_9780451494566_2p_all_r1.z.indd 4
+9/29/16 5:51 PM
+This book is dedicated to the memory of a wise teacher,
+James Q. Wilson (1931–2012)
+Epst_9780451494566_2p_all_r1.z.indd 5
+9/29/16 5:51 PM
+Epst_9780451494566_2p_all_r1.z.indd 6
+9/29/16 5:51 PM
+There are certain persons who . . . have a perfect right
+to commit breaches of morality and crimes, and . . .
+the law is not for them.
+—fyodor dostoyevsky, Crime and Punishment
+Epst_9780451494566_2p_all_r1.z.indd 7
+9/29/16 5:51 PM
+Epst_9780451494566_2p_all_r1.z.indd 8
+9/29/16 5:51 PM
+Contents
+Prologue Snowden’s Trail: Hong Kong, 2014 000
+part one SNOWDEN’S ARC
+chapter 1 Tinker 15
+chapter 2 Secret Agent 22
+chapter 3 Contractor 28
+chapter 4 Thief 38
+chapter 5 Crossing the Rubicon 44
+chapter 6 Hacktivist 49
+chapter 7 String Puller 59
+chapter 8 Raider of the Inner Sanctum 73
+chapter 9 Escape Artist 80
+chapter 10 Whistle- blower 88
+chapter 11 Enter Assange 98
+chapter 12 Fugitive 104
+part two THE INTELLIGENCE CRISIS
+chapter 13 The Great Divide 113
+chapter 14 The Crime Scene Investigation 133
+Epst_9780451494566_2p_all_r1.z.indd 9
+9/29/16 5:51 PM
+x | Contents
+chapter 15 Did Snowden Act Alone? 146
+chapter 16 The Question of When 156
+chapter 17 The Keys to the Kingdom Are Missing 168
+chapter 18 The Unheeded Warning 185
+part three THE GAME OF NATIONS
+chapter 19 The Rise of the NSA 195
+chapter 20 The NSA’s Back Door 207
+chapter 21 The Russians Are Coming 217
+chapter 22 The Chinese Puzzle 231
+chapter 23 A Single Point of Failure 238
+part four MOSCOW CALLING
+chapter 24 Off to Moscow 247
+chapter 25 Through the Looking Glass 254
+chapter 26 The Handler 261
+part five CONCLUSIONS: WALKING THE CAT BACK
+chapter 27 Snowden’s Choices 271
+chapter 28 The Espionage Source 281
+chapter 29 The “War on Terror” After Snowden 287
+Epilogue The Snowden Effect 295
+Acknowledgments 301
+Notes 303
+Selected Bibliography 325
+Index 329
+Epst_9780451494566_2p_all_r1.z.indd 10
+9/29/16 5:51 PM
+HOW AMERICA
+LOST ITS SECRETS
+Epst_9780451494566_2p_all_r1.z.indd 1
+9/29/16 5:51 PM
+Epst_9780451494566_2p_all_r1.z.indd 2
+9/29/16 5:51 PM
+Prologue
+Snowden’s Trail: Hong Kong, 2014
+The national security agency, or, as it is now commonly
+called, the NSA, was created on October 24, 1952, in such a tight
+cocoon of secrecy that even the presidential order creating it was
+classified top secret. When journalists asked questions about this
+new agency, Washington officials jokingly told them that the initials
+NSA stood for “No Such Agency.” The reason for this extraordinary
+stealth is that the NSA is involved in a very sensitive enterprise.
+Its job is to intercept, decode, and analyze foreign electronic communications
+transmitted around the globe over copper wires, fiberoptic
+cable, satellite, microwave relays, cell phone towers, wireless
+transmissions, and the Internet for specified intelligence purposes. In
+intelligence jargon, its product is called COMINT, which stands for
+communications intelligence. Because this form of intelligence gathering
+is most effective when the NSA’s targets are unaware of the
+state- of- the- art tools the NSA uses to break into their computers
+and telecommunications channels to first intercept and then decrypt
+Epst_9780451494566_2p_all_r1.z.indd 3
+9/29/16 5:51 PM
+4 | how america lost its secrets
+their secret messages, the NSA goes to extraordinary lengths to keep
+them secret. Draconian laws protect this secrecy.
+In the first week of June 2013, the NSA learned that there had
+been a massive breach. Thousands of secret files bearing on communications
+intelligence had been stolen from a heavily guarded
+regional base in Oahu, Hawaii.
+The suspect was Edward Snowden, a twenty- nine- year- old civilian
+analyst at that base, who had fled to Hong Kong before the
+breach was discovered. According to a three- count criminal complaint
+filed by federal prosecutors in the Eastern District of Virginia,
+Snowden had stolen government property and violated the
+Espionage Act by the unauthorized and willful communication of
+national defense information to an unauthorized person. He also
+likely violated the Computer Fraud and Abuse Act by entering computer
+systems illicitly.
+This was not a whodunit mystery. On June 9, 2013, in an extraordinary
+twelve- minute video made in a cramped hotel room in Hong
+Kong, Snowden identified himself as the person who had taken the
+NSA documents. Watching the video, the world saw a shy, awkward,
+and sympathetic- looking man wearing a rumpled shirt, rimless
+glasses, and a computer- geek haircut, passionately speaking out
+against what he termed the NSA’s violations of the law and, in a
+shaky voice, expressing his willingness to suffer the consequences
+for exposing them.
+Snowden had an innocent, idealistic, principled look about him,
+and the world was ready to congratulate him for revealing the NSA’s
+alleged illegal collection of data inside the United States. But in fact,
+Snowden had stolen a great deal more than documents relating to
+domestic surveillance. He had also stolen secret documents from the
+NSA, the CIA, the Department of Defense, and the British cipher
+service revealing the sources and methods they employed in their
+monitoring of adversaries, which was their job.
+By the time the theft had been discovered, in the first week of
+June 2013, it was impossible for the FBI, a grand jury, or any other
+U.S. agency to question him because he had fled the country. His
+first stop, Hong Kong, the economically autonomous city of 7.2 million,
+is a special administrative region of mainland China. Under the
+Epst_9780451494566_2p_all_r1.z.indd 4
+9/29/16 5:51 PM
+Prologue | 5
+terms of the 1997 transfer of sovereignty from Great Britain, China
+is responsible for Hong Kong’s defense and foreign policy, including
+intelligence services. He then proceeded to Russia, which has no
+extradition treaty with the United States. Russia granted him asylum,
+making it unlikely that U.S. authorities would ever have the
+opportunity to question him.
+Snowden’s escape left in its wake an incredibly important unsolved
+mystery: How had a young analyst in training at the NSA succeeded
+in penetrating all the layers of NSA security to pull off the largest
+theft of secret documents in the history of American intelligence?
+Did he act alone? What happened to the documents? Was his arrival
+in Russia part of the plan?
+Because I had written several books on the vulnerability of intelligence
+services, this was a mystery— a “howdunit,” if you like— that
+immediately intrigued me. Even if Snowden had acted for the most
+salutary of reasons, the unauthorized transfer of state secrets from
+the United States to an adversary country is, by almost any definition,
+a form of espionage.
+I decided to begin my investigation of this case in Hong Kong,
+because it was the place to which Snowden first fled after leaving
+Hawaii. Snowden had planned the trip for at least four weeks,
+according to the mandatory travel plan he had filed at the NSA.
+When I spoke to my sources in the intelligence community, they
+could not explain Snowden’s choice. It would not necessarily protect
+him from the reach of U.S. law, because Hong Kong had an active
+extradition treaty with the United States. Just a few months earlier,
+Hong Kong had made headlines by honoring America’s request to
+extradite Trent Martin, a fugitive wanted for insider trading.
+Nor was Hong Kong particularly convenient to Hawaii. There
+were no nonstop flights there from Honolulu in May 2013. Snowden
+flew eight hours to Narita International Airport in Japan, where he
+waited almost three hours. He then flew five hours to Hong Kong.
+Snowden could have flown to countries that do not have extradition
+treaties with America in far less time.
+Adding to this mystery, at the time he departed Honolulu,
+Snowden had not yet arranged for any journalists to meet him in
+Hong Kong, and as far as U.S. intelligence could determine, he had
+Epst_9780451494566_2p_all_r1.z.indd 5
+9/29/16 5:51 PM
+6 | how america lost its secrets
+no known appointments there. Even so, Snowden carried to Hong
+Kong digital copies he had made of the top secret NSA documents.
+As General Michael Hayden, who served as the head of both the
+NSA and the CIA, told me, “It’s very mysterious why Snowden
+chose Hong Kong.” We can assume he had a compelling enough reason
+for him to take the risk that he would be arrested there by Hong
+Kong police after U.S. authorities invoked the detention provision
+of its extradition treaty. It was of course possible that Snowden had
+traveled there to see someone he believed could protect him.
+I arrived in Hong Kong on May 20, 2014— exactly one year after
+Snowden had arrived there aboard a Japan Airlines flight. I checked
+in to the Mira hotel in the Tsim Sha Tsui shopping district of Kowloon,
+a ten- minute ferry ride away from Hong Kong Island, where
+most of the foreign consulates are located.
+I chose the Mira because it was the five- star hotel in which
+Snowden had stayed and where he had made the celebrated video
+admitting his role in taking the NSA documents. I asked at the front
+desk for room 1014, the same one that Snowden had occupied in
+2013, because I wanted easy access to the hotel’s service and security
+personnel responsible for the room who might have had contact
+with Snowden a year earlier. Unfortunately, that room was occupied,
+but I was given a nearby room that served my purpose.
+Snowden had told Glenn Greenwald and Laura Poitras, the
+Guardian reporters he met in Hong Kong, that he had hidden out
+at the Mira hotel since his arrival in Hong Kong because he feared
+that the CIA might capture him. My first surprise was that Snowden
+had not arrived at the Mira until eleven days after he arrived in
+Hong Kong. As I learned from the hotel staff, Snowden had registered
+there under his real name and used his own passport and credit
+card to secure the room, an odd choice if he was hiding out. He had
+checked in to the hotel not on May 20, as he had told the reporters,
+but on June 1, 2013. He checked out on June 10.
+Wherever Snowden stayed from May 20 to June 1, he apparently
+considered it a safe enough place from which to send Greenwald a
+“welcome package,” as he called it, of twenty top secret NSA docu-
+Epst_9780451494566_2p_all_r1.z.indd 6
+9/29/16 5:51 PM
+Prologue | 7
+ments on May 25. He had now not only downloaded documents but
+also violated the oath he had signed when he took his job by providing
+them to an unauthorized party. During this period, Snowden
+also contacted Barton Gellman, on behalf of The Washington Post,
+via e- mail. Indeed, while he was staying someplace other than the
+place he claimed to be staying, he made almost all the arrangements
+for his journalistic coming- out. He was in contact with at least one
+foreign mission during this period, according to what he wrote to
+Gellman on May 24. In that e- mail, concerning when and how his
+story was to be published by The Washington Post, Snowden asked
+Gellman to include some text that would help Snowden with his
+dealings with this mission. But which country was he approaching?
+In an effort to establish Snowden’s whereabouts during these “missing”
+eleven days, which, among other things, could shed light on
+why he first came to Hong Kong, I called Keith Bradsher, a prizewinning
+journalist who had been the New York Times bureau chief in
+Hong Kong in 2013. He had written a well- researched report about
+Snowden’s arrival there. He proposed we meet at the Foreign Correspondents’
+Club.
+Bradsher told me that he had known Albert Ho, who had been
+retained as Snowden’s lawyer, for more than a decade. He had interviewed
+him many times, because he was a leader of a political movement
+in Hong Kong. Bradsher said that a few days after Snowden
+had revealed himself on June 9, he met with Ho and questioned him
+about Snowden’s unknown whereabouts.
+Ho told Bradsher that all of Snowden’s logistics had been arranged
+for him by an intermediary, whom Ho called a “carer.” Ho said that
+Snowden had been in contact with the “carer” prior to his arrival in
+Hong Kong on May 20. According to Ho, it was this person who had
+arranged accommodations for Snowden on his arrival and afterward.
+If so, it seemed to me that this person might be able to shed light
+on whom, if anyone, Snowden saw in his first eleven days in Hong
+Kong. Even if this person might have been unaware of the reasons
+for Snowden’s trip to Hong Kong when he made the arrangements
+for him, he was still the best lead I had to learning why Snowden
+had come to Hong Kong. Bradsher told me that he pressed Ho for
+details about this mystery person over the course of several meet-
+Epst_9780451494566_2p_all_r1.z.indd 7
+9/29/16 5:51 PM
+8 | how america lost its secrets
+ings but Ho would not identify him beyond saying that he was a
+“well- connected resident” of Hong Kong.
+I called Ho’s law office in Hong Kong. He politely declined to be
+interviewed by me, saying he had said all he was going to say about
+the Snowden case. I was able, though, to make an appointment with
+Robert Tibbo, a Canadian- born barrister specializing in civil liberties
+cases. Tibbo had worked closely with Ho on the Snowden case.
+I met Tibbo in the tearoom at the Mandarin Oriental hotel on
+Hong Kong Island. Tibbo, in his early fifties, was tall, with a round
+face and thinning hair. He talked freely about his remarkable career.
+After earning a degree in chemical engineering from McGill University
+and working in Asia as an engineer for a decade, he went to law
+school in New Zealand and became a barrister in Hong Kong specializing
+in cases involving the legal status of refugees.
+Over a leisurely tea, Tibbo made it clear that he had played a far
+more active role than Ho in the Snowden case. He had even personally
+escorted Snowden from the Mira hotel to a safe house on
+June 10. He did not dispute what Ho had told Bradsher. When I asked
+him if he could give me the name of the “carer,” he said that he was
+bound by a lawyer- client privilege that prevented him from providing
+me with any details that might reveal the identity of the person
+who had made arrangements for Snowden. When I asked the date
+that he was officially retained by Snowden, he said that Snowden
+had signed an agreement hiring him and Ho’s law firm as his legal
+adviser on June 10, 2013 (which was a matter of public record).
+“I understand that,” I said, “but I am inquiring about something
+that had happened before you became his legal adviser.” He shook
+his head, as if getting rid of a pesky fly, and said that his oath precluded
+him from saying anything at all that might do damage to
+the credibility of his client. “Not even where he was staying in May
+in Hong Kong?” I persisted. He leaned forward and, after a brief
+hesitation, said, jokingly I assumed, that he would not divulge that
+information, “even if you held a gun to my head.” We met two more
+times, but true to his word Tibbo would not say if he even knew the
+identity of the “carer.”
+Meanwhile, Joyce Xu, a very resourceful Chinese journalist who
+was assisting me in Hong Kong, had filed the equivalent of a Freedom
+Epst_9780451494566_2p_all_r1.z.indd 8
+9/29/16 5:51 PM
+Prologue | 9
+of Information request with the Hong Kong Security Bureau asking
+for information about Snowden’s movements in May. Thomas
+Ng, the secretary for security, turned down the request, adding that
+Hong Kong authorities do not keep records of hotel registrations. I
+had run into a dead end with the Hong Kong authorities on the issue
+of Snowden’s “carer” and Snowden’s whereabouts for those eleven
+crucial days.
+At this point, I got some much- needed help from an old friend on
+the Obama White House staff. Before I had left New York, I asked
+him if he could find someone at the consulate in Hong Kong who
+might brief me on the Snowden case. I didn’t hear from him until
+just a few days before I was due to return to New York. He put me
+in touch with a former employee of the Hong Kong consulate, who
+he said was “fully informed” about the efforts of the U.S. mission to
+locate Snowden in Hong Kong. This person was still living in Hong
+Kong, and he agreed to meet with me on condition that I did not
+mention either his name or his specific job in the U.S. mission in
+Hong Kong. The venue was the terrace lounge of the American Club
+in Exchange Square in central Hong Kong, a posh club mainly for
+expatriate Americans. It was on the forty- eighth floor, with a spectacular
+view of Victoria Harbor. Once there, I had no problem finding
+my source, identifying him by the description he had given me.
+He was sitting alone at a discreet table in the corner.
+After we ordered drinks, he told me in a soft voice about the American
+reaction to Snowden’s revelations in Hong Kong. “All hell broke
+loose,” he said, describing the atmosphere at the U.S. mission after
+Snowden’s video was posted on The Guardian’s website on June 9.
+I asked about an assertion that Snowden had made concerning the
+U.S. consulate in that extraordinary video. Snowden had said that he
+could be seized at any moment by a CIA rendition team based at the
+U.S. consulate “just down the road” from the Mira hotel.
+“Was that true?” I asked.
+He rolled his eyes and said, “Snowden has a pretty wild imagination.
+For one thing, the U.S. consulate is not down the road from the
+Mira in Kowloon; it is here on Hong Kong Island. And there was no
+CIA rendition team in Hong Kong.”
+My next question concerned a second period during which
+Epst_9780451494566_2p_all_r1.z.indd 9
+9/29/16 5:51 PM
+10 | how america lost its secrets
+Snowden’s whereabouts are clouded— the period between the time
+he left the Mira hotel on June 10 and the day he left Hong Kong for
+Russia on June 23. When I asked my consulate source whether the
+U.S. mission took any action to track Snowden during these thirteen
+days, he explained that the FBI had long maintained a contingent
+of “legal attachés” based at the consulate to pursue many possible
+violations of U.S. law including video piracy. In addition, the CIA
+and the Defense Intelligence Agency (DIA) had retained a handful of
+“China watchers” under diplomatic cover in Hong Kong. This group
+constituted the “intelligence mission,” as he referred to it. It had
+developed informal relations with the Hong Kong police that, along
+with the NSA’s electronic capabilities abroad, allowed it to track
+Snowden’s movements after he had outed himself on the video.
+Because Snowden, his lawyers, and the journalists in his entourage
+frequently used their cell phones to text one another, it was fairly
+easy for the U.S. intelligence mission to follow Snowden’s trail after
+he left the Mira hotel. He said that the Hong Kong police also knew
+where he was during this period. My source further suggested that
+the massive Chinese intelligence contingent in Hong Kong also
+knew, because it had close relations with the Hong Kong police.
+“So everyone knew Snowden’s whereabouts as he moved every
+few days from apartment to apartment,” I interjected. He answered
+that it was no secret to anyone except the media and the public. “Of
+course we knew,” he said, adding that there were also photographs
+of Snowden entering the office building that housed the Russian
+consulate. I mentioned that there was a report in a Russian newspaper
+that Snowden had visited the Russian consulate in late June in
+connection with the flight he later took to Moscow. “All we know is
+he entered the building,” he answered, with a shrug.
+That Russian consulate visit did not come as a complete surprise
+to U.S. intelligence. After Snowden left the Mira, his interactions
+with the Russian and Chinese intelligence services in Hong Kong
+had been closely monitored by “secret means,” a term that in that
+context likely indicated electronic surveillance. A former top intelligence
+executive in Washington, D.C., subsequently confirmed this
+monitoring to me. All of Snowden’s stealth in exiting from the Mira
+hotel, which included wearing a baseball cap and dark glasses, thus
+Epst_9780451494566_2p_all_r1.z.indd 10
+9/29/16 5:51 PM
+Prologue | 11
+proved ineffective in hiding him from U.S. intelligence and presumably
+other intelligence services seeking the treasure trove of documents
+he had taken from the NSA.
+As for his next destination, I could find no evidence that Snowden
+had made any arrangements during his monthlong stay in Hong
+Kong to go to any Latin American country. Before he went public
+on June 9, he could have easily gotten a visa in Hong Kong with his
+still- valid passport to go to almost any country in the world, including
+Cuba (for which a U.S. passport was not necessary), Bolivia, and
+Ecuador. Yet he did not apply for visas during this time period. Even
+as late as June 8, after meetings with Greenwald and Poitras, his
+name had still not been revealed, no criminal complaint had been
+issued against him, and there was no Interpol red alert for his detention.
+He could have walked out of the Mira hotel, caught a taxi to
+the Hong Kong airport, and gone on Swiss International Air Lines
+via Zurich to any country in South America or to Iceland. But, as
+in the oft- cited Sherlock Holmes clue of the dog that did not bark,
+Snowden’s inaction in not obtaining visas during this thirty- day
+period suggests that he had no plans to go anyplace but where he
+went: Moscow.
+However, the mystery that most concerned me was not where
+Snowden was housed in the interim between when he went public
+and when he went to Moscow. It was where, and in whose care,
+Snowden had been before he checked into the Mira on June 1. When
+I asked my source about this period, he said that as far as he knew,
+neither the FBI nor the Hong Kong police could find a trace of him
+during the period between May 20, when he passed through Hong
+Kong customs, and June 1, when he first used his credit card and
+passport to check into the Mira hotel. Other than those transactions,
+they could not find any credit card charges, ATM withdrawals,
+telephone calls, hotel registrations, subway pass purchases, or other
+clues to Snowden’s activities. As far as a paper trail was concerned,
+Snowden was a ghost during this period.
+“Could an American just vanish in Hong Kong for eleven days?”
+I asked.
+“Apparently, he did just that,” my source replied.
+Snowden’s whereabouts during these eleven days was not a mys-
+Epst_9780451494566_2p_all_r1.z.indd 11
+9/29/16 5:51 PM
+12 | how america lost its secrets
+tery I was going to solve on this first trip to Hong Kong. I needed to
+know more about his activities before he got there. After all, Snowden
+was not, as he himself pointed out from Moscow, an “angel descending
+from the heavens.” He had been working for the U.S. government
+for the previous seven years. During that period, he had been
+part of America’s secret intelligence regime and held a clearance for
+sensitive compartmented information, or SCI. Such SCI material is
+considered so sensitive that it must be handled within formal access
+control systems established by the director of national intelligence.
+Nor did Snowden’s breach begin with his handing over classified
+documents to the Guardian reporters in Hong Kong in June 2013 or,
+for that matter, in the eleven days prior to his meeting with journalists.
+He had, as the NSA quickly determined, begun illicitly copying
+documents in the summer of 2012. Such a dangerous enterprise is
+not born of a sudden impulse. It was, as his actions suggested, nurtured
+over many months. Even if he had managed to elude American
+intelligence from late May to early June 2013, he could not hide all
+the history that led to his decision to come to Hong Kong. There
+had to be an envelope of circumstances surrounding it, including
+Snowden’s motivation, associates, movements, finances, and activities
+prior to his fleeing to Hong Kong. What was missing was not
+just Snowden’s first eleven days in Hong Kong but the context of
+the alleged crime.
+I first needed to find out who Edward Snowden was.
+Epst_9780451494566_2p_all_r1.z.indd 12
+9/29/16 5:51 PM
+part one
+SNOWDEN’S ARC
+I woke this morning with a new name. I had had a vision.
+A dream vision. A vision righteous and true. Before me I saw
+Gamers, Gamers shrouded in the glory of their true names.
+Step forth, and assume your name in the pantheon. It’s
+always been there, your avatar’s true name. It slips through
+your subconscious, reveals itself under your posts, and
+flashed visibly in that moment of unrestrained spite; in the
+indulgent teabag. You’ve felt it, known it, recognized it.
+Now realize it.
+I woke this morning with a new name. That name is
+Wolfking.
+Wolfking Awesomefox.
+—edward snowden, Geneva, June 12, 2008
+Epst_9780451494566_2p_all_r1.z.indd 13
+9/29/16 5:51 PM
+Epst_9780451494566_2p_all_r1.z.indd 14
+9/29/16 5:51 PM
+chapter 1
+Tinker
+It’s like the boiling frog. You get exposed to a little bit of evil,
+a little bit of rule- breaking, a little bit of dishonesty . . . you can
+come to justify it.
+— edward snowden, Moscow, 2014
+Edward joseph snowden was born on June 21, 1983, in Elizabeth
+City, North Carolina. His parents were Lon Snowden and
+Elizabeth “Wendy” Barrett. According to their marriage records,
+they wed when they were both eighteen in 1979. The following year
+they had a daughter, Jessica.
+Lon Snowden, like his father before him, served in the U.S. Coast
+Guard. He was stationed at its main aviation base, where his fatherin-
+law, Edward Joseph Barrett, was an officer and rising star of the
+Coast Guard. While Edward Snowden was still a child, his maternal
+grandfather would become not only an admiral but also head of the
+Coast Guard’s entire aviation service.
+When Lon was transferred to a Coast Guard base near Baltimore
+in 1992, he bought a two- story house in Crofton, Maryland, a residential
+community very close to the NSA’s headquarters building
+at Fort Meade. Edward, who was nine, and Jessica, who was twelve,
+were enrolled in local public schools in Crofton.
+Jessica was a top student. After she obtained her degree at the
+Epst_9780451494566_2p_all_r1.z.indd 15
+9/29/16 5:51 PM
+16 | how america lost its secrets
+University of Maryland, she went on to law school, graduating with
+honors. Unlike his sister, Edward Snowden experienced a string of
+failures in his education. In 1998, after only one year of classes, he
+dropped out of Arundel High School; according to school records,
+he stopped attending classes at the age of fifteen. He later attributed
+his absence from school to a medical problem, mononucleosis, but
+according to Robert Mosier, a spokesman for Anne Arundel County
+public schools, there is no record of any illness. Brad Gunson, who
+knew Snowden before he dropped out of high school, recalled in an
+interview with The Washington Post only that he had a high- pitched
+voice, liked magic cards, and played fantasy video games.
+Instead of completing a formal education, Snowden went his own
+way. Still in his teens, he became the product of a broken home. His
+parents were entangled in messy divorce proceedings until he was
+seventeen. By this time, Jessica had her own apartment. When his
+parents separated, Snowden’s mother bought a two- bedroom condominium
+in Ellicott City, Maryland. She moved Edward, along with
+his two cats, into the condominium, while she remained in the family
+house awaiting its sale. According to a condominium neighbor,
+Joyce Kinsey, Snowden stayed home alone almost all the time. From
+what she could observe, he spent long hours in front of a computer
+screen.
+At the age of eighteen, while other teens his age went to college,
+Snowden was still living by himself, now devoting a large part of his
+time to playing fantasy games on the Internet. Posting under the
+alias TheTrueHooHa on a website called Ars Technica, he showed
+himself to be a passionate gamer. He was especially drawn to anime,
+a graphically violent style of Japanese animation. These anime
+games had by 2002 achieved a fanatic following in both Japan and
+the United States. He claimed special skills at Tekken, a martial arts
+fighting game. He even went to anime conventions in the Washington,
+D.C., area. When he became a webmaster for Ryuhana Press,
+a website running these anime- based games, he described himself
+somewhat fancifully as a thirty- seven- year- old father of two children.
+The only truth in his description was that he was born on “the
+longest day of the year” (June 21).
+He wrote Internet posts under his TrueHooHa alias about how he
+Epst_9780451494566_2p_all_r1.z.indd 16
+9/29/16 5:51 PM
+Tinker | 17
+used weight lifting and intensive training to precision shape his body.
+He bragged to his online followers that he had reduced his “body fat
+percentage to between 9.5% and 10.5%” (which was less than half
+of the average for his age). He wrote that he wore “cool” purple sunglasses,
+practiced martial arts, and was a fan of Japanese cuisine. He
+described himself at one point, as if advertising his virtues, as having
+a “head of vibrant, shimmering blond hair (with volume).”
+He appeared somewhat restless with his solitary life in his almost
+daily postings. He expressed a longing to go to Japan. “I’ve always
+dreamed of being able to ‘make it’ in Japan. I’ve taken Japanese for
+a year and a half,” he wrote in 2002. Despite his claim of learning
+Japanese, there is no record of his taking any courses in Japanese.
+But it was perhaps part of his yearning. In pursuit of an employment
+opportunity in Japan, he posted, “I’d love a cushy gov job over
+there.” Eventually, he gave up on the idea of relocating himself to
+Japan because, as he explained in a post, he would have to put his cats
+in quarantine for six months.
+Snowden’s father meanwhile moved to Pennsylvania with his
+new wife- to- be. This left Snowden with only one male family member
+in the area, his maternal grandfather, Admiral Barrett, who was
+now in the top echelon of U.S. intelligence working at the Pentagon.
+Barrett was there when a plane piloted by terrorists crashed into it
+on 9/11. He emerged unscathed.
+Snowden sought to join the Special Forces through the 18X program,
+a U.S. Army Reserve program created in 2003 that allowed
+individuals who had not served in the military or completed their
+education to train to be a Special Forces recruit. He listed his religion
+on the application as Buddhist because, as he explained in a sardonic
+post on Ars Technica, “agnostic is strangely absent” from the form.
+He enlisted in the army reserves on May 7, 2004, according to
+U.S. Army records. He reported for a ten- week basic training at Fort
+Benning, Georgia, which was standard for all enlistees in the infantry.
+In August, he began a three- week course in parachute jumping
+but did not complete that training. As Snowden put it in his Internet
+postings, he “washed out.” He was discharged on September 29,
+2004, ending his nineteen- week military career. Snowden would
+later claim on the Internet that he returned to civilian life because
+Epst_9780451494566_2p_all_r1.z.indd 17
+9/29/16 5:51 PM
+18 | how america lost its secrets
+he had broken both legs. An army spokesman could not confirm that
+Snowden injured his legs or that he was in fact dropped from the
+program for medical reasons.
+Under his TrueHooHa alias, Snowden wrote that “they [the army]
+held on to me until the doctors cleared me to be discharged, and then
+after being cleared they held onto me for another month just for
+shits and giggles.” He attributed this treatment in the army, as he
+would later attribute his problems in the CIA and the NSA, to the
+inferior intelligence of his superiors. He wrote in his post, “Psych
+problems = dishonorable discharge depending on how much they
+hate you. Lots of alleged homos were in the hold unit, too, but they
+only got a general discharge at best.”
+If he had broken his legs, it was not evident to Joyce Kinsey, his
+next- door neighbor, who told me that she never saw Snowden on
+crutches when he returned to his mother’s condominium in September
+2004. Army records show that he did not receive a medical
+discharge. He received an “administrative discharge.” Unlike a medical
+discharge, which is given because a soldier has sustained injuries
+that prevent him from performing his duties, an administrative discharge
+is a “morally neutral” form of separation given to a soldier
+when he or she is deemed for nonmedical reasons inappropriate for
+military service. Snowden preferred to cite a medical explanation for
+his severance, just as he had claimed a medical reason for dropping
+out of high school (and would later claim he needed medical treatment
+for epilepsy at the NSA).
+When he returned home from Fort Benning, Georgia, he was
+twenty- one. He remained unemployed for several months before
+taking a job as a security guard at the University of Maryland’s Center
+for Advanced Study of Language, where he was given his first
+security clearance. Snowden had to take a polygraph exam to get
+the job. According to his Ars Technica postings, he worked the night
+shift from six in the evening to six in the morning. He had higher
+ambitions than being a campus security guard.
+He wanted to become a male model. He did not seem overly concerned
+about his privacy, posting pictures of himself on the Internet
+“mooning” for the camera. He also posted provocative modeling pictures
+of himself on the Ars Technica website. He commented on his
+Epst_9780451494566_2p_all_r1.z.indd 18
+9/29/16 5:51 PM
+Tinker | 19
+own beefcake- style pictures, “So sexxxy it hurts” and “I like my girlish
+figure that attracts girls.” He approached a model agency called
+Model Mayhem, which recommended a photographer. He had some
+concern about that photographer because he, as Snowden wrote in
+a post, “shoots mostly guys.” Snowden said he was “a little worried
+he might, you know, try to pull my pants off and choke me to death
+with them, but he turned out to be legit and is a pretty damn good
+model photographer.” He posted the photographs on the Internet.
+The lack of any paid job offers dashed Snowden’s hopes for a modeling
+career.
+Around this time, he began dating Lindsay Mills, an extremely
+attractive nineteen- year- old art student at the Maryland Institute
+College of Art. Jonathan Mills, Lindsay’s father, was an applications
+developer at the Oracle Corporation. According to him, Snowden
+met his daughter on an Internet dating site. Snowden and Mills had
+much in common. They both had divorced parents who gave them a
+great deal of latitude in conducting their personal lives. Both of them
+were keenly interested in perfecting their bodies through exercise
+and diet regimes. Mills’s only paid employment over the next eight
+years would be as a fitness and yoga instructor in Maryland. When
+they first met, they both had ambitions to be models, and neither of
+them had inhibitions about posing provocatively for photographers.
+They both also had a desire to travel to exotic places, including cities
+in Asia. Mills had spent four month in Guilin, China, before meeting
+Snowden.
+As bleak as his prospects as a high-school dropout might have
+seemed, Snowden had an unexpected stroke of good fortune in the
+spring of 2006. The CIA offered him a $66,000- a- year job as a CIA
+communications officer. “I don’t have a degree of ANY type. In fact,
+I don’t even have a high school diploma,” Snowden boasted in May
+2006 on the website Ars Technica under his alias. He added, with
+only a slight exaggeration, “I make 70K.”
+How did Snowden get the job? The CIA’s minimum requirements
+in 2006 for a job in its clandestine division included a bachelor’s or
+master’s degree and a strong academic record, with a preferred GPA
+of 3.0 or better.
+The CIA needed technical workers in 2006. But even if Snowden
+Epst_9780451494566_2p_all_r1.z.indd 19
+9/29/16 5:51 PM
+20 | how america lost its secrets
+applied only in this capacity, which entailed a five- year employment
+agreement, the minimum requirement for an intelligence technology
+job was an associate’s degree awarded by a two- year community
+college in electronics and communications, engineering technology,
+computer network systems, or electronics engineering technology.
+Candidates had to have had a final GPA of at least 3.0 on a 4.0 scale
+from a fully accredited technical school or university. Snowden, as
+we’ve seen, did not meet these standards. If a candidate lacks these
+qualifications, the CIA can make an exception only if he or she has
+at least two years’ civilian or military work experience in the telecommunications
+and/or automated information systems field that is
+comparable to one of the requisite degree fields. Snowden in no way
+qualified in this way either.
+Under extraordinary circumstances, even the minimum requirements
+might be waived if the applicant had a distinguished military
+career and an honorable discharge. Snowden, however, did not
+complete his military training at Fort Benning and received only an
+administrative discharge.
+The CIA, to be sure, had needed computer- savvy recruits to service
+its expanding array of computer systems since 1990. By 2006,
+however, there was no shortage of fully qualified applicants for IT
+jobs who met the CIA’s minimum standards. Most of them had university
+course records, work experience at IT companies, computer
+science training certificates from technical schools, and other such
+credentials. The CIA, like the NSA, also obtained technicians with
+special skills for IT jobs from outside contractors. So it had no need
+for employing a twenty- two- year- old dropout who did not meet its
+requisites. According to Tyler Drumheller, a former CIA station chief
+in Europe, the only plausible way that Snowden, with no qualifications,
+was allowed to jump the queue was that “he had some pull.”
+In 2006, Snowden’s grandfather, who had attained the rank of
+rear admiral, was certainly well connected in the intelligence world.
+After twenty years’ service in the Coast Guard, Barrett had joined
+an interagency task force in 1998, which included top executives
+from the CIA, the FBI, and the Drug Enforcement Administration.
+It had been set up to monitor any gaps in the U.S. embargo on Cuba,
+and Barrett, as one of its leaders, was in constant liaison with the
+Epst_9780451494566_2p_all_r1.z.indd 20
+9/29/16 5:51 PM
+Tinker | 21
+CIA. By 2004, he had joined the FBI as the section head of its aviation
+and special operations. In this capacity, he supervised the joint
+CIA- FBI interrogation of the prisoners in the Guantánamo base in
+Cuba, which involved him in the rendition program for terrorists.
+Barrett could certainly have played a role in furthering his only
+grandson’s employment. The CIA, however, has not disclosed any
+information about who, if anyone, recommended Snowden. All that
+is known is that in 2006 the CIA waived its minimum requirements
+for him.
+Later Snowden pointed out from Moscow that in 2006 the federal
+government employed his entire family. His father was serving
+in the Coast Guard; his mother was an administrative clerk for the
+federal court in Maryland; his sister was a research director at the
+Federal Judicial Center; and Admiral Barrett was still a top executive
+at the FBI. In a sense, Snowden had entered the family business.
+Epst_9780451494566_2p_all_r1.z.indd 21
+9/29/16 5:51 PM
+chapter 2
+Secret Agent
+Sure, a whistleblower could use these [NSA computer vulnerabilities],
+but so could a spy.
+— edward snowden, Moscow, 2014
+The sudden transformation of Snowden in 2006 from a
+night watchman on a university campus to an employee for
+the CIA provided him with a powerful new identity and one much
+closer to the avatars he adopted for his fantasy games. It was burnished
+so deeply in his self- image that he cited it eight years later,
+in exaggerated fashion, in Moscow. When Brian Williams, then an
+NBC anchorman, began an hour- long television interview with
+Snowden in 2014 by saying, “It seems to me spies probably look a
+lot more like Ed Snowden and a lot less like James Bond these days,”
+Snowden approvingly smiled and told him, “I was trained as a spy
+in sort of the traditional sense of the word.” Snowden further confirmed
+his interviewer’s point, stating, “I lived and worked undercover
+overseas— pretending to work in a job that I’m not [in]— and
+even being assigned a name that was not mine.”
+In reality, Snowden’s employment at the CIA was far more prosaic.
+When he joined the CIA, he did not have the required experience
+in maintaining secret communication systems, so the CIA sent
+Epst_9780451494566_2p_all_r1.z.indd 22
+9/29/16 5:51 PM
+Secret Agent | 23
+him to its information technology school for six months to train as
+a communications officer, not a spy. After completing his training,
+he was dispatched to the CIA station in Geneva. He worked there
+for the next two years as one of dozens of information technologists
+servicing the CIA’s communication channels in Switzerland. He was
+stationed there, according to Swiss registry records, under his own
+name from March 2007 to February 2009. He was identified as a U.S.
+State Department employee in Geneva because Switzerland does
+not allow any intelligence officers to operate in its country. Officially,
+he was attached to the permanent U.S. mission to the United
+Nations, which employed hundreds of U.S. government functionaries
+in Switzerland. It was a thin cover; the Swiss government was
+aware that the CIA maintained its base in Geneva and posted its
+employees at the U.S. mission.
+Although Snowden would claim in a video he made in Hong
+Kong that he had served as a “senior adviser for the Central Intelligence
+Agency,” he was merely a telecommunications support officer,
+or TSO in CIA parlance, which was a junior- level job at the CIA.
+He worked as part of a team of information technologists under the
+supervision of senior CIA officers, according to a former CIA officer
+in Geneva. The job of these TSOs was to protect the security of the
+CIA’s computer systems through which the CIA station in Geneva
+sent and received its secret communications.
+As far as is known, Snowden made very few friends at the eighthundred-
+person mission. The only person to have publicly reported
+knowing him in Geneva during this period is Mavanee Anderson, a
+young and attractive summer intern at the U.S. mission from May
+to August 2007. She described befriending Snowden, who, according
+to her, said that he was in the CIA and also demonstrated to her his
+martial arts skills. She later recalled in interviews that he was “a bit”
+prone to brooding and voiced growing dissatisfaction with the CIA.
+The job in Geneva did have its benefits, however. It provided him
+with a generous housing and travel allowance. In many ways, it was
+the “cushy government job” he had said he was seeking in his Internet
+posts. He rented a four- room apartment and had his girlfriend,
+Lindsay Mills, now twenty- one, join him there.
+According to his posts on the Ars Technica website, he took full
+Epst_9780451494566_2p_all_r1.z.indd 23
+9/29/16 5:51 PM
+24 | how america lost its secrets
+advantage of his compensation to live the high life. He gambled on
+financial developments by buying and selling options, which are
+contracts that allow speculators to bet on the directions of the market
+without buying the actual stocks, bonds, or commodities. He also
+bought a BMW sports car on which, he wrote, he disabled the speed
+control so he could exceed the legal limit. He described in his posts
+racing motorcycles in Italy and traveling around Germany with an
+Estonian rock star (whom he did not further identify). He also continued
+his avatar life in Internet gaming; the alias he chose for that
+was Wolfking Awesomefox. He also indulged in a fantasy gun sport
+called Airsoft, a variation of paintball, in which participants used
+realistic- looking pistols to splatter each other with paint.
+Snowden’s good fortune came to an abrupt end in 2008. He suffered
+a massive loss in his options speculations. He wrote in a post
+that he had “lost $20,000 in October [2008] alone,” a sum that represented
+almost a third of his annual salary. He blamed the U.S. financial
+system, posting on Ars Technica that Ben Bernanke, the Federal
+Reserve chairman, was a “cockbag.” He also bet against any further
+rise in the stock market index, asking a user with whom he was chatting
+on the Internet in December 2008 to “pray” for a collapse of
+stock prices. When his correspondent asked him why he wanted him
+to pray for a decline, Snowden responded, “Because then I’ll be filthy
+fucking rich.” But Snowden lost this bet.
+Snowden lashed out at others on the Internet over these setbacks.
+He termed those who questioned his financial judgment “fucking
+retards.” As with other setbacks, he blamed them on government officials
+in Ars Technica posts. Because the CIA was engaged in 2008 in
+highly sensitive operations to gather banking data in Switzerland—
+one of which Snowden later disclosed to The Guardian— any Internet
+discussion by a CIA employee of financial losses could serve as a
+beacon to an adversary intelligence service on the prowl for a source.
+If any party was looking for disgruntled U.S. employees, Snowden’s
+Internet chatter about bad choices in gambling could have aroused
+its interest.
+That Snowden used his TrueHooHa alias for these Internet postings
+would not prevent a sophisticated espionage organization from
+Epst_9780451494566_2p_all_r1.z.indd 24
+9/29/16 5:51 PM
+Secret Agent | 25
+quickly uncovering his true identity. He was listed by his true name
+on the roster of the U.S. mission to the UN. By consulting personnel
+records, one would further discover that he did not actually work for
+the State Department. Because it was no secret that the U.S. mission
+in Geneva housed the CIA station for all of Switzerland, any outsider
+would think it probable that this brittle gambler who played
+the options market worked for the CIA.
+Even though it cannot be precluded that Snowden was spotted
+in Geneva by another intelligence service, there is no evidence, at
+least that I know of, to suggest that he was approached by one. Nor
+is there reason to believe that if he had been contacted by a foreign
+service in 2008, he would have responded positively. Despite
+his indiscreet posting about his outside activities, he apparently still
+respected the boundaries of secrecy that had been clearly defined in
+the oath he had taken at the CIA. For example, after The New York
+Times published an article revealing secret American intelligence
+activities in Iran on January 11, 2009, Snowden railed against the
+newspaper on the Internet under his TrueHooHa alias. He wrote,
+“This shit is classified for a reason. . . . It’s because this shit won’t
+work if Iran knows what we are doing.” He clearly recognized that
+revealing intelligence sources was extremely damaging. As for the
+Times, he said, “Hopefully they’ll finally go bankrupt this year.”
+When another Internet user asked him if it was unethical to release
+national security secrets, he answered, “YEEEEEEEEEES.”
+As with every CIA officer, Snowden had to undergo a two- year
+evaluation and take a routine polygraph test. It was then, in December
+2008, that his superior at the CIA placed a “derog” in his file, the
+CIA’s shorthand for a derogatory comment, in an unfavorable evaluation.
+The reason remains somewhat murky. According to a New
+York Times story by the veteran intelligence reporter Eric Schmitt,
+Snowden’s superior had suspected that Snowden “was trying to
+break into classified computer files to which he was not authorized
+to have access.” Schmitt evidently had well- placed sources in the
+CIA. He said that he interviewed two senior American officials who
+were familiar with the case. According to what they told Schmitt, the
+CIA superior had decided to “send Snowden home.” Officially, how-
+Epst_9780451494566_2p_all_r1.z.indd 25
+9/29/16 5:51 PM
+26 | how america lost its secrets
+ever, according to a reply by a CIA public affairs officer to the Times,
+Snowden had not been fired or accused of attempting to “break into
+classified computer files to which he did not have authorized access.”
+A former CIA officer who had also been at the U.S. mission
+in Geneva explained the discrepancy to me. He said that the spin
+the CIA put on the story was “necessary containment.” After the
+Snowden breach occurred in June 2013, the CIA had a problem that
+could, as he put it, “blow up in its face.” If Snowden had been fired
+but allowed to keep his security clearance in 2009, the CIA’s incompetence
+could be partly blamed for the NSA’s subsequent employment
+of him. If he had broken into a computer to which he was not
+authorized, he should have been fired if not arrested.
+What this spin glossed over, according to this former CIA officer,
+is the part about Snowden’s behavior that concerned his superior.
+Technically, Snowden, as a CIA communications officer, was authorized
+to use the computer system. The problem was that Snowden
+had deliberately misused it by adding code to it. This code could have
+compromised the security of the CIA’s “live system.” So while what
+the CIA public affairs officer quoted in the Times story said was correct,
+it clouded the issue.
+During his time in Geneva, Snowden had received no promotions
+or commendations for his work. He was threatened with a punitive
+investigation unless he agreed to quietly resign from the CIA. “It
+was not a stellar career,” Drumheller, the former CIA station chief,
+told me in 2014.
+Snowden blamed his career- ending “derog” on an “e- mail spat”
+with a superior. From Moscow, he wrote to James Risen of the Times
+that his superior officer ordered him not “to rock the boat.” Further,
+he complained that the technical team at the CIA station in Geneva
+had “brushed him off,” even though he had a legitimate grievance.
+When he complained about a flaw in the computer system, he said
+that his superior took vengeance on him. He said he added the code
+to the system to prove he was right. He attributed the “derog” in
+his file to the incompetence, blindness, and errors of his superiors.
+According to Snowden, he was a victim. This would not be the last
+time he faulted superiors for their supposed incompetence. He would
+Epst_9780451494566_2p_all_r1.z.indd 26
+9/29/16 5:51 PM
+Secret Agent | 27
+later say that the NSA experts who examined the documents that he
+had stolen were “totally incapable.”
+In any case, in February 2009, Snowden not only had a careerdamaging
+“derog” in his file but faced an internal investigation of
+his suspicious computer activities. According to Drumheller, such an
+internal investigation would not be undertaken lightly or because of
+an “e- mail spat.” He said that such an investigation was “a big deal”
+involving the CIA Office of Security in Washington and possibly the
+FBI. It would also result in the temporary suspension of Snowden’s
+security clearance. This left Snowden with little real choice. If he
+wanted to avoid that investigation, he had to resign from the CIA,
+which he did in February 2009. That was the end of the security
+investigation.
+He was clearly bitter, posting on Ars Technica on January 10,
+2009, “Obama just appointed a fucking POLITICIAN to run the
+CIA!” (He was referring to Leon Panetta, President Clinton’s former
+chief of staff.) Snowden attributed the origins of his antipathy to
+U.S. intelligence to his 2007– 9 experiences in the CIA. He later told
+Vanity Fair that the 2009 incident in the CIA convinced him that
+working “through the system would lead only to reprisals.”
+Snowden, if not yet a ticking time bomb, was certainly a disgruntled
+intelligence worker before he ever got to the NSA.
+Epst_9780451494566_2p_all_r1.z.indd 27
+9/29/16 5:51 PM
+chapter 3
+Contractor
+Private contractors don’t clear employees. The government does.
+— admiral michael mcconnell,
+former vice- chairman, Booz Allen Hamilton
+Snowden, aged twenty- five, returned from Europe and moved
+into his mother’s condo. Not only was he unemployed now, having
+resigned from the CIA, but his financial state had been hurt
+by the huge losses he had suffered playing the options market in
+Geneva and by the fact that he did not qualify for any CIA benefits.
+His vision of himself as a secret agent, the unstoppable Wolfking
+Awesomefox, might have also suffered. According to the narrative
+he later supplied to The Guardian, he had become deeply concerned
+about the immoral way in which the CIA conducted its intelligence
+operations in Switzerland.
+“Much of what I saw in Geneva really disillusioned me about how
+my government functions and what its impact is in the world. I realized
+that I was part of something that was doing far more harm than
+good,” Snowden told The Guardian. By way of example, he said he
+learned that the CIA had gotten a Swiss banker drunk enough to be
+arrested when he drove so the CIA could compromise him. Snowden,
+who did not drink himself, was appalled at this ploy. Despite his
+Epst_9780451494566_2p_all_r1.z.indd 28
+9/29/16 5:51 PM
+Contractor | 29
+growing antagonism toward the U.S. government, he had not given
+up on, if not becoming a secret agent, working in the netherworld of
+secret intelligence.
+There was still a back door through which he could reenter the
+spy world. Private corporations hired civilian technicians to work
+for spy agencies as independent contractors. By 2009, the CIA, the
+NSA, and other U.S. intelligence services had outsourced much of
+the job of maintaining and upgrading their computer systems to
+these private companies. They supplied the NSA with most of its
+system administrators and other information technology workers.
+This arrangement allowed the NSA to effectively bypass budget
+limits and other restrictions limiting how many NSA technicians
+it could recruit. Instead of being on the NSA’s own payroll, these
+people nominally worked for, and received their paychecks from,
+private employers. In fact, many of these outside contractors worked
+full- time for the NSA.
+Snowden applied in April 2009 to one of these private companies,
+a subsidiary of the Dell computer company. To diversify out of
+manufacturing computers, Dell had recently gone into the business
+of managing government computer systems for the NSA and other
+intelligence services. As a leading specialist in the field of corporate
+cyber security, Dell had no problem obtaining sizable contracts from
+the NSA’s Technology Directorate. In 2008, the NSA had in effect
+outsourced to Dell the task of reorganizing the backup systems at its
+regional bases. Dell had to find thousands of independent contractors
+to work at these bases. In 2009, it was seeking to fill positions
+at the NSA’s regional base in Japan, and Snowden applied. Relocating
+would be no issue for him because he had a longtime interest in
+going to Japan.
+He had little problem obtaining the job. He had a single compelling
+qualification: like all other CIA officers, he had been given a
+top secret clearance. For an outside contractor such as Dell, such a
+security clearance was pure gold. If a potential recruit lacked it, Dell
+needed to wait for a time- consuming background check that would
+have to be conducted before it could deploy him or her at the NSA.
+If a recruit already had the clearance, as Snowden did, he could begin
+working immediately.
+Epst_9780451494566_2p_all_r1.z.indd 29
+9/29/16 5:51 PM
+30 | how america lost its secrets
+Snowden still had his security clearance, despite his highly problematic
+exit from the CIA, because the agency had instituted a policy
+a few years earlier that allowed voluntarily retiring CIA officers to
+keep their clearance for two years after they left. This “free pass,” as
+one former CIA officer called the two- year grace period, had been
+intended to make it easier for retiring officers to find jobs in parts of
+the defense industry. This accommodation, in turn, made it easier for
+the CIA to downsize to meet its budget.
+Not only did Snowden retain his clearance, but unlike when he
+had applied for his job at the CIA in 2006, he could now list on his
+résumé two years of experience in information technology and
+cyber security at the CIA. Dell could check only a single fact: that
+Snowden was employed at the CIA between 2006 and 2009. His CIA
+file, which contained the “derog,” was not available to Dell or any
+other private company because of government privacy regulations.
+Even though the CIA had “security concerns” about Snowden, it
+could not convey them to either Dell or the NSA without violating
+the privacy rules. “So the guy with whom the CIA had concerns left
+the Agency and joined the ranks of the many contractors working
+in the intelligence community [IC] before CIA could inform the rest
+of the IC about its worries,” Michael Morell, then CIA deputy director,
+explained. “He even got a pay raise.”
+Obviously, this was a glitch in the security system. As a result of
+it, though, Snowden entered the secret world of the NSA only five
+months after being forced out of the CIA.
+For the next forty- five months, Dell assigned him various IT tasks
+at the NSA. In June 2009, he was sent to Japan to work in the NSA
+complex at the U.S. Yokota Air Base, which is about two hours by car
+from downtown Tokyo. He moved into a small one- bedroom apartment
+in Fussa, just outside the sprawling base.
+His initial job for Dell was teaching cyber security to army and air
+force personnel. In this capacity, he instructed U.S. military officers
+stationed at the base in how to shield their computers from hackers.
+Such security training had been required for military personnel
+dealing with classified material after several successful break- ins
+to U.S. military networks by China, Russia, and other adversary
+nations. It was not a challenging or interesting job.
+Epst_9780451494566_2p_all_r1.z.indd 30
+9/29/16 5:51 PM
+Contractor | 31
+But Snowden found diversions in Japan. In July 2009, Lindsay
+Mills joined him there. She had become an amateur photographer,
+specializing in arty self- portraits. She also saw herself as a global
+tourist, writing in her blog after arriving in Japan that she had traveled
+to seventeen countries. Like Snowden, she also deemed herself,
+tongue in cheek, a “super hero.” In this sense, her Internet avatar
+was a match for Snowden’s Wolfking Awesomefox.
+In Japan, Mills and Snowden spent time with another American
+couple, Jennie and Joseph Chamberlin, who also worked at the
+Yokota base. Jennie, a sergeant in the public affairs section of the U.S.
+Air Force, had been at art college with Mills and called herself in her
+blog the Little Red Ninja. Joseph Chamberlin was a decorated U.S.
+Navy pilot who now flew highly sensitive intelligence- gathering
+missions from the Yokota base. Jennie described Lindsay in her blog
+as her “super- model friend.” The two couples also went on expeditions
+in Japan together. As far as is known, the Chamberlins were
+the only Americans at the base with whom Snowden socialized. On
+August 17, 2009, the foursome attempted to walk up Mount Fuji,
+but they got lost en route and wound up in the Mount Fuji gift
+shop. Jennie described the misadventure in her blog: “Our adventure
+started off a little rocky with our attempts to find the interstate.
+Alas, our iconic mountain was obscured by cloud. A short stop at
+the Mt. Fuji combination soba noodle stand/gift shop was enough to
+whet our appetite for the further exploration that is to come.” Photographs
+taken that day show Snowden wearing Hawaiian shorts
+and a black tank top emblazoned with an eagle and the letters USA.
+They also show Mills wearing safari shorts, a brown sweater, and
+what appears to be an engagement ring. “Ed was looking rather rednecky,”
+Lindsay commented on one photograph. Snowden described
+her, in turn, as “nerdy.” They never made it to the top of Mount Fuji.
+Snowden also sought to advance himself by getting credit toward
+a college certificate by enrolling in a summer online course at the
+University of Maryland’s Asia program, which had a regional campus
+on the Yokota base. Known as UMUC, it had a contract with
+the government to provide military personnel with such educational
+opportunities. Snowden would later claim that he was taking
+courses for a graduate degree in computer sciences, but William
+Epst_9780451494566_2p_all_r1.z.indd 31
+9/29/16 5:51 PM
+32 | how america lost its secrets
+Stevens, the assistant registrar of UMUC, who I spoke to at the base
+in 2016, told me that the program in 2009 did not provide graduate
+courses in computer sciences. According to the program’s record,
+while Snowden had enrolled as a student in the summer of 2009, he
+received neither any credits nor a certificate.
+In October 2009, Dell assigned Snowden a job in which he had
+direct access to the NSA’s computers. He was now a system administrator,
+which is essentially a tech- savvy repairman. Dell was working
+on a backup system code- named EPICSHELTER. For this contract,
+Dell was transferring large chunks of data from the NSA’s main
+computers in Maryland to backup drives in Japan so that the system
+could be quickly restored if there was a communications interruption.
+Because most of the classified data was in its encrypted form, it
+had little value to any outside party. Snowden’s job was to maintain
+the proper functioning of computers, but as a system administrator
+he also had privileges to call up unencrypted files. He sat in front of a
+computer screen all day looking for any problems in the transferring
+of files to backup servers.
+The work was highly repetitive and exceedingly dull. Snowden
+found time to search for anomalies in the system, and he claimed
+to have spotted a major flaw in the security system in late 2009. He
+discovered that a rogue system administrator in Japan could steal
+secret data without anyone else’s realizing that it had been stolen.
+Snowden brought that to the attention of his superiors, as he later
+said.
+The emergence of a rogue system administrator was not that farfetched
+in 2009. Hacktivists such as Julian Assange had adopted the
+battle cry “Sysadmins of the world, unite.” Instead of asking them
+to “throw off their chains,” as Marx did, he asked them to send classified
+documents about secret government activity to the WikiLeaks
+site. Snowden, as a “sys admin,” was aware he had the power to do
+so. He recalled in Moscow in 2014, “I actually recommended they
+[the NSA] move to two- man control for administrative access back
+in 2009.” To make his point even clearer, he added, “A whistleblower
+could use these things, but so could a spy.” Not without irony,
+Snowden became that rogue system administrator some three years
+Epst_9780451494566_2p_all_r1.z.indd 32
+9/30/16 11:09 AM
+Contractor | 33
+later. In fact, he later used the very vulnerability he pointed out to
+steal NSA documents at Dell.
+In September 2009, still on the Dell payroll, Snowden made a tenday
+trip to India. He later said he was on an official visit “working
+at the US embassy.” Hotel records show that he arrived at the Hyatt
+Regency in New Delhi on September 2 from Japan and at 3:30 p.m.
+on September 3 checked into the Koenig Inn, an annex to Koenig
+Solutions, a school that gave crash courses on programming and
+computer hacking. According to Rohit Aggarwal, head of the school,
+Snowden stayed there until September 10 while taking classes
+with a private instructor. It cost $2,000 in tuition and fees, which
+Snowden prepaid from Japan with his personal credit card. Even
+though Snowden later said he only took courses in “programming,”
+the school’s records show that during that week he took intensive
+courses in sophisticated hacking techniques. The course was titled
+“Ethical Hacking,” but that was a euphemism for teaching the techniques
+of illicit hacking. The course provided tutoring on hackers’
+tools such as SpyEye and Zeus, which are used to circumvent security
+procedures. It also demonstrated how these hacking tools could
+be customized by criminals and spies to break into files, plant surveillance
+programs, impersonate system administrators, assume the
+privileges of system administrators in a network, and capture the
+passwords of others. On September 11, Snowden, according to hotel
+records, left India for Japan. While the stated purpose of the hacking
+training was to allow security consultants to detect intruders, it also
+prepared Snowden to be, if he chose to be, an intruder in the NSA
+system.
+One problem with working as a contractor is that the standard
+two- year contracts are not necessarily renewed. Nor is there much
+possibility for advancement for IT workers. As one contractor
+told me, “It is a dead- end job with great pay.” In the fall of 2010,
+Snowden’s contract in Japan with Dell was nearing an end.
+Dell offered Snowden, and he accepted, a new position in the
+United States. He rented a modest suburban house shaded by a
+sakura cherry tree in a suburb of Annapolis, Maryland. Lindsay
+Mills meanwhile was attending a two- week fitness training course at
+Epst_9780451494566_2p_all_r1.z.indd 33
+9/29/16 5:51 PM
+34 | how america lost its secrets
+a retreat that qualified her to be a yoga instructor. She had been living
+on and off with Snowden during the previous two years abroad,
+including while he worked at the CIA in Switzerland and the NSA in
+Japan, and now she moved in with Snowden again. The twenty- fiveyear-
+old Mills posted on Instagram, “Finally in our first US place
+together.” She also put pictures online of him in bed with her, affectionately
+referring to him in her posts as a “computer crusader.”
+He worked on problem solving for corporate clients at Dell headquarters
+in Annapolis. In preparation for his new corporate role,
+Snowden shaved off his facial hair and, with Lindsay’s help, bought a
+Ralph Lauren suit. His corporate clients were assisting the NSA, the
+CIA, and the DIA. Consequently, Snowden dealt with a wide range of
+intelligence officers and gave presentations on the vulnerabilities in
+computer security at the DIA- sponsored Joint Counterintelligence
+seminar. In February 2011, he attended a black tie Valentine’s Day
+gala sponsored by corporate members of the Armed Forces Communication
+and Electronics Association. The guest speaker was Michael
+Hayden, who had headed the CIA when Snowden was abruptly
+forced out two years earlier. Nevertheless, Snowden joined the cue
+to have his photo taken with the former director, a perk of the charity
+event.
+These dealings in no way mitigated his resentment of the intelligence
+establishment. What began at the CIA in 2009 as objections
+to what he saw as the incompetence of his superiors grew into wellarticulated
+disapproval of the way the U.S. government conducted
+its intelligence. He found NSA surveillance particularly worrisome,
+later telling The Guardian, “They [the NSA] are intent on making
+every conversation and every form of behavior in the world known
+to them.” He claimed after defecting to Moscow that he had voiced
+his concerns about what he considered illicit surveillance to ten NSA
+officials, “none of whom took any action to address them.” The NSA
+can find no record of these complaints, but if Snowden had indeed
+complained to these officials while working for Dell, his superiors
+at Dell either didn’t notice or didn’t care that they had a very disgruntled
+employee on their hands.
+Snowden also made no secret on the Internet of his anger at the
+U.S. government and the corporations that served it. He railed on
+Epst_9780451494566_2p_all_r1.z.indd 34
+9/29/16 5:51 PM
+Contractor | 35
+the Ars Technica site against the complicity of private corporations,
+such as Dell, that assisted the NSA. In his online posts in 2010,
+Snowden expressed loathing for the assistance that corporate America
+was providing the intelligence community. “It really concerns
+me how little this sort of corporate behavior bothers those outside of
+technology circles,” he wrote under his TrueHooHa alias. He said he
+feared that America was already on “a slippery slope,” and he suggested,
+perhaps adumbrating his own later actions, that this corporate
+assistance to U.S. intelligence “was entirely within our control
+to stop.”
+What the “computer crusader” expressed in these angry Internet
+postings was an almost obsessive concern over individuals’ freely
+submitting to government authority. “Society really seems to have
+developed an unquestioning obedience towards spooky types,” he
+wrote on Ars Technica without mentioning that he himself worked
+for a corporation that assisted spy agencies. He asked rhetorically
+on this public forum whether the sinister slide toward a surveillance
+state “sneaked in undetected because of pervasive government
+secrecy.”
+The outright contempt he expressed toward this “government
+secrecy” did not prevent him from seeking even more secret work
+at Dell for the intelligence services. In February 2011, after his CIA
+security clearance ran out, he applied to renew it. The new clearance
+now required a new background check and filling out the government’s
+127- page Standard Form 86.
+Since 1996, background investigations for the NSA, like much of
+the computer work at the NSA, had been outsourced to a private
+company. It had proceeded from the effort of the Clinton administration
+to cut the size of government by privatizing tasks that could
+be more efficiently done by for- profit companies. U.S. Investigations
+Services, or USIS, as it is now called, which won the contract
+for background checks, was initially owned by the private equity
+fund Carlyle Group, which later sold it to another financial group,
+Providence Equity Partners. For the private equity and hedge funds,
+profits were the measure of success. To increase its profits from the
+contract with the NSA, USIS had to move more quickly in concluding
+background checks because it did not get paid more for extensive
+Epst_9780451494566_2p_all_r1.z.indd 35
+9/29/16 5:51 PM
+36 | how america lost its secrets
+investigation. In 2006, the government learned these background
+checks were often prematurely ended. In Snowden’s case, because
+the CIA did not share its files with a private concern, USIS did not
+have access to Snowden’s CIA files, and it therefore did not learn
+about the threatened security investigation. Nor did it learn from
+the Internet, where he always employed an alias, that he was a disgruntled
+employee. So Snowden’s new clearance was approved in
+the summer of 2011, allowing him to continue working for Dell on
+secret intelligence projects.
+Meanwhile, in August 2011, Mills began her own blog titled
+L’s Journey. In it, she described herself as “a world- traveling poledancing
+super hero.” Many of her posted pictures were provocative
+poses of herself in her underwear and various states of undress. She
+wrote, “I’ve always wanted to be splashed on the cover of magazines,
+with my best air- brushed look.” Her wish would be gratified two
+years later in a way she likely did not anticipate.
+For his part, Snowden seemed happy to encourage her fantasy
+about being a superhero. He even gave her a Star Trek– inspired head
+visor. Despite all the concerns he voiced about privacy, he did not
+seem to mind her provocative posts. On the contrary, he took photographs
+of her, telling her at one point that her photographs were
+not “sexy” enough.
+Snowden was soon offered a new position by Dell at the NSA’s
+Kunia regional base in Hawaii. Dell, which was in the process of
+expanding its government consulting business, wanted him to be a
+system administrator on the NSA’s backup system. The NSA needed
+this system before it could upgrade new security protocols that
+would audit suspicious activity in real time. In Hawaii, as in Japan,
+system administrators still worked alone. Snowden knew from his
+experience in Japan that this solo work in an unaudited workplace
+provided an opportunity for a system administrator to steal documents.
+So he might also have realized that as a solo system administrator
+in Hawaii, he would have this opportunity. Whether this
+was on his mind or not, on March 15, 2012, he accepted this offer.
+Dell agreed to pay all his relocation expenses and provide him with
+a housing allowance.
+He found a 1,559- square- foot house in Oahu, located at 94- 1044
+Epst_9780451494566_2p_all_r1.z.indd 36
+9/29/16 5:51 PM
+Contractor | 37
+Eleu Street in the middle- class suburb of Waipahu. It was part of
+the Royal Kunia development, which contained three hundred
+similar- looking homes. According to Albi Matco, the manager of the
+community association for the development, many of the residents
+worked at military facilities in the area. The corner house Snowden
+rented was comfortable enough, with three bedrooms, a walk- in
+closet, a living room with a high ceiling, and a single- car garage, but
+in no way lavish. It did not even have a backyard. He moved in on
+April 2, 2012, which entailed a brief separation from his girlfriend,
+Mills, who had committed herself to attending a girlfriend’s wedding
+the following month. After he left for his new assignment, she wrote
+on Instagram, “Sex toy party and then saying goodbye to my man—
+well not goodbye so much as see you in two months.”
+Epst_9780451494566_2p_all_r1.z.indd 37
+9/29/16 5:51 PM
+chapter 4
+Thief
+We begin by coveting what we see every day.
+— hannibal lecter, The Silence of the Lambs
+In hawaii in 2012, Snowden was living a very comfortable life.
+He was earning just over $120,000 a year from Dell. His housing
+allowance covered the rent and the lease on his car. He worked
+five days a week at the NSA base. The commute, as I timed it, took
+only ten minutes. Driving past a sign marked “Restricted Area: Keep
+Out,” and the security booth where NSA guards checked his credentials,
+he left his car in the outdoor lot for the Kunia Regional
+Security Operations Center. (When I drove into the base in 2016,
+I was detained nearly two hours at the security booth before being
+turned back.)
+Snowden worked in a three-story reinforced concrete building
+called “the tunnel,” even though it was above the ground. It had
+been built during World War II to serve as an aircraft assembly
+plant. During the war, it was entirely covered with earth and shrubbery
+to proof it against Japanese bomber attacks. In 1980, the NSA
+converted it to its regional base in Hawaii for its intelligence gather-
+Epst_9780451494566_2p_all_r1.z.indd 38
+9/29/16 5:51 PM
+Thief | 39
+ing. Its lack of windows and the dirt covering gave it the appearance,
+when I viewed it in 2016, of an oblong-shaped anthill. Workers, both
+military and civilian, entered through an exterior staircase in the
+center of the mound. Even though it is above the ground, it is known
+as the tunnel. Snowden said in describing the atmosphere, “You’re in
+a vaulted space. Everybody has sort of similar clearances, everybody
+knows everybody. It’s a small world.” He said that to relieve the
+tediousness of the work, every two months or so his fellow workers
+would circulate a picture of a naked person that showed up on
+their screens as part of the NSA’s surveillance of foreign suspects. He
+explained, “You’ve got young enlisted guys, 18 to 22 years old [who
+have] suddenly been thrust into a position of extraordinary responsibility
+where they now have access to all of your private records. In
+the course of their daily work they stumble across . . . an intimate
+nude photo of someone in a sexually compromising position.”
+He knew that copying any files, including photographs, was a violation
+of NSA rules. But he did not report this illicit activity to the
+NSA, even though he later claimed that it occurred regularly. He
+joked in his Moscow interview with The Guardian that some of the
+nudes were “extremely attractive” and that viewing them was, as he
+put it, “the fringe benefits of surveillance positions.”
+Snowden identified with the Libertarian Party, and at the NSA
+he made no effort to conceal his political support of its causes. He
+became an active partisan of Congressman Ron Paul, the leading figure
+in the party in 2012. “He’s so dreamy,” Snowden posted on the
+Ars Technica site in March 2009 (just after he registered to vote in
+North Carolina, though he no longer lived there). Paul was running
+in the 2012 Republican presidential primaries, and Snowden made
+a contribution of $500 to his election committee. Snowden’s attraction
+to Paul’s libertarian ideology was not that surprising. At the
+core of Paul’s worldview was a deep hostility to the intrusion of the
+government into private lives. Snowden shared this hostility, as was
+clear from his Internet postings. Like other Libertarians, Snowden
+believed that citizens should not be “shackled” by federal law. He
+later addressed from Moscow via an Internet hookup a libertarian
+gathering at which Ron Paul also spoke. “Law is a lot like medi-
+Epst_9780451494566_2p_all_r1.z.indd 39
+9/29/16 5:51 PM
+40 | how america lost its secrets
+cine,” he said. “When you have too much it can be fatal.” Like Paul,
+Snowden ardently opposed any form of gun control, as did Lindsay
+Mills in her online postings.
+Like other Libertarians, Snowden, a contractor for the government,
+saw the government as an adversary. “The [American] government,”
+he later said, “assumed upon itself, in secret, new executive powers
+without any public awareness or any public consent and used them
+against the citizenry of its own country to increase its own power,
+to increase its own awareness.” Most relevant to his future activities
+at the NSA, Snowden wholeheartedly agreed with Paul’s position
+on the dangers inherent in government surveillance of U.S. citizens.
+Paul described the CIA, the organization that had forced Snowden
+out, as nothing short of a “secret government” and said that “in a
+true Republic, there is no place for an organization like the CIA.” He
+also railed against NSA surveillance.
+As is clear from Snowden’s Internet postings, he, like Ron Paul,
+had doubts about the competence of the intelligence agencies of the
+U.S. government. Snowden’s own disillusionment about the government
+might have begun with his rejection and perceived mistreatment
+by the Special Forces of the U.S. Army. It was almost certainly
+reinforced by his ouster from the CIA. He later told The Guardian
+that he was disillusioned as early as 2007 when he learned about the
+CIA’s methods in compromising Swiss citizens. His critical view of
+the U.S. government only hardened during the years he worked at
+the NSA. He described his NSA superiors as “grossly incompetent,”
+as he later explained to a journalist from Wired magazine in Moscow.
+At the NSA, he said employees were kept in line by “fear and
+a false image of patriotism.” He said that he saw his fellow workers
+cowed into “obedience to authority” and his superiors induced to
+break the law. He became particularly concerned with what he called
+the “secret powers” of the NSA. He saw them as “tremendously
+dangerous.” By this time, Snowden was fully aware that the NSA
+conducted domestic surveillance because he had used his privileges
+as a system administrator in 2012 to read the NSA inspector general’s
+report on a 2009 surveillance program.
+Nevertheless, Snowden continued to work at the NSA, where he
+was, as he put it, “making a ton of money.” Mills joined him in his
+Epst_9780451494566_2p_all_r1.z.indd 40
+9/29/16 5:51 PM
+Thief | 41
+“paradise” in June 2012, shortly before his twenty- ninth birthday.
+Just before leaving Annapolis for Hawaii, Mills posted a seminude
+picture of herself on her blog, L’s Journey. In it, her face was covered
+with a blanket. The caption under it read, “Trying to avoid the
+changes coming my way.” In Honolulu, she found “E.,” as she called
+Snowden in her blog, “elusive.” She found that he preferred to stay
+at home and avoided meeting other people to the point that her
+friends “were not quite sure that E. existed.” Lindsay’s fellow performers
+in the Waikiki Acrobatic Troupe told me in 2016 that they
+rarely, if ever, saw Snowden at the practice sessions. Andrew Towl,
+a juggler with the group, did briefly meet Snowden once. It was on
+a hike with Lindsay in Oahu. Towl said he asked Snowden what he
+was doing in Hawaii and Snowden answered tersely, “I work with
+computers,” and continued walking. Even though Mills had dated
+Snowden for eight years, most of her other friends, except for Jennie
+and Joe Chamberlin in Japan, had not met him. Next door neighbors
+I spoke to caught brief glimpses of him entering or leaving his
+house but did not engage him in a conversation as Snowden tended
+to avoid eye contact. If he had other social interactions in Hawaii, no
+one he met came forward and spoke of meeting him, even after he
+became world famous.
+Two days after his twenty- ninth birthday dinner on June 21, Mills
+described him playfully as a “goof.” She wrote in her blog, “The
+universe is telling me something and I’m pretty sure it’s saying get
+out, Fuck you Hawaii.” In early July, she summed up her shaky situation
+with Snowden in another blog, writing, “I moved to Hawaii
+to continue my relationship with E. [but] it has been an emotional
+roller coaster since I stepped off the plane.” She diverted herself by
+organizing a pole- dancing studio in the four- hundred- square- foot
+garage of the house. She also found her own friends in physical fitness
+and dance groups. She joined a New Age yoga studio called
+Physical Phatness, as well as a local acrobatic performance group,
+and, on Friday nights, pole danced at the Mercury lounge in downtown
+Honolulu. Unlike Snowden, she enjoyed socializing, writing in
+her blog, “We lovingly crammed a large group into a small corner
+of a delicious Japanese restaurant and filled our bellies with sushi,
+tempura, and good conversation.”
+Epst_9780451494566_2p_all_r1.z.indd 41
+9/29/16 5:51 PM
+42 | how america lost its secrets
+That same July, Snowden had other things on his mind, including
+an attempt to advance himself. Although his position at Dell as
+a system administrator was a well- compensated one, especially for
+a twenty- nine- year- old with no formal education, it carried little
+prestige. He sat from 9:00 a.m. to 5:00 p.m. in a windowless room
+watching a bank of monitors in the so- called tunnel. Many of those
+who worked with him were, as he described them, “eighteen year old
+soldiers.” Presumably, they had little interest in discussing with him
+the weightier issues of the world. Working as an outside contractor
+was also a dead- end job that hardly matched the vision he had of
+himself in his Internet postings. In real life, in a cubicle in the NSA,
+he was decidedly not the Wolfking Awesomefox heroic image he had
+of himself in his dream vision.
+Snowden now decided to apply for a position in the NSA itself.
+He apparently believed that if he scored high enough on its entrance
+exam, the NSA would invite him to join it as a Senior Executive
+Service officer, or SES, which was the civilian equivalent in rank and
+pay to a flag officer in the U.S. armed forces. “I’m still amazed that
+a twenty-eight-year-old thought he could get an SES position,” a
+civilian contractor working for the NSA during the same period told
+me, “Snowden had a very overinflated view of his self-worth.” To
+enhance his chances of getting the SES job, Snowden in the summer
+of 2012 illicitly hacked into the NSA’s administrative files and stole
+the answers to the NSA exam. As the NSA’s subsequent postmortem
+would determine, it was the first known document that Snowden
+took without authorization at the NSA.
+It was not the first time, however, that he had used his hacking
+skills to attempt to advance himself. At the CIA in 2009, as he later
+said in Moscow, he had added text to his annual CIA evaluation in
+what he termed “a non- malicious way” to prove a point. His CIA
+superior took a much darker view of that incident when the hack
+was detected, calling for an investigation. It was the threat of that
+investigation that, it will be recalled, in effect ended Snowden’s CIA
+career. At the NSA, his intrusion was not detected for almost a year.
+“He stole the [NSA] test with the answers, and he took the test and
+he aced it,” the former NSA director Michael McConnell recounted
+Epst_9780451494566_2p_all_r1.z.indd 42
+9/29/16 5:51 PM
+Thief | 43
+in a 2013 interview. “He then walked into the NSA and said you
+should hire me because I am this good on the test.”
+The reason why he attempted to gain entry into the upper ranks
+of the NSA in the late summer of 2012 is less clear. If his Internet
+posting and libertarian riffs are an indication of his state of mind
+then, he was hostile to the surveillance activities of the NSA. If so, it
+made little sense that he would seek a permanent career there. If this
+is considered in light of the career move he made six months later
+(in March 2013), which, as he himself admits, was for the express
+purpose of getting at tightly held documents stored on computers
+that were not available to him in his job at Dell, then he might have
+been seeking wider access in 2012 for a more nefarious purpose than
+an NSA job.
+In any case, despite the near- perfect scores, the NSA did not offer
+him a Senior Executive Service job. “It was totally unrealistic for
+Snowden to expect to get an SES position,” a former senior NSA
+officer told me. Snowden’s ambitions might have been disappointed
+in this instance, but it did not prevent him from later claiming that
+he had been a senior adviser to the CIA and also a senior adviser to
+the Defense Intelligence Agency.
+Instead of an SES position, the NSA offered him a lowly G- 13 job
+as an information technology worker, which was not an improvement
+on his job at Dell. He took this slight as evidence of the NSA’s
+incompetence, subsequently joking to a reporter in Moscow that his
+ability to steal the test answers should have been seen as a qualification
+for the NSA job. In September 2012, he turned down the NSA
+offer. If he was to advance himself now, he had to find a new way.
+Epst_9780451494566_2p_all_r1.z.indd 43
+9/29/16 5:51 PM
+chapter 5
+Crossing the Rubicon
+What I came to feel is that a regime that is described as a national
+security agency has stopped representing the public interest and
+has instead begun to protect and promote state security interests.
+— edward snowden, Moscow, 2014
+Soon after Snowden failed to get an SES job at the NSA in September
+2012, he intensified his rogue activities. As we’ve seen,
+part of Snowden’s job as a system administrator under contract to
+Dell was transferring files held at Fort Meade to backup computers
+in Hawaii. He “was moving copies of that data there for them,” said
+Deputy Director Ledgett, “which was perfect cover for stealing the
+[NSA] data” through the fall and winter of 2012. The security measures
+at the Hawaii base presented no obstacles to him because, as
+a system administrator, he had privileges that allowed him to copy
+documents that had not been encrypted. Indeed, it was part of the
+process of building the backup system. The flaw he had pointed to
+in Japan, in which system administrators working solo could safely
+steal files, also existed in Hawaii, as we know. This time, however,
+instead of bringing it to the attention of the NSA, he used it to steal
+files.
+Snowden could be confident that his thefts of documents would
+go undetected. Real- time auditing of the movement of documents,
+Epst_9780451494566_2p_all_r1.z.indd 44
+9/29/16 5:51 PM
+Crossing the Rubicon | 45
+which was done at NSA headquarters in Fort Meade and most of the
+NSA’s regional facilities, had not yet been installed at the Hawaii
+base, because a lack of bandwidth prevented the safe upgrading of
+the software. This auditing software was scheduled to be installed
+after the backup system was completed in 2013. The Kunia base was
+one of the last NSA bases that did not monitor suspicious transfers
+of files on a real- time basis. Snowden was aware of this deficiency;
+he later pointed out in his interview in Wired that the NSA base
+where he worked did not have an “audit” mechanism. This security
+gap allowed Snowden, using his system administrator’s credentials,
+to copy classified data to a thumb drive without anyone’s being able
+to trace the copied data back to him. According to the NSA’s subsequent
+damage assessment, he stole many thousands of pages while
+working for Dell in 2012 before he contacted journalists. Ledgett
+subsequently reported that the NSA analysis of the fifty- eight thousand
+documents that were given by Snowden to journalists in June
+2013 showed that most of them were taken while he was still working
+at Dell.
+This theft was made even more serious by the interconnection
+of NSA computers with those of other intelligence agencies. Prior
+to the 9/11 attacks in 2001, “stovepiping” had protected NSA data
+on its computers from networks used by other intelligence services.
+After the 9/11 Commission concluded that part of the reason U.S.
+intelligence agencies were unable to “connect the dots” in advance of
+the attack was related to this practice, the NSA stripped away a large
+part of its stovepiping. As a result, the NSANet, which Snowden
+had access to at Dell in 2012, became a shared network with “common
+access points,” as the former NSA director Michael Hayden
+described them to me, which made them the equivalent of “reading
+rooms” in a library. They served as a means for NSA workers to
+exchange ideas about the problems they were encountering on various
+projects for the intelligence community. In maintaining them,
+system administrators, or “system admins,” like Snowden, acted as
+the “librarians.” If a system administrator copied data from this network,
+no one knew.
+For Snowden, the NSANet, which included CIA and Defense
+Department documents, provided a rich hunting ground in the fall
+Epst_9780451494566_2p_all_r1.z.indd 45
+9/29/16 5:51 PM
+46 | how america lost its secrets
+and winter of 2012. Many of the documents he took off the NSANet
+revealed operations not only of the NSA but also of the CIA and the
+Pentagon. By taking them, he had come to a Rubicon from which
+there would be no return. He later explained in an e- mail to Vanity
+Fair from Moscow, “I crossed that line.”
+As far as is known, Snowden was not sharing documents with any
+other party prior to May 2013. He was not even yet in contact with
+Poitras, Greenwald, or any other journalists. Presumably, Snowden
+was collecting them on drives— despite the risks that possessing
+such a collection of secrets might entail— for some future use.
+Why would Snowden jeopardize his career and, if caught, his freedom
+by undertaking this illicit enterprise? He might by now have
+had strong ideological objections to the NSA’s global surveillance. As
+he said later in Moscow, “We’re subverting our security standards
+for the sake of surveillance.” Ordinarily, though, even ideologically
+opposed employees don’t steal state secrets and risk imprisonment.
+If they are disgruntled, they seek employment elsewhere. Certainly,
+Snowden, with his three years’ experience working for Dell, would
+have little problem finding a job as an IT worker in the booming
+civilian sector of computer technology. Instead, he sought to widen
+his access to NSA documents. This behavior suggests that he might
+have had another agenda. One possible clue to it is the first document
+he took: the NSA exam. The answers to the questions in it
+represented to him a form of tactical power. Those answers could
+empower him to obtain a more important job in the NSA itself that
+would allow him to burrow deeper into the executive structure of
+the agency. Holding such a job would unlock the door to documents
+containing the NSA’s sources stored in areas not available to Dell
+contractors like himself.
+His later actions demonstrated that he equated the possession of
+such secrets with personal power. For example, after he arrived in
+Moscow in 2013, he bragged to James Risen of the Times that he
+had access to secrets that gave him great leverage over the NSA. He
+told him specifically his access to “full lists” of the NSA’s agents and
+operations in adversary countries could, if revealed, close down the
+NSA’s capabilities to gather information in them.
+Such a fascination with the power of government- held secrets
+Epst_9780451494566_2p_all_r1.z.indd 46
+9/29/16 5:51 PM
+Crossing the Rubicon | 47
+has always been a core concern of radical Libertarians. In his 1956
+book, The Torment of Secrecy: The Background and Consequences of
+American Security Policies, the sociologist Edward Shils brilliantly
+dissects the fascination with secrecy among individuals who fear that
+government agencies will use covert machinations against them. In
+Shils’s concept, this counterculture is “tormented” by the government’s
+possession of knowledge unavailable to them. Members of
+this culture tend to believe that the agencies that hold these secrets,
+such as the FBI, the CIA, and the NSA, can control their lives; they
+also believe that obtaining such secrets will give individuals power
+over government.
+Snowden himself was concerned with a coming “dark future,”
+which he later described as follows: “[The elites] know everything
+about us and we know nothing about them— because they are secret,
+they are privileged, and they are a separate class . . . the elite class,
+the political class, the resource class— we don’t know where they
+live, we don’t know what they do, we don’t know who their friends
+are. They have the ability to know all that about us. This is the direction
+of the future but I think there are changing possibilities in this.”
+To change the “dark future,” someone would have to know the
+secrets of the “elites.” Snowden saw himself as one of the few individuals
+in a position to seize state secrets from those elites. He had
+a SCI (sensitive compartmented information) clearance, a pass into
+an NSA regional base, and the privileges of a system administrator.
+This position allowed him to steal state secrets and whatever power
+that went with them. And if he moved to a position that gave him
+greater access, he would, in this view, amass even greater power.
+Whatever his actual agenda in 2012, we know that he tested possible
+reactions to a leak exposing NSA surveillance in the United
+States. He asked fellow workers at the NSA base in 2012, according
+to his own account, “What do you think the public would do if this
+[secret data] was on the front page?” He asked this question at a time
+when a large number of State Department and U.S. Army classified
+documents had been posted on Julian Assange’s WikiLeaks website.
+These WikiLeaks revelations made, as Snowden knew they would,
+front- page headlines. His “question” was only rhetorical. No covert
+NSA document had ever been published in the press as of 2012. One
+Epst_9780451494566_2p_all_r1.z.indd 47
+9/29/16 5:51 PM
+48 | how america lost its secrets
+reason why NSA documents remained secrets, as all intelligence
+workers at Dell were told when they signed their oath to protect
+NSA secrets, was that the unauthorized release of communications
+intelligence documents would violate U.S. espionage laws. Even so,
+there was no shortage of activists overseas, such as Assange, who
+would be willing to publish NSA documents revealing its global surveillance
+activities. Cyberpunks, as these activists called themselves,
+tended to be hostile to the NSA because they believed (correctly)
+that it monitored their activities on the Internet. This anti- NSA
+view was well represented at the Chaos Computer Club convention
+in Berlin in 2012. In addressing these cyberpunks, Assange and his
+followers at WikiLeaks declared that the main enemy in cyberspace
+was the NSA. The NSA documents Snowden had taken were far
+more explosive than anything Assange had posted to date because
+they contained NSA intelligence source material.
+In the late fall of 2012, Snowden further tested his newly found
+powers. Using an alias, he reached out to some of the leading hacktivists.
+It opened a door for him to the darker side of cyberspace.
+Epst_9780451494566_2p_all_r1.z.indd 48
+9/29/16 5:51 PM
+chapter 6
+Hacktivist
+When you gaze long into an abyss, the abyss gazes into you.
+— friedrich nietzsche
+By the time that Snowden had begun hacking into NSA files
+in 2012, the alienated hacktivist battling to unlock the secrets
+of evil corporations and governments had become a stock hero of
+popular culture. For example, in the international best- selling Girl
+with the Dragon Tattoo Trilogy by Stieg Larsson, the heroine, a
+self- educated hacker in her twenties named Lisbeth Salander, steals
+incriminating documents from computers that provide the journalist
+Mikael Blomkvist with scoops that save from bankruptcy the progressive
+magazine he edits. The journalists at the magazine accept
+her sociopathic behavior, which includes embezzling millions of dollars,
+extortion, maiming, and murder, because her hacking exposes
+crimes and abuses of power. In the real- world universe, hacktivists
+also use their skills to attempt to redress perceived abuses of power.
+For example, in December 2010, the group Anonymous, whose
+members, called Anons, often wear Guy Fawkes masks resembling
+those worn in the 2006 movie V for Vendetta, launched a successful
+denial- of- service attack called Operation Avenge Assange. It was
+Epst_9780451494566_2p_all_r1.z.indd 49
+9/29/16 5:51 PM
+50 | how america lost its secrets
+aimed at paralyzing companies, including PayPal and MasterCard,
+that refused to process donations for WikiLeaks, which these Anons
+believed were stifling the freedom of the Internet. Because hacktivists
+often use illicit means to redress their grievances, such as denialof-
+service attacks, theft of passwords, and hacking into computers,
+they must conceal their true identities to avoid the retribution of
+the FBI and other law enforcement agencies. This requires them to
+operate on the dark side of cyberspace, which has become known as
+the dark net. Fortunately for hacktivists, the dark net is accessible to
+anyone.
+It is a place frequented by those who want to avoid laws, regulations,
+and government surveillance. Its denizens include cyber saboteurs,
+industrial spies, purveyors of illegal contraband, spammers,
+pranksters, identity thieves, video pirates, bullies, slanderers, drug
+dealers, child pornographers, money launderers, contract killers,
+inside traders, anarchists, terrorists, and the intelligence services of
+many countries.
+Sue Halpern, writing about it in The New York Review of Books,
+noted, “My own forays to the dark Net include visits to sites offering
+counterfeit drivers’ licenses, methamphetamine, a template for

@@ -1,0 +1,1529 @@
+lack of clarification on tax issues; 4) lack of accessibility to onshore FX/rates hedging
+tools. Back from our 2016 China Conference, we believe allowing foreign private
+investors to access onshore repo, onshore FX swap and forwards would be the next
+steps to follow.
+1 Our dependent variable is the weekly changes of SDR/EM; our independent variables are the weekly changes in the
+SDR/EUR, SDR/CNY, SDR/USD and the VIX index, and a constant. Natural logarithms were taken for all variables and our
+sample period is Jan’14-Nov’16, when the start of the RMB depreciation trend. We base our currencies against the SDR
+to define their value (See Assessing China’s Exchange Rate Regime, Frankel and Wei (2007) for a detailed explanation.).
+To compute the forecast change in each currency, we use our global FX forecasts to obtain our independent variables.
+34 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+The most influential global bond index is believed to be the Citibank World Government
+Bond Index (Citi WGBI), which is used as the benchmark for more than $2tn of AUM. The
+most influential EM bond index is the JPM Government Bond Index – Emerging markets
+Global/Diversified (JPM GBI-EM Global/Diversified), which is used as the benchmark for
+about $200bn AUM and caps each country’s share to 10%. A caveat, however, is that
+the actual size of indexed money or ETFs should be smaller. The most crucial country
+criteria of Citi WGBI is “fully accessible to foreign investors,” which makes China less
+likely to be included by far given its accessibility to only medium- and long-term
+investors. Even if China is being considered, the assessment usually takes a long time.
+So we believe the case for China to be included into Citi WGBI in 2017 is unlikely.
+By contrast, JPM GBI-EM Global/Diversified only requires accessibility to the majority of
+foreign investors and does not factor in tax hurdles in eligibility. We believe China has
+better chance to be included into the JPM GBI-EM Global/Diversified index. While the
+exact timing is hard to predict, an optimistic scenario possibly leaves 2H17 on the table.
+Usually when a big country is being included, bonds are introduced slowly over many
+months to enable clients to rotate without too much disruption.
+We would expect China’s inclusion to account for 10% of the JPM GBI-EM Global
+Diversified index. Turkey, Malaysia, S. Africa, and Thailand would lose the largest shares
+in the index, while the shares of Brazil, Mexico, Poland and Indonesia are expected to
+remain given their large absolute size. Inflows to China could be around $20bn, or
+equivalent to 1.5% of the aggregate central government bond market cap. Turkey,
+Malaysia, S. Africa, Thailand and Columbia could see outflows of $2.4bn-3.3bn each,
+with the most expected impact on Thailand given its lower relative foreign ownership.
+We would expect China to account for 4.4% of the Citi WGBI index. The biggest losers
+of market share will be the US, followed by Japan and Europe. Inflows to China could be
+around $87bn, or 6.5% of its CGB market cap. This would present a very bullish scenario
+for CGBs, and the curve will likely steepen.
+MSCI inclusion – more about good will, then real flow
+Another potential implication of China capital account opening is equity inflows. The
+MSCI has been considering the inclusion of China A-shares in its index. These are shares
+of local Chinese companies trading at the Shanghai and Shenzhen stock exchange,
+whose trading is so far limited to local investors (China: Will A-shares be included in
+MSCI in June this year?). The associated flows aren’t likely to be too large, so positive
+price reaction is likely to come mostly from sentiment. The MSCI has discussed most
+recently a 5% inclusion factor for A-shares, which would translate in an additional 1.1%
+MSCI weight of China in the index. The scope for additional foreign capital looks small,
+when considering that China already weighs 27% in the index. Our equity strategists
+estimate the total AUM tracking MSCI EM to approximately USD1.6tn (total market cap
+of the index is USD3.8tn), so that inflows upon inclusion would be roughly USD16bn.
+The inclusion was delayed in June 2016, mainly due to obstacles regarding the quota
+allocation process, capital mobility restrictions and beneficial ownership.
+Chart 60: Estimated loss of share if China is included in JPM GBI-EM
+Global Diversified
+0.0%
+-0.5%
+-1.0%
+-1.5%
+-2.0%
+0.0% 0.0% 0.0% 0.0%
+BRL
+MXN
+PLN
+IDR
+Source: BofA Merrill Lynch Global Research
+-1.3%
+-1.2%
+-1.6%
+-1.5% -1.5%
+TRY
+MYR
+-0.9% -0.9%
+-0.1% 0.0%
+-0.3%
+-0.5%
+ZAR
+THB
+COP
+HUF
+RUB
+RON
+PEN
+PHP
+CLP
+Chart 61: Estimated loss of share if China is included into Citi WGBI
+0.0%
+-0.5%
+-1.0%
+-1.5%
+-2.0%
+-1.5%
+USD
+-1.2%
+-1.1%
+JPY
+EUR
+Source: BofA Merrill Lynch Global Research
+-0.1% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0% 0.0%
+-0.3%
+GBP
+CAD
+AUD
+MXN
+MYR
+DKK
+CHF
+PLN
+SEK
+SGD
+ZAR
+NOK
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 35
+Best Carry Trades
+Claudio Irigoyen
+MLPF&S
+claudio.irigoyen@baml.com
+Mai Doan
+MLI (UK)
+mai.doan@baml.com
+Rohit Garg
+Merrill Lynch (Singapore)
+r.garg@baml.com
+Vadim Iaralov
+MLPF&S
+vadim.iaralov@baml.com
+Carry trades and blond swans
+• We do not expect traditional carry trades such as ARS and BRL to perform well in a
+strong USD and increasing interest rates environment, so we focus on USD neutral
+carry trades.
+• We like short EUR/RUB, short SGD/INR and long PEN/CLP. For more neutral
+commodity exposure we like baskets of EUR, CAD, COP and CLP, AUD to fund RUB
+and PEN trades respectively.
+Carry is in the eye of the beholder
+To focus on identifying best carry trades in the current environment of rising US
+interest rates sounds counterintuitive at least. It is well know that carry trades perform
+nicely in risk-on periods as well as in a low volatility environment, which is the opposite
+of what we expect in the coming months. However, once proper factor exposure of
+currency returns is considered, smart carry reemerges as an interesting proposition. As
+we have documented (Forecasting with Compass30), most of the variation in currency
+returns can be explained by the first two principal components, which can be labeled as
+dollar and carry factor respectively, as they are highly correlated with USD and carry
+performance.
+Expected returns of carry strategies are defined by interest rate differentials (ie, carry),
+assuming no change in spot exchange rates. Uncovered interest parity states that the
+carry should be offset by a change in the spot of equal magnitude. However, empirical
+evidence (so called forward premium puzzle) clearly shows that carry trades are
+profitable on average, which indicates the presence of currency risk premium. Since
+both dollar and carry, are priced factors, any sensible carry strategy in an environment in
+which US rates are rising needs to hedge the USD exposure. This is just a necessary
+though not a sufficient condition, since the carry factor is also correlated with global
+measures of risk. Interestingly, post-election currency losses is not as highly correlated
+with carry, indicating that carry trades were not as a strong investment theme as it was
+the case during the taper tantrum episode (Chart 62).
+Chart 62: Carry didn’t drive currency reaction to US elections
+25
+1m carry (annualized)
+Currency depreciation since Nov8 (rhs)
+20
+15
+10
+5
+0
+-5
+ARS
+IDR
+BRL
+RUB
+ZAR
+PHP
+TRY
+INR
+COP
+PEN
+MXN
+MYR
+CNY
+CNH
+CLP
+NZD
+AUD
+PLN
+THB
+KRW
+TWD
+NOK
+SGD
+RON
+HKD
+CAD
+HUF
+GBP
+ILS
+CZK
+JPY
+EUR
+SEK
+CHF
+Source: BofA Merrill Lynch Global Research, Bloomberg
+15
+12
+9
+6
+3
+0
+-3
+Chart 63: Asia and LatAm display the highest risk-adjusted carry
+3
+2
+1
+0
+-1
+IDR
+ARS
+PHP
+CNY
+INR
+CNH
+BRL
+TRY
+RUB
+PEN
+MYR
+ZAR
+COP
+CLP
+MXN
+THB
+NZD
+AUD
+PLN
+KRW
+TWD
+NOK
+SGD
+CAD
+RON
+HUF
+GBP
+JPY
+CZK
+SEK
+EUR
+ILS
+CHF
+HKD
+Source: BofA Merrill Lynch Global Research, Bloomberg
+1m carry (annualized) / 1m implied ATM vol
+1m carry (annualized) / max 1m DD (5y, rhs)
+36 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Characterizing carry
+Efficient carry strategies involve buying and selling dynamic portfolios of currencies
+with certain risk characteristics. Carry strategies are supposed to work better over long
+investment horizons, so that the cushion provided by the carry compensates for the
+currency volatility through mean reversion.
+Here, we analyze carry from a different perspective, as our goal is to identify standalone
+attractive carry opportunities. We define the investment horizon to end 1Q17. We sort
+currencies based on risk-adjusted carry. We then characterize the factor exposure of
+currency returns, isolating global and idiosyncratic sources of risks, in order to identify
+smart carry trades that are not highly exposed to a massive re-pricing of global factors,
+such as US rates, USD, commodity prices and global risk aversion. We identify carry
+trades that have low exposure to global factors, in particular the USD factor, and offer
+attractive risk-rewards.
+Not surprisingly, purely based on carry considerations, EM currencies appear more
+attractive than DM ones, which are mostly candidates for funding currencies. However,
+carry trades returns are highly volatile, exhibit negative skewness and fat tails. Even
+controlling for different measures of risk such as volatility or maximum drawdown, and
+according to this criteria only, we find that EM currencies are the most attractive, in
+particular ARS, BRL in LatAm, RUB, TRY and ZAR in EEMEA and INR, IDR and CNY in
+Asia (Chart 63).
+Even though volatility and drawdowns can be useful measures of risk, they don’t say
+much about the exposure to different risk factors. Since carry trade strategies are
+usually very sensitive to global factors, we study the cross sectional exposure of
+currencies to key global factors: commodity prices, global risk aversion and US yields (as
+a proxy of global yields). We report the R2 of regressions of two years of weekly returns
+on the above mentioned global factors, for the last two years and the years 2013-2014
+for the sake of comparison (Chart 64).
+We find that currencies in LatAm and EEMEA are more exposed to global factors than in
+Asia. Interestingly, LatAm and EMEA currencies are more sensitive to shocks in
+commodity prices and risk aversion, while in Asia the shocks to monetary policy are the
+most important ones (Chart 65). Within DM currencies, AUD and NOK are the two
+currencies most exposed to global factors. Ideally, we seek for currencies with high riskadjusted
+carry and low exposure to global factors. Under such a metric, ARS, BRL, RUB
+and INR stand out as the best investment currencies, while EUR, CHF, JPY, KRW and
+TWD are the best funding currencies. However, this filter is not enough in the current
+volatile environment.
+Chart 64: LatAm is more exposed to global factors than Asia
+0.6
+Depend on global factors
+0.5
+0.4
+RSQ '16 RSQ '14
+0.3
+0.2
+0.1
+Chart 65: Sensitivity to global factors across regions
+0.8
+Normalized beta of global factors
+0.6
+0.4
+0.2
+0
+-0.2
+Monetary
+Commodities
+Equities
+0
+COP
+CAD
+MXN
+LATAM
+EMEA
+RUB
+ZAR
+JPY
+NOK
+CLP
+AUD
+BRL
+IDR
+TRY
+MYR
+CZK
+INR
+SEK
+EUR
+SGD
+ASIA
+NZD
+THB
+RON
+PEN
+HUF
+PLN
+PHP
+CHF
+ILS
+KRW
+TWD
+GBP
+HKD
+CNY
+ARS
+-0.4
+COP
+CAD
+MXN
+LATAM
+EMEA
+RUB
+ZAR
+JPY
+NOK
+CLP
+AUD
+BRL
+IDR
+TRY
+MYR
+CZK
+INR
+SEK
+EUR
+SGD
+ASIA
+NZD
+THB
+RON
+PEN
+HUF
+PLN
+PHP
+CHF
+ILS
+KRW
+TWD
+GBP
+HKD
+CNY
+ARS
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 37
+The role of fundamentals
+From a purely mechanical perspective, we could stop the analysis here and choose those
+currencies with better risk-reward prospects according to the metrics so far described.
+However, in order to analyze carry trades with relatively short investment horizon, we
+need to complement our analysis with our views on future exchange rates dynamics.
+We expect US rates to continue moving higher and the USD to strengthen across the
+board due to easier US fiscal policy and significant uncertainty regarding foreign policy.
+In EM, we think LatAm is the region that will suffer the most in the new global scenario,
+followed by Asia. We find EEMEA relatively more resilient to US driven shocks. We want
+to avoid countries with high financing needs (i.e., high fiscal and current account
+deficits). We also prefer trades with neutral commodity exposure. Since carry trades
+tend to underperform when US rates are moving higher and the USD strengthens, we
+want at least to avoid USD funded carry trades, crowded carry trades and currency
+crosses highly exposed to the USD factor. Hedging the USD factor leaves us with the
+pure carry exposure, which by being a price factor, is also related to standard measures
+of risk, as well as idiosyncratic factors.
+Best carry trade: Cherry picking among rotten cherries
+Given our views, and focusing on those trades where ex-ante high carry is consistent
+with ex-ante expected returns, we choose our best carry trades across EM and DM.
+Since DM currencies offer very low carry vs the USD, there are not many attractive carry
+opportunities in DM in a strong USD environment, so much so that the most attractive
+carry proposition is simply to go long USD/JPY. Since this trade is mostly predicated on
+a strong USD view and is being developed in other sections of this report we refer the
+reader to those sections (please see: USD/JPY will the main beneficiary of Trump win,
+FX: GOP sweep emboldens core USD/JPY view, Long EUR/JPYAsia: short JPY/KRW).
+Therefore, we focus mostly on EM or EM/DM carry trades.
+EEMEA: short EUR/RUB
+We like selling EUR/RUB (spot 69.28, target 66.15, stop 71.02). We see EEMEA as
+relatively more resilient to higher US rates, though with some heterogeneity within the
+region. On the one hand, high current account deficit countries like Turkey or South
+Africa should continue suffering from a re-pricing of risk. On the other hand, CEE
+countries are expected to some more resilience. One currency we find particularly
+attractive is the Russian ruble, which still offers an attractive risk-adjusted carry,
+controlling for standard measures of risk such as implied volatility and maximum
+drawdown. The outcome of the US election should remove some risk premium from
+Russian assets as the geopolitical backdrop improves. Economic activity is expected to
+pick up in 2017. A hawkish central bank, coupled with a favorable external position and
+an energy-driven current account surplus will likely limit its exposure to a reversal in
+capital flows.
+On the geopolitical side, we expect Russian foreign policy to become more conciliatory
+Chart 66: Oil prices are a major risk factor
+Chart 67: Russia tends to be more market-friendly with lower oil
+1.5
+1.0
+0.5
+RUB/(EUR,CAD,COP) Jan 4 '13 =100
+RUB/EUR Jan 4 '13 =100
+Brent oil (RHS)
+0.0
+Jan-13 Jul-13 Jan-14 Jul-14 Jan-15 Jul-15 Jan-16 Jul-16
+Source: BofA Merrill Lynch Global Research, Bloomberg
+150
+100
+50
+0
+100
+50
+0
+Oil price, $/bbl 10y MA
+Privatization,
+Georgia
+Gaidar reforms war
+Start of
+Yukos
+Perestroika
+case
+Afganistan war
+Jan-70
+May-72
+Sep-74
+Jan-77
+May-79
+Sep-81
+Jan-84
+May-86
+Sep-88
+Jan-91
+May-93
+Sep-95
+Jan-98
+May-00
+Sep-02
+Jan-05
+May-07
+Sep-09
+Jan-12
+May-14
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Ukraine
+crisis
+US-Russia
+“Reset”
+38 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+and less disruptive for markets, in particular given the expected improved foreign
+relations with the US (Chart 67). However, the currency remains overvalued and highly
+exposed to global factors, in particular oil price, and positioning is crowded. Despite our
+forecast is for USD/RUB to remain around 63 in 1Q17, we prefer to mitigate the abovementioned
+risks by choosing a more favorable funding currency.
+If liquidity is a major consideration, we prefer to use the EUR as a funding currency,
+which offers negative carry vs the USD, and gives the ruble the best risk-adjusted carry
+across all potential funding currencies. In addition to the already seen impact on US
+rates, Trump’s victory implies that political risks are becoming increasingly important in
+Europe, with the Italian referendum in December and elections in Netherlands, Germany
+and France in 2017. This scenario strengthens our call for a six-month extension to ECB
+QE at the current pace. We expect the EUR/USD to trade at 1.05 by end 1Q17.
+Since short EUR/RUB is still exposed to much lower oil prices, an alternative way to
+express the trade is to use a basket of euro, Colombian peso and Canadian dollar as
+funding basket (Chart 66). The COP remains overvalued, the central bank is expected to
+ease monetary policy as the economy decelerates and oil represents 35% of Colombian
+exports. We expect the COP to depreciate 2.5% by end 1Q17. Carry, on the other hand,
+is higher than EUR and CAD. The CAD offers very low carry and we forecast a 1.5%
+depreciation by 1Q17 vs the USD. The economy keeps displaying weak growth and we
+expect the Bank of Canada likely to cut rates and maintain the accommodative stance of
+monetary policy.
+Asia: short SGD/INR
+We like short SGD/INR (spot 47.96, target 47, stop 48.44). While the performance of
+Asia FX can be influenced by broader risk conditions, we expect most to weaken vs. the
+USD. The Korean won and the Singapore dollar, as well as the Taiwanese dollar for
+instance stand out as being the most sensitive to a stronger USD, as they act as a high
+beta proxy for CNY, which we expect to continue depreciating in this new high US rates
+environment. Others like Indonesian rupiah and Malaysian ringgit are more sensitive to
+higher USD rates. Consequently, outflows from these countries will adversely impact the
+respective FX. That said, Bank Indonesia has built good amount of reserves to prevent
+rupiah from weakening excessively. Moreover, tax amnesty related repatriation flows
+and global bond issuance is still expected to come in December, which should also
+support the rupiah.
+Historically, large US tax cuts have been followed by a widening of the US current
+account deficit driven by higher imports. This supported Asia export growth and
+exchange rates, especially after the Bush tax cuts. However, this time could be different
+partly because US household spending has been shifting towards non-tradable services.
+More importantly, Trump’s policy platform itself is geared towards reducing dependence
+upon foreign goods and services (Chart 68).
+Chart 68: Export exposure to the US across EM Asia
+20
+Exports to the US in 2015 (% of GDP)
+15
+10
+5
+0
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Chart 69: S$NEER has depreciated 50bp below par since Oct MPS
+130
+125
+120
+115
+110
+105
+Index
+Apr-08
+Oct-08
+Apr-09
+Oct-09
+Apr-10
+Oct-10
+Apr-11
+Oct-11
+Apr-12
+Oct-12
+Apr-13
+Oct-13
+Apr-14
+Oct-14
+Apr-15
+Oct-15
+Apr-16
+Oct-16
+Source: BofA Merrill Lynch Global Research estimates, Bloomberg
+BofA-ML SGD NEER
+lower end of band
+mid-point
+upper end of band
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 39
+At this juncture, the Indian rupee seems to be the only one in the region that is expected
+to display a much lower sensitivity to US rates, outperforming others within Asia. We
+expect the Monetary Authority of Singapore to keep the SGD NEER in the weaker side
+of the band for the next few months, which reduces the downside risk for the trade
+(Chart 69). We like the INR as the preferred long, followed by the IDR, as they offer high
+risk-adjusted carry, central banks are interested in keeping their currencies stable,
+current account deficits are bounded, and the currencies are not expensive relative to
+long term fundamentals. The main risk of the trade is of higher oil prices, and
+considerable reversal of capital flows. Apart from that, a change in the behavior of
+Reserve Bank of India it terms of managing INR to accumulate international reserves is
+also a risk.
+LatAm: long PEN/CLP
+We like long PEN/CLP (spot 195.7, target 200, stop 195.5). LatAm is the most
+exposed region within EM to global factors. Traditional carry trade candidates like the
+Brazilian real and the Argentina peso are no longer attractive given the still fragile fiscal
+stance in both countries. Local positioning in BRL has proven to be heavier than
+thought, and we expect the currency to continue weakening until we observe some
+stabilization in US rates. The Brazilian real is still overvalued and the economy will be
+negatively affected since its strategy to gradually reduce budget deficits is based on low
+global rates, capital inflows and higher domestic growth. In the case of the Argentine
+peso, despite showing some detachment from global factors and some positive inflows
+due to the tax amnesty, we think the currency needs to weaken given the recent
+depreciation of the BRL and its current overvaluation as well as the government fiscal
+needs for 2017, which is an important electoral year. Therefore, we remain neutral on
+these currencies.
+A more modest but more interesting carry trade within LatAm in an environment of
+higher US rates is to be long the Peruvian sol, funded with the Chilean peso, in order to
+make the trade more neutral to commodity exposure. The Peruvian economy is expected
+to continue growing at rates above 4% due to strong mining activity; the new
+government will likely implement expansionary fiscal policy and has room to finance it.
+The exchange rate is close to its equilibrium value based on terms-of-trade and
+productivity. In fact, we expect the currency to appreciate in real terms if growth
+recovers as predicted. The currency still offers a decent carry. We forecast a nominal
+depreciation but below the forward. The central bank has a strong preference for low
+currency volatility and would be ready to intervene in case of a disorderly depreciation,
+as it has been already the case in the last few days with small interventions in the
+forward market.
+On the other hand, Chile’s growth remains anemic and the economy is expected to
+continue growing sub 2% in 2017 (Chart 71). The CLP is overvalued but recent flows
+Chart 70: Copper prices are a major risk factor
+Chart 71: Relative growth to favor Peru going forward
+400
+350
+300
+250
+Copper prices
+200 CLP (rhs, Jan2012 =100)
+PEN (rhs, Jan2012 =100)
+150
+2012 2013 2014 2015 2016
+Source: BofA Merrill Lynch Global Research, Bloomberg
+80
+100
+120
+140
+160
+230
+pen/clp growth diff (rhs)
+220
+210
+200
+190
+180
+170
+160
+150
+2010 2011 2012 2013 2014 2015 2016
+Source: BofA Merrill Lynch Global Research, Bloomberg, Haver
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+40 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+
+from large domestic pension funds and the recovery in the price of copper explain the
+relative resilience of the currency (Chart 70). Given the low carry, CLP offers an
+attractive alternative as a funding currency as the portfolio rebalancing of pension funds
+is expected to slow down. We expect the currency to weaken further in 1Q17 as interest
+rates move higher in the US, and we do not expect the central bank to intervene, as it
+would likely be the case in Peru. In order to reduce the carry cost of the funding
+currency without losing the neutral exposure to metals, we like a basket of the Chilean
+peso with the Australian dollar. The Australian dollar is also highly correlated with
+commodities and China. We are bearish the AUD vs USD, as we expect the currency to
+weaken about 4% by end 1Q17.
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 41
+Cheapest tail-risk Hedges
+Adarsh Sinha
+Merrill Lynch (Hong Kong)
+adarsh.sinha@baml.com
+Ralph Axel
+MLPF&S
+ralph.axel@baml.com
+Gabriele Foa
+MLI (UK)
+gabriele.foa@baml.com
+Tony Morriss
+Merrill Lynch (Australia)
+tony.morriss@baml.com
+Shuichi Ohsaki
+Merrill Lynch (Japan)
+shuichi.ohsaki@baml.com
+Tail-risk Hedges
+• Four tail risks for 2017: 1) US deregulation, 2) EZ risk premia rises; 3) weaker bulk
+commodity prices; 4) steeper and more volatile yield curve in Japan.
+• Position for normalization of swap spreads; 30s50s BTP flattener; long EUR/HUF
+vol; long AUD/USD digital puts; 1y10s20s conditional bear steepener in Japan.
+There are three key lessons on tail risks from 2016: 1) tail-risk probabilities are generally
+“fatter” than commonly assumed (Brexit and Trump’s victory); 2) hedging tail risks even
+in a world of low implied volatilies is hard if the directional implications are unclear
+(equity puts for a Trump victory); 3) investors worry about tail risks closer to the events
+– Chart 72 shows the biggest perceived tail risks, according to our Fund Manager
+Survey, were either during the event itself (China recession worries alongside capital
+outflows) or at most a few months in advance (Brexit and the US election).
+Looking ahead to 2017, we believe tail-risk hedging will be more important than ever,
+but that investors should be sufficiently forward looking and focus on those where there
+is clarity about the directional implications. We highlight four such opportunities in this
+section, specifically: 1) US deregulation; 2) return of Euro zone risk premia; 3) Chinalinked
+commodity prices weakening sharply; and 4) Japan’s yield curve targeting
+triggering a steeper curve and volatility increase.
+Chart 72: Biggest tail-risk, percentage of respondents in Global Fund Manager Survey
+Oct-16
+EU disintegration
+Sep-16
+Aug-16
+Jul-16
+Jun-16
+May-16
+Apr-16
+Mar-16
+Feb-16
+Jan-16
+Dec-15
+Nov-15
+Oct-15
+Republican wins White House
+Source: BofA Merrill Lynch Global Research
+Republican wins White House
+Republican wins White House
+Brexit
+Brexit
+Quantitative Failure
+Quantitative Failure
+US recession
+Tail risk 1: US deregulation
+Normalized swap spreads, cross-currency basis & coupon vs principal STRIPS
+Deregulation is a key focus for the incoming administration, and Dodd-Frank is a major
+potential target. Paul Atkins, a former SEC commissioner under George W Bush, has
+been named to lead transition strategy on financial regulation. Atkins has been
+vehemently critical of Dodd-Frank since its inception, and in a statement to the Senate
+Global FMS biggest "tail risk"
+(past 12 months)
+China recession
+China recession
+China recession
+China recession
+0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50%
+42 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+in 2011 called the law a calamity that increases business uncertainty and undermines
+growth. Under Atkins, the transition team posted a statement that it will be “working to
+dismantle the Dodd-Frank Act and replace it with new policies to encourage economic
+growth and job creation." At this point there are no details on what parts of Dodd-Frank
+are most likely to be repealed, but Republican financial policy leaders appear promarkets
+and have flagged free movement of capital via open markets as the best policy
+for economic growth and risk transparency.
+There are several dislocations across markets today that we think have a chance of
+normalizing in the tail-risk event that deregulation results in increased availability of
+leverage and ability to take more risk. We have discussed these dislocations as resulting
+in part from the lack of ability of hedge funds and other relative-value traders to access
+enough balance sheet at a low enough cost to help these trades normalize. The top
+trades we could see benefitting from the return of leverage would be:
+• Normalization of swap spreads; balance-sheet intensive Treasuries, both nominal
+and TIPS, are very cheap versus OIS and Libor swap rates.
+• Normalization of cross-currency basis swaps, which currently allow USD-based
+investors the ability to buy very cheap EUR- and JPY-denominated assets via the
+basis swap.
+• Normalization of coupon STRIPS versus principal STRIPS as these yield differentials
+are near their all-time wides, particularly in the 2030-38 maturity bucket.
+As a tail risk for deregulation, we like buying 30y swap spreads, a credit-risk-free
+floating-rate US Treasury asset that provides 3m Libor + 56bp annually, which is about
+100bp cheap to pre-crisis levels. Swap spreads could also benefit from deregulation that
+removes cash and Treasury bonds from the leverage ratio requirements, which would
+provide the ability of the dealer community to more easily absorb Treasury supply in the
+primary and secondary markets.
+The main risk is that policy changes retain strict capital requirements, which would
+continue to limit the availability of leverage. For example, the Financial Choice Act, a
+product of Texas Representative Jeb Hensarling's team, would provide banks an offramp
+option to all Basel 3 requirements as long as banks hold a 10% capital ratio. This
+plan would probably decrease the availability of leverage, and could also result in
+reduced demand for short-dated Treasuries in HQLA portfolios. Another risk to 30y
+swap spread normalization in particular would be a material increase in deficit spending
+as part of a fiscal stimulus package. This would likely further cheapen Treasuries versus
+swaps and other benchmark interest rates.
+Trade recommendation: Buy 30y Treasuries versus 30y matched Libor swap at
+3mL+56bp. Target 3mL + 0bp, stop loss 3mL+75bp.
+Tail risk 2: Comeback of Eurozone risk premia
+EZ risk hedges: 30s50s flatteners in BTPs, buy EUR/HUF vol
+In Europe, the biggest market risk for 2017 is arguably a comeback of stress on
+peripheral sovereigns. The next 12 months provide plenty of triggers, with increasing
+concerns about the ability of ECB to continue with QE, and an intense political season
+ahead (referendum in Italy on 4 Dec, and elections in France and Germany in 2017).
+As hedges to Eurozone risks, we recommend buying 30s50s flatteners in BTPs as the
+cheapest way to express a bearish view on the periphery, and buying EUR/HUF vol as a
+proxy for Euro instability with better pricing than EUR/USD vol.
+Concerns on EU politics and the ECB would likely lead to a switch of market focus from
+monetary policy to fundamentals. The periphery would be hurt by this new focus: public
+debt to GDP remains very high, and the low debt service costs enjoyed in the past five
+years favored debt accumulation, rather than debt reduction (Chart 73). The cyclical
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 43
+Chart 73: Fundamentals – CEE beats periphery
+190%
+140%
+90%
+40%
+-10%
+Source: IMF
+Spain
+France
+Portugal
+Italy
+Hungary
+Czech
+Poland
+Romania
+Debt/GDP (lhs)
+5y change in debt/GDP (lhs)
+2016 growth (rhs)
+5%
+4%
+3%
+2%
+1%
+0%
+Chart 74: Poland and Hungary wide relative to
+Italy and Spain
+Source: Bloomberg
+juncture has also weighed on public finances, and all peripheral countries are running
+deficits above the structural levels.
+15
+10
+5
+0
+Jun/11
+Mar/12
+Dec/12
+Italy
+Portugal
+Hungary
+Romania
+Sep/13
+Jun/14
+Mar/15
+Dec/15
+Spain
+France
+Poland
+Czech
+Sep/16
+Chart 75: HUF vol lagging EUR and PLN
+12
+11
+10
+9
+8
+7
+6
+Jan/14 Jan/15 Jan/16
+EUR/HUF EUR/PLN
+EUR/USD
+Source: Bloomberg.
+The fundamental picture is not reflected in interest rate dynamics. ECB easing has
+pushed Eurozone interest rates lower despite worsening public finances (Chart 74).
+Participation in the QE program has been a strong determinant of low long-term rates,
+as shown by the tightening of the periphery vs CEE. Hungary, Poland and Romania have
+been yielding 3-3.5% in the past year, while Italy remained constantly below 2%. If
+stress comes back, the gap will close.
+Within the periphery, Italy is the most vulnerable. Fundamentals are the worst in the
+region, only comparable to Portugal, which trades 160bp above it. Political risks also
+remain high, with the referendum providing some downside risk to the prime minister.
+The market is apparently reaching the same conclusion: during the most recent global
+bonds sell-off (20 Sep-14 Nov), Italy widened 95bp, while Spain widened 70bp, in line
+with CEE, despite the higher beta nature of the latter and the higher FX risk. Still, there
+may be room for further widening: the 10y spread to Germany widened in the current
+move, but is still lower than it has been the three years following the latest Italian
+political crisis. Our European rates team argued this summer that the rally in Italy
+spreads was far from fundamental. Flatteners in the 30s50s area look the best hedge as
+50y are not eligible for QE, and term premia in the 2-31y sector would increase if QE
+was to end. Also, in times of sovereign debt stress, the curve tends to invert, further
+supporting long-end flatteners. Total carry is 1bp per month, making it cheaper and less
+sensitive to timing of stress than an outright short bond position.
+On further EZ stress, the euro would weaken and euro vol rise. While a less dovish ECB
+would be euro-positive, peripheral stress would ignite concerns on the monetary union,
+and ultimately weaken the euro (as in Dec 2011). A cleaner hedge is buying EUR/HUF
+vol, as it proxies EUR/USD vol but has moved less so far. HUF options are historically
+very reactive to EZ stress, but the increase in vol lagged EUR/USD post-elections, and
+EUR/PLN vol has been higher in the past two years due to higher perceived risks in
+Poland (Chart 75). In Dec 2011, the vol spike in the three crosses had been the same.
+CEE rates tend to widen in times of Eurozone stress, but their fundamentals are much
+more solid, so further EZ stress may bring opportunities to buy dips. CEE capitalized the
+past five year much better, with fiscal consolidation in Hungary, balanced budget in
+Czech Republic, and low debt/GDP ratios in Poland. Also, the growth picture is much
+more rosy, making leverage much more manageable.
+Trade recommendation: Buy 50y BTPs vs 30y BTPS at 30bp, targeting -8bp and
+with stop at 55bp. Risk is ECB QE continues and peripheral risk premium stays low.
+44 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Tail risk 3: China-led commodity weakness
+Commodity collapse hedge: buy AUD/USD 6m 0.67 digital put
+Metal and bulk commodity prices have skyrocketed in anticipation of infrastructure
+spending in the US, We are wary of this rally: tax cuts are likely to be the first line of
+fiscal stimulus and potentially easier to get through Congress than sizeable
+infrastructure spending, which in any case will take a longer time to impact commodity
+demand (allowing for supply adjustments). Perhaps most importantly, China is still the
+swing factor for global commodity prices and the risks here remain to the downside.
+The recent dramatic rise for China-linked bulk commodity prices, especially coal, has
+been driven by a combination of supply and demand imbalances (China floods, pit
+closures and inventory shortages) and an apparent rise in speculative activity in futures
+markets that has already drawn attention from regulators (Chart 76). Our resource
+analysts have raised forecasts but still see moderation over 2017 (Chart 77). The futures
+forward curve has already moved into backwardation. We see iron ore prices back at
+USD50/t in 2017 compared to a current spot price of USD74.
+While global reflation might be positive for commodities, there are reasons for caution:
+• We expect Chinese property investment, the most commodity-intensive sector of
+the economy, to slow in 2017.
+• Sizeable RMB depreciation would be an additional deflationary impulse for
+industrial commodities.
+• There will be a supply response as current prices bring uneconomic producers back
+on line, admittedly with a lag.
+• There is potential for trade friction to impact regional trade while higher US rates
+are already impacting regional EM currencies. Australia is especially exposed to
+intra-regional trade and resource demand from the region.
+Persistent supply/demand imbalances ahead of Chinese New Year might delay
+commodity weakness until after 1Q17, especially for coking coal due to a preference for
+thermal coal supplies over the Chinese winter. However, the risk of a sharp reversal
+beyond is worth hedging against given the demand dynamics in China, most obviously
+through the AUD. While short-dated implied volatility rose following the US election, the
+risk-reversal skew remains high as a percentage of implied volatility relative to G10
+pairs. This suggests hedging via AUD/USD digital puts is appropriate, in our view.
+Trade recommendation: Buy 6m AUD/USD 0.67 digital put, entry: 10% (spot
+reference: 0.7550). Risk is global demand recovery provides support to commodity
+prices.
+Chart 76: Bulk commodity spot prices
+USD/t
+400
+Iron Ore (china)
+300
+Aus Thermal Coal
+Hardcoal (Coking) spot
+200
+100
+0
+11 12 13 14 15 16 17
+Source: Bof A Merrill Lynch Global Research, Bloomberg
+Chart 77: China Coking coal futures and BAML forecasts
+Our 2017 forecasts for Liulin No.4 Coking coal are averages for 1H and 2H
+RMB/t
+1600
+1400
+1200
+1000
+800
+600
+Source: Bof A Merrill Lynch Global Research, Bloomberg
+Coking Coal Future (lhs)
+Futures Curve
+BAML Forecast
+Volume (rhs, 000s contracts)
+400
+Jan-16 May-16 Sep-16 Jan-17 May-17 Sep-17 Jan-18
+3200
+2800
+2400
+2000
+1600
+1200
+800
+400
+0
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 45
+Tail risk 4: BoJ triggers curve steepening and vol rise
+BoJ keeps yield curve anchored out to 10y: 1y10s20s conditional bear steepener
+The Bank of Japan (BoJ) has faced a tough 2016. Having switched its policy target from
+quantity to interest rates at its September Monetary Policy Meeting, it tacitly
+acknowledged that negative rates and JGB purchases were potentially approaching their
+limit in terms of policy effectiveness. Inflation expectations fell and the yen
+strengthened as a consequence as the market got accustomed to fading dovish
+pronouncements from the Bank of Japan. BoJ Governor Haruhiko Kuroda himself said
+"Central banks are, admittedly, not omnipotent."
+The BoJ introduced yield curve control, taking into consideration negative effects of
+great decline in yields and curve flattening on financial institution earnings or financial
+markets. If the BoJ keeps purchasing at the current rate, however, yields will sooner or
+later feel downward pressure. We believe the BoJ is likely to reduce its long-term JGB
+purchase gradually. For the time being, JGB yield guidelines are probably around 0% for
+the 10yr, 0.4% for the 20yr, and 0.5% for the 30yr JGB.
+However, the BoJ appears to be concerned about the deterioration of financial
+institution earnings caused by flattening of the yield curve. Kuroda said that even if
+superlong-term yields rose slightly, he did not believe they would have to be lowered. He
+went on to say he was also giving consideration to investors in superlong-term bonds,
+and that he did not think it was good for the yield curve to get continually flatter. Based
+on these and other remarks, we expect long-term JGB purchase operations to be
+reduced and the curve to gradually steepen (Rates forecast: Attention on BoJ operations
+when yields decline).
+Before that can happen, however, preconditions most likely include steady progress in
+US rate hikes, avoidance of excessive yen appreciation, and some degree of recovery in
+the inflation rate. With a Republican clean sweep, US fiscal easing is now a foregone
+conclusion and “Higher rates and higher dollar” may support our view for yen rates. If
+JGB purchase operations were reduced and yen rates rose in the wake of higher US
+Treasury yields and USD/JPY appreciation, that could easily be explained by
+fundamentals.
+Yen rates volatility is still low; however, purchasing cuts by the BoJ could add to
+volatility risk amid declining liquidity in the super long-end (Chart 78). Even if risk-off
+sentiment pushes down the yield curve, the BoJ may lower the 10yr JGB yield target
+from zero to keep the curve steep. This kind of policy change also could increase
+volatility. In either case, the 10yr is expected to be anchored and movement is expected
+in the long end. We believe 1y10s20s conditional bear steepener may mitigate this risk.
+Trade recommendation: Long 5bn 1y20y @0.62% (atm+11bp) payer vs Short 9.9bn
+1y10y @0.18% (atm) payer. This position is zero cost, PV01 neutral, and zero carry.
+Risk is the curve remains flat due to a deflationary backdrop.
+Chart 78: JPY Swap 10y and 20y rate and 1y20y volatility
+1.2
+(%) JPY Swap 10y JPY Swap 20y 1y20y Volatility (RHS) (bp)
+60
+1
+50
+0.8
+40
+0.6
+0.4
+30
+0.2
+20
+0
+10
+-0.2
+0
+Nov-15 Feb-16 May-16 Aug-16 Nov-16
+Source: BofA Merrill Lynch Global Research
+46 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Best Technical Trades
+Paul Ciana, CMT
+MLPF&S
+paul.ciana@baml.com
+Technical trends for Trump
+• Bullish USD: Breadth and technicals favor USD. Overall they point to a stronger US
+dollar in 2017. We are bullish USD/JPY.
+• Higher yields: US 10y and 30y yield made large wedge bottom patterns, pointing to
+a 61.8% Fibonacci retracement of 2.98% and 3.80%, respectively.
+• We recommend buying a NZD/USD 5m .69/.66 put spread 1x1.5 for 43 USD pips
+(off of .7100 spot).
+USD rally is turning into an outright bull
+The Bloomberg US dollar index is approaching all-time highs. The number of USD
+crosses above their 200-day moving average has broken out higher. The number of USD
+crosses reaching overbought on RSI (bullish momentum) continues to rise. The USD
+cumulative advance-decline line recently signaled for tactical USD strength and would
+turn outright bullish with a trend line break and new index highs.
+Chart 79: Bloomberg US dollar index, weekly chart with USD breadth measures
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 47
+Bullish USD/JPY
+The election of Donald Trump catapulted USD/JPY through another resistance level, this
+time a weekly trend line, adding to the list of technical signals that USD/JPY has
+bottomed and is in an uptrend. We began discussing a bottom in our September 5 and
+September 18 Technical Advantage reports. We estimate technical upside and
+resistance in the area of 112. We also think this uptrend has the potential to reach the
+full measured move target of 116.50 in 2017.
+Chart 80: USD/JPY weekly chart
+Source: BofA Merrill Lynch Global Research, Bloomberg
+A higher yield environment
+We continue to think yields will trend higher in 2017. We initially reported our view that
+global yields would rise in our October 26 Technical Advantage report. Since then we
+have seen added confirmation by US 10y, US 30y, 10yr bund, 30yr JGB and 10y Gilt that
+yields will rise.
+US 10y and 30y yield form wedge bottom pattern
+US 10y and 30y yields formed wedge bottom patterns by breaking through the upper
+trend line resistance (Breakout 1). A wedge pattern is composed of two converging
+trend lines often consisting of multiple smaller trends followed by a breakout. Each yield
+has a second resistant trend line and Fibonacci retracement to break. If 10y yield breaks
+through 2.35% and 30y yield through 3.15%, then another breakout will have occurred
+that technically triggers another leg higher to 2.98% and 3.80%, respectively. We think
+this is the more likely outcome.
+48 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Chart 81: US 10yr yield (top) and US 30yr yield (bottom) weekly chart
+Source: BofA Merrill Lynch Global Research, Bloomberg
+German 10yr bund yield breaks out
+Bund yield has risen through resistance levels and is up about 60bps from the low. Prior
+uptrends failed at trend line resistance levels; however, this time it broke through. The
+distance traveled during prior moves include +140bps, +93bps and +108bps. Therefore,
+we believe this uptrend has room to continue to 55bps (estimated 200wk SMA) by
+1Q2017 and to 75bps in 2017.
+Japanese 30y yields form head and shoulders bottom
+The rapid decline in 30y JGB yield during 2016 led to a trend exhaustion signal at the
+lows (TD Sequential 13), a rise resulting in the most overbought (higher yield)
+momentum since 2010 and the formation of a head and shoulders bottom. Provided
+yield remains above 44bps, we could see yield rising to 71bps and possibly 87bps in
+2017.
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 49
+Chart 82: German 10yr bund yield – weekly chart
+Chart 83: Japanese 30yr yield - weekly chart
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Source: BofA Merrill Lynch Global Research, Bloomberg
+Buy NZD/USD 5m .69/.66 put spread 1x1.5
+NZD/USD is forming a head and shoulders top. It is breaking trend line support from the
+January to June lows. It is also threatening to break the neckline at .7070. MACD recently
+crossed bearish and is trending toward negative. This pattern suggests NZD/USD will
+decline as low as .6615. Given the strong USD move in G10 thus far, we think NZD/USD
+is near an attractive technical level to position for further USD strength. We
+recommending buying a NZD/USD 5m .69/.66 put spread 1x1.5 for 43 USD pips (off of
+.7100 spot).
+Chart 84: NZD/USD daily chart
+Source: BofA Merrill Lynch Global Research, Bloomberg
+50 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Bond Yield Forecasts
+Table 7: Quarter-end bond yield forecasts
+Latest 4Q16 1Q17 2Q17 3Q17 4Q17
+USA 3m Libor 0.91 1.05 1.05 1.25 1.30 1.50
+2y T-Note 0.98 1.10 1.35 1.50 1.60 1.65
+5y T-Note 1.64 1.85 2.10 2.15 2.20 2.25
+10y T-Note 2.21 2.35 2.55 2.60 2.65 2.65
+30y T-Bond 2.95 3.10 3.30 3.30 3.35 3.35
+2y Swap 1.23 1.30 1.53 1.66 1.75 1.80
+5y Swap 1.68 1.88 2.10 2.15 2.20 2.25
+10y Swap 2.07 2.23 2.41 2.44 2.49 2.49
+Germany 3m Euribor -0.31 -0.30 -0.30 -0.30 -0.33 -0.32
+2y BKO -0.62 -0.60 -0.60 -0.55 -0.50 -0.45
+5y OBL -0.34 -0.35 -0.30 -0.25 -0.20 -0.10
+10y DBR 0.30 0.40 0.45 0.50 0.55 0.65
+30y DBR 0.93 1.05 1.10 1.15 1.15 1.15
+2y Swap -0.13 -0.14 -0.16 -0.13 -0.06 -0.02
+5y Swap 0.14 0.12 0.16 0.21 0.27 0.36
+10y Swap 0.69 0.81 0.85 0.89 0.92 1.00
+Japan 3m Libor -0.07 -0.03 -0.03 -0.03 -0.03 -0.03
+2y JGB -0.17 -0.20 -0.20 -0.20 -0.20 -0.15
+5y JGB -0.11 -0.15 -0.15 -0.13 -0.12 -0.10
+10y JGB 0.01 0.00 0.00 0.00 0.00 0.00
+2y Swap 0.01 -0.07 -0.07 -0.07 -0.07 0.00
+5y Swap 0.04 -0.05 0.00 0.01 0.02 0.04
+10y Swap 0.15 0.12 0.15 0.15 0.15 0.15
+U.K. 3m Libor 0.40 0.40 0.25 0.25 0.25 0.25
+2y UKT 0.22 0.20 0.20 0.20 0.20 0.20
+5y UKT 0.66 0.70 0.80 0.85 0.90 0.90
+10y UKT 1.40 1.50 1.60 1.65 1.70 1.75
+30y UKT 2.04 2.10 2.15 2.20 2.25 2.30
+2y Swap 0.67 0.65 0.65 0.60 0.55 0.50
+5y Swap 0.96 1.00 1.10 1.15 1.20 1.20
+10y Swap 1.34 1.55 1.70 1.75 1.80 1.85
+Australia 3m BBSW 1.76 1.70 1.70 1.70 1.80 1.80
+2y ACGB 1.77 1.90 1.95 2.00 2.05 2.10
+5y ACGB 2.16 2.30 2.40 2.45 2.50 2.60
+10y ACGB 2.66 2.80 2.95 3.05 3.10 3.10
+3y Swap 2.22 2.00 2.10 2.15 2.20 2.20
+10y Swap 2.81 2.95 3.10 3.20 3.25 3.25
+Canada 2y Govt 0.66 0.70 0.60 0.50 0.40 0.40
+5y Govt 0.94 1.00 0.90 0.80 0.70 0.70
+10y Govt 1.52 1.50 1.40 1.40 1.35 1.35
+2y Swap 1.00 1.04 0.94 0.84 0.74 0.74
+5y Swap 1.29 1.35 1.25 1.15 1.05 1.05
+10y Swap 1.78 1.76 1.66 1.66 1.61 1.61
+Source: BofA Merrill Lynch Global Research
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 51
+Global FX Forecasts
+Table 8: Quarterly forecasts – G10 currencies
+Spot Dec-16 Mar-17 Jun-17 Sep-17 Dec-17 Mar-18 Jun-18 Sep-18 Dec-18
+G3
+EUR-USD 1.08 1.08 1.05 1.02 1.02 1.05 1.06 1.07 1.08 1.10
+USD-JPY 108 108 112 115 117 120 117 115 112 110
+EUR-JPY 117 117 118 117 119 126 124 123 121 121
+Dollar Bloc
+USD-CAD 1.35 1.36 1.38 1.40 1.41 1.43 1.43 1.41 1.40 1.40
+AUD-USD 0.76 0.74 0.73 0.72 0.71 0.70 0.70 0.71 0.73 0.75
+NZD-USD 0.71 0.70 0.69 0.68 0.68 0.67 0.67 0.68 0.70 0.71
+Europe
+EUR-GBP 0.87 0.88 0.91 0.89 0.88 0.88 0.88 0.87 0.86 0.85
+GBP-USD 1.24 1.23 1.15 1.15 1.16 1.19 1.20 1.23 1.26 1.29
+EUR-CHF 1.07 1.08 1.09 1.10 1.11 1.12 1.12 1.13 1.13 1.15
+USD-CHF 0.99 1.00 1.04 1.08 1.09 1.07 1.06 1.06 1.05 1.05
+EUR-SEK 9.86 9.50 9.40 9.30 9.20 9.15 9.10 9.00 8.90 8.90
+USD-SEK 9.14 8.80 8.95 9.12 9.02 8.71 8.58 8.41 8.24 8.09
+EUR-NOK 9.08 9.00 8.90 8.80 8.70 8.60 8.50 8.50 8.40 8.40
+USD-NOK 8.41 8.33 8.48 8.63 8.53 8.19 8.02 7.94 7.78 7.64
+Forecast as of Nov-15-2016. Spot exchange rate as of Nov-15-2016. The left of the currency pair is the denominator of the exchange rate. Source: BofA Merrill Lynch Global Research
+Table 9: Quarterly forecasts – EM currencies
+Spot Dec-16 Mar-17 Jun-17 Sep-17 Dec-17 Mar-18 Jun-18 Sep-18 Dec-18
+Latin America
+USD-BRL 3.43 3.60 3.65 3.70 3.80 3.90 3.90 3.90 3.90 3.90
+USD-MXN 20.48 21 21.25 21.5 21.75 22 22.25 22.5 22.75 23
+USD-CLP 670 670 685 700 715 730 740 750 760 770
+USD-COP 3,124 3,150 3,200 3,250 3,300 3,350 3,400 3,450 3,500 3,550
+USD-ARS 15.60 15.80 16.00 17.00 17.50 18.00 18.50 19.00 19.50 20.00
+USD-VEF 9.99 10 31.1 31.1 84.8 84.8 84.8 84.8 84.8 84.8
+USD-PEN 3.44 3.45 3.47 3.50 3.52 3.55 3.60 3.65 3.70 3.70
+USD-UYU 28.70 29 30 31 32 33 34 35 36 37
+Emerging Europe
+EUR-PLN 4.41 4.30 4.25 4.20 4.20 4.20 4.10 4.05 4.05 4.00
+EUR-HUF 310 310 310 305 300 300 300 295 295 290
+EUR-CZK 27.03 27 27 27 26.5 26 26 26 26 25.5
+USD-UAH 25.91 25.8 25.8 25.8 25.8 25.8 25.8 25.8 25.8 25.8
+USD-RUB 65.47 65 63 65 65 65 65 65 65 65
+USD-ZAR 14.15 14.5 14.5 14.5 14.5 14.5 14.3 14.5 14.8 15
+USD-TRY 3.27 3.15 3.1 3.15 3.2 3.2 3.2 3.25 3.25 3.3
+EUR-RON 4.51 4.5 4.5 4.45 4.4 4.4 4.4 4.35 4.35 4.3
+USD-EGP 15.47
+USD-ILS 3.84 3.85 3.85 3.85 3.85 3.85 3.85 3.85 3.8 3.8
+USD-AED 3.67 3.67 3.67 3.67 3.67 3.67 3.67 3.67 3.67 3.67
+USD-SAR 3.75 3.75 3.75 3.75 3.75 3.75 3.75 3.75 3.75 3.75
+USD-QAR 3.64 3.64 3.64 3.64 3.64 3.64 3.64 3.64 3.64 3.64
+Asian Bloc
+USD-KRW 1,170 1200 1200 1220 1250 1270 1270 1230 1210 1190
+USD-TWD 31.85 32.1 32.4 32.7 33.1 33.4 33.4 32.8 32.5 32.3
+USD-SGD 1.41 1.44 1.45 1.49 1.5 1.51 1.51 1.51 1.51 1.5
+USD-THB 35.36 36 36.5 37.5 37.8 38.2 39 39 38 37
+USD-HKD 7.76 7.76 7.77 7.78 7.79 7.80 7.80 7.80 7.80 7.80
+USD-CNY 6.85 7.00 7.05 7.10 7.15 7.25 7.35 7.35 7.30 7.20
+USD-IDR 13369 13700 13900 14200 14400 14600 14500 14500 14400 14200
+USD-PHP 49.07 50.5 51 52 53 53.5 54 54 53 52
+USD-MYR 4.34 4.41 4.45 4.55 4.65 4.71 4.68 4.68 4.6 4.5
+USD-INR 67.69 68.25 68.1 68.5 69 70 69.5 69 68.5 68
+Forecast as of Nov-15-2016. Spot exchange rate as of Nov-15-2016. The left of the currency pair is the denominator of the exchange rate. Source: BofA Merrill Lynch Global Research
+52 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Options Risk Statement
+Potential Risk at Expiry & Options Limited Duration Risk
+Unlike owning or shorting a stock, employing any listed options strategy is by definition
+governed by a finite duration. The most severe risks associated with general options
+trading are total loss of capital invested and delivery/assignment risk, all of which can
+occur in a short period.
+Investor suitability
+The use of standardized options and other related derivatives instruments are
+considered unsuitable for many investors. Investors considering such strategies are
+encouraged to become familiar with the "Characteristics and Risks of Standardized
+Options" (an OCC authored white paper on options risks). U.S. investors should consult
+with a FINRA Registered Options Principal.
+For detailed information regarding the risks involved with investing in listed options:
+http://www.theocc.com/about/publications/character-risks.jsp.
+Valuation & risk
+Brazil (BRAZIL)
+We are Marketweight Brazil's EXD with currently wide spreads compensating for the
+risks. The political crisis concerns investors and growth has been weaker than expected.
+However, spreads are quite high compared to LatAm investment grades. There are
+positive and negative tail risks for growth, as a resolution to the political paralysis could
+bring confidence back up quickly and improve the economic backdrop. With this positive
+tail risk, and a stronger fiscal adjustment in 2016, economic recovery could start in
+2Q16. On the downside, pressures on GDP could increase if the political scenario
+deteriorates further, with the government failing to approve fiscal measures and/or
+Brazil shifting to a heterodox policy.
+Colombia (COLOM)
+Spreads, which have widened this year adequately compensate investors for the risk, in
+our view, and leads us to our Marketweight view. Downside risks are a rapid inflation
+acceleration from pass-through effects, which would be a difficult problem for
+macroeconomic policy. Also oil price weakness raises risk of recession. Fiscal and
+external difficulties generate incentives to relax the fiscal rule. Upside risks are a rise in
+commodity prices and stronger than expected growth.
+Mexico (MEX)
+Mexico's tight spreads fairly reflect the better quality of Mexican debt compared to
+most of LatAm, in our view. We forecast Mexico's activity growth to remain in the 2-3%
+range. Downside risks are lower growth in the US, lower oil prices and slower domestic
+oil production. A disorderly normalization of US monetary policy is a risk to Mexico's
+financial stability as well. Upside risks are higher oil prices and stronger US growth.
+Turkey (TURKEY)
+We are Overweight as Turkey Eurobonds lagged peers due to heightened political noise
+during the summer. Since Moody's downgraded the sovereign, all negative impact of the
+attempted coup seems to be priced and we think that bonds offer value vs peers.
+Downside risks are stronger outflows than expected and heightened political noise.
+Upside risks include a generalized rally on the back of more positive global backdrop.
+Analyst Certification
+We, David Woo, Adarsh Sinha, Arko Sen, Claudio Irigoyen, Jane Brauer, Kamal Sharma,
+Mark Capleton, Paul Ciana, CMT and Ralf Preusser, CFA, hereby certify that the views
+each of us has expressed in this research report accurately reflect each of our respective
+personal views about the subject securities and issuers. We also certify that no part of
+our respective compensation was, is, or will be, directly or indirectly, related to the
+specific recommendations or view expressed in this research report.
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 53
+Disclosures
+Important Disclosures
+Credit opinion history
+Brazil / BRAZIL
+Sovereign Date^ Action Recommendation
+Brazil / BRAZIL 12-Nov-2015 Initial Marketweight
+Table reflects credit opinion history as of previous business day’s close. ^First date of recommendation within last 36 months. The investment opinion system is contained at the end of the
+report under the heading "BofA Merrill Lynch Credit Opinion Key."
+Colombia / COLOM
+Sovereign Date^ Action Recommendation
+Colombia / COLOM 12-Nov-2015 Initial Marketweight
+Table reflects credit opinion history as of previous business day’s close. ^First date of recommendation within last 36 months. The investment opinion system is contained at the end of the
+report under the heading "BofA Merrill Lynch Credit Opinion Key."
+Mexico / MEX
+Sovereign Date^ Action Recommendation
+Mexico / MEX 12-Nov-2015 Initial Marketweight
+03-Dec-2015 Restricted NA
+03-Dec-2015 Coverage Resumed Marketweight
+21-Mar-2016 Restricted NA
+21-Mar-2016 Coverage Resumed Marketweight
+08-Aug-2016 Restricted NA
+10-Aug-2016 Coverage Resumed Marketweight
+Table reflects credit opinion history as of previous business day’s close. ^First date of recommendation within last 36 months. The investment opinion system is contained at the end of the
+report under the heading "BofA Merrill Lynch Credit Opinion Key."
+Turkey / TURKEY
+Sovereign Date^ Action Recommendation
+Turkey / TURKEY 12-Nov-2015 Initial Marketweight
+23-Feb-2016 Downgrade Underweight
+17-May-2016 Upgrade Marketweight
+27-Sep-2016 Upgrade Overweight
+Table reflects credit opinion history as of previous business day’s close. ^First date of recommendation within last 36 months. The investment opinion system is contained at the end of the
+report under the heading "BofA Merrill Lynch Credit Opinion Key."
+Credit Opinion History Tables for the securities referenced in this research report are available at http://pricecharts.baml.com, or call 1-800-MERRILL to have them mailed.
+MLPF&S or an affiliate was a manager of a public offering of securities of this issuer within the last 12 months: Brazil, Italy, Turkey.
+The issuer is or was, within the last 12 months, an investment banking client of MLPF&S and/or one or more of its affiliates: Brazil, Colombia, France, Germany, Italy, Mexico, Turkey.
+MLPF&S or an affiliate has received compensation from the issuer for non-investment banking services or products within the past 12 months: Brazil, Colombia, France, Germany, Italy, Mexico,
+Turkey.
+The issuer is or was, within the last 12 months, a non-securities business client of MLPF&S and/or one or more of its affiliates: Brazil, Colombia, France, Germany, Italy, Mexico, Turkey.
+MLPF&S or an affiliate has received compensation for investment banking services from this issuer within the past 12 months: Brazil, Colombia, France, Germany, Italy, Mexico, Turkey.
+MLPF&S or an affiliate expects to receive or intends to seek compensation for investment banking services from this issuer or an affiliate of the issuer within the next three months: Brazil,
+Colombia, France, Germany, Italy, Mexico, Turkey.
+MLPF&S or one of its affiliates has a significant financial interest in the fixed income instruments of the issuer. If this report was issued on or after the 15th day of the month, it reflects a
+significant financial interest on the last day of the previous month. Reports issued before the 15th day of the month reflect a significant financial interest at the end of the second month
+preceding the report: Brazil, Colombia, Germany, Mexico, Turkey.
+MLPF&S or one of its affiliates trades or may trade as principal in the debt securities (or in related derivatives) that are the subject of this research report: Brazil, Colombia, France, Germany, Italy,
+Mexico, Turkey.
+The issuer is or was, within the last 12 months, a securities business client (non-investment banking) of MLPF&S and/or one or more of its affiliates: Brazil, Colombia, France, Germany, Italy,
+Mexico, Turkey.
+BofA Merrill Lynch Research Personnel (including the analyst(s) responsible for this report) receive compensation based upon, among other factors, the overall profitability of Bank of America
+Corporation, including profits derived from investment banking. The analyst(s) responsible for this report may also receive compensation based upon, among other factors, the overall
+profitability of the Bank’s sales and trading businesses relating to the class of securities or financial instruments for which such analyst is responsible.
+BofA Merrill Lynch Global Credit Research analysts regularly interact with sales and trading desk personnel in connection with their research, including to ascertain pricing and liquidity in the
+fixed income markets.
+54 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Other Important Disclosures
+Prices are indicative and for information purposes only. Except as otherwise stated in the report, for the purpose of any recommendation in relation to: (i) an equity security, the price
+referenced is the publicly traded price of the security as of close of business on the day prior to the date of the report or, if the report is published during intraday trading, the price referenced is
+indicative of the traded price as of the date and time of the report; or (ii) a debt security (including equity preferred and CDS), prices are indicative as of the date and time of the report and are
+from various sources including Bank of America Merrill Lynch trading desks.
+The date and time of completion of the production of any recommendation in this report shall be the date and time of dissemination of this report as recorded in the report timestamp.
+This report may refer to fixed income securities that may not be offered or sold in one or more states or jurisdictions. Readers of this report are advised that any discussion, recommendation or
+other mention of such securities is not a solicitation or offer to transact in such securities. Investors should contact their BofA Merrill Lynch representative or Merrill Lynch Financial Global
+Wealth Management financial advisor for information relating to fixed income securities
+Rule 144A securities may be offered or sold only to persons in the U.S. who are Qualified Institutional Buyers within the meaning of Rule 144A under the Securities Act of 1933, as amended.
+SECURITIES DISCUSSED HEREIN MAY BE RATED BELOW INVESTMENT GRADE AND SHOULD THEREFORE ONLY BE CONSIDERED FOR INCLUSION IN ACCOUNTS QUALIFIED FOR SPECULATIVE
+INVESTMENT.
+Recipients who are not institutional investors or market professionals should seek the advice of their independent financial advisor before considering information in this report in connection
+with any investment decision, or for a necessary explanation of its contents.
+The securities discussed in this report may be traded over-the-counter. Retail sales and/or distribution of this report may be made only in states where these securities are exempt from
+registration or have been qualified for sale.
+Officers of MLPF&S or one or more of its affiliates (other than research analysts) may have a financial interest in securities of the issuer(s) or in related investments.
+This report, and the securities discussed herein, may not be eligible for distribution or sale in all countries or to certain categories of investors.
+BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+"BofA Merrill Lynch" includes Merrill Lynch, Pierce, Fenner & Smith Incorporated ("MLPF&S") and its affiliates. Investors should contact their BofA Merrill Lynch representative or
+Merrill Lynch Global Wealth Management financial advisor if they have questions concerning this report. "BofA Merrill Lynch" and "Merrill Lynch" are each global brands for BofA
+Merrill Lynch Global Research.
+Information relating to Non-US affiliates of BofA Merrill Lynch and Distribution of Affiliate Research Reports:
+MLPF&S distributes, or may in the future distribute, research reports of the following non-US affiliates in the US (short name: legal name, regulator): Merrill Lynch (South Africa): Merrill Lynch
+South Africa (Pty) Ltd., regulated by The Financial Service Board; MLI (UK): Merrill Lynch International, regulated by the Financial Conduct Authority (FCA) and the Prudential Regulation Authority
+(PRA); Merrill Lynch (Australia): Merrill Lynch Equities (Australia) Limited, regulated by the Australian Securities and Investments Commission; Merrill Lynch (Hong Kong): Merrill Lynch (Asia
+Pacific) Limited, regulated by the Hong Kong Securities and Futures Commission (HKSFC); Merrill Lynch (Singapore): Merrill Lynch (Singapore) Pte Ltd, regulated by the Monetary Authority of
+Singapore (MAS); Merrill Lynch (Canada): Merrill Lynch Canada Inc, regulated by the Investment Industry Regulatory Organization of Canada; Merrill Lynch (Mexico): Merrill Lynch Mexico, SA de
+CV, Casa de Bolsa, regulated by the Comisión Nacional Bancaria y de Valores; Merrill Lynch (Argentina): Merrill Lynch Argentina SA, regulated by Comisión Nacional de Valores; Merrill Lynch
+(Japan): Merrill Lynch Japan Securities Co., Ltd., regulated by the Financial Services Agency; Merrill Lynch (Seoul): Merrill Lynch International Incorporated (Seoul Branch) regulated by the
+Financial Supervisory Service; Merrill Lynch (Taiwan): Merrill Lynch Securities (Taiwan) Ltd., regulated by the Securities and Futures Bureau; DSP Merrill Lynch (India): DSP Merrill Lynch Limited,
+regulated by the Securities and Exchange Board of India; PT Merrill Lynch (Indonesia): PT Merrill Lynch Indonesia, regulated by Otoritas Jasa Keuangan (OJK); Merrill Lynch (Israel): Merrill Lynch
+Israel Limited, regulated by Israel Securities Authority; Merrill Lynch (Russia): OOO Merrill Lynch Securities, Moscow, regulated by the Central Bank of the Russian Federation; Merrill Lynch
+(DIFC): Merrill Lynch International (DIFC Branch), regulated by the Dubai Financial Services Authority (DFSA); Merrill Lynch (Spain): Merrill Lynch Capital Markets Espana, S.A.S.V., regulated by
+Comisión Nacional del Mercado De Valores; Merrill Lynch (Brazil): Bank of America Merrill Lynch Banco Multiplo S.A., regulated by Comissão de Valores Mobiliários; Merrill Lynch KSA Company,
+Merrill Lynch Kingdom of Saudi Arabia Company, regulated by the Capital Market Authority.
+This research report: has been approved for publication and is distributed in the United Kingdom (UK) to professional clients and eligible counterparties (as each is defined in the rules of the
+FCA and the PRA) by MLI (UK) and Bank of America Merrill Lynch International Limited, which are authorized by the PRA and regulated by the FCA and the PRA, and is distributed in the UK to
+retail clients (as defined in the rules of the FCA and the PRA) by Merrill Lynch International Bank Limited, London Branch, which is authorized by the Central Bank of Ireland and subject to
+limited regulation by the FCA and PRA - details about the extent of our regulation by the FCA and PRA are available from us on request; has been considered and distributed in Japan by Merrill
+Lynch (Japan), a registered securities dealer under the Financial Instruments and Exchange Act in Japan; is issued and distributed in Hong Kong by Merrill Lynch (Hong Kong) which is regulated
+by HKSFC (research reports containing any information in relation to, or advice on, futures contracts are not intended for issuance or distribution in Hong Kong and are not directed to, or
+intended for issuance or distribution to, or use by, any person in Hong Kong); is issued and distributed in Taiwan by Merrill Lynch (Taiwan); is issued and distributed in India by DSP Merrill Lynch
+(India); and is issued and distributed in Singapore to institutional investors and/or accredited investors (each as defined under the Financial Advisers Regulations) by Merrill Lynch International
+Bank Limited (Merchant Bank) (MLIBLMB) and Merrill Lynch (Singapore) (Company Registration Nos F 06872E and 198602883D respectively). MLIBLMB and Merrill Lynch (Singapore) are
+regulated by MAS. Bank of America N.A., Australian Branch (ARBN 064 874 531), AFS License 412901 (BANA Australia) and Merrill Lynch Equities (Australia) Limited (ABN 65 006 276 795), AFS
+License 235132 (MLEA) distribute this report in Australia only to 'Wholesale' clients as defined by s.761G of the Corporations Act 2001. With the exception of BANA Australia, neither MLEA nor
+any of its affiliates involved in preparing this research report is an Authorised Deposit-Taking Institution under the Banking Act 1959 nor regulated by the Australian Prudential Regulation
+Authority. No approval is required for publication or distribution of this report in Brazil and its local distribution is by Merrill Lynch (Brazil) in accordance with applicable regulations. Merrill Lynch
+(DIFC) is authorized and regulated by the DFSA. Research reports prepared and issued by Merrill Lynch (DIFC) are done so in accordance with the requirements of the DFSA conduct of business
+rules. Bank of America Merrill Lynch International Limited, Frankfurt Branch (BAMLI Frankfurt) distributes this report in Germany and is regulated by BaFin.
+This research report has been prepared and issued by MLPF&S and/or one or more of its non-US affiliates. MLPF&S is the distributor of this research report in the US and accepts full
+responsibility for research reports of its non-US affiliates distributed to MLPF&S clients in the US. Any US person receiving this research report and wishing to effect any transaction in any
+security discussed in the report should do so through MLPF&S and not such foreign affiliates. Hong Kong recipients of this research report should contact Merrill Lynch (Asia Pacific) Limited in
+respect of any matters relating to dealing in securities (and not futures contracts) or provision of specific advice on securities (and not futures contracts). Singapore recipients of this research
+report should contact Merrill Lynch International Bank Limited (Merchant Bank) and/or Merrill Lynch (Singapore) Pte Ltd in respect of any matters arising from, or in connection with, this
+research report.
+General Investment Related Disclosures:
+Taiwan Readers: Neither the information nor any opinion expressed herein constitutes an offer or a solicitation of an offer to transact in any securities or other financial instrument. No part of
+this report may be used or reproduced or quoted in any manner whatsoever in Taiwan by the press or any other person without the express written consent of BofA Merrill Lynch.
+This research report provides general information only. Neither the information nor any opinion expressed constitutes an offer or an invitation to make an offer, to buy or sell any securities or
+other financial instrument or any derivative related to such securities or instruments (e.g., options, futures, warrants, and contracts for differences). This report is not intended to provide
+personal investment advice and it does not take into account the specific investment objectives, financial situation and the particular needs of any specific person. Investors should seek
+financial advice regarding the appropriateness of investing in financial instruments and implementing investment strategies discussed or recommended in this report and should understand
+that statements regarding future prospects may not be realized. Any decision to purchase or subscribe for securities in any offering must be based solely on existing public information on such
+security or the information in the prospectus or other offering document issued in connection with such offering, and not on this report.
+Securities and other financial instruments discussed in this report, or recommended, offered or sold by Merrill Lynch, are not insured by the Federal Deposit Insurance Corporation and are not
+deposits or other obligations of any insured depository institution (including, Bank of America, N.A.). Investments in general and, derivatives, in particular, involve numerous risks, including,
+among others, market risk, counterparty default risk and liquidity risk. No security, financial instrument or derivative is suitable for all investors. In some cases, securities and other financial
+instruments may be difficult to value or sell and reliable information about the value or risks related to the security or financial instrument may be difficult to obtain. Investors should note that
+income from such securities and other financial instruments, if any, may fluctuate and that price or value of such securities and instruments may rise or fall and, in some cases, investors may
+lose their entire principal investment. Past performance is not necessarily a guide to future performance. Levels and basis for taxation may change.
+Futures and options are not appropriate for all investors. Such financial instruments may expire worthless. Before investing in futures or options, clients must receive the appropriate risk
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 55
+disclosure documents. Investment strategies explained in this report may not be appropriate at all times. Costs of such strategies do not include commission or margin expenses.
+BofA Merrill Lynch is aware that the implementation of the ideas expressed in this report may depend upon an investor's ability to "short" securities or other financial instruments and that such
+action may be limited by regulations prohibiting or restricting "shortselling" in many jurisdictions. Investors are urged to seek advice regarding the applicability of such regulations prior to
+executing any short idea contained in this report.
+This report may contain a trading idea or recommendation which highlights a specific identified near-term catalyst or event impacting a security, issuer, industry sector or the market generally
+that presents a transaction opportunity, but does not have any impact on the analyst’s particular “Overweight” or “Underweight” rating (which is based on a three month trade horizon). Trading
+ideas and recommendations may differ directionally from the analyst’s rating on a security or issuer because they reflect the impact of a near-term catalyst or event.
+Foreign currency rates of exchange may adversely affect the value, price or income of any security or financial instrument mentioned in this report. Investors in such securities and instruments
+effectively assume currency risk.
+UK Readers: The protections provided by the U.K. regulatory regime, including the Financial Services Scheme, do not apply in general to business coordinated by BofA Merrill Lynch entities
+located outside of the United Kingdom. BofA Merrill Lynch Global Research policies relating to conflicts of interest are described at http://go.bofa.com/coi.
+MLPF&S or one of its affiliates is a regular issuer of traded financial instruments linked to securities that may have been recommended in this report. MLPF&S or one of its affiliates may, at any
+time, hold a trading position (long or short) in the securities and financial instruments discussed in this report.
+BofA Merrill Lynch, through business units other than BofA Merrill Lynch Global Research, may have issued and may in the future issue trading ideas or recommendations that are inconsistent
+with, and reach different conclusions from, the information presented in this report. Such ideas or recommendations reflect the different time frames, assumptions, views and analytical
+methods of the persons who prepared them, and BofA Merrill Lynch is under no obligation to ensure that such other trading ideas or recommendations are brought to the attention of any
+recipient of this report.
+In the event that the recipient received this report pursuant to a contract between the recipient and MLPF&S for the provision of research services for a separate fee, and in connection
+therewith MLPF&S may be deemed to be acting as an investment adviser, such status relates, if at all, solely to the person with whom MLPF&S has contracted directly and does not extend
+beyond the delivery of this report (unless otherwise agreed specifically in writing by MLPF&S). MLPF&S is and continues to act solely as a broker-dealer in connection with the execution of any
+transactions, including transactions in any securities mentioned in this report.
+Copyright and General Information regarding Research Reports:
+Copyright 2016 Bank of America Corporation. All rights reserved. This research report is prepared for the use of BofA Merrill Lynch clients and may not be redistributed, retransmitted or
+disclosed, in whole or in part, or in any form or manner, without the express written consent of BofA Merrill Lynch. BofA Merrill Lynch research reports are distributed simultaneously to internal
+and client websites and other portals by BofA Merrill Lynch and are not publicly-available materials. Any unauthorized use or disclosure is prohibited. Receipt and review of this research report
+constitutes your agreement not to redistribute, retransmit, or disclose to others the contents, opinions, conclusion, or information contained in this report (including any investment
+recommendations, estimates or price targets) without first obtaining expressed permission from an authorized officer of BofA Merrill Lynch.
+Materials prepared by BofA Merrill Lynch Global Research personnel are based on public information. Facts and views presented in this material have not been reviewed by, and may not reflect
+information known to, professionals in other business areas of BofA Merrill Lynch, including investment banking personnel. BofA Merrill Lynch has established information barriers between
+BofA Merrill Lynch Global Research and certain business groups. As a result, BofA Merrill Lynch does not disclose certain client relationships with, or compensation received from, such issuers in
+research reports. To the extent this report discusses any legal proceeding or issues, it has not been prepared as nor is it intended to express any legal conclusion, opinion or advice. Investors
+should consult their own legal advisers as to issues of law relating to the subject matter of this report. BofA Merrill Lynch Global Research personnel’s knowledge of legal proceedings in which
+any BofA Merrill Lynch entity and/or its directors, officers and employees may be plaintiffs, defendants, co-defendants or co-plaintiffs with or involving issuers mentioned in this report is based
+on public information. Facts and views presented in this material that relate to any such proceedings have not been reviewed by, discussed with, and may not reflect information known to,
+professionals in other business areas of BofA Merrill Lynch in connection with the legal proceedings or matters relevant to such proceedings.
+This report has been prepared independently of any issuer of securities mentioned herein and not in connection with any proposed offering of securities or as agent of any issuer of any
+securities. None of MLPF&S, any of its affiliates or their research analysts has any authority whatsoever to make any representation or warranty on behalf of the issuer(s). BofA Merrill Lynch
+Global Research policy prohibits research personnel from disclosing a recommendation, investment rating, or investment thesis for review by an issuer prior to the publication of a research
+report containing such rating, recommendation or investment thesis.
+Any information relating to the tax status of financial instruments discussed herein is not intended to provide tax advice or to be used by anyone to provide tax advice. Investors are urged to
+seek tax advice based on their particular circumstances from an independent tax professional.
+The information herein (other than disclosure information relating to BofA Merrill Lynch and its affiliates) was obtained from various sources and we do not guarantee its accuracy. This report
+may contain links to third-party websites. BofA Merrill Lynch is not responsible for the content of any third-party website or any linked content contained in a third-party website. Content
+contained on such third-party websites is not part of this report and is not incorporated by reference into this report. The inclusion of a link in this report does not imply any endorsement by or
+any affiliation with BofA Merrill Lynch. Access to any third-party website is at your own risk, and you should always review the terms and privacy policies at third-party websites before
+submitting any personal information to them. BofA Merrill Lynch is not responsible for such terms and privacy policies and expressly disclaims any liability for them.
+All opinions, projections and estimates constitute the judgment of the author as of the date of the report and are subject to change without notice. Prices also are subject to change without
+notice. BofA Merrill Lynch is under no obligation to update this report and BofA Merrill Lynch's ability to publish research on the subject issuer(s) in the future is subject to applicable quiet
+periods. You should therefore assume that BofA Merrill Lynch will not update any fact, circumstance or opinion contained in this report.
+Certain outstanding reports may contain discussions and/or investment opinions relating to securities, financial instruments and/or issuers that are no longer current. Always refer to the most
+recent research report relating to an issuer prior to making an investment decision.
+In some cases, an issuer may be classified as Restricted or may be Under Review or Extended Review. In each case, investors should consider any investment opinion relating to such issuer (or
+its security and/or financial instruments) to be suspended or withdrawn and should not rely on the analyses and investment opinion(s) pertaining to such issuer (or its securities and/or
+financial instruments) nor should the analyses or opinion(s) be considered a solicitation of any kind. Sales persons and financial advisors affiliated with MLPF&S or any of its affiliates may not
+solicit purchases of securities or financial instruments that are Restricted or Under Review and may only solicit securities under Extended Review in accordance with firm policies.
+Neither BofA Merrill Lynch nor any officer or employee of BofA Merrill Lynch accepts any liability whatsoever for any direct, indirect or consequential damages or losses arising from any use of
+this report or its contents.
+56 Global Rates, FX & EM 2017 Year Ahead | 16 November 2016
+Research Analysts
+Europe
+Ralf Preusser, CFA
+Rates Strategist
+MLI (UK)
++44 20 7995 7331
+ralf.preusser@baml.com
+Mark Capleton
+Rates Strategist
+MLI (UK)
++44 20 7995 6118
+mark.capleton@baml.com
+Sphia Salim
+Rates Strategist
+MLI (UK)
++44 20 7996 2227
+sphia.salim@baml.com
+Ruairi Hourihane
+Rates Strategist
+MLI (UK)
++44 20 7995 9531
+ruairi.hourihane@baml.com
+Erjon Satko
+Rates Strategist
+MLI (UK)
++44 20 7996 5726
+erjon.satko@baml.com
+Sebastien Cross
+Rates Strategist
+MLI (UK)
++44 20 7996 7561
+sebastien.cross@baml.com
+Athanasios Vamvakidis
+FX Strategist
+MLI (UK)
++44 20 7995 0790
+athanasios.vamvakidis@baml.com
+Kamal Sharma
+FX Strategist
+MLI (UK)
++44 20 7996 4855
+ksharma32@baml.com
+Myria Kyriacou
+FX Strategist
+MLI (UK)
++44 20 7996 1728
+myria.kyriacou@baml.com
+US
+David Woo
+FX, Rates & EM Strategist
+MLPF&S
++1 646 855 5442
+david.woo@baml.com
+Shyam S.Rajan
+Rates Strategist
+MLPF&S
++1 646 855 9808
+shyam.rajan@baml.com
+Mark Cabana, CFA
+Rates Strategist
+MLPF&S
++1 646 855 9591
+mark.cabana@baml.com
+Ralph Axel
+Rates Strategist
+MLPF&S
++1 646 855 6226
+ralph.axel@baml.com
+John Shin
+FX Strategist
+MLPF&S
++1 646 855 9342
+joong.s.shin@baml.com
+Carol Zhang
+Rates Strategist
+MLPF&S
++1 646 855 8311
+carol.zhang@baml.com
+Pac Rim
+Adarsh Sinha
+FX Strategist
+Merrill Lynch (Hong Kong)
++852 3508 7155
+adarsh.sinha@baml.com
+Shuichi Ohsaki
+Rates Strategist
+Merrill Lynch (Japan)
++81 3 6225 7747
+shuichi.ohsaki@baml.com
+Global Emerging Markets
+David Hauner, CFA
+EEMEA Cross Asset Strategist
+MLI (UK)
++44 20 7996 1241
+david.hauner@baml.com
+Claudio Irigoyen
+LatAm FI/FX Strategy/Economist
+MLPF&S
++1 646 855 1734
+claudio.irigoyen@baml.com
+Claudio Piron
+Emerging Asia FI/FX Strategist
+Merrill Lynch (Singapore)
++65 6591 0401
+claudio.piron@baml.com
+Helen Qiao
+China & Asia Economist
+Merrill Lynch (Hong Kong)
++852 3508 3961
+helen.qiao@baml.com
+Trading ideas and investment strategies discussed
+herein may give rise to significant risk and are not
+suitable for all investors. Investors should have
+experience in FX markets and the financial resources
+to absorb any losses arising from applying these ideas
+or strategies.
+Global Rates, FX & EM 2017 Year Ahead | 16 November 2016 57

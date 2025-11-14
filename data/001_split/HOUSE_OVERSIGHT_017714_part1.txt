@@ -1,0 +1,1249 @@
+﻿User Name: DAVID SCHOEN
+Date and Time: Thursday, February 28, 2019 10:28:00 AM EST
+Job Number: 83852970
+Document (1)
+1. ARTICLE: Recognizing Victims in the Federal Rules of Criminal Procedure: Proposed Amendments in Light
+of the Crime Victims' Rights Act, 2005 B.Y.U.L. Rev. 835
+Client/Matter: -None-
+Search Terms: cvra and sixth amendment
+Search Type: Terms and Connectors
+Narrowed by:
+Content Type
+Narrowed by
+Secondary Materials
+Sources: Law Reviews and Journals
+| About LexisNexis | Privacy Policy | Terms & Conditions | Copyright © 2019 LexisNexis
+DAVID SCHOEN
+ARTICLE: Recognizing Victims in the Federal Rules of Criminal Procedure: Proposed
+Amendments in Light of the Crime Victims' Rights Act
+Reporter
+2005 B.Y.U.L. Rev. 835 *
+2005
+Length: 36451 words
+Author: Paul G. Cassell*
+* Professor of Law for the S.J. Quinney College of Law of the University of Utah and United States District Court Judge for
+the District of Utah. Thanks to Doug Beloof, Janna Tucker Davis, Meg Garvin, Wendy Murphy, Judge James Orenstein, and
+Steve Twist; to my able law clerks Ann Bauer, Tim Conde, Tyler Green, Felise Thorpe Moll, Justin Starr, and Stewart Young;
+and especially to my wife Trish for all her support. I write this article as a law professor, not as a judge. It is not intended to
+comment on any pending cases and implies no positive commitment on legal issues that may arise in cases that come before me
+in my court.
+Text
+[*837]
+I. Introduction
+Crime victims are virtually absent from the Federal Rules of Criminal Procedure. The sixty federal rules comprehensively
+cover every aspect of federal criminal proceedings - from initial appearance through preliminary hearing, arraignment,
+acceptance of pleas, trial, and sentencing. Yet the rules substantively mention victims only once, briefly recognizing the right
+of some victims to speak at sentencing. 1
+The federal rules can no longer leave victims unmentioned. In October 2004, Congress passed and President Bush signed into
+law the Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims' Rights Act (CVRA).
+2 The CVRA transforms crime victims into participants in the criminal justice process by (among other things) guaranteeing
+them notice of court hearings, the right to attend those hearings, and the opportunity to testify at appropriate points in the
+process. These new victims' rights will reshape the federal criminal justice system and force significant changes to the Federal
+Rules of Criminal Procedure to reflect the victim's expanded role. This Article offers comprehensive proposals for changing the
+federal rules to both implement the CVRA and reflect sound public policy. The CVRA dictates changes like these to the Federal
+Rules of Criminal Procedure because only by integrating victims into the federal rules will Congress's goal of making victims
+participants in the process be fully realized.
+This Article is divided into five parts. Following this introduction, Part II reviews the current absence of victims from the
+federal rules. Surprisingly, even where the rules cover issues of great concern to victims, victims somehow go unmentioned.
+1
+See Fed. R. Crim. P. 32(i)(4)(B); discussion infra note 3 and accompanying text.
+2
+Crime Victims' Rights Act, Pub. L. No. 108-405, 118 Stat. 2261 (2004) (codified at 18 U.S.C.A. 3771 (West 2004 & Supp. 2005)). The
+CVRA was part of a much larger piece of legislation that addressed a variety of subjects, known as the "Justice for All Act." See generally
+Steven J. Twist, On the Wings of Their Angels: The Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, Nila Lynn Crime
+Victims' Rights Act, 9 Lewis & Clark L. Rev. (forthcoming 2005).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *837
+Page 2 of 52
+Part II then discusses the crime victims' rights movement and concludes with a brief sketch of the events leading to the CVRA's
+enactment.
+[*838] Part III discusses why it is necessary to amend the federal criminal rules to incorporate victims. Although the CVRA is
+a federal statute that automatically trumps any conflicting procedural rule, procedural rules drive day-to-day courtroom
+practices. Given that Congress was particularly concerned about integrating victims into the fabric of the criminal justice
+system, the Advisory Committee on Criminal Rules should amend the rules to directly reflect the CVRA's requirements.
+Part IV provides a rule-by-rule analysis of the changes needed in the Federal Rules of Criminal Procedure to implement the
+CVRA. Of particular importance is new language protecting crime victims' rights to be notified of and to be present and heard
+at public criminal proceedings. Congress should also implement the right to notice in a new rule mandating that prosecutors
+keep victims apprised of criminal proceedings. In addition, the rules should also reflect victims' rights to attend court
+proceedings and to testify at bail, plea, and sentencing hearings. Part IV also discusses other significant changes needed to
+conform the rules to the CVRA: defining "victim," giving victims notice before confidential information is subpoenaed,
+allowing victims to be heard before cases are transferred to remote districts, giving victims access to relevant parts of the presentence
+report, permitting courts to appoint counsel for victims, and protecting the victim's right to proceedings free from
+unreasonable delay. Part V contains a brief conclusion.
+II. The Missing Victims of Crimes
+Crime victims are absent from the Federal Rules of Criminal Procedure. Yet this is not because victims lack vital interests in
+criminal cases. As the CVRA recognizes, victims have vital concerns throughout the criminal process. This section recounts the
+absence of victims from the federal criminal rules, then contrasts that absence with the aims of the victims' rights movement.
+The movement has argued successfully before state legislatures and Congress for the recognition of crime victims' rights - with
+these efforts culminating in the passage of the CVRA, protecting crime victims' rights in the federal system.
+[*839]
+A. The Victim's Absence from the Current Federal Criminal Rules
+The sixty Federal Rules of Criminal Procedure provide the architecture for the entire federal criminal court process, including
+initial appearance, preliminary hearing, arraignment, acceptance of pleas, trial, and sentencing. One would expect that the rules
+would frequently mention crime victims, given the subjects - such as bail, scheduling, and restitution - that directly concern
+victims. Yet amazingly, the current rules substantively use the word "victim" only a single time.
+The single direct reference to victims is Rule 32(i)(4)(B), which directs that before imposing a sentence, "the court must
+address any victim of a crime of violence or sexual abuse who is present at sentencing and must permit the victim to speak or
+submit any information about the sentence." 3 The word "victim" appears in passing in only two other rules: Rule 12.4 requires
+the government to disclose to the court any organizational "victim," 4 and the heading of Rule 38(e) mentions "Restitution"
+and "Notice to Victims," but the text of the rule does not contain the term "victim." 5
+Victims deserve far more than the single reference in Rule 32. While later parts of this Article work through the rules sectionby-section
+to illustrate where victims have been unfairly ignored, 6 a few examples here will prove the point. The rules
+currently fail to give victims any right to be heard regarding whether a judge should accept a plea, even though the judge must
+evaluate the public interest in deciding whether to do so. 7 The rules fail to require notice to victims before their confidential
+3
+Fed. R. Crim. P. 32(i)(4)(B).
+4
+Id. at 12.4(a)(2).
+5
+Id. at 38(e) (mentioning "victim" in the heading of the rule).
+6
+See discussion infra Part IV.
+7
+See Fed. R. Crim. P. 11; discussion infra notes 148-53 and accompanying text.
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *839
+Page 3 of 52
+information is subpoenaed from third parties - such as schools or medical providers - even though victims have compelling
+privacy interests to protect. 8 And the rules do not protect the victim's right to attend trials, despite [*840] victims' long
+history of having at least some protected interest in observing trials and other proceedings. 9
+One provision conveniently encapsulates the surprising absence of victims from the rules: Rule 32(d)(2)(B). The drafters of this
+rule 10 appear to have been so afraid to utter the word "victim" that they did not use the term even when describing the person
+harmed by a crime. Rule 32(d)(2)(B) directs that a presentence report contain "verified information, stated in a
+nonargumentative style, that assesses the financial, social, psychological, and medical impact on any individual against whom
+the offense has been committed." 11 The phrasing of this provision is striking for several reasons. It eschews the
+straightforward term "victim," preferring instead the obscuring phrase "individual against whom the offense has been
+committed." The provision also uses the responsibility-obscuring passive voice in describing the individual "against whom" the
+offense has been committed, leaving the reader to wonder who might have committed that offense (the defendant, perhaps?).
+Interestingly, the provision requires that information about the victim be "verified." Fair enough - until one realizes that the
+directly adjacent provision regarding information about the defendant lacks a similar verification requirement. 12 Why would
+information about the victim need to be verified while information about the defendant would not? Finally, the provision
+requires that victim information be stated in a "nonargumentative" style. Again, the adjacent defendant's provision contains no
+such direction. 13 In short, even a rule that seemingly must mention victims - the rule dictating preparation of a presentence
+report describing the crime - manages to avoid mentioning the word.
+B. The Victims' Rights Movement
+That victims are missing from the Federal Rules of Criminal Procedure exemplifies their treatment in the modern American
+[*841] criminal justice system. As one commentator has described the situation, the victim is "seen at best as "the forgotten
+man' of the system and, at worst, as being twice victimized, the second time by the very system to which he has turned for
+justice." 14 The absence of victims conflicts with "a public sense of justice keen enough that it has found voice in a nationwide
+victims' rights movement." 15
+The crime victims' rights movement developed in the 1970s because of a perceived imbalance in the criminal justice system.
+Led by feminist and civil rights activists, victims' advocates argued that the criminal justice system had become preoccupied
+8
+See Fed. R. Crim. P. 17; discussion infra notes 177-91, and accompanying text.
+9
+See Fed. R. Crim. P. 43; discussion infra notes 269-300 and accompanying text.
+10
+To be clear, Congress, not the Advisory Committee on Criminal Law and Procedure, drafted the language of this rule. See Victims of
+Crime Act of 1984, Pub. L. No. 98-473, 98 Stat. 2014 (1984) (directly amending Rule 32).
+11
+Fed. R. Crim. P. 32(d)(2)(B) (emphasis added).
+12
+Id. at 32(d)(2)(A).
+13
+Id.
+14
+William F. McDonald, Towards a Bicentennial Revolution in Criminal Justice: The Return of the Victim, 13 Am. Crim. L. Rev. 649, 650
+(1976).
+15
+Payne v. Tennessee, 501 U.S. 808, 834 (1991) (Scalia, J., concurring) (internal quotation marks omitted). See generally Douglas Evan
+Beloof, Paul G. Cassell & Steve J. Twist, Victims in Criminal Procedure 29-37 (2005); Shirley S. Abrahamson, Redefining Roles: The
+Victims' Rights Movement, 1985 Utah L. Rev. 517; Douglas Evan Beloof, The Third Model of Criminal Process: The Victim Participation
+Model, 1999 Utah L. Rev. 289 [hereinafter Beloof, The Third Model of Criminal Process]; Paul G. Cassell, Balancing the Scales of Justice,
+1994 Utah L. Rev. 1373, 1380-82; Abraham S. Goldstein, Defining the Role of the Victim in Criminal Prosecution, 52 Miss. L.J. 514 (1982);
+Erin Ana O'Hara, Victim Participation in the Criminal Process, 13 J.L. & Pol'y 229 (2005); William T. Pizzi & Walter Perron, Crime Victims
+in German Courtrooms: A Comparative Perspective on American Problems, 32 Stan. J. Int'l L. 37 (1996).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *841
+Page 4 of 52
+with defendants' rights to the exclusion of crime victims' legitimate interests. 16 These advocates urged reforms to give more
+attention to victims' concerns, including protecting the victim's right to be notified of court hearings, to attend those hearings,
+and to be heard at appropriate points in the process.
+The victims' rights movement received considerable impetus with the publication in 1982 of the Report of the President's Task
+Force on Victims of Crime. 17 The Task Force concluded that the criminal justice system "has lost an essential balance … .
+The system has deprived the innocent, the honest, and the helpless of its protection … . The victims of crime have been
+transformed into a group oppressively burdened by a system designed to protect them. This oppression must be redressed." 18
+The Task Force advocated [*842] multiple reforms. It recommended that prosecutors assume the responsibility for keeping
+victims notified of all court proceedings and bringing to the court's attention the victim's view on such subjects as bail, plea
+bargains, sentences, and restitution. 19 The Task Force also urged that courts receive victim impact evidence at sentencing,
+order restitution in most cases, and allow victims and their families to attend trials even if they are also called as witnesses. 20
+In its most sweeping recommendation, the Task Force proposed a federal constitutional amendment to protect crime victims.
+The Task Force proposed adding to the Sixth Amendment's protections for defendants' rights a provision allowing crime
+victims to be present and heard: "Likewise, the victim, in every criminal prosecution shall have the right to be present and to be
+heard at all critical stages of judicial proceedings." 21
+In the wake of that recommendation, crime victims' advocates considered how best to pursue a federal constitutional
+amendment that would protect victims' rights throughout the country. Recognizing the difficulty of obtaining the consensus
+required to amend the United States Constitution, advocates decided to go to the states first to pursue state victims' rights
+amendments. This "states-first" strategy 22 met with considerable success. To date, some thirty states have adopted victims'
+rights amendments to their own state constitutions. 23 While these amendments take various forms, Arizona's amendment
+illustrates the types of rights typically protected. The Arizona constitutional provision gives victims the broad right to "be
+treated with fairness, respect, and dignity, and to [*843] be free from intimidation, harassment, or abuse, throughout the
+criminal justice process." 24 It also specifically confers a right to "be present at, and, upon request, to be informed of all
+criminal proceedings where the defendant has the right to be present." 25 The amendment further allows victims to be heard at
+bail, plea, and sentencing hearings. 26
+16
+See generally Beloof, Cassell & Twist, supra note 15, at ch. 1; Douglas E. Beloof, The Third Wave of Crime Victims' Rights: Standing,
+Remedy, and Review, 2005 BYU L. Rev. 255 [hereinafter Beloof, The Third Wave of Crime Victims' Rights]; Cassell, supra note 15, at 1381-
+82.
+17
+President's Task Force on Victims of Crime, Final Report 114 (1982).
+18
+Id.
+19
+Id. at 63.
+20
+Id. at 72-73.
+21
+Id. at 114.
+22
+See S. Rep. No. 108-191, at 3 (2004), as reprinted in 2004 U.S.C.A.N.
+23
+Alaska Const. art. I, 24; Ariz. Const. art. II, 2.1; Cal. Const. art. I, 12, 28; Colo. Const. art. II, 16(a); Conn. Const. art. I, 8(b); Fla. Const.
+art. I, 16(b); Idaho Const. art. I, 22; Ill. Const. art. I, 8.1; Ind. Const. art. I, 13(b); Kan. Const. art. 15, 15; La. Const. art. 1, 25; Md. Decl. of
+Rights art. 47; Mich. Const. art. I, 24; Miss. Const. art. 3, 26(A); Mo. Const. art. I, 32; Neb. Const. art. I, 28; Nev. Const. art. I, 8(2); N.J.
+Const. art. I, 22; N.M. Const. art. 2, 24; N.C. Const. art. I, 37; Ohio Const. art. I, 10(a); Okla. Const. art. II, 34; Or. Const. art. I, 42-43; R.I.
+Const. art. I, 23; S.C. Const. art. I, 24; Tenn. Const. art. 1, 35; Tex. Const. art. I, 30; Utah Const. art. I, 28; Va. Const. art. I, 8-A; Wash.
+Const. art. 1, 35; Wis. Const. art. I, 9(m). These amendments passed with overwhelming popular support.
+24
+Ariz. Const. art. II, 2.1(A)(1).
+25
+Id. 2.1(A)(3).
+26
+Id. 2.1(A)(4).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *843
+Page 5 of 52
+The movement also successfully prodded the federal system to recognize victims' rights. In 1982 Congress passed the first
+federal victims' rights legislation, the Victim and Witness Protection Act (VWPA). 27 The VWPA had three primary goals: (1)
+to expand and protect the role of victims and witnesses in the criminal justice process; (2) to ensure that the federal government
+used all available resources to protect and assist victims without infringing defendants' constitutional rights; and (3) to provide
+a model for state and local legislation. 28 Since passage of the VWPA, Congress has remained active in this area of the law,
+passing several acts further protecting victims' rights, such as the Victims of Crime Act of 1984, 29 the Victims' Rights and
+Restitution Act of 1990, 30 the Violent Crime Control and Law Enforcement Act of 1994, 31 the Antiterrorism and Effective
+Death Penalty Act of 1996, 32 and the Victim Rights Clarification Act of 1997. 33 Other federal statutes have been passed to
+deal with specialized victim situations such as child victims and witnesses. 34
+[*844] These statutes spawned guidelines for how federal prosecutors should treat crime victims. The VWPA required the
+Attorney General to develop guidelines for the Department of Justice. 35 To implement this Act, the Attorney General
+developed guidelines designed to assist victims during the criminal justice process, mandating protocol, separate waiting areas
+at court, the prompt return of the victim's property, and victim training for law enforcement personnel. 36 The guidelines also
+directed that prosecutors notify victims about available services, major case events, consultations with the prosecutor, and the
+opportunity for consultation about the prosecution. 37 In 2000, Attorney General Reno updated and expanded the guidelines.
+The revised guidelines heightened the notification requirements, requiring prosecutors and law enforcement agents to notify
+victims of important criminal justice events and to confer with victims about important decisions in the process. 38
+Among the federal victims' statutes, the Victims' Rights and Restitution Act of 1990 is noteworthy. This Act purported to create
+a comprehensive list of victims' rights in the federal criminal justice process. It commanded that "[a] crime victim has the
+following rights" and then listed various procedural rights, including the right to "be treated with fairness and with respect for
+the victim's dignity and privacy," 39 to "be notified of court proceedings," 40 to "confer with [the] attorney for the Government
+in the case," 41 and to attend court proceedings even if called as a witness. 42 The statute also directed the Justice Department
+27
+Pub. L. No. 97-291, 96 Stat. 1248 (1982) (codified as amended in scattered sections of 18 U.S.C.).
+28
+Id.
+29
+Pub. L. No. 98-473, 98 Stat. 2170 (1984) (codified as amended at 42 U.S.C. 10601-03 (2000); 18 U.S.C. 3013; id. 3671).
+30
+Pub. L. No. 101-647, 104 Stat. 4820 (1990) (codified as amended at 42 U.S.C. 10601, 10606-07).
+31
+Pub L. No. 103-322, 108 Stat. 1796 (1994) (codified as amended in scattered sections of U.S.C.).
+32
+Pub. L. No. 104-132, 110 Stat. 1214 (1996) (codified as amended in scattered sections of U.S.C.).
+33
+Pub. L. No. 105-6, 111 Stat. 12 (codified as amended at 18 U.S.C. 3510).
+34
+See, e.g., 18 U.S.C. 3509 (protecting rights of child victim-witnesses); Pub L. No. 101-647, 104 Stat. 4789 (1990).
+35
+Victim and Witness Protection Act, Pub. L. No. 97-291, 6(a), 96 Stat. 1248, 1252 (1982).
+36
+U.S. Dep't of Justice, Office of the Att'y Gen., Attorney General Guidelines for Victim and Witness Assistance (1995).
+37
+Id.
+38
+U.S. Dep't of Justice, Office of the Att'y Gen., Attorney General Guidelines for Victim and Witness Assistance 31-37 (2000) [hereinafter
+2000 A.G. Guidelines]. The Guidelines were recently revised. See U.S. Dept. of Justice, Office for Victims of Crime, Attorney General
+Guidelines for Victim and Witness Assistance (2005) [hereinafter 2005 A.G. Guidelines].
+39
+42 U.S.C. 10606(b)(1) (repealed 2004).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *844
+Page 6 of 52
+to make "its best efforts" to ensure [*845] that victims' rights were protected. 43 Yet this federal statute never successfully
+integrated victims into the federal criminal justice process and instead became something of a dead letter. Because Congress
+passed the CVRA in 2004 to remedy the problems with the 1990 Act, a brief review of the law's shortcomings is valuable.
+Curiously, the 1990 Victims' Rights and Restitution Act was codified in Title 42 of the United States Code - the Title dealing
+with "Public Health and Welfare." Such placement effectively limited the Act's effectiveness because federal practitioners
+reflexively consult Title 18, the Title that covers "Crimes and Criminal Procedure," 44 for guidance on criminal law issues.
+More prosaically, federal criminal enactments are bound together in a single West publication entitled the Federal Criminal
+Code and Rules. This publication is carried to court by prosecutors and defense attorneys and is on the desk of most federal
+judges. Because West Publishing never included the Victims' Rights Act in this book, the statute was essentially unknown even
+to experienced judges and attorneys. 45
+The prime illustration of the ineffectiveness of the Victims' Rights and Restitution Act comes from the Oklahoma City
+bombing case. 46 While one might expect victims' rights would have been fully protected during such a high profile trial, in
+fact victims were denied one fundamental right: the right to observe court proceedings. During a pretrial motion hearing, the
+district court sua sponte precluded any victim who wished to provide victim impact testimony at sentencing from observing
+proceedings in the case. 47 The court based its ruling on Rule 615 of the Federal Rules of Evidence - the so-called "Rule on
+Witnesses." 48 Thirty-five victims and survivors of [*846] the bombing then filed a motion for reconsideration. 49 They
+noted that the district court apparently had overlooked the Victims' Rights Act giving victims the right "to be present at all
+public court proceedings related to the offense, unless the court determines that testimony by the victim would be materially
+affected if the victim heard other testimony at trial." 50 The district court denied the motion for reconsideration. 51 It
+concluded that victims present during court proceedings would not be able to separate the "experience of trial" from "the
+experience of loss from the conduct in question," and, thus, their testimony at a sentencing hearing would be inadmissible. 52
+Unlike the original ruling, which was explicitly premised on Rule 615, the later ruling was more ambiguous, alluding to
+concerns under the Constitution, the common law, and the rules of evidence. 53
+40
+Id. 10606(b)(3) (repealed 2004).
+41
+Id. 10606(b)(5) (repealed 2004).
+42
+Id. 10606(b)(4) (repealed 2004). Testifying victims can attend proceedings unless the victim's testimony "would be materially affected" by
+hearing other testimony at trial. Id.
+43
+Id. 10606(a) (repealed 2004).
+44
+18 U.S.C. (2000).
+45
+Last year, I wrote a letter to West Publishing requesting that they include the law in their book. That request became moot with the passage
+of the CVRA, which moved victims' rights from obscurity in Title 42 to centrality in Title 18, thereby guaranteeing them a spot in the West
+publication.
+46
+See generally Paul G. Cassell, Barbarians at the Gates? A Reply to the Critics of the Victims' Rights Amendment, 1999 Utah L. Rev. 479,
+515-22 (discussing the Oklahoma City bombing case in greater detail).
+47
+See United States v. McVeigh, No. 96-CR-68, 1996 WL 366268, at 2 (D. Colo. June 26, 1996).
+48
+Id. at 2-3 (discussing application of Fed. R. Evid. 615).
+49
+Motion of Marsha and Tom Kight et al. and the National Organization for Victim Assistance Asserting Standing To Raise Rights Under
+the Victims' Bill of Rights and Seeking Leave To File a Brief as Amici Curiae, United States v. McVeigh, No. 96-CR-68-M, 1996 WL
+570841 (D. Colo. Sept. 30, 1996). I represented a number of the victims on this matter on a pro bono basis, along with able co-counsel Robert
+Hoyt, Arnon Siegel, and Karan Bhatia of the Washington, D.C. law firm of Wilmer, Cutler, and Pickering, and Sean Kendall of Boulder,
+Colorado.
+50
+42 U.S.C. 10606(b)(4) (1994) (repealed 2004). The victims also relied on a similar provision found in the authorization for closed circuit
+broadcasting of the trial, 42 U.S.C.A. 10608(a) (West Supp. 1998), and on a First Amendment right of access to public court proceedings. See
+Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555, 577 (1980) (finding First Amendment right of court access).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *846
+Page 7 of 52
+The victims subsequently filed a petition for writ of mandamus in the U.S. Court of Appeals for the Tenth Circuit seeking
+review of the district court's ruling. 54 Three months later, a Tenth Circuit panel rejected the victims' claims. 55 The circuit
+found "a number of problems with the excluded witnesses' reliance on the Victims' Rights Act." 56 Indeed, the circuit found
+that the Act created no obligations for courts:
+[*847]
+The statute charily pledges only the "best efforts" of certain executive branch personnel to secure the rights listed. The district
+court judge, a judicial officer not bound in any way by this pledge, could not violate the Act. Indeed, the Act's prescriptions
+were satisfied once the government made its arguments against sequestration - before the district court even ruled. 57
+Efforts by both the victims and the Department of Justice to obtain a rehearing were unsuccessful, 58 despite the support of
+separate briefs urging such a rehearing from forty-nine members of Congress, all six Attorneys General in the Tenth Circuit,
+and some of the leading victims' groups in the nation. 59
+In the meantime, the victims, supported by the Oklahoma Attorney General's Office, sought remedial legislation in Congress
+clearly providing that victims should not have to decide between testifying at sentencing or watching the trial. A bill was
+introduced to provide that watching a trial in a capital case does not constitute grounds for denying a victim the chance to
+provide an impact statement. In a matter of weeks, Congress passed the Victims Rights Clarification Act of 1997, 60 but even
+that specific statute failed to protect the bombing victims' rights. The district court in the Oklahoma City case found that the
+statute had constitutional problems. 61
+Because of the difficulty accompanying the statutory protection of victims' rights, victims advocates decided to press for a
+federal constitutional amendment. They argued that the statutory [*848] protections could not sufficiently guarantee victims'
+rights. In their view, such statutes "frequently fail to provide meaningful protection whenever they come into conflict with
+bureaucratic habit, traditional indifference, [or] sheer inertia." 62 As the Justice Department reported:
+Efforts to secure victims' rights through means other than a constitutional amendment have proved less than fully adequate.
+Victims' rights advocates have sought reforms at the state level for the past [twenty] years, and many states have responded
+51
+McVeigh, 1996 WL 366268 at 25.
+52
+Id. at 24.
+53
+See id.
+54
+Petition for Writ of Mandamus, Kight et al. v. Matsch, No. 96-1484 (10th Cir. Nov. 6, 1996) (on file with author).
+55
+United States v. McVeigh, 106 F.3d 325, 328 (10th Cir. 1997), superseded by statute, 18 U.S.C. 3510.
+56
+Id. at 334-35.
+57
+Id. at 335 (internal citation omitted).
+58
+See Order, United States v. McVeigh, No. 96-1469, 1997 WL 128893, at 3 (10th Cir. Mar. 11, 1997).
+59
+See Brief for Amici Curiae Washington Legal Foundation and United States Senator Don Nickles and 48 Other Members of Congress,
+United States v. McVeigh, 106 F.3d 325 (10th Cir. Feb. 14, 1997) (No. 96-1469); Brief for Amici Curiae States of Oklahoma, Colorado,
+Kansas, New Mexico, Utah, and Wyoming Supporting the Suggestion for Rehearing and the Suggestion for Rehearing En Banc by the
+Oklahoma City Bombing Victims and the United States, United States v. McVeigh, 106 F.3d 325 (10th Cir. Feb. 14, 1997) (No. 96-1469);
+Brief for Amici Curiae National Victims Center, Mothers Against Drunk Driving, National Victims' Constitutional Amendment Network,
+Justice for Surviving Victims, Inc., Concerns of Police Survivors, Inc., and Citizens for Law and Order, Inc., in Support of Rehearing, United
+States v. McVeigh, 106 F.3d 325 (10th Cir. Feb. 17, 1997) (No. 96-1469).
+60
+Pub. L. No. 105-6, 111 Stat. 12 (1997).
+61
+See generally Cassell, supra note 46, at 519-20 (recounting problems).
+62
+Laurence H. Tribe & Paul G. Cassell, Embed the Rights of Victims in the Constitution, L.A. Times, July 6, 1998, at B5.
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *848
+Page 8 of 52
+with state statutes and constitutional provisions that seek to guarantee victims' rights. However, these efforts have failed to fully
+safeguard victims' rights. These significant state efforts simply are not sufficiently consistent, comprehensive, or authoritative
+to safeguard victims' rights. 63
+To place victims' rights in the Constitution, victims advocates - led most prominently by the National Victims Constitutional
+Amendment Network 64 - approached the President and Congress regarding a federal amendment. 65 On April 22, 1996,
+Senators Kyl and Feinstein with the backing of President Clinton introduced a federal victims' rights amendment. 66 The
+amendment was intended to "restore, preserve, and protect, as a matter of right for the victims of violent crimes, the practice of
+victim participation in the administration of criminal justice that was the birthright of every American at the founding of our
+Nation." 67 A companion resolution was introduced in the House of Representatives. 68 The proposed amendment embodied
+seven core principles: (1) the right to notice of proceedings, (2) the right to be present at the proceedings, (3) the right to be
+heard, (4) the right to notice of the defendant's [*849] release or escape, (5) the right to restitution, (6) the right to a speedy
+trial, and (7) the right to reasonable protection. In a later resolution, an eighth principle was added: the right to standing to
+enforce these rights. 69 The 104th Congress did not pass the amendment.
+On January 21, 1997, the opening day of the first session of the 105th Congress, Senators Kyl and Feinstein reintroduced the
+victims' rights amendment. 70 A series of hearings were held that year in both the House and the Senate. 71 Kyl and Feinstein
+reintroduced the amendment the following year. 72 The Senate Judiciary Committee held hearings 73 and passed the proposed
+amendment out of committee. 74 Yet again, the full Senate did not consider the amendment.
+In 1999, Senators Kyl and Feinstein again proposed the amendment, 75 and on September 30, 1999, the Judiciary Committee
+voted, as before, to send the amendment to the full Senate. 76 But on April 27, 2000, after three days of floor debate, the
+amendment was shelved when it became clear that its opponents, who objected to constitutionalizing victims' rights, possessed
+the necessary votes to sustain a filibuster. 77 At the same time, hearings on the companion measure were held in the House. 78
+63
+Focusing on the Administration of Justice and the Enforcement of Laws: Dep't of Justice Oversight Hearing Before the S. Judiciary
+Comm., 104th Cong. 23-24 (1997) (statement of Janet Reno, Att'y Gen. of the United States).
+64
+See http://www.nvcan.org. See generally Twist, supra note 2.
+65
+For a comprehensive history of victims' efforts to pass a constitutional amendment, see Twist, supra note 2.
+66
+S.J. Res. 52, 104th Cong., 2d Sess. (1996).
+67
+S. Rep. No. 108-191, at 1-2 (2003); see also S. Rep. No. 106-254 (2000).
+68
+H.R.J. Res. 174, 104th Cong., 2d Sess. (1996).
+69
+See S.J. Res. 65, 104th Cong., 2d Sess. (1996).
+70
+S.J. Res. 6, 105th Cong., 1st Sess. (1997).
+71
+See, e.g., Victims' Rights Amendment: Hearings Before the Sen. Judiciary Comm., 105th Cong., 2d Sess. (1997).
+72
+S.J. Res. 44, 105th Cong., 2d Sess. (1998).
+73
+Victim's Rights Amendment: Hearings Before the Sen. Judiciary Comm., 105th Congress (1998).
+74
+See 144 Cong. Rec. S11,010 (daily ed. Sept. 28, 1998) (statement of Sen. Kyl).
+75
+S.J. Res. 3, 106th Cong., 1st Sess. (1999).
+76
+146 Cong. Rec. S2966 (daily ed. Apr. 27, 2000).
+77
+See id.
+78
+H.R.J. Res. 64, 106th Cong., 1st Sess. (2002).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *849
+Page 9 of 52
+Discussions about the Amendment began again soon after the 2000 presidential elections. On April 15, 2002, Senators Kyl and
+Feinstein reintroduced the Amendment in the Senate, 79 and the following day, President Bush announced his support. 80 On
+May 1, [*850] 2002, a companion measure was proposed in the House. 81 On January 7, 2003, Senators Kyl and Feinstein
+proposed the amendment as Senate Judiciary Resolution 1. The Senate Judiciary Committee held hearings in April of that year,
+82 followed by a written report supporting the Amendment. 83 Shortly thereafter, a motion to proceed to consideration of the
+measure was withdrawn when proponents determined they did not have the sixty-seven votes necessary to pass the
+amendment. After it became clear that the necessary super-majority votes to amend the Constitution were not attainable,
+victims' advocates turned their attention to enacting a comprehensive victims' rights statute.
+C. The Crime Victims' Rights Act
+The Crime Victims' Rights Act ultimately resulted from a decision by the victims' movement to seek a more comprehensive
+and enforceable federal statute rather than to continue pursuing the more ambitious goal of a federal constitutional amendment.
+In April 2004, victims advocates met with Senators Kyl and Feinstein to decide whether to push yet again for a federal
+constitutional amendment. Conceding that the amendment had only majority support in Congress rather than the necessary
+super-majority, the advocates decided to press for a far-reaching federal statute protecting victims' rights in the federal criminal
+justice system. 84 In exchange for backing off from the federal amendment in the short term, victims' advocates received nearuniversal
+congressional support for a "broad and encompassing" statutory victims' bill of rights. 85 This new approach not only
+established a string of victims' rights but also provided funding for victims' legal services and created remedies for the violation
+of victims' rights. 86 The victims' [*851] movement is currently evaluating the success of the statute before deciding whether
+to continue pushing for a federal amendment. 87
+The Crime Victims' Rights Act gives victims "the right to participate in the system." 88 To facilitate such participation, the Act
+grants victims eight specific rights:
+(1) The right to be reasonably protected from the accused;
+(2) The right to reasonable, accurate, and timely notice of any public court proceeding, or any parole proceeding, involving the
+crime or of any release or escape of the accused;
+(3) The right not to be excluded from any such public court proceeding, unless the court, after receiving clear and convincing
+evidence, determines that testimony by the victim would be materially altered if the victim heard other testimony at that
+proceeding;
+79
+S.J. Res. 35, 107th Cong., 2d Sess. (2002).
+80
+149 Cong. Rec. S82 (daily ed. Jan. 7, 2003) (statement of Sen. Kyl).
+81
+H.R.J. Res. 91, 107th Cong., 2d Sess. (2002).
+82
+A Proposed Constitutional Amendment To Protect Crime Victims: Hearing on S.J. Res. 1 Before the S. Judiciary Comm., 108th Congress,
+108-189 (2003).
+83
+S. Rep. No. 108-191 (2003).
+84
+See Twist, supra note 2.
+85
+150 Cong. Rec. S4261 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein).
+86
+Id. at S4263 (statement of Sen. Feinstein).
+87
+Id. (statement of Sen. Feinstein); see also Att'y Gen. Alberto R. Gonzales, Prepared Remarks at the Hoover Inst. Bd. of Overseers
+Conference (Feb. 28, 2005) (indicating that a federal victims' rights amendment remains a priority for President Bush), available at
+http://www.usdoj.gov/ag/speeches/2005/02282005 agremarkshov.htm.
+88
+150 Cong. Rec. S4263 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein). For a description of victim participation, see Beloof, The
+Third Model of Criminal Process, supra note 15.
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *851
+Page 10 of 52
+(4) The right to be reasonably heard at any public proceeding in the district court involving release, plea, sentencing, or any
+parole proceeding;
+(5) The reasonable right to confer with the attorney for the Government in the case;
+(6) The right to full and timely restitution as provided in law;
+(7) The right to proceedings free from unreasonable delay;
+(8) The right to be treated with fairness and with respect for the victim's dignity and privacy. 89
+Rather than relying merely on the "best efforts" of prosecutors to vindicate rights, the CVRA also contains specific
+enforcement [*852] mechanisms. 90 Most importantly, it directly gives victims standing to assert their rights, addressing a
+flaw in the earlier enactment. 91 The Act provides that rights can be "asserted" by "the crime victim, the crime victim's lawful
+representative, and the attorney for the Government." 92 The victim or the government may appeal any denial of a victim's
+right through a writ of mandamus on an expedited basis. 93 The courts are also required to "ensure that the crime victim is
+afforded the rights" in the new law. 94
+These changes were intended to make the victim "an independent participant in the proceedings." 95 Congress desired to
+modify what it viewed as the unfair treatment of crime victims; in particular, congressional sponsors of the CVRA cited the
+Oklahoma City bombing case as the kind of decision that they intended the new law to overrule. 96
+III. The Need To Place Victims' Rights in the Rules
+With the CVRA in place as the law of the land, the Federal Rules of Criminal Procedure should be amended to conform to the
+statute. While one court has derisively referred to the Act as mere "mushy, feel good legislation," 97 it in fact substantively
+changes the posture of crime victims on a whole host of issues. In the wake of the Act, victims now must be folded into the
+process through which federal courts conduct criminal cases, including bail, plea, trial, and sentencing hearings. The Federal
+Rules of Criminal Procedure - the "playbook" of the federal courts - should reflect this fact.
+Some might agree that victims now have a number of new rights, but nonetheless dispute the need for a rules amendment.
+After all, it might be argued, the CVRA in fact creates substantive rights for crime victims. Because nothing in the federal
+procedural [*853] rules can modify substantive rights, 98 the CVRA will trump any conflicting provision in the federal rules.
+99 In other words, the CVRA will automatically govern federal criminal proceedings even if the rules remain as written.
+89
+18 U.S.C.A. 3771(a) (West 2004 & Supp. 2005).
+90
+Id. 3771(d).
+91
+Cf. Beloof, The Third Wave of Crime Victims' Rights, supra note 16 (identifying the lack of victim standing as a pervasive flaw in victims'
+rights enactments).
+92
+18 U.S.C.A. 3771(d)(1).
+93
+Id. 3771(d)(3).
+94
+Id. 3771(b).
+95
+150 Cong. Rec. S10911 (daily ed. Oct. 9, 2004) (statement of Sen. Kyl).
+96
+Id. at S4269 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein).
+97
+United States v. Holland, 380 F. Supp. 2d 1264, 1279 (N.D. Ala. 2005).
+98
+See 28 U.S.C. 2072(b) (2000).
+99
+See, e.g., Miguel v. Country Funding Corp., 309 F.3d 1161, 1165 (9th Cir. 2002).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *853
+Page 11 of 52
+While this argument is legally precise, as a practical matter, compelling reasons justify amending the federal rules to include
+victims. Congress intended that the CVRA's new rights not be "simply words on paper," but rather "meaningful and functional"
+reforms. 100 To that end, Congress mandated that courts shall "ensure" that crime victims are "afforded the rights" conveyed
+by the CVRA. 101 To effectively ensure that victims' rights are protected, these rights must become part of the warp and woof
+of the criminal process. That can occur only if the federal rules - the day-to-day operations manual of the courts - spell out how
+to integrate victims into the process.
+Judges and practitioners frequently refer to the Federal Rules of Criminal Procedure for guidance as to how to conduct
+hearings. If victims' rights are left out of the federal rules, the strong possibility exists that courts may mistakenly disregard
+victims' rights under the CVRA. A good illustration comes from Rule 11, which spells out in some detail how judges should
+conduct a hearing accepting a plea. The judge is required to personally inform the defendant of certain specified rights and
+ensure that the defendant understands he will be waiving those rights. 102 The judge must also determine that the defendant is
+voluntarily entering the plea and that there is a factual basis for the guilty plea. 103 Under the CVRA, victims now also have the
+right to be heard before the judge accepts any plea. 104 This is a new right, 105 which judges are not accustomed to
+administering. Unless the victim's right to be heard is specifically spelled out in Rule 11's plea procedures, some judges may
+inadvertently disregard it.
+[*854] The Oklahoma City bombing case further demonstrates how courts sometimes blindly follow the federal rules without
+considering superseding statutes. In that case, the court excluded victim-witnesses from certain proceedings, relying solely on
+Federal Rule of Evidence 615 in making its determination. In denying the witnesses entrance to the proceedings, the court was
+apparently unaware of the provision in the Victims' Rights and Restitution Act protecting a victim's right to attend. 106 This
+deficiency was called to the attention of the Advisory Committee on the Federal Rules of Evidence. 107 The committee
+acknowledged the need to include victims in the evidence rules and later added a new provision reflecting the victim's right to
+attend. 108
+One reason for including victims' rights in the rules is to avoid litigation about the negative inferences that might be drawn if
+victims' rights are not in the rules. It is a well-settled principle of statutory construction that expressio unius est exclusio alterius
+(the expression of one thing implies the exclusion of the other). This canon of construction applies to the federal rules as much
+as to statutes. 109 Because the rules repeatedly spell out situations in which the defendant has the right to have his interests
+considered but say nothing about victims, it might be argued that the rules have implicitly determined that a victim's interests
+are irrelevant. To return to the Rule 11 plea example, given that the criminal rules specify that a court must address the
+defendant but lack any comparable requirement for victims, it might be inferred that victims cannot speak at plea hearings. Any
+100
+150 Cong. Rec. S4262 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein).
+101
+18 U.S.C.A. 3771(b) (West 2004 & Supp. 2005).
+102
+Fed. R. Crim. P. 11(b)(1).
+103
+Id. at 11(b)(2), (b)(3).
+104
+18 U.S.C.A. 3771(a)(4).
+105
+Cf. 42 U.S.C. 10606(b) (listing victims' rights; right to be heard at pleas not included) (repealed by 18 U.S.C. 3771).
+106
+See supra note 45 and accompanying text.
+107
+See Letter from Paul G. Cassell to Advisory Comm. (on file with author).
+108
+See Fed. R. Evid. 615 advisory committee's notes (1998 Amendments).
+109
+See, e.g., Leatherman v. Tarrant County Narcotics Intelligence & Coordination Unit, 507 U.S. 163, 168 (1993).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *854
+Page 12 of 52
+such conclusion would be contrary to the plain language of the CVRA. 110 To avoid possible confusion, the rules should be
+clear on this point.
+An additional reason for integrating victims into the federal rules is that Congress seemingly expects this to happen. Congress
+adopted the CVRA with the express goal of making the new law "a formula [*855] for success" and a "model for our States."
+111 Congress clearly wants the new law aggressively implemented, thereby avoiding the need for further legislative action or
+even, possibly, a federal constitutional amendment. Congress is watching to see whether the Judiciary (and the Executive) will
+fully and fairly implement this new Act. As Senator Leahy warned, "Passage of this bill will necessitate careful oversight of its
+implementation by Congress." 112
+Construing the CVRA to require changes is also appropriate because the Act is remedial legislation. As the Supreme Court has
+instructed, "When Congress uses broad generalized language in a remedial statute, and that language is not contravened by
+authoritative legislative history, a court should interpret the provision generously so as to effectuate the important congressional
+goals." 113 The congressional sponsors described the victims' rights in the CVRA as "broad rights," 114 the significance of
+which should not "be whittled down or marginalized by the courts or the executive branch. This legislation is meant to correct,
+not continue, the legacy of the poor treatment of crime victims in the criminal process." 115
+A final reason for amending the rules is that crime victims' groups are looking for the effective implementation of the CVRA.
+They are urging that the federal rules be comprehensively amended to reflect victims' rights; indeed, they have even suggested
+that Congress should directly amend the federal rules to include victims' rights. 116 The Judiciary would be well advised not to
+ignore these lobbying efforts. Victims have proven very effective at advancing legislation in Congress, particularly where they
+have legitimate grievances about how they have been treated. 117
+Moreover, allowing the initiative for drafting of rules to pass from the Judiciary to Congress is not ideal. The Advisory
+Committee on Federal Rules of Criminal Procedure includes many skilled [*856] members with considerable experience in
+drafting rules. The Committee is well aware of the CVRA. Shortly after the passage of the CVRA, the Committee withdrew a
+modest victim amendment it was proposing in anticipation of the need to make more extensive changes, 118 and is already
+working on proposed amendments to the rules. 119 It is preferable to have victims integrated into the federal rules through
+careful drafting by the Committee rather than by the potentially blunderbuss approach of direct congressional action.
+For all these reasons, the Federal Rules of Criminal Procedure should be comprehensively amended to recognize the interests
+of crime victims and thereby to allow victims to be full participants in the criminal process.
+IV. Proposed Amendments to the Federal Rules of Criminal Procedure To Implement the CVRA
+With the goal of effectively implementing the CVRA firmly in mind, the remainder of this Article proposes twenty-eight
+specific rule changes for consideration by the Advisory Committee on Criminal Rules. The individual sections that follow first
+110
+18 U.S.C.A. 3771(a)(4) (Victims have "the right to be … heard" at any public proceeding "involving … [a] plea.").
+111
+150 Cong. Rec. S4262 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein).
+112
+Id. at S4271 (statement of Sen. Leahy).
+113
+California v. Am. Stores Co., 495 U.S. 271, 279 n.4 (1990) (quoting Cia. Petrolera Caribe, Inc. v. Arco Caribbean, Inc., 754 F.2d 404,
+428 (1st Cir. 1990)).
+114
+150 Cong. Rec. S4269 (daily ed. Apr. 22, 2004) (statement of Sen. Kyl).
+115
+Id. (statement of Sen. Feinstein).
+116
+Interview with Steve J. Twist, Nat'l Victims' Constitutional Amendment Network (March 11, 2005).
+117
+See supra notes 27-34 and accompanying text (recounting victims' legislation passed by Congress).
+118
+See infra note 223 and accompanying text.
+119
+Telephone interview with Judge Susan C. Bucklew, Chair, Adv. Comm. on Fed. Rules of Criminal Procedure (May 2005).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *856
+Page 13 of 52
+recite a specific proposed change followed by the rationale for that change as both a matter of law and of policy. For
+convenience, this Article discusses the proposed changes sequentially, beginning with Rule 1.
+Rule 1 - Definition of "Victim"
+The Proposal:
+Rule 1 should be amended to include the following definition of a victim:
+"Victim" means a person directly and proximately harmed as a result of the commission of a federal offense or an offense in the
+District of Columbia. In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the
+legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons
+appointed as [*857] suitable by the court, may assume the crime victim's rights under these rules, but in no event shall the
+defendant be named as such guardian or representative.
+The Rationale:
+The CVRA directly defines "victim" using this language, 120 which ought to be folded into the rules for convenience. The
+rules currently define such terms as "attorney for the government," "federal judge," and "petty offense." 121 "Victim" should
+likewise be defined.
+A definition is required for a second reason: Rule 32 currently contains a differing definition of "victim" as "an individual
+against whom the defendant committed an offense for which the court will impose sentence." 122 Because that definition varies
+from that mandated by the CVRA, it must be changed. Furthermore, the CVRA's definition comes with an interpretative
+history. 123 The CVRA's definition of "victim" is taken almost verbatim from the 1996 Mandatory Victims Restitution Act
+(MVRA). 124 In turn, the MVRA drew on the 1982 Victim Witness Protection Act (VWPA). 125 As a result, the CVRA uses a
+definition of "victim" that is more than twenty-two years old and that has not produced major administrative or definitional
+problems. Courts will be able to draw from that history to determine who qualifies as a "victim." 126
+120
+18 U.S.C.A. 3771(e) (West 2004 & Supp. 2005).
+121
+See Fed. R. Crim. P. 1(b)(1), 1(b)(3), 1(b)(8).
+122
+Id. at 32(a)(2).
+123
+See generally Beloof, Cassell & Twist, supra note 15, at 49-69 (reviewing different definitions of "victim" for purposes of crime victims'
+legislation).
+124
+See 18 U.S.C. 3663A(a)(2). For differences from the old law, see Twist, supra note 2.
+125
+See 18 U.S.C. 3663(a)(2).
+126
+See, e.g., Hughey v. United States, 495 U.S. 411 (1990) (holding that VWPA limited "victim" to victims of the actual offense of
+conviction so that district court could not order restitution on basis of charges that were dropped as part of plea agreement); United States v.
+Follet, 269 F.3d 996 (9th Cir. 2001) (holding that a free clinic was not a "victim" of the defendant's rape of his niece); Moore v. United
+States, 178 F.3d 994 (8th Cir. 1999) (holding that a bank customer was "victim" of attempted bank robbery under MVRA where defendant
+pointed a sawed-off shotgun at the customer and the teller, who were standing only two feet apart, while demanding money), cert. denied,
+528 U.S. 943 (1999); United States v. Sanga, 967 F.2d 1332 (9th Cir. 1992) (holding that foreign national who conspired to be brought into
+United States illegally was still a "victim" of the conspiracy where her smuggler threatened her life and forced her to work as live-in maid
+once she had arrived); United States v. Bedonie, 317 F. Supp. 2d 1285 (D. Utah 2004) (holding that "victim" in manslaughter case under
+MVRA was murdered person himself and not the estate), rev'd on other grounds, United States v. Serawop, 410 F.3d 656 (10th Cir. 2005).
+See generally John F. Wagner, Jr., Annotation, Who Is a "Victim," So as To Be Entitled to Restitution Under Victim and Witness Protection
+Act, 108 A.L.R. Fed. 828 (2005).
+A few new issues will need to be litigated. For example, the Hughey case noted above conflicts with the views of Senator Jon Kyl, cosponsor
+of the CVRA, who explained that the definition of "victim" in the CVRA is an intentionally broad definition because "all victims of
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *857
+Page 14 of 52
+[*858] Rule 1 also appears to be the best place to include the CVRA's language about a "representative" of a victim. This
+language, too, draws from the restitution statutes. 127
+Rule 2 - Fairness to Victims in Construction
+The Proposal:
+Rule 2 should be amended to require fairness to victims in construing the rules as follows:
+These rules are to be interpreted to provide for the just determination of every criminal proceeding, to secure simplicity in
+procedure and fairness in administration to the government, defendants, and victims, and to eliminate unjustifiable expense and
+delay.
+The Rationale:
+The CVRA broadly mandates that victims have the right to "be treated with fairness and with respect for the victim's dignity
+and privacy." 128 This creates a substantive right to fairness, similar to that found in various state victims' rights amendments -
+including the [*859] amendment found in Senator Kyl's home state of Arizona. 129 This broad reading was explained by
+Senator Kyl, who, along with Senators Feinstein and Hatch, was the primary legislative sponsor of the CVRA: "The broad
+rights articulated in this section are meant to be rights themselves and are not intended to just be aspirational. One of these
+rights is the right to be treated with fairness. Of course, fairness includes the notion of due process." 130
+In light of victims' new substantive right to fairness, Rule 2 should be amended to make clear that all of the rules must be
+construed to be fair to victims no less than to the government and defendants.
+(New) Rule 10.1 - Notice of Proceedings for Victims
+The Proposal:
+A new Rule 10.1 should be added to guarantee victims their right to notice of proceedings as follows:
+Rule 10.1 Notice to Victims.
+crime deserve to have their rights protected, whether or not they are the victim of the count charged." See 150 Cong. Rec. S10,910-01 (daily
+ed. Oct. 9, 2004) (statement of Sen. Kyl). At least one court has suggested that, as a matter of discretion, it is desirable to notify even victims
+of uncharged conduct under the CVRA. See United States v. Turner, 367 F. Supp. 2d 319, 327 (E.D.N.Y. 2005) (concluding that, absent
+reason to think otherwise, any person who the government asserts has been harmed by a crime or who self-identifies as such qualifies as a
+"victim"); cf. In re W.R. Huff Asset Mgmt. Co., 409 F.3d 555, 561 (2d Cir. 2005) (holding that the CVRA does not grant victims any rights
+against individuals not convicted of a crime, but the government can attempt to obtain voluntary restitution from such persons).
+127
+See, e.g., 18 U.S.C. 3663A(a) (same definition of victim "representative").
+128
+18 U.S.C.A. 3771(a)(8) (West 2004 & Supp. 2005).
+129
+See, e.g., Ariz. Const. art. II, 2(A)(1) (victim's right "to be treated with fairness, respect, and dignity"); see also Alaska Const. art. I, 24
+(victim's right "to be treated with dignity, respect, and fairness during all phases of the criminal and juvenile justice process"); Idaho Const.
+art. I, 22 (victim's right "to be treated with fairness, respect, dignity and privacy throughout the criminal justice process"); Ill. Const. art. I, 8.1
+(victims "to be treated with fairness and respect for their dignity"); Mich. Const. art. I, 24 (victims "to be treated with fairness and respect for
+their dignity and privacy throughout the criminal justice process"); N.J. Const. art. I, P 22 (victim's right to "be treated with fairness,
+compassion and respect by the criminal justice system"); N.M. Const. art. II, 24 (the "right to be treated with fairness and respect for the
+victim's dignity and privacy throughout the criminal justice process"); Ohio Const. art. I, 10a (victims "shall be accorded fairness, dignity,
+and respect in the criminal justice process"); Tex. Const. art. I, 30(a)(1) ("right to be treated with fairness and with respect for the victim's
+dignity and privacy throughout the criminal justice process"); Utah Const. art. I, 28(1)(a) (victim's right to be "treated with fairness, respect,
+and dignity"); Wis. Const. art. I, 9m (victim's right to be treated with "fairness, dignity and respect for their privacy"). See generally Cassell,
+supra note 15, at 1387-88 (discussing victims' right to fairness in Utah).
+130
+150 Cong. Rec. 4269 (daily ed. Apr. 22, 2004) (statement of Sen. Kyl).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *859
+Page 15 of 52
+(a) Identification of Victim. During the prosecution of a case, the attorney for the government shall, at the earliest reasonable
+opportunity, identify the victims of the crime.
+[*860]
+(b) Notice of Case Events. During the prosecution of a crime, the attorney for the government shall make reasonable efforts to
+provide victims the earliest possible notice of:
+(1) The scheduling, including scheduling changes and/or continuances, of each court proceeding that the victim is either
+required to attend or entitled to attend;
+(2) The release or detention status of a defendant or suspected offender;
+(3) The filing of charges against a defendant, or the proposed dismissal of all charges, including the placement of the defendant
+in a pretrial diversion program and the conditions thereon;
+(4) The right to make a statement about pretrial release of the defendant;
+(5) The victim's right to make a statement about acceptance of a plea of guilty or nolo contendere;
+(6) The victim's right to attend public proceedings;
+(7) If the defendant is convicted, the date and place set for sentencing and the victim's right to address the court at sentencing;
+and
+(8) After the defendant is sentenced, the sentence imposed and the availability of the Bureau of Prisons notification program,
+which shall provide the date, if any, on which the offender will be eligible for parole or supervised release.
+(c) Multiple Victims. The attorney for the government shall advise the court if the attorney believes that the number of victims
+makes it impracticable to provide personal notice to each victim. If the court finds that the number of victims makes it
+impracticable to give personal notice to each victim desiring to receive notice, the court shall fashion a reasonable procedure
+calculated to give reasonable notice under the circumstances.
+The Rationale:
+This proposed change stems from the CVRA's requirement that victims have the "right to reasonable, accurate, and timely
+notice of [*861] any public court proceeding … involving the crime." 131 Senator Feinstein explained the importance of
+giving victims notice:
+Victims are the persons who are directly harmed by the crime and they have a stake in the criminal process because of that
+harm. Their lives are significantly altered by the crime and they have to live with the consequences for the rest of their lives. To
+deny them the opportunity to know of and be present at proceedings is counter to the fundamental principles of this country. It
+is simply wrong. 132
+Under the CVRA, then, victims of the crime allegedly committed by the defendant 133 are entitled to notice of court
+proceedings. The tricky issue is who should provide that notice to victims. This responsibility must fall on prosecutors and their
+investigative agents for several reasons. First, prosecutors and their agents are the only parties who know the identity of the
+victims at the outset of the case. After a bank robbery, for example, it is the FBI agents who respond and interview the tellers.
+131
+18 U.S.C.A. 3771(a)(2).
+132
+150 Cong. Rec. S4268 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein); see also id. at S4267 (statement of Sen. Kyl) ("It does not
+make sense to enact victims' rights that are rendered useless because the victim never knew of the proceeding at which the right had to be
+asserted.").
+133
+See United States v. Guevara-Toloso, 2005 U.S. Dist. LEXIS 9762 (E.D.N.Y. 2005) (noting that CVRA requires notice to victims of the
+crime charged against the defendant but not notice to victims of any previous crimes the defendant may have committed).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *861
+Page 16 of 52
+Second, prosecutors and their agents continue dealing with victims throughout the course of a prosecution. They work with
+victims in investigating the crime, identifying potential defendants, preparing the indictment, and presenting evidence to the
+grand jury and at trial. Because of this working relationship, prosecutors are best situated to provide notice in most cases.
+Third, most crime victims lack legal counsel and are unfamiliar with federal criminal proceedings. They may need assistance
+from someone familiar with the process to understand what is happening. United States Attorneys' offices, including the victimwitness
+components in those offices, are well situated to provide that assistance. As the President's [*862] Task Force of
+Victims of Crime concluded, the prosecutor is "in the best position to explain to victims the legal significance of various
+motions and proceedings." 134 For all these reasons, prosecutors should notify victims of their rights and of upcoming
+hearings. 135 Most states that have addressed the issue follow this approach. 136
+The Justice Department appears to agree that it should notify victims. In the 2000 Attorney General Guidelines for Victim and
+Witness Assistance, the Department required prosecutors and their [*863] agents to provide notice to crime victims. In
+particular, the Guidelines currently obligate prosecutors to provide victims with "the earliest possible notice" of:
+(a) The release or detention status of an offender or suspected offender … .
+(b) The filing of charges against a suspected offender, or the proposed dismissal of all charges … .
+(c) The scheduling, including scheduling changes and/or continuances, of each court proceeding that the victim or witness is
+either required to attend or entitled to attend … .
+(d) The acceptance of a plea of guilty or nolo contendere or the rendering of a verdict after trial … .
+(e) If the offender is convicted, the date set for sentencing, the sentence imposed … . 137
+134
+President's Task Force on Victims of Crime, Final Report 64 (1982).
+135
+But cf. United States v. Turner, 367 F. Supp. 2d 319, 328 (E.D.N.Y. 2005) (concluding that, in the absence of a national rule requiring
+prosecutors to provide notice to victims, the court would direct the prosecutor to provide the name and contact information of each victim so
+that the court can ensure that notice is properly given).
+136
+See, e.g., Ala. Code 15-23-62(8) (2000) (requiring law enforcement officers to give victims initial description of their rights and "the
+name and telephone number of the office of the prosecuting attorney to contact for further information"); Ariz. Rev. Stat. 13-4409 (2001)
+(requiring prosecutor to provide notice to victim of criminal proceedings; Conn. Gen. Stat. Ann. 51-286e (2000) (requiring prosecutor to
+notify victim of any judicial proceedings related to the case); Del. Code Ann. tit. 11, 9411 (2001) (requiring Attorney General to provide
+information to victim including "notice of the scheduling of court proceedings and changes including trial date, case review and sentencing
+hearings"); Ga. Code Ann. 17-17-8(b) (2004) (requiring prosecutor where possible to give victim "prompt advance notification of any
+scheduled court proceedings"); Ky. Rev. Stat. Ann. 421.500.5 (LexisNexis 1992) (requiring prosecutor to provide victim "prompt notification,
+if possible, of judicial proceedings relating to the case"); Me. Rev. Stat. Ann. tit. 15, 6101 (2003) (requiring prosecutor to provide victims of
+certain crimes notice of any plea agreement and of trial date); Mass. Gen. Laws Ann. ch. 258B, 3 (West 2004) (requiring prosecutor to give
+victims notice of various rights); Mich. Comp. Laws Ann. 780.755(1) (West 1998) (requiring prosecutor to give victims notice of court
+proceedings); Minn. Stat. Ann. 611A.03 (West 2003) (requiring prosecutor to give victim notice of plea agreement and sentencing hearing);
+N.M. Stat. Ann. 31-26-9(B) (LexisNexis 2004) (requiring prosecutor to provide victim with notice of scheduled court proceedings); N.Y.
+[Executive] Law. 646a (McKinney 2005) (requiring prosecutor to provide notice of court proceedings); S.D. Codified Laws 23A-28C-1
+(2004) (requiring prosecutor to notify victim of certain hearings); Tenn. Code Ann. 40-38-103 (2003) (requiring prosecutor to notify victim of
+"times, dates, and locations of all pertinent stages in the proceedings"); Tex. Code Crim. Proc. Ann. art. 56.08(b) (Vernon 2004) (requiring
+prosecutor to give victim notice of court proceedings); Utah Code Ann. 77-38-3 (2004) (requiring prosecutor to give victim notice of
+"important criminal justice hearings"); Wis. Stat. Ann. 972.14(2m) (West 1998) ("Before pronouncing sentence, the court shall inquire of the
+district attorney whether he or she has complied with 971.095(2) and with sub. (3)(b), whether any of the victims of a crime considered at
+sentencing requested notice of the date, time and place of the sentencing hearing and, if so, whether the district attorney provided to the
+victim notice of the date, time and place of the sentencing hearing."); Wyo. Stat. Ann. 1-40-204(b)(i) (2004) (requiring prosecutor to inform
+victim about all hearings). But see Ohio Rev. Code Ann. 2930.06(C) (2005) (requiring court to give notice to victim of court proceedings).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *863
+Page 17 of 52
+To avoid creating only significant new responsibilities for prosecutors and their agents, the proposed new Rule 10.1 is lifted
+essentially verbatim from the 2000 Attorney General Guidelines for Victim and Witness Assistance. The 2005 revisions to the
+Guidelines continue essentially the same requirements. 138
+The drafters of the CVRA also appear to believe that the notification obligations will fall primarily on prosecutors' offices, as
+the CVRA authorizes an appropriation of $ 22,000,000 over the next five fiscal years to the Office for Victims of Crime of the
+Department of Justice for enhancement of victim notification systems. 139 [*864] Presumably, those enhanced new
+notification systems can be used to keep victims apprised of court proceedings. Moreover, the CVRA directs that the
+Department of Justice and its investigative agencies "shall make their best efforts to see that crime victims are notified of, and
+accorded, the rights described in subsection (a)." 140
+Proposed new Rule 10.1 adds only two new obligations beyond those found in the 2000 Attorney General Guidelines: (1)
+notice to victims of their right to make a statement regarding any proposed plea, and (2) notice to victims of their right to attend
+public proceedings. Both of these obligations are currently found in the 2005 Guidelines. 141
+One last issue deserves brief discussion: Is it proper for the Judiciary, through the rule-making process, to command another
+branch of government to take certain actions? 142 The starting point for analyzing this question is the congressional command
+in the CVRA that the executive branch must protect victims' rights. 143 Consequently, implementing these rights through rule
+changes presents no question of the courts inventing new rights or exercising some kind of "supervisory" power over federal
+agents. 144 Instead, the implementation is simply enforcing congressionally created rights through the Judiciary's
+congressionally authorized rulemaking authority - an uncontroversial exercise of judicial power. 145 Moreover, in the CVRA,
+Congress commanded the courts to "ensure that the crime victim is afforded the rights described [in the CVRA]." 146 Rule
+changes needed to implement the CVRA thus rest [*865] on this statutory authority as well. Additionally, this Article's
+proposals affecting prosecutors are closely connected to court proceedings; they deal with such things as prosecutors notifying
+victims of hearings and conferring with victims in anticipation thereof. It is difficult to see new separation of powers concerns
+arising in such contexts so closely connected to the courtroom.
+137
+See 2000 A.G. Guidelines, supra note 38; see also U.S. Dept. of Justice, Office for Victims of Crime, New Directions from the Field:
+Victims' Rights and Services for the 21st Century 82 (1998) ("Prosecutors' offices should notify victims in a timely manner" of all significant
+hearings.).
+138
+See 2005 A.G. Guidelines, supra note 38, at 27-29 (providing for notice to victims, although relying on the department's Victim
+Notification Systems (VNS) to do this).
+139
+See 118 Stat. 2260, 2264 (2004); see also 150 Cong. Rec. S4267 (daily ed. Apr. 22, 2004) (statement of Sen. Kyl) ("We authorized an
+appropriation of funds to assure … that moneys would be made available to enhance the victim notification system, managed by the
+Department of Justice's Office for Victims of Crime, and the resources additionally to develop state-of-the-art systems for notifying crime
+victims of important statements of development) (emphasis added). But cf. id. (discussing court notification of attorneys of record and
+concluding "it is a relatively simple matter to add another name and telephone number or address to that list").
+140
+18 U.S.C.A. 3771(c)(1) (West 2004 & Supp. 2005) (emphasis added).
+141
+See 2005 A.G. Guidelines, supra note 38, at 27 (prosecutors to notify victims of all their rights under the CVRA).
+142
+Victims cannot rely on the provisions of the Attorney General Guidelines to protect their rights because the Guidelines themselves state
+that they "are not intended to … and may not be relied upon to create any rights … enforceable at law by any person in a matter civil or
+criminal." 2005 A.G. Guidelines, supra note 38, at 27.
+143
+18 U.S.C.A. 3771(c)(1).
+144
+Cf. Sarah Sun Beale, Reconsidering Supervisory Power in Criminal Cases: Constitutional and Statutory Limits on the Authority of the
+Federal Courts, 84 Colum. L. Rev. 1433 (1984) (discussing more problematic applications of judicial power).
+145
+See id. at 1476-77; 28 U.S.C. 2071, 2072 (establishing court rule-making power).
+146
+18 U.S.C. 3771(b) (emphasis added).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *865
+Page 18 of 52
+Furthermore, the Federal Rules of Criminal Procedure already direct executive branch actions less directly connected to court
+hearings. For instance, Rule 16 directs that prosecutors must turn over various discoverable items to the defendant. 147 Rule 41
+directs federal agents serving a warrant to leave a copy for the person whose premises are searched. 148 And, most
+controversially, Rule 5 directs that federal agents making an arrest "must take the defendant without unnecessary delay" before
+a judicial officer. 149 The kinds of rule changes discussed in this Article are far less invasive than these commands. Finally, it
+should be remembered that federal prosecutors serve as "officers of the court." 150 In that capacity, the court can be reasonably
+expected to facilitate victims' involvement in the criminal justice process. 151 For all of these reasons, this proposed rule breaks
+no new ground in directing prosecutors to notify victims of courtroom proceedings.
+Rule 11(a)(3) - Victims' Views on Nolo Contendere Pleas
+The Proposal:
+Rule 11's procedures on pleas should be revised to allow victims to express their views on any plea of nolo contendere before
+the court decides whether to accept it as follows:
+[*866]
+(a)(3) Nolo Contendere Plea. Before accepting a plea of nolo contendere, the court must consider the parties' and victims' views
+and the public interest in the effective administration of justice.
+The Rationale:
+As discussed at greater length in the immediately following sections, the CVRA gives victims the right to be heard regarding
+any plea, presumably including any nolo contendere plea. It is a natural corollary that the court should consider the victim's
+views before accepting any such plea.
+Rule 11(b)(4) - Victims' Right To Be Heard on Pleas
+The Proposal:
+The court should address any victim present in court when taking a plea in order to determine whether the victim wishes to
+make a statement and to consider the victim's view before accepting a plea as follows:
+(4)[cfn ]Victims' Views. Before the court accepts a plea of guilty or nolo contendere or allows any plea to be withdrawn, the
+court must address any victim who is present personally in open court. During this address, the court must determine whether
+the victim wishes to present views regarding the proposed plea or withdrawal and, if so, what those views are. The court shall
+consider the victim's views in acting on the proposed plea or withdrawal.
+The Rationale:
+The CVRA gives victims the right "to be reasonably heard at any public proceeding in the district court involving … [a] plea."
+152 Many states afford victims similar rights. 153 The rationale for a [*867] victim's right to be heard regarding a plea is to
+147
+Fed. R. Crim. P. 16(a)(1).
+148
+Id. at 41(f)(3).
+149
+Id. at 5(a)(1). See generally, Office of Legal Policy, Report to the Att'y Gen. on the Judiciary's Use of Supervisory Power To Control Law
+Enforcement Action (Dec. 15, 1986), reprinted in 22 Mich. J.L. & Reform 773 (1989).
+150
+See United States v. Sells Eng., Inc., 463 U.S. 418, 466 (Burger, C.J., dissenting).
+151
+See, e.g., State v. Casey, 44 P.3d 756 (Utah 2002), discussed infra notes 163-66 and accompanying text.
+152
+18 U.S.C.A. 3771(a)(4) (West 2004 & Supp. 2005); see In re Kari Ann Jacobsen, 2005 U.S. App. LEXIS 13990 (D.C. Cir. 2005) (noting
+victim's right to be heard on pleas).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *867
+Page 19 of 52
+provide the judge with as much information as possible. The court is under no obligation to accept a plea proposed by the
+parties. 154 After hearing from the victim about the plea, the court can determine what weight to give to the victim's views. 155
+To implement the victim's right to be heard regarding a plea, the proposed rule change requires the court to directly address any
+victim present in court. This is consistent with the CVRA's legislative history that explains that "this provision is intended to
+allow crime victims to directly address the court in person." 156 The language of the proposed rule is lifted from an earlier
+paragraph in Rule 11, which requires the court to "address the defendant personally in open court" "before accepting a plea of
+guilty." 157 Victims should be treated even-handedly. It may be important for the judge to address victims directly because
+many victims will lack the assistance of counsel. As novices in legal proceedings, victims may be uncertain about exactly when
+in the process they should present their views. By addressing victims, the court will eliminate that uncertainty and ensure that
+the victim's right to be heard is vindicated.
+[*868]
+Rule 11(c)(1) - Prosecution To Consider Victims' Views on Pleas
+The Proposal:
+The prosecution should be required to consider the victims' views in developing any proposed plea arrangement as follows:
+(1) In General. An attorney for the government and the defendant's attorney, or the defendant when proceeding pro se, may
+discuss and reach a plea agreement. The court must not participate in these discussions. The attorney for the government shall
+make reasonable efforts to notify identified victims of, and consider the victims' views about, any proposed plea negotiations. If
+the defendant pleads guilty or nolo contendere to either a charged offense or a lesser or related offense, the plea agreement may
+specify that an attorney for the government will … .
+The Rationale:
+The proposed change requires prosecutors to make reasonable efforts to notify victims about possible plea bargains and to
+consider the victim's views regarding those pleas. This requirement is taken essentially verbatim from the Attorney General
+Guidelines for Victim and Witness Assistance, which direct prosecutors to "make reasonable efforts to notify identified victims
+153
+See, e.g., Conn. Const. art. 1, 8 (giving victim right to be heard and to object to plea agreement); Mo. Const. art. 1, 32 (giving victim right
+to be heard at plea hearing); Utah Const. art. I, 28(1)(b) (giving victim the "right to be heard at important criminal justice hearings related to
+the victim"); Ala. Code 15-23-71 (2000) (giving victim right to be present at plea hearing and requiring prosecutor to confer with victim
+about plea); Ariz. Rev. Stat. 13-4423 (2001) (giving victim right to be present and heard at plea hearing and requiring prosecutor to confer
+with victim about plea); Minn. Stat. Ann. 611A.03 (West 2003) (giving victim right to be heard at plea hearing); Miss. Code Ann. 99-43-33
+(2000) (giving victim right to make statement at plea hearing); N.H. Rev. Stat. 21-M:8-k (2000) (giving victim right to be heard at plea
+hearing); R.I. Stat. 12-28-4.1 (2000) (giving victim right to make statement at plea hearing). See generally Beloof, Cassell & Twist, supra
+note 15, at 476-94 (discussing victims and pleas); Sarah N. Welling, Victim Participation in Plea Bargains, 65 Wash. U. L.Q. 301 (1987).
+154
+See, e.g., United States v. Bean, 564 F.2d 700 (5th Cir. 1977).
+155
+But cf. George P. Fletcher, With Justice for Some: Victims' Rights in Criminal Trials 252, 257-58 (1995) (proposing that victims have a
+veto over any plea); Bennett L. Gershman, Crimes Against Victims: The Prosecutor's Duty of Neutrality, 9 Lewis & Clark L. Rev.
+(forthcoming 2005) (discussing situations in which victims have effectively been given a veto over pleas); Karen L. Kennard, Comment, The
+Victim's Veto: A Way To Increase Victim Impact on Criminal Case Dispositions, 77 Cal. L. Rev. 417, 437 (1989) (advocating that victims be
+given a veto over any plea).
+156
+150 Cong. Rec. S4268 (daily ed. Apr. 22, 2004) (statement of Sen. Kyl).
+157
+Fed. R. Crim. P. 11(b)(2).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *868
+Page 20 of 52
+of, and consider victims' views about, prospective plea negotiations." 158 Twenty-nine states already require prosecutors to
+"consult with" or "obtain the views of" victims at the plea agreement stage. 159
+The proposed rule helps to implement not only a victim's right to be heard at plea proceedings but also the right to "confer with
+the attorney for the Government." 160 Given that victims have the right to confer, the conferring should take place at the most
+salient points in the process. As Senator Feinstein explained, "This right [to confer] is intended to be expansive. For example,
+the victim has the [*869] right to confer with the Government concerning any critical stage or disposition of the case." 161
+Because the overwhelming majority of federal criminal cases are resolved by a plea, a conference between the victim and the
+prosecutor regarding the plea will be critical in most cases. Reflecting that fact, the rules should follow the approach taken by
+the majority of states, directing prosecutors to consult with victims about pleas.
+Rule 11(c)(2) - Court To Be Advised of Victim Objections to Plea
+The Proposal:
+Prosecutors (and victims' attorneys) should be required to advise the court whenever they are aware that the victim objects to a
+proposed plea agreement as follows:
+(2) Disclosing a Plea Agreement. The parties must disclose the plea agreement in open court when the plea is offered, unless
+the court for good cause allows the parties to disclose the plea agreement in camera. When a plea is presented in open court, the
+attorney for the government or the attorney for any victim shall advise the court when the attorney is aware that the victim has
+any objection to the proposed plea agreement.
+The Rationale:
+When an attorney for the victim or for the government is aware that a victim objects to a plea, that information should be
+relayed to the court. In those rare cases where the victim has an attorney, the attorney will obviously raise the victim's
+objection. The proposed rule change clarifies the prosecutor's corresponding and equal obligation to communicate this
+information to the court.
+The CVRA appears to obligate prosecutors to relay a victim's objection to the court, commanding them to use their "best
+efforts" to enforce victims' rights. 162 Part of those "best efforts" would seem to be conveying objections to the court. Victims
+are often untrained in the law and unexpectedly thrust into criminal proceedings; they may well believe that prosecutors
+automatically relay to the court [*870] their objections to the plea. The proposed rule avoids such confusion by requiring the
+prosecutor to notify the court of a victim's concern. The rule is limited to situations where the prosecutor is aware of an
+objection.
+This approach is consistent with the instructive case of State v. Casey, 163 which considered whether a victim's objection to a
+plea made to a prosecutor was sufficient to trigger the victim's right to be heard under the Utah Constitution. 164 In Casey, the
+victim told the prosecutor that she opposed a plea arrangement. The prosecutor refused to convey the victim's concern to the
+158
+2005 A.G. Guidelines, supra note 38, at 30 (defining what can be considered in determining whether notice is reasonable in a particular
+case); see also Office for Victims of Crime, supra note 137, at 75 ("Prosecutors should make every effort … to consult with the victim on the
+terms of any negotiated plea … .").
+159
+Office for Victims of Crime, supra note 137, at 75.
+160
+18 U.S.C.A. 3771(a)(5) (West 2004 & Supp. 2005).
+161
+150 Cong. Rec. S4268 (daily ed. Apr. 22, 2004) (statement of Sen. Feinstein).
+162
+18 U.S.C.A. 3771(c).
+163
+44 P.3d 756 (Utah 2002). I represented the victim in this case.
+164
+See generally Nicole G. Farrell, Recent Case Development, 2003 Utah L. Rev. 716.
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *870
+Page 21 of 52
+court, and the trial judge accepted the plea. The victim then obtained legal counsel and appealed to the Utah Supreme Court,
+urging that under the Utah Victims' Rights Amendment, her right to be heard regarding a plea had been violated. The State
+responded that the victim was obligated to ask the trial court directly to be heard rather than relying on the prosecutor to pass
+that information along. In rejecting the State's argument, the Utah Supreme Court explained that prosecutors, no less than other
+actors in the criminal justice system, were required to assist victims throughout the process. 165 More important for present
+purposes, the court also concluded that prosecutors had ethical obligations as officers of the court to convey that information to
+the judge:
+Prosecutors must convey such requests [to be heard] because they are obligated to alert the court when they know that the court
+lacks relevant information. This duty, which is incumbent upon all attorneys, is magnified for prosecutors because, as our case
+law has repeatedly noted, prosecutors have unique responsibilities… . The prosecutor is the representative not of an ordinary
+party to a controversy, but of a sovereignty whose obligation to govern impartially is as compelling as its obligation to govern
+at all; and whose interest … in a criminal prosecution is not that it shall win … but that justice shall be done. 166
+Applying the reasoning of Casey to analogous rights in the CVRA, federal prosecutors must, as officers of the court, convey a
+[*871] victim's request to be heard regarding a plea. Indeed, the prosecutor should convey not only the request to be heard but
+also the fact that the victim objects to the plea. In deciding whether to accept a plea, the court must consider the public interest.
+167 As the Tenth Circuit has explained, ""Rule 11 also contemplates the rejection of a negotiated plea when the district court
+believes that bargain is too lenient, or otherwise not in the public interest.'" 168 When the prosecutor is aware of an objection
+from a keenly interested member of the public - the victim - the court should not be left in the dark about it.
+An alternative way of drafting the rule is to require courts to inquire of prosecutors whether the victim has been advised of the
+proposed plea and whether the victim wishes to make a statement concerning it. 169 For example, Oregon requires the court to
+ask the prosecutor whether the victim has been consulted about a plea and, if so, what the victim's view is:
+Before the judge accepts a plea of guilty or no contest, the judge shall ask the district attorney if the victim requested to be
+notified and consulted regarding plea discussions. If the victim has made such a request, the judge shall ask the district attorney
+if the victim agrees or disagrees with the plea discussions and agreement and the victim's reasons for agreement or
+disagreement. 170
+South Dakota law contains a similar requirement that prosecutors disclose "any comments" by the victim about the plea. 171
+Texas law requires the court to ask the prosecutor whether a victim impact statement has been submitted; 172 if so, the court
+165
+Casey, 44 P.3d at 763.
+166
+Id. at 764 (internal quotations and citations omitted).
+167
+See, e.g., United States v. Bean, 564 F.2d 700 (5th Cir. 1977).
+168
+United States v. Carrigan, 778 F.2d 1454, 1462 (10th Cir. 1985) (emphasis added) (quoting United States v. Miller, 722 F.2d 562, 563
+(9th Cir. 1983)).
+169
+See Office for Victims of Crime, supra note 137, at 108 ("Judges should facilitate the input of crime victims into plea agreements … and
+they should request that prosecuting attorneys demonstrate that reasonable efforts were made to confer with the victim.").
+170
+Or. Rev. Stat. 135.406(1)(b) (2003).
+171
+S.D. Codified Laws 23A-7-9 (2004) ("The prosecuting attorney shall disclose on the record any comments on the plea agreement made by
+the victim, or his designee, of the defendant's crime to the prosecuting attorney.").
+172
+Tex. Code Crim. Proc. Ann. art. 26.13(e) (Vernon Supp. 2004) ("Before accepting a plea of guilty or a plea of nolo contendere, the court
+shall inquire as to whether a victim impact statement has been returned to the attorney representing the state and ask for a copy of the
+statement if one has been returned.").
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *871
+Page 22 of 52
+must review that [*872] statement. 173 Finally, before an Arizona court accepts a plea, the prosecutor must advise the court
+that reasonable efforts were made to confer with the victim about the plea and the victim's view regarding it. 174
+The rule proposed here is narrower than these state formulations: it requires only that a prosecutor confer with the victim about
+the plea and inform the court if the victim objects. For many significant categories of federal cases (e.g., typical drug
+trafficking offenses, felons in possession of a firearm, etc.), there will be no victim, much less a victim objection. In such cases,
+to require some sort of victim inquiry by the court or victim certification by the prosecutor would unnecessarily waste time.
+The proposed rule requires only that the prosecutor report a victim's objection - in which case the court will presumably want to
+more carefully consider whether to accept a plea.
+Rule 12.1 - Victim Addresses and Phone Numbers Not Disclosed for Alibi Purposes
+The Proposal:
+The Government currently must disclose the address and telephone numbers of any witnesses, including the victim, that it
+plans to use to disprove an alibi. This rule should be changed to protect the victim's privacy, excluding their information from
+this requirement.
+(b) Disclosing Government Witnesses.
+(1) Disclosure. If the defendant serves a Rule 12.1(a)(2) notice [regarding intent to present an alibi defense], an attorney for the
+government must disclose in writing to the defendant or the defendant's attorney:
+(A) the name, address, and telephone number of each witness and the address and telephone number of each witness (other than
+a victim) that the government intends [*873] to rely on to establish the defendant's presence at the scene of the alleged
+offense; and
+(B) each government rebuttal witness to the defendant's alibi defense
+… .
+(c) Continuing Duty to Disclose. Both an attorney for the government and the defendant must promptly disclose in writing to
+the other party the name of each additional witness, and the address and telephone number of each additional witness (other
+than a victim) if:
+(1) the disclosing party learns of the witness before or during trial; and
+(2) the witness should have been disclosed under Rule 12.1(a) or (b) if the disclosing party had known of the witness earlier.
+In addition, a similar change should be made to Rule 12.3 regarding the addresses and telephone numbers of victims who will
+be used to disprove a public-authority defense.
+The Rationale:
+This proposed change implements the victim's right to be "reasonably protected from the accused." 175 The victim cannot be
+reasonably protected if the defendant, without good reason, is given the victim's address and telephone number. The proposed
+rule strikes the current requirement that the prosecutor must automatically give the defendant the victim's address and telephone
+173
+See id.
+174
+Ariz. Rev. Stat. Ann. 13-4423(b)(1) (2001).
+175
+18 U.S.C.A. 3771(a)(1) (West 2004 & Supp. 2005).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *873
+Page 23 of 52
+number even without any showing of need. Nothing in the rule, however, would bar the defendant from requesting that
+information by filing an appropriate motion. The court could then determine whether any such motion had merit. 176
+[*874]
+Rule 15 - Victims' Right To Attend Pre-Trial Depositions
+The Proposal:
+Rule 15 should allow victims to attend any public deposition in a case as follows:
+(i) Victims Can Attend. A Victim can attend any public deposition taken under this rule under the same conditions as govern a
+victim's attendance at trial.
+The Rationale:
+Victims have the right "not to be excluded from any … public court proceeding," except in rare cases where their testimony
+will be materially affected. 177 Depositions authorized by Rule 15 are for the purpose of preserving evidence for trial, 178 and
+thus are effectively an extension of the trial. Victims accordingly have the right to attend such proceedings, if public, under the
+same conditions governing their attendance at trial. To avoid any confusion over this issue, the proposed rule change directly
+states that conclusion.
+Because victims can be excluded from the trial in certain rare situations where their testimony would be materially affected,
+179 they can likewise be excluded from a deposition in those situations. The proposed rule simply applies the limitations on
+attending trial to the deposition setting by providing that the "same conditions" apply to the victim's attendance at the
+deposition.
+[*875]
+Rule 17 - Victims' Right to Notice of Subpoena of Confidential Information
+The Proposal:
+Rule 17 regarding subpoenas should be modified to give victims notice before personal or confidential information is
+subpoenaed and to allow victims to file a motion to quash such a subpoena as follows:
+(h)(2) Victim Information. After indictment, no record or document containing personal or confidential information about a
+victim may be subpoenaed without a finding by the court that the information is relevant to trial and that compliance appears to
+be reasonable. If the court makes such a finding, notice shall then be given to the victim, through the attorney for the
+government or for the victim, before the subpoena is served. On motion made promptly by the victim, the court may quash or
+modify the subpoena if compliance would be unreasonable or oppressive.
+The Rationale:
+The existing rules governing subpoenas are flawed because they allow the parties to subpoena personal or confidential
+information about a victim from third parties without the victim's knowledge. This issue arose recently in the Utah state
+176
+Cf. United States v. Wills, 88 F.3d 704, 709-10 (9th Cir. 1996) (allowing delayed disclosure of alibi witness because witness feared for
+safety and defendant had violent history and allowing ex parte hearing because of need to keep identity of witness from the defendant).
+177
+18 U.S.C.A. 3771(a)(3).
+178
+See, e.g., United States v. Edwards, 69 F.3d 419, 437 (10th Cir. 1995).
+179
+18 U.S.C.A. 3771(a)(3), discussed infra notes 276-308 and accompanying text.
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *875
+Page 24 of 52
+criminal proceedings involving the kidnapping of Elizabeth Smart. Elizabeth was kidnapped from her home in Salt Lake City,
+Utah. She was found nearly nine months later with a local transient and his wife, who had taken Elizabeth at knifepoint. 180
+Attorneys for Elizabeth's alleged kidnapper subpoenaed class records from her high school - class and teacher lists, report
+cards, and disciplinary and attendance records - and medical records from her hospital. 181 While the hospital refused to turn
+over the requested records, the school willingly turned over the requested records without notice to the Smart family.
+Elizabeth's father learned about the subpoena only after her school records had already been turned over to defense counsel.
+The Smart family [*876] attorney then filed a motion to return the records to the school. Prosecutors in the case have objected
+to the fact that they were not given an opportunity to file a motion to quash. 182 The matter is still under review in state court.
+The problem that occurred in the Smart case under the Utah rules could also occur under the federal rules. 183 The federal rules
+currently allow the witness to whom the subpoena is issued to object, 184 but there is no provision for notifying the victim
+when personal or confidential information has been subpoenaed from another witness.
+Serving such subpoenas without notice to the victim violates the provisions of the CVRA guaranteeing victims the rights to be
+treated "with respect for the victim's dignity and privacy" and "with fairness." 185 Allowing subpoenas to go directly to thirdparty
+custodians of records can fail to protect privacy if the custodian is disinterested or disinclined to protect the victim's
+privacy. Such a scenario is not far-fetched; a third party who is subpoenaed will often have no interest in incurring legal fees to
+protect a victim's rights. Even if interested, third parties may not fully understand the sensitive nature of certain victim
+information. Victims may also have important statutory rights to protect. In the Elizabeth Smart case, for example, the school
+may have violated the Family Educational Rights and Privacy Act by turning over private information about Elizabeth. 186
+Subpoenas served without notice to victims may also raise constitutional concerns. 187 It is well settled that a right to privacy
+is implicitly incorporated within the protections guaranteed under the [*877] United States Constitution. The Supreme Court
+"has recognized that a right of personal privacy, or a guarantee of certain areas or zones of privacy, does exist under the
+Constitution." 188 Supreme Court precedent establishes two lines of privacy interests: (1) the "individual interest in avoiding
+disclosure of personal matters" and (2) "the interest in independence in making certain kinds of important decisions." 189 In
+essence, the right to privacy includes an individual's interest in making certain decisions that fundamentally affect his or her
+person "free from unwarranted governmental intrusion." 190 In light of interests such as these, several courts have held that
+crime victims' records - such as rape crisis counseling records - are not subject to subpoena. 191
+180
+See generally Ed Smart & Lois Smart with Laura Morton, Bringing Elizabeth Home: A Journey of Faith and Hope (2003).
+181
+Stephen Hunt, Defense Blasted for Obtaining Smart's School Records, Salt Lake Trib., Jan. 14, 2005, at B2.
+182
+Pat Reavy, Quash Smart Subpoenas, DA Says, Deseret Morning News, Feb. 1, 2005, at B3.
+183
+See Letter from Gregory G. Skordas, attorney for Elizabeth Smart, to Judge Susan Bucklew (May 23, 2005) (on file with author)
+(proposing changes to the federal rules to avoid recurrence of this problem in federal court).
+184
+Fed. R. Crim. P. 17(c).
+185
+18 U.S.C.A. 3771(a)(8).
+186
+Pat Reavy, Elizabeth Wants Records Returned, Deseret Morning News, Jan. 15, 2005, at B3; see 20 U.S.C. 1232g (2000) (establishing
+rights of privacy in educational records).
+187
+See generally Wendy J. Murphy, Using the Federal Courts To Make State Courts Respect Victims' Rights, 9 Lewis & Clark L. Rev.
+(forthcoming 2005) (discussing federal constitutional rights of privacy for victims' confidential records).
+188
+Roe v. Wade, 410 U.S. 113, 152 (1973).
+189
+Whalen v. Roe, 429 U.S. 589, 599-600 (1977).
+190
+Eisenstadt v. Baird, 405 U.S. 438, 453 (1972); see also Carey v. Population Servs. Int'l, 431 U.S. 678, 684-85 (1977).
+DAVID SCHOEN
+2005 B.Y.U.L. Rev. 835, *877
+Page 25 of 52
+The proposed new rule protects victims' statutory and potential constitutional interests in two ways. First, the court is required
+to make a preliminary determination that the subpoena seeks information relevant at trial and that compliance appears to be
+reasonable. This is consistent with the trial court's existing power to quash unreasonable subpoenas, including subpoenas
+directed at crime victims. 192 Second, if the court makes a preliminary determination that the subpoena is appropriate, the
+victim would then receive notice of the subpoena. To avoid harassment, the notice would be provided either through the
+victim's own attorney or, more commonly, through the prosecutor.
+The proposed rule makes no substantive change in the right of the party to obtain appropriate information through a subpoena.
+Instead, it merely changes procedures to ensure victims are treated fairly by having the opportunity to file a motion to quash
+where such [*878] a motion is appropriate. The court is then authorized to grant the victim's motion to quash under the same
+standards that already apply to other motions to quash - where compliance would be "unreasonable or oppressive." 193
+The proposed change does not interfere with the legitimate interests of the government or defendants. The change will not
+hamper government investigations because it applies only to subpoenas issued after indictment. Before indictment, a victim's
+privacy is protected through grand jury secrecy. After indictment, the only legitimate purpose for a subpoena by either the
+government or the defendant is to obtain testimony or evidence for trial or similar court hearing. Rule 17 does not permit a
+subpoena for discovery purposes, 194 although upon a proper showing a party can obtain pre-trial access to materials. 195
+Therefore, when challenged by a victim on a motion to quash, the party seeking the evidence will prevail upon a proper
+showing that the subpoena is appropriate. The only change made by the rule, then, is to require preliminary screening by the

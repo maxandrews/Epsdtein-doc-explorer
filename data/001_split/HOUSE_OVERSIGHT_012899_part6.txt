@@ -1,0 +1,1307 @@
+• The (directed) links of the graph represent probabilistically weighted transitions between
+state-sets
+Specifically, the weight of the link from B to A should be defined as
+where
+P (o(S, A, t(T ))|o(S, B, T ))
+o(S, A, T )
+denotes the presence of the system S in the state-set A during time-distribution T , and t() is
+a temporal succession function defined so that t(T ) refers to a time-distribution conceived as
+"after" T . A time-distribution is a probability distribution over time-points. The interaction of
+fuzziness and probability here is fairly straightforward and may be handled in the manner of
+PLN, as outlined in subsequent chapters. Note that the definition of link weights is dependent
+on the specific implementation of the temporal succession function, which includes an implicit
+time-scale.
+Suppose one has a transition graph corresponding to an environment; then a goal relative to
+that environment may be defined as a particular node in the transition graph. The goals of a
+particular system acting in that environment may then be conceived as one or more nodes in
+the transition graph. The system’s situation in the environment at any point in time may also
+be associated with one or more nodes in the transition graph; then, the system’s movement
+toward goal-achievement may be associated with paths through the environment’s transition
+graph leading from its current state to goal states.
+It may be useful for some purposes to filter the uncertain transition graph into a crisp
+transition graph by placing a threshold on the link weights, and removing links with weights
+below the threshold.
+The next concept to introduce is the world-mind transfer function, which maps world (environment)
+state-sets into organism (e.g. AI system) state-sets in a specific way. Given a world
+state-set W , the world-mind transfer function M maps W into various organism state-sets with
+various probabilities, so that we may say: M(W ) is the probability distribution of state-sets the
+organism tends to be in, when its environment is in state-set W . (Recall also that state-sets are
+fuzzy.)
+Now one may look at the spaces of world-paths and mind-paths. A world-path is a path
+through the world’s transition graph, and a mind-path is a path through the organism’s transi-
+180 10 A Mind-World Correspondence Principle
+tion graph. Given two world-paths P and Q, it’s obvious how to define the composition P ∗Q one
+follows P and then, after that, follows Q, thus obtaining a longer path. Similarly for mind-paths.
+In category theory terms, we are constructing the free category associated with the graph:
+the objects of the category are the nodes, and the morphisms of the category are the paths.
+And category theory is the right way to be thinking here we want to be thinking about the
+relationship between the world category and the mind category.
+The world-mind transfer function can be interpreted as a mapping from paths to subgraphs:
+Given a world-path, it produces a set of mind state-sets, which have a number of links between
+them. One can then define a world-mind path transfer function M(P ) via taking the mind-graph
+M(nodes(P )), and looking at the highest-weight path spanning M(nodes(P )). (Here nodes?
+obviously means the set of nodes of the path P .)
+A functor F between the world category and the mind category is a mapping that preserves
+object identities and so that
+F (P ∗ Q) = F (P ) ∗ F (Q)
+We may also introduce the notion of an approximate functor, meaning a mapping F so that
+the average of
+d(F (P ∗ Q), F (P ) ∗ F (Q))
+is small.
+One can introduce a prior distribution into the average here. This could be the Levin universal
+distribution or some variant (the Levin distribution assigns higher probability to computationally
+simpler entities). Or it could be something more purpose specific: for example, one can give
+a higher weight to paths leading toward a certain set of nodes (e.g. goal nodes). Or one can
+use a distribution that weights based on a combination of simplicity and directedness toward
+a certain set of nodes. The latter seems most interesting, and I will define a goal-weighted approximate
+functor as an approximate functor, defined with averaging relative to a distribution
+that balances simplicity with directedness toward a certain set of goal nodes.
+The move to approximate functors is simple conceptually, but mathematically it’s a fairly
+big step, because it requires us to introduce a geometric structure on our categories. But there
+are plenty of natural metrics defined on paths in graphs (weighted or not), so there’s no real
+problem here.
+10.4 The Mind-World Correspondence Principle
+Now we finally have the formalism set up to make a non-trivial statement about the relationship
+between minds and worlds. Namely, the hypothesis that:
+MIND-WORLD CORRESPONDENCE PRINCIPLE
+For an organism with a reasonably high level of intelligence in a certain world, relative to
+a certain set of goals, the mind-world path transfer function is a goal-weighted approximate
+functor.
+10.5 How Might the Mind-World Correspondence Principle Be Useful? 181
+That is, a little more loosely: the hypothesis is that, for intelligence to occur, there has to be a
+natural correspondence between the transition-sequences of world-states and the corresponding
+transition-sequences of mind-states, at least in the cases of transition-sequences leading to
+relevant goals.
+We suspect that a variant of the above proposition can be formally proved, using the definition
+of general intelligence presented in Chapter 7. The proof of a theorem corresponding to the
+above would certainly constitute an interesting start toward a general formal theory of general
+intelligence. Note that proving anything of this nature would require some attention to the
+time-scale-dependence of the link weights in the transition graphs involved.
+A formally proved variant of the above proposition would be in short, a "MIND-WORLD
+CORRESPONDENCE THEOREM."
+Recall that at the start of the chapter, we expressed the same idea as:
+MIND-WORLD CORRESPONDENCE-PRINCIPLE
+For a mind to work intelligently toward certain goals in a certain world, there should be a
+nice mapping from goal-directed sequences of world-states into sequences of mind-states, where
+"nice" means that a world-state-sequence W composed of two parts W 1 and W 2 , gets mapped
+into a mind-state-sequence M composed of two corresponding parts M 1 and M 2 .
+That is a reasonable gloss of the principle, but it’s clunkier and less accurate, than the
+statement in terms of functors and path transfer functions, because it tries to use only commonlanguage
+vocabulary, which doesn’t really contain all the needed concepts.
+10.5 How Might the Mind-World Correspondence Principle Be
+Useful?
+Suppose one believes the Mind-World Correspondence Principle as laid out above so what?
+Our hope, obviously, is that the principle could be useful in actually figuring out how to
+architect intelligent systems biased toward particular sorts of environment. And of course, this
+is said with the understanding that any finite intelligence must be biased toward some sorts of
+environment.
+Relatedly, given a specific AGI design (such as CogPrime), one could use the principle to
+figure out which environments it would be best suited for. Or one could figure out how to
+adjust the particulars of the design, to maximize the system’s intelligence in the environments
+of interest.
+One next step in developing this network of ideas, aside from (and potentially building on)
+full formalization of the principle, would be an exploration of real-world environments in terms
+of transition graphs. What properties do the transition graphs induced from the real world
+have?
+One such property, we suggest, is successive refinement. Often the path toward a goal involves
+first gaining an approximate understanding of a situation, then a slightly more accurate
+understanding, and so forth – until finally one has achieved a detailed enough understanding to
+actually achieve the goal. This would be represented by a world-path whose nodes are state-sets
+involving the gathering of progressively more detailed information.
+182 10 A Mind-World Correspondence Principle
+Via pursuing to the mind-world correspondence property in this context, I believe we will
+find that world-paths reflecting successive refinement correspond to mind-paths embodying successive
+refinement. This will be found to relate to the hierarchical structures found so frequently
+in both the physical world and the human mind-brain. Hierarchical structures allow many relevant
+goals to be approached via successive refinement, which I believe is the ultimate reason
+why hierarchical structures are so common in the human mind-brain.
+Another next step would be exploring what mind-world correspondence means for the structure
+and dynamics of a limited-resources intelligence. If an organism O has limited resources
+and, to be intelligent, needs to make
+P (o(O, M(A), t(T ))|o(O, M(B), T ))
+high for particular world state-sets A and B, then what’s the organism’s best approach?
+Arguably, it should represent M(A) and M(B) internally in such a way that very little computational
+effort is required for it to transition between M(A) and M(B). For instance, this could
+be done by coding its knowledge in such a way that M(A) and M(B) share many common bits;
+or it could be done in other more complicated ways.
+If, for instance, A is a subset of B, then it may prove beneficial for the organism to represent
+M(A) physically as a subset of its representation of M(B).
+Pursuing this line of thinking, one could likely derive specific properties of an intelligent
+organism’s internal information-flow, from properties of the environment and goals with respect
+to which it’s supposed to be intelligent.
+This would allow us to achieve the holy grail of intelligence theory as I understand it: given
+a description of an environment and goals, to be able to derive an architectural description for
+an organism that will display a high level of intelligence relative to those goals, given limited
+computational resources.
+While this “holy grail” is obviously a far way off, what we’ve tried to do here is to outline a
+clear mathematical and conceptual direction for moving toward it.
+10.6 Conclusion
+The Mind-World Correspondence Principle presented here – if in the vicinity of correctness –
+constitutes a non-trivial step toward fleshing out the concept of a general theory of general
+intelligence. But obviously the theory is still rather abstract, and also not completely rigorous.
+There’s a lot more work to be done.
+The Mind-World Correspondence Principle as articulated above is not quite a formal mathematical
+statement. It would take a little work to put in all the needed quantifiers to formulate
+it as one, and it’s not clear the best way to do so the details would perhaps become clear in the
+course of trying to prove a version of it rigorously. One could interpret the ideas presented in
+this chapter as a philosophical theory that hopes to be turned into a mathematical theory and
+to play a key role in a scientific theory.
+For the time being, the main role to be served by these ideas is qualitative: to help us think
+about concrete AGI designs like CogPrime in a sensible way. It’s important to understand what
+the goal of a real-world AGI system needs to be: to achieve the ability to broadly learn and
+generalize, yes, but not with infinite capability rather with biases and patterns that are implicitly
+and/or explicitly tuned to certain broad classes of goals and environments. The Mind-World
+10.6 Conclusion 183
+Correspondence Principle tells us something about what this "tuning" should involve – namely,
+making a system possessing mind-state sequences that correspond meaningfully to world-state
+sequences. CogPrime’s overall design and particular cognitive processes are reasonably well
+interpreted as an attempt to achieve this for everyday human goals and environments.
+One way of extending these theoretical ideas into a more rigorous theory is explored in Appendix
+??. The key ideas involved there are: modeling multiple memory types as mathematical
+categories (with functors mapping between them), modeling memory items as probability distributions,
+and measuring distance between memory items using two metrics, one based on
+algorithmic information theory and one on classical information geometry. Building on these
+ideas, core hypotheses are then presented:
+• a syntax-semantics correlation principle, stating that in a successful AGI system, these
+two metrics should be roughly correlated
+• a cognitive geometrodynamics principle, stating that on the whole intelligent minds
+tend to follow geodesics (shortest paths) in mindspace, according to various appropriately
+defined metrics (e.g. the metric measuring the distance between two entities in terms of the
+length and/or runtime of the shortest programs computing one from the other).
+• a cognitive synergy principle, stating that shorter paths may be found through the composite
+mindspace formed by considering multiple memory types together, than by following
+the geodesics in the mindspaces corresponding to individual memory types.
+The material is relegated to an appendix because it is so speculative, and it’s not yet clear
+whether it will really be useful in advancing or interpreting CogPrime or other AGI systems
+(unlike the material from the present chapter, which has at least been useful in interpreting
+and tweaking the CogPrime design, even though it can’t be claimed that CogPrime was derived
+directly from these theoretical ideas). However, this sort of speculative exploration is, in our
+view, exactly the sort of thing that’s needed as a first phase in transitioning the ideas of the
+present chapter into a more powerful and directly actionable theory.
+
+Section III
+Cognitive and Ethical Development
+
+Chapter 11
+Stages of Cognitive Development
+Co-authored with Stephan Vladimir Bugaj
+11.1 Introduction
+Creating AGI, we have said, is not only about having the right structural and dynamical
+possibilities implemented in the initial version of one’s system – but also about the environment
+and embodiment that one’s system is associated with, and the match between the system’s
+internals and these externals. Another key aspect is the long-term time-course of the system’s
+evolution over time, both in its internals and its external interaction – i.e., what is known as
+development.
+Development is a critical topic in our approach to AGI because we believe that much of
+what constitutes human-level, human-like intelligence emerges in an intelligent system due to
+its engagement with its environment and its environment-coupled self-organization. So, it’s not
+to be expected that the initial version of an AGI system is going to display impressive feats
+of intelligence, even if the engineering is totally done right. A good analogy is the apparent
+unintelligence of a human baby. Yes, scientists have discovered that human babies are capable
+of interesting and significant intelligence – but one has to hunt to find it ... at first observation,
+babies are rather idiotic and simple-minded creatures: much less intelligent-appearing than
+lizards or fish, maybe even less than cockroaches....
+If the goal of an AGI project is to create an AGI system that can progressively develop
+advanced intelligence through learning in an environment richly populated with other agents
+and various inanimate stimuli and interactive entities – then an understanding of the nature of
+cognitive development becomes extremely important to that project.
+Unfortunately, contemporary cognitive science contains essentially no theory of “abstract
+developmental psychology” which can conveniently be applied to understand developing AIs.
+There is of course an extensive science of human developmental psychology, and so it is a
+natural research program to take the chief ideas from the former and inasmuch as possible port
+them to the AGI domain. This is not an entirely simple matter both because of the differences
+between humans and AIs and because of the unsettled nature of contemporary developmental
+psychology theory. But it’s a job that must (and will) be done, and the ideas in this chapter
+may contribute toward this effort.
+We will begin here with Piaget’s well-known theory of human cognitive development, presenting
+it in a general systems theory context, then introducing some modifications and extensions
+and discussing some other relevant work.
+187
+188 11 Stages of Cognitive Development
+11.2 Piagetan Stages in the Context of a General Systems Theory of
+Development
+Our review of AGI architectures in Chapter 4 focused heavily on the concept of symbolism,
+and the different ways in which different classes of cognitive architecture handle symbol representation
+and manipulation. We also feel that symbolism is critical to the notion of AGI
+development – and even more broadly, to the systems theory of development in general.
+As a broad conceptual perspective on development, we suggest that one may view the development
+of a complex information processing system, embedded in an environment, in terms
+of the stages:
+• automatic: the system interacts with the environment by “instinct”, according to its innate
+programming
+• adaptive: the system internally adapts to the environment, then interacting with the environment
+in a more appropriate way
+• symbolic: the system creates internal symbolic representations of itself and the environment,
+which in the case of a complex, appropriately structured environment, allows it to
+interact with the environment more intelligently
+• reflexive: the system creates internal symbolic representations of its own internal symbolic
+representations, thus achieving an even higher degree of intelligence
+Sketched so broadly, these are not precisely defined categories but rather heuristic, intuitive
+categories. Formalizing them would be possible but would lead us too far astray here.
+One can interpret these stages in a variety of different contexts. Here our focus is the cognitive
+development of humans and human-like AGI systems, but in Table 11.1 we present them in
+a slightly more general context, using two examples: the Piagetan example of the human (or
+humanlike) mind as it develops from infancy to maturity; and also the example of the “origin
+of life” and the development of life from proto-life up into its modern form. In any event, we
+allude to this more general perspective on development here mainly to indicate our view that
+the Piagetan perspective is not something ad hoc and arbitrary, but rather can plausibly be seen
+as a specific manifestation of more fundamental principles of complex systems development.
+11.3 Piaget’s Theory of Cognitive Development
+The ghost of Jean Piaget hangs over modern developmental psychology in a yet unresolved
+way. Piaget’s theories provide a cogent overarching perspective on human cognitive development,
+coordinating broad theoretical ideas and diverse experimental results into a unified whole
+[Pia55]. Modern experimental work has shown Piaget’s ideas to be often oversimplified and incorrect.
+However, what has replaced the Piagetan understanding is not an alternative unified
+and coherent theory, but a variety of microtheories addressing particular aspects of cognitive
+development. For this reason a number of contemporary theorists taking a computer science
+[Shu03] or dynamical systems [Wit07] approach to developmental psychology have chosen to
+adopt the Piagetan framework in spite of its demonstrated shortcomings, both because of its
+conceptual strengths and for lack of a coherent, more rigorously grounded alternative.
+Our own position is that the Piagetan view of development has some fundamental truth to it,
+which is reflected via how nicely it fits with a broader view of development in complex systems.
+11.3 Piaget’s Theory of Cognitive Development 189
+Stage General Description Cognitive Development
+Origin of Life
+Automatic System-environment Piagetan infantile Self-organizing protolife
+information exchange stage
+system, e.g. Oparin
+controlled mainly by
+[Opa52] water droplet,
+innate system structures
+or Cairns-Smith [CS90]
+or environment
+clay-based
+protolife
+Adaptive
+Symbolic
+System-environment
+info exchange heavily
+guided by adaptively
+internally-created
+system structures
+Internal symbolic representation
+of information
+exchange process
+Reflexive Thoroughgoing selfmodification
+Piagetan
+based
+on this symbolic
+representation
+Piagetan “concrete operational”
+stage: systematic
+internal worldmodel
+guides worldexploration
+Piagetan formal stage:
+explicit logical/experimental
+learning about
+how to cognize in various
+contexts
+stage: purposive selfmodification
+of basic
+mental processes
+Simple autopoietic system,
+e.g. Oparin water
+droplet w/ basic
+metabolism
+Genetic code: internal
+entities that “stand
+for” aspects of organism
+and environment,
+thus enabling complex
+epigenesis
+post-formal Genes+memes: genetic
+code-patterns guide
+their own modification
+via influencing culture
+Table 11.1: General Systems Theory of Development: Parallels Between Development of Mind
+and Origin of Life
+Indeed, Piaget viewed developmental stages as emerging from general “algebraic” principles
+rather than as being artifacts of the particulars of human psychology. But, Piaget’s stages are
+probably best viewed as a general interpretive framework rather than a precise scientific theory.
+Our suspicion is that once the empirical science of developmental psychology has progressed
+further, it will become clearer how to fit the various data into a broad Piaget-like framework,
+perhaps differing in many details from what Piaget described in his works.
+Piaget conceived of child development in four stages, each roughly identified with an age
+group, and corresponding closely to the system-theoretic stages mentioned above:
+• infantile, corresponding to the automatic stage mentioned above
+– Example: Grasping blocks, piling blocks on top of each other, copying words that are
+heard
+• preoperational and concrete operational, corresponding to the adaptive stage mentioned
+above
+– Example: Building complex blocks structures, from imagination and from imitating
+objects and pictures and based on verbal instructions; verbally describing what has
+been constructed
+• formal, corresponding to the symbolic stage mentioned above
+– Example: Writing detailed instructions in words and diagrams, explaining how to construct
+particular structures out of blocks; figuring out general rules describing which
+sorts of blocks structures are likely to be most stable
+190 11 Stages of Cognitive Development
+• the reflexive stage mentioned above corresponds to what some post-Piagetan theorists have
+called the post-formal stage
+– Example: Using abstract lessons learned from building structures out of blocks to guide
+the construction of new ways to think and understand – “Zen and the art of blocks
+building” (by analogy to Zen and the Art of Motorcycle Maintenance [Pir84]).
+Fig. 11.1: Piagetan Stages of Cognitive Development
+More explicitly, Piaget defined his stages in psychological terms roughly as follows:
+• Infantile: In this stage a mind develops basic world-exploration driven by instinctive actions.
+Reward-driven reinforcement of actions learned by imitation, simple associations between
+words and objects, actions and images, and the basic notions of time, space, and
+causality are developed. The most simple, practical ideas and strategies for action are
+learned.
+• Preoperational: At this stage we see the formation of mental representations, mostly
+poorly organized and un-abstracted, building mainly on intuitive rather than logical thinking.
+Word-object and image-object associations become systematic rather than occasional.
+Simple syntax is mastered, including an understanding of subject-argument relationships.
+One of the crucial learning achievements here is “object permanence” – infants learn that
+objects persist even when not observed. However, a number of cognitive failings persist with
+respect to reasoning about logical operations, and abstracting the effects of intuitive actions
+to an abstract theory of operations.
+• Concrete: More abstract logical thought is applied to the physical world at this stage.
+Among the feats achieved here are: reversibility – the ability to undo steps already done;
+conservation – understanding that properties can persist in spite of appearances; theory of
+mind – an understanding of the distinction between what I know and what others know (If
+11.3 Piaget’s Theory of Cognitive Development 191
+I cover my eyes, can you still see me?). Complex concrete operations, such as putting items
+in height order, are easily achievable. Classification becomes more sophisticated, yet the
+mind still cannot master purely logical operations based on abstract logical representations
+of the observational world.
+• Formal: Abstract deductive reasoning, the process of forming, then testing hypotheses, and
+systematically reevaluating and refining solutions, develops at this stage, as does the ability
+to reason about purely abstract concepts without reference to concrete physical objects.
+This is adult human-level intelligence. Note that the capability for formal operations is
+intrinsic in the PLN component of CogPrime, but in-principle capability is not the same as
+pragmatic, grounded, controllable capability.
+Very early on, Vygotsky [Vyg86] disagreed with Piaget’s explanation of his stages as inherent
+and developed by the child’s own activities, and Piaget’s prescription of good parenting as
+not interfering with a child’s unfettered exploration of the world. Some modern theorists have
+critiqued Piaget’s stages as being insufficiently socially grounded, and these criticisms trace back
+to Vygotsky’s focus on the social foundations of intelligence, on the fact that children function
+in a world surrounded by adults who provide a cultural context, offering ongoing assistance,
+critique, and ultimately validation of the child’s developmental activities.
+Vygotsky also was an early critic of the idea that cognitive development is continuous,
+and continues beyond Piaget’s formal stage. Gagne [RBW92] also believes in continuity, and
+that learning of prerequisite skills made the learning of subsequent skills easier and faster
+without regard to Piagetan stage formalisms. Subsequent researchers have argued that Piaget
+has merely constructed ad hoc descriptions of the sequential development of behaviour
+[Gib78, Bro84, CP05]. We agree that learning is a continuous process, and our notion of stages
+is more statistically constructed than rigidly quantized.
+Critique of Piaget’s notion of transitional “half stages” is also relevant to a more comprehensive
+hierarchical view of development. Some have proposed that Piaget’s half stages are
+actually stages [Bro84]. As Commons and Pekker [CP05] point out: “the definition of a stage
+that was being used by Piaget was based on analyzing behaviors and attempting to impose
+different structures on them. There is no underlying logical or mathematical definition to help
+in this process . . . ” Their Hierarchical Complexity development model uses task achievement
+rather than ad hoc stage definition as the basis for constructing relationships between phases
+of developmental ability – an approach which we find useful, though our approach is different
+in that we define stages in terms of specific underlying cognitive mechanisms.
+Another critique of Piaget is that one individual’s performance is often at different ability
+stages depending on the specific task (for example [GE86]). Piaget responded to early critiques
+along these lines by calling the phenomenon “horizontal décalage,” but neither he nor his successors
+[Fis80, Cas85] have modified his theory to explain (rather than merely describe) it.
+Similarly to Thelen and Smith [TS94], we observe that the abilities encapsulated in the definition
+of a certain stage emerge gradually during the previous stage – so that the onset of a given
+stage represents the mastery of a cognitive skill that was previously present only in certain
+contexts.
+Piaget also had difficulty accepting the idea of a preheuristic stage, early in the infantile
+period, in which simple trial-and-error learning occurs without significant heuristic guidance
+[Bic88], a stage which we suspect exists and allows formulation of heuristics by aggregation of
+learning from preheuristic pattern mining. Coupled with his belief that a mind’s innate abilities
+at birth are extremely limited, there is a troublingly unexplained transition from inability to
+ability in his model.
+192 11 Stages of Cognitive Development
+Finally, another limiting aspect of Piaget’s model is that it did not recognize any stages
+beyond formal operations, and included no provisions for exploring this possibility. A number of
+researchers [Bic88, Arl75, CRK82, Rie73, Mar01] have described one or more postformal stages.
+Commons and colleagues have also proposed a task-based model which provides a framework for
+explaining stage discrepancies across tasks and for generating new stages based on classification
+of observed logical behaviors. [KK90] promotes a statistical conception of stage, which provides a
+good bridge between task-based and stage-based models of development, as statistical modeling
+allows for stages to be roughly defined and analyzed based on collections of task behaviors.
+[CRK82] postulates the existence of a postformal stage by observing elevated levels of abstraction
+which, they argue, are not manifested in formal thought. [CTS + 98] observes a postformal
+stage when subjects become capable of analyzing and coordinating complex logical systems
+with each other, creating metatheoretical supersystems. In our model, with the reflexive stage
+of development, we expand this definition of metasystemic thinking to include the ability to
+consciously refine one’s own mental states and formalisms of thinking. Such self-reflexive refinement
+is necessary for learning which would allow a mind to analytically devise entirely new
+structures and methodologies for both formal and postformal thinking.
+In spite of these various critiques and limitations, however, we have found Piaget’s ideas
+very useful, and in Section 11.4 we will explore ways of defining them rigorously in the specific
+context of CogPrime’s declarative knowledge store and probabilistic logic engine.
+11.3.1 Perry’s Stages
+Also relevant is William Perry’s [Per70, Per81] theory of the stages (“positions” in his terminology)
+of intellectual and ethical development, which constitutes a model of iterative refinement
+of approach in the developmental process of coming to intellectual and ethical maturity. These
+stages, depicted in Table 11.2 form an analytical tool for discerning the modality of belief of
+an intelligence by describing common cognitive approaches to handling the complexities of real
+world ethical considerations.
+11.3.2 Keeping Continuity in Mind
+Continuity of mental stages, and the fact that a mind may appear to be in multiple stages
+of development simultaneously (depending upon the tasks being tested), are crucial to our
+theoretical formulations and we will touch upon them again here. Piaget attempted to address
+continuity with the creation of transitional “half stages”. We prefer to observe that each stage
+feeds into the other and the end of one stage and the beginning of the next blend together.
+The distinction between formal and post-formal, for example, seems to “merely” be the
+application of formal thought to oneself. However, the distinction between concrete and formal is
+“merely” the buildup to higher levels of complexity of the classification, task decomposition, and
+abstraction capabilities of the concrete stage. The stages represent general trends in ability on
+a continuous curve of development, not discrete states of mind which are jumped-into quantum
+style after enough “knowledge energy” builds-up to cause the transition.
+11.4 Piaget’s Stages in the Context of Uncertain Inference 193
+Stage
+Substages
+Dualism / Received Basic duality (“All problems are solvable. I must learn the
+Knowledge
+[Infantile]
+correct solutions.”)
+Full dualism (“There are different, contradictory solutions to
+many problems. I must learn the correct solutions, and ignore
+the incorrect ones”)
+Multiplicity
+[Concrete]
+Relativism / Procedural
+Knowledge
+[Formal]
+Commitment / Constructed
+Knowledge
+[Formal / Reflexive]
+Early multiplicity (“Some solutions are known, others aren’t.
+I must learn how to find correct solutions.”)
+Late Multiplicity: cognitive dissonance regarding truth.
+(“Some problems are unsolvable, some are a matter of personal
+taste, therefore I must declare my own intellectual path.”)
+Contextual Relativism (“I must learn to evaluate solutions
+within a context, and relative to supporting observation.”)
+Pre-Commitment (“I must evaluate solutions, then commit to
+a choice of solution.”)
+Commitment (“I have chosen a solution.”)
+Challenges to Commitment (“I have seen unexpected implications
+of my commitment, and the responsibility I must take.”)
+Post-Commitment (“I must have an ongoing, nuanced relationship
+to the subject in which I evaluate each situation on a
+case-by-case basis with respects to its particulars rather than
+an ad-hoc application of unchallenged ideology.”)
+Table 11.2: Perry’s Developmental Stages [with corresponding Piagetan Stages in brackets]
+Observationally, this appears to be the case in humans. People learn things gradually, and
+show a continuous development in ability, not a quick jump from ignorance to mastery. We
+believe that this gradual development of ability is the signature of genuine learning, and that
+prescriptively an AGI system must be designed in order to have continuous and asymmetrical
+development across a variety of tasks in order to be considered a genuine learning system. While
+quantum leaps in ability may be possible in an AGI system which can just “graft” new parts
+of brain onto itself (or an augmented human which may someday be able to do the same using
+implants), such acquisition of knowledge is not really learning. Grafting on knowledge does not
+build the cognitive pathways needed in order to actually learn. If this is the only mechanism
+available to an AGI system to acquire new knowledge, then it is not really a learning system.
+11.4 Piaget’s Stages in the Context of Uncertain Inference
+Piaget’s developmental stages are very general, referring to overall types of learning, not specific
+mechanisms or methods. This focus was natural since the context of his work was human developmental
+psychology, and neuroscience has not yet progressed to the point of understanding
+the neural mechanisms underlying any sort of inference (and certainly was nowhere near to
+doing so in Piaget’s time!). But if one is studying developmental psychology in an AGI context
+where one knows something about the internal mechanisms of the AGI system under consideration,
+then one can work with a more specific model of learning. Our focus here is on AGI
+systems whose operations contain uncertain inference as a central component. Obviously the
+main focus is CogPrime, but the essential ideas apply to any other uncertain inference centric
+AGI architecture as well.
+194 11 Stages of Cognitive Development
+Fig. 11.2: Piagetan Stages of Development, as Manifested in the Context of Uncertain Inference
+An uncertain inference system, as we consider it here, consists of four components, which
+work together in a feedback-control loop 11.3
+1. a content representation scheme
+2. an uncertainty representation scheme
+3. a set of inference rules
+4. a set of inference control schemata
+Fig. 11.3: A Simplified Look at Feedback-Control in Uncertain Inference
+11.4 Piaget’s Stages in the Context of Uncertain Inference 195
+Broadly speaking, examples of content representation schemes are predicate logic and term
+logic [ES00]. Examples of uncertainty representation schemes are fuzzy logic [Zad78], imprecise
+probability theory [Goo86, FC86], Dempster-Shafer theory [Sha76, Kyb97], Bayesian probability
+theory [Kyb97], NARS [Wan95], and the Atom representation used in CogPrime, briefly alluded
+to in Chapter 6 above and described in depth in later chapters.
+Many, but not all, approaches to uncertain inference involve only a limited, weak set of inference
+rules (e.g. not dealing with complex quantified expressions). CogPrime’s PLN inference
+framework, like NARS and some other uncertain inference frameworks, contains uncertain inference
+rules that apply to logical constructs of arbitrary complexity. Only a system capable of
+dealing with constructs of arbitrary (or at least very high) complexity will have any potential
+of leading to human-level, human-like intelligence.
+The subtlest part of uncertain inference is inference control: the choice of which inferences
+to do, in what order. Inference control is the primary area in which human inference currently
+exceeds automated inference. Humans are not very efficient or accurate at carrying out inference
+rules, with or without uncertainty, but we are very good at determining which inferences to do
+and in what order, in any given context. The lack of effective, context-sensitive inference control
+heuristics is why the general ability of current automated theorem provers is considerably weaker
+than that of a mediocre university mathematics major [Mac95].
+We now review the Piagetan developmental stages from the perspective of AGI systems
+heavily based on uncertain inference.
+11.4.1 The Infantile Stage
+In this initial stage, the mind is able to recognize patterns in and conduct inferences about
+the world, but only using simplistic hard-wired (not experientially learned) inference control
+schema, along with pre-heuristic pattern mining of experiential data.
+In the infantile stage an entity is able to recognize patterns in and conduct inferences about
+its sensory surround context (i.e., it’s “world”), but only using simplistic, hard-wired (not experientially
+learned) inference control schemata. Preheuristic pattern-mining of experiential data
+is performed in order to build future heuristics about analysis of and interaction with the world.
+s tasks include:
+1. Exploratory behavior in which useful and useless / dangerous behavior is differentiated by
+both trial and error observation, and by parental guidance.
+2. Development of “habits” – i.e. Repeating tasks which were successful once to determine if
+they always / usually are so.
+3. Simple goal-oriented behavior such as “find out what cat hair tastes like” in which one must
+plan and take several sequentially dependent steps in order to achieve the goal.
+Inference control is very simple during the infantile stage (Figure 11.4), as it is the stage
+during which both the most basic knowledge of the world is acquired, and the most basic of
+cognition and inference control structures are developed as the building block upon which will
+be built the next stages of both knowledge and inference control.
+Another example of a cognitive task at the borderline between infantile and concrete cognition
+is learning object permanence, a problem discussed in the context of CogPrime’s predecessor
+"Novamente Cognition Engine" system in [GPSL03]. Another example is the learning of
+196 11 Stages of Cognitive Development
+Fig. 11.4: Uncertain Inference in the Infantile Stage
+word-object associations: e.g. learning that when the word “ball” is uttered in various contexts
+(“Get me the ball,” “That’s a nice ball,” etc.) it generally refers to a certain type of object.
+The key point regarding these “infantile” inference problems, from the CogPrime perspective,
+is that assuming one provides the inference system with an appropriate set of perceptual and
+motor ConceptNodes and SchemaNodes, the chains of inference involved are short. They involve
+about a dozen inferences, and this means that the search tree of possible PLN inference rules
+walked by the PLN backward-chainer is relatively shallow. Sophisticated inference control is
+not required: standard AI heuristics are sufficient.
+In short, textbook narrow-AI reasoning methods, utilized with appropriate uncertainty-savvy
+truth value formulas and coupled with appropriate representations of perceptual and motor
+inputs and outputs, correspond roughly to Piaget’s infantile stage of cognition. The simplistic
+approach of these narrow-AI methods may be viewed as a method of creating building blocks
+for subsequent, more sophisticated heuristics.
+In our theory Piaget’s preoperational phase appears as transitional between the infantile and
+concrete operational phases.
+11.4.2 The Concrete Stage
+At this stage, the mind is able to carry out more complex chains of reasoning regarding the
+world, via using inference control schemata that adapt behavior based on experience (reasoning
+about a given case in a manner similar to prior cases).
+In the concrete operational stage (Figure 11.5), an entity is able to carry out more complex
+chains of reasoning about the world. Inference control schemata which adapt behavior based on
+experience, using experientially learned heuristics (including those learned in the prior stage),
+are applied to both analysis of and interaction with the sensory surround / world.
+Concrete Operational stage tasks include:
+11.4 Piaget’s Stages in the Context of Uncertain Inference 197
+Fig. 11.5: Uncertain Inference in the Concrete Operational Stage
+1. Conservation tasks, such as conservation of number,
+2. Decomposition of complex tasks into easier subtasks, allowing increasingly complex tasks
+to be approached by association with more easily understood (and previously experienced)
+smaller tasks,
+3. Classification and Serialization tasks, in which the mind can cognitively distinguish various
+disambiguation criteria and group or order objects accordingly.
+In terms of inference control this is the stage in which actual knowledge about how to control
+inference itself is first explored. This means an emerging understanding of inference itself as a
+cognitive task and methods for learning, which will be further developed in the following stages.
+Also, in this stage a special cognitive task capability is gained: “Theory of Mind," which in
+cognitive science refers to the ability to understand the fact that not only oneself, but other
+sentient beings have memories, perceptions, and experiences. This is the ability to conceptually
+“put oneself in another’s shoes” (even if you happen to assume incorrectly about them by doing
+so).
+11.4.2.1 Conservation of Number
+Conservation of number is an example of a learning problem classically categorized within
+Piaget’s concrete-operational phase, a “conservation laws” problem, discussed in [Shu03] in
+the context of software that solves the problem using (logic-based and neural net) narrow-AI
+techniques. Conservation laws are very important to cognitive development.
+Conservation is the idea that a quantity remains the same despite changes in appearance. If
+you show a child some objects and then spread them out, an infantile mind will focus on the
+spread, and believe that there are now more objects than before, whereas a concrete-operational
+mind will understand that the quantity of objects has not changed.
+Conservation of number seems very simple, but from a developmental perspective it is actually
+rather difficult. “Solutions” like those given in [Shu03] that use neural networks or cus-
+198 11 Stages of Cognitive Development
+tomized logical rule-bases to find specialized solutions that solve only this problem fail to fully
+address the issue, because these solutions don’t create knowledge adequate to aid with the
+solution of related sorts of problems.
+We hypothesize that this problem is hard enough that for an inference-based AGI system
+to solve it in a developmentally useful way, its inferences must be guided by meta-inferential
+lessons learned from prior similar problems. When approaching a number conservation problem,
+for example, a reasoning system might draw upon past experience with set-size problems (which
+may be trial-and-error experience). This is not a simple “machine learning” approach whose
+scope is restricted to the current problem, but rather a heuristically guided approach which (a)
+aggregates information from prior experience to guide solution formulation for the problem at
+hand, and (b) adds the present experience to the set of relevant information about quantification
+problems for future refinement of thinking.
+Fig. 11.6: Conservation of Number
+For instance, a very simple context-specific heuristic that a system might learn would be:
+“When evaluating the truth value of a statement related to the number of objects in a set,
+it is generally not that useful to explore branches of the backwards-chaining search tree that
+contain relationships regarding the sizes, masses, or other physical properties of the objects in
+the set.” This heuristic itself may go a long way toward guiding an inference process toward a
+correct solution to the problem–but it is not something that a mind needs to know “a priori.”
+A concrete-operational stage mind may learn this by data-mining prior instances of inferences
+involving sizes of sets. Without such experience-based heuristics, the search tree for such a
+problem will likely be unacceptably large. Even if it is “solvable” without such heuristics, the
+solutions found may be overly fit to the particular problem and not usefully generalizable.
+11.4.2.2 Theory of Mind
+Consider this experiment: a preoperational child is shown her favorite “Dora the Explorer” DVD
+box. Asked what show she’s about to see, she’ll answer “Dora.” However, when her parent plays
+the disc, it’s “SpongeBob SquarePants.” If you then ask her what show her friend will expect
+when given the “Dora” DVD box, she will respond “SpongeBob” although she just answered
+“Dora” for herself. A child lacking a theory of mind can not reason through what someone
+else would think given knowledge other than her own current knowledge. Knowledge of self is
+intrinsically related to the ability to differentiate oneself from others, and this ability may not
+be fully developed at birth.
+Several theorists [BC94, Fod94], based in part on experimental work with autistic children,
+perceive theory of mind as embodied in an innate module of the mind activated at a certain
+developmental stage (or not, if damaged). While we consider this possible, we caution against
+adopting a simplistic view of the “innate vs. acquired” dichotomy: if there is innateness it may
+take the form of an innate predisposition to certain sorts of learning [EBJ + 97].
+11.4 Piaget’s Stages in the Context of Uncertain Inference 199
+Davidson [Dav84], Dennett [Den87] and others support the common belief that theory of
+mind is dependent upon linguistic ability. A major challenge to this prevailing philosophical
+stance came from Premack and Woodruff [PW78] who postulated that prelinguistic primates
+do indeed exhibit “theory of mind” behavior. While Premack and Woodruff’s experiment itself
+has been challenged, their general result has been bolstered by follow-up work showing similar
+results such as [TC97]. It seems to us that while theory of mind depends on many of the same
+inferential capabilities as language learning, it is not intrinsically dependent on the latter.
+There is a school of thought often called the Theory Theory [BW88, Car85, Wel90] holding
+that a child’s understanding of mind is best understood in terms of the process of iteratively
+formulating and refuting a series of naive theories about others. Alternately, Gordon [Gor86]
+postulates that theory of mind is related to the ability to run cognitive simulations of others’
+minds using one’s own mind as a model. We suggest that these two approaches are actually
+quite harmonious with one another. In an uncertain AGI context, both theories and simulations
+are grounded in collections of uncertain implications, which may be assembled in contextappropriate
+ways to form theoretical conclusions or to drive simulations. Even if there is a
+special “mind-simulator” dynamic in the human brain that carries out simulations of other
+minds in a manner fundamentally different from explicit inferential theorizing, the inputs to
+and the behavior of this simulator may take inferential form, so that the simulator is in essence
+a way of efficiently and implicitly producing uncertain inferential conclusions from uncertain
+premises.
+We have thought through the details by CogPrime system should be able to develop theory
+of mind via embodied experience, though at time of writing practical learning experiments in
+this direction have not yet been done. We have not yet explored in detail the possibility of giving
+CogPrime a special, elaborately engineered “mind-simulator” component, though this would be
+possible; instead we have initially been pursuing a more purely inferential approach.
+First, it is very simple for a CogPrime system to learn patterns such as “If I rotated by pi
+radians, I would see the yellow block.” And it’s not a big leap for PLN to go from this to the
+recognition that “You look like me, and you’re rotated by pi radians relative to my orientation,
+therefore you probably see the yellow block.” The only nontrivial aspect here is the “you look
+like me” premise.
+Recognizing “embodied agent” as a category, however, is a problem fairly similar to recognizing
+“block” or “insect” or “daisy” as a category. Since the CogPrime agent can perceive most
+parts of its own “robot” body–its arms, its legs, etc.–it should be easy for the agent to figure
+out that physical objects like these look different depending upon its distance from them and
+its angle of observation. From this it should not be that difficult for the agent to understand
+that it is naturally grouped together with other embodied agents (like its teacher), not with
+blocks or bugs.
+The only other major ingredient needed to enable theory of mind is “reflection”– the ability of
+the system to explicitly recognize the existence of knowledge in its own mind (note that this term
+“reflection” is not the same as our proposed “reflexive” stage of cognitive development). This
+exists automatically in CogPrime, via the built-in vocabulary of elementary procedures supplied
+for use within SchemaNodes (specifically, the atTime and TruthValue operators). Observing that
+“at time T, the weight of evidence of the link L increased from zero” is basically equivalent to
+observing that the link L was created at time T.
+Then, the system may reason, for example, as follows (using a combination of several PLN
+rules including the above-given deduction rule):
+200 11 Stages of Cognitive Development
+Implication
+My eye is facing a block and it is not dark
+A relationship is created describing the block’s color
+Similarity
+My body
+My teacher’s body
+|-
+Implication
+My teacher’s eye is facing a block and it is not dark
+A relationship is created describing the block’s color
+This sort of inference is the essence of Piagetan “theory of mind.” Note that in both of
+these implications the created relationship is represented as a variable rather than a specific
+relationship. The cognitive leap is that in the latter case the relationship actually exists in the
+teacher’s implicitly hypothesized mind, rather than in CogPrime’s mind. No explicit hypothesis
+or model of the teacher’s mind need be created in order to form this implication–the hypothesis
+is created implicitly via inferential abstraction. Yet, a collection of implications of this nature
+may be used via an uncertain reasoning system like PLN to create theories and simulations
+suitable to guide complex inferences about other minds.
+From the perspective of developmental stages, the key point here is that in a CogPrime
+context this sort of inference is too complex to be viably carried out via simple inference
+heuristics. This particular example must be done via forward chaining, since the big leap is to
+actually think of forming the implication that concludes inference. But there are simply too
+many combinations of relationships involving CogPrime’s eye, body, and so forth for the PLN
+component to viably explore all of them via standard forward-chaining heuristics. Experienceguided
+heuristics are needed, such as the heuristic that if physical objects A and B are generally
+physically and functionally similar, and there is a relationship involving some part of A and
+some physical object R, it may be useful to look for similar relationships involving an analogous
+part of B and objects similar to R. This kind of heuristic may be learned by experience–and the
+masterful deployment of such heuristics to guide inference is what we hypothesize to characterize
+the concrete stage of development. The “concreteness” comes from the fact that inference control
+is guided by analogies to prior similar situations.
+11.4.3 The Formal Stage
+In the formal stage, as shown in Figure 11.7, an agent should be able to carry out arbitrarily
+complex inferences (constrained only by computational resources, rather than by fundamental
+restrictions on logical language or form) via including inference control as an explicit subject of
+abstract learning. Abstraction and inference about both the sensorimotor surround (world) and
+about abstract ideals themselves (including the final stages of indirect learning about inference
+itself) are fully developed.
+Formal stage evaluation tasks are centered entirely around abstraction and higher-order
+inference tasks such as:
+1. Mathematics and other formalizations.
+11.4 Piaget’s Stages in the Context of Uncertain Inference 201
+Fig. 11.7: Uncertain Inference in the Formal Stage
+2. Scientific experimentation and other rigorous observational testing of abstract formalizations.
+3. Social and philosophical modeling, and other advanced applications of empathy and the
+Theory of Mind.
+In terms of inference control this stage sees not just perception of new knowledge about
+inference control itself, but inference controlled reasoning about that knowledge and the creation
+of abstract formalizations about inference control which are reasoned-upon, tested, and verified
+or debunked.
+11.4.3.1 Systematic Experimentation
+The Piagetan formal phase is a particularly subtle one from the perspective of uncertain inference.
+In a sense, AGI inference engines already have strong capability for formal reasoning
+built in. Ironically, however, no existing inference engine is capable of deploying its reasoning
+rules in a powerfully effective way, and this is because of the lack of inference control heuristics
+adequate for controlling abstract formal reasoning. These heuristics are what arise during
+Piaget’s formal stage, and we propose that in the content of uncertain inference systems, they
+involve the application of inference itself to the problem of refining inference control.
+202 11 Stages of Cognitive Development
+A problem commonly used to illustrate the difference between the Piagetan concrete operational
+and formal stages is that of figuring out the rules for making pendulums swing quickly
+versus slowly [IP58]. If you ask a child in the formal stage to solve this problem, she may proceed
+to do a number of experiments, e.g. build a long string with a light weight, a long string
+with a heavy weight, a short string with a light weight and a short string with a heavy weight.
+Through these experiments she may determine that a short string leads to a fast swing, a long
+string leads to a slow swing, and the weight doesn’t matter at all.
+The role of experiments like this, which test “extreme cases,” is to make cognition easier. The
+formal-stage mind tries to map a concrete situation onto a maximally simple and manipulable
+set of abstract propositions, and then reason based on these. Doing this, however, requires an
+automated and instinctive understanding of the reasoning process itself. The above-described
+experiments are good ones for solving the pendulum problem because they provide data that
+is very easy to reason about. From the perspective of uncertain inference systems, this is the
+key characteristic of the formal stage: formal cognition approaches problems in a way explicitly
+calculated to yield tractable inferences.
+Note that this is quite different from saying that formal cognition involves abstractions and
+advanced logic. In an uncertain logic-based AGI system, even infantile cognition may involve
+these – the difference lies in the level of inference control, which in the infantile stage is simplistic
+and hard-wired, but in the formal stage is based on an understanding of what sorts of inputs
+lead to tractable inference in a given context.
+11.4.4 The Reflexive Stage
+In the reflexive stage (Figure 11.8), an intelligent agent is broadly capable of self-modifying its
+internal structures and dynamics.
+As an example in the human domain: highly intelligent and self-aware adult humans may
+carry out reflexive cognition by explicitly reflecting upon their own inference processes and
+trying to improve them. An example is the intelligent improvement of uncertain-truth-valuemanipulation
+formulas. It is well demonstrated that even educated humans typically make
+numerous errors in probabilistic reasoning [GGK02]. Most people don’t realize it and continue
+to systematically make these errors throughout their lives. However, a small percentage of
+individuals make an explicit effort to increase their accuracy in making probabilistic judgments
+by consciously endeavoring to internalize the rules of probabilistic inference into their automated
+cognition processes.
+In the uncertain inference based AGI context, what this means is: In the reflexive stage
+an entity is able to include inference control itself as an explicit subject of abstract learning
+(i.e. the ability to reason about one’s own tactical and strategic approach to modifying one’s
+own learning and thinking), and modify these inference control strategies based on analysis of
+experience with various cognitive approaches.
+Ultimately, the entity can self-modify its internal cognitive structures. Any knowledge or
+heuristics can be revised, including metatheoretical and metasystemic thought itself. Initially
+this is done indirectly, but at least in the case of AGI systems it is theoretically possible to
+also do so directly. This might be considered as a separate stage of Full Self Modification, or
+else as the end phase of the reflexive stage. In the context of logical reasoning, self modification
+of inference control itself is the primary task in this stage. In terms of inference control this
+11.4 Piaget’s Stages in the Context of Uncertain Inference 203
+Fig. 11.8: The Reflexive Stage
+stage adds an entire new feedback loop for reasoning about inference control itself, as shown in
+Figure 11.8.
+As a very concrete example, in later chapters we will see that, while PLN is founded on
+probability theory, it also contains a variety of heuristic assumptions that inevitably introduce a
+certain amount of error into its inferences. For example, PLN’s probabilistic deduction embodies
+a heuristic independence assumption. Thus PLN contains an alternate deduction formula called
+the “concept geometry formula” that is better in some contexts, based on the assumption that
+ConceptNodes embody concepts that are roughly spherically-shaped in attribute space. A highly
+advanced CogPrime system could potentially augment the independence-based and conceptgeometry-based
+deduction formulas with additional formulas of its own derivation, optimized
+to minimize error in various contexts. This is a simple and straightforward example of reflexive
+cognition – it illustrates the power accessible to a cognitive system that has formalized and
+reflected upon its own inference processes, and that possesses at least some capability to modify
+these.
+In general, AGI systems can be expected to have much broader and deeper capabilities for
+self-modification than human beings. Ultimately it may make sense to view the AGI systems
+we implement as merely "initial conditions" for ongoing self-modification and self-organization.
+Chapter ?? discusses some of the potential technical details underlying this sort of thoroughgoing
+AGI self-modification.
+
+Chapter 12
+The Engineering and Development of Ethics
+Co-authored with Stephan Vladimir Bugaj and Joel Pitt
+12.1 Introduction
+Most commonly, if a work on advanced AI mentions ethics at all, it occurs in a final summary
+chapter, discussing in broad terms some of the possible implications of the technical ideas presented
+beforehand. It’s no coincidence that the order is reversed here: in the case of CogPrime,
+AGI-ethics considerations played a major role in the design process ... and thus the chapter on
+ethics occurs near the beginning rather than the end. In the CogPrime approach, ethics is not
+a particularly distinct topic, being richly interwoven with cognition and education and other
+aspects of the AGI project.
+The ethics of advanced AGI is a complex issue with multiple aspects. Among the many issues
+there are:
+1. Risks posed by the possibility of human beings using AGI systems for evil ends
+2. Risks posed by AGI systems created without well-defined ethical systems
+3. Risks posed by AGI systems with initially well-defined and sensible ethical systems eventually
+going rogue – an especially big risk if these systems are more generally intelligent than
+humans, and possess the capability to modify their own source code
+4. the ethics of experimenting on AGI systems when one doesn’t understand the nature of
+their experience
+5. AGI rights: in what circumstances does using an AGI as a tool or servant constitute “slavery”
+In this chapter we will focus mainly (though not exclusively) on the question of how to create
+an AGI with a rational and beneficial ethical system. After a somewhat wide-ranging discussion,
+we will conclude with eight general points that we believe should be followed in working toward
+"Friendly AGI" – most of which have to do, not with the internal design of the AGI, but with
+the way the AGI is taught and interfaced with the real world.
+While most of the particulars discussed in this book have nothing to do with ethics, it’s
+important for the reader to understand that AGI-ethics considerations have played a major
+role in many of our design decisions, underlying much of the technical contents of the book. As
+the materials in this chapter should make clear, ethicalness is probably not something that one
+can meaningfully tack onto an AGI system at the end, after developing the rest – it is likely
+infeasible to architect an intelligent agent and then add on an “ethics module.” Rather, ethics
+is something that has to do with all the different memory systems and cognitive processes that
+205
+206 12 The Engineering and Development of Ethics
+constitute an intelligent system – and it’s something that involves both cognitive architecture
+and the exploration a system does and the instruction it receives. It’s a very complex matter
+that is richly intermixed with all the other aspects of intelligence, and here we will treat it as
+such.
+12.2 Review of Current Thinking on the Risks of AGI
+Before proceeding to outline our own perspective on AGI ethics in the context of CogPrime, we
+will review the main existing strains of thought on the potential ethical dangers associated with
+AGI. One science fiction film after another has highlighted these dangers, lodging the issue deep
+in our cultural awareness; unsurprisingly, much less attention has been paid to serious analysis
+of the risks in their various dimensions, but there is still a non-trivial literature worth paying
+attention to.
+Hypothetically, an AGI with superhuman intelligence and capability could dispense with
+humanity altogether – i.e. posing an "existential risk" [Bos02]. In the worst case, an evil but
+brilliant AGI, perhaps programmed by a human sadist, could consign humanity to unimaginable
+tortures (i.e. realizing a modern version of the medieval Christian visions of hell). On the
+other hand, the potential benefits of powerful AGI also go literally beyond human imagination.
+It seems quite plausible that an AGI with massively superhuman intelligence and positive
+disposition toward humanity could provide us with truly dramatic benefits, such as a virtual
+end to material scarcity, disease and aging. Advanced AGI could also help individual humans
+grow in a variety of directions, including directions leading beyond "legacy humanity," according
+to their own taste and choice.
+Eliezer Yudkowsky has introduced the term "Friendly AI", to refer to advanced AGI systems
+that act with human benefit in mind [Yud06]. Exactly what this means has not been specified
+precisely, though informal interpretations abound. Goertzel [Goe06b] has sought to clarify the
+notion in terms of three core values of Joy, Growth and Freedom. In this view, a Friendly AI
+would be one that advocates individual and collective human joy and growth, while respecting
+the autonomy of human choices.
+Some (for example, Hugo de Garis, [DG05]), have argued that Friendly AI is essentially
+an impossibility, in the sense that the odds of a dramatically superhumanly intelligent mind
+worrying about human benefit are vanishingly small. If this is the case, then the best options
+for the human race would presumably be to either avoid advanced AGI development altogether,
+or to else fuse with AGI before it gets too strongly superhuman, so that beings-originated-ashumans
+can enjoy the benefits of greater intelligence and capability (albeit at cost of sacrificing
+their humanity).
+Others (e.g. Mark Waser [Was09]) have argued that Friendly AI is essentially inevitable,
+because greater intelligence correlates with greater morality. Evidence from evolutionary and
+human history is adduced in favor of this point, along with more abstract arguments.
+Yudkowsky [Yud06] has discussed the possibility of creating AGI architectures that are in
+some sense "provably Friendly" – either mathematically, or else at least via very tight lines of rational
+verbal argumentation. However, several issues have been raised with this approach. First,
+it seems likely that proving mathematical results of this nature would first require dramatic advances
+in multiple branches of mathematics. Second, such a proof would require a formalization
+of the goal of "Friendliness," which is a subtler matter than it might seem [Leg06b, Leg06a].
+12.2 Review of Current Thinking on the Risks of AGI 207
+Formalization of human morality has vexed moral philosophers for quite some time. Finally, it is
+unclear the extent to which such a proof could be created in a generic, environment-independent
+way – but if the proof depends on properties of the physical environment, then it would require
+a formalization of the environment itself, which runs up against various problems such
+as the complexity of the physical world and also the fact that we currently have no complete,
+consistent theory of physics. Kaj Sotala has provided a list of 14 objections to the Friendly
+AI concept, and suggested answers to each of them [Sot11]. Stephen Omohundro [Omo08] has
+argued that any advanced AI system will very likely demonstrate certain "basic AI drives", such
+as desiring to be rational, to self-protect, to acquire resources, and to preserve and protect its
+utility function and avoid counterfeit utility; these drives, he suggests, must be taken carefully
+into account in formulating approaches to Friendly AI.
+The problem of formally or at least very carefully defining the goal of Friendliness has been
+considered from a variety of perspectives, none showing dramatic success. Yudkowsky [Yud04]
+has suggested the concept of "Coherent Extrapolated Volition", which roughly refers to the
+extrapolation of the common values of the human race. Many subtleties arise in specifying
+this concept – e.g. if Bob Jones is often possessed by a strong desire to kill all Martians, but
+he deeply aspires to be a nonviolent person, then the CEV approach would not rate "killing
+Martians" as part of Bob’s contribution to the CEV of humanity.
+Goertzel [Goe10a] has proposed a related notion of Coherent Aggregated Volition (CAV),
+which eschews the subtleties of extrapolation, and simply seeks a reasonably compact, coherent,
+consistent set of values that is fairly close to the collective value-set of humanity. In the CAV
+approach, "killing Martians" would be removed from humanity’s collective value-set because
+it’s uncommon and not part of the most compact/coherent/consistent overall model of human
+values, rather than because of Bob Jones’ aspiration to nonviolence.
+One thought we have recently entertained is that the core concept underlying CAV might
+be better thought of as CBV or "Coherent Blended Volition." CAV seems to be easily misinterpreted
+as meaning the average of different views, which was not the original intention. The
+CBV terminology clarifies that the CBV of a diverse group of people should not be thought of
+as an average of their perspectives, but as something more analogous to a "conceptual blend"
+[FT02] – incorporating the most essential elements of their divergent views into a whole that is
+overall compact, elegant and harmonious. The subtlety here (to which we shall return below)
+is that for a CBV blend to be broadly acceptable, the different parties whose views are being
+blended must agree to some extent that enough of the essential elements of their own views
+have been included. The process of arriving at this sort of consensus may involve extrapolation
+of a roughly similar sort to that considered in CEV.
+Multiple attempts at axiomatization of human values have also been attempted, e.g. with a
+view toward providing near-term guidance to military robots (see e.g. Arkin’s excellent though
+chillingly-titled book Governing Lethal Behavior in Autonomous Robots [Ark09b], the result
+of US military funded research). However, there are reasonably strong arguments that human
+values (similarly to e.g. human language or human perceptual classification rules) are too complex
+and multifaceted to be captured in any compact set of formal logic rules. Wallach [WA10]
+has made this point eloquently, and argued the necessity of fusing top-down (e.g. formal logic
+based) and bottom-up (e.g. self-organizing learning based) approaches to machine ethics.
+A number of more sociological considerations also arise. It is sometimes argued that the risk
+from highly-advanced AGI going morally awry on its own may be less than that of moderatelyadvanced
+AGI being used by human beings to advocate immoral ends. This possibility gives
+208 12 The Engineering and Development of Ethics
+rise to questions about the ethical value of various practical modalities of AGI development,
+for instance:
+• Should AGI be developed in a top-secret installation by a select group of individuals selected
+for a combination of technical and scientific brilliance and moral uprightness, or other
+qualities deemed relevant (a "closed approach")? Or should it be developed out in the
+open, in the manner of open-source software projects like Linux? (an "open approach").
+The open approach allows the collective intelligence of the world to more fully participate
+– but also potentially allows the more unsavory elements of the human race to take some
+of the publicly-developed AGI concepts and tools private, and develop them into AGIs
+with selfish or evil purposes in mind. Is there some meaningful intermediary between these
+extremes?
+• Should governments regulate AGI, with Friendliness in mind (as advocated carefully by e.g
+Bill Hibbard [Hib02])? Or will this just cause AGI development to move to the handful of
+countries with more liberal policies? ... or cause it to move underground, where nobody can
+see the dangers developing? As a rough analogue, it’s worth noting that the US government’s
+imposition of restrictions on stem cell research, under President George W. Bush, appears
+to have directly stimulated the provision of additional funding for stem cell research in other
+nations like Korea, Singapore and China.
+The former issue is, obviously, highly relevant to CogPrime (which is currently being developed
+via the open source CogPrime project); and so the various dimensions of this issues are
+worth briefly sketching here.
+We have a strong skepticism of self-appointed elite groups that claim (even if they genuinely
+believe) that they know what’s best for everyone, and a healthy respect for the power of collective
+intelligence and the Global Brain, which the open approach is ideal for tapping. On the other
+hand, we also understand the risk of terrorist groups or other malevolent agents forking an open
+source AGI project and creating something terribly dangerous and destructive. Balancing these
+factors against each other rigorously, seems beyond the scope of current human science.
+Nobody really understands the social dynamics by which open technological knowledge plays
+out in our current world, let alone hypothetical future scenarios. Right now there exists open
+knowledge about many very dangerous technologies, and there exist many terrorist groups, yet
+these groups fortunately make scant use of these technologies. The reasons why appear to be
+essentially sociological – the people involved in these terrorist groups tend not to be the ones
+who have mastered the skills of turning public knowledge on cutting-edge technologies into real
+engineered systems. But while it’s easy to observe this sociological phenomenon, we certainly
+have no way to estimate its quantitative extent from first principles. We don’t really have a
+strong understanding of how safe we are right now, given the technology knowledge available
+right now via the Internet, textbooks, and so forth. Even relatively straightforward issues such
+as nuclear proliferation remain confusing, even to the experts.
+It’s also quite clear that keeping powerful AGI locked up by an elite group doesn’t really
+provide reliable protection against malevolent human agents. History is rife with such situations
+going awry, e.g. by the leadership of the group being subverted, or via brute force inflicted by
+some outside party, or via a member of the elite group defecting to some outside group in the
+interest of personal power or reward or due to group-internal disagreements, etc. There are
+many things that can go wrong in such situations, and the confidence of any particular group
+that they are immune to such issues, cannot be taken very seriously. Clearly, neither the open
+nor closed approach qualifies as a panacea.
+12.3 The Value of an Explicit Goal System 209
+12.3 The Value of an Explicit Goal System
+One of the subtle issues confronted in the quest to design ethical AGIs is how closely one
+wants to emulate human ethical judgment and behavior. Here one confronts the brute fact
+that, even according to their own deeply-held standards, humans are not all that ethical. One
+high-level conclusion we came to very early in the process of designing CogPrime is that, just as
+humans are not the most intelligent minds achievable, they are also not the most ethical minds
+achievable. Even if one takes human ethics, broadly conceived, as the standard – there are
+almost surely possible AGI systems that are much more ethical according to human standards
+than nearly all human beings. This is not mainly because of ethics-specific features of the
+human mind, but rather because of the nature of the human motivational system, which leads
+to many complexities that drive humans to behaviors that are unethical according to their own
+standards. So, one of the design decisions we made for CogPrime – with ethics as well as other
+reasons in mind – was not to closely imitate the human motivational system, but rather to craft
+a novel motivational system combining certain aspects of the human motivational system with
+other profoundly non-human aspects.
+On the other hand, the design of ethical AGI systems still has a lot to gain from the study
+of human ethical cognition and behavior. Human ethics has many aspects, which we associate
+here with the different types of memory, and it’s important that AGI systems can encompass
+all of them. Also, as we will note below, human ethics develops in childhood through a series
+of natural stages, parallel to and entwined with the cognitive developmental stages reviewed in
+Chapter 11 above. We will argue that for an AGI with a virtual or robotic body, it makes sense
+to think of ethical development as proceeding through similar stages. In a CogPrime context,
+the particulars of these stages can then be understood in terms of the particulars of CogPrime’s
+cognitive processes – which brings AGI ethics from the domain of theoretical abstraction into
+the realm of practical algorithm design and education.
+But even if the human stages of ethical development make sense for non-human AGIs, this
+doesn’t mean the particulars of the human motivational system need to be replicated in these
+AGIs, regarding ethics or other matters. A key point here is that, in the context of human
+intelligence, the concept of a "goal" is a descriptive abstraction. But in the AGI context, it
+seems quite valuable to introduce goals as explicit design elements (which is what is done in
+CogPrime ) – both for ethical reasons and for broader AGI design reasons.
+Humans may adopt goals for a time and then drop them, may pursue multiple conflicting
+goals simultaneously, and may often proceed in an apparently goal-less manner. Sometimes the
+goal that a person appears to be pursuing, may be very different than the one they think they’re
+pursuing. Evolutionary psychology [BDL93] argues that, directly or indirectly, all humans are
+ultimately pursuing the goal of maximizing the inclusive fitness of their genes – but given the
+complex mix of evolution and self-organization in natural history [Sal93], this is hardly a general
+explanation for human behavior. Ultimately, in the human context, "goal" is best thought of
+as a frequently useful heuristic concept.
+AGI systems, however, need not emulate human cognition in every aspect, and may be
+architected with explicit "goal systems." This provides no guarantee that said AGI systems will
+actually pursue the goals that their goal systems specify – depending on the role that the goal
+system plays in the overall system dynamics, sometimes other dynamical phenomena might
+intervene and cause the system to behave in ways opposed to its explicit goals. However, we
+submit that this design sketch provides a better framework than would exist in an AGI system
+closely emulating the human brain.
+210 12 The Engineering and Development of Ethics
+We realize this point may be somewhat contentious – a counter-argument would be that
+the human brain is known to support at least moderately ethical behavior, according to human
+ethical standards, whereas less brain-like AGI systems are much less well understood. However,
+the obvious counter-counterpoints are that:
+• Humans are not all that consistently ethical, so that creating AGI systems potentially much
+more practically powerful than humans, but with closely humanlike ethical, motivational
+and goal systems, could in fact be quite dangerous
+• The effect on a human-like ethical/motivational/goal system of increasing the intelligence,
+or changing the physical embodiment or cognitive capabilities, of the agent containing the
+system, is unknown and difficult to predict given all the complexities involved
+The course we tentatively recommend, and are following in our own work, is to develop AGI
+systems with explicit, hierarchically-dominated goal systems. That is:
+• create one or more "top goals" (we call them Ubergoals in CogPrime )
+• have the system derive subgoals from these, using its own intelligence, potentially guided
+by educational interaction or explicit programming
+• have a significant percentage of the system’s activity governed by the explicit pursuit of
+these goals
+Note that the "significant percentage" need not be 100%; CogPrime, for example, combines
+explicitly goal-directed activity with other "spontaneous" activity. Requiring that all activity
+be explicitly goal-directed may be too strict a requirement to place on AGI architectures.
+The next step, of course, is for the top-level goals to be chosen in accordance with the
+principle of human-Friendliness. The next one of our eight points, about the Global Brain,
+addresses one way of doing this. In our near-term work with CogPrime, we are using simplistic
+approaches, with a view toward early-stage system testing.
+12.4 Ethical Synergy
+An explicit goal system provides an explicit way to ensure that ethical principles (as represented
+in system goals) play a significant role in guiding an AGI system’s behavior. However, in an
+integrative design like CogPrime the goal system is only a small part of the overall story,
+and it’s important to also understand how ethics relates to the other aspects of the cognitive
+architecture.
+One of the more novel ideas presented in this chapter is that different types of ethical intuition
+may be associated with different types of memory – and to possess mature ethics, a mind
+must display ethical synergy between the ethical processes associated with its memory types.
+Specifically, we suggest that:
+• Episodic memory corresponds to the process of ethically assessing a situation based on
+similar prior situations
+• Sensorimotor memory corresponds to “mirror neuron” type ethics, where you feel another
+person’s feelings via mirroring their physiological emotional responses and actions
+• Declarative memory corresponds to rational ethical judgment
+12.4 Ethical Synergy 211
+• Procedural memory corresponds to “ethical habit” ... learning by imitation and reinforcement
+to do what is right, even when the reasons aren’t well articulated or understood
+• Attentional memory corresponds to the existence of appropriate patterns guiding one to
+pay adequate attention to ethical considerations at appropriate times
+• Intentional memory corresponds to the pervasion of ethics through one’s choices about
+subgoaling (which leads into “when do the ends justify the means” ethical-balance questions)
+One of our suggestions regarding AGI ethics is that an ethically mature person or AGI must
+both master and balance all these kinds of ethics. We will focus especially here on declarative
+ethics, which corresponds to Kohlberg’s theory of logical ethical judgment; and episodic ethics,
+which corresponds to Gilligan’s theory of empathic ethical judgment. Ultimately though, all five
+aspects are critically important; and a CogPrime system if appropriately situated and educated
+should be able to master and integrate all of them.
+12.4.1 Stages of Development of Declarative Ethics
+Complementing generic theories of cognitive development such as Piaget’s and Perry’s, theorists
+have also proposed specific stages of moral and ethical development. The two most relevant
+theories in this domain are those of Kohlberg and Gilligan, which we will review here, both
+individually and in terms of their integration and application in the AGI context.
+Lawrence Kohlberg’s [KLH83, Koh81] moral development model, called the “ethics of justice”
+by Gilligan, is based on a rational modality as the central vehicle for moral development. In our
+perspective this is a firmly declarative form of ethics, based on explicit analysis and reasoning. It
+is based on an impartial regard for persons, proposing that ethical consideration must be given
+to all individual intelligences without a priori judgment (prejudice). Consideration is given for
+individual merit and preferences, and the goals of an ethical decision are equal treatment (in
+the general, not necessarily the particular) and reciprocity. Echoing Kant’s [Kan64] categorical
+imperative, the decisions considered most successful in this model are those which exhibit
+“reversibility”, where a moral act within a particular situation is evaluated in terms of whether
+or not the act would be satisfactory even if particular persons were to switch roles within the
+situation. In other words, a situational, contextualized “do unto others as you would have them
+do unto you” criterion. The ethics of justice can be viewed as three stages (each of which has
+six substages, on which we will not elaborate here), depicted in Table 12.1.
+In Kohlberg’s perspective, cognitive development level contributes to moral development, as
+moral understanding emerges from increased cognitive capability in the area of ethical decision
+making in a social context. Relatedly, Kohlberg also looks at stages of social perspective and
+their consequent interpersonal outlook. As shown in Table 12.1, these are correlated to the
+stages of moral development, but also map onto Piagetian models of cognitive development (as
+pointed out e.g. by Gibbs [Gib78], who presents a modification/interpretation of Kohlberg’s
+ideas intended to align them more closely with Piaget’s). Interpersonal outlook can be understood
+as rational understanding of the psychology of other persons (a theory of mind, with or
+without empathy). Stage One, emergent from the infantile congitive stage, is entirely selfish
+as only self awareness has developed. As cognitive sophistication about ethical considerations
+increases, so do the moral and social perspective stages. Concrete and formal cognition bring
+about the first instrumental egoism, and then social relations and systems perspectives, and
+212 12 The Engineering and Development of Ethics
+Stage
+Pre-Conventional
+Conventional
+Post-Conventional
+Substages
+• Obedience and Punishment Orientation
+• Self-interest orientation
+• Interpersonal accord (conformity) orientation
+• Authority and social-order maintaining (law and order)
+orientation
+• Social contract (human rights) orientation
+• Universal ethical principles (universal human rights) orientation
+Table 12.1: Kohlberg’s Stages of Development of the Ethics of Justice
+from formal and then reflexive thinking about ethics comes the post-conventional modalities of
+contractualism and universal mutual respect.
+Stage of Social Perspective
+Interpersonal Outlook
+Blind egoism No interpersonal perspective. Only self is considered.
+Instrumental egoism See that others have goals and perspectives, and either conform
+to or rebel against norms.
+Social Relationships Able to see abstract normative systems
+perspective
+Social Systems perspective
+Recognize positive and negative intentions
+Contractual perspective
+Recognize that contracts (mutually beneficial agreements of
+any kind) will allow intelligences to increase the welfare of
+both.
+Universal principle of See how human fallibility and frailty are impacted by communication.
+mutual respect
+Table 12.2: Kohlberg’s Stages of Development of Social Perspective and Interpersonal Morals
+12.4.1.1 Uncertain Inference and the Ethics of Justice
+Taking our cue from the analysis given in Chapter 11 of Piagetan stages in uncertain inference
+based AGI systems (such as CogPrime ), we may explore the manifestation of Kohlberg’s
+stages in AGI systems of this nature. Uncertain inference seems generally well-suited as a
+declarative-ethics learning system, due to the nuanced ethical environment of real world situations.
+Probabilistic knowledge networks can model belief networks, imitative reinforcement
+learning based ethical pedagogy, and even simplistic moral maxims. In principle, they have the
+flexibility to deal with complex ethical decisions, including not only weighted “for the greater
+12.4 Ethical Synergy 213
+good” dichotomous decision making, but also the ability to develop moral decision networks
+which do not require that all situations be solved through resolution of a dichotomy.
+When more than one person is being affected by an ethical decision, making a decision based
+on reducing two choices to a single decision can often lead to decisions of dubious ethics. However,
+a sufficiently complex uncertain inference network can represent alternate choices in which
+multiple actions are taken that have equal (or near equal) belief weight but have very different
+particulars – but because the decisions are applied in different contexts (to different groups of
+individuals) they are morally equivalent. Though each individual action appears equally believable,
+were any single decision applied to the entire population one or more individual may
+be harmed, and the morally superior choice is to make case-dependent decisions. Equal moral
+treatment is a general principle, and too often the mistake is made by thinking that to achieve
+this general principle the particulars must be equal. This is not the case. Different treatment of
+different individuals can result in morally equivalent treatment of all involved individuals, and
+may be vastly morally superior to treating all the individuals with equal particulars. Simply
+taking the largest population and deciding one course of action based on the result that is most
+appealing to that largest group is not generally the most moral action.
+Uncertain inference, especially a complex network with high levels of resource access as may
+be found in a sophisticated AGI, is well suited for complex decision making resulting in a
+multitude of actions, and of analyzing the options to find the set of actions that are ethically
+optimal particulars for each decision context. Reflexive cognition and post-commitment moral
+understanding may be the goal stages of an AGI system, or any intelligence, but the other
+stages will be passed through on the way to that goal, and realistically some minds will never
+reach higher order cognition or morality with regards to any context, and others will not be
+able to function at this high order in every context (all currently known minds fail to function
+at the highest order cognitively or morally in some contexts).
+Infantile and concrete cognition are the underpinnings of the egoist and socialized stages,
+with formal aspects also playing a role in a more complete understanding of social models
+when thinking using the social modalities. Cognitively infantile patterns can produce no more
+than blind egoism as without a theory of mind, there is no capability to consider the other.
+Since most intelligences acquire concrete modality and therefore some nascent social perspective
+relatively quickly, most egoists are instrumental egoists. The social relationship and systems
+perspectives include formal aspects which are achieved by systematic social experimentation,
+and therefore experiential reinforcement learning of correct and incorrect social modalities.
+Initially this is a one-on-one approach (relationship stage), but as more knowledge of social
+action and consequences is acquired, a formal thinker can understand not just consequentiality
+but also intentionality in social action.
+Extrapolation from models of individual interaction to general social theoretic notions is also
+a formal action. Rational, logical positivist approaches to social and political ideas, however, are
+the norm of formal thinking. Contractual and committed moral ethics emerges from a higherorder
+formalization of the social relationships and systems patterns of thinking. Generalizations
+of social observation become, through formal analysis, systems of social and political doctrine.
+Highly committed, but grounded and logically supportable, belief is the hallmark of formal
+cognition as expressed contractual moral stage. Though formalism is at work in the socialized
+moral stages, its fullest expression is in committed contractualism.
+Finally, reflexive cognition is especially important in truly reaching the post-commitment
+moral stage in which nuance and complexity are accommodated. Because reflexive cognition
+is necessary to change one’s mind not just about particular rational ideas, but whole ways of
+214 12 The Engineering and Development of Ethics
+thinking, this is a cognitive precedent to being able to reconsider an entire belief system, one
+that has had contractual logic built atop reflexive adherence that began in early development.
+If the initial moral system is viewed as positive and stable, then this cognitive capacity is
+seen as dangerous and scary, but if early morality is stunted or warped, then this ability is
+seen as enlightened. However, achieving this cognitive stage does not mean one automatically
+changes their belief systems, but rather that the mental machinery is in place to consider
+the possibilities. Because many people do not reach this level of cognitive development in the
+area of moral and ethical thinking, it is associated with negative traits (“moral relativism”
+and “flip-flopping”). However, this cognitive flexibility generally leads to more sophisticated and
+applicable moral codes, which in turn leads to morality which is actually more stable because
+it is built upon extensive and deep consideration rather than simple adherence to reflexive or
+rationalized ideologies.
+12.4.2 Stages of Development of Empathic Ethics
+Complementing Kohlberg’s logic-and-justice-focused approach, Carol Gilligan’s [Gil82] “ethics
+of care” model is a moral development theory which posits that empathetic understanding
+plays the central role in moral progression from an initial self-centered modality to a socially
+responsible one. The ethics of care model is concerned with the ways in which an individual
+cares (responds to dilemmas using empathetic responses) about self and others. As shown in
+Table 12.3, the ethics of care is broken into the same three primary stage as Kohlberg, but with
+a focus on empathetic, emotional caring rather than rationalized, logical principles of justice.
+Stage
+Pre-Conventional
+Conventional
+Post-Conventional
+Principle of Care
+Individual Survival
+Self Sacrifice for the Greater Good
+Principle of Nonviolence (do not hurt others, or oneself)
+Table 12.3: Gilligan’s Stages of the Ethics of Care
+For an “ethics of care” approach to be applied in an AGI, the AGI must be capable of internal
+simulation of other minds it encounters, in a similar manner to how humans regularly simulate
+one another internally. Without any mechanism for internal simulation, it is unlikely that an
+AGI can develop any sort of empathy toward other minds, as opposed to merely logically
+or probabilistically modeling other agents’ behavior or other minds’ internal contents. In a
+CogPrime context, this ties in closely with how CogPrime handles episodic knowledge – partly
+via use of an internal simulation world, which is able to play “mental movies” of prior and
+hypothesized scenarios within the AGI system’s mind.
+However, in humans empathy involves more than just simulation, it also involves sensorimotor
+responses, and of course emotional responses – a topic we will discuss in more depth in Appendix
+?? where we review the functionality of mirror neurons and mirror systems in the human brains.
+When we see or hear someone suffering, this sensory input causes motor responses in us similar
+to if we were suffering ourselves, which initiates emotional empathy and corresponding cognitive
+processes.
+12.4 Ethical Synergy 215
+Thus, empathic “ethics of care” involves a combination of episodic and sensorimotor ethics,
+complementing the mainly declarative ethics associated with the “ethics of justice.”
+In Gilligan’s perspective, the earliest stage of ethical development occurs before empathy
+becomes a consistent and powerful force. Next, the hallmark of the conventional stage is that
+at this point, the individual is so overwhelmed with their empathic response to others that
+they neglect themselves in order to avoid hurting others. Note that this stage doesn’t occur
+in Kohlberg’s hierarchy at all. Kohlberg and Gilligan both begin with selfish unethicality, but
+their following stages diverge. A person could in principle manifest Gilligan’s conventional stage
+without having a refined sense of justice (thus not entering Kohlberg’s conventional stage); or
+they could manifest Kohlberg’s conventional stage without partaking in an excessive degree of
+self-sacrifice (thus not entering Gilligan’s conventional stage). We will suggest below that in fact
+the empathic and logical aspects of ethics are more unified in real human development than
+these separate theories would suggest. However, even if this is so, the possibility is still there
+that in some AGI systems the levels of declarative and empathic ethics could wildly diverge.
+It is interesting to note that Gilligan’s and Kohlberg’s final stages converge more closely
+than their intermediate ones. Kohlberg’s post-conventional stage focuses on universal rights,
+and Gilligan’s on universal compassion. Still, the foci here are quite different; and, as will be
+elaborated below, we believe that both Kohlberg’s and Gilligan’s theories constitute very partial
+views of the actual end-state of ethical advancement.
+12.4.3 An Integrative Approach to Ethical Development
+We feel that both Kohlberg’s and Gilligan’s theories contain elements of the whole picture of
+ethical development, and that both approaches are necessary to create a moral, ethical artificial
+general intelligence – just as, we suggest, both internal simulation and uncertain inference are
+necessary to create a sufficiently intelligent and volitional intelligence in the first place. Also,
+we contend, the lack of direct analysis of the underlying psychology of the stages is a deficiency
+shared by both the Kohlberg and Gilligan models as they are generally discussed. A successful
+model of integrative ethics necessarily contains elements of both the care and justice models, as
+well as reference to the underlying developmental psychology and its influence on the character
+of the ethical stage. Furthermore, intentional and attentional ethics need to be brought into
+the picture, complementing Kohlberg’s focus on declarative knowledge and Gilligan’s focus on
+episodic and sensorimotor knowledge.
+With these notions in mind, we propose the following integrative theory of the stages of
+ethical development, shown in Tables 12.4, 12.5 and 12.6. In our integrative model, the justicebased
+and empathic aspects of ethical judgment are proposed to develop together. Of course, in
+any one individual, one or another aspect may be dominant. Even so, however, the combination
+of the two is equally important as either of the two individual ingredients.
+For instance, we suggest that in any psychologically healthy human, the conventional stage
+of ethics (typifying childhood, and in many cases adulthood as well) involves a combination
+of Gilligan-esqe empathic ethics and Kohlberg-esque ethical reasoning. This combination is
+supported by Piagetan concrete operational cognition, which allows moderately sophisticated
+linguistic interaction, theory of mind, and symbolic modeling of the world.
+And, similarly, we propose that in any truly ethically mature human, empathy and rational
+justice are both fully developed. Indeed the two interpenetrate each other deeply.
+216 12 The Engineering and Development of Ethics
+Once one goes beyond simplistic, childlike notions of fairness (“an eye for an eye” and so
+forth), applying rational justice in a purely intellectual sense is just as difficult as any other
+real-world logical inference problem. Ethical quandaries and quagmires are easily encountered,
+and are frequently cut through by a judicious application of empathic simulation.
+On the other hand, empathy is a far more powerful force when used in conjunction with
+reason: analogical reasoning lets us empathize with situations we have never experienced. For
+instance, a person who has never been clinically depressed may have a hard time empathizing
+with individuals who are; but using the power of reason, they can imagine their worst state of

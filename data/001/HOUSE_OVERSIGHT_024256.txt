@@ -1,0 +1,512 @@
+Internet & Society: The Technologies and Politics of Control 
+Professor Jonathan Zittrain co-taught with Professor Joi Ito, Director of the MIT Media Lab 
+Harvard Law School 
+Winter 2017 
+Mon-Fri 
+10:30am-noon; 12:45pm-2pm 
+Milstein West AB 
+Syllabus 
+I. Course Description 
+This course offers a rigorous introduction to the field of cyberlaw. We will investigate the 
+evolving nature of online architecture and activities, and the ways in which law has been, and 
+will be, leveraged to influence them. 
+Course themes include the complex interaction between Internet governance organizations and 
+sovereign states, the search for balance between the ease of disseminating information online 
+and the interest of copyright holders, privacy advocates, and others in controlling that 
+dissemination, and the roles of intermediaries and platforms in shaping what people can and 
+cannot do online. The course will include an array of learning and teaching methods. Students 
+will be expected to participate in a variety of activities. 
+II. Class Schedule 
+Afternoon 
+Session 
+Morning 
+Session 
+The class meets every day from January 3rd to January 13th in 
+Milstein West AB. Each day will be divided into three phases: the 
+morning session from 10:30am to noon, lunch from noon to 12:45pm, 
+and the afternoon session from 12:45pm to 2pm. Lunch will be 
+provided. 
+A more detailed schedule of the topics we will be covering each day 
+follows below. 
+Topics (2 per day other than the last day) 
+Day 1: Introduction, Right to Be Forgotten and Jurisdiction 
+Day 2: Copyright, DRM debate between Professor Ito and Professor Zittrain (afternoon session) 
+HOUSE OVERSIGHT 024256 
+Day 3: Cryptocurrency 
+Day 4: Private Infrastructures for Government Surveillance, John DeLong/Bruce Schneier talk 
+(morning session) 
+Day 5: Net Neutrality and Internet Architecture, Dialogue with Andy Ellis (afternoon session) 
+Day 6: Weaponized Social, Open discussion with John Palfrey (morning session) 
+Day 7: Free vs. Proprietary Code and Content, Dialogue with David Clark (afternoon session) 
+Day 8: Governance, Artificial Intelligence 
+Day 9: Conclusion 
+III. Class Requirements 
+The purpose of this class is to give students a sense of the historical battles of the Internet, what 
+different actors were thinking, what they were trying to accomplish, and what levers they pulled 
+in order to select for specific outcomes. Students should apply what they have learned from 
+historical examples to a current Internet issue discussed in class and describe in a 12-15 page 
+paper what a viable solution might look like. Solutions could take the form of a policy 
+recommendation, project proposal, or code. The paper or project proposal will be due on 
+Friday, January 20th, and may be submitted by email to Samantha Bates at 
+sbates@law.harvard.edu. 
+IV. Class Materials 
+There is no required textbook for this class. All readings will be available online on the class 
+H20 playlist: https://h2o.law.harvard.edu/playlists/51511. 
+We will have a slack channel for the class. Please click on the following link to sign up: 
+https://internet-society2017.slack.com/signup. 
+Students should bring their laptops to class to use for daily activities, but all electrical devices 
+must remain off during lectures. 
+V. General Information  
+Professor Zittrain and Professor Ito will be available for group office hours after class on the 
+following dates: 
+• Wednesday, January 4th from 2:15-3:15pm in Milstein West. 
+• Monday, January 9th from 2:15-3:15pm in Milstein West. 
+• Wednesday, January 11th from 2:15-3:15pm in Milstein West. 
+HOUSE OVERSIGHT 024257 
+For other general scheduling/appointment questions, please contact: 
+Amanda McMahan 
+Assistant to Professor Zittrain 
+Office Phone: 
+Email: 
+Office location: Griswold Hall, 5th floor, Room #505 
+Yuko Barnaby 
+Assistant to Media Lab Director Ito 
+Office Phone: 
+Email: 
+Office location: MIT Media Lab, E-14, Director's Office 245 
+For course related (readings/paper) questions, please contact: 
+Samantha Bates 
+Research Associate 
+Email: 
+Natalie Saltiel 
+Coordinating Editor for the Journal of Design and Science (JoDS) 
+MIT Media Lab 
+Email: ________________________________ 
+For other information about the class, please contact: 
+Shailin Thomas 
+Teaching Fellow 
+Email: 
+Jordi Weinstock 
+Visiting Scholar 
+Email: 
+HOUSE OVERSIGHT 024258 
+Reading Assignments 
+Day 1: Introduction 
+Welcome! We aspire to the implausible: a nine-day introduction to the unusual dynamics of the 
+world's digital space, sufficient for a strategic understanding of what makes it difficult (but far 
+from impossible) to regulate or shape; who's trying to do it nonetheless; and how such efforts 
+have fared over the past twenty years, with an eye towards lessons for influencing the space 
+and the behavior within it today. 
+In addition to offering some frameworks for thinking about Internet architecture and policy, and 
+the curious open and generative nature of the phenomenon, we will delve into the net as a 
+contingently global phenomenon, and the way that complicates regulation by traditional 
+sovereigns. Our case study will be the current debates around implementation of Europe's "right 
+to be forgotten" in search engine results. As you complete the readings, you might see how 
+you'd answer the question of what a state like France's view should be towards the scope of its 
+RTBF regulation, and whether the kind of "zoning" described in the Cato Institute article from 
+thirteen years ago (!), is realizable and desirable. 
+Readings: 
+• C.P. Snow, "The Rede Lecture: The Two Cultures," (1959) pages 1-9 
+http://s-f-walker.org.uk/pubsebooks/2cultures/Rede-lecture-2-cultures.pdf archived at 
+https://perma.cc/XB6F-N9K8. 
+• John Perry Barlow, "A Declaration of the Independence of Cyberspace," Electronic 
+Frontier Foundation (February 8, 1996) https://www.eff.org/cyberspace-independence  
+archived at https://perma.cc/H2CZ-N2EX. 
+• Locke, Levine, Searles, & Weinberger, The Cluetrain Manifesto: 95 Theses (1999) 
+http://www.cluetrain.com/book/95-theses.html archived at https://perma.cc/2BLT-6ZEL. 
+• Jonathan Zittrain, The Future of the Internet and How to Stop It. New Haven: 2008 
+https://dash.harvard.edu/bitstream/handle/1/4455262/Zittrain Future%20of%20the%201  
+nternet.pdf?sequence=1 archived at https://perma.cc/NM9D-7Y2V. 
+o Read pages 1-5, 7-9, 57-61, 63-65, 67-71. 
+• Yochai Benkler, The Wealth of Networks. New Haven: 2006. 
+http://www.benkler.org/Benkler Wealth Of Networks.pdf archived at 
+https://perma.cc/BC4A-96KP. 
+o Read pages 154 (beginning "Imagine a world") - 161 
+Jurisdiction 
+• Jonathan Zittrain, "Be Careful What You Ask For: Reconciling a Global Internet and 
+Local Law," WHO RULES THE NET?, Cato Institute (2003) 
+http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/2003-03.pdf archived at 
+https://perma.cc/3JE9-GM3R. 
+HOUSE OVERSIGHT 024259 
+[OPTIONAL: Right to Be Forgotten readings] 
+• Zoe Bedell, "Google to France: 'Forget You' - An Update on the Right to Be Forgotten" 
+Lawfare (May 25, 2016) 
+https://www.lawfareblog.com/google-france-forget-you-%E2%80%93-update-right-be-for 
+gotten archived at https://perma.cc/W9EX-5AGZ. 
+• Google Spain v. Mario Costeja Gonzalez ECJ opinion (May 13, 2014) 
+http://curia.europa.eu/juris/document/document print.jsf?doclang=EN&docid=152065  
+archived at https://perma.cc/3ARS-3X04. 
+o Read paragraphs 89-99 
+• Brendan van Alsenoy and Marieke Koekkoek, The Extraterritorial Reach of the EU's 
+'Right to Be forgotten' (January 19, 2015). CiTiP Working paper 20/2015. Available at 
+SS RN: http://papers.ssrn.com/sol3/papers.cfm?abstract id =2551838 archived at 
+https://perma.cc/B3SF-YJ3W. 
+o Read pages 3-22 
+Day 2: Copyright 
+Copyright was once thought of as the defining battle of consumer networking. Academic 
+technologies brought into the mainstream made it trivial to prepare and distribute perfect copies 
+of copyrighted work without permission -- and the comparatively powerful organizations 
+representing copyright holders saw this as an existential threat. 
+We will read some of the "grim joy" experienced by Internet freedom types in dancing on the 
+grave of copyright in the mid-1990s -- and immerse in some of the law and policy changes 
+effected in the United States to deal with the problem without running up against the equities of 
+rapidly-growing intermediaries of online and Internet service providers (turns out, there's a 
+difference). 
+The copyright wars revealed a variety of strategies that we'll look at with the benefit of years of 
+hindsight, including lawsuits against network providers, software makers, and individual users 
+both sending and receiving files, as well as technical changes designed to make it more difficult 
+to share items that wish not to be shared. Ultimately we are drawn to the question of whether 
+the wars were won by one side or another, or whether it's more accurate to say that they simply 
+faded away. What issues today feel make-or-break, yet could simply fade rather than be 
+resolved, and why? 
+We'll end the day with a peek into, and practice of, a current intense if obscure debate: that of 
+whether digital rights management hooks should be placed into standards for Web browsers. 
+Readings: 
+• John Perry Barlow, "The Economy of Ideas," Wired (March 1994) 
+http://archive.wired.com/wired/archive/2.03/economy.ideas.html?topic=&topic set=  
+archived at https://perma.cc/P82S-RZP3. 
+HOUSE OVERSIGHT 024260 
+• Matthew Green, Napster Opens Pandora's Box: Examining How File-Sharing Services 
+Threaten the Enforcement of Copyright on the Internet, 63 Oh. St. L. J. 799 (2002) 
+http://moritzlaw.osu.edu/students/groups/oslyfiles/2012/03/63.2.green .pdf archived at 
+https://perma.cc/H77J-TN43. 
+• Brad Hill, "The iTunes Influence, Part I: How Apple Changed the Face of the Music 
+Marketplace," En gadget (April 29, 2013) 
+https://www.engadget.com/2013/04/29/the-itunes-influence-part-one/ archived at 
+https://perma.cc/MEU4-W5N9. 
+• David Kravets, "10 Years Later, Misunderstood DMCA is the Law That Saved the Web," 
+Wired (October 27, 2008) https://www.wired.com/2008/10/ten-years-later/ archived at 
+https://perma.cc/VH2T-7S7V. 
+• Lawrence Lessig, The Creative Commons, 55 Fla. L. Rev. 763 (2003) 
+http://homepages.law.asu.edu/—dkarjala/OpposingCopyrightExtension/commentary/Less 
+igCreativeCommonsFlaLRev2003.htm archived at https://perma.cc/T7UD-JHYZ. 
+• Alex Davies, "The EPA Opposes Rules That Could've Exposed VW's Cheating," Wired 
+(September 18, 2015) 
+https://www.wired.com/2015/09/epa-opposes-rules-couldve-exposed-vws-cheating/ 
+archived at https://perma.cc/W4RK-Q6QJ. 
+DRM and HTML5 background readings: 
+• "Information about W3C and Encrypted Media Extensions (EME)" W3C (March 2016) 
+https://www.w3.org/2016/03/EME-factsheet.html archived at 
+https://perma.cc/4ZPR-DXTA. 
+• Peter Bright, "DRM in HTML5 is a victory for the open Web, not a defeat," Ars Technica 
+(May 10, 2013) 
+http://arstechnica.com/business/2013/05/drm-in-htm15-is-a-victory-for-the-open-web-not-
+a-defeat/ archived at https://perma.cc/UM8C-NFPV. 
+Day 3: Cryptocurrency 
+One view of the progression of digital technology has been roughly from amateur to 
+professional, from open to closed, and from chaotic to ordered -- as the early successes from 
+left field of Google, Facebook, and Twitter enter publicly-traded adulthood. At the ripe year of 
+2017, are there still digital disruptions to be had? 
+The phenomenon (and increasing literal value) of cryptocurrency -- and, for that matter, the 
+foundational blockchain technologies on which it can be based -- seems to indicate that there 
+are still surprises from left field. What does the rise of cryptocurrency tell us about the state of 
+cyberspace, and what should we expect -- and hope for -- next? 
+Readings: 
+Introduction 
+HOUSE OVERSIGHT 024261 
+• Coin Center, Blockchain 101, https://coincenter.org/learn archived at 
+https://perma.cc/M2TZ-B9YX. 
+• Eli Dourado and Jerry Brito, "The New Pa!grave Dictionary of Economics: 
+cryptocurrency," Online Edition, 2014 
+http://coincenter.org/wp-content/uploads/2015/05/cryptocurrency-article.pdf archived at 
+https://perma.cc/3YFE-QS5P. 
+• Joel Monegro, "The Blockchain Application Stack" 
+http://www.coindesk.com/blockchain-application-stack/ archived at 
+https://perma.cc/4E3V-SCAL. 
+[OPTIONAL: for a more in depth technical introduction to Bitcoin] 
+• Michael Nielson, "How the Bitcoin Protocol Actually works" 
+http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/ archived at 
+https://perma.cc/C2QJ-YFEY. 
+Bitcoin & the Blockchain 
+• Joi Ito, "Why Bitcoin is and isn't like the Internet" 
+https://joi.ito.com/weblog/2015/01/23/why-bitcoin-is-.html archived at 
+https://perma.cc/CBE8-2UXQ. 
+• Joi Ito, "Why anti-money laundering laws and poorly designed copyright laws are similar 
+and should be revised," (March 12, 2016) 
+http://pubpub.ito.com/pub/dmca-drm-aml-kyc-backdoors archived at 
+https://perma.cc/7T7T-UPJK. 
+• Rachel O'Dwyer, "The Revolution Will Not Be Decentralized: Blockchains," Common 
+Transition (June 11, 2015) 
+http://commonstransition.org/the-revolution-will-not-be-decentralised-blockchains/ 
+archived at https://perma.cc/MNP7-JZZL. 
+• Vili Lehdonvirta and Edward Castronova, Virtual Economies: Design and Analysis. 2014. 
+MIT Press. 
+o Read Chapter 10: Money 
+• Raskin, Max and Yermack, David, Digital Currencies, Decentralized Ledgers, and the 
+Future of Central Banking (May 1, 2016). Peter Conti-Brown & Rosa Lastra (eds.), 
+Research Handbook on Central Banking, Edward Elgar Publishing, Spring 2017, 
+Forthcoming. Available at SSRN: https://ssrn.com/abstract=2773973 archived at 
+https://perma.cc/FTC3-M6EF. 
+Ethereum 
+• Vitalik Buterin, "What is Ethereum?," Coin Center 
+https://coincenter.org/entry/what-is-ethereum archived at https://perma.cc/WKN4-33XF. 
+Smart Contracts 
+• Houman Shadab,"What are Smart Contracts and What Can We do with Them?," Coin 
+Center (December 15, 2014) 
+HOUSE OVERSIGHT 024262 
+https://coincenter.org/entry/what-are-smart-contracts-and-what-can-we-do-with-them  
+archived at https://perma.cc/BH6T-J6S7. 
+[OPTIONAL] 
+• Arvind Narayanan; "What Happened to the Crypt° Dream, Part 1," Co-published by the 
+IEEE Computer and Reliability Societies (March/April 2013) 
+http://randomwalker.info/publications/crypto-dream-part1.pdf archived at 
+https://perma.cc/DX8U-QJ5A. 
+• Arvind Narayanan, "What Happened to the Crypt° Dream?, Part 2," Co-published by the 
+IEEE and Reliability Societies (May/June 2013) 
+http://randomwalker.info/publications/crypto-dream-part2.pdf archived at 
+https://perma.cc/F482-84AY. 
+• Lawrence Lessig Code 2.0 lecture from COALA Blockchain Workshop: 
+https://www.youtube.com/watch?v=pcYJTIbhYFO. 
+• Chelsea Barabas and Ethan Zuckerman, "Can Bitcoin be used for Good?," The Atlantic 
+(April 7, 2016) 
+http://www.theatlantic.com/technology/archive/2016/04/bitcoin-hype/477141/ archived at 
+https://perma.cc/V94Q-CCP3. 
+Day 4: Private Infrastructures for Government Surveillance 
+Digital privacy has at times been understood as privacy against corporate intrusion (think ad 
+networks); against government (think the various government intelligence-gathering 
+establishments around the world); and against one another (think drones as well as more 
+pedestrian technologies that empower people to document facts about, or even doxx, each 
+other). 
+This session will look at the second form of surveillance, especially as effectuated through the 
+cooperation or compulsion of private intermediaries. How successful is such surveillance, and 
+will it continue to be effective as the public reacts by potentially adopting privacy-enhancing 
+tools? How successful do we want it to be, and how might frameworks agreeable within 
+jurisdictions that embrace the rule of law be used or abused within those that do not? 
+Readings: 
+• David O'Brien, Matt Olsen, Bruce Schneier, and Jonathan Zittrain, et al. "Don't Panic. 
+Making Progress on the 'Going Dark' Debate," The Berkman Center for Internet & 
+Society at Harvard University (Feb 1, 2016) 
+https://cyber.law.harvard.edu/pubrelease/dont-panic/Dont Panic Making Progress on  
+Going Dark Debate.pdf archived at https://perma.cc/NT9M-ELAG. 
+• John Cassidy, "Lessons from Apple vs. The F.B.I.," The New Yorker (March 29, 2016) 
+http://www.newyorker.com/news/john-cassidy/lessons-from-apple-versus-the-f-b-i  
+archived at https://perma.cc/282P-A7MS. 
+HOUSE OVERSIGHT 024263 
+• Susan Landau, Testimony for House Judiciary Committee Hearing on "The Encryption 
+Tightrope: Balancing Americans' Security and Privacy" (March 1, 2016) 
+https://judiciary.house.gov/wp-content/uploads/2016/02/Landau-Written-Testimony.pdf 
+archived at https://perma.cc/N9D9-JTYQ. 
+• Bruce Schneier, "Data Is a Toxic Asset, So Why Not Throw It Out?," Schneier on 
+Security (March 1, 2016) 
+https://www.schneier.com/essays/archives/2016/03/data is a toxic asse.html archived 
+at https://perma.cc/7NUL-W5YJ. 
+• Stewart Baker, "Why the NSA Needs Your Phone Calls...and why you (probably) 
+shouldn't worry about it," Foreign Policy (June 6, 2013) 
+http://foreignpolicy.com/2013/06/06/why-the-nsa-needs-your-phone-calls/ archived at 
+https://perma.cc/YE3N-TSWU. 
+• [OPTIONAL] Harold Abelson et al., "Keys Under Doormats: Mandating insecurity by 
+requiring government access to all data and communications," CSAIL (Jul 7, 2015). 
+https://www.schneier.com/academic/paperfiles/paper-keys-under-doormats-CSAIL.pdf 
+archived at https://perma.cc/2L3U-QST8. 
+Day 5: Internet Architecture/Net Neutrality 
+We increasingly assume the availability of commodity networking -- a flat fee for access -- even 
+as the way in which we experience the Internet is evolving through a curious microeconomics, a 
+mishmash of policies designed to subsidize or regulate access, and a sometime ability to 
+arbitrage around arrangements through technologies to facilitate access sharing and virtual 
+tunneling. 
+How is Internet access likely to evolve, and what choices exist for polities with particular ideals 
+about how it should work? 
+Discussion will include Andy Ellis, Berkman Klein Center Fellow and CSO of Akamai, one of the 
+most important companies that people haven't heard of. 
+Readings: 
+Net Neutrality 
+• [FOR REFERENCE] Net Neutrality timeline, Public Knowledge: 
+http://whatisnetneutrality.org/timeline archived at https://perma.cc/L8JE-QYP8. 
+• Tim Wu, Network Neutrality, Broadband Discrimination. Journal of Telecommunications 
+and High Technology Law, Vol. 2, p. 141 (2003). Available at SSRN: 
+https://ssrn.com/abstract=388863 or http://dx.doi.org/10.2139/ssrn.388863 archived at 
+https://perma.cc/X856-RWSC. 
+o Read the introduction and Part I A, pages 141-147. 
+• Tim Wu and Christopher Yoo, "Keeping the Internet Neutral?: Tim Wu and Christopher 
+Yoo Debate," Federal Communications Law Journal. 59 (2007), pp. 575-592 
+HOUSE OVERSIGHT 024264 
+https://papers.ssrn.com/sol3/papers.cfm?abstract id=953989 archived at 
+https://perma.cc/FHE3-XUED. 
+• Tom Wheeler, "This is How We Will Ensure Net Neutrality," Wired (February 4, 2015) 
+https://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/ archived at 
+https://perma.cc/C8DE-2PJB. 
+Zero-rating 
+• Jeremy Malcolm, Corynne Mcsherry, and Kit Walsh, "Zero rating: What It Is and Why 
+You Should Care," Electronic Frontier Foundation (February 18, 2016) 
+https://www.eff.org/deeplinks/2016/02/zero-rating-what-it-is-why-you-should-care  
+archived at https://perma.ccN6TW-2QAG. 
+• Arturo J Carrillo, Having Your Cake and Eating it Too? Zero-Rating, Net Neutrality and 
+International Law (March 6, 2016). 19 Stan. Tech. L. Rev. 364 (2016). Available at 
+SS RN: https://ssrn.com/abstract=2746447 archived at https://perma.cc/9Z28-X6A4. 
+o Read part IV (pages 418-428). 
+Internet Architecture 
+• Mike Masnick, "Can We Kill This Ridiculous Shill-Spread Myth That CDNs Violate Net 
+Neutrality? They Don't," TechDirt (August 13, 2014) 
+https://www.techdirt.com/articles/20140812/04314528184/can-we-kill-this-ridiculous-sh ill-
+spread-myth-that-cdns-violate-net-neutrality-they-dont.shtml archived at 
+https://perma.cc/YK3D-3BQG. 
+Day 6: Weaponized Social 
+The time when the solution to bad speech could be advanced as simply more speech might 
+seem quaint. The famously libertarian Electronic Frontier Foundation recently released a white 
+paper in which it acknowledged a line between a clash of ideas and flat-out harassment, with 
+the latter causing less rather than more robust debate. Separately, concerns about outright 
+false news that spreads virally have inspired calls for action by intermediaries like Facebook -- a 
+self-described technology, rather than media, company. 
+Applying lessons from the conflicts of the past two decades online, how might we agree upon a 
+vision for social networking even if we disagree on many substantive issues to be debated 
+there, and what are the roles, if any, of regulators and private platforms in establishing 
+boundaries on behavior online through code or legal sanction? 
+Is it more difficult to agree on a vision is our media is no longer about the battlefield or the real 
+world but is the battlefield and the real world? 
+HOUSE OVERSIGHT 024265 
+Readings: 
+The Problem 
+• Eugene Volokh, "No, there's no 'hate speech' exception to the First Amendment," The 
+Washington Post (May 7, 2015) 
+https://www.washingtonpost.com/news/volokh-conspiracy/wp/2015/05/07/no-theres-no-h  
+ate-speech-exception-to-the-first-amendment/?utm term =.78330882267d  archived at 
+https://perma.cc/A5ES-HMQE. 
+• Jon Ronson, "How One Stupid Tweet Blew Up Justine Sacco's Life," The New York 
+Times Magazine (February 12, 2015) 
+http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-sacc  
+os-life.html? r=0 archived at https://perma.cc/3AHS-Z9EU. 
+• Adrian Chen, "The Agency," The New York Times Magazine (June 2, 2015) 
+http://www.nytimes.com/2015/06/07/magazine/the-agency.html? r=0 archived at 
+https://perma.cc/BER2-TD6E. 
+• Reeves Wiedeman, "The Sandy Hook Hoax," The New York Magazine (September 5, 
+2016) http://nymag.com/daily/intelligencer/2016/09/the-sandy-hook-hoax.html archived 
+at https://perma.cc/T9YD-U8Z9. 
+• Gilad Lotan, "Fake News Is Not the Only Problem," Points (November 22, 2016) 
+https://points.datasociety.net/fake-news-is-not-the-problem-f0Oec8cdfcb#.kwtO1pk4h  
+archived at https://perma.cc/B3FK-FJVX. 
+• Craig Silverman, "How Teens In The Balkans Are Duping Trump Supporters With Fake 
+News," BuzzFeed (November 3, 2016) 
+https://www.buzzfeed.com/craigsilverman/how-macedonia-became-a-global-hub-for-pro-
+trump-misinfo?utm term=.n1pEm5kbY#.apomjgWID archived at 
+https://perma.cc/SB2G-9XUM. 
+• Caitlin Dewey, "Facebook fake-news writer: 'I think Donald Trump is in the White House 
+because of me,- The Washington Post (November 17, 2016) 
+https://www.washingtonpost.com/news/the-intersect/wp/2016/11/17/facebook-fake-news  
+-writer-i-think-donald-trump-is-in-the-white-house-because-of-me/?utm term=.e2d9c7b0  
+d5e6 archived at https://perma.cc/B6S4-UBJC. 
+The Search for Solutions 
+• Andy Greenberg, "Inside Google's Internet Justice League and Its AI-Powered War on 
+Trolls," Wired (September 19, 2016) 
+https://www.wired.com/2016/09/inside-googles-internet-justice-league-ai-powered-war-tr 
+olls/ archived at https://perma.cc/K56R-MGBX. 
+• Dia Kayyali and Danny O'Brien, "Facing the Challenge of Online Harassment" Electronic 
+Frontier Foundation (January 8, 2015) 
+https://www.eff.org/deeplinks/2015/01/facing-challenge-online-harassment, archived at 
+https://perma.cc/98RS-L876. 
+• State v. Robert Bishop, 223PA15 (June 10, 2016) 
+https://h2o.law.harvard.edu/collages/42536. 
+HOUSE OVERSIGHT 024266 
+Day 7: Free vs. Proprietary Code and Content 
+This day examines quite different models for the development and distribution of software --
+which can also serve as models for hardware, and for content. What kind of ecosystem, 
+featuring what models, is desirable? 
+We will think about current issues in cybersecurity as a case study in why free vs. proprietary 
+code might matter, and take up the question of how regulation might be applied when there are 
+no easily identified intermediaries in the production of code. 
+And we will hear from the legendary David Clark, one of the framers of the Internet. 
+Readings: 
+• Richard Stallman, "Original Announcement of the GNU Project," GNU Operating System 
+(September 27, 1983) https://www.gnu.org/gnu/initial-announcement.html archived at 
+https://perma.cc/2V5W-89P3. 
+• The Free Software Foundation, "What is free software?," GNU Operating System 
+http://www.gnu.org/philosophy/free-sw.html archived at https://perma.cc/7884-5ZUR. 
+o [FOR REFERENCE] The Free Software Foundation, "Categories of Free and 
+nonfree software," GNU Operating System: 
+https://www.gnu.org/philosophy/categories.html archived at 
+https://perma.cc/HH79-6YVX. 
+• Jonathan Zittrain, The Future of the Internet and How to Stop It. New Haven: 2008 
+https://dash.harvard.edu/bitstream/handle/1/4455262/Zittrain Future%20of%20the%201  
+nternet.pdf?sequence=1 archived at https://perma.cc/B7RL-JRKK. 
+o Read Chapter 4: Generative Patterns (pages 67-100). 
+• Jeff Atwood, "Tivoization and the GPL," Coding Horror (February 18, 2008), 
+https://blog.codinghorror.com/tivoization-and-the-gpl/ archived at 
+https://perma.cc/YFQ5-42XW. 
+• Rusty Foster, "The Internet's Telltale Heartbleed," The New Yorker (April 9, 2014) 
+http://www.newyorker.com/tech/elements/the-internets-telltale-heartbleed archived at 
+https://perma.cc/AC9L-HW34. 
+• Ron Amadeo, "Google's iron grip on Android: Controlling open source by any means 
+necessary," Ars Technica (October 20, 2013) 
+http://arstechnica.com/gadgets/2013/10/googles-iron-grip-on-android-controlling-open-so 
+urce-by-any-means-necessary/ archived at https://perma.cc/QKW2-3EQH. 
+• [OPTIONAL] Open Source Licenses: Richard Fontana et. al, A Legal Issues Primer For 
+Open Source and Free Software Projects. Software Freedom Law Center (June 4, 2008) 
+https://www.softwarefreedom.org/resources/2008/foss-primer.pdf archived at 
+https://perma.cc/2CMH-UP4G. 
+o Read Chapter 2 only. 
+HOUSE OVERSIGHT 024267 
+Day 8: Governance 
+The tensions between free vs. proprietary software help focus us on foundational questions of 
+governance that are threaded through the course. To what extent should new technologies be 
+shaped and shared by anyone without gatekeeping? 2017 may find the Internet in middle age. 
+Do its puzzles suggest anything about whether and how to resolve governance questions for 
+more newly mainstreamed technologies like machine learning and other Al? 
+In addition to the challenges that the Internet has provided in regulation and governance, the 
+inability to really understand what many "learned" algorithms do, and their ability to have 
+properties and abilities beyond the capabilities of their initial designers, presents additional 
+challenges when thinking about whether and how to regulate the research, as well as the 
+deployment, of Al. Phenomena like digital currencies and distributed Al systems reprises the 
+ideas and challenges of Barlow's declaration of independence of cyberspace. 
+Readings: 
+Governance: loT Security 
+• J.M. Porup, "Internet of Things' security is hilariously broken and getting worse" Ars 
+Technica (January 23, 2016) 
+http://arstechnica.com/security/2016/01/how-to-search-the-internet-of-things-for-photos-o 
+f-sleeping-babies/ archived at https://perma.cc/R8LZ-MULJ. 
+• Nicole Perlroth, "Hackers Used New Weapons to Disrupt Major Websites Across U.S." 
+The New York Times (October 21, 2016) 
+http://www.nytimes.com/2016/10/22/business/internet-problems-attack.html. 
+Governance: Algorithmic Accountability 
+• Jonathan Zittrain, "Facebook Could Decide an Election Without Anyone Ever Finding 
+Out," New Republic (June 1, 2014) 
+https://newrepublic.com/article/117878/information-fiduciary-solution-facebook-digital-ger 
+rymandering archived at https://perma.cc/ED8B-C7YL. 
+• Carole Cadwalladr, "Google, democracy and the truth about internet search," The 
+Guardian (December 4, 2016) 
+https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-s  
+earch-facebook archived at https://perma.cc/JC7F-XDUM. 
+• Cathy O'Neil, Weapons Of Math Destruction : How Big Data Increases Inequality And 
+Threatens Democracy [e-book]. New York: Crown; 2016. Available from: eBook 
+Collection (EBSCOhost), Ipswich, MA. Accessed December 10, 2016 
+o Read the Introduction and Chapter 1 (will print for the students) 
+• Jack Balkin and Jonathan Zittrain, "A Grand Bargain to Make Tech Companies 
+Trustworthy," The Atlantic (October 3, 2016) 
+http://www.theatlantic.com/technology/archive/2016/10/information-fiduciary/502346/ 
+archived at https://perma.cc/QXX4-VASM. 
+HOUSE OVERSIGHT 024268 
+Artificial Intelligence 
+• Joichi Ito, Extended Intelligence (February, 2016) 
+http://www.pubpub.org/pub/extended-intelligence. 
+• Joichi Ito, Society in the Loop (June 23, 2016) 
+https://joi.ito.com/weblog/2016/06/23/society-in-the-.html archived at 
+https://perma.cc/AU7Y-BABZ. 
+• Kevin Kelly, "The Three Breakthroughs That Have Finally Unleashed Al on the World," 
+Wired (October 17, 2014) https://www.wired.com/2014/10/future-of-artificial-intelligence/ 
+archived at https://perma.cc/CA2Y-3T58. 
+• Kate Crawford and Ryan Cab, "There is a Blind Spot in Al Research," Nature (October 
+13, 2016) http://www.nature.com/news/there-is-a-blind-spot-in-ai-research-1.20805  
+archived at https://perma.cc/5EZ5-HWQJ. 
+• Azim Shariff, lyad Rahwan and Jean-Francois Bonnefon, "Whose Life Should Your Car 
+Save?" The New York Times (November, 3, 2016) 
+http://www.nytimes.com/2016/11/06/opinion/sunday/whose-life-should-your-car-save.htm  
+• John Danaher, "Is Effective Regulation of Al Possible? Eight Potential Regulatory 
+Problems" Philosophical Disquistions (July 7, 2015) 
+http://philosophicaldisquisitions.blogspot.com/2015/07/is-effective-regulation-of-ai-possib  
+le.html archived at https://perma.cc/2GBN-FVMM. 
+• John Danaher, "Is Anyone Competent to Regulate Artificial Intelligence?" Philosophical 
+Disquistions (November 16, 2015) 
+http://philosophicaldisquisitions.blogspot.ie/2015/11/is-anyone-competent-to-regulate.ht  
+ml archived at https://perma.cc/LZ9L-HZJY. 
+Day 9: Conclusion 
+• John Perry Barlow, "A Declaration of the Independence of Cyberspace," Electronic 
+Frontier Foundation (February 8, 1996) https://www.eff.org/cyberspace-independence  
+archived at https://perma.cc/H2CZ-N2EX. 
+• Locke, Levine, Searls, & Weinberger, The Cluetrain Manifesto: 95 Theses (1999) 
+http://www.cluetrain.com/book/95-theses.html archived at https://perma.cc/2BLT-6ZEL. 
+• Ethan Zuckerman, "The Internet's Original Sin," The Atlantic (August 14, 2014) 
+http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-origin  
+al-sin/376041/ archived at https://perma.cc/C7D5-754L?type=image. 
+• Maciej Ceglowski, "An Internet With A Human Face," Idle Words (May 2014) 
+http://idlewords.com/talks/internet with a human face.htm. 
+• Weinberger & Searls, Cluetrain Manifesto: New Clues (2015) 
+http://newclues.cluetrain.com/ archived at https://perma.cc/P7K9-UXXP. 
+HOUSE OVERSIGHT 024269 

@@ -1,0 +1,227 @@
+﻿March 15, 2012
+Topics: Is US data as good as it looks? Is Chinese data as bad as it looks? Is European data as bizarre as it looks?
+What a diff’rence a day makes. Ever since the ECB giftwrapped
+650 billion Euros for EU banks, the news has been
+pretty good, particularly in the US. Most of the market’s
+focus is on the US consumer, for the simple reason that US
+households are the largest single economic force in the world
+(see table). Even after deconstructing the labor report for
+signs of false positives 1 , the message is clear: US job markets
+are gradually getting better, and so is spending. The capital
+position of US banks is in good shape 2 , so we expect access
+to credit to remain easy 3 . A US GDP growth rate of 2.25% is
+still below trend, but a long way from the unavoidable
+recession articulated by the ECRI last fall. I agree with those
+who think the US economy could not withstand a withdrawal
+of stimulus right now, but I also do not see the Fed actively
+withdrawing it. Whatever rain dance the Fed is doing to
+keep inflation low, they better keep doing it.
+A chart I saw on the history of jobless claims (below, left) was meant to show how good things may get. In the prior 3 business
+cycles, when continuing claims fell through 2.2% of the labor force (1982, 1993, 2003), it was a great time to add risk in
+portfolios. Improving claims signaled that the business cycle was picking up enough steam to be self-sustaining, and last week,
+the US crossed through this barrier again. But as Big Bird used to say, one of these things is not like the other: the US
+primary budget deficit which supports this recovery is a bigger now. So, the US economy better improve markedly in order
+to pay the freight. When will this chart on the primary deficit (below, right) matter to financial markets? Only when it becomes
+a binding constraint, either due to a lack of demand to finance the deficit at current yields, or due to the economic cost of closing
+it. The timing is uncertain, given Central Bank purchases of Treasury bonds, and a Congress which may leave the problem for
+another day (or generation). I lose a lot of sleep over this, but I don’t know a lot of other people that do. As discussed last
+week, portfolio allocations given today’s private and public sector realities vary substantially across wealth management firms.
+Ours rely on hedge funds, credit and real estate as complements to public and private equity.
+In past cycles, claims were a great market signal
+Continuing claims as a % of labor force
+5.0%
+4.5%
+4.0%
+3.5%
+3.0%
+2.5%
+2.0%
+1.5%
+1.0%
+1967 1972 1977 1982 1987 1992 1997 2002 2007 2012
+Source: Department of Labor, BLS, Empirical Research Partners.
+The importance of the US consumer
+Billions of USD
+Private
+Consumption Investment Gov. Net
+Spending exports
+US 10,417 1,818 3,020 (500)
+Asia 8,231 4,614 3,449 424
+Asia ex. CN/JPN 2,761 597 1,482 134
+Japan 3,501 1,185 1,175 58
+China 1,969 2,832 792 232
+Europe 9,670 3,148 3,662 130
+EMU 7,145 2,386 2,704 145
+Latin America 2,747 754 1,010 28
+Source: Haver. Data as of Q4 2010.
+Paging Dick Cheney: Do Deficits Matter?
+Deficit ex-interest, percent of GDP, seasonally adjusted
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+-10
+-12
+1954 1967 1981 1995 2008
+Source: CBO, BEA, OMB, J.P. Morgan Private Bank.
+1 Our chief economist Michael Vaknin has analyzed the various seasonal adjustments that the Bureau of Labor Statistics uses when it reports
+payrolls. After adjusting for better weather, the Lehman shock and other factors, payroll growth does not look quite as good as reported, but
+is still positive. The trend is supported by the latest Manpower surveys, Institute for Supply Management surveys, JOLTS surveys, etc, all of
+which show growing demand for labor. Even state and local government firing has finally come to an end, which was a constant fixture of
+the last two years. So far, hourly earnings remain very weak, and typically do not grow until later in the cycle.
+2 The latest US bank stress tests were pretty stressful. Two-year loss assumptions applied by the Fed were higher than those experienced
+during 2008 and 2009, and comparable in almost every category to realized losses during the Great Depression. Almost every institution
+passed the test, and even the ones that didn’t are expected to reach required capital levels in short order. US banks have sharply reduced
+reliance on “hot money” (time deposits, commercial paper and repo), relying instead on core retail deposits to finance their balance sheets.
+Comparing the rigor of US and European bank stress tests is like comparing the rigors of actual football to Wii football.
+3 So far, net household borrowing other than student loans is weak; loan growth is almost exclusively from companies rather than households.
+1
+March 15, 2012
+Topics: Is US data as good as it looks? Is Chinese data as bad as it looks? Is European data as bizarre as it looks?
+There’s also some good news on the global profit outlook, or at least an end to the bad news. A measure of global earnings
+revisions had been running negative for 40 weeks in a row until last week when it turned slightly positive. Other corroborating
+evidence comes from conversations we’ve had with private equity firms, whose portfolio companies are generally planning for
+10%-20% increases in capital spending budgets this year.
+Global earnings revisions vs. global equities
+(# of upgrades minus # of downgrades) / total revisions Level
+1,575
+0.4
+0.3
+0.2
+0.1
+0.0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+-0.7
+MSCI World
+Index
+2008 2009 2010 2011 2012
+Source: Citigroup, Bloomberg.
+1,475
+1,375
+1,275
+1,175
+1,075
+975
+875
+775
+675
+Unfortunately, the ECB can't create jobs
+Employment, percent change, QoQ, saar
+3%
+-3%
+2005 2006 2007 2008 2009 2010 2011
+Source: Eurostat, Bundesbank.
+After four years that challenge some of the basic assumptions of efficient markets and laissez-faire capitalism, there is a pent-up
+demand for normalcy among individual investors, money managers, CEOs, corporate treasurers, pension funds, regulators, etc.
+Through massive money creation, Central Banks have provided the veneer of normalcy which has allowed the private sector to
+get moving again in the US, or at least in the case of Europe, to stop declining. Markets love it. Is the ECB’s Mario Draghi a
+genius? Only time will tell. The last time the term Maestro got thrown around, it was a case of premature exaltation.
+The latest from Europe: my head is hot and my feet are freezing
+Angela Merkel described Europe as being “a good way up the mountain path” regarding the debt crisis. Courtesy of the ECB,
+there has been a dramatic improvement in sovereign and bank debt markets. However, in the real economy, improvements are
+much harder to find. In contrast to improving labor markets in the US, Europe still looks pretty bad outside Germany (see chart
+above; the declining Euro Area line includes the better data from Germany). Other variables related to production and
+consumption show the same regional divergences. The challenge for Spain looks particularly daunting, given a less open
+economy than countries like Ireland, escalating costs associated with bank recapitalization and municipal funding shortfalls, and
+the likely continued withdrawal of foreign capital from the private sector. Even with continued German assistance, it’s going to
+be a long and freezing mountain hike for the periphery.
+On investments, we saw a lot of things we recognized in a 76-page Morgan Stanley paper on bank deleveraging and real estate.
+This has been one of our primary investment themes over the last year. MS estimates 3 trillion Euros of deleveraging by
+European banks in the next 3-5 years, even with ECB repo facilities slowing the pace of asset dispositions, and a more
+relaxed approach to Basel 3. Europe’s greater reliance on banks to finance commercial property investments (versus capital
+markets) is a primary driver here. One example: amazingly, Spanish banks have more domestic commercial real estate loans
+than UK and German banks combined. There are likely to be opportunities in purchasing loan portfolios, and in providing
+capital to refinance existing loans. In an environment of low growth, perpetual austerity and rising consumer stress, and the
+lingering possibility of a devaluation in some countries, buyer portfolio discounts need to be large enough to make sense.
+Where is China heading?
+There is a roiling epistemological debate as to whether China’s current decline is structural or cyclical. As an aside, two of JP
+Morgan’s investment banking analysts (one an economist, the other an equity market strategist) have taken opposite sides of the
+debate, which is in and of itself a healthy thing. Like the question about whether Italy has a liquidity crisis or a solvency crisis,
+the answer depends on your definition, and definitions can change depending on how governments respond. On the following
+page, we include our own China Dashboard we use to track what’s going on. Now that we have February data as well as
+January and can adjust for some of the New Year effects, it’s pretty clear that China is slowing. Markets are still nervous, since
+Premier Wen stated that the government is still concerned about elevated home prices, and that they will continue tight policies
+on property markets. Home price to income ratios in some major cities exceed peak 2006 California levels.
+But with the collapse in Chinese inflation, the government has room to re-stimulate a bit. Recently, the Chinese government has
+injected more liquidity; expanded the quota for foreign equity investment; cut bank reserve requirements; delayed tighter capital
+2%
+1%
+0%
+-1%
+-2%
+Germany
+Euro Area
+2
+March 15, 2012
+Topics: Is US data as good as it looks? Is Chinese data as bad as it looks? Is European data as bizarre as it looks?
+adequacy rules; created a program through which municipalities can issue bonds with government guarantees (rather than
+having to borrow from banks); eased first time homebuyer restrictions; and injected capital into its biggest banks. What the
+China debate is really about is whether these measures will reinvigorate growth or not. Since much of the recent
+slowdown was self-imposed due to inflation concerns, it seems reasonable to us to expect the Chinese economy to respond
+positively to stimulus should it be reapplied. We are not big buyers of Chinese onshore equities for reasons we have
+explained before, but we do rely on 7%-8% Chinese GDP growth to fuel economic activity in Asia that underpins many
+of our investments there. As things stand now, we see no reason why this growth target will not be achieved.
+Chinese economic monitor, percent change*, YoY, sa, 2006 to present
+Total loans
+CPI
+Exports
+PMI
+Money
+supply
+Non-food CPI
+Retail
+sales
+Passenger car
+sales
+Fixed asset
+investment
+Housing price to
+income
+Shenzhen
+Beijing
+Shanghai
+IP
+Electricity
+production
+Cement
+production
+Steel
+production
+Source: National Bureau of Statistics, PBOC, China Automotive Information, China Economic Information Network, CLSA-Markit, Haver Analytics. J.P. Morgan
+Securities LLC, ISI Group, J.P. Morgan Private Bank. * PMI data are index level. Housing price to income, cement production and steel production are as of
+Dec. 2011. All the other data are as of Feb. 2012.
+Michael Cembalest
+Chief Investment Officer
+“What a diff’rence a day makes”, Dinah Washington, 1959, Mercury Records
+“Banks Deleveraging and Real Estate”, Morgan Stanley Research, Francesca Tondi, March 15, 2012
+The ECRI (Economic Cycle Research Institute) claims papal infallibility on its historical recession predictions. ECB =
+European Central Bank. EMU = European Economic and Monetary Union
+The material contained herein is intended as a general market commentary. Opinions expressed herein are those of Michael Cembalest and may differ from those of other J.P.
+Morgan employees and affiliates. This information in no way constitutes J.P. Morgan research and should not be treated as such. Further, the views expressed herein may
+differ from that contained in J.P. Morgan research reports. The above summary/prices/quotes/statistics have been obtained from sources deemed to be reliable, but we do not
+guarantee their accuracy or completeness, any yield referenced is indicative and subject to change. Past performance is not a guarantee of future results. References to the
+performance or character of our portfolios generally refer to our Balanced Model Portfolios constructed by J.P. Morgan. It is a proxy for client performance and may not
+represent actual transactions or investments in client accounts. The model portfolio can be implemented across brokerage or managed accounts depending on the unique
+objectives of each client and is serviced through distinct legal entities licensed for specific activities. Bank, trust and investment management services are provided by J.P.
+Morgan Chase Bank, N.A, and its affiliates. Securities are offered through J.P. Morgan Securities LLC (JPMS), Member NYSE, FINRA and SIPC. Securities products
+purchased or sold through JPMS are not insured by the Federal Deposit Insurance Corporation ("FDIC"); are not deposits or other obligations of its bank or thrift affiliates
+and are not guaranteed by its bank or thrift affiliates; and are subject to investment risks, including possible loss of the principal invested. Not all investment ideas referenced
+are suitable for all investors. Speak with your J.P. Morgan Representative concerning your personal situation. This material is not intended as an offer or solicitation for the
+purchase or sale of any financial instrument. Private Investments may engage in leveraging and other speculative practices that may increase the risk of investment loss, can be
+highly illiquid, are not required to provide periodic pricing or valuations to investors and may involve complex tax structures and delays in distributing important tax
+information. Typically such investment ideas can only be offered to suitable investors through a confidential offering memorandum which fully describes all terms, conditions,
+and risks. IRS Circular 230 Disclosure: JPMorgan Chase & Co. and its affiliates do not provide tax advice. Accordingly, any discussion of U.S. tax matters contained herein
+(including any attachments) is not intended or written to be used, and cannot be used, in connection with the promotion, marketing or recommendation by anyone unaffiliated
+with JPMorgan Chase & Co. of any of the matters addressed herein or for the purpose of avoiding U.S. tax-related penalties. Note that J.P. Morgan is not a licensed insurance
+provider. © 2012 JPMorgan Chase & Co; All rights reserved
+3

@@ -1,0 +1,1309 @@
+The following list of key aspects of human-like intelligence has a better claim at truly being
+generic and representing the consensus understanding of contemporary science. It was produced
+by a very simple method: starting with the Wikipedia page for cognitive psychology, and then
+adding a few items onto it based on scrutinizing the tables of contents of some top-ranked
+cognitive psychology textbooks. There is some redundancy among list items, and perhaps also
+some minor omissions (depending on how broadly one construes some of the items), but the
+point is to give a broad indication of human mental functions as standardly identified in the
+psychology field:
+• Perception
+– General perception
+– Psychophysics
+– Pattern recognition (the ability to correctly interpret ambiguous sensory information)
+– Object and event recognition
+– Time sensation (awareness and estimation of the passage of time)
+• Motor Control
+– Motor planning
+– Motor execution
+– Sensorimotor integration
+• Categorization
+– Category induction and acquisition
+– Categorical judgement and classification
+– Category representation and structure
+– Similarity
+• Memory
+– Aging and memory
+– Autobiographical memory
+– Constructive memory
+– Emotion and memory
+– False memories
+– Memory biases
+– Long-term memory
+– Episodic memory
+– Semantic memory
+– Procedural memory
+– Short-term memory
+– Sensory memory
+– Working memory
+• Knowledge representation
+– Mental imagery
+– Propositional encoding
+– Imagery versus propositions as representational mechanisms
+22 2 What Is Human-Like General Intelligence?
+– Dual-coding theories
+– Mental models
+• Language
+– Grammar and linguistics
+– Phonetics and phonology
+– Language acquisition
+• Thinking
+– Choice
+– Concept formation
+– Judgment and decision making
+– Logic, formal and natural reasoning
+– Problem solving
+– Planning
+– Numerical cognition
+– Creativity
+• Consciousness
+– Attention and Filtering (the ability to focus mental effort on specific stimuli whilst
+excluding other stimuli from consideration)
+– Access consciousness
+– Phenomenal consciousness
+• Social Intelligence
+– Distributed Cognition
+– Empathy
+If there’s nothing surprising to you in the above list, I’m not surprised! If you’ve read a
+bit in the modern cognitive science literature, the list may even seem trivial. But it’s worth
+reflecting that 50 years ago, no such list could have been produced with the same level of broad
+acceptance. And less than 100 years ago, the Western world’s scientific understanding of the
+mind was dominated by Freudian thinking; and not too long after that, by behaviorist thinking,
+which argued that theorizing about what went on inside the mind made no sense, and science
+should focus entirely on analyzing external behavior. The progress of cognitive science hasn’t
+made as many headlines as contemporaneous progress in neuroscience or computing hardware
+and software, but it’s certainly been dramatic. One of the reasons that AGI is more achievable
+now than in the 1950s and 60s when the AI field began, is that now we understand the structures
+and processes characterizing human thinking a lot better.
+In spite of all the theoretical and empirical progress in the cognitive science field, however,
+there is still no consensus among experts on how the various aspects of intelligence in the above
+“human intelligence feature list” are achieved and interrelated. In these pages, however, for
+the purpose of motivating CogPrime, we assume a broad integrative understanding roughly as
+follows:
+• Perception: There is significant evidence that human visual perception occurs using a
+spatiotemporal hierarchy of pattern recognition modules, in which higher-level modules
+2.2 Commonly Recognized Aspects of Human-like Intelligence 23
+deal with broader spacetime regions, roughly as in the DeSTIN AGI architecture discussed
+in Chapter 4. Further, there is evidence that each module carries out temporal predictive
+pattern recognition as well as static pattern recognition. Audition likely utilizes a similar
+hierarchy. Olfaction may use something more like a Hopfield attractor neural network, as
+described in Chapter 13. The networks corresponding to different sense modalities have
+multiple cross-linkages, more at the upper levels than the lower, and also link richly into
+the parts of the mind dealing with other functions.
+• Motor Control: This appears to be handled by a spatiotemporal hierarchy as well, in which
+each level of the hierarchy corresponds to higher-level (in space and time) movements. The
+hierarchy is very tightly linked in with the perceptual hierarchies, allowing sensorimotor
+learning and coordination.
+• Memory: There appear to be multiple distinct but tightly cross-linked memory systems,
+corresponding to different sorts of knowledge such as declarative (facts and beliefs), procedural,
+episodic, sensorimotor, attentional and intentional (goals).
+• Knowledge Representation: There appear to be multiple base-level representational
+systems; at least one corresponding to each memory system, but perhaps more than that.
+Additionally there must be the capability to dynamically create new context-specific representational
+systems founded on the base representational system.
+• Language: While there is surely some innate biasing in the human mind toward learning
+certain types of linguistic structure, it’s also notable that language shares a great deal of
+structure with other aspects of intelligence like social roles [CB00] and the physical world
+[Cas07]. Language appears to be learned based on biases toward learning certain types of
+relational role systems; and language processing seems a complex mix of generic reasoning
+and pattern recognition processes with specialized acoustic and syntactic processing
+routines.
+• Consciousness is pragmatically well-understood using Baars’ “global workspace” theory,
+in which a small subset of the mind’s content is summoned at each time into a “working
+memory” aka “workspace” aka “attentional focus” where it is heavily processed and used to
+guide action selection.
+• Thinking is a diverse combination of processes encompassing things like categorization,
+(crisp and uncertain) reasoning, concept creation, pattern recognition, and others; these
+processes must work well with all the different types of memory and must effectively integrate
+knowledge in the global workspace with knowledge in long-term memory.
+• Social Intelligence seems closely tied with language and also with self-modeling; we model
+ourselves in large part using the same specialized biases we use to help us model others.
+None of the points in the above bullet list is particularly controversial, but neither are any
+of them universally agreed-upon by experts. However, in order to make any progress on AGI
+design one must make some commitments to particular cognition-theoretic understandings, at
+this level and ultimately at more precise levels as well. Further, general philosophical analyses
+like the patternist philosophy to be reviewed in the following chapter only provide limited
+guidance here. Patternism provides a filter for theories about specific cognitive functions – it
+rules out assemblages of cognitive-function-specific theories that don’t fit together to yield a
+mind that could act effectively as a pattern-recognizing, goal-achieving system with the right
+internal emergent structures. But it’s not a precise enough filter to serve as a sole guide for
+cognitive theory even at the high level.
+The above list of points leads naturally into the integrative architecture diagram presented
+in Chapter 5. But that generic architecture diagram is fairly involved, and before presenting
+24 2 What Is Human-Like General Intelligence?
+it, we will go through some more background regarding human-like intelligence (in the rest
+of this chapter), philosophy of mind (in Chapter 3) and contemporary AGI architectures (in
+Chapter4).
+2.3 Further Characterizations of Humanlike Intelligence
+We now present a few complementary approaches to characterizing the key aspects of humanlike
+intelligence, drawn from different perspectives in the psychology and AI literature. These
+different approaches all overlap substantially, which is good, yet each gives a slightly different
+slant.
+2.3.1 Competencies Characterizing Human-like Intelligence
+First we give a list of key competencies characterizing human level intelligence resulting from
+the the AGI Roadmap Workshop held at the University of Knoxville in October 2008 1 , which
+was organized by Ben Goertzel and Itamar Arel. In this list, each broad competency area is
+listed together with a number of specific competencies sub-areas within its scope:
+1. Perception: vision, hearing, touch, proprioception, crossmodal
+2. Actuation: physical skills, navigation, tool use
+3. Memory: episodic, declarative, behavioral
+4. Learning: imitation, reinforcement, interactive verbal instruction, written media, experimentation
+5. Reasoning: deductive, abductive, inductive, causal, physical, associational, categorization
+6. Planning: strategic, tactical, physical, social
+7. Attention: visual, social, behavioral
+8. Motivation: subgoal creation, affect-based motivation, control of emotions
+9. Emotion: expressing emotion, understanding emotion
+10. Self: self-awareness, self-control, other-awareness
+11. Social: empathy, appropriate social behavior, social communication, social inference, group
+play, theory of mind
+12. Communication: gestural, pictorial, verbal, language acquisition, cross-modal
+13. Quantitative: counting, grounded arithmetic, comparison, measurement
+14. Building/Creation: concept formation, verbal invention, physical construction, social
+group formation
+Clearly this list is getting at the same things as the textbook headings given in Section 2.2,
+but with a different emphasis due to its origin among AGI researchers rather than cognitive
+1 See http://www.ece.utk.edu/~itamar/AGI_Roadmap.html; participants included: Sam Adams, IBM
+Research; Ben Goertzel, Novamente LLC; Itamar Arel, University of Tennessee; Joscha Bach, Institute of Cognitive
+Science, University of Osnabruck, Germany; Robert Coop, University of Tennessee; Rod Furlan, Singularity
+Institute; Matthias Scheutz, Indiana University; J. Storrs Hall, Foresight Institute; Alexei Samsonovich, George
+Mason University; Matt Schlesinger, Southern Illinois University; John Sowa, Vivomind Intelligence, Inc.; Stuart
+C. Shapiro, University at Buffalo
+2.3 Further Characterizations of Humanlike Intelligence 25
+psychologists. As part of the AGI Roadmap project, specific tasks were created corresponding
+to each of the sub-areas in the above list; we will describe some of these tasks in Chapter 17.
+2.3.2 Gardner’s Theory of Multiple Intelligences
+The diverse list of human-level “competencies” given above is reminiscent of Gardner’s [Gar99]
+multiple intelligences (MI) framework – a psychological approach to intelligence assessment
+based on the idea that different people have mental strengths in different high-level domains,
+so that intelligence tests should contain aspects that focus on each of these domains separately.
+MI does not contradict the “complex goals in complex environments” view of intelligence, but
+rather may be interpreted as making specific commitments regarding which complex tasks and
+which complex environments are most important for roughly human-like intelligence.
+MI does not seek an extreme generality, in the sense that it explicitly focuses on domains
+in which humans have strong innate capability as well as general-intelligence capability; there
+could easily be non-human intelligences that would exceed humans according to both the commonsense
+human notion of “general intelligence” and the generic “complex goals in complex
+environments” or Hutter/Legg-style definitions, yet would not equal humans on the MI criteria.
+This strong anthropocentrism of MI is not a problem from an AGI perspective so long as
+one uses MI in an appropriate way, i.e. only for assessing the extent to which an AGI system
+displays specifically human-like general intelligence. This restrictiveness is the price one pays
+for having an easily articulable and relatively easily implementable evaluation framework.
+Table ?? summarizes the types of intelligence included in Gardner’s MI theory.
+Intelligence Type
+Linguistic
+Logical-Mathematical
+Musical
+Bodily-Kinesthetic
+Spatial-Visual
+Interpersonal
+Aspects
+Words and language, written and spoken; retention, interpretation
+and explanation of ideas and information via language;
+understands relationship between communication
+and meaning
+Logical thinking, detecting patterns, scientific reasoning
+and deduction; analyse problems, perform mathematical
+calculations, understands relationship between cause and
+effect towards a tangible outcome
+Musical ability, awareness, appreciation and use of sound;
+recognition of tonal and rhythmic patterns, understands
+relationship between sound and feeling
+Body movement control, manual dexterity, physical agility
+and balance; eye and body coordination
+Visual and spatial perception; interpretation and creation
+of images; pictorial imagination and expression; understands
+relationship between images and meanings, and between
+space and effect
+Perception of other people’s feelings; relates to others; interpretation
+of behaviour and communications; understands
+relationships between people and their situations
+Table 2.1: Types of Intelligence in Gardner’s Multiple Intelligence Theory
+26 2 What Is Human-Like General Intelligence?
+2.3.3 Newell’s Criteria for a Human Cognitive Architecture
+Finally, another related perspective is given by Alan Newell’s “functional criteria for a human
+cognitive architecture” [New90], which require that a humanlike AGI system should:
+1. Behave as an (almost) arbitrary function of the environment
+2. Operate in real time
+3. Exhibit rational, i.e., effective adaptive behavior
+4. Use vast amounts of knowledge about the environment
+5. Behave robustly in the face of error, the unexpected, and the unknown
+6. Integrate diverse knowledge
+7. Use (natural) language
+8. Exhibit self-awareness and a sense of self
+9. Learn from its environment
+10. Acquire capabilities through development
+11. Arise through evolution
+12. Be realizable within the brain
+In our view, Newell’s criterion 1 is poorly-formulated, for while universal Turing computing
+power is easy to come by, any finite AI system must inevitably be heavily adapted to some
+particular class of environments for straightforward mathematical reasons [Hut05, GPI + 10].
+On the other hand, his criteria 11 and 12 are not relevant to the CogPrime approach as we are
+not doing biological modeling but rather AGI engineering. However, Newell’s criteria 2-10 are
+essential in our view, and all will be covered in the following chapters.
+2.3.4 intelligence and Creativity
+Creativity is a key aspect of intelligence. While sometimes associated especially with geniuslevel
+intelligence in science or the arts, actually creativity is pervasive throughout intelligence,
+at all levels. When a child makes a flying toy car by pasting paper bird wings on his toy car, and
+when a bird figures out how to use a curved stick to get a piece of food out of a difficult corner
+– this is creativity, just as much as the invention of a new physics theory or the design of a new
+fashion line. The very nature of intelligence – achieving complex goals in complex environments
+– requires creativity for its achievement, because the nature of complex environments and goals
+is that they are always unveiling new aspects, so that dealing with them involves inventing
+things beyond what worked for previously known aspects.
+CogPrime contains a number of cognitive dynamics that are especially effective at creating
+new ideas, such as: concept creation (which synthesizes new concepts via combining aspects
+of previous ones), probabilistic evolutionary learning (which simulates evolution by natural
+selection, creating new procedures via mutation, combination and probabilistic modeling based
+on previous ones), and analogical inference (an aspect of the Probabilistic Logic Networks
+subsystems). But ultimately creativity is about how a system combines all the processes at its
+disposal to synthesize novel solutions to the problems posed by its goals in its environment.
+There are times, of course, when the same goal can be achieved in multiple ways – some
+more creative than others. In CogPrime this relates to the existence of multiple top-level goals,
+one of which may be novelty. A system with novelty as one of its goals, alongside other more
+2.4 Preschool as a View into Human-like General Intelligence 27
+specific goals, will have a tendency to solve other problems in creative ways, thus fulfilling its
+novelty goal along with its other goals. This can be seen at the level of childlike behaviors, and
+also at a much more advanced level. Salvador Dali wanted to depict his thoughts and feelings,
+but he also wanted to do so in a striking and unusual way; this combination of aspirations
+spurred him to produce his amazing art. A child who is asked to draw a house, but has a
+goal of novelty, may draw a tower with a swimming pool on the roof rather than a typical
+Colonial structure. A physical motivated by novelty will seek a non-obvious solution to the
+equation at hand, rather than just applying tried and true methods, and perhaps discover
+some new phenomenon. Novelty can be measured formally in terms of information-theoretic
+surprisingness based upon a given basis of knowledge and experience [Sch06]; something that
+is novel and creative to a child may be familiar to the adult world, and a solution that seems
+novel and creative to a brilliant scientist today, may seem like cliche’ elementary school level
+work 100 years from now.
+Measuring creativity is even more difficult and subjective than measuring intelligence. Qualitatively,
+however, we humans can recognize it; and we suspect that the qualitative emergence
+of dramatic, multidisciplinary computational creativity will be one of the things that makes the
+human population feel emotionally that advanced AGI has finally arrived.
+2.4 Preschool as a View into Human-like General Intelligence
+One issue that arises when pursuing the grand goal of human-level general intelligence is how
+to measure partial progress. The classic Turing Test of imitating human conversation remains
+too difficult to usefully motivate immediate-term AI research (see [HF95] [Fre90] for arguments
+that it has been counterproductive for the AI field). The same holds true for comparable alternatives
+like the Robot College Test of creating a robot that can attend a semester of university
+and obtain passing grades. However, some researchers have suggested intermediary goals, that
+constitute partial progress toward the grand goal and yet are qualitatively different from the
+highly specialized problems to which most current AI systems are applied.
+In this vein, Sam Adams and his team at IBM have outlined a so-called “Toddler Turing
+Test,” in which one seeks to use AI to control a robot qualitatively displaying similar cognitive
+behaviors to a young human child (say, a 3 year old) [AABL02]. In fact this sort of idea has a
+long and venerable history in the AI field – Alan Turing’s original 1950 paper on AI [Tur50],
+where he proposed the Turing Test, contains the suggestion that
+"Instead of trying to produce a programme to simulate the adult mind,
+why not rather try to produce one which simulates the child’s?"
+We find this childlike cognition based approach promising for many reasons, including its integrative
+nature: what a young child does involves a combination of perception, actuation, linguistic
+and pictorial communication, social interaction, conceptual problem solving and creative
+imagination. Specifically, inspired by these ideas, in Chapter 16 we will suggest the approach
+of teaching and testing early-stage AGI systems in environments that emulate the preschools
+used for teaching human children.
+Human intelligence evolved in response to the demands of richly interactive environments,
+and a preschool is specifically designed to be a richly interactive environment with the capability
+to stimulate diverse mental growth. So, we are currently exploring the use of CogPrime to control
+28 2 What Is Human-Like General Intelligence?
+virtual agents in preschool-like virtual world environments, as well as commercial humanoid
+robot platforms such as the Nao (see Figure 2.1) or Robokind (2.2) in physical preschool-like
+robot labs.
+Another advantage of focusing on childlike cognition is that child psychologists have created
+a variety of instruments for measuring child intelligence. In Chapter 17, we will discuss an
+approach to evaluating the general intelligence of human childlike AGI systems via combining
+tests typically used to measure the intelligence of young human children, with additional tests
+crafted based on cognitive science and the standard preschool curriculum.
+To put it differently: While our long-term goal is the creation of genius machines with general
+intelligence at the human level and beyond, we believe that every young child has a certain
+genius; and by beginning with this childlike genius, we can built a platform capable of developing
+into a genius machine with far more dramatic capabilities.
+2.4.1 Design for an AGI Preschool
+More precisely, we don’t suggest to place a CogPrime system in an environment that is an
+exact imitation of a human preschool – this would be inappropriate since current robotic or
+virtual bodies are very differently abled than the body of a young human child. But we aim to
+place CogPrime in an environment emulating the basic diversity and educational character of
+a typical human preschool. We stress this now, at this early point in the book, because we will
+use running examples throughout the book drawn from the preschool context.
+The key notion in modern preschool design is the “learning center,” an area designed and
+outfitted with appropriate materials for teaching a specific skill. Learning centers are designed to
+encourage learning by doing, which greatly facilitates learning processes based on reinforcement,
+imitation and correction; and also to provide multiple techniques for teaching the same skills,
+to accommodate different learning styles and prevent overfitting and overspecialization in the
+learning of new skills.
+Centers are also designed to cross-develop related skills. A “manipulatives center,” for example,
+provides physical objects such as drawing implements, toys and puzzles, to facilitate
+development of motor manipulation, visual discrimination, and (through sequencing and classification
+games) basic logical reasoning. A “dramatics center” cross-trains interpersonal and
+empathetic skills along with bodily-kinesthetic, linguistic, and musical skills. Other centers,
+such as art, reading, writing, science and math centers are also designed to train not just one
+area, but to center around a primary intelligence type while also cross-developing related areas.
+For specific examples of the learning centers associated with particular contemporary preschools,
+see [Nei98]. In many progressive, student-centered preschools, students are left largely to their
+own devices to move from one center to another throughout the preschool room. Generally,
+each center will be staffed by an instructor at some points in the day but not others, providing
+a variety of learning experiences.
+To imitate the general character of a human preschool, we will create several centers in our
+robot lab. The precise architecture will be adapted via experience but initial centers will likely
+be:
+• a blocks center: a table with blocks on it
+• a language center: a circle of chairs, intended for people to sit around and talk with the
+robot
+2.5 Integrative and Synergetic Approaches to Artificial General Intelligence 29
+• a manipulatives center, with a variety of different objects of different shapes and sizes,
+intended to teach visual and motor skills
+• a ball play center: where balls are kept in chests and there is space for the robot to kick
+the balls around
+• a dramatics center where the robot can observe and enact various movements
+One Running Example
+As we proceed through the various component structures and dynamics of CogPrime in the
+following chapters, it will be useful to have a few running examples to use to explain how the
+various parts of the system are supposed to work. One example we will use fairly frequently is
+drawn from the preschool context: the somewhat open-ended task of Build me something
+out of blocks, that you haven’t built for me before, and then tell me what it is. This
+is a relatively simple task that combines multiple aspects of cognition in a richly interconnected
+way, and is the sort of thing that young children will naturally do in a preschool setting.
+2.5 Integrative and Synergetic Approaches to Artificial General
+Intelligence
+In Chapter 1 we characterized CogPrime as an integrative approach. And we suggest that the
+naturalness of integrative approaches to AGI follows directly from comparing above lists of
+capabilities and criteria to the array of available AI technologies. No single known algorithm
+or data structure appears easily capable of carrying out all these functions, so if one wants
+to proceed now with creating a general intelligence that is even vaguely humanlike, one must
+integrate various AI technologies within some sort of unifying architecture.
+For this reason and others, an increasing amount of work in the AI community these days
+is integrative in one sense or another. Estimation of Distribution Algorithms integrate probabilistic
+reasoning with evolutionary learning [Pel05]. Markov Logic Networks [RD06] integrate
+formal logic and probabilistic inference, as does the Probabilistic Logic Networks framework
+[GIGH08] utilized in CogPrime and explained further in the book, and other works in the
+“Progic” area such as [WW06]. Leslie Pack Kaelbling has synthesized low-level robotics methods
+(particle filtering) with logical inference [ZPK07]. Dozens of further examples could be given.
+The construction of practical robotic systems like the Stanley system that won the DARPA
+Grand Challenge [Tea06] involve the integration of numerous components based on different
+principles. These algorithmic and pragmatic innovations provide ample raw materials for the
+construction of integrative cognitive architectures and are part of the reason why childlike AGI
+is more approachable now than it was 50 or even 10 years ago.
+Further, many of the cognitive architectures described in the current AI literature are “integrative”
+in the sense of combining multiple, qualitatively different, interoperating algorithms.
+Chapter 4 gives a high-level overview of existing cognitive architectures, dividing them into
+symbolic, emergentist (e.g. neural network) and hybrid architectures. The hybrid architectures
+generally integrate symbolic and neural components, often with multiple subcomponents within
+each of these broad categories. However, we believe that even these excellent architectures are
+not integrative enough, in the sense that they lack sufficiently rich and nuanced interactions
+30 2 What Is Human-Like General Intelligence?
+between the learning components associated with different kinds of memory, and hence are unlikely
+to give rise to the emergent structures and dynamics characterizing general intelligence.
+One of the central ideas underlying CogPrime is that with an integrative cognitive architecture
+that combines multiple aspects of intelligence, achieved by diverse structures and algorithms,
+within a common framework designed specifically to support robust synergetic interactions
+between these aspects.
+The simplest way to create an integrative AI architecture is to loosely couple multiple components
+carrying out various functions, in such a way that the different components pass inputs
+and outputs amongst each other but do not interfere with or modulate each others’ internal
+functioning in real-time. However, the human brain appears to be integrative in a much tighter
+sense, involving rich real-time dynamical coupling between various components with distinct
+but related functions. In [Goe09a] we have hypothesized that the brain displays a property of
+cognitive synergy, according to which multiple learning processes can not only dispatch
+subproblems to each other, but also share contextual understanding in real-time, so
+that each one can get help from the others in a contextually savvy way. By imbuing AI architectures
+with cognitive synergy, we hypothesize, one can get past the bottlenecks that have
+plagued AI in the past. Part of the reasoning here, as elaborated in Chapter 9 and [Goe09b], is
+that real physical and social environments display a rich dynamic interconnection between their
+various aspects, so that richly dynamically interconnected integrative AI architectures will be
+able to achieve goals within them more effectively.
+And this brings us to the patternist perspective on intelligent systems, alluded to above and
+fleshed out further in Chapter 3 with its focus on the emergence of hierarchically and heterarchically
+structured networks of patterns, and pattern-systems modeling self and others. Ultimately
+the purpose of cognitive synergy in an AGI system is to enable the various AI algorithms and
+structures composing the system to work together effectively enough to give rise to the right
+system-wide emergent structures characterizing real-world general intelligence. The underlying
+theory is that intelligence is not reliant on any particular structure or algorithm, but is reliant
+on the emergence of appropriately structured networks of patterns, which can then be used to
+guide ongoing dynamics of pattern recognition and creation. And the underlying hypothesis is
+that the emergence of these structures cannot be achieved by a loosely interconnected assemblage
+of components, no matter how sensible the architecture; it requires a tightly connected,
+synergetic system.
+It is possible to make these theoretical ideas about cognition mathematically rigorous; for
+instance, Appendix ?? briefly presents a formal definition of cognitive synergy that has been
+analyzed as part of an effort to prove theorems about the importance of cognitive synergy for
+giving rise to emergent system properties associated with general intelligence. However, while
+we have found such formal analyses valuable for clarifying our designs and understanding their
+qualitative properties, we have concluded that, for the present, the best way to explore our
+hypotheses about cognitive synergy and human-like general intelligence is empirically – via
+building and testing systems like CogPrime.
+2.5.1 Achieving Humanlike Intelligence via Cognitive Synergy
+Summing up: at the broadest level, there are four primary challenges in constructing an integrative,
+cognitive synergy based approach to AGI:
+2.5 Integrative and Synergetic Approaches to Artificial General Intelligence 31
+1. choosing an overall cognitive architecture that possesses adequate richness and flexibility
+for the task of achieving childlike cognition.
+2. Choosing appropriate AI algorithms and data structures to fulfill each of the functions
+identified in the cognitive architecture (e.g. visual perception, audition, episodic memory,
+language generation, analogy,...)
+3. Ensuring that these algorithms and structures, within the chosen cognitive architecture,
+are able to cooperate in such a way as to provide appropriate coordinated, synergetic
+intelligent behavior (a critical aspect since childlike cognition is an integrated functional
+response to the world, rather than a loosely coupled collection of capabilities.)
+4. Embedding one’s system in an environment that provides sufficiently rich stimuli and
+interactions to enable the system to use this cooperation to ongoingly, creatively develop
+an intelligent internal world-model and self-model.
+We argue that CogPrime
+provides a viable way to address these challenges.
+32 2 What Is Human-Like General Intelligence?
+Fig. 2.1: The Nao humanoid robot
+2.5 Integrative and Synergetic Approaches to Artificial General Intelligence 33
+Fig. 2.2: The Nao humanoid robot
+
+Chapter 3
+A Patternist Philosophy of Mind
+3.1 Introduction
+In the last chapter we discussed human intelligence from a fairly down-to-earth perspective,
+looking at the particular intelligent functions that human beings carry out in their everyday
+lives. And we strongly feel this practical perspective is important: Without this concreteness, it’s
+too easy for AGI research to get distracted by appealing (or frightening) abstractions of various
+sorts. However, it’s also important to look at the nature of mind and intelligence from a more
+general and conceptual perspective, to avoid falling into an approach that follows the particulars
+of human capability but ignores the deeper structures and dynamics of mind that ultimately
+allow human minds to be so capable. In this chapter we very briefly review some ideas from the
+patternist philosophy of mind, a general conceptual framework on intelligence which has
+been inspirational for many key aspects of the CogPrime design, and which has been ongoingly
+developed by one of the authors (Ben Goertzel) during the last two decades (in a series of
+publications beginning in 1991, most recently The Hidden Pattern [Goe06a]). Some of the ideas
+described are quite broad and conceptual, and are related to CogPrime only via serving as
+general inspirations; others are more concrete and technical, and are actually utilized within
+the design itself.
+CogPrime is an integrative design formed via the combination of a number of different
+philosophical, scientific and engineering ideas. The success or failure of the design doesn’t depend
+on any particular philosophical understanding of intelligence. In that sense, the more abstract
+notions presented in this chapter should be considered “optional” rather than critical in a
+CogPrime context. However, due to the core role patternism has played in the development of
+CogPrime, understanding a few things about general patternist philosophy will be helpful for
+understanding CogPrime, even for those readers who are not philosophically inclined. Those
+readers who are philosophically inclined, on the other hand, are urged to read The Hidden
+Pattern and then interpret the particulars of CogPrime in this light.
+3.2 Some Patternist Principles
+The patternist philosophy of mind is a general approach to thinking about intelligent systems.
+It is based on the very simple premise that mind is made of pattern – and that a mind is a
+35
+36 3 A Patternist Philosophy of Mind
+system for recognizing patterns in itself and the world, critically including patterns regarding
+which procedures are likely to lead to the achievement of which goals in which contexts.
+Pattern as the basis of mind is not in itself is a very novel idea; this concept is present, for
+instance, in the 19th-century philosophy of Charles Peirce [Pei34], in the writings of contemporary
+philosophers Daniel Dennett [Den91] and Douglas Hofstadter [Hof79, Hof96], in Benjamin
+Whorf’s [Who64] linguistic philosophy and Gregory Bateson’s [Bat79] systems theory of mind
+and nature. Bateson spoke of the Metapattern: “that it is pattern which connects.” In Goertzel’s
+writings on philosophy of mind, an effort has been made to pursue this theme more thoroughly
+than has been done before, and to articulate in detail how various aspects of human mind and
+mind in general can be well-understood by explicitly adopting a patternist perspective. 1
+In the patternist perspective, "pattern" is generally defined as "representation as something
+simpler." Thus, for example, if one measures simplicity in terms of bit-count, then a program
+compressing an image would be a pattern in that image. But if one uses a simplicity measure
+incorporating run-time as well as bit-count, then the compressed version may or may not be a
+pattern in the image, depending on how one’s simplicity measure weights the two factors. This
+definition encompasses simple repeated patterns, but also much more complex ones. While
+pattern theory has typically been elaborated in the context of computational theory, it is not
+intrinsically tied to computation; rather, it can be developed in any context where there is a
+notion of "representation" or "production" and a way of measuring simplicity. One just needs
+to be able to assess the extent to which f represents or produces X, and then to compare the
+simplicity of f and X; and then one can assess whether f is a pattern in X. A formalization of
+this notion of pattern is given in [Goe06a] and briefly summarized at the end of this chapter.
+Next, in patternism the mind of an intelligent system is conceived as the (fuzzy) set of
+patterns in that system, and the set of patterns emergent between that system and other
+systems with which it interacts. The latter clause means that the patternist perspective is
+inclusive of notions of distributed intelligence [Hut96]. Basically, the mind of a system is the
+fuzzy set of different simplifying representations of that system that may be adopted.
+Intelligence is conceived, similarly to in Marcus Hutter’s [Hut05] recent work (and as elaborated
+informally in Chapter 2 above, and formally in Chapter 7 below), as the ability to achieve
+complex goals in complex environments; where complexity itself may be defined as the possession
+of a rich variety of patterns. A mind is thus a collection of patterns that is associated
+with a persistent dynamical process that achieves highly-patterned goals in highly-patterned
+environments.
+An additional hypothesis made within the patternist philosophy of mind is that reflection is
+critical to intelligence. This lets us conceive an intelligent system as a dynamical system that
+recognizes patterns in its environment and itself, as part of its quest to achieve complex goals.
+While this approach is quite general, it is not vacuous; it gives a particular structure to the
+tasks of analyzing and synthesizing intelligent systems. About any would-be intelligent system,
+we are led to ask questions such as:
+• How are patterns represented in the system? That is, how does the underlying infrastructure
+of the system give rise to the displaying of a particular pattern in the system’s behavior?
+• What kinds of patterns are most compactly represented within the system?
+• What kinds of patterns are most simply learned?
+1 In some prior writings the term “psynet model of mind” has been used to refer to the application of patternist
+philosophy to cognitive theory, but this term has been "deprecated" in recent publications as it seemed to
+introduce more confusion than clarification.
+3.2 Some Patternist Principles 37
+• What learning processes are utilized for recognizing patterns?
+• What mechanisms are used to give the system the ability to introspect (so that it can
+recognize patterns in itself)?
+Now, these same sorts of questions could be asked if one substituted the word “pattern” with
+other words like “knowledge” or “information”. However, we have found that asking these questions
+in the context of pattern leads to more productive answers, avoiding unproductive byways
+and also tying in very nicely with the details of various existing formalisms and algorithms for
+knowledge representation and learning.
+Among the many kinds of patterns in intelligent systems, semiotic patterns are particularly
+interesting ones. Peirce decomposed these into three categories:
+• iconic patterns, which are patterns of contextually important internal similarity between
+two entities (e.g. an iconic pattern binds a picture of a person to that person)
+• indexical patterns, which are patterns of spatiotemporal co-occurrence (e.g. an indexical
+pattern binds a wedding dress and a wedding)
+• symbolic patterns, which are patterns indicating that two entities are often involved in
+the same relationships (e.g. a symbolic pattern between the number “5” (the symbol) and
+various sets of 5 objects (the entities that the symbol is taken to represent))
+Of course, some patterns may span more than one of these semiotic categories; and there
+are also some patterns that don’t fall neatly into any of these categories. But the semiotic
+patterns are particularly important ones; and symbolic patterns have played an especially large
+role in the history of AI, because of the radically different approaches different researchers have
+taken to handling them in their AI systems. Mathematical logic and related formalisms provide
+sophisticated mechanisms for combining and relating symbolic patterns (“symbols”), and some
+AI approaches have focused heavily on these, sometimes more so than on the identification of
+symbolic patterns in experience or the use of them to achieve practical goals. We will look fairly
+carefully at these differences in Chapter 4.
+Pursuing the patternist philosophy in detail leads to a variety of particular hypotheses and
+conclusions about the nature of mind. Following from the view of intelligence in terms of
+achieving complex goals in complex environments, comes a view in which the dynamics of
+a cognitive system are understood to be governed by two main forces:
+• self-organization, via which system dynamics cause existing system patterns to give rise to
+new ones
+• goal-oriented behavior, which will be defined more rigorously in Chapter 7, but basically
+amounts to a system interacting with its environment in a way that appears like an attempt
+to maximize some reasonably simple function
+Self-organized and goal-oriented behavior must be understood as cooperative aspects. If an
+agent is asked to build a surprising structure out of blocks and does so, this is goal-oriented.
+But the agent’s ability to carry out this goal-oriented task will be greater if it has previously
+played around with blocks a lot in an unstructured, spontaneous way. And the “nudge toward
+creativity” given to it by asking it to build a surprising blocks structure may cause it to explore
+some novel patterns, which then feed into its future unstructured blocks play.
+Based on these concepts, as argued in detail in [Goe06a], several primary dynamical principles
+may be posited, including:
+38 3 A Patternist Philosophy of Mind
+• Evolution , conceived as a general process via which patterns within a large population
+thereof are differentially selected and used as the basis for formation of new patterns, based
+on some “fitness function” that is generally tied to the goals of the agent
+– Example: If trying to build a blocks structure that will surprise Bob, an agent may
+simulate several procedures for building blocks structures in its “mind’s eye”, assessing
+for each one the expected degree to which it might surprise Bob. The search through
+procedure space could be conducted as a form of evolution, via an algorithm such as
+MOSES.
+• Autopoiesis: the process by which a system of interrelated patterns maintains its integrity,
+via a dynamic in which whenever one of the patterns in the system begins to decrease in
+intensity, some of the other patterns increase their intensity in a manner that causes the
+troubled pattern to increase in intensity again
+– Example: An agent’s set of strategies for building the base of a tower, and its set of
+strategies for building the middle part of a tower, are likely to relate autopoietically. If
+the system partially forgets how to build the base of a tower, then it may regenerate
+this missing knowledge via using its knowledge about how to build the middle part
+(i.e., it knows it needs to build the base in a way that will support good middle parts).
+Similarly if it partially forgets how to build the middle part, then it may regenerate this
+missing knowledge via using its knowledge about how to build the base (i.e. it knows a
+good middle part should fit in well with the sorts of base it knows are good).
+– This same sort of interdependence occurs between pattern-sets containing more than
+two elements
+– Sometimes (as in the above example) autopoietic interdependence in the mind is tied
+to interdependencies in the physical world, sometimes not.
+• Association. Patterns, when given attention, spread some of this attention to other patterns
+that they have previously been associated with in some way. Furthermore, there is
+Peirce’s law of mind [Pei34], which could be paraphrased in modern terms as stating that
+the mind is an associative memory network, whose dynamics dictate that every idea in
+the memory is an active agent, continually acting on those ideas with which the memory
+associates it.
+– Example: Building a blocks structure that resembles a tower, spreads attention to memories
+of prior towers the agents has seen, and also to memories of people the agent knows
+have seen towers, and structures it has built at the same time as towers, structures that
+resemble towers in various respects, etc.
+• Differential attention allocation / credit assignment. Patterns that have been valuable
+for goal-achievement are given more attention, and are encouraged to participate in
+giving rise to new patterns.
+– Example: Perhaps in a prior instance of the task “build me a surprising structure out of
+blocks,” searching through memory for non-blocks structures that the agent has played
+with has proved a useful cognitive strategy. In that case, when the task is posed to the
+agent again, it should tend to allocate disproportionate resources to this strategy.
+• Pattern creation. Patterns that have been valuable for goal-achievement are mutated and
+combined with each other to yield new patterns.
+3.2 Some Patternist Principles 39
+– Example: Building towers has been useful in a certain context, but so has building
+structures with a large number of triangles. Why not build a tower out of triangles?
+Or maybe a vaguely tower-like structure that uses more triangles than a tower easily
+could?
+– Example: Building an elongated block structure resembling a table was successful in the
+past, as was building a structure resembling a very flat version of a chair. Generalizing,
+maybe building distorted versions of furniture is good. Or maybe it is building distorted
+version of any previously perceived objects that is good. Or maybe both, to different
+degrees....
+Next, for a variety of reasons outlined in [Goe06a] it becomes appealing to hypothesize that the
+network of patterns in an intelligent system must give rise to the following large-scale emergent
+structures
+• Hierarchical network. Patterns are habitually in relations of control over other patterns that
+represent more specialized aspects of themselves.
+– Example: The pattern associated with “tall building” has some control over the pattern
+associated with “tower”, as the former represents a more general concept ... and “tower”
+has some control over “Eiffel tower”, etc.
+• Heterarchical network. The system retains a memory of which patterns have previously
+been associated with each other in any way.
+– Example: “Tower” and “snake” are distant in the natural pattern hierarchy, but may be
+associatively/heterarchically linked due to having a common elongated structure. This
+heterarchical linkage may be used for many things, e.g. it might inspire the creative
+construction of a tower with a snake’s head.
+• Dual network. Hierarchical and heterarchical structures are combined, with the dynamics
+of the two structures working together harmoniously. Among many possible ways to hierarchically
+organize a set of patterns, the one used should be one that causes hierarchically
+nearby patterns to have many meaningful heterarchical connections; and of course, there
+should be a tendency to search for heterarchical connections among hierarchically nearby
+patterns.
+– Example: While the set of patterns hierarchically nearby “tower” and the set of patterns
+heterarchically nearby “tower” will be quite different, they should still have more overlap
+than random pattern-sets of similar sizes. So, if looking for something else heterarchically
+near “tower”, using the hierarchical information about “tower” should be of some use,
+and vice versa.
+– In PLN, hierarchical relationships correspond to Atoms A and B so that InheritanceAB
+and InheritanceBA have highly dissimilar strength; and heterarchical relationships correspond
+to IntensionalSimilarity relationships. The dual network structure then arises
+when intensional and extensional inheritance approximately correlate with each other,
+so that inference about either kind of inheritance assists with figuring out about the
+other kind.
+• Self structure. A portion of the network of patterns forms into an approximate image of the
+overall network of patterns.
+40 3 A Patternist Philosophy of Mind
+– Example: Each time the agent builds a certain structure, it observes itself building
+the structure, and its role as “builder of a tall tower” (or whatever the structure is)
+becomes part of its self-model. Then when it is asked to build something new, it may
+consult its self-model to see if it believes itself capable of building that sort of thing (for
+instance, if it is asked to build something very large, its self-model may tell it that it
+lacks persistence for such projects, so it may reply “I can try, but I may wind up not
+finishing it”).
+As we proceed through the CogPrime design in the following pages, we will see how each
+of these abstract concepts arises concretely from CogPrime’s structures and algorithms. If the
+theory of [Goe06a] is correct, then the success of CogPrime as a design will depend largely on
+whether these high-level structures and dynamics can be made to emerge from the synergetic
+interaction of CogPrime’s representation and algorithms, when they are utilized to control an
+appropriate agent in an appropriate environment.
+3.3 Cognitive Synergy
+Now we dig a little deeper and present a different sort of “general principle of feasible general
+intelligence”, already hinted in earlier chapters: the cognitive synergy principle 2 , which is both
+a conceptual hypothesis about the structure of generally intelligent systems in certain classes of
+environments, and a design principle used to guide the design of CogPrime. Chapter 8 presents
+a mathematical formalization of the notion of cognitive synergy; here we present the conceptual
+idea informally, which makes it more easily digestible but also more vague-sounding.
+We will focus here on cognitive synergy specifically in the case of “multi-memory systems,”
+which we define as intelligent systems whose combination of environment, embodiment and
+motivational system make it important for them to possess memories that divide into partially
+but not wholly distinct components corresponding to the categories of:
+• Declarative memory
+– Examples of declarative knowledge: Towers on average are taller than buildings. I generally
+am better at building structures I imagine, than at imitating structures I’m shown
+in pictures.
+• Procedural memory (memory about how to do certain things)
+– Examples of procedural knowledge: Practical know-how regarding how to pick up an
+elongated rectangular block, or a square one. Know-how regarding when to approach
+a problem by asking “What would one of my teachers do in this situation” versus by
+thinking through the problem from first principles.
+• Sensory and episodic memory
+– Example of sensory knowledge: memory of Bob’s face; memory of what a specific tall
+blocks tower looked like
+2 While these points are implicit in the theory of mind given in [Goe06a], they are not articulated in this
+specific form there. So the material presented in this section is a new development within patternist philosophy,
+developed since [Goe06a] in a series of conference papers such as [Goe09a].
+3.3 Cognitive Synergy 41
+– Example of episodic knowledge: memory of the situation in which the agent first met
+Bob; memory of a situation in which a specific tall blocks tower was built
+• Attentional memory (knowledge about what to pay attention to in what contexts)
+– Example of attentional knowledge: When involved with a new person, it’s useful to pay
+attention to whatever that person looks at
+• Intentional memory (knowledge about the system’s own goals and subgoals)
+– Example of intentional knowledge: If my goal is to please some person whom I don’t
+know that well, then a subgoal may be figuring out what makes that person smile.
+In Chapter 9 below we present a detailed argument as to how the requirement for a multimemory
+underpinning for general intelligence emerges from certain underlying assumptions
+regarding the measurement of the simplicity of goals and environments. Specifically we argue
+that each of these memory types corresponds to certain modes of communication, so that intelligent
+agents which have to efficiently handle a sufficient variety of types of communication with
+other agents, are going to have to handle all these types of memory. These types of communication
+overlap and are often used together, which implies that the different memories and their
+associated cognitive processes need to work together. The points made in this section do not
+rely on that argument regarding the relation of multiple memory types to the environmental
+situation of multiple communication types. What they do rely on is the assumption that, in
+the intelligence agent in question, the different components of memory are significantly but not
+wholly distinct. That is, there are significant “family resemblances” between the memories of a
+single type, yet there are also thoroughgoing connections between memories of different types.
+Repeating the above points in a slightly more organized manner and then extending them, the
+essential idea of cognitive synergy, in the context of multi-memory systems, may be expressed
+in terms of the following points
+1. Intelligence, relative to a certain set of environments, may be understood as the capability
+to achieve complex goals in these environments.
+2. With respect to certain classes of goals and environments, an intelligent system requires a
+“multi-memory” architecture, meaning the possession of a number of specialized yet interconnected
+knowledge types, including: declarative, procedural, attentional, sensory, episodic
+and intentional (goal-related). These knowledge types may be viewed as different sorts of
+patterns that a system recognizes in itself and its environment.
+3. Such a system must possess knowledge creation (i.e. pattern recognition / formation) mechanisms
+corresponding to each of these memory types. These mechanisms are also called
+“cognitive processes.”
+4. Each of these cognitive processes, to be effective, must have the capability to recognize when
+it lacks the information to perform effectively on its own; and in this case, to dynamically
+and interactively draw information from knowledge creation mechanisms dealing with other
+types of knowledge
+5. This cross-mechanism interaction must have the result of enabling the knowledge creation
+mechanisms to perform much more effectively in combination than they would if operated
+non-interactively. This is “cognitive synergy.”
+Interactions as mentioned in Points 4 and 5 in the above list are the real conceptual meat
+of the cognitive synergy idea. One way to express the key idea here, in an AI context, is that
+42 3 A Patternist Philosophy of Mind
+most AI algorithms suffer from combinatorial explosions: the number of possible elements to
+be combined in a synthesis or analysis is just too great, and the algorithms are unable to
+filter through all the possibilities, given the lack of intrinsic constraint that comes along with
+a “general intelligence” context (as opposed to a narrow-AI problem like chess-playing, where
+the context is constrained and hence restricts the scope of possible combinations that needs
+to be considered). In an AGI architecture based on cognitive synergy, the different learning
+mechanisms must be designed specifically to interact in such a way as to palliate each others’
+combinatorial explosions - so that, for instance, each learning mechanism dealing with a certain
+sort of knowledge, must synergize with learning mechanisms dealing with the other sorts of
+knowledge, in a way that decreases the severity of combinatorial explosion.
+One prerequisite for cognitive synergy to work is that each learning mechanism must recognize
+when it is “stuck,” meaning it’s in a situation where it has inadequate information to
+make a confident judgment about what steps to take next. Then, when it does recognize that
+it’s stuck, it may request help from other, complementary cognitive mechanisms.
+3.4 The General Structure of Cognitive Dynamics: Analysis and
+Synthesis
+We have discussed the need for synergetic interrelation between cognitive processes corresponding
+to different types of memory ... and the general high-level cognitive dynamics that a mind
+must possess (evolution, autopoiesis). The next step is to dig further into the nature of the cognitive
+processes associated with different memory types and how they give rise to the needed
+high-level cognitive dynamics. In this section we present a general theory of cognitive processes
+based on a decomposition of cognitive processes into the two categories of analysis and synthesis,
+and a general formulation of each of these categories 3 .
+Specifically we focus here on what we call focused cognitive processes; that is, cognitive
+processes that selectively focus attention on a subset of the patterns making up a mind. In
+general these are not the only kind, there may also be global cognitive processes that act on
+every pattern in a mind. An example of a global cognitive process in CogPrime is the basic
+attention allocation process, which spreads “importance” among all knowledge in the system’s
+memory. Global cognitive processes are also important, but focused cognitive processes are
+subtler to understand which is why we spend more time on them here.
+3.4.1 Component-Systems and Self-Generating Systems
+We begin with autopoesis – and, more specifically, with the concept of a “component-system”,
+as described in George Kampis’s book Self-Modifying Systems in Biology and Cognitive Science
+[Kam91], and as modified into the concept of a “self-generating system” or SGS in Goertzel’s
+book Chaotic Logic [Goe94]. Roughly speaking, a Kampis-style component-system consists of
+a set of components that combine with each other to form other compound components. The
+3 While these points are highly compatible with theory of mind given in [Goe06a], they are not articulated there.
+The material presented in this section is a new development within patternist philosophy, presented previously
+only in the article [GPPG06].
+3.4 The General Structure of Cognitive Dynamics: Analysis and Synthesis 43
+metaphor Kampis uses is that of Lego blocks, combining to form bigger Lego structures. Compound
+structures may in turn be combined together to form yet bigger compound structures.
+A self-generating system is basically the same concept as a component-system, but understood
+to be computable, whereas Kampis claims that component-systems are uncomputable.
+Next, in SGS theory there is also a notion of reduction (not present in the Lego metaphor):
+sometimes when components are combined in a certain way, a “reaction” happens, which may
+lead to the elimination of some of the components. One relevant metaphor here is chemistry.
+Another is abstract algebra: for instance, if we combine a component f with its “inverse” component
+f −1 , both components are eliminated. Thus, we may think about two stages in the
+interaction of sets of components: combination, and reduction. Reduction may be thought of
+as algebraic simplification, governed by a set of rules that apply to a newly created compound
+component, based on the components that are assembled within it.
+Formally, suppose C 1 , C 2 , ... is the set of components present in a discrete-time componentsystem
+at time t. Then, the components present at time t+1 are a subset of the set of components
+of the form
+Reduce(Join(C i (1), ..., C i (r)))
+where Join is a joining operation, and Reduce is a reduction operator. The joining operation
+is assumed to map tuples of components into components, and the reduction operator is assumed
+to map the space of components into itself. Of course, the specific nature of a component system
+is totally dependent on the particular definitions of the reduction and joining operators; in
+following chapters we will specify these for the CogPrime system, but for the purpose of the
+broader theoretical discussion in this section they may be left general.
+What is called the “cognitive equation” in Chaotic Logic [Goe94] is the case of a SGS where
+the patterns in the system at time t have a tendency to correspond to components of the system
+at future times t + s. So, part of the action of the system is to transform implicit knowledge
+(patterns among system components) into explicit knowledge (specific system components). We
+will see one version of this phenomenon in Chapter 14 where we model implicit knowledge using
+mathematical structures called “derived hypergraphs”; and we will also later review several ways
+in which CogPrime’s dynamics explicitly encourage cognitive-equation type dynamics, e.g.:
+• inference, which takes conclusions implicit in the combination of logical relationships, and
+makes them implicit by deriving new logical relationships from them
+• map formation, which takes concepts that have often been active together, and creates new
+concepts grouping them
+• association learning, which creates links representing patterns of association between entities
+• probabilistic procedure learning, which creates new models embodying patterns regarding
+which procedures tend to perform well according to particular fitness functions
+3.4.2 Analysis and Synthesis
+Now we move on to the main point of this section: the argument that all or nearly all focused
+cognitive processes are expressible using two general process-schemata we call synthesis and
+44 3 A Patternist Philosophy of Mind
+analysis 4 . The notion of “focused cognitive process” will be exemplified more thoroughly below,
+but in essence what is meant is a cognitive process that begins with a small number of items
+(drawn from memory) as its focus, and has as its goal discovering something about these
+items, or discovering something about something else in the context of these items or in a way
+strongly biased by these items. This is different from a global cognitive process whose goal is
+more broadly-based and explicitly involves all or a large percentage of the knowledge in an
+intelligent system’s memory store.
+Among the focused cognitive processes are those governed by the so-called cognitive schematic
+implication
+Context ∧ P rocedure → Goal
+where the Context involves sensory, episodic and/or declarative knowledge; and attentional
+knowledge is used to regulate how much resource is given to each such schematic implication in
+memory. Synergy among the learning processes dealing with the context, the procedure and the
+goal is critical to the adequate execution of the cognitive schematic using feasible computational
+resources. This sort of explicitly goal-driven cognition plays a significant though not necessarily
+dominant role in CogPrime, and is also related to production rules systems and other traditional
+AI systems, as will be articulated in Chapter 4.
+The synthesis and analysis processes as we conceive them, in the general framework of SGS
+theory, are as follows. First, synthesis, as shown in Figure 3.1, is defined as
+synthesis: Iteratively build compounds from the initial component pool using the combinators,
+greedily seeking compounds that seem likely to achieve the goal.
+Or in more detail:
+1. Begin with some initial components (the initial “current pool”), an additional set of components
+identified as “combinators” (combination operators), and a goal function
+2. Combine the components in the current pool, utilizing the combinators, to form product
+components in various ways, carrying out reductions as appropriate, and calculating relevant
+quantities associated with components as needed
+3. Select the product components that seem most promising according to the goal function,
+and add these to the current pool (or else simply define these as the current pool)
+4. Return to Step 2
+And analysis, as shown in Figure 3.2, is defined as
+analysis: Iteratively search (the system’s long-term memory) for component-sets that combine
+using the combinators to form the initial component pool (or subsets thereof), greedily
+seeking component-sets that seem likely to achieve the goal
+or in more detail:
+1. Begin with some components (the initial “current pool”) and a goal function
+2. Seek components so that, if one combines them to form product components using the
+combinators and then performs appropriate reductions, one obtains (as many as possible
+of) the components in the current pool
+4 In [GPPG06], what is here called “analysis” was called “backward synthesis”, a name which has some advantages
+since it indicated that what’s happening is a form of creation; but here we have opted for the more traditional
+analysis/synthesis terminology
+3.4 The General Structure of Cognitive Dynamics: Analysis and Synthesis 45
+Fig. 3.1: The General Process of Synthesis
+3. Use the newly found constructions of the components in the current pool, to update the
+quantitative properties of the components in the current pool, and also (via the current
+pool) the quantitative properties of the components in the initial pool
+4. Out of the components found in Step 2, select the ones that seem most promising according
+to the goal function, and add these to the current pool (or else simply define these as the
+current pool)
+5. Return to Step 2
+More formally, synthesis may be specified as follows. Let X denote the set of combinators,
+and let Y 0 denote the initial pool of components (the initial focus of the cognitive process).
+Given Y i , let Z i denote the set
+Reduce(Join(C i (1), ..., C i (r)))
+where the C i are drawn from Y i or from X. We may then say
+Y i+1 = F ilter(Z i )
+where F ilter is a function that selects a subset of its arguments.
+Analysis, on the other hand, begins with a set W of components, and a set X of combinators,
+and tries to find a series Y i so that according to the process of synthesis, Y n =W .
+In practice, of course, the implementation of a synthesis process need not involve the explicit
+construction of the full set Z i . Rather, the filtering operation takes place implicitly during the
+construction of Y i+1 . The result, however, is that one gets some subset of the compounds producible
+via joining and reduction from the set of components present in Y i plus the combinators
+X.
+46 3 A Patternist Philosophy of Mind
+Fig. 3.2: The General Process of Analysis
+Conceptually one may view synthesis as a very generic sort of “growth process,” and analysis
+as a very generic sort of “figuring out how to grow something.” The intuitive idea underlying
+the present proposal is that these forward-going and backward-going “growth processes” are
+among the essential foundations of cognitive control, and that a conceptually sound design for
+cognitive control should explicitly make use of this fact. To abstract away from the details,
+what these processes are about is:
+• taking the general dynamic of compound-formation and reduction as outlined in Kampis
+and Chaotic Logic
+• introducing goal-directed pruning (“filtering”) into this dynamic so as to account for the
+limitations of computational resources that are a necessary part of pragmatic intelligence
+3.4.3 The Dynamic of Iterative Analysis and Synthesis
+While synthesis and analysis are both very useful on their own, they achieve their greatest power
+when harnessed together. It is my hypothesis that the dynamic pattern of alternating synthesis
+and analysis has a fundamental role in cognition. Put simply, synthesis creates new mental
+forms by combining existing ones. Then, analysis seeks simple explanations for the forms in the
+mind, including the newly created ones; and, this explanation itself then comprises additional
+new forms in the mind, to be used as fodder for the next round of synthesis. Or, to put it yet
+more simply:
+3.4 The General Structure of Cognitive Dynamics: Analysis and Synthesis 47
+⇒ Combine ⇒ Explain ⇒ Combine ⇒ Explain ⇒ Combine ⇒
+It is not hard to express this alternating dynamic more formally, as well.
+• Let X denote any set of components.
+• Let F(X) denote a set of components which is the result of synthesis on X.
+• Let B(X) denote a set of components which is the result of analysis of X. We assume also
+a heuristic biasing the synthesis process toward simple constructs.
+• Let S(t) denote a set of components at time t, representing part of a system’s knowledge
+base.
+• Let I(t) denote components resulting from the external environment at time t.
+Then, we may consider a dynamical iteration of the form
+S(t + 1) = B(F (S(t) + I(t)))
+This expresses the notion of alternating synthesis and analysis formally, as a dynamical
+iteration on the space of sets of components. We may then speak about attractors of this
+iteration: fixed points, limit cycles and strange attractors. One of the key hypotheses I wish
+to put forward here is that some key emergent cognitive structures are strange attractors of
+this equation. The iterative dynamic of combination and explanation leads to the emergence
+of certain complex structures that are, in essence, maintained when one recombines their parts
+and then seeks to explain the recombinations. These structures are built in the first place
+through iterative recombination and explanation, and then survive in the mind because they
+are conserved by this process. They then ongoingly guide the construction and destruction of
+various other temporary mental structures that are not so conserved.
+3.4.4 Self and Focused Attention as Approximate Attractors of the
+Dynamic of Iterated Forward-Analysis
+As noted above, patternist philosophy argues that two key aspects of intelligence are emergent
+structures that may be called the “self” and the “attentional focus.” These, it is suggested, are
+aspects of intelligence that may not effectively be wired into the infrastructure of an intelligent
+system, though of course the infrastructure may be configured in such a way as to encourage
+their emergence. Rather, these aspects, by their nature, are only likely to be effective if they
+emerge from the cooperative activity of various cognitive processes acting within a broad base
+of knowledge.
+Above we have described the pattern of ongoing habitual oscillation between synthesis and
+analysis as a kind of “dynamical iteration.” Here we will argue that both self and attentional
+focus may be viewed as strange attractors of this iteration. The mode of argument is relatively
+informal. The essential processes under consideration are ones that are poorly understood from
+an empirical perspective, due to the extreme difficulty involved in studying them experimentally.
+For understanding self and attentional focus, we are stuck in large part with introspection, which
+is famously unreliable in some contexts, yet still dramatically better than having no information
+at all. So, the philosophical perspective on self and attentional focus given here is a synthesis of
+empirical and introspective notions, drawn largely from the published thinking and research of
+48 3 A Patternist Philosophy of Mind
+others but with a few original twists. From a CogPrime perspective, its use has been to guide
+the design process, to provide a grounding for what otherwise would have been fairly arbitrary
+choices.
+3.4.4.1 Self
+Another high-level intelligent system pattern mentioned above is the “self”, which we here will tie
+in with analysis and synthesis processes. The term “self” as used here refers to the “phenomenal
+self” [Met04] or “self-model”. That is, the self is the model that a system builds internally,
+reflecting the patterns observed in the (external and internal) world that directly pertain to
+the system itself. As is well known in everyday human life, self-models need not be completely
+accurate to be useful; and in the presence of certain psychological factors, a more accurate
+self-model may not necessarily be advantageous. But a self-model that is too badly inaccurate
+will lead to a badly-functioning system that is unable to effectively act toward the achievement
+of its own goals.
+The value of a self-model for any intelligent system carrying out embodied agentive cognition
+is obvious. And beyond this, another primary use of the self is as a foundation for metaphors
+and analogies in various domains. Patterns recognized pertaining to the self are analogically
+extended to other entities. In some cases this leads to conceptual pathologies, such as the anthropomorphization
+of trees, rocks and other such objects that one sees in some precivilized
+cultures. But in other cases this kind of analogy leads to robust sorts of reasoning - for instance,
+in reading Lakoff and Nunez’s [LN00] intriguing explorations of the cognitive foundations of
+mathematics, it is pretty easy to see that most of the metaphors on which they hypothesize
+mathematics to be based, are grounded in the mind’s conceptualization of itself as a spatiotemporally
+embedded entity, which in turn is predicated on the mind’s having a conceptualization
+of itself (a self) in the first place.
+A self-model can in many cases form a self-fulfilling prophecy (to make an obvious doubleentendre’!).
+Actions are generated based on one’s model of what sorts of actions one can and/or
+should take; and the results of these actions are then incorporated into one’s self-model. If a
+self-model proves a generally bad guide to action selection, this may never be discovered, unless
+said self-model includes the knowledge that semi-random experimentation is often useful.
+In what sense, then, may it be said that self is an attractor of iterated analysis? Analysis
+infers the self from observations of system behavior. The system asks: What kind of system
+might I be, in order to give rise to these behaviors that I observe myself carrying out? Based
+on asking itself this question, it constructs a model of itself, i.e. it constructs a self. Then, this
+self guides the system’s behavior: it builds new logical relationships its self-model and various
+other entities, in order to guide its future actions oriented toward achieving its goals. Based on
+the behaviors newly induced via this constructive, forward-synthesis activity, the system may
+then engage in analysis again and ask: What must I be now, in order to have carried out these
+new actions? And so on.
+Our hypothesis is that after repeated iterations of this sort, in infancy, finally during early
+childhood a kind of self-reinforcing attractor occurs, and we have a self-model that is resilient
+and doesn’t change dramatically when new instances of action- or explanation-generation occur.
+This is not strictly a mathematical attractor, though, because over a long period of time the self
+may well shift significantly. But, for a mature self, many hundreds of thousands or millions of
+forward-analysis cycles may occur before the self-model is dramatically modified. For relatively
+3.4 The General Structure of Cognitive Dynamics: Analysis and Synthesis 49
+long periods of time, small changes within the context of the existing self may suffice to allow
+the system to control itself intelligently.
+Humans can also develop what are known as subselves [Row90]. A subself is a partially
+autonomous self-network focused on particular tasks, environments or interactions. It contains
+a unique model of the whole organism, and generally has its own set of episodic memories,
+consisting of memories of those intervals during which it was the primary dynamic mode controlling
+the organism. One common example is the creative subself – the subpersonality that
+takes over when a creative person launches into the process of creating something. In these
+times, a whole different personality sometimes emerges, with a different sort of relationship
+to the world. Among other factors, creativity requires a certain open-ness that is not always
+productive in an everyday life context, so it’s natural for the self-system of a highly creative
+person to bifurcate into one self-system for everyday life, and another for the protected context
+of creative activity. This sort of phenomenon might emerge naturally in CogPrime systems as
+well if they were exposed to appropriate environments and social situations.
+Finally, it is interesting to speculate regarding how self may differ in future AI systems as
+opposed to in humans. The relative stability we see in human selves may not exist in AI systems
+that can self-improve and change more fundamentally and rapidly than humans can. There may
+be a situation in which, as soon as a system has understood itself decently, it radically modifies
+itself and hence violates its existing self-model. Thus: intelligence without a long-term stable self.
+In this case the “attractor-ish” nature of the self holds only over much shorter time scales than
+for human minds or human-like minds. But the alternating process of synthesis and analysis
+for self-construction is still critical, even though no reasonably stable self-constituting attractor
+ever emerges. The psychology of such intelligent systems will almost surely be beyond human
+beings’ capacity for comprehension and empathy.
+3.4.4.2 Attentional Focus
+Finally, we turn to the notion of an “attentional focus” similar to Baars’ [Baa97] notion of a
+Global Workspace, which will be reviewed in more detail in Chapter 4: a collection of mental
+entities that are, at a given moment, receiving far more than the usual share of an intelligent
+system’s computational resources. Due to the amount of attention paid to items in the attentional
+focus, at any given moment these items are in large part driving the cognitive processes
+going on elsewhere in the mind as well - because the cognitive processes acting on the items in
+the attentional focus are often involved in other mental items, not in attentional focus, as well
+(and sometimes this results in pulling these other items into attentional focus). An intelligent
+system must constantly shift its attentional focus from one set of entities to another based on
+changes in its environment and based on its own shifting discoveries.
+In the human mind, there is a self-reinforcing dynamic pertaining to the collection of entities
+in the attentional focus at any given point in time, resulting from the observation that: If A
+is in the attentional focus, and A and B have often been associated in the past, then odds
+are increased that B will soon be in the attentional focus. This basic observation has been
+refined tremendously via a large body of cognitive psychology work; and neurologically it follows
+not only from Hebb’s [Heb49] classic work on neural reinforcement learning, but also from
+numerous more modern refinements [SB98]. But it implies that two items A and B, if both in
+the attentional focus, can reinforce each others’ presence in the attentional focus, hence forming
+a kind of conspiracy to keep each other in the limelight. But of course, this kind of dynamic
+50 3 A Patternist Philosophy of Mind
+must be counteracted by a pragmatic tendency to remove items from the attentional focus if
+giving them attention is not providing sufficient utility in terms of the achievement of system
+goals.
+The synthesis and analysis perspective provides a more systematic perspective on this selfreinforcing
+dynamic. Synthesis occurs in the attentional focus when two or more items in the
+focus are combined to form new items, new relationships, new ideas. This happens continually,
+as one of the main purposes of the attentional focus is combinational. On the other hand,
+Analysis then occurs when a combination that has been speculatively formed is then linked
+in with the remainder of the mind (the “unconscious”, the vast body of knowledge that is not
+in the attentional focus at the given moment in time). Analysis basically checks to see what
+support the new combination has within the existing knowledge store of the system. Thus,
+forward-analysis basically comes down to “generate and test”, where the testing takes the form
+of attempting to integrate the generated structures with the ideas in the unconscious longterm
+memory. One of the most obvious examples of this kind of dynamic is creative thinking
+(Boden, 2003; Goertzel, 1997), where the attentional focus continually combinationally creates
+new ideas, which are then tested via checking which ones can be validated in terms of (built up
+from) existing knowledge.
+The analysis stage may result in items being pushed out of the attentional focus, to be
+replaced by others. Likewise may the synthesis stage: the combinations may overshadow and
+then replace the things combined. However, in human minds and functional AI minds, the
+attentional focus will not be a complete chaos with constant turnover: Sometimes the same set of
+ideas – or a shifting set of ideas within the same overall family of ideas – will remain in focus for a
+while. When this occurs it is because this set or family of ideas forms an approximate attractor
+for the dynamics of the attentional focus, in particular for the forward-analysis dynamic of
+speculative combination and integrative explanation. Often, for instance, a small “core set” of
+ideas will remain in the attentional focus for a while, but will not exhaust the attentional focus:
+the rest of the attentional focus will then, at any point in time, be occupied with other ideas
+related to the ones in the core set. Often this may mean that, for a while, the whole of the
+attentional focus will move around quasi-randomly through a “strange attractor” consisting of
+the set of ideas related to those in the core set.
+3.4.5 Conclusion
+The ideas presented above (the notions of synthesis and analysis, and the hypothesis of self and
+attentional focus as attractors of the iterative forward-analysis dynamic) are quite generic and
+are hypothetically proposed to be applicable to any cognitive system, natural or artificial. Later
+chapters will discuss the manifestation of the above ideas in the context of CogPrime. We have
+found that the analysis/synthesis approach is a valuable tool for conceptualizing CogPrime’s
+cognitive dynamics, and we conjecture that a similar utility may be found more generally.
+Next, so as not to end the section on too blasé of a note, we will also make a stronger
+hypothesis: that, in order for a physical or software system to achieve intelligence that is roughly
+human-level in both capability and generality, using computational resources on the same order
+of magnitude as the human brain, this system must
+• manifest the dynamic of iterated synthesis and analysis, as modes of an underlying “selfgenerating
+system” dynamic
+3.5 Perspectives on Machine Consciousness 51
+• do so in such a way as to lead to self and attentional focus as emergent structures that serve
+as approximate attractors of this dynamic, over time periods that are long relative to the
+basic “cognitive cycle time” of the system’s forward-analysis dynamics
+To prove the truth of a hypothesis of this nature would seem to require mathematics fairly
+far beyond anything that currently exists. Nonetheless, however, we feel it is important to
+formulate and discuss such hypotheses, so as to point the way for future investigations both
+theoretical and pragmatic.
+3.5 Perspectives on Machine Consciousness
+Finally, we can’t let a chapter on philosophy – even a brief one – end without some discussion
+of the thorniest topic in the philosophy of mind: consciousness. Rather than seeking to resolve
+or comprehensively review this most delicate issue, we will restrict ourselves to giving it in
+Appendix ?? an overview of many of the common views on the subject; and here in the main text
+discussing the relationship between consciousness theory and patternist philosophy of cognition,
+the practical work of designing and building AGI.
+One fairly concrete idea about consciousness, that relates closely to certain aspects of the
+CogPrime design, is that the subjective experience of being conscious of some entity X, is correlated
+with the presence of a very intense pattern in one’s overall mind-state, corresponding to X.
+This simple idea is also the essence of neuroscientist Susan Greenfield’s theory of consciousness
+[Gre01] (but in her theory, "overall mind-state" is replaced with "brain-state"), and has much
+deeper historical roots in philosophy of mind which we shall not venture to unravel here.
+This observation relates to the idea of "moving bubbles of awareness" in intelligent systems.
+If an intelligent system consists of multiple processing or data elements, and during each (sufficiently
+long) interval of time some of these elements get much more attention than others,
+then one may view the system as having a certain "attentional focus" during each interval. The
+attentional focus is itself a significant pattern in the system (the pattern being "these elements
+habitually get more processor and memory", roughly speaking). As the attentional focus shifts
+over time one has a "moving bubble of pattern" which then corresponds experientially to a
+"moving bubble of awareness."
+This notion of a "moving bubble of awareness" ties in very closely to global workspace
+theory [Baa97] (briefly mentioned above), a cognitive theory that has broad support from
+neuroscience and cognitive science and has also served as the motivation for Stan Franklin’s
+LIDA AI system [BF09], to be discussed in Chapter ??. The global workspace theory views the
+mind as consisting of a large population of small, specialized processes – a society of agents.
+These agents organize themselves into coalitions, and coalitions that are relevant to contextually
+novel phenomena, or contextually important goals, are pulled into the global workspace (which
+is identified with consciousness). This workspace broadcasts the message of the coalition to all
+the unconscious agents, and recruits other agents into consciousness. Various sorts of contexts
+– e.g. goal contexts, perceptual contexts, conceptual contexts and cultural contexts – play a
+role in determining which coalitions are relevant, and form the unconscious "background" of
+the conscious global workspace. New perceptions are often, but not necessarily, pushed into the
+workspace. Some of the agents in the global workspace are concerned with action selection, i.e.
+with controlling and passing parameters to a population of possible actions. The contents of
+the workspace at any given time have a certain cohesiveness and interdependency, the so-called
+52 3 A Patternist Philosophy of Mind
+"unity of consciousness." In essence the contents of the global workspace form a moving bubble
+of attention or awareness.
+In CogPrime, this moving bubble is achieved largely via economic attention network (ECAN)
+equations [GPI + 10] that propagate virtual currency between nodes and links representing elements
+of memories, so that the attentional focus consists of the wealthiest nodes and links.
+Figures 3.3 and 3.4 illustrate the existence and flow of attentional focus in OpenCog. On the
+other hand, in Hameroff’s recent model of the brain [Ham10], the brain’s moving bubble of
+attention is achieved through dendro-dendritic connections and the emergent dendritic web.
+Fig. 3.3: Graphical depiction of the momentary bubble of attention in the memory of an
+OpenCog AI system. Circles and lines represent nodes and links in OpenCogPrimes memory,
+and stars denote those nodes with a high level of attention (represented in OpenCog by
+the ShortTermImportance node variable) at the particular point in time.
+In this perspective, self, free will and reflective consciousness are specific phenomena occurring
+within the moving bubble of awareness. They are specific ways of experiencing awareness,
+corresponding to certain abstract types of physical structures and dynamics, which we shall
+endeavor to identify in detail in Appendix ??.
+3.6 Postscript: Formalizing Pattern 53
+Fig. 3.4: Graphical depiction of the momentary bubble of attention in the memory of an
+OpenCog AI system, a few moments after the bubble shown in Figure 3.3, indicating the moving
+of the bubble of attention. Depictive conventions are the same as in Figure 1. This shows
+an idealized situation where the declarative knowledge remains invariant from one moment to
+the next but only the focus of attention shifts. In reality both will evolve together.
+3.6 Postscript: Formalizing Pattern
+Finally, before winding up our very brief tour through patternist philosophy of mind, we will
+briefly visit patternism’s more formal side. Many of the key aspects of patternism have been
+rigorously formalized. Here we give only a few very basic elements of the relevant mathematics,
+which will be used later on in the exposition of CogPrime. (Specifically, the formal definition of
+pattern emerges in the CogPrime design in the definition of a fitness function for “pattern mining”
+algorithms and Occam-based concept creation algorithms, and the definition of intensional
+inheritance within PLN.)
+We give some definitions, drawn from Appendix 1 of [Goe06a]:
+Definition 1 Given a metric space (M, d), and two functions c : M → [0, ∞] (the “simplicity
+measure”) and F : M → M (the “production relationship”), we say that P ∈ M is a pattern
+in X ∈ M to the degree
+54 3 A Patternist Philosophy of Mind
+ι P X =
+((
+1 −
+d(F (P), X)
+c(X)
+) c(X) − c(P)
+c(X)
+This degree is called the pattern intensity of P in X. It quantifies the extent to which P
+is a pattern in X. Supposing that F (P) = X, then the first factor in the definition equals 1,
+and we are left with only the second term, which measures the degree of compression obtained
+via representing X as the result of P rather than simply representing X directly. The greater
+the compression ratio obtained via using P to represent X, the greater the intensity of P as a
+pattern in X. The first time, in the case F (P) ≠ X, adjusts the pattern intensity downwards to
+account for the amount of error with which F (P) approximates ≠ X. If one holds the second
+factor fixed and thinks about varying the first factor, then: The greater the error, the lossier
+the compression, and the lower the pattern intensity.
+For instance, if one wishes one may take c to denote algorithmic information measured on
+some reference Turing machine, and F (X) to denote what appears on the second tape of a
+two-tape Turing machine t time-steps after placing X on its first tape. Other more naturalistic
+computational models are also possible here and are discussed extensively in Appendix 1 of
+[Goe06a].
+) +
+Definition 2 The structure of X ∈ M is the fuzzy set St X
+function
+χ StX (P) = ι P X
+defined via the membership
+This lets us formalize our definition of “mind” alluded to above: the mind of X as the set
+of patterns associated with X. We can formalize this, for instance, by considering P to belong
+to the mind of X if it is a pattern in some Y that includes X. There are then two numbers
+to look at: ι P X and P (Y |X) (the percentage of Y that is also contained in X). To define the
+degree to which P belongs to the mind of X we can then combine these two numbers using
+some function f that is monotone increasing in both arguments. This highlights the somewhat
+arbitrary semantics of “of” in the phrase “the mind of X.” Which of the patterns binding X to
+its environment are part of X’s mind, and which are part of the world? This isn’t necessarily
+a good question, and the answer seems to depend on what perspective you choose, represented
+formally in the present framework by what combination function f you choose (for instance if
+f(a, b) = a r b 2−r then it depends on the choice of 0 < r < 1).
+Next, we can formalize the notion of a “pattern space” by positing a metric on patterns, thus
+making pattern space a metric space, which will come in handy in some places in later chapters:
+Definition 3 Assuming M is a countable space, the structural distance is a metric d St
+defined on M via
+d St (X, Y ) = T (χ StX , χ StY )
+where T is the Tanimoto distance.
+The Tanimoto distance between two real vectors A and B is defined as
+T (A, B) =
+A · B
+‖A‖ 2 + ‖B‖ 2 − A · B
+and since M is countable this can be applied to fuzzy sets such as St X via considering the
+latter as vectors. (As an aside, this can be generalized to uncountable M as well, but we will
+not require this here.)
+3.6 Postscript: Formalizing Pattern 55
+Using this definition of pattern, combined with the formal theory of intelligence given in
+Chapter 7, one may formalize the various hypotheses made in the previous section, regarding
+the emergence of different kinds of networks and structures as patterns in intelligent systems.
+However, it appears quite difficult to prove the formal versions of these hypotheses given current
+mathematical tools, which renders such formalizations of limited use.
+Finally, consider the case where the metric space M has a partial ordering < on it; we may
+then define
+Definition 3.1. R ∈ M is a subpattern in X ∈ M to the degree
+∫
+κ R P∈M
+X =
+true(R < P )dιP X
+∫
+P∈M dιP X
+This degree is called the subpattern intensity of P in X.
+Roughly speaking, the subpattern intensity measures the percentage of patterns in X that
+contain R (where "containment" is judged by the partial ordering <). But the percentage is
+measured using a weighted average, where each pattern is weighted by its intensity as a pattern
+in X. A subpattern may or may not be a pattern on its own. A nonpattern that happens to
+occur within many patterns may be an intense subpattern.
+Whether the subpatterns in X are to be considered part of the "mind" of X is a somewhat
+superfluous question of semantics. Here we choose to extend the definition of mind given in
+[Goe06a] to include subpatterns as well as patterns, because this makes it simpler to describe
+the relationship between hypersets and minds, as we will do in Appendix ??.
+
+Chapter 4
+Brief Survey of Cognitive Architectures
+4.1 Introduction
+While we believe CogPrime is the most thorough attempt at an architecture for advanced AGI,
+to date, we certainly recognize there have been many valuable attempts in the past with similar
+aims; and we also have great respect for other AGI efforts occurring in parallel with Cog-
+Prime development, based on alternative, sometimes overlapping, theoretical presuppositions
+and practical choices. In most of this book we will ignore these other current and historical
+efforts except where they are directly useful for CogPrime – there are many literature reviews
+already published, and this is a research treatise not a textbook. In this chapter, however, we
+will break from this pattern and give a rough high-level overview of the various AGI architectures
+at play in the field today. The overview definitely has a bias toward other work with
+some direct relevance to CogPrime, but not an overwhelming bias; we also discuss a number of
+approaches that are unrelated to, and even in some cases conceptually orthogonal to, our own.
+CogPrime builds on prior AI efforts in a variety of ways. Most of the specific algorithms
+and structures in CogPrime have their roots in prior AI work; and in addition, the CogPrime
+cognitive architecture has been heavily inspired by some other holistic cognitive architectures,
+especially (but not exclusively) MicroPsi [Bac09], LIDA [BF09] and DeSTIN [ARK09a, ARC09].
+In this chapter we will briefly review some existing cognitive architectures, with especial but
+not exclusive emphasis on the latter three.
+We will articulate some rough mappings between elements of these other architectures and
+elements of CogPrime – some in this chapter, and some in Chapter 5. However, these mappings
+will mostly be left informal and very incompletely specified. The articulation of detailed interarchitecture
+mappings is an important project, but would be a substantial additional project
+going well beyond the scope of this book. We will not give a thorough review of the similarities
+and differences between CogPrime and each of these architectures, but only mention some of
+the highlights.
+The reader desiring a more thorough review of cognitive architectures is referred to Wlodek
+Duch’s review paper from the AGI-08 conference [DOP08]; and also to Alexei Samsonovich’s
+review paper [Sam10], which compares a number of cognitive architectures in terms of a feature
+checklist, and was created collaboratively with the creators of the architectures.
+Duch, in his survey of cognitive architectures [DOP08], divides existing approaches into three
+paradigms – symbolic, emergentist and hybrid – as broadly indicated in Figure 4.1. Drawing on
+his survey and updating slightly, we give here some key examples of each, and then explain why
+57
+58 4 Brief Survey of Cognitive Architectures
+CogPrime represents a significantly more effective approach to embodied human-like general
+intelligence. In our treatment of emergentist architectures, we pay particular attention to developmental
+robotics architectures, which share considerably with CogPrime in terms of underlying
+philosophy, but differ via not integrating a symbolic “language and inference” component such
+as CogPrime includes.
+In brief, we believe that the hybrid approach is the most pragmatic one given the current state
+of AI technology, but that the emergentist approach gets something fundamentally right, by
+focusing on the emergence of complex dynamics and structures from the interactions of simple
+components. So CogPrime is a hybrid architecture which (according to the cognitive synergy
+principle) binds its components together very tightly dynamically, allowing the emergence of
+complex dynamics and structures in the integrated system. Most other hybrid architectures are
+less tightly coupled and hence seem ill-suited to give rise to the needed emergent complexity. The
+other hybrid architectures that do possess the needed tight coupling, such as MicroPsi [Bac09],
+strike us as underdeveloped and founded on insufficiently powerful learning algorithms.
+Fig. 4.1: Duch’s simplified taxonomy of cognitive architectures. CogPrime falls into the “hybrid”
+category, but differs from other hybrid architectures in its focus on synergetic interactions
+between components and their potential to give rise to appropriate system-wide emergent structures
+enabling general intelligence.
+4.2 Symbolic Cognitive Architectures
+A venerable tradition in AI focuses on the physical symbol system hypothesis [New90], which
+states that minds exist mainly to manipulate symbols that represent aspects of the world or
+themselves. A physical symbol system has the ability to input, output, store and alter symbolic
+entities, and to execute appropriate actions in order to reach its goals. Generally, symbolic
+cognitive architectures focus on “working memory” that draws on long-term memory as needed,
+and utilize a centralized control over perception, cognition and action. Although in principle
+such architectures could be arbitrarily capable (since symbolic systems have universal repre-
+4.2 Symbolic Cognitive Architectures 59
+sentational and computational power, in theory), in practice symbolic architectures tend to be
+weak in learning, creativity, procedure learning, and episodic and associative memory. Decades
+of work in this tradition have not resolved these issues, which has led many researchers to
+explore other options. A few of the more important symbolic cognitive architectures are:

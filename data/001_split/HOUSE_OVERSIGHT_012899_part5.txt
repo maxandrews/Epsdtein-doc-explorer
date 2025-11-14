@@ -1,0 +1,1285 @@
+(µ, g, T ) =
+∑
+(µ α,g β .T ω)
+ν(µ)γ(g, µ)χ Conπ (µ, g, T )
+ν(µ α )γ(g β , µ α )χ Conπ (µ α , g β , T ω )
+is the probability distribution formed by normalizing the fuzzy set χ Conπ (µ, g, T ).
+A similar definition of the intellectual breadth of a context (µ, g, T ), relative to the distribution
+σ over agents, may be posited. A weakness of these definitions is that they don’t try to
+account for dependencies between agents or contexts; perhaps more refined formulations may
+be developed that account explicitly for these dependencies.
+Note that the intellectual breadth of an agent as defined here is largely independent of
+the (efficient or not) pragmatic general intelligence of that agent. One could have a rather
+(efficiently or not) pragmatically generally intelligent system with little breadth: this would be
+a system very good at solving a fair number of hard problems, yet wholly incompetent on a
+larger number of hard problems. On the other hand, one could also have a terribly (efficiently or
+not) pragmatically generally stupid system with great intellectual breadth: i.e a system roughly
+equally dumb in all contexts!
+Thus, one can characterize an intelligent agent as “narrow” with respect to distribution ν over
+environments and the distribution γ over goals, based on evaluating it as having low intellectual
+breadth. A “narrow AI” relative to ν and γ would then be an AI agent with a relatively high
+efficient pragmatic general intelligence but a relatively low intellectual breadth.
+7.5 Conclusion
+Our main goal in this chapter has been to push the formal understanding of intelligence in a more
+pragmatic direction. Much more work remains to be done, e.g. in specifying the environment,
+goal and efficiency distributions relevant to real-world systems, but we believe that the ideas
+presented here constitute nontrivial progress.
+If the line of research suggested in this chapter succeeds, then eventually, one will be able to
+do AGI research as follows: Specify an AGI architecture formally, and then use the mathematics
+of general intelligence to derive interesting results about the environments, goals and hardware
+platforms relative to which the AGI architecture will display significant pragmatic or efficient
+pragmatic general intelligence, and intellectual breadth. The remaining chapters in this section
+present further ideas regarding how to work toward this goal. For the time being, such a mode
+of AGI research remains mainly for the future, but we have still found the formalism given in
+these chapters useful for formulating and clarifying various aspects of the CogPrime design as
+will be presented in later chapters.
+Chapter 8
+Cognitive Synergy
+8.1 Cognitive Synergy
+As we have seen, the formal theory of general intelligence, in its current form, doesn’t really
+tell us much that’s of use for creating real-world AGI systems. It tells us that creating extraordinarily
+powerful general intelligence is almost trivial if one has unrealistically huge amounts
+of computational resources; and that creating moderately powerful general intelligence using
+feasible computational resources is all about creating AI algorithms and data structures that
+(explicitly or implicitly) match the restrictions implied by a certain class of situations, to which
+the general intelligence is biased.
+We’ve also described, in various previous chapters, some non-rigorous, conceptual principles
+that seem to explain key aspects of feasible general intelligence: the complementary reliance on
+evolution and autopoiesis, the superposition of hierarchical and heterarchical structures, and so
+forth. These principles can be considered as broad strategies for achieving general intelligence
+in certain broad classes of situations. Although, a lot of research needs to be done to figure out
+nice ways to describe, for instance, in what class of situations evolution is an effective learning
+strategy, in what class of situations dual hierarchical/heterarchical structure is an effective way
+to organize memory, etc.
+In this chapter we’ll dig deeper into one of the “general principle of feasible general intelligences”
+briefly alluded to earlier: the cognitive synergy principle, which is both a conceptual
+hypothesis about the structure of generally intelligent systems in certain classes of environments,
+and a design principle used to guide the architecting of CogPrime.
+We will focus here on cognitive synergy specifically in the case of “multi-memory systems,”
+which we define as intelligent systems (like CogPrime) whose combination of environment,
+embodiment and motivational systems make it important for them to possess memories that
+divide into partially but not wholly distinct components corresponding to the categories of:
+• Declarative memory
+• Procedural memory (memory about how to do certain things)
+• Sensory and episodic memory
+• Attentional memory (knowledge about what to pay attention to in what contexts
+• Intentional memory (knowledge about the system’s own goals and subgoals)
+In Chapter 9 below we present a detailed argument as to how the requirement for a multimemory
+underpinning for general intelligence emerges from certain underlying assumptions
+143
+144 8 Cognitive Synergy
+regarding the measurement of the simplicity of goals and environments; but the points made
+here do not rely on that argument. What they do rely on is the assumption that, in the
+intelligence in question, the different components of memory are significantly but not wholly
+distinct. That is, there are significant “family resemblances” between the memories of a single
+type, yet there are also thoroughgoing connections between memories of different types.
+The cognitive synergy principle, if correct, applies to any AI system demonstrating intelligence
+in the context of embodied, social communication. However, one may also take the theory
+as an explicit guide for constructing AGI systems; and of course, the bulk of this book describes
+one AGI architecture, CogPrime, designed in such a way.
+It is possible to cast these notions in mathematical form, and we make some efforts in this
+direction in Appendix ??, using the languages of category theory and information geometry.
+However, this formalization has not yet led to any rigorous proof of the generality of cognitive
+synergy nor any other exciting theorems; with luck this will come as the mathematics is further
+developed. In this chapter the presentation is kept on the heuristic level, which is all that is
+critically needed for motivating the CogPrime design.
+8.2 Cognitive Synergy
+The essential idea of cognitive synergy, in the context of multi-memory systems, may be expressed
+in terms of the following points:
+1. Intelligence, relative to a certain set of environments, may be understood as the capability
+to achieve complex goals in these environments.
+2. With respect to certain classes of goals and environments (see Chapter 9 for a hypothesis
+in this regard), an intelligent system requires a “multi-memory” architecture, meaning
+the possession of a number of specialized yet interconnected knowledge types, including:
+declarative, procedural, attentional, sensory, episodic and intentional (goal-related). These
+knowledge types may be viewed as different sorts of patterns that a system recognizes in
+itself and its environment. Knowledge of these various different types must be interlinked,
+and in some cases may represent differing views of the same content (see Figure ??)
+3. Such a system must possess knowledge creation (i.e. pattern recognition / formation) mechanisms
+corresponding to each of these memory types. These mechanisms are also called
+“cognitive processes.”
+4. Each of these cognitive processes, to be effective, must have the capability to recognize when
+it lacks the information to perform effectively on its own; and in this case, to dynamically
+and interactively draw information from knowledge creation mechanisms dealing with other
+types of knowledge
+5. This cross-mechanism interaction must have the result of enabling the knowledge creation
+mechanisms to perform much more effectively in combination than they would if operated
+non-interactively. This is “cognitive synergy.”
+While these points are implicit in the theory of mind given in [Goe06a], they are not articulated
+in this specific form there.
+Interactions as mentioned in Points 4 and 5 in the above list are the real conceptual meat
+of the cognitive synergy idea. One way to express the key idea here is that most AI algorithms
+suffer from combinatorial explosions: the number of possible elements to be combined in a
+8.2 Cognitive Synergy 145
+Fig. 8.1: Illustrative example of the interactions between multiple types of knowledge, in representing
+a simple piece of knowledge. Generally speaking, one type of knowledge can be converted
+to another, at the cost of some loss of information. The synergy between cognitive processes
+associated with corresponding pieces of knowledge, possessing different type, is a critical aspect
+of general intelligence.
+synthesis or analysis is just too great, and the algorithms are unable to filter through all the
+possibilities, given the lack of intrinsic constraint that comes along with a “general intelligence”
+context (as opposed to a narrow-AI problem like chess-playing, where the context is constrained
+and hence restricts the scope of possible combinations that needs to be considered). In an AGI
+architecture based on cognitive synergy, the different learning mechanisms must be designed
+specifically to interact in such a way as to palliate each others’ combinatorial explosions - so
+that, for instance, each learning mechanism dealing with a certain sort of knowledge, must
+synergize with learning mechanisms dealing with the other sorts of knowledge, in a way that
+decreases the severity of combinatorial explosion.
+One prerequisite for cognitive synergy to work is that each learning mechanism must recognize
+when it is “stuck,” meaning it’s in a situation where it has inadequate information to
+make a confident judgment about what steps to take next. Then, when it does recognize that
+it’s stuck, it may request help from other, complementary cognitive mechanisms.
+A theoretical notion closely related to cognitive synergy is the cognitive schematic, formalized
+in Chapter 7 above, which states that the activity of the different cognitive processes involved
+in an intelligent system may be modeled in terms of the schematic implication
+Context ∧ P rocedure → Goal
+146 8 Cognitive Synergy
+where the Context involves sensory, episodic and/or declarative knowledge; and attentional
+knowledge is used to regulate how much resource is given to each such schematic implication in
+memory. Synergy among the learning processes dealing with the context, the procedure and the
+goal is critical to the adequate execution of the cognitive schematic using feasible computational
+resources.
+Finally, drilling a little deeper into Point 3 above, one arrives at a number of possible knowledge
+creation mechanisms (cognitive processes) corresponding to each of the key types of knowledge.
+Figure ?? below gives a high-level overview of the main types of cognitive process considered
+in the current version of Cognitive Synergy Theory, categorized according to the type
+of knowledge with which each process deals.
+8.3 Cognitive Synergy in CogPrime
+Different cognitive systems will use different processes to fulfill the various roles identified in
+Figure ?? above. Here we briefly preview the basic cognitive processes that the CogPrime AGI
+design uses for these roles, and the synergies that exist between these.
+8.3.1 Cognitive Processes in CogPrime
+: a Cognitive Synergy Based Architecture..." from ICCI 2009
+Table 8.1: default
+Table will go here
+Table 8.2: The OpenCogPrime data structures used to represent the key knowledge types involved
+Table 8.3: default
+Table will go here
+Table 8.4: Key cognitive processes, and the algorithms that play their roles in CogPrime
+Tables 8.1 and 8.3 present the key structures and processes involved in CogPrime, identifying
+each one with a certain memory/process type as considered in cognitive synergy theory. That
+is: each of these cognitive structures or processes deals with one or more types of memory –
+declarative, procedural, sensory, episodic or attentional. Table 8.5 describes the key CogPrime
+8.3 Cognitive Synergy in CogPrime 147
+Fig. 8.2: High-level overview of the key cognitive dynamics considered here in the context of
+cognitive synergy. The cognitive synergy principle describes the behavior of a system as it
+pursues a set of goals (which in most cases may be assumed to be supplied to the system
+“a priori”, but then refined by inference and other processes). The assumed intelligent agent
+model is roughly as follows: At each time the system chooses a set of procedures to execute,
+based on its judgments regarding which procedures will best help it achieve its goals in the
+current context. These procedures may involve external actions (e.g. involving conversation,
+or controlling an agent in a simulated world) and/or internal cognitive actions. In order to
+make these judgments it must effectively manage declarative, procedural, episodic, sensory
+and attentional memory, each of which is associated with specific algorithms and structures
+as depicted in the diagram. There are also global processes spanning all the forms of memory,
+including the allocation of attention to different memory items and cognitive processes, and the
+identification and reification of system-wide activity patterns (the latter referred to as “map
+formation”)
+Table 8.5: default
+Table will go here
+Table 8.6: Key OpenCogPrime cognitive processes categorized according to knowledge type and
+process type
+148 8 Cognitive Synergy
+processes in terms of the “analysis vs. synthesis” distinction. Finally, Tables ?? and ?? exemplify
+these structures and processes in the context of embodied virtual agent control.
+In the CogPrime context, a procedure in this cognitive schematic is a program tree stored
+in the system’s procedural knowledge base; and a context is a (fuzzy, probabilistic) logical
+predicate stored in the AtomSpace, that holds, to a certain extent, during each interval of time.
+A goal is a fuzzy logical predicate that has a certain value at each interval of time, as well.
+Attentional knowledge is handled in CogPrime by the ECAN artificial economics mechanism,
+that continually updates ShortTermImportance and LongTerm Importance values associated
+with each item in the CogPrime system’s memory, which control the amount of attention other
+cognitive mechanisms pay to the item, and how much motive the system has to keep the
+item in memory. HebbianLinks are then created between knowledge items that often possess
+ShortTermImportance at the same time; this is CogPrime’s version of traditional Hebbian
+learning.
+ECAN has deep interactions with other cognitive mechanisms as well, which are essential
+to its efficient operation; for instance, PLN inference may be used to help ECAN extrapolate
+conclusions about what is worth paying attention to, and MOSES may be used to recognize
+subtle attentional patterns. ECAN also handles “assignment of credit”, the figuring-out of the
+causes of an instance of successful goal-achievement, drawing on PLN and MOSES as needed
+when the causal inference involved here becomes difficult.
+The synergies between CogPrime’s cognitive processes are well summarized below, which is
+a 16x16 matrix summarizing a host of interprocess interactions generic to CST.
+One key aspect of how CogPrime implements cognitive synergy is PLN’s sophisticated management
+of the confidence of judgments. This ties in with the way OpenCogPrime’s PLN inference
+framework represents truth values in terms of multiple components (as opposed to the
+single probability values used in many probabilistic inference systems and formalisms): each
+item in OpenCogPrime’s declarative memory has a confidence value associated with it, which
+tells how much weight the system places on its knowledge about that memory item. This assists
+with cognitive synergy as follows: A learning mechanism may consider itself “stuck”, generally
+speaking, when it has no high-confidence estimates about the next step it should take.
+Without reasonably accurate confidence assessment to guide it, inter-component interaction
+could easily lead to increased rather than decreased combinatorial explosion. And of course
+there is an added recursion here, in that confidence assessment is carried out partly via PLN
+inference, which in itself relies upon these same synergies for its effective operation.
+To illustrate this point further, consider one of the synergetic aspects described in ?? below:
+the role cognitive synergy plays in deductive inference. Deductive inference is a hard problem
+in general - but what is hard about it is not carrying out inference steps, but rather “inference
+control” (i.e., choosing which inference steps to carry out). Specifically, what must happen for
+deduction to succeed in CogPrime is:
+1. the system must recognize when its deductive inference process is “stuck”, i.e. when the
+PLN inference control mechanism carrying out deduction has no clear idea regarding which
+inference step(s) to take next, even after considering all the domain knowledge at is disposal
+2. in this case, the system must defer to another learning mechanism to gather more information
+about the different choices available - and the other learning mechanism chosen must,
+a reasonable percentage of the time, actually provide useful information that helps PLN to
+get “unstuck” and continue the deductive process
+8.4 Some Critical Synergies 149
+For instance, deduction might defer to the “attentional knowledge” subsystem, and make
+a judgment as to which of the many possible next deductive steps are most associated with
+the goal of inference and the inference steps taken so far, according to the HebbianLinks constructed
+by the attention allocation subsystem, based on observed associations. Or, if this fails,
+deduction might ask MOSES (running in supervised categorization mode) to learn predicates
+characterizing some of the terms involving the possible next inference steps. Once MOSES provides
+these new predicates, deduction can then attempt to incorporate these into its inference
+process, hopefully (though not necessarily) arriving at a higher-confidence next step.
+8.4 Some Critical Synergies
+Referring back to Figure ??, and summarizing many of the ideas in the previous section, Table
+?? enumerates a number of specific ways in which the cognitive processes mentioned in the
+Figure may synergize with one another, potentially achieving dramatically greater efficiency
+than would be possible on their own.
+Of course, realizing these synergies on the practical algorithmic level requires significant
+inventiveness and may be approached in many different ways. The specifics of how CogPrime
+manifests these synergies are discussed in many following chapters.
+Fig. 8.3: This table, and the following ones, show some of the synergies between the primary
+cognitive processes explicitly used in CogPrime.
+150 8 Cognitive Synergy
+8.5 The Cognitive Schematic 151
+8.5 The Cognitive Schematic
+Now we return to the “cognitive schematic” notion, according to which various cognitive processes
+involved in intelligence may be understood to work together via the implication
+Context ∧ P rocedure → Goal < p >
+(summarized C ∧ P → G). Semi-formally, this implication may be interpreted to mean: “If the
+context C appears to hold currently, then if I enact the procedure P , I can expect to achieve
+the goal G with certainty p.”
+The cognitive schematic leads to a conceptualization of the internal action of an intelligent
+system as involving two key categories of learning:
+• Analysis: Estimating the probability p of a posited C ∧ P → G relationship
+• Synthesis: Filling in one or two of the variables in the cognitive schematic, given assumptions
+regarding the remaining variables, and directed by the goal of maximizing the
+probability of the cognitive schematic
+More specifically, where synthesis is concerned, some key examples are:
+• The MOSES probabilistic evolutionary program learning algorithm is applied to find P ,
+given fixed C and G. Internal simulation is also used, for the purpose of creating a simulation
+embodying C and seeing which P lead to the simulated achievement of G.
+– Example: A virtual dog learns a procedure P to please its owner (the goal G) in the
+context C where there is a ball or stick present and the owner is saying “fetch”.
+• PLN inference, acting on declarative knowledge, is used for choosing C, given fixed P and
+G (also incorporating sensory and episodic knowledge as appropriate). Simulation may also
+be used for this purpose.
+152 8 Cognitive Synergy
+– Example: A virtual dog wants to achieve the goal G of getting food, and it knows that
+the procedure P of begging has been successful at this before, so it seeks a context C
+where begging can be expected to get it food. Probably this will be a context involving a
+friendly person.
+• PLN-based goal refinement is used to create new subgoals G to sit on the right hand side
+of instances of the cognitive schematic.
+– Example: Given that a virtual dog has a goal of finding food, it may learn a subgoal of
+following other dogs, due to observing that other dogs are often heading toward their
+food.
+• Concept formation heuristics are used for choosing G and for fueling goal refinement, but
+especially for choosing C (via providing new candidates for C). They are also used for
+choosing P , via a process called “predicate schematization” that turns logical predicates
+(declarative knowledge) into procedures.
+– Example: At first a virtual dog may have a hard time predicting which other dogs are
+going to be mean to it. But it may eventually observe common features among a number
+of mean dogs, and thus form its own concept of “pit bull,” without anyone ever teaching
+it this concept explicitly.
+Where analysis is concerned:
+• PLN inference, acting on declarative knowledge, is used for estimating the probability of
+the implication in the cognitive schematic, given fixed C, P and G. Episodic knowledge
+is also used this regard, via enabling estimation of the probability via simple similarity
+matching against past experience. Simulation is also used: multiple simulations may be
+run, and statistics may be captured therefrom.
+– Example: To estimate the degree to which asking Bob for food (the procedure P is “asking
+for food”, the context C is “being with Bob”) will achieve the goal G of getting food, the
+virtual dog may study its memory to see what happened on previous occasions where it
+or other dogs asked Bob for food or other things, and then integrate the evidence from
+these occasions.
+• Procedural knowledge, mapped into declarative knowledge and then acted on by PLN inference,
+can be useful for estimating the probability of the implication C ∧ P → G, in cases
+where the probability of C ∧ P 1 → G is known for some P 1 related to P .
+– Example: knowledge of the internal similarity between the procedure of asking for food
+and the procedure of asking for toys, allows the virtual dog to reason that if asking Bob
+for toys has been successful, maybe asking Bob for food will be successful too.
+• Inference, acting on declarative or sensory knowledge, can be useful for estimating the
+probability of the implication C ∧ P → G, in cases where the probability of C 1 ∧ P → G is
+known for some C 1 related to C.
+– Example: if Bob and Jim have a lot of features in common, and Bob often responds
+positively when asked for food, then maybe Jim will too.
+• Inference can be used similarly for estimating the probability of the implication C ∧P → G,
+in cases where the probability of C ∧ P → G 1 is known for some G 1 related to G. Concept
+8.6 Cognitive Synergy for Procedural and Declarative Learning 153
+creation can be useful indirectly in calculating these probability estimates, via providing
+new concepts that can be used to make useful inference trails more compact and hence
+easier to construct.
+– Example: The dog may reason that because Jack likes to play, and Jack and Jill are both
+children, maybe Jill likes to play too. It can carry out this reasoning only if its concept
+creation process has invented the concept of “child” via analysis of observed data.
+In these examples we have focused on cases where two terms in the cognitive schematic are
+fixed and the third must be filled in; but just as often, the situation is that only one of the
+terms is fixed. For instance, if we fix G, sometimes the best approach will be to collectively
+learn C and P . This requires either a procedure learning method that works interactively with a
+declarative-knowledge-focused concept learning or reasoning method; or a declarative learning
+method that works interactively with a procedure learning method. That is, it requires the sort
+of cognitive synergy built into the CogPrime design.
+8.6 Cognitive Synergy for Procedural and Declarative Learning
+We now present a little more algorithmic detail regarding the operation and synergetic interaction
+of CogPrime’s two most sophisticated components: the MOSES procedure learning
+algorithm (see Chapter 33), and the PLN uncertain inference framework (see Chapter 34). The
+treatment is necessarily quite compact, since we have not yet reviewed the details of either
+MOSES or PLN; but as well as illustrating the notion of cognitive synergy more concretely,
+perhaps the high-level discussion here will make clearer how MOSES and PLN fit into the big
+picture of CogPrime.
+8.6.1 Cognitive Synergy in MOSES
+MOSES, CogPrime’s primary algorithm for learning procedural knowledge, has been tested on
+a variety of application problems including standard GP test problems, virtual agent control,
+biological data analysis and text classification [Loo06]. It represents procedures internally as
+program trees. Each node in a MOSES program tree is supplied with a “knob,” comprising a
+set of values that may potentially be chosen to replace the data item or operator at that node.
+So for instance a node containing the number 7 may be supplied with a knob that can take
+on any integer value. A node containing a while loop may be supplied with a knob that can
+take on various possible control flow operators including conditionals or the identity. A node
+containing a procedure representing a particular robot movement, may be supplied with a knob
+that can take on values corresponding to multiple possible movements. Following a metaphor
+suggested by Douglas Hofstadter [Hof96], MOSES learning covers both “knob twiddling” (setting
+the values of knobs) and “knob creation.”
+MOSES is invoked within CogPrime in a number of ways, but most commonly for finding a
+procedure P satisfying a probabilistic implication C&P → G as described above, where C is an
+observed context and G is a system goal. In this case the probability value of the implication
+provides the “scoring function” that MOSES uses to assess the quality of candidate procedures.
+154 8 Cognitive Synergy
+Fig. 8.4: High-Level Control Flow of MOSES Algorithm
+For example, suppose an CogPrime -controlled robot is trying to learn to play the game
+of “tag." (I.e. a multi-agent game in which one agent is specially labeled "it", and runs after
+the other player agents, trying to touch them. Once another agent is touched, it becomes the
+new "it" and the previous "it" becomes just another player agent.) Then its context C is that
+others are trying to play a game they call “tag” with it; and we may assume its goals are to
+please them and itself, and that it has figured out that in order to achieve this goal it should
+learn some procedure to follow when interacting with others who have said they are playing
+“tag.” In this case a potential tag-playing procedure might contain nodes for physical actions
+like step_f orward(speed s), as well as control flow nodes containing operators like if else
+(for instance, there would probably be a conditional telling the robot to do something different
+depending on whether someone seems to be chasing it). Each of these program tree nodes would
+have an appropriate knob assigned to it. And the scoring function would evaluate a procedure
+P in terms of how successfully the robot played tag when controlling its behaviors according to
+P (noting that it may also be using other control procedures concurrently with P ). It’s worth
+noting here that evaluating the scoring function in this case involves some inference already,
+because in order to tell if it is playing tag successfully, in a real-world context, it must watch
+and understand the behavior of the other players.
+MOSES follows the high-level control flow depicted in Figure 8.4, which corresponds to the
+following process for evolving a metapopulation of “demes“ of programs (each deme being a set
+of relatively similar programs, forming a sort of island in program space):
+1. Construct an initial set of knobs based on some prior (e.g., based on an empty program;
+or more interestingly, using prior knowledge supplied by PLN inference based on the
+system’s memory) and use it to generate an initial random sampling of programs. Add this
+deme to the metapopulation.
+2. Select a deme from the metapopulation and update its sample, as follows:
+8.6 Cognitive Synergy for Procedural and Declarative Learning 155
+a. Select some promising programs from the deme’s existing sample to use for modeling,
+according to the scoring function.
+b. Considering the promising programs as collections of knob settings, generate new collections
+of knob settings by applying some (competent) optimization algorithm. For best
+performance on difficult problems, it is important to use an optimization algorithm that
+makes use of the system’s memory in its choices, consulting PLN inference to help
+estimate which collections of knob settings will work best.
+c. Convert the new collections of knob settings into their corresponding programs, reduce
+the programs to normal form, evaluate their scores, and integrate them into the
+deme’s sample, replacing less promising programs. In the case that scoring is expensive,
+score evaluation may be preceded by score estimation, which may use PLN inference,
+enaction of procedures in an internal simulation environment, and/or similarity
+matching against episodic memory.
+3. For each new program that meet the criterion for creating a new deme, if any:
+a. Construct a new set of knobs (a process called “representation-building”) to define a
+region centered around the program (the deme’s exemplar), and use it to generate a
+new random sampling of programs, producing a new deme.
+b. Integrate the new deme into the metapopulation, possibly displacing less promising
+demes.
+4. Repeat from step 2.
+MOSES is a complex algorithm and each part plays its role; if any one part is removed the
+performance suffers significantly [Loo06]. However, the main point we want to highlight here is
+the role played by synergetic interactions between MOSES and other cognitive components such
+as PLN, simulation and episodic memory, as indicated in boldface in the above pseudocode.
+MOSES is a powerful procedure learning algorithm, but used on its own it runs into scalability
+problems like any other such algorithm; the reason we feel it has potential to play a major role
+in a human-level AI system is its capacity for productive interoperation with other cognitive
+components.
+Continuing the “tag” example, the power of MOSES’s integration with other cognitive processes
+would come into play if, before learning to play tag, the robot has already played simpler
+games involving chasing. If the robot already has experience chasing and being chased by other
+agents, then its episodic and declarative memory will contain knowledge about how to pursue
+and avoid other agents in the context of running around an environment full of objects, and this
+knowledge will be deployable within the appropriate parts of MOSES’s Steps 1 and 2. Crossprocess
+and cross-memory-type integration make it tractable for MOSES to act as a “transfer
+learning” algorithm, not just a task-specific machine-learning algorithm.
+8.6.2 Cognitive Synergy in PLN
+While MOSES handles much of CogPrime’s procedural learning, and OpenCogPrimes internal
+simulation engine handles most episodic knowledge, CogPrime’s primary tool for handling
+declarative knowledge is an uncertain inference framework called Probabilistic Logic Networks
+(PLN). The complexities of PLN are the topic of a lengthy technical monograph [GMIH08], and
+156 8 Cognitive Synergy
+here we will eschew most details and focus mainly on pointing out how PLN seeks to achieve
+efficient inference control via integration with other cognitive processes.
+As a logic, PLN is broadly integrative: it combines certain term logic rules with more standard
+predicate logic rules, and utilizes both fuzzy truth values and a variant of imprecise probabilities
+called indefinite probabilities. PLN mathematics tells how these uncertain truth values propagate
+through its logic rules, so that uncertain premises give rise to conclusions with reasonably
+accurately estimated uncertainty values. This careful management of uncertainty is critical for
+the application of logical inference in the robotics context, where most knowledge is abstracted
+from experience and is hence highly uncertain.
+PLN can be used in either forward or backward chaining mode; and in the language introduced
+above, it can be used for either analysis or synthesis. As an example, we will consider
+backward chaining analysis, exemplified by the problem of a robot preschool-student trying to
+determine whether a new playmate “Bob” is likely to be a regular visitor to its preschool or not
+(evaluating the truth value of the implication Bob → regular_visitor). The basic backward
+chaining process for PLN analysis looks like:
+1. Given an implication L ≡ A → B whose truth value must be estimated (for instance
+L ≡ C&P → G as discussed above), create a list (A 1 , ..., A n ) of (inference rule, stored
+knowledge) pairs that might be used to produce L
+2. Using analogical reasoning to prior inferences, assign each A i a probability of success
+• If some of the A i are estimated to have reasonable probability of success at generating
+reasonably confident estimates of L’s truth value, then invoke Step 1 with A i in place
+of L (at this point the inference process becomes recursive)
+• If none of the A i looks sufficiently likely to succeed, then inference has “gotten stuck”
+and another cognitive process should be invoked, e.g.
+– Concept creation may be used to infer new concepts related to A and B, and then
+Step 1 may be revisited, in the hope of finding a new, more promising A i involving
+one of the new concepts
+– MOSES may be invoked with one of several special goals, e.g. the goal of finding
+a procedure P so that P (X) predicts whether X → B. If MOSES finds such a
+procedure P then this can be converted to declarative knowledge understandable
+by PLN and Step 1 may be revisited....
+– Simulations may be run in CogPrime’s internal simulation engine, so as to observe
+the truth value of A → B in the simulations; and then Step 1 may be revisited....
+The combinatorial explosion of inference control is combatted by the capability to defer to
+other cognitive processes when the inference control procedure is unable to make a sufficiently
+confident choice of which inference steps to take next. Note that just as MOSES may rely
+on PLN to model its evolving populations of procedures, PLN may rely on MOSES to create
+complex knowledge about the terms in its logical implications. This is just one example of the
+multiple ways in which the different cognitive processes in CogPrime interact synergetically; a
+more thorough treatment of these interactions is given in Chapter 49.
+In the “new playmate” example, the interesting case is where the robot initially seems not
+to know enough about Bob to make a solid inferential judgment (so that none of the A i seem
+particularly promising). For instance, it might carry out a number of possible inferences and not
+come to any reasonably confident conclusion, so that the reason none of the A i seem promising
+is that all the decent-looking ones have been tried already. So it might then recourse to MOSES,
+simulation or concept creation.
+8.7 Is Cognitive Synergy Tricky? 157
+For instance, the PLN controller could make a list of everyone who has been a regular
+visitor, and everyone who has not been, and pose MOSES the task of figuring out a procedure
+for distinguishing these two categories. This procedure could then used directly to make the
+needed assessment, or else be translated into logical rules to be used within PLN inference. For
+example, perhaps MOSES would discover that older males wearing ties tend not to become
+regular visitors. If the new playmate is an older male wearing a tie, this is directly applicable.
+But if the current playmate is wearing a tuxedo, then PLN may be helpful via reasoning that
+even though a tuxedo is not a tie, it’s a similar form of fancy dress – so PLN may extend the
+MOSES-learned rule to the present case and infer that the new playmate is not likely to be a
+regular visitor.
+8.7 Is Cognitive Synergy Tricky?
+1
+In this section we use the notion of cognitive synergy to explore a question that arises
+frequently in the AGI community: the well-known difficulty of measuring intermediate progress
+toward human-level AGI. We explore some potential reasons underlying this, via extending the
+notion of cognitive synergy to a more refined notion of "tricky cognitive synergy." These ideas
+are particularly relevant to the problem of creating a roadmap toward AGI, as we’ll explore in
+Chapter 17 below.
+8.7.1 The Puzzle: Why Is It So Hard to Measure Partial Progress
+Toward Human-Level AGI?
+It’s not entirely straightforward to create tests to measure the final achievement of human-level
+AGI, but there are some fairly obvious candidates here. There’s the Turing Test (fooling judges
+into believing you’re human, in a text chat), the video Turing Test, the Robot College Student
+test (passing university, via being judged exactly the same way a human student would), etc.
+There’s certainly no agreement on which is the most meaningful such goal to strive for, but
+there’s broad agreement that a number of goals of this nature basically make sense.
+On the other hand, how does one measure whether one is, say, 50 percent of the way to
+human-level AGI? Or, say, 75 or 25 percent?
+It’s possible to pose many "practical tests" of incremental progress toward human-level AGI,
+with the property that if a proto-AGI system passes the test using a certain sort of architecture
+and/or dynamics, then this implies a certain amount of progress toward human-level AGI based
+on particular theoretical assumptions about AGI. However, in each case of such a practical test,
+it seems intuitively likely to a significant percentage of AGI researchers that there is some way
+to "game" the test via designing a system specifically oriented toward passing that test, and
+which doesn’t constitute dramatic progress toward AGI.
+Some examples of practical tests of this nature would be
+1 This section co-authored with Jared Wigmore
+158 8 Cognitive Synergy
+• The Wozniak "coffee test": go into an average American house and figure out how to make
+coffee, including identifying the coffee machine, figuring out what the buttons do, finding
+the coffee in the cabinet, etc.
+• Story understanding – reading a story, or watching it on video, and then answering questions
+about what happened (including questions at various levels of abstraction)
+• Graduating (virtual-world or robotic) preschool
+• Passing the elementary school reading curriculum (which involves reading and answering
+questions about some picture books as well as purely textual ones)
+• Learning to play an arbitrary video game based on experience only, or based on experience
+plus reading instructions
+One interesting point about tests like this is that each of them seems to some AGI researchers
+to encapsulate the crux of the AGI problem, and be unsolvable by any system not far along
+the path to human-level AGI – yet seems to other AGI researchers, with different conceptual
+perspectives, to be something probably game-able by narrow-AI methods. And of course, given
+the current state of science, there’s no way to tell which of these practical tests really can be
+solved via a narrow-AI approach, except by having a lot of people try really hard over a long
+period of time.
+A question raised by these observations is whether there is some fundamental reason why
+it’s hard to make an objective, theory-independent measure of intermediate progress toward
+advanced AGI. Is it just that we haven’t been smart enough to figure out the right test – or is
+there some conceptual reason why the very notion of such a test is problematic?
+We don’t claim to know for sure – but in the rest of this section we’ll outline one possible
+reason why the latter might be the case.
+8.7.2 A Possible Answer: Cognitive Synergy is Tricky!
+Why might a solid, objective empirical test for intermediate progress toward AGI be an infeasible
+notion? One possible reason, we suggest, is precisely cognitive synergy, as discussed
+above.
+The cognitive synergy hypothesis, in its simplest form, states that human-level AGI intrinsically
+depends on the synergetic interaction of multiple components (for instance, as in
+CogPrime, multiple memory systems each supplied with its own learning process). In this hypothesis,
+for instance, it might be that there are 10 critical components required for a humanlevel
+AGI system. Having all 10 of them in place results in human-level AGI, but having only
+8 of them in place results in having a dramatically impaired system – and maybe having only
+6 or 7 of them in place results in a system that can hardly do anything at all.
+Of course, the reality is almost surely not as strict as the simplified example in the above
+paragraph suggests. No AGI theorist has really posited a list of 10 crisply-defined subsystems
+and claimed them necessary and sufficient for AGI. We suspect there are many different routes
+to AGI, involving integration of different sorts of subsystems. However, if the cognitive synergy
+hypothesis is correct, then human-level AGI behaves roughly like the simplistic example in the
+prior paragraph suggests. Perhaps instead of using the 10 components, you could achieve humanlevel
+AGI with 7 components, but having only 5 of these 7 would yield drastically impaired
+functionality – etc. Or the point could be made without any decomposition into a finite set
+of components, using continuous probability distributions. To mathematically formalize the
+8.7 Is Cognitive Synergy Tricky? 159
+cognitive synergy hypothesis becomes complex, but here we’re only aiming for a qualitative
+argument. So for illustrative purposes, we’ll stick with the "10 components" example, just for
+communicative simplicity.
+Next, let’s suppose that for any given task, there are ways to achieve this task using a system
+that is much simpler than any subset of size 6 drawn from the set of 10 components needed
+for human-level AGI, but works much better for the task than this subset of 6 components
+(assuming the latter are used as a set of only 6 components, without the other 4 components).
+Note that this supposition is a good bit stronger than mere cognitive synergy. For lack of
+a better name, we’ll call it tricky cognitive synergy. The tricky cognitive synergy hypothesis
+would be true if, for example, the following possibilities were true:
+• creating components to serve as parts of a synergetic AGI is harder than creating components
+intended to serve as parts of simpler AI systems without synergetic dynamics
+• components capable of serving as parts of a synergetic AGI are necessarily more complicated
+than components intended to serve as parts of simpler AGI systems.
+These certainly seem reasonable possibilities, since to serve as a component of a synergetic AGI
+system, a component must have the internal flexibility to usefully handle interactions with a lot
+of other components as well as to solve the problems that come its way. In a CogPrime context,
+these possibilities ring true, in the sense that tailoring an AI process for tight integration with
+other AI processes within CogPrime, tends to require more work than preparing a conceptually
+similar AI process for use on its own or in a more task-specific narrow AI system.
+It seems fairly obvious that, if tricky cognitive synergy really holds up as a property of
+human-level general intelligence, the difficulty of formulating tests for intermediate progress
+toward human-level AGI follows as a consequence. Because, according to the tricky cognitive
+synergy hypothesis, any test is going to be more easily solved by some simpler narrow AI process
+than by a partially complete human-level AGI system.
+8.7.3 Conclusion
+We haven’t proved anything here, only made some qualitative arguments. However, these arguments
+do seem to give a plausible explanation for the empirical observation that positing tests
+for intermediate progress toward human-level AGI is a very difficult prospect. If the theoretical
+notions sketched here are correct, then this difficulty is not due to incompetence or lack
+of imagination on the part of the AGI community, nor due to the primitive state of the AGI
+field, but is rather intrinsic to the subject matter. And if these notions are correct, then quite
+likely the future rigorous science of AGI will contain formal theorems echoing and improving
+the qualitative observations and conjectures we’ve made here.
+If the ideas sketched here are true, then the practical consequence for AGI development
+is, very simply, that one shouldn’t worry a lot about producing intermediary results that are
+compelling to skeptical observers. Just at 2/3 of a human brain may not be of much use,
+similarly, 2/3 of an AGI system may not be much use. Lack of impressive intermediary results
+may not imply one is on a wrong development path; and comparison with narrow AI systems on
+specific tasks may be badly misleading as a gauge of incremental progress toward human-level
+AGI.
+160 8 Cognitive Synergy
+Hopefully it’s clear that the motivation behind the line of thinking presented here is a desire
+to understand the nature of general intelligence and its pursuit – not a desire to avoid testing our
+AGI software! Really, as AGI engineers, we would love to have a sensible rigorous way to test our
+intermediary progress toward AGI, so as to be able to pose convincing arguments to skeptics,
+funding sources, potential collaborators and so forth. Our motivation here is not a desire to
+avoid having the intermediate progress of our efforts measured, but rather a desire to explain
+the frustrating (but by now rather well-established) difficulty of creating such intermediate
+goals for human-level AGI in a meaningful way.
+If we or someone else figures out a compelling way to measure partial progress toward AGI,
+we will celebrate the occasion. But it seems worth seriously considering the possibility that the
+difficulty in finding such a measure reflects fundamental properties of general intelligence.
+From a practical CogPrime perspective, we are interested in a variety of evaluation and
+testing methods, including the "virtual preschool" approach mentioned briefly above and more
+extensively in later chapters. However, our focus will be on evaluation methods that give us
+meaningful information about CogPrime’s progress, given our knowledge of how CogPrime
+works and our understanding of the underlying theory. We are unlikely to focus on the achievement
+of intermediate test results capable of convincing skeptics of the reality of our partial
+progress, because we have not yet seen any credible tests of this nature, and because we suspect
+the reasons for this lack may be rooted in deep properties of feasible general intelligence, such
+as tricky cognitive synergy.
+Chapter 9
+General Intelligence in the Everyday Human
+World
+9.1 Introduction
+Intelligence is not just about what happens inside a system, but also about what happens outside
+that system, and how the system interacts with its environment. Real-world general intelligence
+is about intelligence relative to some particular class of environments, and human-like general
+intelligence is about intelligence relative to the particular class of environments that humans
+evolved in (which in recent millennia has included environments humans have created using
+their intelligence). In Chapter 2, we reviewed some specific capabilities characterizing humanlike
+general intelligence; to connect these with the general theory of general intelligence from the
+last few chapters, we need to explain what aspects of human-relevant environments correspond
+to these human-like intelligent capabilities. We begin with aspects of the environment related
+to communication, which turn out to tie in closely with cognitive synergy. Then we turn to
+physical aspects of the environment, which we suspect also connect closely with various human
+cognitive capabilities. Finally we turn to physical aspects of the human body and their relevance
+to the human mind. In the following chapter we present a deeper, more abstract theoretical
+framework encompassing these ideas.
+These ideas are of theoretical importance, and they’re also of practical importance when one
+turns to the critical area of AGI environment design. If one is going to do anything besides
+release one’s young AGI into the “wilds” of everyday human life, then one has to put some
+thought into what kind of environment it will be raised in. This may be a virtual world or it
+may be a robot preschool or some other kind of physical environment, but in any case some
+specific choices must be made about what to include. Specific choices must also be made about
+what kind of body to give one’s AGI system – what sensors and actuators, and so forth. In
+Chapter 16 we will present some specific suggestions regarding choices of embodiment and
+environment that we find to be ideal for AGI development – virtual and robot preschools – but
+the material in this chapter is of more general import, beyond any such particularities. If one
+has an intuitive idea of what properties of body and world human intelligence is biased for,
+then one can make practical choices about embodiment and environment in a principled rather
+than purely ad hoc or opportunistic way.
+161
+162 9 General Intelligence in the Everyday Human World
+9.2 Some Broad Properties of the Everyday World That Help
+Structure Intelligence
+The properties of the everyday world that help structure intelligence are diverse and span
+multiple levels of abstraction. Most of this chapter will focus on fairly concrete patterns of this
+nature, such as are involved in inter-agent communication and naive physics; however, it’s also
+worth noting the potential importance of more abstract patterns distinguishing the everyday
+world from arbitrary mathematical environments.
+The propensity to search for hierarchical patterns is one huge potential example of an abstract
+everyday-world property. We strongly suspect the reason that searching for hierarchical
+patterns works so well, in so many everyday-world contexts, lies in the particular structure of
+the everyday world – it’s not something that would be true across all possible environments
+(even if one weights the space of possible environments in some clever way, say using programlength
+according to some standard computational model). However, this sort of assertion is of
+course highly “philosophical,” and becomes complex to formulate and defend convincingly given
+the current state of science and mathematics.
+Going one step further, we recall from Chapter 3 a structure called the “dual network”, which
+consists of superposed hierarchical and heterarchical networks: basically a hierarchy in which
+the distance between two nodes in the hierarchy is correlated with the distance between the
+nodes in some metric space. Another high level property of the everyday world may be that dual
+network structures are prevalent. This would imply that minds biased to represent the world in
+terms of dual network structure are likely to be intelligent with respect to the everyday world.
+In a different direction, the extreme commonality of symmetry groups in the (everyday and
+otherwise) physical world is another example: they occur so often that minds oriented toward
+recognizing patterns involving symmetry groups are likely to be intelligent with respect to the
+real world.
+We suspect that the number of cognitively-relevant properties of the everyday world is huge
+... and that the essence of everyday-world intelligence lies in the list of varyingly abstract and
+concrete properties, which must be embedded implicitly or explicitly in the structure of a natural
+or artificial intelligence for that system to have everyday-world intelligence.
+Apart from these particular yet abstract properties of the everyday world, intelligence is just
+about “finding patterns in which actions tend to achieve which goals in which situations” ... but,
+the simple meta-algorithm needed to accomplish this universally is, we suggest, only a small
+percentage what it takes to make a mind.
+You might say that a sufficiently generally intelligent system should be able to infer the
+various cognitively-relevant properties of the environment from looking at data about the everyday
+world. We agree in principle, and in fact Ben Kuipers and his colleagues have done
+some interesting work in this direction, showing that learning algorithms can infer some basics
+about the structure of space and time from experience [MK07]. But we suggest that doing this
+really thoroughly would require a massively greater amount of processing power than an AGI
+that embodies and hence automatically utilizes these principles. It may be that the problem of
+inferring these properties is so hard as to require a wildly infeasible AIXI tl / Godel Machine
+type system.
+9.3 Embodied Communication 163
+9.3 Embodied Communication
+Next we turn to the potential cognitive implications of seeking to achieve goals in an environment
+in which multimodal communication with other agents plays a prominent role.
+Consider a community of embodied agents living in a shared world, and suppose that the
+agents can communicate with each other via a set of mechanisms including:
+• Linguistic communication, in a language whose semantics is largely (not necessarily
+wholly) interpretable based on the mutually experienced world
+• Indicative communication, in which e.g. one agent points to some part of the world or
+delimits some interval of time, and another agent is able to interpret the meaning
+• Demonstrative communication, in which an agent carries out a set of actions in the
+world, and the other agent is able to imitate these actions, or instruct another agent as to
+how to imitate these actions
+• Depictive communication, in which an agent creates some sort of (visual, auditory, etc.)
+construction to show another agent, with a goal of causing the other agent to experience
+phenomena similar to what they would experience upon experiencing some particular entity
+in the shared environment
+• Intentional communication, in which an agent explicitly communicates to another agent
+what its goal is in a certain situation 1
+It is clear that ordinary everyday communication between humans possesses all these aspects.
+We define the Embodied Communication Prior (ECP) as the probability distribution in
+which the probability of an entity (e.g. a goal or environment) is proportional to the difficulty of
+describing that entity, for a typical member of the community in question, using a particular set
+of communication mechanisms including the above five modes. We will sometimes refer to the
+prior probability of an entity under this distribution, as its “simplicity” under the distribution.
+Next, to further specialize the Embodied Communication Prior, we will assume that for
+each of these modes of communication, there are some aspects of the world that are much
+more easily communicable using that mode than the other modes. For instance, in the human
+everyday world:
+• Abstract (declarative) statements spanning large classes of situations are generally much
+easier to communicate linguistically
+• Complex, multi-part procedures are much easier to communicate either demonstratively, or
+using a combination of demonstration with other modes
+• Sensory or episodic data is often much easier to communicate demonstratively
+• The current value of attending to some portion of the shared environment is often much
+easier to communicate indicatively
+• Information about what goals to follow in a certain situation is often much easier to communicate
+intentionally, i.e. via explicitly indicating what one’s own goal is
+These simple observations have significant implications for the nature of the Embodied Communication
+Prior. For one thing they let us define multiple forms of knowledge:
+• Isolatedly declarative knowledge is that which is much more easily communicable linguistically
+1 in Appendix ?? we recount some interesting recent results showing that mirror neurons fire in response to
+some cases of intentional communication as thus defined
+164 9 General Intelligence in the Everyday Human World
+• Isolatedly procedural knowledge is that which is much more easily communicable
+demonstratively
+• Isolatedly sensory knowledge is that which is much more easily communicable depictively
+• Isolatedly attentive knowledge is that which is much more easily communicable indicatively
+• Isolatedly intentional knowledge is that which is much more easily communicable intentionally
+This categorization of knowledge types resembles many ideas from the cognitive theory of
+memory [TC05], although the distinctions drawn here are a little crisper than any classification
+currently derivable from available neurological or psychological data.
+Of course there may be much knowledge, of relevance to systems seeking intelligence according
+to the ECP, that does not fall into any of these categories and constitutes “mixed knowledge.”
+There are some very important specific subclasses of mixed knowledge. For instance, episodic
+knowledge (knowledge about specific real or hypothetical sets of events) will most easily be
+communicated via a combination of declarative, sensory and (in some cases) procedural communication.
+Scientific and mathematical knowledge are generally mixed knowledge, as is most
+everyday commonsense knowledge.
+Some cases of mixed knowledge are reasonably well decomposable, in the sense that they
+decompose into knowledge items that individually fall into some specific knowledge type. For
+instance, an experimental chemistry procedure may be much more easily communicable procedurally,
+whereas an allied piece of knowledge from theoretical chemistry may be much more
+easily communicable declaratively; but in order to fully communicate either the experimental
+procedure or the abstract piece of knowledge, one may ultimately need to communicate both
+aspects.
+Also, even when the best way to communicate something is mixed-mode, it may be possible
+to identify one mode that poses the most important part of the communication. An example
+would be a chemistry experiment that is best communicated via a practical demonstration
+together with a running narrative. It may be that the demonstration without the narrative
+would be vastly more valuable than the narrative without the demonstration. To cover such
+cases we may make less restrictive definitions such as
+• Interactively declarative knowledge is that which is much more easily communicable
+in a manner dominated by linguistic communication
+and so forth. We call these “interactive knowledge categories,” by contrast to the “isolated
+knowledge categories” introduced earlier.
+9.3.0.1 Naturalness of Knowledge Categories
+Next we introduce an assumption we call NKC, for Naturalness of Knowledge Categories.
+The NKC assumption states that the knowledge in each of the above isolated and interactive
+communication-modality-focused categories forms a “natural category,” in the sense that
+for each of these categories, there are many different properties shared by a large percentage of
+the knowledge in the category, but not by a large percentage of the knowledge in the other categories.
+This means that, for instance, procedural knowledge systematically (and statistically)
+has different characteristics than the other kinds of knowledge.
+9.3 Embodied Communication 165
+The NKC assumption seems commonsensically to hold true for human everyday knowledge,
+and it has fairly dramatic implications for general intelligence. Suppose we conceive general
+intelligence as the ability to achieve goals in the environment shared by the communicating
+agents underlying the Embodied Communication Prior. Then, NKC suggests that the best way
+to achieve general intelligence according to the Embodied Communication Prior is going to
+involve
+• specialized methods for handling declarative, procedural, sensory and attentional knowledge
+(due to the naturalness of the isolated knowledge categories)
+• specialized methods for handling interactions between different types of knowledge, including
+methods focused on the case where one type of knowledge is primary and the others are
+supporting (the latter due to the naturalness of the interactive knowledge categories)
+9.3.0.2 Cognitive Completeness
+Suppose we conceive an AI system as consisting of a set of learning capabilities, each one
+characterized by three features:
+• One or more knowledge types that it is competent to deal with, in the sense of the two
+key learning problems mentioned above
+• At least one learning type: either analysis, or synthesis, or both
+• At least one interaction type, for each (knowledge type, learning type) pair it handles:
+“isolated” (meaning it deals mainly with that knowledge type in isolation), or “interactive”
+(meaning it focuses on that knowledge type but in a way that explicitly incorporates other
+knowledge types into its process), or “fully mixed” (meaning that when it deals with the
+knowledge type in question, no particular knowledge type tends to dominate the learning
+process).
+Then, intuitively, it seems to follow from the ECP with NKC that systems with high efficient
+general intelligence should have the following properties, which collectively we’ll call cognitive
+completeness:
+• For each (knowledge type, learning type, interaction type) triple, there should be a learning
+capability corresponding to that triple.
+• Furthermore the capabilities corresponding to different (knowledge type, interaction type)
+pairs should have distinct characteristics (since according to the NKC the isolated knowledge
+corresponding to a knowledge type is a natural category, as is the dominant knowledge
+corresponding to a knowledge type)
+• For each (knowledge type, learning type) pair (K,L), and each other knowledge type K1
+distinct from K, there should be a distinctive capability with interaction type “interactive”
+and dealing with knowledge that is interactively K but also includes aspects of K1
+Furthermore, it seems intuitively sensible that according to the ECP with NKC, if the capabilities
+mentioned in the above points are reasonably able, then the system possessing the
+capabilities will display general intelligence relative to the ECP. Thus we arrive at the hypothesis
+that
+166 9 General Intelligence in the Everyday Human World
+Under the assumption of the Embodied Communication Prior (with the Natural
+Knowledge Categories assumption), the property above called “cognitive completeness”
+is necessary and sufficient for efficient general intelligence at the level of an
+inteligent adult human (e.g. at the Piagetan formal level [Pia53]).
+Of course, the above considerations are very far from a rigorous mathematical proof (or
+even precise formulation) of this hypothesis. But we are presenting this here as a conceptual
+hypothesis, in order to qualitatively guide our practical AGI R&D and also to motivate further,
+more rigorous theoretical work.
+9.3.1 Generalizing the Embodied Communication Prior
+One interesting direction for further research would be to broaden the scope of the inquiry, in
+a manner suggested above: instead of just looking at the ECP, look at simplicity measures in
+general, and attack the question of how a mind must be structured in order to display efficient
+general intelligence relative to a specified simplicity measure. This problem seems unapproachable
+in general, but some special cases may be more tractable.
+For instance, suppose one has
+• a simplicity measure that (like the ECP) is approximately decomposable into a set of fairly
+distinct components, plus their interactions
+• an assumption similar to NKC, which states that the entities displaying simplicity according
+to each of the distinct components, are roughly clustered together in entity-space
+Then one should be able to say that, to achieve efficient general intelligence relative to
+this decomposable simplicity measure, a system should have distinct capabilities corresponding
+to each of the components of the simplicity measure interactions between these capabilities,
+corresponding to the interaction terms in the simplicity measure.
+With copious additional work, these simple observations could potentially serve as the seed for
+a novel sort of theory of general intelligence – a theory of how the structure of a system depends
+on the structure of the simplicity measure with which it achieves efficient general intelligence.
+Cognitive Synergy Theory would then emerge as a special case of this more abstract theory.
+9.4 Naive Physics
+Multimodal communication is an important aspect of the environment for which human intelligence
+evolved – but not the only one. It seems likely that our human intelligence is also
+closely adapted to various aspects of our physical environment – a matter that is worth carefully
+attending as we design environments for our robotically or virtually embodied AGI systems to
+operate in.
+One interesting guide to the most cognitively relevant aspects of human environments is the
+subfield of AI known as “naive physics” [Hay85] – a term that refers to the theories about the
+physical world that human beings implicitly develop and utilize during their lives. For instance,
+9.4 Naive Physics 167
+when you figure out that you need to pressure the knife slightly harder when spreading peanut
+butter rather than jelly, you’re not making this judgment using Newtonian physics or the
+Navier-Stokes equations of fluid dynamics; you’re using heuristic patterns that you figured out
+through experience. Maybe you figured out these patterns through experience spreading peanut
+butter and jelly in particular. Or maybe you figured these heuristic patterns out before you ever
+tried to spread peanut butter or jelly specifically, via just touching peanut butter and jelly to
+see what they feel like, and then carrying out inference based on your experience manipulating
+similar tools in the context of similar substances.
+Other examples of similar “naive physics” patterns are easy to come by, e.g.
+1. What goes up must come down.
+2. A dropped object falls straight down.
+3. A vacuum sucks things towards it.
+4. Centrifugal force throws rotating things outwards.
+5. An object is either at rest or moving, in an absolute sense.
+6. Two events are simultaneous or they are not.
+7. When running downhill, one must lift one’s knees up high.
+8. When looking at something that you just barely can’t discern accurately, squint.
+Attempts to axiomatically formulate naive physics have historically come up short, and we
+doubt this is a promising direction for AGI. However, we do think the naive physics literature
+does a good job of identifying the various phenomena that the human mind’s naive physics deals
+with. So, from the point of view of AGI environment design, naive physics is a useful source
+of requirements. Ideally, we would like an AGI’s environment to support all the fundamental
+phenomena that naive physics deals with.
+We now describe some key aspects of naive physics in a more systematic manner. Naive
+physics has many different formulations; in this section we draw heavily on [SC94], who divide
+naive physics phenomena into 5 categories. Here we review these categories and identify a
+number of important things that humanlike intelligent agents must be able to do relative to
+each of them.
+9.4.1 Objects, Natural Units and Natural Kinds
+One key aspect of naive physics involves recognition of various aspects of objects, such as:
+1. Recognition of objects amidst noisy perceptual data
+2. Recognition of surfaces and interiors of objects
+3. Recognition of objects as manipulable units
+4. Recognition of objects as potential subjects of fragmentation (splitting, cutting) and of
+unification (gluing, bonding)
+5. Recognition of the agent’s body as an object, and as parts of the agent’s body as objects
+6. Division of universe of perceived objects into “natural kinds”, each containing typical and
+atypical instances
+168 9 General Intelligence in the Everyday Human World
+9.4.2 Events, Processes and Causality
+Specific aspects of naive physics related to temporality and causality are:
+1. Distinguishing roughly-subjectively-instantaneous events from extended processes
+2. Identifying beginnings, endings and crossings of processes
+3. Identifying and distinguishing internal and external changes
+4. Identifying and distinguishing internal and external changes relative to one’s own body
+5. Interrelating body-changes with changes in external entities
+Notably, these aspects of naive physics involve a different processes occurring on a variety of
+different time scales, intersecting in complex patterns, and involving processes inside the agent’s
+body, outside the agent’s body, and crossing the boundary of the agent’s body.
+9.4.3 Stuffs, States of Matter, Qualities
+Regarding the various states of matter, some important aspects of naive physics are:
+1. Perceiving gaps between objects: holes, media, illusions like rainbows, mirages and holograms
+2. Distinguishing the manners in which different sorts of entities (e.g. smells, sounds, light) fill
+space
+3. Distinguishing properties such as smoothness, roughness, graininess, stickiness, runniness,
+etc.
+4. Distinguishing degrees of elasticity and fragility
+5. Assessing separability of aggregates
+9.4.4 Surfaces, Limits, Boundaries, Media
+Gibson [Gib77, Gib79] has argued that naive physics is not mainly about objects but rather
+mainly about surfaces. Surfaces have a variety of aspects and relationships that are important
+for naive physics, such as:
+1. Perceiving and reasoning about surfaces as two-sided or one-sided interfaces
+2. Inference of the various ecological laws of surfaces
+3. Perception of various media in the world as separated by surfaces
+4. Recognition of the textures of surfaces
+5. Recognition of medium/surface layout relationships such as: ground, open environment,
+enclosure, detached object, attached object, hollow object, place, sheet, fissure, stick, fibre,
+dihedral, etc.
+As a concrete, evocative “toy” example of naive everyday knowledge about surfaces and
+boundaries, consider Sloman’s [Slo08a] example scenario, depicted in Figure 9.1 and drawn
+largely from [SS74] (see also related discussion in [Slo08b], in which “A child can be given one
+9.4 Naive Physics 169
+Fig. 9.1: One of Sloman’s example test domains for real-world inference. Left: a number of pins
+and a rubber band to be stretched around them. Right: use of the pins and rubber band to
+make a letter T.
+or more rubber bands and a pile of pins, and asked to use the pins to hold the band in place to
+form a particular shape)... For example, things to be learnt could include”:
+1. There is an area inside the band and an area outside the band.
+2. The possible effects of moving a pin that is inside the band towards or further away
+from other pins inside the band. (The effects can depend on whether the band is already
+stretched.)
+3. The possible effects of moving a pin that is outside the band towards or further away from
+other pins inside the band.
+4. The possible effects of adding a new pin, inside or outside the band, with or without pushing
+the band sideways with the pin first.
+5. The possible effects of removing a pin, from a position inside or outside the band.
+6. Patterns of motion/change that can occur and how they affect local and global shape
+(e.g. introducing a concavity or convexity, introducing or removing symmetry, increasing or
+decreasing the area enclosed).
+7. The possibility of causing the band to cross over itself. (NB: Is an odd number of crosses
+possible?)
+8. How adding a second, or third band can enrich the space of structures, processes and effects
+of processes.
+9.4.5 What Kind of Physics Is Needed to Foster Human-like
+Intelligence?
+We stated above that we would like an AGI’s environment to support all the fundamental phenomena
+that naive physics deals with; and we have now reviewed a number of these specific
+phenomena. But it’s not entirely clear what the “fundamental” aspects underlying these phenomena
+are. One important question in the environment-design context is how close an AGI
+environment needs to stick to the particulars of real-world naive physics. Is it important that a
+young AGI can play with the specific differences between spreading peanut butter versus jelly?
+Or is it enough that it can play with spreading and smearing various substances of different
+consistencies? How close does the analogy between an AGI environment’s naive physics and
+170 9 General Intelligence in the Everyday Human World
+real-world naive physics need to be? This is a question to which we have no scientific answer at
+present. Our own working hypothesis is that the analogy does not need to be extremely close,
+and with this in mind in Chapter 16 we propose a virtual environment BlocksNBeadsWorld
+that encompasses all the basic conceptual phenomena of real-world naive physics, but does not
+attempt to emulate their details.
+Framed in terms of human psychology rather than environment design, the question becomes:
+At what level of detail must one model the physical world to understand the ways in
+which human intelligence has adapted to the physical world?. Our suspicion, which underlies
+our BlocksNBeadsWorld design, is that it’s approximately enough to have
+• Newtonian physics, or some close approximation
+• Matter in multiple phases and forms vaguely similar to the ones we see in the real world:
+solid, liquid, gas, paste, goo, etc.
+• Ability to transform some instances of matter from one form to another
+• Ability to flexibly manipulate matter in various forms with various solid tools
+• Ability to combine instances of matter into new ones in a fairly rich way: e.g. glue or tie
+solids togethermix liquids together, etc.
+• Ability to position instances of matter with respect to each other in a rich way: e.g. put
+liquid in a solid cavity, cover something with a lid or a piece of fabric, etc.
+It seems to us that if the above are present in an environment, then an AGI seeking to
+achieve appropriate goals in that environment will be likely to form an appropriate “humanlike
+physical-world intuition." We doubt that the specifics of the naive physics of different
+forms of matter are critical to human-like intelligence. But, we suspect that a great amount
+of unconscious human metaphorical thinking is conditioned on the fact that humans evolved
+around matter that takes a variety of forms, can be changed from one form to another, and can
+be fairly easily arranged and composited to form new instances from prior ones. Without many
+diverse instances of matter transformation, arrangement and composition in its experience, an
+AGI is unlikely to form an internal “metaphor-base” even vaguely similar to the human one –
+so that, even if it’s highly intelligent, its thinking will be radically non-human-like in character.
+Naturally this is all somewhat speculative and must be explored via experimentation. Maybe
+an elaborate blocks-world with only solid objects will be sufficient to create human-level, roughly
+human-like AGI with rich spatiotemporal and manipulative intuition. Or maybe human intelligence
+is more closely adapted to the specifics of our physical world – with water and dirt and
+plants and hair and so forth – than we currently realize. One thing that is very clear is that, as
+we proceed with embodying, situating and educating our AGI systems, we need to pay careful
+attention to the way their intelligence is conditioned by their environment.
+9.5 Folk Psychology
+Related to naive physics is the notion of “naive psychology” or “folk psychology” [Rav04], which
+includes for instance the following aspects:
+1. Mental simulation of other agents
+2. Mental theory regarding other agents
+3. Attribution of beliefs, desires and intentions (BDI) to other agents via theory or simulation
+9.6 Body and Mind 171
+4. Recognition of emotions in other agents via their physical embodiment
+5. Recognition of desires and intentions in other agents via their physical embodiment
+6. Analogical and contextual inferences between self and other, regarding BDI and other aspects
+7. Attribute causes and meanings to other agents behaviors
+8. Anthropomorphize non-human, including inanimate objects
+The main special requirement placed on an AGI’s embodiment by the above aspects pertains
+to the ability of agents to express their emotions and intentions to each other. Humans do this
+via facial expressions, gestures and language.
+9.5.1 Motivation, Requiredness, Value
+Relatedly to folk psychology, Gestalt [Koh38] and ecological [Gib77, Gib79] psychology suggest
+that humans perceive the world substantially in terms of the affordances it provides them for
+goal-directed action. This suggests that, to support human-like intelligence, an AGI must be
+capable of:
+1. Perception of entities in the world as differentially associated with goal-relevant value
+2. Perception of entities in the world in terms of the potential actions they afford the agent,
+or other agents
+The key point is that entities in the world need to provide a wide variety of ways for agents
+to interact with them, enabling richly complex perception of affordances.
+9.6 Body and Mind
+The above discussion has focused on the world external to the body of the AGI agent embodied
+and embedded in the world, but the issue of the AGI’s body also merits consideration. There
+seems little doubt that a human’s intelligence is highly conditioned by the particularities of the
+human body.
+9.6.1 The Human Sensorium
+Here the requirements seem fairly simple: while surely not strictly necessary, it would certainly
+be preferable to provide an AGI with fairly rich analogues of the human senses of touch, sight,
+sound, kinesthesia, taste and smell. Each of these senses provides different sorts of cognitive
+stimulation to the human mind; and while similar cognitive stimulation could doubtless be
+achieved without analogous senses, the provision of such seems the most straightforward approach.
+It’s hard to know how much of human intelligence is specifically biased to the sorts of
+outputs provided by human senses.
+As vision already is accorded such a prominent role in the AI and cognitive science literature
+– and is discussed in moderate depth in Chapter 26 of Part 2, we won’t take time elaborating
+172 9 General Intelligence in the Everyday Human World
+on the importance of vision processing for humanlike cognition. The key thing an AGI requires
+to support humanlike “visual intelligence” is an environment containing a sufficiently robust
+collection of materials that object and event recognition and identification become interesting
+problems.
+Audition is cognitively valuable for many reasons, one of which is that it gives a very rich
+and precise method of sensing the world that is different from vision. The fact that humans can
+display normal intelligence while totally blind or totally deaf is an indication that, in a sense,
+vision and audition are redundant for understanding the everyday world. However, it may be
+important that the brain has evolved to account for both of these senses, because this forced it
+to account for the presence of two very rich and precise methods of sensing the world – which
+may have forced it to develop more abstract representation mechanisms than would have been
+necessary with only one such method.
+Touch is a sense that is, in our view, generally badly underappreciated within the AI community.
+In particular the cognitive robotics community seems to worry too little about the terribly
+impoverished sense of touch possessed by most current robots (though fortunately there are
+recent technologies that may help improve robots in this regard; see e.g. [Nan08]). Touch is how
+the human infant learns to distinguish self from other, and in this way it is the most essential
+sense for the establishment of an internal self-model. Touching others’ bodies is a key method
+for developing a sense of the emotional reality and responsiveness of others, and is hence key to
+the development of theory of mind and social understanding in humans. For this reason, among
+others, human children lacking sufficient tactile stimulation will generally wind up badly impaired
+in multiple ways. A good-quality embodiment should supply an AI agent with a body
+that possesses skin, which has varying levels of sensitivity on different parts of the skin (so that
+it can effectively distinguish between reality and its perception thereof in a tactile context);
+and also varying types of touch sensors (e.g. temperature versus friction), so that it experiences
+textures as multidimensional entities.
+Related to touch, kinesthesia refers to direct sensation of phenomena happening inside the
+body. Rarely mentioned in AI, this sense seems quite critical to cognition, as it underpins many
+of the analogies between self and other that guide cognition. Again, it’s not important that an
+AGI’s virtual body have the same internal body parts as a human body. But it seems valuable
+to have the AGI’s virtual body display some vaguely human-body-like properties, such as feeling
+internal strain of various sorts after getting exercise, feeling discomfort in certain places when
+running out of energy, feeling internally different when satisfied versus unsatisfied, etc.
+Next, taste is a cognitively interesting sense in that it involves the interplay between the
+internal and external world; it involves the evaluation of which entities from the external world
+are worthy of placing inside the body. And smell is cognitively interesting in large part because
+of its relationship with taste. A smell is, among other things, a long-distance indicator of what
+a certain entity might taste like. So, the combination of taste and smell provides means for
+conceptualizing relationships between self, world and distance.
+9.6.2 The Human Body’s Multiple Intelligences
+While most unique aspect of human intelligence is rooted in what one might call the "cognitive
+cortex" – the portions of the brain dealing with self-reflection and abstract thought. But the
+cognitive cortex does its work in close coordination with the body’s various more specialized
+9.6 Body and Mind 173
+intelligent subsystems, including those associated with the gut, the heart, the liver, the immune
+and endocrine systems, and the perceptual and motor cortices.
+In the perspective underlying this book, the human cognitive cortex – or the core cognitive
+network of any roughly human-like AGI system – should be viewed as a highly flexible, selforganizing
+network. These cognitive networks are modelable e.g. as a recurrent neural net with
+general topology, or a weighted labeled hypergraph, and are centrally concerned with recognizing
+patterns in its environment and itself, especially patterns regarding the achievement of the
+system’s goals in various appropriate contexts. Here we augment this perspective, noting that
+the human brain’s cognitive network is closely coupled with a variety of simpler and more
+specialized intelligent "body-system networks" which provide it with structural and dynamical
+inductive biasing. We then discuss the implications of this observation for practical AGI design.
+One recalls Pascal’s famous quote "The heart has its reasons, of which reason knows not."
+As we now know, the intuitive sense that Pascal and so many others have expressed, that the
+heart and other body systems have their own reasons, is grounded in the fact that they actually
+do carry out simple forms of reasoning (i.e. intelligent, adaptive dynamics), in close, sometimes
+cognitively valuable, coordination with the central cognitive network.
+9.6.2.1 Some of the Human Body’s Specialized Intelligent Subsystems
+The human body contains multiple specialized intelligences apart from the cognitive cortex.
+Here we review some of the most critical.
+Hierarchies of Visual and Auditory Perception
+. The hierarchical structure of visual and auditory cortex has been taken by some researchers
+[Kur12], [HB06] as the generic structure of cognition. While we suspect this is overstated, we
+agree it is important that these cortices nudge large portions of the cognitive cortex to assume
+an approximately hierarchical structure.
+Olfactory Attractors
+. The process of recognizing a familiar smell is grounded in a neural process similar to convergence
+to an attractor in a nonlinear dynamical system [Fre95]. There is evidence that the
+mammalian cognitive cortex evolved in close coordination with the olfactory cortex [Row11],
+and much of abstract cognition reflects a similar dynamic of gradually coming to a conclusion
+based on what initially "smells right."
+Physical and Cognitive Action
+. The cerebellum, a specially structured brain subsystem which controls motor movements,
+has for some time been understood to also have involvement in attention, executive control,
+language, working memory, learning, pain, emotion, and addiction [PSF09].
+174 9 General Intelligence in the Everyday Human World
+The Second Brain
+. The gastrointestinal neural net contains millions of neurons and is capable of operating independently
+of the brain. It modulates stress response and other aspects of emotion and motivation
+based on experience – resulting in so-called "gut feelings" [Ger99].
+The Heart’s Neural Network
+. The heart has its own neural network, which modulates stress response, energy level and
+relaxation/excitement (factors key to motivation and emotion) based on experience [Arm04].
+Pattern Recognition and Memory in the Liver
+. The liver is a complex pattern recognition system, adapting via experience to better identify
+toxins [CB06]. Like the heart, it seems to store some episodic memories as well, resulting in liver
+transplant recipients sometimes acquiring the tastes in music or sports of the donor [EMC12].
+Immune Intelligence
+. The immune network is a highly complex, adaptive self-organizing system, which ongoingly
+solves the learning problem of identifying antigens and distinguishing them from the body
+system [FP86]. As immune function is highly energetically costly, stress response involves subtle
+modulation of the energy allocation to immune function, which involves communication between
+neural and immune networks.
+The Endocrine System: A Key Bridge Between Mind and Body
+. The endocrine (hormonal) system regulates (and is related by) emotion, thus guiding all
+aspects of intelligence (due to the close connection of emotion and motivation) [PH12].
+Breathing Guides Thinking
+. As oxygenation of the brain plays a key role in the spread of neural activity, the flow of breath
+is a key driver of cognition. Forced alternate nostril breathing has been shown to significantly
+affect cognition via balancing activity of the two brain hemispheres [SKBB91].
+Much remains unknown, and the totality of feedback loops between the human cognitive
+cortex and the various specialized intelligences operative throughout the human body, has not
+yet been thoroughly charted.
+9.6 Body and Mind 175
+9.6.2.2 Implications for AGI
+What lesson should the AGI developer draw from all this? The particularities of the human
+mind/body should not be taken as general requirements for general intelligence. However, it
+is worth remembering just how difficult is the computational problem of learning, based on
+experiential feedback alone, the right way to achieve the complex goal of controlling a system
+with general intelligence at the human level or beyond. To solve this problem without some sort
+of strong inductive biasing may require massively more experience than young humans obtain.
+Appropriate inductive bias may be embedded in an AGI system in many different ways.
+Some AGI designers have sought to embed it very explicitly, e.g. with hand-coded declarative
+knowledge as in Cyc, SOAR and other "GOFAI" type systems. On the other hand, the human
+brain receives its inductive bias much more subtly and implicitly, both via the specifics of the
+initial structure of the cognitive cortex, and via ongoing coupling of the cognitive cortex with
+other systems possessing more focused types of intelligence and more specific structures and/or
+dynamics.
+In building an AGI system, one has four choices, very broadly speaking:
+1. Create a flexible mind-network, as unbiased as feasible, and attempt to have it learn how
+to achieve its goals via experience
+2. Closely emulate key aspects of the human body along with the human mind
+3. Imitate the human mind-body, conceptually if not in detail, and create a number of structurally
+and dynamically simpler intelligent systems closely and appropriately coupled to
+the abstract cognitive mind-network, provide useful inductive bias.
+4. Find some other, creative way to guide and probabilistically constrain one’s AGI system’s
+mind-network, providing inductive bias appropriate to the tasks at hand, without emulating
+even conceptually the way the human mind-brain receives its inductive bias via coupling
+with simpler intelligent systems.
+Our suspicion is that the first option will not be viable. On the other hand, to do the second
+option would require more knowledge of the human body than biology currently possesses. This
+leaves the third and fourth options, both of which seem viable to us.
+CogPrime incorporates a combination of the third and fourth options. CogPrime’s generic
+dynamic knowledge store, the Atomspace, is coupled with specialized hierarchical networks
+(DeSTIN) for vision and audition, somewhat mirroring the human cortex. An artificial endocrine
+system for OpenCog is also under development, speculatively, as part of a project using
+OpenCog to control humanoid robots. On the other hand, OpenCog has no gastrointestinal nor
+cardiological nervous system, and the stress-response-based guidance provided to the human
+brain by a combination of the heart, gut, immune system and other body systems, is achieved
+in CogPrime in a more explicit way using the OpenPsi model of motivated cognition, and its
+integration with the system’s attention allocation dynamics.
+Likely there is no single correct way to incorporate the lessons of intelligent human bodysystem
+networks into AGI designs. But these are aspects of human cognition that all AGI
+researchers should be aware of.
+176 9 General Intelligence in the Everyday Human World
+9.7 The Extended Mind and Body
+Finally, Hutchins [Hut95], Logan [Log07] and others have promoted a view of human intelligence
+that views the human mind as extended beyond the individual body, incorporating social
+interactions and also interactions with inanimate objects, such as tools, plants and animals.
+This leads to a number of requirements for a humanlike AGI’s environment:
+1. The ability to create a variety of different tools for interacting with various aspects of the
+world in various different ways, including tools for making tools and ultimately machinery
+2. The existence of other mobile, virtual life-forms in the world, including simpler and less
+intelligent ones, and ones that interact with each other and with the AGI
+3. The existence of organic growing structures in the world, with which the AGI can interact
+in various ways, including halting their growth or modifying their growth pattern
+How necessary these requirements are is hard to say – but it is clear that these things have
+played a major role in the evolution of human intelligence.
+9.8 Conclusion
+Happily, this diverse chapter supports a simple, albeit tentative conclusion. Our suggestion is
+that, if an AGI is
+• placed in an environment capable of roughly supporting multimodal communication and
+vaguely (but not necessarily precisely) real-world-ish naive physics
+• surrounded with other intelligent agents of varying levels of complexity, and other complex,
+dynamic structures to interface with
+• given a body that can perceive this environment through some forms of sight, sound and
+touch; and perceive itself via some form of kinesthesia
+• given a motivational system that encourages it to make rich use of these aspects of its
+environment
+then the AGI is likely to have an experience-base reinforcing the key inductive biases provided
+by the everyday world for the guidance of humanlike intelligence.
+Chapter 10
+A Mind-World Correspondence Principle
+10.1 Introduction
+Real-world minds are always adapted to certain classes of environments and goals. The ideas
+of the previous chapter, regarding the connection between a human-like intelligence’s internals
+and its environment, result from exploring the implications of this adaptation in the context
+of the cognitive synergy concept. In this chapter we explore the mind-world connection in a
+broader and more abstract way – making a more ambitious attempt to move toward a "general
+theory of general intelligence."
+One basic premise here, as in the preceding chapters is: Even a system of vast general
+intelligence, subject to real-world space and time constraints, will necessarily be more efficient
+at some kinds of learning than others. Thus, one approach to formulating a general theory of
+general intelligence is to look at the relationship between minds and worlds – where a "world"
+is conceived as an environment and a set of goals defined in terms of that environment.
+In this spirit, we here formulate a broad principle binding together worlds and the minds that
+are intelligent in these worlds. The ideas of the previous chapter constitute specific, concrete
+instantiations of this general principle. A careful statement of the principle requires introduction
+of a number of technical concepts, and will be given later on in the chapter. A crude, informal
+version of the principle would be:
+MIND-WORLD CORRESPONDENCE-PRINCIPLE
+For a mind to work intelligently toward certain goals in a certain world, there should be a
+nice mapping from goal-directed sequences of world-states into sequences of mind-states, where
+"nice" means that a world-state-sequence W composed of two parts W 1 and W 2 , gets mapped
+into a mind-state-sequence M composed of two corresponding parts M 1 and M 2 .
+What’s nice about this principle is that it relates the decomposition of the world into parts,
+to the decomposition of the mind into parts.
+177
+178 10 A Mind-World Correspondence Principle
+10.2 What Might a General Theory of General Intelligence Look
+Like?
+It’s not clear, at this point, what a real "general theory of general intelligence" would look like
+– but one tantalizing possibility is that it might confront the two questions:
+• How does one design a world to foster the development of a certain sort of mind?
+• How does one design a mind to match the particular challenges posed by a certain sort of
+world?
+One way to achieve this would be to create a theory that, given a description of an environment
+and some associated goals, would output a description of the structure and dynamics that a
+system should possess to be intelligent in that environment relative to those goals, using limited
+computational resources.
+Such a theory would serve a different purpose from the mathematical theory of "universal
+intelligence" developed by Marcus Hutter [Hut05] and others. For all its beauty and theoretical
+power, that approach currently gives it useful conclusions only about general intelligences
+with infinite or infeasibly massive computational resources. On the other hand, the approach
+suggested here is aimed toward creation of a theory of real-world general intelligences utilizing
+realistic amounts of computational power, but still possessing general intelligence comparable
+to human beings or greater.
+This reflects a vision of intelligence as largely concerned with adaptation to particular classes
+of environments and goals. This may seem contradictory to the notion of "general" intelligence,
+but I think it actually embodies a realistic understanding of general intelligence. Maximally
+general intelligence is not pragmatically feasible; it could only be achieved using infinite computational
+resources [Hut05]. Real-world systems are inevitably limited in the intelligence they
+can display in any real situation, because real situations involve finite resources, including finite
+amounts of time. One may say that, in principle, a certain system could solve any problem
+given enough resources and time but, even when this is true, it’s not necessarily the most interesting
+way to look at the system’s intelligence. It may be more important to look at what a
+system can do given the resources at its disposal in reality. And this perspective leads one to
+ask questions like the ones posed above: which bounded-resources systems are well-disposed to
+display intelligence in which classes of situations?
+As noted in Chapter 7 above, one can assess the generality of a system’s intelligence via
+looking at the entropy of the class of situations across which it displays a high level of intelligence
+(where “high” is measured relative to its total level of intelligence across all situations). A system
+with a high generality of intelligence will tend to be roughly equally intelligent across a wide
+variety of situations; whereas a system with lower generality of intelligence will tend to be much
+more intelligent in a small subclass of situations, than in any other. The definitions given above
+embody this notion in a formal and quantitative way.
+If one wishes to create a general theory of general intelligence according to this sort of
+perspective, the main question then becomes how to represent goals/environments and systems
+in such a way as to render transparent the natural correspondence between the specifics of the
+former and the latter, in the context of resource-bounded intelligence. This is the business of
+the next section.
+10.3 Steps Toward A (Formal) General Theory of General Intelligence 179
+10.3 Steps Toward A (Formal) General Theory of General Intelligence
+Now begins the formalism. At this stage of development of the theory proposed in this chapter,
+mathematics is used mainly as a device to ensure clarity of expression. However, once the theory
+is further developed, it may possibly become useful for purposes of calculation as well.
+Suppose one has any system S (which could be an AI system, or a human, or an environment
+that a human or AI is interacting with, or the combination of an environment and a human or
+AI’s body, etc.). One may then construct an uncertain transition graph associated with that
+system S, in the following way:
+• The nodes of the graph represent fuzzy sets of states of system S (I’ll call these state-sets
+from here on, leaving the fuzziness implicit)

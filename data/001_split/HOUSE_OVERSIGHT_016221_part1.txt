@@ -1,0 +1,1364 @@
+﻿National Pub date: February 19, 2019
+Title: DEEP THINKING
+Subtitle: Twenty-Five Ways of Looking at AI
+By: John Brockman
+Length: 90,000 words
+Headline: Science world luminary John Brockman assembles twenty-five of the most
+important scientific minds, people who have been thinking about the field artificial
+intelligence for most of their careers for an unparalleled round-table examination about
+mind, thinking, intelligence and what it means to be human.
+Description:
+"Artificial intelligence is today's story—the story behind all other stories. It is the Second
+Coming and the Apocalypse at the same time: Good AI versus evil AI." —John
+Brockman
+More than sixty years ago, mathematician-philosopher Norbert Wiener published a book
+on the place of machines in society that ended with a warning: “we shall never receive
+the right answers to our questions unless we ask the right questions…. The hour is very
+late, and the choice of good and evil knocks at our door.”
+In the wake of advances in unsupervised, self-improving machine learning, a small but
+influential community of thinkers is considering Wiener’s words again. In Deep
+Thinking, John Brockman gathers their disparate visions of where AI might be taking us.
+The fruit of the long history of Brockman’s profound engagement with the most
+important scientific minds who have been thinking about AI—from Alison Gopnik and
+David Deutsch to Frank Wilczek and Stephen Wolfram— Deep Thinking is an ideal
+introduction to the landscape of crucial issues AI presents.
+The collision between opposing perspectives is salutary and exhilarating; some of these
+figures, such as computer scientist Stuart Russell, Skype co-founder Jaan Tallinn, and
+physicist Max Tegmark, are deeply concerned with the threat of AI, including the
+existential one, while others, notably robotics entrepreneur Rodney Brooks, philosopher
+Daniel Dennett, and bestselling author Steven Pinker, have a very different view. Serious,
+searching and authoritative, Deep Thinking lays out the intellectual landscape of one of
+the most important topics of our time.
+Participants in The Deep Thinking Project
+Chris Anderson is an entrepreneur; a roboticist; former editor-in-chief of Wired; cofounder
+and CEO of 3DR; and author of The Long Tail, Free, and Makers.
+Rodney Brooks is a computer scientist; Panasonic Professor of Robotics, emeritus, MIT;
+former director, MIT Computer Science Lab; and founder, chairman, and CTO of
+Rethink Robotics. He is the author of Flesh and Machines.
+George M. Church is Robert Winthrop Professor of Genetics at Harvard Medical
+School; Professor of Health Sciences and Technology, Harvard-MIT; and co-author (with
+Ed Regis) of Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves.
+Daniel C. Dennett is University Professor and Austin B. Fletcher Professor of
+Philosophy and director of the Center for Cognitive Studies at Tufts University. He is the
+author of a dozen books, including Consciousness Explained and, most recently, From
+Bacteria to Bach and Back: The Evolution of Minds.
+David Deutsch is a quantum physicist and a member of the Centre for Quantum
+Computation at the Clarendon Laboratory, Oxford University. He is the author of The
+Fabric of Reality and The Beginning of Infinity.
+Anca Dragan is an assistant professor in the Department of Electrical Engineering and
+Computer Sciences at UC Berkeley. She co-founded and serves on the steering
+committee for the Berkeley AI Research (BAIR) Lab and is a co-principal investigator in
+Berkeley’s Center for Human-Compatible AI.
+George Dyson is a historian of science and technology and the author of Baidarka: the
+Kayak, Darwin Among the Machines, Project Orion, and Turing’s Cathedral.
+Peter Galison is a science historian, Joseph Pellegrino University Professor and cofounder
+of
+the Black Hole Initiative at Harvard University, and the author of Einstein's Clocks and
+Poincaré’s Maps: Empires of Time.
+Neil Gershenfeld is a physicist and director of MIT’s Center for Bits and Atoms. He is
+the author of FAB, co-author (with Alan Gershenfeld & Joel Cutcher-Gershenfeld) of
+Designing Reality, and founder of the global fab lab network.
+Alison Gopnik is a developmental psychologist at UC Berkeley; her books include The
+Philosophical Baby and, most recently, The Gardener and the Carpenter: What the New
+Science of Child Development Tells Us About the Relationship Between Parents and
+Children.
+2
+Tom Griffiths is Henry R. Luce Professor of Information, Technology, Consciousness,
+and Culture at Princeton University. He is co-author (with Brian Christian) of Algorithms
+to Live By.
+W. Daniel “Danny” Hillis is an inventor, entrepreneur, and computer scientist, Judge
+Widney Professor of Engineering and Medicine at USC, and author of The Pattern on the
+Stone: The Simple Ideas That Make Computers Work.
+Caroline A. Jones is a professor of art history in the Department of Architecture at MIT
+and author of Eyesight Alone: Clement Greenberg’s Modernism and the
+Bureaucratization of the Senses; Machine in the Studio: Constructing the Postwar
+American Artist; and The Global Work of Art.
+David Kaiser is Germeshausen Professor of the History of Science and professor of
+physics at MIT, and head of its Program in Science, Technology & Society. He is the
+author of How the Hippies Saved Physics: Science, Counterculture, and the Quantum
+Revival and American Physics and the Cold War Bubble (forthcoming).
+Seth Lloyd is a theoretical physicist at MIT, Nam P. Suh Professor in the Department of
+Mechanical Engineering, and an external professor at the Santa Fe Institute. He is the
+author of Programming the Universe: A Quantum Computer Scientist Takes on the
+Cosmos.
+Hans Ulrich Obrist is artistic director of the Serpentine Gallery, London, and the author
+of Ways of Curating and Lives of the Artists, Lives of the Architects.
+Judea Pearl is professor of computer science and director of the Cognitive Systems
+Laboratory at UCLA. His most recent book, co-authored with Dana Mackenzie, is The
+Book of Why: The
+Alex “Sandy” Pentland is Toshiba Professor and professor of media arts and sciences,
+MIT; director of the Human Dynamics and Connection Science labs and the Media Lab
+Entrepreneurship Program, and the author of Social Physics.
+New Science of Cause and Effect.
+Steven Pinker, a Johnstone Family Professor in the Department of Psychology at
+Harvard University, is an experimental psychologist who conducts research in visual
+cognition, psycholinguistics, and social relations. He is the author of eleven books,
+including The Blank Slate, The Better Angels of Our Nature, and, most recently,
+Enlightenment Now: The Case for Reason, Science, Humanism, and Progress.
+Venki Ramakrishnan is a scientist at the Medical Research Council Laboratory of
+Molecular Biology, Cambridge University; recipient of the Nobel Prize in Chemistry
+(2009); current president of the Royal Society; and the author of Gene Machine: The
+Race to Discover the Secrets of the Ribosome.
+3
+Stuart Russell is a professor of computer science and Smith-Zadeh Professor in
+Engineering at UC Berkeley. He is the coauthor (with Peter Norvig) of Artificial
+Intelligence: A Modern Approach.
+Jaan Tallin, a computer programmer, theoretical physicist, and investor, is a codeveloper
+of Skype and Kazaa.
+Max Tegmark is an MIT physicist and AI researcher; president of the Future of Life
+Institute; scientific director of the Foundational Questions Institute; and the author of Our
+Mathematical Universe and Life 3.0: Being Human in the Age of Artificial Intelligence.
+Frank Wilczek is Herman Feshbach Professor of Physics at MIT, recipient of the 2004
+Nobel Prize in physics, and the author of A Beautiful Question: Finding Nature’s Deep
+Design.
+Stephen Wolfram is a scientist, inventor, and the founder and CEO of Wolfram
+Research. He is the creator of the symbolic computation program Mathematica and its
+programming language, Wolfram Language, as well as the knowledge engine
+Wolfram|Alpha. He is also the author of A New Kind of Science.
+4
+Deep Thinking
+Twenty-five Ways of Looking at AI
+edited by John Brockma
+Penguin Press — February 19, 2019
+5
+Table of Contents
+Acknowledgments
+Introduction: On the Promise and Peril of AI
+by John Brockman
+Artificial intelligence is today’s story—the story behind all other stories. It is the Second
+Coming and the Apocalypse at the same time: Good AI versus evil AI. This book comes
+out of an ongoing conversation with a number of important thinkers, both in the world of
+AI and beyond it, about what AI is and what it means. Called the Deep Thinking Project,
+this conversation began in earnest in September 2016, in a meeting at the Mayflower
+Grace Hotel in Washington, Connecticut with some of the book’s contributors.
+What quickly emerged from that first meeting is that the excitement and fear in the wider
+culture surrounding AI now has an analogue in the way Norbert Wiener’s ideas
+regarding “cybernetics” worked their way through the culture, particularly in the
+1960’s, as artists began to incorporate thinking about new technologies into their work.
+I witnessed the impact of those ideas at close hand; indeed it’s not too much to say they
+set me off on my life’s path. With the advent of the digital era beginning in the early
+1970s, people stopped talking about Wiener, but today, his Cybernetic Idea has been so
+widely adopted that it’s internalized to the point where it no longer needs a name. It’s
+everywhere, it’s in the air, and it’s a fitting a place to begin.
+Seth Lloyd: Wrong, but More Relevant Than Ever
+It is exactly in the extension of the cybernetic idea to human beings that Wiener’s
+conceptions missed their target.
+Judea Pearl: The Limitations of Opaque Learning Machines
+Deep learning has its own dynamics, it does its own repair and its own optimization, and
+it gives you the right results most of the time. But when it doesn’t, you don’t have a clue
+about what went wrong and what should be fixed.
+Stuart Russell: The Purpose Put Into the Machine
+We may face the prospect of superintelligent machines—their actions by definition
+unpredictable by us and their imperfectly specified objectives conflicting with our own—
+whose motivation to preserve their existence in order to achieve those objectives may be
+insuperable.
+George Dyson: The Third Law
+Any system simple enough to be understandable will not be complicated enough to
+behave intelligently, while any system complicated enough to behave intelligently will be
+too complicated to understand.
+Daniel C. Dennett: What Can We Do?
+We don’t need artificial conscious agents. We need intelligent tools.
+6
+Rodney Brooks: The Inhuman Mess Our Machines Have Gotten Us Into
+We are in a much more complex situation today than Wiener foresaw, and I am worried
+that it is much more pernicious than even his worst imagined fears.
+Frank Wilczek: The Unity of Intelligence
+The advantages of artificial over natural intelligence appear permanent, while the
+advantages of natural over artificial intelligence, though substantial at present, appear
+transient.
+Max Tegmark: Let’s Aspire to More Than Making Ourselves Obsolete
+We should analyze what could go wrong with AI to ensure that it goes right.
+Jaan Tallinn: Dissident Messages
+Continued progress in AI can precipitate a change of cosmic proportions—a runaway
+process that will likely kill everyone.
+Steven Pinker: Tech Prophecy and the Underappreciated Causal Power of Ideas
+There is no law of complex systems that says that intelligent agents must turn into
+ruthless megalomaniacs.
+David Deutsch: Beyond Reward and Punishment
+Misconceptions about human thinking and human origins are causing corresponding
+misconceptions about AGI and how it might be created.
+Tom Griffiths: The Artificial Use of Human Beings
+Automated intelligent systems that will make good inferences about what people want
+must have good generative models for human behavior.
+Anca Dragan: Putting the Human into the AI Equation
+In the real world, an AI must interact with people and reason about them. People will
+have to formally enter the AI problem definition somewhere.
+Chris Anderson: Gradient Descent
+Just because AI systems sometimes end up in local minima, don’t conclude that this
+makes them any less like life. Humans—indeed, probably all life-forms—are often stuck
+in local minima.
+David Kaiser: “Information” for Wiener, for Shannon, and for Us
+Many of the central arguments in The Human Use of Human Beings seem closer to the
+19th century than the 21st. Wiener seems not to have fully embraced Shannon’s notion of
+information as consisting of irreducible, meaning-free bits.
+Neil Gershenfeld: Scaling
+Although machine making and machine thinking might appear to be unrelated trends,
+they lie in each other’s futures.
+7
+W. Daniel Hillis: The First Machine Intelligences
+Hybrid superintelligences such as nation states and corporations have their own
+emergent goals and their actions are not always aligned to the interests of the people
+who created them.
+Venki Ramakrishnan: Will Computers Become Our Overlords?
+Our fears about AI reflect the belief that our intelligence is what makes us special.
+Alex “Sandy” Pentland: The Human Strategy
+How can we make a good human-artificial ecosystem, something that’s not a machine
+society but a cyberculture in which we can all live as humans—a culture with a human
+feel to it?
+Hans Ulrich Obrist: Making the Invisible Visible: Art Meets AI
+Many contemporary artists are articulating various doubts about the promises of AI and
+reminding us not to associate the term “artificial intelligence” solely with positive
+outcomes.
+Alison Gopnik: AIs versus Four-Year-Olds
+Looking at what children do may give programmers useful hints about directions for
+computer learning.
+Peter Galison: Algorists Dream of Objectivity
+By now, the legal, ethical, formal, and economic dimensions of algorithms are all quasiinfinite.
+George M. Church: The Rights of Machines
+Probably we should be less concerned about us-versus-them and more concerned about
+the rights of all sentients in the face of an emerging unprecedented diversity of minds.
+Caroline A. Jones: The Artistic Use of Cybernetic Beings
+The work of cybernetically inclined artists concerns the emergent behaviors of life that
+elude AI in its current condition.
+Stephen Wolfram: Artificial Intelligence and the Future of Civilization
+The most dramatic discontinuity will surely be when we achieve effective human
+immortality. Whether this will be achieved biologically or digitally isn’t clear, but
+inevitably it will be achieved.
+8
+Introduction: On the Promise and Peril of AI
+John Brockman
+Artificial intelligence is today’s story—the story behind all other stories. It is the Second
+Coming and the Apocalypse at the same time: Good AI versus evil AI. This book comes
+out of an ongoing conversation with a number of important thinkers, both in the world of
+AI and beyond it, about what AI is and what it means. Called the Deep Thinking Project,
+this conversation began in earnest in September 2016, in a meeting at the Mayflower
+Grace Hotel in Washington, Connecticut with some of the book’s contributors.
+What quickly emerged from that first meeting is that the excitement and fear in the wider
+culture surrounding AI now has an analogue in the way Norbert Wiener’s ideas regarding
+“cybernetics” worked their way through the culture, particularly in the 1960’s, as artists
+began to incorporate thinking about new technologies into their work. I witnessed the
+impact of those ideas at close hand; indeed it’s not too much to say they set me off on my
+life’s path. With the advent of the digital era beginning in the early 1970s, people stopped
+talking about Wiener, but today, his Cybernetic Idea has been so widely adopted that it’s
+internalized to the point where it no longer needs a name. It’s everywhere, it’s in the air,
+and it’s a fitting a place to begin.
+New Technologies=New Perceptions
+Before AI, there was Cybernetics—the idea of automatic, self-regulating control, laid out
+in Norbert Wiener’s foundational text of 1948. I can date my own serious exposure to it
+to 1966, when the composer John Cage invited me and four or five other young arts
+people to join him for a series of dinners—an ongoing seminar about media,
+communications, art, music, and philosophy that focused on Cage’s interest in the ideas
+of Wiener, Claude Shannon, and Marshall McLuhan, all of whom had currency in the
+New York art circles in which I was then moving. In particular, Cage had picked up on
+McLuhan’s idea that by inventing electronic technologies we had externalized our central
+nervous system—that is, our minds—and that we now had to presume that “there’s only
+one mind, the one we all share.”
+Ideas of this nature were beginning to be of great interest to the artists I was
+working with in New York at the Film-Makers’ Cinémathèque, where I was program
+manager for a series of multimedia productions called the New Cinema 1 (also known as
+the Expanded Cinema Festival), under the auspices of avant-garde filmmaker and
+impresario Jonas Mekas. They included visual artists Claes Oldenburg, Robert
+Rauschenberg, Andy Warhol, Robert Whitman; kinetic artists Charlotte Moorman and
+Nam June Paik; happenings artists Allan Kaprow and Carolee Schneemann; dancer Tricia
+Brown; filmmakers Jack Smith, Stan Vanderbeek, Ed Emshwiller, and the Kuchar
+brothers; avant-garde dramatist Ken Dewey; poet Gerd Stern and the USCO group;
+minimalist musicians Lamonte Young and Terry Riley; and through Warhol, the music
+group, The Velvet Underground. Many of these people were reading Wiener, and
+cybernetics was in the air. It was at one of these dinners that Cage reached into his
+briefcase and took out a copy of Cybernetics and handed it to me, saying, “This is for
+you.”
+9
+During the Festival, I received an unexpected phone call from Wiener’s colleague
+Arthur K. Solomon, head of Harvard’s graduate program in biophysics. Wiener had died
+the year before, and Solomon and Wiener’s other close colleagues at MIT and Harvard
+had been reading about the Expanded Cinema Festival in the New York Times and were
+intrigued by the connection to Wiener’s work. Solomon invited me to bring some of the
+artists up to Cambridge to meet with him and a group that included MIT sensorycommunications
+researcher Walter Rosenblith, Harvard applied mathematician Anthony
+Oettinger, and MIT engineer Harold “Doc” Edgerton, inventor of the strobe light.
+Like many other “art meets science” situations I’ve been involved in since, the
+two-day event was an informed failure: ships passing in the night. But I took it all
+onboard and the event was consequential in some interesting ways—one of which came
+from the fact that they took us to see “the” computer. Computers were a rarity back then;
+at least, none of us on the visit had ever seen one. We were ushered into a large space on
+the MIT campus, in the middle of which there was a “cold room” raised off the floor and
+enclosed in glass, in which technicians wearing white lab coats, scarves, and gloves were
+busy collating punch cards coming through an enormous machine. When I approached,
+the steam from my breath fogged up the window into the cold room. Wiping it off, I saw
+“the” computer. I fell in love.
+Later, in the Fall of 1967, I went to Menlo Park to spend time with Stewart Brand,
+whom I had met in New York in 1965 when he was a satellite member of the USCO
+group of artists. Now, with his wife Lois, a mathematician, he was preparing the first
+edition of The Whole Earth Catalog for publication. While Lois and the team did the
+heavy lifting on the final mechanicals for WEC, Stewart and I sat together in a corner for
+two days, reading, underlining, and annotating the same paperback copy of Cybernetics
+that Cage had handed to me the year before, and debating Wiener’s ideas.
+Inspired by this set of ideas, I began to develop a theme, a mantra of sorts, that
+has informed my endeavors since: “new technologies = new perceptions.” Inspired by
+communications theorist Marshall McLuhan, architect-designer Buckminster Fuller,
+futurist John McHale, and cultural anthropologists Edward T. (Ned) Hall and Edmund
+Carpenter, I started reading avidly in the field of information theory, cybernetics, and
+systems theory. McLuhan suggested I read biologist J.Z. Young’s Doubt and Certainty
+in Science in which he said that we create tools and we mold ourselves through our use of
+them. The other text he recommended was Warren Weaver and Claude Shannon’s 1949
+paper “Recent Contributions to the Mathematical Theory of Communication,” which
+begins: “The word communication will be used here in a very broad sense to include all
+of the procedures by which one mind may affect another. This, of course, involves not
+only written and oral speech, but also music, the pictorial arts, the theater, the ballet, and
+in fact all human behavior."
+Who knew that within two decades of that moment we would begin to recognize
+the brain as a computer? And in the next two decades, as we built our computers into the
+Internet, that we would begin to realize that the brain is not a computer, but a network of
+computers? Certainly not Wiener, a specialist in analogue feedback circuits designed to
+control machines, nor the artists, nor, least of all, myself.
+“We must cease to kiss the whip that lashes us.”
+10
+Two years after Cybernetics, in 1950, Norbert Wiener published The Human Use of
+Human Beings—a deeper story, in which he expressed his concerns about the runaway
+commercial exploitation and other unforeseen consequences of the new technologies of
+control. I didn’t read The Human Use of Human Beings until the spring of 2016, when I
+picked up my copy, a first edition, which was sitting in my library next to Cybernetics.
+What shocked me was the realization of just how prescient Wiener was in 1950 about
+what’s going on today. Although the first edition was a major bestseller—and, indeed,
+jump-started an important conversation—under pressure from his peers Wiener brought
+out a revised and milder edition in 1954, from which the original concluding chapter,
+“Voices of Rigidity,” is conspicuously absent.
+Science historian George Dyson points out that in this long-forgotten first edition,
+Wiener predicted the possibility of a “threatening new Fascism dependent on the machine
+à gouverner”:
+No elite escaped his criticism, from the Marxists and the Jesuits (“all of
+Catholicism is indeed essentially a totalitarian religion”) to the FBI (“our great
+merchant princes have looked upon the propaganda technique of the Russians,
+and have found that it is good”) and the financiers lending their support “to make
+American capitalism and the fifth freedom of the businessman supreme
+throughout the world.” Scientists . . . received the same scrutiny given the
+Church: “Indeed, the heads of great laboratories are very much like Bishops, with
+their association with the powerful in all walks of life, and the dangers they incur
+of the carnal sins of pride and of lust for power.”
+This jeremiad did not go well for Wiener. As Dyson puts it:
+These alarms were discounted at the time, not because Wiener was wrong about
+digital computing but because larger threats were looming as he completed his
+manuscript in the fall of 1949. Wiener had nothing against digital computing but
+was strongly opposed to nuclear weapons and refused to join those who were
+building digital computers to move forward on the thousand-times-more-powerful
+hydrogen bomb.
+Since the original of The Human Use of Human Beings is now out of print, lost to
+us is Wiener’s cri de coeur, more relevant today than when he wrote it, sixty-eight years
+ago: “We must cease to kiss the whip that lashes us.”
+Mind, Thinking, Intelligence
+Among the reasons we don’t hear much about “Cybernetics” today, two are central: First,
+although The Human Use of Human Beings was considered an important book in its time,
+it ran counter to the aspirations of many of Wiener’s colleagues, including John von
+Neumann and Claude Shannon, who were interested in the commercialization of the new
+technologies. Second, computer pioneer John McCarthy disliked Wiener and refused to
+use Wiener’s term “Cybernetics.” McCarthy, in turn, coined the term “artificial
+intelligence” and became a founding father of that field.
+11
+As Judea Pearl, who, in the 1980s, introduced a new approach to artificial
+intelligence called Bayesian networks, explained to me:
+What Wiener created was excitement to believe that one day we are going to
+make an intelligent machine. He wasn't a computer scientist. He talked feedback,
+he talked communication, he talked analog. His working metaphor was a
+feedback circuit, which he was an expert in. By the time the digital age began in
+the early 1960s people wanted to talk programming, talk codes, talk about
+computational functions, talk about short-term memory, long-term memory—
+meaningful computer metaphors. Wiener wasn’t part of that, and he didn’t reach
+the new generation that germinated with his ideas. His metaphors were too old,
+passé. There were new means already available that were ready to capture the
+human imagination.” By 1970, people were no longer talking about Wiener.
+One critical factor missing in Wiener’s vision was the cognitive element: mind, thinking,
+intelligence. As early as 1942, at the first of a series of foundational interdisciplinary
+meetings about the control of complex systems that would come to be known as the
+Macy conferences, leading researchers were arguing for the inclusion of the cognitive
+element into the conversation. While von Neumann, Shannon, and Wiener were
+concerned about systems of control and communication of observed systems, Warren
+McCullough wanted to include mind. He turned to cultural anthropologists Gregory
+Bateson and Margaret Mead to make the connection to the social sciences. Bateson in
+particular was increasingly talking about patterns and processes, or “the pattern that
+connects.” He called for a new kind of systems ecology in which organisms and the
+environment in which they live are one in the same, and should be considered as a single
+circuit. By the early 1970s the Cybernetics of observed systems—1 st order Cybernetics—
+moved to the Cybernetics of observing systems—2 nd order Cybernetics—or “the
+Cybernetics of Cybernetics”, as coined by Heinz von Foerster, who joined the Macy
+conferences in the mid 1950s, and spearheaded the new movement.
+Cybernetics, rather than disappearing, was becoming metabolized into everything,
+so we no longer saw it as a separate, distinct new discipline. And there it remains, hiding
+in plain sight.
+“The Shtick of the Steins”
+My own writing about these issues at the time was on the radar screen of the 2 nd order
+Cybernetics crowd, including Heinz von Foerster as well as John Lilly and Alan Watts,
+who were the co-organizers of something called "The AUM Conference," shorthand for
+“The American University of Masters”, which took place in Big Sur in 1973, a gathering
+of philosophers, psychologists, and scientists, each of whom asked to lecture on his own
+work in terms of its relationship to the ideas of British mathematician G. Spencer Brown
+presented in his book, Laws of Form.
+I was a bit puzzled when I received an invitation—a very late invitation indeed—
+which they explained was based on their interest in the ideas I presented in a book called
+Afterwords, which were very much on their wavelength. I jumped at the opportunity, the
+main reason being that the keynote speaker was none other than Richard Feynman. I love
+12
+to spend time with physicists, the reason being that they think about the universe, i.e.
+everything. And no physicist was reputed to be articulate as Feynman. I couldn’t wait to
+meet him. I accepted. That said, I am not a scientist, and I had never entertained the idea
+of getting on a stage and delivering a “lecture” of any kind, least of all a commentary on
+an obscure mathematical theory in front of a group identified as the world’s most
+interesting thinkers. Only upon my arrival in Big Sur did I find out the reason for my
+very late invitation. “When is Feynman’s talk?” I asked at the desk. “Oh, didn’t Alan
+Watts tell you? Richard is ill and has been hospitalized. You’re his replacement. And, by
+the way, what’s the title of your keynote lecture?”
+I tried to make myself invisible for several days. Alan Watts, realizing that I was
+avoiding the podium, woke me up one night with a 3am knock on the door of my room. I
+opened the door to find him standing in front of me wearing a monk’s robe with a hood
+that covering much of his face. His arms extended, he held a lantern in one hand, and a
+magnum of scotch on the other.
+“John”, he said in a deep voice with a rich aristocratic British accent, “you are a
+phony.” “And, John”, he continued, I am a phony. But John, I am a real phony!”
+The next day I gave my lecture, entitled "Einstein, Gertrude Stein, Wittgenstein,
+and Frankenstein." Einstein: the revolution in 20 th century physics; Gertrude Stein: the
+first writer who made integral to her work the idea of an indeterminate and discontinuous
+universe. Words represented neither character nor activity: A rose is a rose is a rose, and
+a universe is a universe is a universe.); Wittgenstein: the world as limits of language.
+“The limits of my language mean the limits of my world”. The end of the distinction
+between observer and observed. Frankenstein: Cybernetics AI, robotics, all the essayists
+in this volume.
+The lecture had unanticipated consequences. Among the participants at the AUM
+Conference were several authors of #1 New York Times bestsellers, yet no one there had
+a literary agent. And I realized that all were engaged in writing a genre of book both
+unnamed and unrecognized by New York publishers. Since I had an MBA from
+Colombia Business School, and a series of relative successes in business, I was
+dragooned into becoming an agent, initially for Gregory Bateson and John Lilly, whose
+books I sold quickly, and for sums that caught my attention, thus kick-starting my career
+as a literary agent.
+I never did meet Richard Feynman.
+The Long AI Winters
+This new career put me in close touch with most of the AI pioneers, and over the decades
+I rode with them on waves of enthusiasm, and into valleys of disappointment.
+In the early ‘80s the Japanese government mounted a national effort to advance
+AI. They called it the 5 th Generation; their goal was to change the architecture of
+computation by breaking “the von Neumann bottleneck”, by creating a massively parallel
+computer. In so doing, they hoped to jumpstart their economy and become a dominant
+world power in the field. In1983, the leader of the Japanese 5 th Generation consortium
+came to New York for a meeting organized by Heinz Pagels, the president of the New
+York Academy of Sciences. I had a seat at the table alongside the leaders of the 1 st
+generation, Marvin Minsky and John McCarthy, the 2 nd generation, Edward Feigenbaum
+13
+and Roger Schank, and Joseph Traub, head of the National Supercomputer Consortium.
+In 1981 with Heinz’s help, I had founded “The Reality Club” (the precursor to the
+non-profit Edge.org), whose initial interdisciplinary meetings took place in the Board
+Room at the NYAS. Heinz was working on his book, Dreams of Reason: The Rise of the
+Science of Complexity, which he considered to be a research agenda for science in the
+1990's.
+Through the Reality Club meetings, I got to know two young researchers who
+were about to play key roles in revolutionizing computer science. At MIT in the late
+seventies, Danny Hillis developed the algorithms that made possible the massively
+parallel computer. In 1983, his company, Thinking Machines, built the world's fastest
+supercomputer by utilizing parallel architecture. His "connection machine," closely
+reflected the workings of the human mind. Seth Lloyd at Rockefeller University was
+undertaking seminal work in the fields of quantum computation and quantum
+communications, including proposing the first technologically feasible design for a
+quantum computer.
+And the Japanese? Their foray into artificial intelligence failed, and was followed
+by twenty years of anemic economic growth. But, the leading US scientists took this
+program very seriously. And Feigenbaum, who was the cutting-edge computer scientist
+of the day, teamed up with McCorduck to write a book on these developments. The Fifth
+Generation: Artificial Intelligence and Japan's Computer Challenge to the World was
+published in 1983. We had a code name for the project: “It’s coming, it’s coming!” But it
+didn’t come; it went.
+From that point on I’ve worked with researchers in nearly every variety of AI and
+complexity, including Rodney Brooks, Hans Moravec, John Archibald Wheeler, Benoit
+Mandelbrot, John Henry Holland, Danny Hillis, Freeman Dyson, Chris Langton, Doyne
+Farmer, Geoffrey West, Stuart Russell, and Judea Pearl.
+An Ongoing Dynamical Emergent System
+From the initial meeting in Washington, CT to the present, I arranged a number of
+dinners and discussions in London and Cambridge, Massachusetts, as well as a public
+event at London’s City Hall. Among the attendees were distinguished scientists, science
+historians, and communications theorists, all of whom have been thinking seriously about
+AI issues for their entire careers.
+I commissioned essays from a wide range of contributors, with or without
+references to Wiener (leaving it up to each participant). In the end, 25 people wrote
+essays, all individuals concerned about what is happening today in the age of AI. Deep
+Thinking in not my book, rather it is our book: Seth Lloyd, Judea Pearl, Stuart Russell,
+George Dyson, Daniel C. Dennett, Rodney Brooks, Frank Wilczek, Max Tegmark, Jaan
+Tallinn, Steven Pinker, David Deutsch, Tom Griffiths, Anca Dragan, Chris Anderson,
+David Kaiser, Neil Gershenfeld, W. Daniel Hillis, Venki Ramakrishnan, Alex “Sandy”
+Pentland, Hans Ulrich Obrist, Alison Gopnik, Peter Galison, George M. Church, Caroline
+A. Jones, Stephen Wolfram.
+I see The Deep Thinking Project as an ongoing dynamical emergent system, a
+presentation of the ideas of a community of sophisticated thinkers who are bringing their
+experience and erudition to bear in challenging the prevailing digital AI narrative as they
+14
+communicate their thoughts to one another. The aim is to present a mosaic of views
+which will help make sense out of this rapidly emerging field.
+I asked the essayists to consider:
+(a) The Zen-like poem “Thirteen Ways of Looking at a Blackbird,” by Wallace
+Stevens, which he insisted was “not meant to be a collection of epigrams or of ideas, but
+of sensations.” It is an exercise in “perspectivism,” consisting of short, separate sections,
+each of which mentions blackbirds in some way. The poem is about his own imagination;
+it concerns what he attends to.
+(b) The parable of the blind men and an elephant. Like the elephant, AI is too big
+a topic for any one perspective, never mind the fact that no two people seem to see things
+the same way.
+What do we want the book to do? Stewart Brand has noted that “revisiting
+pioneer thinking is perpetually useful. And it gives a long perspective that invites
+thinking in decades and centuries about the subject. All contemporary discussion, is
+bound to age badly and immediately without the longer perspective.”
+Danny Hillis wants people in AI to realize how they’ve been programmed by
+Wiener’s book. “You’re executing its road map,” he says, and you just don’t realize it.”
+Dan Dennett would like to “let Wiener emerge as the ghost at the banquet. Think
+of it as a source of hybrid vigor, a source of unsettling ideas to shake uŒp the established
+mindset.”
+Neil Gershenfeld argues that “stealth remedial education for the people running
+the “Big Five” would be a great output from the book.”
+Freeman Dyson Freeman, one of the few people alive who knew Wiener, notes
+that “The Human Use of Human Beings is one of the best books ever written. Wiener got
+almost everything right. I will be interested to see what your bunch of wizards will do
+with it.”
+The Evolving AI Narrative
+Things have changed—and they remain the same. Now AI is everywhere. We have the
+Internet. We have our smartphones. The founders of the dominant companies—the
+companies that hold “the whip that lashes us”—have net worths of $65 billion, $90
+billion, $130 billion. High-profile individuals such as Elon Musk, Nick Bostrom, Martin
+Rees, Eliezer Yudkowsky, and the late Stephen Hawking have issued dire warnings about
+AI, resulting in the ascendancy of well-funded institutes tasked with promoting “Nice
+AI.” But will we, as a species, be able to control a fully realized, unsupervised, selfimproving
+AI? Wiener’s warnings and admonitions in The Human Use of Human Beings
+are now very real, and they need to be looked at anew by researchers at the forefront of
+the AI revolution. Here is Dyson again:
+Wiener became increasingly disenchanted with the “gadget worshipers” whose
+corporate selfishness brought “motives to automatization that go beyond a
+legitimate curiosity and are sinful in themselves.” He knew the danger was not
+machines becoming more like humans but humans being treated like machines.
+“The world of the future will be an ever more demanding struggle against the
+limitations of our intelligence,” he warned in God & Golem, Inc., published in
+15
+1964, the year of his death, “not a comfortable hammock in which we can lie
+down to be waited upon by our robot slaves.”
+It’s time to examine the evolving AI narrative by identifying the leading members of that
+mainstream community along with the dissidents, and presenting their counternarratives
+in their own voices.
+The essays that follow thus constitute a much-needed update from the field.
+John Brockman
+New York, 2019
+16
+I met Seth Lloyd in the late 1980s, when new ways of thinking were everywhere: the
+importance of biological organizing principles, the computational view of mathematics
+and physical processes, the emphasis on parallel networks, the importance of nonlinear
+dynamics, the new understanding of chaos, connectionist ideas, neural networks, and
+parallel distributive processing. The advances in computation during that period
+provided us with a new way of thinking about knowledge.
+Seth likes to refer to himself as a quantum mechanic. He is internationally known
+for his work in the field of quantum computation, which attempts to harness the exotic
+properties of quantum theory, like superposition and entanglement, to solve problems
+that would take several lifetimes to solve on classical computers.
+In the essay that follows, he traces the history of information theory from Norbert
+Wiener’s prophetic insights to the predictions of a technological “singularity” that some
+would have us believe will supplant the human species. His takeaway on the recent
+programming method known as deep learning is to call for a more modest set of
+expectations; he notes that despite AI’s enormous advances, robots “still can’t tie their
+own shoes.”
+It’s difficult for me to talk about Seth without referencing his relationship with his
+friend and professor, the late theoretical physicist Heinz Pagels of Rockefeller
+University. The graduate student and the professor each had a profound effect on each
+other’s ideas.
+In the summer of 1988, I visited Heinz and Seth at the Aspen Center for Physics.
+Their joint work on the subject of complexity was featured in the current issue of
+Scientific American; they were ebullient. That was just two weeks before Heinz’s tragic
+death in a hiking accident while descending Pyramid Peak with Seth. They were talking
+about quantum computing.
+17
+WRONG, BUT MORE RELEVANT THAN EVER
+Seth Lloyd
+Seth Lloyd is a theoretical physicist at MIT, Nam P. Suh Professor in the Department of
+Mechanical Engineering, and an external professor at the Santa Fe Institute.
+The Human Use of Human Beings, Norbert Wiener’s 1950 popularization of his highly
+influential book Cybernetics: Control and Communication in the Animal and the
+Machine (1948), investigates the interplay between human beings and machines in a
+world in which machines are becoming ever more computationally capable and powerful.
+It is a remarkably prescient book, and remarkably wrong. Written at the height of the
+Cold War, it contains a chilling reminder of the dangers of totalitarian organizations and
+societies, and of the danger to democracy when it tries to combat totalitarianism with
+totalitarianism’s own weapons.
+Wiener’s Cybernetics looked in close scientific detail at the process of control via
+feedback. (“Cybernetics,” from the ancient Greek for “helmsman,” is the etymological
+basis of our word “governor,” which is what James Watt called his pathbreaking
+feedback control device that transformed the use of steam engines.) Because he was
+immersed in problems of control, Wiener saw the world as a set of complex, interlocking
+feedback loops, in which sensors, signals, and actuators such as engines interact via an
+intricate exchange of signals and information. The engineering applications of
+Cybernetics were tremendously influential and effective, giving rise to rockets, robots,
+automated assembly lines, and a host of precision-engineering techniques—in other
+words, to the basis of contemporary industrial society.
+Wiener had greater ambitions for cybernetic concepts, however, and in The
+Human Use of Human Beings he spells out his thoughts on its application to topics as
+diverse as Maxwell’s Demon, human language, the brain, insect metabolism, the legal
+system, the role of technological innovation in government, and religion. These broader
+applications of cybernetics were an almost unequivocal failure. Vigorously hyped from
+the late 1940s to the early 1960s—to a degree similar to the hype of computer and
+communication technology that led to the dotcom crash of 2000-2001—cybernetics
+delivered satellites and telephone switching systems but generated few if any useful
+developments in social organization and society at large.
+Nearly seventy years later, however, The Human Use of Human Beings has more
+to teach us humans than it did the first time around. Perhaps the most remarkable feature
+of the book is that it introduces a large number of topics concerning human/machine
+interactions that are still of considerable relevance. Dark in tone, the book makes several
+predictions about disasters to come in the second half of the 20th century, many of which
+are almost identical to predictions made today about the second half of the 21st.
+For example, Wiener foresaw a moment in the near future of 1950 in which
+humans would cede control of society to a cybernetic artificial intelligence, which would
+then proceed to wreak havoc on humankind. The automation of manufacturing, Wiener
+predicted, would both create large advances in productivity and displace many workers
+from their jobs—a sequence of events that did indeed come to pass in the ensuing
+decades. Unless society could find productive occupations for these displaced workers,
+Wiener warned, revolt would ensue.
+18
+But Wiener failed to foresee crucial technological developments. Like pretty
+much all technologists of the 1950s, he failed to predict the computer revolution.
+Computers, he thought, would eventually fall in price from hundreds of thousands of
+(1950s) dollars to tens of thousands; neither he nor his compeers anticipated the
+tremendous explosion of computer power that would follow the development of the
+transistor and the integrated circuit. Finally, because of his emphasis on control, Wiener
+could not foresee a technological world in which innovation and self-organization bubble
+up from the bottom rather than being imposed from the top.
+Focusing on the evils of totalitarianism (political, scientific, and religious),
+Wiener saw the world in a deeply pessimistic light. His book warned of the catastrophe
+that awaited us if we didn’t mend our ways, fast. The current world of human beings and
+machines, more than a half century after its publication, is much more complex, richer,
+and contains a much wider variety of political, social, and scientific systems than he was
+able to envisage. The warnings of what will happen if we get it wrong, however—for
+example, control of the entire Internet by a global totalitarian regime—remain as relevant
+and pressing today as they were in 1950.
+What Wiener Got Right
+Wiener’s most famous mathematical works focused on problems of signal analysis and
+the effects of noise. During World War II, he developed techniques for aiming antiaircraft
+fire by making models that could predict the future trajectory of an airplane by
+extrapolating from its past behavior. In Cybernetics and in The Human Use of Human
+Beings, Wiener notes that this past behavior includes quirks and habits of the human
+pilot, thus a mechanized device can predict the behavior of humans. Like Alan Turing,
+whose Turing Test suggested that computing machines could give responses to questions
+which were indistinguishable from human responses, Wiener was fascinated by the
+notion of capturing human behavior by mathematical description. In the 1940s, he
+applied his knowledge of control and feedback loops to neuro-muscular feedback in
+living systems, and was responsible for bringing Warren McCulloch and Walter Pitts to
+MIT, where they did their pioneering work on artificial neural networks.
+Wiener’s central insight was that the world should be understood in terms of
+information. Complex systems, such as organisms, brains, and human societies, consist
+of interlocking feedback loops in which signals exchanged between subsystems result in
+complex but stable behavior. When feedback loops break down, the system goes
+unstable. He constructed a compelling picture of how complex biological systems
+function, a picture that is by and large universally accepted today.
+Wiener’s vision of information as the central quantity in governing the behavior
+of complex systems was remarkable at the time. Nowadays, when cars and refrigerators
+are jammed with microprocessors and much of human society revolves around computers
+and cell phones connected by the Internet, it seems prosaic to emphasize the centrality of
+information, computation, and communication. In Wiener’s time, however, the first
+digital computers had only just come into existence, and the Internet was not even a
+twinkle in the technologist’s eye.
+Wiener’s powerful conception of not just engineered complex systems but all
+complex systems as revolving around cycles of signals and computation led to
+tremendous contributions to the development of complex human-made systems. The
+19
+methods he and others developed for the control of missiles, for example, were later put
+to work in building the Saturn V moon rocket, one of the crowning engineering
+achievements of the 20th century. In particular, Wiener’s applications of cybernetic
+concepts to the brain and to computerized perception are the direct precursors of today’s
+neural-network-based deep-learning circuits, and of artificial intelligence itself. But
+current developments in these fields have diverged from his vision, and their future
+development may well affect the human uses both of human beings and of machines.
+What Wiener Got Wrong
+It is exactly in the extension of the cybernetic idea to human beings that Wiener’s
+conceptions missed their target. Setting aside his ruminations on language, law, and
+human society for the moment, look at a humbler but potentially useful innovation that he
+thought was imminent in 1950. Wiener notes that prosthetic limbs would be much more
+effective if their wearers could communicate directly with their prosthetics by their own
+neural signals, receiving information about pressure and position from the limb and
+directing its subsequent motion. This turned out to be a much harder problem than
+Wiener envisaged: Seventy years down the road, prosthetic limbs that incorporate neural
+feedback are still in the very early stages. Wiener’s concept was an excellent one—it’s
+just that the problem of interfacing neural signals with mechanical-electrical devices is
+hard.
+More significantly, Wiener (along with pretty much everyone else in 1950)
+greatly underappreciated the potential of digital computation. As noted, Wiener’s
+mathematical contributions were to the analysis of signals and noise and his analytic
+methods apply to continuously varying, or analog, signals. Although he participated in
+the wartime development of digital computation, he never foresaw the exponential
+explosion of computing power brought on by the introduction and progressive
+miniaturization of semiconductor circuits. This is hardly Wiener’s fault: The transistor
+hadn’t been invented yet, and the vacuum-tube technology of the digital computers he
+was familiar with was clunky, unreliable, and unscalable to ever larger devices. In an
+appendix to the 1948 edition of Cybernetics, he anticipates chess-playing computers and
+predicts that they’ll be able to look two or three moves ahead. He might have been
+surprised to learn that within half a century a computer would beat the human world
+champion at chess.
+Technological Overestimation and the Existential Risks of the Singularity
+When Wiener wrote his books, a significant example of technological overestimation was
+about to occur. The 1950s saw the first efforts at developing artificial intelligence, by
+researchers such as Herbert Simon, John McCarthy, and Marvin Minsky, who began to
+program computers to perform simple tasks and to construct rudimentary robots. The
+success of these initial efforts inspired Simon to declare that “machines will be capable,
+within twenty years, of doing any work a man can do.” Such predictions turned out to be
+spectacularly wrong. As they became more powerful, computers got better and better at
+playing chess because they could systematically generate and evaluate a vast selection of
+possible future moves. But the majority of predictions of AI, e.g., robotic maids, turned
+out to be illusory. When Deep Blue beat Garry Kasparov at chess in 1997, the most
+20
+powerful room-cleaning robot was a Roomba, which moved around vacuuming at
+random and squeaked when it got caught under the couch.
+Technological prediction is particularly chancy, given that technologies progress
+by a series of refinements, halted by obstacles and overcome by innovation. Many
+obstacles and some innovations can be anticipated, but more cannot. In my own work
+with experimentalists on building quantum computers, I typically find that some of the
+technological steps I expect to be easy turn out to be impossible, whereas some of the
+tasks I imagine to be impossible turn out to be easy. You don’t know until you try.
+In the 1950s, partly inspired by conversations with Wiener, John von Neumann
+introduced the notion of the “technological singularity.” Technologies tend to improve
+exponentially, doubling in power or sensitivity over some interval of time. (For
+example, since 1950, computer technologies have been doubling in power roughly
+every two years, an observation enshrined as Moore’s Law.) Von Neumann
+extrapolated from the observed exponential rate of technological improvement to
+predict that “technological progress will become incomprehensively rapid and
+complicated,” outstripping human capabilities in the not too distant future. Indeed, if
+one extrapolates the growth of raw computing power—expressed in terms of bits and
+bit flips—into the future at its current rate, computers should match human brains
+sometime in the next two to four decades (depending on how one estimates the
+information-processing power of human brains).
+The failure of the initial overly optimistic predictions of AI dampened talk about
+the technological singularity for a few decades, but since the 2005 publication of Ray
+Kurzweil’s The Singularity is Near, the idea of technological advance leading to
+superintelligence is back in force. Some believers, Kurzweil included, regard this
+singularity as an opportunity: Humans can merge their brains with the
+superintelligence and thereby live forever. Others, such as Stephen Hawking and Elon
+Musk, worried that this superintelligence would prove to be malign and regarded it as
+the greatest existing threat to human civilization. Still others, including some of the
+contributors to the present volume, think such talk is overblown.
+Wiener’s life work and his failure to predict its consequences are intimately
+bound up in the idea of an impending technological singularity. His work on
+neuroscience and his initial support of McCulloch and Pitts adumbrated the startlingly
+effective deep-learning methods of the present day. Over the past decade, and
+particularly in the last five years, such deep-learning techniques have finally exhibited
+what Wiener liked to call Gestalt—for example, the ability to recognize that a circle is
+a circle even if when slanted sideways it looks like an ellipse. His work on control,
+combined with his work on neuromuscular feedback, was significant for the
+development of robotics and is the inspiration for neural-based human/machine
+interfaces. His lapses in technological prediction, however, suggest that we should
+take the notion of a technological singularity with a grain of salt. The general
+difficulties of technological prediction and the problems specific to the development of
+a superintelligence should warn us against overestimating both the power and the
+efficacy of information processing.
+The Arguments for Singularity Skepticism
+No exponential increase lasts forever. An atomic explosion grows exponentially, but
+21
+only until it runs out of fuel. Similarly, the exponential advances in Moore’s Law are
+starting to run into limits imposed by basic physics. The clock speed of computers
+maxed out at a few gigahertz a decade and a half ago, simply because the chips were
+starting to melt. The miniaturization of transistors is already running into quantummechanical
+problems due to tunneling and leakage currents. Eventually, the various
+exponential improvements in memory and processing driven by Moore’s Law will
+grind to a halt. A few more decades, however, will probably be time enough for the
+raw information-processing power of computers to match that of brains—at least by
+the crude measures of number of bits and number of bit-flips per second.
+Human brains are intricately constructed, the process of millions of years of
+natural selection. In Wiener’s time, our understanding of the architecture of the brain
+was rudimentary and simplistic. Since then, increasingly sensitive instrumentation and
+imaging techniques have shown our brains to be far more varied in structure and
+complex in function than Wiener could have imagined. I recently asked Tomaso
+Poggio, one of the pioneers of modern neuroscience, whether he was worried that
+computers, with their rapidly increasing processing power, would soon emulate the
+functioning of the human brain. “Not a chance,” he replied.
+The recent advances in deep learning and neuromorphic computation are very
+good at reproducing a particular aspect of human intelligence focused on the operation
+of the brain’s cortex, where patterns are processed and recognized. These advances
+have enabled a computer to beat the world champion not just of chess but of Go, an
+impressive feat, but they’re far short of enabling a computerized robot to tidy a room.
+(In fact, robots with anything approaching human capability in a broad range of
+flexible movements are still far away—search “robots falling down.” Robots are good
+at making precision welds on assembly lines, but they still can’t tie their own shoes.)
+Raw information-processing power does not mean sophisticated informationprocessing
+power. While computer power has advanced exponentially, the programs
+by which computers operate have often failed to advance at all. One of the primary
+responses of software companies to increased processing power is to add “useful”
+features which often make the software harder to use. Microsoft Word reached its
+apex in 1995 and has been slowly sinking under the weight of added features ever
+since. Once Moore’s Law starts slowing down, software developers will be confronted
+with hard choices between efficiency, speed, and functionality.
+A major fear of the singulariteers is that as computers become more involved in
+designing their own software they’ll rapidly bootstrap themselves into achieving
+superhuman computational ability. But the evidence of machine learning points in the
+opposite direction. As machines become more powerful and capable of learning, they
+learn more and more as human beings do—from multiple examples, often under the
+supervision of human and machine teachers. Education is as hard and slow for
+computers as it is for teenagers. Consequently, systems based on deep learning are
+becoming more rather than less human. The skills they bring to learning are not
+“better than” but “complementary to” human learning: Computer learning systems can
+identify patterns that humans cannot—and vice versa. The world’s best chess players
+are neither computers nor humans but humans working together with computers.
+Cyberspace is indeed inhabited by harmful programs, but these primarily take the form
+of malware—viruses notable for their malign mindlessness, not for their
+22
+superintelligence.
+Whither Wiener
+Wiener noted that exponential technological progress is a relatively modern phenomenon
+and not all of it is good. He regarded atomic weapons and the development of missiles
+with nuclear warheads as a recipe for the suicide of the human species. He compared the
+headlong exploitation of the planet’s resources with the Mad Tea Party of Alice in
+Wonderland: Having laid waste to one local environment, we make progress simply by
+moving on to lay waste to the next. Wiener’s optimism about the development of
+computers and neuro-mechanical systems was tempered by his pessimism about their
+exploitation by authoritarian governments, such as the Soviet Union, and the tendency for
+democracies, such as the United States, to become more authoritarian themselves in
+confronting the threat of authoritarianism.
+What would Wiener think of the current human use of human beings? He would
+be amazed by the power of computers and the Internet. He would be happy that the early
+neural nets in which he played a role have spawned powerful deep-learning systems that
+exhibit the perceptual ability he demanded of them—although he might not be impressed
+that one of the most prominent examples of such computerized Gestalt is the ability to
+recognize photos of kittens on the World Wide Web. Rather than regarding machine
+intelligence as a threat, I suspect he would regard it as a phenomenon in its own right,
+different from and co-evolving with our own human intelligence.
+Unsurprised by global warming—the Mad Tea Party of our era—Wiener would
+applaud the exponential improvement in alternative-energy technologies and would apply
+his cybernetic expertise to developing the intricate set of feedback loops needed to
+incorporate such technologies into the coming smart electrical grid. Nonetheless,
+recognizing that the solution to the problem of climate change is at least as much political
+as it is technological, he would undoubtedly be pessimistic about our chances of solving
+this civilization-threatening problem in time. Wiener hated hucksters—political
+hucksters most of all—but he acknowledged that hucksters would always be with us.
+It’s easy to forget just how scary Wiener’s world was. The United States and the
+Soviet Union were in a full-out arms race, building hydrogen bombs mounted on nuclear
+warheads carried by intercontinental ballistic missiles guided by navigation systems to
+which Wiener himself—to his dismay—had contributed. I was four years old when
+Wiener died. In 1964, my nursery school class was practicing duck-and-cover under our
+desks to prepare for a nuclear attack. Given the human use of human beings in his own
+day, if he could see our current state, Wiener’s first response would be to be relieved that
+we are still alive.
+23
+In the 1980s, Judea Pearl introduced a new approach to artificial intelligence called
+Bayesian networks. This probability-based model of machine reasoning enabled
+machines to function—in a complex and uncertain world—as “evidence engines,”
+continuously revising their beliefs in light of new evidence.
+Within a few years, Judea’s Bayesian networks had completely overshadowed the
+previous rule-based approaches to artificial intelligence. The advent of deep learning—
+in which computers, in effect, teach themselves to be smarter by observing tons of data,
+has given him pause, because this method lacks transparency.
+While recognizing the impressive achievements in deep learning by colleagues
+such as Michael Jordan and Geoffrey Hinton, he feels uncomfortable with this kind of
+opacity. He set out to understand the theoretical limitations of deep-learning systems
+and points out that basic barriers exist that will prevent them from achieving a human
+kind of intelligence, no matter what we do. Leveraging the computational benefits of
+Bayesian networks, Judea realized that the combination of simple graphical models and
+data could also be used to represent and infer cause-effect relationships. The
+significance of this discovery far transcends its roots in artificial intelligence. His latest
+book explains causal thinking to the general public; you might say it is a primer on how
+to think even though human.
+Judea’s principled, mathematical approach to causality is a profound
+contribution to the realm of ideas. It has already benefited virtually every field of
+inquiry, especially the data-intensive health and social sciences.
+24
+THE LIMITATIONS OF OPAQUE LEARNING MACHINES
+Judea Pearl
+Judea Pearl is a professor of computer science and director of the Cognitive Systems
+Laboratory at UCLA. His most recent book, co-authored with Dana Mackenzie, is The
+Book of Why: The New Science of Cause and Effect.
+As a former physicist, I was extremely interested in cybernetics. Though it did not utilize
+the full power of Turing Machines, it was highly transparent, perhaps because it was
+founded on classical control theory and information theory. We are losing this
+transparency now, with the deep-learning style of machine learning. It is fundamentally a
+curve-fitting exercise that adjusts weights in intermediate layers of a long input-output
+chain.
+I find many users who say that it “works well and we don’t know why.” Once
+you unleash it on large data, deep learning has its own dynamics, it does its own repair
+and its own optimization, and it gives you the right results most of the time. But when it
+doesn’t, you don’t have a clue about what went wrong and what should be fixed. In
+particular, you do not know if the fault is in the program, in the method, or because things
+have changed in the environment. We should be aiming at a different kind of
+transparency.
+Some argue that transparency is not really needed. We don’t understand the
+neural architecture of the human brain, yet it runs well, so we forgive our meager
+understanding and use human helpers to great advantage. In the same way, they argue,
+why not unleash deep-learning systems and create intelligence without understanding
+how they work? I buy this argument to some extent. I personally don’t like opacity, so I
+won’t spend my time on deep learning, but I know that it has a place in the makeup of
+intelligence. I know that non-transparent systems can do marvelous jobs, and our brain is
+proof of that marvel.
+But this argument has its limitation. The reason we can forgive our meager
+understanding of how human brains work is because our brains work the same way, and
+that enables us to communicate with other humans, learn from them, instruct them, and
+motivate them in our own native language. If our robots will all be as opaque as
+AlphaGo, we won’t be able to hold a meaningful conversation with them, and that would
+be unfortunate. We will need to retrain them whenever we make a slight change in the
+task or in the operating environment.
+So, rather than experimenting with opaque learning machines, I am trying to
+understand their theoretical limitations and examine how these limitations can be
+overcome. I do it in the context of causal-reasoning tasks, which govern much of how
+scientists think about the world and, at the same time, are rich in intuition and toy
+examples, so we can monitor the progress in our analysis. In this context, we’ve
+discovered that some basic barriers exist, and that unless they are breached we won’t get
+a real human kind of intelligence no matter what we do. I believe that charting these
+barriers may be no less important than banging our heads against them.
+Current machine-learning systems operate almost exclusively in a statistical, or
+model-blind, mode, which is analogous in many ways to fitting a function to a cloud of
+data points. Such systems cannot reason about “what if ?” questions and, therefore,
+25
+cannot serve as the basis for Strong AI—that is, artificial intelligence that emulates
+human-level reasoning and competence. To achieve human-level intelligence, learning
+machines need the guidance of a blueprint of reality, a model—similar to a road map that
+guides us in driving through an unfamiliar city.
+To be more specific, current learning machines improve their performance by
+optimizing parameters for a stream of sensory inputs received from the environment. It is
+a slow process, analogous to the natural-selection process that drives Darwinian
+evolution. It explains how species like eagles and snakes have developed superb vision
+systems over millions of years. It cannot explain, however, the super-evolutionary
+process that enabled humans to build eyeglasses and telescopes over barely a thousand
+years. What humans had that other species lacked was a mental representation of their
+environment—representations that they could manipulate at will to imagine alternative
+hypothetical environments for planning and learning.
+Historians of Homo sapiens such as Yuval Noah Harari and Steven Mithen are in
+general agreement that the decisive ingredient that gave our ancestors the ability to
+achieve global dominion about forty thousand years ago was their ability to create and
+store a mental representation of their environment, interrogate that representation, distort
+it by mental acts of imagination, and finally answer the “What if?” kind of questions.
+Examples are interventional questions (“What if I do such-and-such?”) and retrospective
+or counterfactual questions (“What if I had acted differently?”). No learning machine in
+operation today can answer such questions. Moreover, most learning machines do not
+possess a representation from which the answers to such questions can be derived.
+With regard to causal reasoning, we find that you can do very little with any form
+of model-blind curve fitting, or any statistical inference, no matter how sophisticated the
+fitting process is. We have also found a theoretical framework for organizing such
+limitations, which forms a hierarchy.
+On the first level, you have statistical reasoning, which can tell you only how
+seeing one event would change your belief about another. For example, what can a
+symptom tell you about a disease?
+Then you have a second level, which entails the first but not vice versa. It deals
+with actions. “What will happen if we raise prices?” “What if you make me laugh?”
+That second level of the hierarchy requires information about interventions which is not
+available in the first. This information can be encoded in a graphical model, which
+merely tells us which variable responds to another.
+The third level of the hierarchy is the counterfactual. This is the language used by
+scientists. “What if the object were twice as heavy?” “What if I were to do things
+differently?” “Was it the aspirin that cured my headache, or the nap I took?”
+Counterfactuals are at the top level in the sense that they cannot be derived even if we
+could predict the effects of all actions. They need an extra ingredient, in the form of
+equations, to tell us how variables respond to changes in other variables.
+One of the crowning achievements of causal-inference research has been the
+algorithmization of both interventions and counterfactuals, the top two layers of the
+hierarchy. In other words, once we encode our scientific knowledge in a model (which
+may be qualitative), algorithms exist that examine the model and determine if a given
+query, be it about an intervention or about a counterfactual, can be estimated from the
+available data—and, if so, how. This capability has transformed dramatically the way
+26
+scientists are doing science, especially in such data-intensive sciences as sociology and
+epidemiology, for which causal models have become a second language. These
+disciplines view their linguistic transformation as the Causal Revolution. As Harvard
+social scientist Gary King puts it, “More has been learned about causal inference in the
+last few decades than the sum total of everything that had been learned about it in all
+prior recorded history.”
+As I contemplate the success of machine learning and try to extrapolate it to the
+future of AI, I ask myself, “Are we aware of the basic limitations that were discovered in
+the causal-inference arena? Are we prepared to circumvent the theoretical impediments
+that prevent us from going from one level of the hierarchy to another level?”
+I view machine learning as a tool to get us from data to probabilities. But then we
+still have to make two extra steps to go from probabilities into real understandingnce—
+two big steps. One is to predict the effect of actions, and the second is counterfactual
+imagination. We cannot claim to understand reality unless we make the last two steps.
+In his insightful book Foresight and Understanding (1961), the philosopher
+Stephen Toulmin identified the transparency-versus-opacity contrast as the key to
+understanding the ancient rivalry between Greek and Babylonian sciences. According to
+Toulmin, the Babylonian astronomers were masters of black-box predictions, far
+surpassing their Greek rivals in accuracy and consistency of celestial observations. Yet
+Science favored the creative-speculative strategy of the Greek astronomers, which was
+wild with metaphorical imagery: circular tubes full of fire, small holes through which
+celestial fire was visible as stars, and hemispherical Earth riding on turtleback. It was
+this wild modeling strategy, not Babylonian extrapolation, that jolted Eratosthenes (276-
+194 BC) to perform one of the most creative experiments in the ancient world and
+calculate the circumference of the Earth. Such an experiment would never have occurred
+to a Babylonian data-fitter.
+Model-blind approaches impose intrinsic limitations on the cognitive tasks that
+Strong AI can perform. My general conclusion is that human-level AI cannot emerge
+solely from model-blind learning machines; it requires the symbiotic collaboration of
+data and models.
+Data science is a science only to the extent that it facilitates the interpretation of
+data—a two-body problem, connecting data to reality. Data alone are hardly a science,
+no matter how “big” they get and how skillfully they are manipulated. Opaque learning
+systems may get us to Babylon, but not to Athens.
+27
+Computer scientist Stuart Russell, along with Elon Musk, Stephen Hawking, Max
+Tegmark, and numerous others, has insisted that attention be paid to the potential
+dangers in creating an intelligence on the superhuman (or even the human) level—an
+AGI, or artificial general intelligence, whose programmed purposes may not necessarily
+align with our own.
+His early work was on understanding the notion of “bounded optimality” as a
+formal definition of intelligence that you can work on. He developed the technique of
+rational meta-reasoning, “which is, roughly speaking, that you do the computations that
+you expect to improve the quality of your ultimate decision as quickly as possible.” He
+has also worked on the unification of probability theory and first-order logic—resulting
+in a new and far more effective monitoring system for the Comprehensive Nuclear Test
+Ban Treaty—and on the problem of decision making over long timescales (his
+presentations on the latter topic are usually titled, “Life: Play and Win in 20 trillion
+moves”).
+He is very concerned with the continuing development of autonomous weapons,
+such as lethal micro-drones, which are potentially scalable into weapons of mass
+destruction. He drafted the letter from forty of the world’s leading AI researchers to
+President Obama which resulted in high-level national-security meetings.
+His current work centers on the creation of what he calls “provably beneficial”
+AI. He wants to ensure AI safety by “imbuing systems with explicit uncertainty” about
+the objectives of their human programmers, an approach that would amount to a fairly
+radical reordering of current AI research.
+Stuart is also on the radar of anyone who has taken a course in computer science
+in the last twenty-odd years. He is co-author of “the” definitive AI textbook, with an
+estimated 5-million-plus English-language readers.
+28
+THE PURPOSE PUT INTO THE MACHINE
+Stuart Russell
+Stuart Russell is a professor of computer science and Smith-Zadeh Professor in
+Engineering at UC Berkeley. He is the coauthor (with Peter Norvig) of Artificial
+Intelligence: A Modern Approach.
+Among the many issues raised in Norbert Wiener’s The Human Use of Human Beings
+(1950) that are currently relevant, the most significant to the AI researcher is the
+possibility that humanity may cede control over its destiny to machines.
+Wiener considered the machines of the near future as far too limited to exert global
+control, imagining instead that machines and machine-like control systems would be
+wielded by human elites to reduce the great mass of humanity to the status of “cogs and
+levers and rods.” Looking further ahead, he pointed to the difficulty of correctly
+specifying objectives for highly capable machines, noting
+a few of the simpler and more obvious truths of life, such as that when a djinnee is
+found in a bottle, it had better be left there; that the fisherman who craves a boon
+from heaven too many times on behalf of his wife will end up exactly where he
+started; that if you are given three wishes, you must be very careful what you wish
+for.
+The dangers are clear enough:
+Woe to us if we let [the machine] decide our conduct, unless we have previously
+examined the laws of its action, and know fully that its conduct will be carried out on
+principles acceptable to us! On the other hand, the machine like the djinnee, which
+can learn and can make decisions on the basis of its learning, will in no way be
+obliged to make such decisions as we should have made, or will be acceptable to us.
+Ten years later, after seeing Arthur Samuel’s checker-playing program learn to play
+checkers far better than its creator, Wiener published “Some Moral and Technical
+Consequences of Automation” in Science. In this paper, the message is even clearer:
+If we use, to achieve our purposes, a mechanical agency with whose operation we
+cannot efficiently interfere . . . we had better be quite sure that the purpose put into
+the machine is the purpose which we really desire. . . .
+In my view, this is the source of the existential risk from superintelligent AI cited in
+recent years by such observers as Elon Musk, Bill Gates, Stephen Hawking, and Nick
+Bostrom.
+Putting Purposes Into Machines
+The goal of AI research has been to understand the principles underlying intelligent
+behavior and to build those principles into machines that can then exhibit such behavior.
+In the 1960s and 1970s, the prevailing theoretical notion of intelligence was the capacity
+for logical reasoning, including the ability to derive plans of action guaranteed to achieve
+a specified goal. More recently, a consensus has emerged around the idea of a rational
+29
+agent that perceives, and acts in order to maximize, its expected utility. Subfields such as
+logical planning, robotics, and natural-language understanding are special cases of the
+general paradigm. AI has incorporated probability theory to handle uncertainty, utility
+theory to define objectives, and statistical learning to allow machines to adapt to new
+circumstances. These developments have created strong connections to other disciplines
+that build on similar concepts, including control theory, economics, operations research,
+and statistics.
+In both the logical-planning and rational-agent views of AI, the machine’s
+objective—whether in the form of a goal, a utility function, or a reward function (as in
+reinforcement learning)—is specified exogenously. In Wiener’s words, this is “the
+purpose put into the machine.” Indeed, it has been one of the tenets of the field that AI
+systems should be general-purpose—i.e., capable of accepting a purpose as input and
+then achieving it—rather than special-purpose, with their goal implicit in their design.
+For example, a self-driving car should accept a destination as input instead of having one
+fixed destination. However, some aspects of the car’s “driving purpose” are fixed, such
+as that it shouldn’t hit pedestrians. This is built directly into the car’s steering algorithms
+rather than being explicit: No self-driving car in existence today “knows” that pedestrians
+prefer not to be run over.
+Putting a purpose into a machine which optimizes its behavior according to clearly
+defined algorithms seems an admirable approach to ensuring that the machine’s “conduct
+will be carried out on principles acceptable to us!” But, as Wiener warns, we need to put
+in the right purpose. We might call this the King Midas problem: Midas got exactly what
+he asked for—namely, that everything he touched would turn to gold—but too late he
+discovered the drawbacks of drinking liquid gold and eating solid gold. The technical
+term for putting in the right purpose is value alignment. When it fails, we may
+inadvertently imbue machines with objectives counter to our own. Tasked with finding a
+cure for cancer as fast as possible, an AI system might elect to use the entire human
+population as guinea pigs for its experiments. Asked to de-acidify the oceans, it might
+use up all the oxygen in the atmosphere as a side effect. This is a common characteristic
+of systems that optimize: Variables not included in the objective may be set to extreme
+values to help optimize that objective.
+Unfortunately, neither AI nor other disciplines (economics, statistics, control
+theory, operations research) built around the optimization of objectives have much to say
+about how to identify the purposes “we really desire.” Instead, they assume that
+objectives are simply implanted into the machine. AI research, in its present form,
+studies the ability to achieve objectives, not the design of those objectives.
+Steve Omohundro has pointed to a further difficulty, observing that intelligent
+entities must act to preserve their own existence. This tendency has nothing to do with a
+self-preservation instinct or any other biological notion; it’s just that an entity cannot
+achieve its objectives if it’s dead. According to Omohundro’s argument, a
+superintelligent machine that has an off-switch—which some, including Alan Turing
+himself, in a 1951 talk on BBC Radio 3, have seen as our potential salvation—will take
+steps to disable the switch in some way. 1 Thus we may face the prospect of
+superintelligent machines—their actions by definition unpredictable by us and their
+1
+Omohundro, “The Basic AI Drives,” in Proc. First AGI Conf., 171: “Artificial General Intelligence,” eds.
+P. Wang, B. Goertzel, & S. Franklin (IOS press, 2008).
+30
+imperfectly specified objectives conflicting with our own—whose motivation to preserve
+their existence in order to achieve those objectives may be insuperable.
+1001 Reasons to Pay No Attention
+Objections have been raised to these arguments, primarily by researchers within the AI
+community. The objections reflect a natural defensive reaction, coupled perhaps with a
+lack of imagination about what a superintelligent machine could do. None hold water on
+closer examination. Here are some of the more common ones:
+• Don’t worry, we can just switch it off. 2 This is often the first thing that pops into a
+layperson’s head when considering risks from superintelligent AI—as if a
+superintelligent entity would never think of that. This is rather like saying that the
+risk of losing to DeepBlue or AlphaGo is negligible—all one has to do is make
+the right moves.
+• Human-level or superhuman AI is impossible. 3 This is an unusual claim for AI
+researchers to make, given that, from Turing onward, they have been fending off
+such claims from philosophers and mathematicians. The claim, which is backed
+by no evidence, appears to concede that if superintelligent AI were possible, it
+would be a significant risk. It’s as if a bus driver, with all of humanity as
+passengers, said, “Yes, I am driving toward a cliff—in fact, I’m pressing the pedal
+to the metal! But trust me, we’ll run out of gas before we get there!” The claim
+represents a foolhardy bet against human ingenuity. We have made such bets
+before and lost. On September 11, 1933, renowned physicist Ernest Rutherford
+stated, with utter confidence, “Anyone who expects a source of power from the
+transformation of these atoms is talking moonshine.” On September 12, 1933,
+Leo Szilard invented the neutron-induced nuclear chain reaction. A few years
+later he demonstrated such a reaction in his laboratory at Columbia University.
+As he recalled in a memoir: “We switched everything off and went home. That
+night, there was very little doubt in my mind that the world was headed for grief.”
+• It’s too soon to worry about it. The right time to worry about a potentially serious
+problem for humanity depends not just on when the problem will occur but also
+on how much time is needed to devise and implement a solution that avoids the
+risk. For example, if we were to detect a large asteroid predicted to collide with
+the Earth in 2067, would we say, “It’s too soon to worry”? And if we consider
+the global catastrophic risks from climate change predicted to occur later in this
+century, is it too soon to take action to prevent them? On the contrary, it may be
+too late. The relevant timescale for human-level AI is less predictable, but, like
+nuclear fission, it might arrive considerably sooner than expected. One variation
+on this argument is Andrew Ng’s statement that it’s “like worrying about
+overpopulation on Mars.” This appeals to a convenient analogy: Not only is the
+2
+AI researcher Jeff Hawkins, for example, writes, “Some intelligent machines will be virtual, meaning they
+will exist and act solely within computer networks. . . . It is always possible to turn off a computer network,
+even if painful.” https://www.recode.net/2015/3/2/11559576/.
+3
+The AI100 report (Peter Stone et al.), sponsored by Stanford University, includes the following: “Unlike
+in the movies, there is no race of superhuman robots on the horizon or probably even possible.”
+https://ai100.stanford.edu/2016-report.
+31
+risk easily managed and far in the future, but also it’s extremely unlikely that
+we’d even try to move billions of humans to Mars in the first place. The analogy
+is a false one, however. We are already devoting huge scientific and technical
+resources to creating ever-more-capable AI systems. A more apt analogy would
+be a plan to move the human race to Mars with no consideration for what we
+might breathe, drink, or eat once we’d arrived.
+• Human-level AI isn’t really imminent, in any case. The AI100 report, for example,
+assures us, “Contrary to the more fantastic predictions for AI in the popular press,
+the Study Panel found no cause for concern that AI is an imminent threat to
+humankind.” This argument simply misstates the reasons for concern, which are
+not predicated on imminence. In his 2014 book, Superintelligence: Paths,
+Dangers, Strategies, Nick Bostrom, for one, writes, “It is no part of the argument
+in this book that we are on the threshold of a big breakthrough in artificial
+intelligence, or that we can predict with any precision when such a development
+might occur.”
+• You’re just a Luddite. It’s an odd definition of Luddite that includes Turing,
+Wiener, Minsky, Musk, and Gates, who rank among the most prominent
+contributors to technological progress in the 20th and 21st centuries. 4
+Furthermore, the epithet represents a complete misunderstanding of the nature of
+the concerns raised and the purpose for raising them. It is as if one were to accuse
+nuclear engineers of Luddism if they pointed out the need for control of the
+fission reaction. Some objectors also use the term “anti-AI,” which is rather like
+calling nuclear engineers “anti-physics.” The purpose of understanding and
+preventing the risks of AI is to ensure that we can realize the benefits. Bostrom,
+for example, writes that success in controlling AI will result in “a civilizational
+trajectory that leads to a compassionate and jubilant use of humanity’s cosmic
+endowment”—hardly a pessimistic prediction.
+• Any machine intelligent enough to cause trouble will be intelligent enough to have
+appropriate and altruistic objectives. 5 (Often, the argument adds the premise that
+people of greater intelligence tend to have more altruistic objectives, a view that
+may be related to the self-conception of those making the argument.) This
+argument is related to Hume’s is-ought problem and G. E. Moore’s naturalistic
+fallacy, suggesting that somehow the machine, as a result of its intelligence, will
+simply perceive what is right, given its experience of the world. This is
+implausible; for example, one cannot perceive, in the design of a chessboard and
+chess pieces, the goal of checkmate; the same chessboard and pieces can be used
+for suicide chess, or indeed many other games still to be invented. Put another
+way: Where Bostrom imagines humans driven extinct by a putative robot that
+turns the planet into a sea of paper clips, we humans see this outcome as tragic,
+4
+Elon Musk, Stephen Hawking, and others (including, apparently, the author) received the 2015 Luddite of
+the Year Award from the Information Technology Innovation Foundation:
+https://itif.org/publications/2016/01/19/artificial-intelligence-alarmists-win-itif%E2%80%99s-annualluddite-award.
+5
+Rodney Brooks, for example, asserts that it’s impossible for a program to be “smart enough that it would
+be able to invent ways to subvert human society to achieve goals set for it by humans, without
+understanding the ways in which it was causing problems for those same humans.”
+http://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/.
+32
+whereas the iron-eating bacterium Thiobacillus ferrooxidans is thrilled. Who’s to
+say the bacterium is wrong? The fact that a machine has been given a fixed
+objective by humans doesn’t mean that it will automatically recognize the
+importance to humans of things that aren’t part of the objective. Maximizing the
+objective may well cause problems for humans, but, by definition, the machine
+will not recognize those problems as problematic.
+• Intelligence is multidimensional, “so ‘smarter than humans’ is a meaningless
+concept.” 6 It is a staple of modern psychology that IQ doesn’t do justice to the
+full range of cognitive skills that humans possess to varying degrees. IQ is indeed
+a crude measure of human intelligence, but it is utterly meaningless for current AI
+systems, because their capabilities across different areas are uncorrelated. How
+do we compare the IQ of Google’s search engine, which cannot play chess, with
+that of DeepBlue, which cannot answer search queries?
+None of this supports the argument that because intelligence is multifaceted,
+we can ignore the risk from superintelligent machines. If “smarter than humans”
+is a meaningless concept, then “smarter than gorillas” is also meaningless, and
+gorillas therefore have nothing to fear from humans; clearly, that argument
+doesn’t hold water. Not only is it logically possible for one entity to be more
+capable than another across all the relevant dimensions of intelligence, it is also
+possible for one species to represent an existential threat to another even if the
+former lacks an appreciation for music and literature.
+Solutions
+Can we tackle Wiener’s warning head-on? Can we design AI systems whose purposes
+don’t conflict with ours, so that we’re sure to be happy with how they behave? On the
+face of it, this seems hopeless, because it will doubtless prove infeasible to write down
+our purposes correctly or imagine all the counterintuitive ways a superintelligent entity
+might fulfill them.
+If we treat superintelligent AI systems as if they were black boxes from outer
+space, then indeed we have no hope. Instead, the approach we seem obliged to take, if
+we are to have any confidence in the outcome, is to define some formal problem F, and
+design AI systems to be F-solvers, such that no matter how perfectly a system solves F,
+we’re guaranteed to be happy with the solution. If we can work out an appropriate F that
+has this property, we’ll be able to create provably beneficial AI.
+Here’s an example of how not to do it: Let a reward be a scalar value provided
+periodically by a human to the machine, corresponding to how well the machine has
+behaved during each period, and let F be the problem of maximizing the expected sum of
+rewards obtained by the machine. The optimal solution to this problem is not, as one
+might hope, to behave well, but instead to take control of the human and force him or her
+to provide a stream of maximal rewards. This is known as the wireheading problem,
+based on observations that humans themselves are susceptible to the same problem if
+given a means to electronically stimulate their own pleasure centers.
+There is, I believe, an approach that may work. Humans can reasonably be
+described as having (mostly implicit) preferences over their future lives—that is, given
+6
+Kevin Kelly, “The Myth of a Superhuman AI,” Wired, Apr. 25, 2017.
+33
+enough time and unlimited visual aids, a human could express a preference (or
+indifference) when offered a choice between two future lives laid out before him or her in
+all their aspects. (This idealization ignores the possibility that our minds are composed of
+subsystems with incompatible preferences; if true, that would limit a machine’s ability to
+optimally satisfy our preferences, but it doesn’t seem to prevent us from designing
+machines that avoid catastrophic outcomes.) The formal problem F to be solved by the
+machine in this case is to maximize human future-life preferences subject to its initial
+uncertainty as to what they are. Furthermore, although the future-life preferences are
+hidden variables, they’re grounded in a voluminous source of evidence—namely, all of
+the human choices ever made. This formulation sidesteps Wiener’s problem: The
+machine may learn more about human preferences as it goes along, of course, but it will
+never achieve complete certainty.
+A more precise definition is given by the framework of cooperative inversereinforcement
+learning, or CIRL. A CIRL problem involves two agents, one human and
+the other a robot. Because there are two agents, the problem is what economists call a
+game. It is a game of partial information, because while the human knows the reward
+function, the robot doesn’t—even though the robot’s job is to maximize it.
+A simple example: Suppose that Harriet, the human, likes to collect paper
+clips and staples and her reward function depends on how many of each she has. More
+precisely, if she has p paper clips and s staples, her degree of happiness is θp + (1-θ)s,
+where θ is essentially an exchange rate between paper clips and staples. If θ is 1, she
+likes only paper clips; if θ is 0, she likes only staples; if θ is 0.5, she is indifferent
+between them; and so on. It’s the job of Robby, the robot, to produce the paper clips and
+staples. The point of the game is that Robby wants to make Harriet happy, but he doesn’t
+know the value of θ, so he isn’t sure how many of each to produce.
+Here’s how the game works. Let the true value of θ be 0.49—that is, Harriet
+has a slight preference for staples over paper clips. And let’s assume that Robby has a
+uniform prior belief about θ—that is, he believes θ is equally likely to be any value
+between 0 and 1. Harriet now gets to do a small demonstration, producing either two
+paper clips or two staples or one of each. After that, the robot can produce either ninety
+paper clips, or ninety staples, or fifty of each. You might think that Harriet, who prefers
+staples to paper clips, should produce two staples. But in that case, Robby’s rational
+response would be to produce ninety staples (with a total value to Harriet of 45.9), which
+is a less desirable outcome for Harriet than fifty of each (total value 50.0). The optimal
+solution of this particular game is that Harriet produces one of each, so then Robby
+makes fifty of each. Thus, the way the game is defined encourages Harriet to “teach”
+Robby—as long as she knows that Robby is watching carefully.
+Within the CIRL framework, one can formulate and solve the off-switch
+problem—that is, the problem of how to prevent a robot from disabling its off-switch.
+(Turing may rest easier.) A robot that’s uncertain about human preferences actually
+benefits from being switched off, because it understands that the human will press the
+off-switch to prevent the robot from doing something counter to those preferences. Thus
+the robot is incentivized to preserve the off-switch, and this incentive derives directly
+from its uncertainty about human preferences. 7
+The off-switch example suggests some templates for controllable-agent
+7
+See Hadfield-Menell et al., “The Off-Switch Game,” https://arxiv.org/pdf/1611.08219.pdf.
+34
+designs and provides at least one case of a provably beneficial system in the sense
+introduced above. The overall approach resembles mechanism-design problems in
+economics, wherein one incentivizes other agents to behave in ways beneficial to the
+designer. The key difference here is that we are building one of the agents in order to
+benefit the other.
+There are reasons to think this approach may work in practice. First, there is
+abundant written and filmed information about humans doing things (and other humans
+reacting). Technology to build models of human preferences from this storehouse will
+presumably be available long before superintelligent AI systems are created. Second,
+there are strong, near-term economic incentives for robots to understand human
+preferences: If one poorly designed domestic robot cooks the cat for dinner, not realizing
+that its sentimental value outweighs its nutritional value, the domestic-robot industry will
+be out of business.
+There are obvious difficulties, however, with an approach that expects a robot
+to learn underlying preferences from human behavior. Humans are irrational,
+inconsistent, weak-willed, and computationally limited, so their actions don’t always
+reflect their true preferences. (Consider, for example, two humans playing chess.
+Usually, one of them loses, but not on purpose!) So robots can learn from nonrational
+human behavior only with the aid of much better cognitive models of humans.
+Furthermore, practical and social constraints will prevent all preferences from being
+maximally satisfied simultaneously, which means that robots must mediate among
+conflicting preferences—something that philosophers and social scientists have struggled
+with for millennia. And what should robots learn from humans who enjoy the suffering
+of others? It may be best to zero out such preferences in the robots’ calculations.
+Finding a solution to the AI control problem is an important task; it may be,
+in Bostrom’s words, “the essential task of our age.” Up to now, AI research has focused
+on systems that are better at making decisions, but this is not the same as making better
+decisions. No matter how excellently an algorithm maximizes, and no matter how
+accurate its model of the world, a machine’s decisions may be ineffably stupid in the eyes
+of an ordinary human if its utility function is not well aligned with human values.
+This problem requires a change in the definition of AI itself—from a field
+concerned with pure intelligence, independent of the objective, to a field concerned with
+systems that are provably beneficial for humans. Taking the problem seriously seems
+likely to yield new ways of thinking about AI, its purpose, and our relationship to it.
+35
+In 2005, George Dyson, a historian of science and technology, visited Google at the
+invitation of some Google engineers. The occasion was the sixtieth anniversary of John
+von Neumann’s proposal for a digital computer. After the visit, George wrote an essay,
+“Turing’s Cathedral,” which, for the first time, alerted the public about what Google’s
+founders had in store for the world. “We are not scanning all those books to be read by
+people,” explained one of his hosts after his talk. “We are scanning them to be read by
+an AI.”
+George offers a counternarrative to the digital age. His interests have included
+the development of the Aleut kayak, the evolution of digital computing and
+telecommunications, the origins of the digital universe, and a path not taken into space.
+His career (he never finished high school, yet has been awarded an honorary doctorate
+from the University of Victoria) has proved as impossible to classify as his books.
+He likes to point out that analog computing, once believed to be as extinct as the
+differential analyzer, has returned. He argues that while we may use digital components,
+at a certain point the analog computing being performed by the system far exceeds the
+complexity of the digital code with which it is built. He believes that true artificial
+intelligence—with analog control systems emerging from a digital substrate the way
+digital computers emerged out of analog components in the aftermath of World War II—
+may not be as far off as we think.
+In this essay, George contemplates the distinction between analog and digital
+computation and finds analog to be alive and well. Nature’s response to an attempt to
+program machines to control everything may be machines without programming over
+which no one has control.
+36
+THE THIRD LAW
+George Dyson
+George Dyson is a historian of science and technology and the author of Baidarka: the
+Kayak, Darwin Among the Machines, Project Orion, and Turing’s Cathedral.
+The history of computing can be divided into an Old Testament and a New Testament:
+before and after electronic digital computers and the codes they spawned proliferated
+across the Earth. The Old Testament prophets, who delivered the underlying logic,
+included Thomas Hobbes and Gottfried Wilhelm Leibniz. The New Testament prophets
+included Alan Turing, John von Neumann, Claude Shannon, and Norbert Wiener. They
+delivered the machines.
+Alan Turing wondered what it would take for machines to become intelligent.
+John von Neumann wondered what it would take for machines to self-reproduce. Claude
+Shannon wondered what it would take for machines to communicate reliably, no matter
+how much noise intervened. Norbert Wiener wondered how long it would take for
+machines to assume control.
+Wiener’s warnings about control systems beyond human control appeared in
+1949, just as the first generation of stored-program electronic digital computers were
+introduced. These systems required direct supervision by human programmers,
+undermining his concerns. What’s the problem, as long as programmers are in control of

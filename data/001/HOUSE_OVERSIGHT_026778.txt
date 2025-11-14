@@ -1,0 +1,289 @@
+From: Richard Kahn 
+Sent: 1/23/2018 6:23:09 PM 
+To: jeffrey E. [jeeyacation@gmail.com] 
+Subject: Fwd: Alert: The 2017 Tax Reform Act 
+Importance: High 
+Richard Kahn 
+HBRK Associates Inc. 
+575 Lexington Avenue 4th Floor 
+New York, NY 10022 
+tel 
+fax 
+cell 
+TAX ALER JANUARY 23, 2018 
+The 2017 Tax Reform Act - Key 
+Provisions Impacting Fund Managers 
+and Their Funds 
+For further information about this Alert, 
+please contact: 
+Alex Gelinas 
+Partner 
+212.573.815g  
+agelinas@sglawyers.com 
+Steven Etkind 
+Partner 
+212.573.8412  
+setkind@sglawyers.com 
+Please feel free to discuss any aspect of 
+this Alert with your regular Sadis & 
+Goldberg contact or with any of the 
+HOUSE OVERSIGHT 026778 
+partners whose names and contact 
+information can be found at the end of 
+the Alert. 
+The Tax Cuts and Jobs Act (the "Tax Act"), which was signed into law by President Trump on December 
+22, 2017, contains the most sweeping federal tax law changes since 1986. Most provisions of the Tax 
+Act take effect for taxable years beginning on or after January 1, 2018. This Client Alert is not intended 
+to be a comprehensive review of this massive legislation. The Alert focuses on certain provisions of 
+the Tax Act that may have the most significant impact on asset management firms, their owners, their 
+investment vehicles, and the investors in such funds. Certain changes made by the Tax Act are 
+permanent but many others are scheduled to expire after 2025 unless extended by further 
+Congressional legislation. 
+I. Carried Interest Survives in Modified Form 
+The Tax Act contains changes to the treatment of "carried interests", but such changes are not as 
+negative as the prior legislative changes that had been proposed but never adopted. The granting of a 
+"future profits only" interest in a partnership in connection with the performances of services to the 
+partnership continues to be eligible for tax-free treatment under the new law. For certain owners of 
+"Applicable Partnership Interests" (of the sort that would generally be issued by an investment 
+partnership to the general partner), the Act applies a three-year holding period requirement for capital 
+gains derived by the partnership (or from the disposition of the profits interest) to be eligible for the 
+long-term capital gains tax rate (instead of the generally applicable one-year holding threshold). 
+The change in carried interest taxation clearly impacts managers of hedge funds more than managers 
+of private equity funds or real estate funds, which typically have a longer than three-year holding period 
+for investments in their portfolio companies or real estate assets. The new tax treatment applies to 
+income realized in tax years beginning on or after January 1, 2018 and existing carried interests are not 
+grandfathered. Thus, it appears that any unrealized capital gains which have already been allocated to 
+a general partner on the books of the partnership would be subject to the new tax treatment at the time 
+the partnership realizes such gains in 2018 or subsequent years. 
+Note, however, that the Tax Act does not change the current federal income tax treatment of carried 
+interest allocations of "qualified dividends" to individuals, which are also taxed at long-term capital gains 
+rates. The capital gains from the carried interest that fail to satisfy the new three-year holding period 
+requirement are treated as "short-term capital gains" which are taxable at ordinary income rates. 
+The "Applicable Partnership Interest" held by the general partner or an affiliate should not include any 
+portion of the partnership interest that is attributable to capital contributed to the partnership by the 
+general partner. The exact manner on how such exception will apply will need to be addressed in future 
+IRS notices or regulations to be issued. Limited partners holding capital interests in private investment 
+funds are also not affected and therefore retain the one-year holding period requirement for long-term 
+capital gain treatment. 
+Note also that the term "Applicable Partnership Interest" does not include an interest held directly or 
+indirectly by a corporation and it currently appears that such exception includes holdings by both C 
+HOUSE OVERSIGHT 026779 
+corporations and S corporations. It is likely that further guidance will be issued on this question, as it 
+may be advantageous for certain general partners to convert their existing entities that hold the carried 
+interest to S corporations, and such general partners may have until March 15, 2018 to accomplish such 
+conversion. 
+Managers of hedge funds and other partnerships that do not hold capital assets for more than three 
+years before their sale may consider whether the carried interest incentive allocation should be replaced 
+with an incentive fee structure. Also, the reduced after-tax value of a carried interest partnership 
+allocation may impact the management company's executive compensation arrangements. 
+Although an earlier version of the tax legislation would have repealed the exemption in the Code which 
+provides that a limited partner's income is exempt from self-employment tax, the final version of the 
+Tax Act does not contain such change in law. 
+II. New 21% Corporate Income Tax Rate and Reduction of the Maximum Rates Applicable to 
+Individuals 
+The Tax Act reduces the 35 percent corporate rate to a flat 21 percent corporate rate. There is no special 
+higher rate for personal service corporations (as existed under prior law). The new 21 percent rate is 
+effective for taxable years beginning on or after January 1, 2018. The corporate alternative tax (AMT) 
+has also been repealed. Such corporate tax changes are permanent. In contrast, the highest applicable 
+federal income tax rate for individuals and other non-corporate taxpayers is reduced from 39.6% to 
+37%. In addition, the 3.8% "add-on" Medicare contributions tax on an individual's net investment 
+income remains in effect. 
+1. Possible Use of a "C" Corporation as a Tax Shelter 
+Since the new 21% corporate tax rate is now well below the highest rate applicable to high income 
+individuals, some investment managers may conclude that some or all of their management entities 
+that are pass through partnerships should convert to corporate form. In addition, certain partnership 
+funds that are engaged in trade or business, such as active loan origination or real estate activities may 
+find it advantageous to convert to corporate form. 
+The advantage to the corporate form of organization is that the C corporation's net income after taxes 
+is not taxable to its shareholders until it is distributed (e.g., either as a dividend or as a redemption of 
+stock (i.e., as a capital gain)). Corporations that are engaged in active businesses are able to retain and 
+reinvest their earnings. Also relevant to choice of entity decisions is the fact that the Tax Act restricts 
+the ability of individuals to deduct more than $10,000 in state and local taxes, but corporations can 
+continue to deduct such taxes as under prior law. 
+However, there are certain anti-abuse provisions that remain in the Internal Revenue Code that limit 
+the use of a C corporation as a tax shelter. Lurking in the Code is a provision which allows the Internal 
+Revenue Service to impose a 20 percent additional "accumulated earnings" income tax on the 
+"accumulated taxable income" of a corporation if such taxable income is allowed to accumulate "beyond 
+the "reasonable needs of the business". There is a $250,000 safe harbor for most corporations, while 
+personal service corporations are allowed a safe harbor of only $150,000. There is also a 20 percent tax 
+on the "personal holding company income" (i.e., passive investment income) of certain closely held C 
+corporations (i.e., when five or fewer individuals own, in the aggregate, more than fifty percent of the 
+corporation's stock and at least 60 percent of the corporation's adjusted ordinary income is personal 
+holding company income (e.g., passive investment income)). These penalty taxes on corporations have 
+received little attention in recent decades. However, with the enactment of the sharply lower corporate 
+tax rate, these anti-abuse rules are likely to become a significant focus of the IRS in its audits of tax 
+returns of privately held corporations. 
+HOUSE OVERSIGHT 026780 
+2. The New Deduction for Qualified Business Income of Pass Through Entities 
+Congress also wanted to provide an income tax rate reduction for those businesses that are organized 
+as partnerships or S corporations or which are owned by sole proprietors. In order to meet this goal, the 
+Tax Act provides an income tax deduction for individuals and other non-corporate taxpayers equal to (i) 
+20 percent of their domestic "qualified business income"; plus (ii) 20 percent of any qualifying dividends 
+from real estate investment trusts, qualifying income from publicly traded partnerships, and gain 
+derived from sale of such publicly traded partnerships that would be treated as ordinary 
+income. Therefore, such deduction results in an effective federal income tax rate of 29.6% on such 
+qualifying income for a top bracket individual. The deduction does not apply to investment income (i.e., 
+capital gains, dividends (other than certain ordinary income dividends paid by REITs), and most interest 
+income). In addition, it does not apply to reasonable compensation income and guaranteed payments 
+paid to the taxpayer from the business. 
+The 20 percent of "qualified business income" deduction described in (i) above is also generally limited 
+to the greater of either (a) 50% of the W-2 wages paid with respect to the qualified trade or business, 
+or (b) the sum of 25% of the W-2 wages paid with respect to such business plus 2.5% of the unadjusted 
+tax basis of all qualified business property of such business. Thus, if the partnership, S corporation or 
+sole proprietorship does not pay "W-2 wages" and the second limitation is a minor amount or not 
+applicable, the owner or pass through taxpayer's tax deduction would be a minor amount or zero. 
+Unfortunately, partners or owners of certain types of professional service businesses, including 
+financial services providers, investment managers, brokers, consultants, lawyers and accountants (and 
+others), are not permitted to claim the "qualified business income" deduction unless the taxpayer's 
+adjusted gross income is below certain levels ($207,500 for individuals and $365,000 for married couples 
+filing jointly). Even in such case, the benefit of the available deduction is phased out ratably as the 
+taxpayer's income exceeds $157,500 if single, or $315,000 if filing a joint tax return. Therefore, fund 
+managers organized as pass through entities are not likely to, and investment funds organized as 
+partnerships will not, derive a significant benefit from this deduction. 
+ISSUES FOR PARTNERSHIP FUNDS 
+1. Repeal of Itemized Deductions Previously Available to Non-Corporate Taxpayers for Non-Business 
+Investment Expenses 
+For 2018 through 2025, the Tax Act completely repeals the deductions previously allowed to individuals 
+and other non-corporate taxpayers for "miscellaneous itemized deductions" (which were subject to a 
+2% floor and a phase-out rule under prior law). It is important to note that for individual investors in 
+partnership funds that are not treated as engaged in a trade or business, the investor's share of the 
+fund's investment expenses, including management fees, would now pass through as non-deductible 
+miscellaneous itemized deductions. If the fund is properly classified as an active "trader" rather than a 
+mere investor, then such expenses would be completely deductible as trade or business expenses. This 
+Tax Act change obviously puts considerable strain on the fund manager and its tax advisors with respect 
+to the trader vs. investor issue. At this time, there is a lack of clear guidance from the Internal Revenue 
+Service on what level of trading activity is sufficient for a professionally managed fund to qualify as a 
+"trader fund". 
+In cases where a partnership fund's expected activities are not likely to qualify for trader status or 
+another trade or business, the fund's sponsor may find that US high net worth individuals may now 
+prefer to invest in the offshore corporate feeder fund instead of the onshore partnership fund. The US 
+income tax reason for this would be that since the offshore feeder is classified as a corporation for US 
+tax purposes, its net income would be calculated under the rules applicable to corporations, for which 
+HOUSE OVERSIGHT 026781 
+there are no miscellaneous itemized deductions. Thus, assuming that the foreign feeder is a passive 
+foreign investment company (PFIC), if the US high net worth shareholder is able to make the "qualified 
+electing fund" election, the net income the investor would be required to report on his federal income 
+tax return would be calculated after deducting all of the corporation's expenses, including management 
+fees and investment expenses. 
+2. Non-US Partner's Gain on Sale of Partnership Interest may be Taxable as US Trade or Business 
+Income; New Withholding Requirements apply to the Purchaser or the Fund 
+The Tax Act specifically provides that gains realized by a non-US partner on a sale or exchange of a 
+partnership interest will be treated as effectively connected US trade or business income ("Ed") to the 
+extent that such partner would have been allocated [Cl had the partnership sold all of its assets. This 
+provision is consistent with the IRS position in Revenue Ruling 91-32, and overrules a recent Tax Court 
+case which had rejected the position taken in such IRS Ruling and instead held that since a partnership 
+interest is treated as a capital asset, the foreign person's gain on its sale could escape US income taxation 
+as a non-business capital gain. 
+To the extent that a partnership has any [Cl-generating assets (including US real property interests), a 
+seller of a partnership interest will have to provide a certificate that it is not a foreign person, and in the 
+absence of such a certificate a purchaser (which could include the fund) will be required to withhold 
+10% of the gross purchase price. Further, the Tax Act provides that if the purchaser does not withhold, 
+the partnership is required to withhold on distributions to such purchaser to cover the withholding. The 
+Tax Act provides that the new withholding obligation for purchasers is effective for sales or other 
+dispositions of partnership interests after December 31, 2017. 
+3. New Limitation on Deduction of Net Interest Expense 
+Under prior law, subject to some restrictions and limitations, business interest paid or accrued by a 
+business was fully deductible. For taxable years beginning after December 31, 2017, the Tax Act limits 
+the deduction for "net business interest" expense for every type of business, regardless of entity form, 
+to 30 percent of adjusted taxable income. Business interest paid or accrued after the effective date on 
+indebtedness, including debt that was incurred prior to the effective date of the Tax Act, is subject to 
+this limitation. 
+The term business interest does not include investment interest described in Code section 
+163(d). Operating companies, such as management entities, and investment funds that are engaged in 
+a business and have outstanding indebtedness could be subject to such deduction limitation. For this 
+purpose, "adjusted taxable income" is determined at the entity level for partnerships, and is similar to 
+EBITDA (i.e., net earnings before deducting interest expense, taxes, depreciation and amortization) for 
+taxable years 2018 through 2021. A more restrictive 20% of [BIT limitation (net earnings before 
+deducting interest expense and taxes) applies for 2022 and later years. 
+Certain taxpayers are exempted for the new interest deductibility limitation, including small businesses 
+with average annual gross receipts of $25 million or less for the three prior taxable years, as well as real 
+estate businesses that elect out of such limitation. The Conference Committee Report on the Tax Act 
+clarified that interest paid on shareholder loans by a blocker corporation is "business interest" that is 
+subject to this new limitation. Blocker corporations for a lending business would have business interest 
+income, which reduces the effect of this new limitation on net business interest expense (i.e., deductible 
+business interest expense in excess of business interest income). 
+4. Deemed Repatriation Tax 
+HOUSE OVERSIGHT 026782 
+One of the major tax raising provisions in the Tax Act is a one-time tax imposed on the accumulated 
+earnings held in foreign subsidiaries of US companies. This provision is broader that it may first 
+appear. Under the Tax Act, any 10% US shareholder of a foreign corporation (determined on December 
+31, 2017) will be required to include in income, for the taxable year 2017, its proportionate share of the 
+foreign corporation's undistributed earnings, if the foreign corporation is either a controlled foreign 
+corporation (CFC) or has at least one 10% US shareholder that is a corporation. 
+This law change could generate significant phantom income with respect to 10%-or-greater owned 
+foreign portfolio companies both (i) for US taxable investors (including the general partner and its 
+owners) in partnership funds organized in the United States and/or for US sponsors of non-US 
+funds. The Tax Act provides for reduced tax rates on such income for corporate investors of 8% (for 
+earnings invested in tangible business assets) and 15.5% (for cash and cash equivalents), and 9.05% and 
+17.54% for investors taxed as individuals. 
+5. Tax-Free Section 1031 Like Kind Exchanges Eliminated Except for Real Property Transactions 
+The Tax Act eliminates the ability to qualify for tax-free exchange treatment under Code section 1031 if 
+the property being exchanged is personal property. Consequently, for transactions occurring after 
+December 31, 2017, exchanges of artwork, equipment, vehicles or other personal property held for 
+investment or for use in a business, including Bitcoin or other cryptocurrencies, for like kind property 
+will not eligible for Section 1031 tax treatment. Exchanges of real property continue to be eligible for 
+Section 1031 exchange treatment. 
+6. Certain Tax Accounting Rules Have Been Revised 
+Under prior law, net operating losses (NOLs) could be carried back two years and carried forward for 
+twenty years. Under the Tax Act, NOLs arising in tax years ending after December 31, 2017 generally 
+cannot be carried back, but can be carried forward indefinitely. However, only 80% of a company's 
+taxable income is permitted to be offset by NOLs. The remainder of the unused NOLs will carry forward. 
+The Tax Act also expands the category of corporations and partnerships that are eligible to use the cash 
+method of accounting. Certain businesses may derive a tax benefit by switching from the accrual 
+method to the cash method of accounting. 
+7. Deferred Compensation 
+The Tax Act generally leaves the current tax rules for deferred compensation intact. However, the Act 
+also includes a new deferral provision for certain types of broad-based employee equity, which may 
+apply to certain private companies. 
+8. Estate and Gift Tax Changes 
+In 2017, an individual could give or transfer at death up to $5,490,000 without paying gift or estate taxes. 
+The Tax Act doubles the federal estate and gift tax unified exemption amount for estates of decedents 
+dying and gifts made after December 31, 2017, and inflation adjustments will continue to 
+apply. Therefore, in 2018, an individual has approximately an $11.2 million exemption, and a married 
+couple has approximately $22.4 million of available shelter from federal gift and estate taxation. Note 
+that the large exemption which applies to gifts may be useful in federal income tax planning. For 
+example, large lifetime gifts of appreciated securities, artwork and other personal property (including 
+possibly, a carried interest) to relatives who are in lower income tax brackets, or who reside in states 
+with lower, or no state income taxes could save the family substantial federal income and/or state 
+income taxes when such property is sold by the recipient of the gift. 
+HOUSE OVERSIGHT 026783 
+Sadis & Goldberg LLP 
+Please feel free to discuss any aspect of this Alert with your regular Sadis & Goldberg contact 
+whose names and contact information are provided below. 
+Alex Gelinas, 212.573.8159, agelinas@sglawyers.com  
+Daniel G. Viola, 212.573.8038, dviola@sglawyers.com  
+Danielle Epstein-Day, 212.573.8416, depstein@sglawyers.com  
+Douglas Hirsch, 212.573.6670, dhirsch@sglawyers.com  
+Erika Winkler, 212.573.8022, ewinkler@sglawyers.com  
+Greg Hartmann, 212.573.8030, ghartmann@sglawyers.com  
+Jeffrey Goldberg, 212.573.6666, igoldberg@sglawyers.com  
+Jennifer Rossan, 212.573.8783, kossan@sglawyers.com  
+Mitchell Taras, 212.5738417, mtaras@sglawyers.com  
+Paul Fasciano, 212.573.8025, pfasciano@sglawyers.com  
+Paul Marino, 212.573.8158, pmarino@sglawyers.com  
+Richard L. Shamos, 212.573.8027, rshamos@sglawyers.com  
+Robert Cromwell, 212.573.8034,  rcromwell@sglawyers.com  
+Ron S. Geffner, 212.573.6660, rgeffner@sglawyers.com  
+Sam Lieberman, 212.573.8164, slieberman@sglawyers.com  
+Steven Etkind, 212.573.8412, setkind@sglawyers.com  
+Steven Nuttier, 212.573.8424, shuttler@sglawyers.com  
+Yehuda Braunstein, 212.573.8029, ybraunstein@sglawyers.com  
+Yelena Maltser, 212.573.8429, ymaltser@sglawyers.com  
+If you would like copies of our other Alerts, please visit our website at www.sglawyers.com and 
+choose "Library." 
+The information contained herein was prepared by Sadis & Goldberg LLP for general 
+informational purposes for clients and friends of Sadis & Goldberg LLP. Its contents should not 
+be construed as legal advice, and readers should not act upon the information in this Alert 
+without consulting counsel. This information is presented without any representation or warranty 
+as to its accuracy, completeness or timeliness. Transmission or receipt of this information does 
+not create an attorney-client relationship with Sadis & Goldberg LLP. Electronic mail or other 
+communications with Sadis & Goldberg LLP cannot be guaranteed to be confidential and will 
+not create an attorney-client relationship with Sadis & Goldberg LLP. 
+Sadis & Goldberg LLP 551 Fifth Avenue, 21st Floor New York, NY 10176 212.Q47.3793 
+Copyright (c) 2018 Sadis & Goldberg LLP 
+HOUSE OVERSIGHT 026784 
+Sadis & Goldberg LLP, 551 Fifth Avenue 21st Floor. New York NY 10176 
+SafeUnsubscribeTM richarddavidkahn@gmail.com  
+Forward this email I Update Profile I About our service provider 
+Sent by sgalert@sglawyers.com  
+HOUSE OVERSIGHT 026785 

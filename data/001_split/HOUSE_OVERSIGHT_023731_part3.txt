@@ -1,0 +1,1621 @@
+for patients who have sports-related injuries. In the process
+students produce in-depth reports on additional issues related
+to sports medicine.
+92 Teaching Minds
+5. Designer Genes—Students consider ethical and political issues
+related to genetic engineering, for example, cloning, gene
+therapies, and the manufacturing of drugs. In the process
+they learn about DNA and the basics of genetic engineering.
+6. Plant Plague—Students working for a fictional county farming
+agency are faced with an anomalous powdery mildew that
+has infected wheat in their local area. They investigate how
+the new strain of mildew arose and how it spread to this area
+and crop in particular. They work to develop a treatment for
+the current crop; then they develop a way to alter the wheat
+or the way in which it is grown to prevent future fungal
+outbreaks.
+7. Medical Detective—Students work with the fictional county
+medical examiner to conduct medical investigations. They
+are asked to determine the time and cause of death for
+various mysterious cases.
+8. Cutting Costs Without Cutting Care—In this rotation,
+students consider business aspects related to healthcare.
+Students play the role of a hospital consultant whose job
+it is to discern why the hospital is losing money and make
+recommendations for correcting the situation. In the process
+they confront ethical issues related to cutting costs in the
+area of healthcare.
+9. Outbreak—In this rotation, students work in the areas
+of infectious disease, epidemiology, and public health
+administration. They begin by diagnosing the cause of a
+fictional patient’s infection that stems from bacteria in a
+food item. They then learn that many people across the
+country have been found with similar illnesses. Students
+have to develop a plan to manage the outbreak due to the
+availability of the food item to a wide population. Later they
+are fictionally hired to develop a readiness plan for a possible
+worldwide pandemic.
+Students spend weeks in each rotation. What do they learn?
+Remember, the answer cannot be that they learn about health sciences.
+Why not?
+Because that is really not the issue. No high school student learning
+a subject really learns that subject. Students forget what they have
+New Curricula for a New Way of Teaching 93
+learned in a day or in a week or a year. Professors always assume that
+entering high school students need to be retaught the basics. They
+may pick up the general idea but in reality the content of the subject
+area is, at best, vaguely understood. What they can learn is that they
+like a subject or have an interest in learning more.
+The only other thing they can learn involves the 12 cognitive processes.
+So let’s look at how the health sciences curriculum covers these
+processes.
+By explicit design, all of the health science rotations emphasize all
+four of the “social processes.” The students work in teams (teamwork),
+sometimes even in collaboration with other teams. The students and
+teams necessarily try to influence one another, negotiate with one another,
+and constantly have to describe their points of view and their
+results. The step-by-step instructions that are part of every rotation
+explicitly discuss how best to handle this. Now let’s look at four of the
+rotations in detail.
+INTERNAL MEDICINE
+The essence of this rotation is learning about how to do diagnosis,
+in this case, of liver disease. Students watch a detailed interview with
+the patient, select (after some orientation) specific tests to administer,
+receive the results, and report suggested diagnoses. They must communicate
+what they have discovered. So they describe the patient’s
+symptoms and must analyze and discuss the causation of the patient’s
+symptoms. Then they begin to plan a course of action. Planning what
+to do is a major component of this rotation. To do this they must
+make a judgment as a crucial part of the diagnostic work. They must
+do this again as well in the ethics unit that occurs later in this rotation.
+In that unit they undertake a detailed study of both medical and ethical
+issues in liver transplantation—which is where evaluation comes
+into play. Here the students become consciously aware of their values
+as they decide how to influence medical and ethical choices.
+SUPER WORM
+The students plan carefully for this unit (a hypothetical redesign of the
+earthworm to make it even more helpful in agriculture). Hypothetical
+94 Teaching Minds
+experimentation is performed repeatedly as the students predict the
+effects of various modifications of the worm’s anatomy. Describing
+their conclusions is important—the project’s goals; the worm’s anatomy,
+physiology, and behavior; and the interaction of anatomy and
+function.
+SPORTS MEDIC
+The core of this rotation is four athletic injuries. In each case the students
+examine the patients, describe their observations in detail, and
+perform a formal differential diagnosis. The students must use judgment
+and modeling to predict the effect of providing a competitive
+athlete with an artificial bone implant.
+DESIGNER GENES
+This rotation has three primary activities. In all three, evaluation plays
+a role as they discuss genetically modified animals, crops, and muscles.
+Describing, planning, and influence all are involved as the students
+prepare a congressman for hearings. All four of the social processes
+come into play in formal debates.
+What should be clear here is that what the health sciences curriculum
+seems to be about and what it is actually about are very different
+things. It seems to be about teaching health sciences content, when
+what it is really about is having students practice various cognitive
+processes that occur again and again throughout life. This was the goal
+of the design, pure and simple: to help students practice thinking. It
+really doesn’t matter what arena they are thinking in. We get them
+interested in thinking by having them think about something that
+interests them and is connected to a world they may wish to explore
+later on in life. They may indeed learn something about that world as
+well, but the point is the cognitive process-based education, not the
+subject-based education.
+I thought of the idea of building SCCs instead of using the normal
+set of courses that constitute most students’ school year when I took
+a job with Carnegie Mellon University (CMU) as the Chief Education
+Officer of its new West Coast campus, located in Silicon Valley. There
+New Curricula for a New Way of Teaching 95
+were no faculty located at this campus, since Carnegie Mellon is in
+Pittsburgh. I took this as an opportunity, not as a problem, since faculty
+want to teach the way they always have taught. Lecturing is easy
+and faculty like to do it. Students have learned to cope with lecturing
+and later cramming for tests, so no one complains much. No one
+learns much from this, but no one seems to be too concerned about it.
+I was asked to design master’s degree programs in computer science.
+It seemed to me that students entered a master’s degree program
+because they wanted to get a good job after graduation, so I asked
+what jobs they were preparing for as I looked at each Pittsburgh campus
+program. Even though the faculty in Pittsburgh had been teaching
+these master’s degree programs for years, faculty members were
+surprisingly unconcerned with what students did after graduation.
+They just taught their courses, their specialties actually, and assumed
+the students would find value in them. This seemed an odd state of
+affairs to anyone who looked at it from the outside, but as professor I
+know that faculty are rarely concerned with master’s degree students
+at all and naturally wouldn’t have given these programs that much
+thought.
+There was a great deal of hostility to the SCCs that were built by
+my team and me. They were seen as threatening the existing structure
+of courses and lectures. Nevertheless, the students liked them a great
+deal and the people who mentored in them, after some initial resistance,
+began to like them and promote them. This happened in the
+areas of software engineering and software development.
+The faculty in e-business liked what we had built so much that
+they got rid of the existing course-based, e-business master’s degree
+they had offered in Pittsburgh and now offer only the SCC version on
+the main CMU campus.
+SCCs work and work well. Students learn actual skills and teachers
+feel like they are helping students do something real. But faculty,
+who are used to the old classroom-style method, often resist doing the
+hard work now required of them. This is true for students as well. One
+mentor in the West Coast e-business program who himself had graduated
+from the Pittsburgh classroom-based program said that he felt
+sorry for the kids on the West Coast campus because they had to work
+so hard. He noted that they were learning a lot more than he did but
+that he had liked sitting in the back of the classroom and ignoring the
+teacher. It was much easier and he had done well at that.
+96 Teaching Minds
+A story-centered curriculum is intended to teach cognitive processes,
+not subjects. Subjects are, of course, covered, but they are not
+really the point. Certain things need to be done again and again in
+life, but those things can be learned only in context, not as an abstraction.
+Different contexts must be provided in order to motivate
+students and to provide real-world skills that will be remembered, not
+because they were studied and tested, but because they were practiced
+again and again.
+What is life like in a story-centered curriculum? The first ones we
+built were built as master’s degree programs at Carnegie Mellon’s new
+West Coast campus. Here is Max Soderby, a mentor in the first one of
+those master’s programs, talking about his experience:
+I am almost jealous in a way because I see that they are gaining
+skills more rapidly than I gained them when I was a student in
+Pittsburgh at CMU’s campus. They get exposure to things that
+we just talked about in a lecture hall, whereas they are actually
+doing it: implementing actual software and putting designs
+into practice. We mostly did homework and talked about it in a
+lecture hall. So I am jealous in that respect. It is also a lot more
+work, but that work pays off for the students.
+Subject-based education is not really supposed to be training for work.
+I once proposed to the president of Yale (Bart Giamatti) that we build
+a master’s degree program in an area of computer science that would
+help get people jobs after graduation. He said that that was training
+and that Yale does not do training. The academic subjects taught at
+Yale are meant to produce scholars. But, in a way, he was very wrong.
+Yale does do training. Yale and almost all other colleges are divided
+into departments, and a major in a department’s subject typically
+is seen by the faculty as preparation for an academic career in that
+subject.
+The students may well have a different point of view, however.
+Unfortunately, they come away disappointed. An English major could
+be hoping to become a journalist, but the education that he will receive
+is more likely to be appropriate for creating an English professor.
+A math major may well want to be an actuary, but will not learn
+actuarial science at Yale. He will learn to be a potential mathematics
+professor. And, worst of all, in my own field of computer science, the
+New Curricula for a New Way of Teaching 97
+very idea that a Yale degree would make you capable of getting a good
+job as a programmer is frowned upon by the faculty. They are training
+computer science professors. This is the logical end result of subjectbased
+training.
+Now, what Giamatti had in mind as the end goal of college,
+training for the mind, is a noble enough ideal, and a natural outcome
+of cognitive process-based education. The classic liberal arts
+view of education, one that a reader might think I am not in favor
+of, is actually a better model than the model that has evolved in the
+nation’s top universities. The idea that you should try thinking in
+a variety of fields is a better plan, and one more in line with what I
+am proposing here, than the model that exists on most universities’
+campuses. The latter model, the one that makes students major in a
+subject and thus supposedly become prepared to work in that field,
+is really just a big lie.
+There is nothing unusual here. Here again, is a statement from the
+Ivy League professor whom I quoted earlier:
+There is an unspoken rule at places like my university that if you
+are really good, you do exactly what your teacher does.
+So what are these schools training students for? It could be only one
+thing—to become professors. There is no attempt to teach practical
+real-world applications of the ideas taught in classes, in part because
+the faculty themselves don’t know those applications. Here is the Big
+Ten computer science professor again:
+There are roughly 60 faculty members in computer science. They
+cover all the traditional areas of computer science. Ironically,
+software engineering, which is what 90% of the undergraduates
+do when they graduate, is not covered. It is not considered an
+intellectual or academic discipline. It is considered too practical.
+There is only one software engineering course and it is taught by
+an adjunct because no one really cares about it.
+This is a real problem because (the Big Ten professor again). . .
+There are hundreds of computer science majors here. The
+faculty doesn’t feel it needs to change because there are students
+98 Teaching Minds
+clamoring for what is now offered. Ninety-eight percent of them
+want to be programmers. Almost none of them want Ph.D.s.
+I cannot go to a faculty meeting any more. I get into a fight
+at every faculty meeting. I argue about teaching and education
+and they think they know because they are professors. I cannot
+subject myself anymore to their abuse.
+These problems exist precisely because of the subject-based
+education system. That system is about factual knowledge, and it is
+this emphasis on factual knowledge that has given rise to the testing
+mania that has swept the country. These problems exist because the
+real mission of the university is very different than the general public
+imagines.
+Here is a quote and a story that I rather like:
+A university is what a college becomes when the faculty loses
+interest in students.—John Ciardi
+Benjamin Franklin told the story of some Massachusetts
+commissioners who invited the Indians to send a dozen of their
+youth to study free at Harvard. The Indians replied that they
+had sent some of their young braves to study there years earlier,
+but on their return “they were absolutely good for nothing,
+being neither acquainted with the true methods for killing deer,
+catching beaver, or surprising an enemy.” They offered instead to
+educate a dozen or so white children in the ways of the Indians
+“and make men of them.”(From Benjamin Franklin, An American
+Life, by Walter Isaacson)
+What has changed? Key life skills no longer include catching beaver.
+Otherwise, things are pretty much the same. Change “catching beaver”
+to any modern daily skill, and Franklin’s story is just as valid
+today.
+What do students really learn at a great university? Parents never
+really ask this question. They just know that their kid got into a good
+college and that their child is lucky to go there.
+Should you avoid sending your child to top schools because they
+don’t teach so well there and really don’t plan to improve the situation
+any time soon?
+New Curricula for a New Way of Teaching 99
+No. Of course not. If your child gets into Yale, send her there. It is
+a great place. But you should know what Yale actually has to offer and
+what it doesn’t.
+If your child wants to be a professor, Yale is the place.
+If your child wants to be an intellectual, Yale is the place.
+If your child wants to go to law school, Yale is the place.
+If your child wants to hobnob with the best and brightest, Yale is
+the place.
+If your child wants to have a fun time for 4 years, Yale is the
+place.
+Then what is wrong?
+There is a problem only if you think that there is a different reason
+to go to college than the reasons I have listed above.
+Oh. There is this other problem. Many of the other 3,000 colleges
+are trying very hard to imitate Yale. They attempt to provide similar
+experiences and they can’t pull it off. Yale is a unique place. The nation
+can afford only so many unique places, however. We cannot afford
+having the main university of a state thinking it is Yale, as my
+state university friend suggests. If every university has as its main focus
+research and not education, then the best and brightest of each
+state will be trained, not necessarily willingly, to be academics rather
+than practitioners. There will be a great many students who came to
+school for an education that will help them in their future lives who
+will be disappointed to find out that that is not the type of education
+being offered.
+Professors at Yale are playing the prestige game. Unfortunately,
+they are hardly alone in this.
+My state university professor again:
+We definitely want to be part of the superstar system but we have
+no superstars. If we had them, we would probably lose them to
+Harvard and Yale anyway. Nevertheless, we are obsessed with
+the National Rankings put out by places like U.S. News and World
+Report. Faculty and deans say they are not obsessed with them,
+but rankings are an important part of the evaluation process and
+shape a department’s growth. We want to be in the top 4 or 5
+universities. We are not but that’s what we want to be.
+100 Teaching Minds
+U.S. News and World Report’s annual rankings weigh heavily on the
+minds of the faculty and administration of universities who are in
+the prestige game. These rankings are based on numbers: average SAT
+scores of admitted students, average rank in class of admitted students,
+faculty publications, and many other numbers that come out in favor
+of research universities with world-class faculty. But world-class faculty
+means faculty who care about research and not about teaching.
+While there certainly is no harm in going to Harvard or Yale, the success
+of their students hardly depends on what they learned in those
+places and depends a great deal more on the fact that the best and the
+brightest are the ones who go there in the first place.
+These places get away with teaching courses in obscure issues in
+literature and history, or in economic theory or in complex mathematics,
+by pretending that they are really teaching students to think.
+But does knowing obscure information necessarily imply that one is
+a good thinker?
+A good thinker, I claim, would be good at each of the 12 cognitive
+processes.
+What does it mean to be good at prediction, for example? Is a
+2-year-old good at prediction? Is a dog good at prediction? Is a professional
+gambler good at prediction? Is a stock trader good at prediction?
+Is a mother of a toddler good at prediction? Is a politician good
+at prediction? Is a scientist good at prediction?
+We actually are quite good at assessing the ability of others at prediction
+precisely because we have data to support our conclusions. We
+know how good gamblers or stock traders are at predicting. If they are
+very successful, we can say they are brilliant at what they do, or we can
+say they are lucky. Those are our choices.
+The same is true of scientists. Most scientists make predictions,
+and those that are proven right are seen as brilliant. Luck enters into
+science as well and quite often scientists say that a given Nobel Prize
+winner was lucky and isn’t really all that bright.
+Dogs are seen as being smart (for a dog) when they can correctly
+predict the arrival of their master or bad weather or threats, and are
+seen as stupid when they bark at thunder. Their behavior is seen as
+stupid precisely because of the erroneous prediction that barking will
+scare the thunder away. A dog’s inability to predict is exactly why we
+think dogs are dumb animals, and when they surprise us with an accurate
+prediction, they are seen as smart. Of course, we don’t expect
+dogs to predict who will win the big game. We know their limitations.
+New Curricula for a New Way of Teaching 101
+But it is not only the accuracy of predictions that factors into our
+sense of a person’s or an animal’s ability to think. We say that a person
+is intelligent even when he predicts badly, if he gives good explanations
+for his predictions even though they don’t pan out.
+So when a sportscaster gives his prediction about the outcome of
+an upcoming game, we think he is intelligent if he has thought it out
+carefully, and if his explanation is coherent, and if his reasoning is
+sound, and we give extra credit if some of his ideas are surprising in
+some way. So, even if he subsequently turns out to be wrong, we still
+think he is good at thinking.
+But prediction is actually quite complicated to judge. We respect
+great predictors. We think people who can predict well, especially
+those who can explain their predictions well, are very intelligent. But,
+often, we see intelligence when it may not be there. The reason is
+scripts. And we may fail to see it when it is there. The reason for that
+is explanations.
+Scripts and explanations are at the beginning and at the end of
+intelligent behavior. What do I mean by that?
+When a child is learning about the world, she is learning the
+scripts that commonly are followed in the world that she inhabits.
+I have explained this at length in two different books, 1 so I will just
+summarize here.
+Scripts tell us what will happen next in the aspects of the world
+that repeat frequently. Anyone who goes to a restaurant knows that
+when you order food, someone will bring it to you and later you will
+be expected to pay for it. There are lots of variations on this standard
+restaurant script, however. It doesn’t work quite like that at Burger
+King. The script is different but there is a script there too and we learn
+it if we frequent Burger King. The restaurant script has many variations
+and we are initially confused when we encounter a new one, but
+we learn through repeated practice. And, we generalize so that we can
+understand that the McDonald’s script is pretty much the same as the
+one at Burger King.
+We can predict what will happen next in the world based on experiences
+we have repeated. Following scripts is so normal that it is
+not seen as a sign of intelligence to be able to do it. We don’t exclaim:
+Wow, he predicted that the waitress would bring what we ordered and
+she did. Amazing!
+But the opposite is certainly seen as a sign of stupidity. Once one
+has experienced something many times, one should know what will
+102 Teaching Minds
+happen next in that arena. Dogs usually know the scripts that pertain
+to them, as well. They know which merchant will have the dog biscuit
+for them, for example.
+People seem astonishingly dumb when they can’t predict what
+is obvious to everyone else. Not knowing what will happen next in
+a script you don’t know, because you don’t have the relevant experience,
+means nothing at all, of course. The question is: If you have
+experienced something repeatedly, why haven’t you figured out that
+what you have seen before will happen again?
+Script following is, therefore, a sign of intelligence but a very limited
+one. We can blindly follow a script, and this can make us seem
+dumb indeed. Since scripts vary one from the other in many ways,
+the ability to see the nuances makes all the difference. Expecting that
+a fast-food restaurant will be the same as a three-star Michelin restaurant
+because it is a restaurant after all is what makes people seem
+stupid. Failing to make the right generalizations indicates a lack of
+thought.
+The real question is this: What do you do when your script fails?
+This is important because scripts fail all the time. You expect something
+to happen and it doesn’t. You love the cheesecake at Lindy’s and
+suddenly it doesn’t serve cheesecake. Or you find that Lindy’s is now
+out of business. What do you do? People recover from script failure on
+a daily basis. How they do this tells us a lot about how the mind works.
+When people refuse to abandon the generalizations they have
+made, they immediately are perceived as being stupid. When a medical
+assistant asked me the other day about the upcoming Thanksgiving
+holiday, I responded that I would be eating duck instead of turkey.
+She said that sounded awful and that duck was greasy and gamey and
+it sounded like a terrible idea. I asked her if she had ever eaten duck
+and she said no because it was game and she hated game. I told her it
+wasn’t gamey. She refused to believe me. I was about to recommend
+trying magret de canard but thought better of it and asked if she had
+ever eaten in a French restaurant in her life. She said that she hadn’t.
+People who have scripts often generalize them so that in their own
+minds they experts on things that they have never experienced. This
+is what stupid looks like.
+On the other hand, we might wonder what smart looks like. Let’s
+imagine the same woman with the same beliefs hearing me say that
+duck was not gamey or greasy. Intelligent people respond, when they
+New Curricula for a New Way of Teaching 103
+are confused, or when a long-held belief is challenged, with a request
+for evidence. She might have asked where she might try duck or what
+duck tasted like since she had not understood it correctly. She might
+have allowed for the possibility that she was wrong and asked to know
+more. But she didn’t. People who aren’t intellectually curious rarely do.
+This kind of dull thinking is not so much a matter of genetics as it
+a matter of not having been educated properly. And, that is, of course,
+the real issue here. If a child grows up in a world where questions are
+expected and where long-held beliefs can be abandoned because of
+new evidence, he will seek such interactions. But a child who grows up
+in a world where adults set themselves up as knowing everything and
+no one’s beliefs are ever questioned, you will get mindless behavior
+like this.
+Of course, it doesn’t matter if this woman doesn’t try duck. It
+is likely, however, that this behavior pattern—learn rules and never
+question them—pervades her life. This leads me to my main point.
+Scripts are great things to have. They get you through the airport.
+They get you through Burger King. They get you through most of the
+mundane aspects of life. But scripts need to be modified. They fail all
+the time. The airport starts a new check-in procedure. The restaurant
+you always go to deletes your favorite item from the menu. The store
+you always shop in is getting very crowded. At some point we encounter
+script failure and we deal with it. The question is how.
+We deal with script failure using two key procedures. It is our facility
+with these procedures that differentiates intelligence from stupidity.
+Thinking depends on them, and everyone must do them when
+trying to think. But not everyone does them well.
+The procedures are:
+Generalization
+Explanation
+These are not new ideas in the context of this book. Explanation is
+one kind of describing. Generalization is the method by which we do
+prediction, make judgments, do diagnosis, and determine causation.
+We generalize whenever we try to think.
+This entire book is a generalization. It is an attempt to make
+sense of a vast array of information. That is what generalization is all
+about. The book is also an explanation of the generalizations I have
+104 Teaching Minds
+found to be true. At the core of thinking, you find generalization and
+explanation. But it is important to remember that what starts the
+process of generalization and explanation is failure. Without failure
+we don’t try to generalize and explain because we have nothing to
+generalize and explain. Thinking, therefore, looks like this:
+Make a prediction
+Prediction fails
+Make a generalization
+Explain your generalization
+Make a new prediction
+Let me explain how this works and why one cannot think well if one
+cannot do this. To explain, I will tell a personal story relating to my
+own thinking and learning with respect to two of the twelve cognitive
+processes. I will explain afterwards why I have chosen to tell stories
+and why I have used personal ones.
+DESCRIBING
+Let’s start with describing. There is, of course, an art to describing.
+Anyone who writes and anyone who speaks publicly is learning all the
+time about describing. Since I was a professor for 30 odd years, and
+since I have written hundreds of papers and about 25 books, and since
+I have given numerous keynote speeches around the world, I have
+been thinking a great deal about describing for many years. I learn
+something whenever I speak publicly because I can easily tell whether
+I am being heard or not. Are the listeners on the edge of their seats or
+are they half asleep (or literally asleep)? I learn when I write because I
+read the reviews, and colleagues are always happy to tell me what was
+wrong with what I wrote.
+Once, I was given a lesson in public speaking by someone older
+and wiser than me that I never forgot. I recently had been hired at
+Stanford as a professor. I was pretty young (22) and full of myself. In
+those days, the Computer Science Department ran a course for new
+graduate students that served as an introduction to all the special research
+possibilities in artificial intelligence for those who wanted to
+enter that field. There were many faculty in AI at Stanford and each
+New Curricula for a New Way of Teaching 105
+got a week to talk about what his work was about. The goal was to try
+to convince students to sign up for a special research seminar with
+that faculty member the following quarter.
+My champion at Stanford was a psychiatrist named Kenneth Colby.
+He invited me to share his week and thus we would be a team for
+which students could sign up the following quarter. I listened to his
+talks to the students. He was very funny but rather light on content, in
+my opinion. I wasn’t impressed. But, after I spoke, he said something
+to me I never forgot. He said: If you try to say everything that you
+know in an hour, either of two things is true. Either you can do it and
+therefore you must not know very much, or else you can’t do it and
+you will talk way too fast trying to fit it all in and you will be generally
+incomprehensible.
+I listened to what he had to say, but I wasn’t sure he was right. At
+the first meeting of our jointly run seminar, we discovered that we
+had won the student jackpot. While other faculty had gotten four or
+five sign-ups, we had gotten 25. I was very proud of myself until the
+students went around the table to say who they were and why they
+had signed up. Not a single one of them had signed up because of anything
+I had said. They had been mesmerized by Colby.
+Then I reheard in my head what Colby had told me the previous
+quarter. He had entertained them—not overwhelmed them. They
+thought he would be interesting and fun and they wanted to work
+with him. While I had looked down on his lighthearted presentation
+style, it turned out he knew what he was doing.
+So, what did I learn and how did my thinking change? Thinking,
+as I said earlier, looks like this:
+Make a prediction
+Prediction fails
+Make a generalization
+Explain your generalization
+Make a new prediction
+What was my prediction? I had predicted that speaking quickly with
+a great deal of brilliant content would woo the incoming students.
+This was simply wrong. I needed to make a new generalization. Fortunately,
+I did not have to do the work myself. Colby had helped me by
+supplying a generalization that he believed to be true. (Good teachers
+106 Teaching Minds
+do exactly this: They supply generalizations when a student needs one
+and cannot come up with one by himself after a prediction that he
+made has failed.)
+The generalization that Colby supplied was, more or less: Be entertaining
+if you want to attract followers and be listened to.
+Was he right? Is this a good generalization?
+The next step in thinking is: Explain your generalization. What
+this means here is that I needed to understand why this might be
+true. If possible, one wants to test out the new hypothesis. Fortunately
+for me, I had many opportunities to speak in public over the next 40
+years. I tried many different methods of teaching and lecturing. Entertaining
+always works. Colby was right.
+But I said that one needs to explain why it works. This is my explanation:
+People have trouble paying attention to someone who talks for
+an hour. Human beings are not built for this. Our ancestors certainly
+didn’t listen to lectures. People communicate best by asking questions
+and interrupting. Since this isn’t possible in a lecture, any questions
+they might ask, they ask themselves and try to answer. While they are
+thinking about what a speaker says, the speaker keeps on talking. No
+one can really hear a lecture, in my opinion. So, a good speaker, recognizing
+this, does not try to make the audience do that. He makes them
+laugh, he paints interesting pictures for them to ponder, he amazes
+them perhaps, but he does not try to get them to, nor does he expect
+them to, remember all that he has said. The less content, the more
+likely they will remember. Colby knew all this. I learned it over time.
+He jump-started my thinking.
+By now, this new generalization of mine, together with my explanation,
+is part of my core beliefs. But any belief can be challenged by
+reality. And, any new belief generates new predictions. So I predicted
+that if I was funnier when I spoke, people would appreciate what I
+said more. I also predicted that if I didn’t speak much in a graduate
+seminar and let students argue with one another, they would get more
+out of it. After 40 years I still believe these things. But, and this is the
+important part, there are nuances upon nuances about all these issues
+in my memory. I need to explain it simply when I write or speak
+about it, but when I think about it, I recall all kinds of exceptions and
+caveats. I know, or at least I think I know, a great deal about speaking
+and have lots of memories about specific successes and failures.
+Thinking and learning require one to recall one’s experiences, analyze
+those experiences, come up with new hypotheses about failures, make
+New Curricula for a New Way of Teaching 107
+new predictions, and be prepared for these predictions to fail. This is
+what thinking looks like no matter which cognitive process is being
+thought about and practiced.
+DIAGNOSIS
+Now let’s talk about diagnosis. Again I will start with a story. This is
+one I have been telling for a long time because it informs us about
+how the mind works.
+I was discussing with my colleague (Bob Abelson) how it could
+be that my wife could not seem to make steak rare (as I like it—she is
+no longer my wife, but not because of this). Bob responded that he
+couldn’t get his hair cut as short as he wanted in England 20 years
+earlier.
+This seems on the surface to be a rather odd response, but when
+we look deeper we can see that I was saying something like, She could
+do this right if she wanted to, and he was thinking, Maybe she thinks
+the request is too extreme, as happened to me with a barber in England
+many years ago.
+Matching odd situations to other odd situations and seeing the
+similarity is what creative thinking is all about. Bob was trying to diagnose
+a problem that had been on his mind for a long time, and my
+new story provided him with new evidence to think again about what
+the proper diagnosis might be. This is what thinking looks like. It is
+also what reminding looks like. People get reminded precisely because
+they are trying to match a new situation to one they already know
+about and thereby determine what to do next. To put this another
+way, diagnosis depends on prior diagnosis. We constantly are trying
+to improve our diagnostic capability because we always strive to make
+better decisions no matter what arena these decisions are in. The fact
+that the improvement of diagnostic capability is not explicitly part of
+each and every curriculum in school is scandalous.
+When we design new curricula, we need to ground them in some
+realistic framework that will enable students to practice things that
+they might end up doing in the real world. But that does not mean
+that the real issue in designing these curricula is anything other than
+teaching thinking, that is, enabling practice in the 12 cognitive processes.
+However, teaching thinking in the absence of a context that
+truly interests students is absurd.
+
+CHAPTER 9
+How to Teach the Twelve Cognitive
+Processes That Underlie Learning
+The art of teaching is the art of assisting discovery.
+—Mark Van Doren
+We need to completely redefine what we mean by school and what we
+do in school. We need to think about education in a new way. Rather
+than wanting people to be educated, which usually means being able
+to quote Shakespeare or nod sagely when Freud’s name is mentioned,
+we need to expect people to be able to think well. Education would be
+better defined by defining an educated person as one who can make
+well-reasoned arguments for what they are about to do.
+We must focus on teaching cognitive processes and abandoning
+the subject-based (and test-based) education system we have now that
+is clearly failing. The reason we have all those tests is simply because
+we have no idea how to make people learn all the stuff that is part of
+that subject-based system without threatening them. No one really
+wants to learn the Pythagorean theorem or information about the Taft
+Hartley Act. Let scholars know about these things; the average person
+just doesn’t need to know this stuff.
+But all people do know how to find and use the mathematics they
+need when they have continually practiced it, and they know how to
+find prior relevant experiences when they have to come up with a new
+plan they want to propose. That simply does not mean we have to tell
+it all to them years before they might ever make use of it.
+In the age of the Internet, just-in-time learning is a serious reality.
+We can change things now in part because we have information readily
+available online. But the Internet has been designed by committee.
+It has much in it that is nonsense, and finding what you need just in
+time can be quite difficult. Still, it would not be that complicated to design
+a different kind of Internet, the moral equivalent of Encyclopedia
+109
+110 Teaching Minds
+Britannica, if you will. It would be filled with knowledge from experts
+that had been vetted by other experts and delivered seamlessly without
+your having to search for it. You don’t need to be a scholar in order
+to make reasoned decisions. You just need to know how to find information
+to help you think things out well. This means that learning
+to think clearly and knowing how to assess the value of new evidence
+that one has found, must be the main goal of any school system.
+When does school start to falter? One way to think about school
+is to ask about the significance and age-related properties of each of
+the cognitive processes. Let’s see if we can rank the processes in terms
+of age. Which of these processes would we expect a child who was
+entering school to already be able to do? To put this another way, a
+normal 5-year-old:
+1. can make some accurate predictions about very simple
+things, like where his mother might be and what she might
+be doing and what will be on television
+2. would have trouble modeling any process
+3. has a limited sense of evaluation but knows what he likes
+4. would be able to experiment with simple things like food and
+toys
+5. might be able to do limited diagnosis of what might have
+gone wrong in a process, but it typically would be limited to
+explanations that he had heard from someone else
+6. might be able to do limited planning based on plans that had
+been used before
+7. might know something about causation because he would
+have been told about it and remembered what he had been
+told
+8. can make some judgments based on his own tastes and what
+he has been taught about what is good and what is bad
+9. can do some describing, but typically is not at all good at it
+10. should be able to influence some people, especially his
+grandparents
+11. should be able to work in a simple team together with kids
+his own age toward a goal
+12. should be able to do some simple negotiation, especially with
+his parents, siblings, and some friends
+How to Teach the Twelve Cognitive Processes 111
+So, upon reaching school age, a child can do some of the cognitive
+processes. Now the question is, How to we teach him to get better at
+them?
+First let’s see what the cognitive processes fundamentally have in
+common. This will give us a way of thinking about how to teach them.
+The first and most important thing they have in common is that
+they all rely on a case base. We have all engaged in each of these
+processes many times and we have a range of experiences we can call
+upon to guide us the next time we find ourselves doing them. Each
+process relies on a story base as well. We can tell stories about interesting
+experiences we have had in doing each one of them. Stories
+usually revolve around failures, or at least unexpected results, since
+without these there are no good stories to tell. Engaging in any cognitive
+process includes the possibility of making a mistake during the
+process. We expect to get smarter each time as a result of any mistakes
+we make. This is what cognitive processes are like. We learn cognitive
+processes through experience and we index the failures we have so
+that we can find them again and perhaps avoid making the same mistake.
+When we avoid an error that we know we have made previously,
+we say that we have learned.
+It follows, therefore, that acquiring a case base, learning the stories
+of others and learning to tell our own stories, and learning classic
+mistakes and being able to analyze behavior to find a mistake are all
+aspects of learning the cognitive processes.
+Acquiring the case base and consciously analyzing the cases in
+that case base, then, is the fundamental issue in teaching the cognitive
+processes.
+HOW TO TEACH PREDICTION
+We live in a physical world but we also live in a social world. Children
+need to understand that if they drop something heavy on their foot,
+it will hurt; they also need to know that if they do something mean
+to someone, the person may dislike them for it and may seek revenge.
+We use predictions to figure out what will happen as a result of our
+actions and then we use that knowledge to guide us in our future
+112 Teaching Minds
+actions. What kinds of predictions do children regularly make, then?
+And, what can we teach and how can they learn?
+1. Children predict the actions of the people that they interact
+with, but they do not necessarily realize that they do this.
+2. Children predict the reactions of objects and actions in the
+physical world, but they do not necessarily realize that they
+do this either.
+3. Children predict their own feelings and mental states. They
+do things that they think will make them happy, but they
+don’t necessarily realize that they do this either.
+These three worlds, the social, the physical, and the mental, are at the
+center of what adults make predictions about. We predict the speed
+of an oncoming car and decide whether we can cross the street safely.
+Children may not do this so well. We predict what will happen when
+we scream and yell at someone, but children may not predict this too
+well either. We predict events that will make us happy or sad, such as
+taking a nice vacation, or playing a game, or a good meal, or establishing
+a relationship with another person. Children do not consciously
+think about such things.
+But adults do think about these things, so where do children
+learn about them? At the present time, the answer is that they learn
+about them as events happen randomly in their lives. If they are lucky
+enough to have someone helpful to talk with about their experiences,
+they may, in fact, become good at analyzing how the world works
+and making their predictions conscious. Getting better at prediction
+is the cornerstone of living one’s life in a satisfying way. One can, of
+course, get better at prediction by simply thinking about it—this is
+how most people do that today, of course. But not everyone is capable
+of doing that and, clearly, most adults are not all that good at making
+important predictions in their own lives. (This is one reason that
+there are bad marriages, financial counselors, clinical psychologists,
+and prisons.)
+What helps teach one to predict is to hear about the experience of
+others and to be able to reflect on one’s own experience. This means
+that having experiences to reflect upon, and people who are knowledgeable
+to discuss those experiences with, is at the cornerstone of
+learning to predict effectively.
+How to Teach the Twelve Cognitive Processes 113
+This should start as early as 1st grade (or age 5—I don’t really believe
+in grades).
+How do we do it? We design experiences for children that are age
+appropriate and talk about what will happen in those experiences before
+they do them and how they can learn from and improve upon
+those experiences after they happen. Then they undergo a slightly
+more complex experience that builds on what they learned. The process
+is simple enough. The question is what experiences to design,
+how to design them. 2
+I should note that prediction is used as a teaching methodology in
+schools today, especially in reading. I suggested this in a book I wrote
+about teaching reading in 1978, and since that time (not necessarily
+because of that book) it has become more common to use prediction
+to teach reading. Also, high school kids are asked to make predictions
+in courses that cover current events. Kids predict sporting events or
+the sex of their in utero sibling.
+The idea that kids can make predictions is not a really radical
+point. My point is that prediction has to be the curriculum, not be
+ancillary to the curriculum. If we want children to predict well, we
+need to help them do that. As it stands now, they are on their own.
+As adults who have not been taught to predict well, they will make
+poor life decisions, predicting wrongly about how people in their lives
+(bosses, spouses, children, co-workers, etc.) will behave toward them
+after they take certain actions, for example. Yes, understanding is improved
+if one predicts the future actions of characters in a book one is
+reading—it helps a lot. And, reading is a skill that is very important.
+But it also helps to understand how to predict daily actions better and
+how to find out whether you were right and how to explain why you
+were wrong. Doing this consistently makes you better at predicting
+something more important than what an author has a character do
+in a story.
+How do we get good at making predictions about the outcome of
+actions? What outcomes do we need to predict?
+Every action we take involves a prediction. When we put one foot
+in front of the other in an effort to move our bodies forward, we are
+predicting that this will work, that we won’t fall down, and that it
+won’t hurt to do this. Sometimes we do fall or it does hurt. We learn
+this and compensate next time. This is learning in its most basic form.
+And obviously, we have been learning about walking since we were
+114 Teaching Minds
+very small. We keep learning about walking throughout our lives because
+things change.
+Babies predict what will happen when they cry. They don’t start
+out making such predictions. They learn to expect results that they
+have already experienced. These are scripts, and I have discussed them
+at length elsewhere. 3 Scripts are acquired naturally as a result of repeated
+sequences of events. We predict what will happen next because
+we know the script. Scripts are not normally taught because they are
+readily acquired from living. But what if you want to teach them? You
+might want to teach them in a situation where someone’s new job is
+a script and rather than learn that job from repeated experience, there
+is a desire to jump-start the process by simply teaching the script. How
+can we do this?
+There is also prediction that is not script-based. In other words,
+there could well be a script but the predictor doesn’t know it. How can
+one learn to predict well if one does not have a script?
+And lastly, there is often the need to predict when there couldn’t
+possibly be a script because what needs to be predicted is novel, at
+least to the predictor. How can the prediction be made? More important,
+how can someone be taught to predict in that kind of situation?
+These, then, are the three aspects of prediction: learning a script;
+functioning without a script because it isn’t known; and predicting
+when there is no script.
+How do we teach these things? Scripts are learned through repetition.
+No one seeks to explain to a child that since she will be doing
+something again and again, she will now memorize the steps before
+she tries it out for the first time. Instead, we take the child through
+the steps until she has learned them. There is no need to try to teach a
+child scripts (such as how restaurants function or airplane rides go or
+school procedure works). We can say some words about these things,
+of course, but the learning comes from repeated practice no matter
+what we do.
+Teachers (and course designers) often fail to understand about
+teaching scripts. Talking about what a student will have to do later will
+not help that student do what he is being asked to do. We don’t learn
+scripts consciously and thus aren’t likely to remember what we are
+consciously told about what to do. We are conscious when we execute
+a script—we are thinking about what will happen next—but not so
+much in words as in expectations of next events. We don’t talk about
+How to Teach the Twelve Cognitive Processes 115
+one foot going in front of the other foot or think about it very much.
+So if a teacher tries to teach us about it, it is doubtful that the words
+will help us much. Scripts are practiced. We can prepare for them if
+that makes people happy. We can tell a child what will happen when
+he rides in an airplane for the first time, but it isn’t so that he can do
+what he is supposed to do so much as to make him more comfortable
+and less surprised by noises or procedures that might be upsetting.
+The only way to really learn a script is to do it again and again.
+So what does this tell us about teaching scripts? What if we don’t
+have the time to allow a student to practice? This is, of course, what
+happens in job-training situations. We tell someone what to do and
+hope they very quickly will learn how to do it. We can’t afford weeks
+of practice. So how do we teach scripts in that case?
+The answer to this depends on the number of mistakes that it
+is possible to make while executing a script. The real issue in script
+execution is, after all, not knowing the next steps, but knowing what
+to do (or what not to do) when the script begins to falter in some
+way. This means that a teacher (or a course designer) must have one
+question in mind when thinking about teaching a script: What are
+the most common (and most important) mistakes that are made by
+novices when they execute this script?
+To teach people to avoid mistakes in a script, or to teach them to
+get out of difficult situations properly, one must practice those situations.
+This means that script teaching must focus around errors and
+that it is the job of a teacher to systematically make sure that everything
+that could go wrong, does go wrong in any practice situation.
+Teaching scripts means helping the student form a case base of errors
+and a case base of how to handle them. Here again, this cannot be
+taught consciously. Script failures must be taught through practice.
+The students must build up their own case bases by experiencing the
+problem and then either think their way out of it, or learn standard
+solutions as a way out of it by practicing them. So, we can speed up
+the script-learning process by creating a simulation that has every important
+mistake built into it waiting for the student to trip up and
+make that mistake.
+When a script isn’t known and predictions need to be made, the
+usual human procedure is to adapt on old script to serve as a temporary
+new one. Never been on a plane but have been on a train? Never
+been in a fancy restaurant but have been to a fast-food restaurant?
+116 Teaching Minds
+Never been to college but have been to high school? These are situations
+that happen to people. They usually assume that one is like the
+other. While this assumption may not work out all that well, it is the
+best a scriptless person can do in the situation.
+A teacher, therefore, can take advantage of this human desire to
+see unknown A as being like known B. People do this all the time.
+They assume the girl they just met will behave like the last one they
+went out with. They assume that their teacher will behave the way
+their last teacher did. They assume that their new car works the way
+the last one did. They do this with situations as well. What it means is
+that people predict on the basis of experience and it is the job of the
+teacher to help students understand which of their prior experiences
+is most relevant when they are confused. Doing this is not so easy. But
+it is possible and it is a proper area for a teacher or a course to focus on.
+Here is the process. Students need to be asked what to do in a situation
+that is new to them. Their natural response would be to rely on
+prior experience. The teacher’s job is to make that reliance explicit. To
+ask students to say which experience they will rely on for help in the
+new situation and ask why they think that that particular choice will
+be helpful. To ask them to analyze the differences between the current
+issue and the prior script and to predict where the prior script might
+not work. To ask them to think of alternative scripts that might help.
+What I have described here is the basic process of indexing cases
+and matching cases, which is critical to thinking—especially original
+thinking. No case is really exactly the same as one that came before.
+We are used to partial matches when we use an old case to help with
+a new one. What we are not used to is a discussion of why one match
+was correct and why another was less helpful. Making case matching
+a conscious process helps us understand something that we normally
+do without much conscious thought. People need to learn to rely on
+partial matches and they need to know how to determine which partial
+match is most likely. I have referred to this process as case-based
+reasoning in many prior publications. 4 But I have not spoken about
+how to teach case-based reasoning. This is where post hoc discussion
+is very important. An example of such a discussion can be found in
+a book written by Harvard government professors 5 on the failure of
+President Ford to choose the right cases to reason from in a crisis. Usually
+this kind of analysis is done as kind of an afterthought. However,
+teaching people to do it actually is critical to teaching people to predict
+properly.
+How to Teach the Twelve Cognitive Processes 117
+How do we teach prediction when there is no script and there are
+no seemingly relevant prior cases? In some sense we can’t. We can teach
+people how to go about trying to make predictions. This is actually what
+science is about. Scientists create theories that make predictions, which
+they then try to verify with evidence. This process—hypotheses verified
+by evidence—can be taught in the sense that it is a way of thinking that
+can be practiced in various venues. It is reasonable to start teaching children
+to think in this way about the world around them. As for adults,
+teaching scientific reasoning in the context of corporate training is
+probably a less than optimal place to start. People in corporations need
+to be able to reason from evidence and to understand what data would
+confirm or deny the value of actions they have taken for the benefit of
+the company. This, of course, is scientific reasoning. But, unfortunately,
+the people who go into the business world tend to have never practiced
+scientific reasoning in their educational careers because they weren’t
+interested in science. But they must be interested in predicting well in
+order to succeed in business.
+HOW TO TEACH MODELING
+Building a model of a process is very difficult for a child to do and not
+so easy for an adult to do either. When you teach computer science,
+you learn this quickly enough. Computer programs are models of processes.
+People try to write computer programs by creating diagrams
+that model what happens first and then what happens next, and so
+on. These models are almost never right the first time.
+Programmers learn to debug their programs, which means they
+continue to try to get their model to be accurate. But most people
+cannot do this very easily, and it is a very important skill. Knowing
+how to raise money is important if one wants to start a business, for
+example. The money-raising process can be understood, but one has
+to examine it and go through it.
+This is just as true of ordering in a restaurant. Children may seem
+to know about ordering in a restaurant, but they may not understand
+money or service or having a job exactly and thus may have an erroneous
+model of the process. Why does the waitress bring food, is a
+complex question for a 5-year-old, but also an important one. Building
+models of how and why things work as they do, is significant for
+children to learn to do.
+118 Teaching Minds
+The way to do this is to look at processes that children engage
+in during the course of their daily lives and have them first explain
+how and why the processes work and then try to improve upon them.
+They could carefully examine the operations of the school cafeteria,
+for example. Of course, this has to be done in line with the interests
+that the children actually have. The idea is building the model, not
+telling them what models they have to build. Every child has an interest—animals,
+sports, family, cars, dinosaurs, whatever. Children need
+to learn to model the processes that interest them in order to better
+understand them and to make them better. Children will learn about
+the modeling process from working on a car engine, for example, if
+they are taught to think about what is going on in a deep way rather
+than just learning a set of facts about how the car runs. This is true in
+any area of interest, from medicine to government to science.
+Adults have a difficult time with models at work, as citizens, at
+home, and so on. They don’t always know how things really work. To
+get people to be better at understanding the processes that they engage
+in daily life, they need to be able to model them. This ability has
+to be taught and practiced early..
+Of course, kids have been building models of actual objects for a
+long time. Using a kit to build a model airplane is fun but it doesn’t
+teach you much about how planes fly. More detailed models of physical
+objects are very helpful.
+Building a medieval castle, for example, sounds like fun to me,
+and there are things to be learned from doing this, of course. It is a
+good activity for little kids, but modeling involves social processes as
+well. Kids need to understand how the world works, so it isn’t the
+castle itself that is so important but perhaps a model of the society
+around the castle, and the need for the castle, that would matter in
+this instance.
+HOW TO TEACH EXPERIMENTATION
+Everyone experiments all the time. We eat foods that we hope won’t
+make us fat or might make us healthy. We take drugs that are supposed
+to help us, and maybe they do maybe they don’t. We try out relationships
+that may or may not work. We experiment with jobs, hobbies,
+How to Teach the Twelve Cognitive Processes 119
+homes, cars, toys, games, lifestyles, behaviors, hairdos. . . . The list is
+seemingly infinite.
+We may not see ourselves as experimenting when we try out something
+new. We often experiment ineffectively. Learning to experiment
+in a reasonable way is yet again something that can be done only
+through experience. But, in this case, there really is an experimental
+process to be learned. It can be taught early on by finding simple experiments
+that small children really are interested in doing—they do
+not all have to do the same ones since it doesn’t matter what they do.
+They can learn to attempt to control the variables and see what happens
+in a variety of circumstances. This is, again, the scientific method,
+but the issue is really not teaching science so much as it is teaching
+a scientific approach to gathering useful knowledge. What constitutes
+evidence and how to draw conclusions are the kinds of things that a
+teacher can help with. Here again, a case base is acquired and relied on
+throughout this process. The discussion of findings so that they can be
+mentally indexed is very important part of the process.
+But how do we find out what is true? Ask any 5-year-old this
+question and the answer is not very likely to be, We run an experiment.
+Ask mommy, is more likely or, Ask the teacher, if the kid is in
+school.
+But, testing hypotheses is a critical part of learning to think. Of
+course, one has to have a hypothesis first. Children are rarely asked
+for their hypotheses about things. This is not exactly odd because although
+children do have them, it is a weird kind of discussion to have
+with a 5-year-old. Nevertheless, it is important to do. Teaching children
+to form and test hypotheses is as simple as asking them to do it.
+But, here again, asking them to do it must be done within the context
+of something they really care about. There have been many attempts
+over the course of educational history to teach kids science by having
+them run experiments; sometimes they are asked simply to replicate
+old experiments and sometimes they are asked to try new ideas out
+and figure things out for themselves. While the latter is most certainly
+preferable, these experiments tend to be about testing water quality,
+or nutrients in the soil, subjects that are not exactly on the mind of a
+5-year-old.
+What is on the mind of a 5-year-old? He might be wondering
+about how to deal with his baby sister. Or he might be wondering
+120 Teaching Minds
+how best to throw a rock in order to hit the cat. For many of these
+things, hypotheses can be formed, discussions about what makes a
+good hypothesis can be had, and ideas for testing out hypotheses can
+be sought. Maybe these would just be thought experiments (as in the
+case of hitting the cat), but thought experiments are important also.
+Knowing what would confirm or deny a hypothesis is important.
+Finding out what kids want to get better at is part of the issue here.
+If they want to learn to hit a baseball, having a theory about what
+makes a good swing and what makes a bad one may matter to them.
+The subject matter doesn’t matter at all really, just the thinking and
+the experimentation.
+This suggests that the real way to teach experimentation and the
+other subjects we have discussed here is to group kids not by age but
+by interests. So, if a child wants to think about dogs all day, group him
+with a set of other dog lovers and start coming up with hypotheses
+about dogs’ behavior, needs, commands that they might learn, training,
+breeding, and so on. It just doesn’t matter what the subject is at
+this stage.
+Suggestions for kids’ science experiments are everywhere. Here is
+a typical one:
+Gravity
+The Earth tries to pull everything down toward its center. This
+pull is called the force of gravity (the invisible force). When you
+lift things up, you have to pull against gravity. If you drop a
+pencil, gravity pulls it to Earth. If you rest its midpoint on your
+finger, gravity will pull down equally on both sides of the pencil
+and it will balance in the air.
+Here is another:
+Sound and Noise
+Have one person fill each of the plastic eggs with a different item.
+Put some rice in one, some dried beans in another, and so on.
+Keep track of what you put in each egg by writing numbers on
+the eggs. Have a different person try to see if he can figure out
+How to Teach the Twelve Cognitive Processes 121
+what is inside each egg by shaking and listening to the sound
+generated. After he takes a first guess, show him the list of what
+items are in each egg and have him guess again. See if he changes
+his mind about some of the previous guesses. Now open the eggs
+and see how close the guesses were to what was actually inside
+each egg.
+Now, let’s make a musical instrument called a kazoo. Cut a
+small square of wax paper about 1 inch larger than the end of the
+cardboard tube. After doing that, wrap the wax paper over one
+of the ends of the tube and put a rubber band over the paper to
+hold it in place. Now, put the open end of your kazoo up to your
+mouth and hum a tune into it. Notice how the kazoo buzzes and
+vibrates to amplify (make louder) the sound of your voice.
+Of course, this is not exactly what I have in mind when I suggest focusing
+school on experimentation. Say the word experiment and the word
+science usually follows right away. This is unfortunate because most
+kids won’t become scientists any time soon. Also, most kids already
+know what they are being asked to “experiment” about. They know
+the pencil falls and they know you can make noise by blowing through
+things. They may not understand how all this works, but they won’t
+understand much more after doing these so-called “experiments.”
+Experiments in the larger sense are about attempts to find out
+what is true about things you are uncertain about. The issue is how
+to do that when you are wondering about something. To do this we
+need to constantly deal with what kids are worrying about and ask
+them to determine how they can find out what is true. This is experimentation
+that can be helped by teachers. It needs to be individually
+focused, however. You can’t have a class worry collectively about any
+one thing. Each kid has his own concerns.
+HOW TO TEACH EVALUATION
+For an issue that is so important to so many people, it is astonishing
+how difficult this seems to be. Just say no to drugs campaigns don’t
+work and people wonder why. Abstinence campaigns don’t work
+and people wonder why. It is not all that mysterious. You can’t teach
+122 Teaching Minds
+evaluation verbally. Since children naturally copy their parents, it is
+not that complicated to figure out where children acquire their initial
+values. And, since values are not typically stated (my father never said
+liquor at 5 p.m. is a good thing), it certainly isn’t through lectures that
+we learn values. I learned to drink at 5 p.m. from my father. He wasn’t
+trying to teach me that. I learned to gamble from my father. He wasn’t
+trying to teach me that either. I learned to be argumentative from my
+father. He wasn’t trying to teach that. I did not learn algebra from my
+father. That, he was trying to teach me.
+My son wanted to grow up and sip Pepsi. He told me this constantly
+as he was growing up. It did not matter that I hadn’t drunk Pepsi for
+10 years at the point when he was saying that. He was impressed that I
+had done this when he was 3 and he was frustrated that I didn’t allow
+him to drink it. Presto, another family value is learned.
+Children learn the family values that their family actually has.
+Teenage mothers who warn against getting pregnant at a young age
+may say that in words, but their actions say that their kid is alive and
+well and it all worked out.
+So, it follows that we don’t have to consciously teach values because
+we teach them without saying a word. Values are held subconsciously
+and learned subconsciously. We can only hope that we have
+set a good example. That having been said, there will still be those
+who ask how we can teach values. You can’t expect that “you can’t,”
+will work as an answer.
+I mentioned in Chapter 3 that there are lots of things that you
+can’t teach. I mentioned honesty as an example. Honesty is, of course,
+a value. Now let’s ask whether you can teach people to be more honest
+than they are naturally inclined to be. The answer is that to do
+this, you have to turn a subconscious process into a conscious one.
+You would need to provide case after case and experience after experience
+to a student that all led to the conclusion that honesty simply
+works out better in the long run. This is, of course, what abstinence
+and say no to drugs campaigns endeavor to do. They want to argue
+kids into believing that things they think are fun, are bad. But how
+can we make that argument? The argument we can make is that these
+things aren’t as much fun as you think, so try them and see for yourself—but
+that kind of ruins the basic premise about not doing them
+in the first place. So, in principle there is no way to argue kids into
+not doing what looks like fun to them and what doesn’t seem to have
+How to Teach the Twelve Cognitive Processes 123
+hurt anyone very much. The idea of showing pain is big in values
+campaigns. Campaigns against drunk driving like to show students
+dead drivers and awful car crashes. But they miss the real point. Have
+the students seen their parents drink and drive or friends drink and
+drive? Are they dead? If not, these campaigns will have little impact
+since values are subconsciously held.
+There is a way to teach these things but it isn’t easy. Imagine that
+you wanted to teach teenagers not to drive drunk. You could create a
+simulation of drunkenness that asked students to drive drunk while
+not being able to hold their heads steady, blacking out from time to
+time, and seeing very badly. In other words, instilling a new emotion
+into the mix can alter values. Make people afraid of something they
+want to do and that fear will manifest itself when it is time to do it.
+Emotions can be induced into subconscious processes and decisionmaking
+through experience. Emotions can change values.
+There is a sense in which appreciation cannot be taught. You like
+it or you don’t. I have two grandsons. The 5-year-old (my daughter’s
+child) has announced that he doesn’t want to have anything to do
+with a ball. The 3-year-old (my son’s child) goes wild with excitement
+when he sees ballgames being played and responds excitedly when
+balls are given to him. What is the difference and how did this happen?
+The difference is obvious: One appreciates the art of it and one
+doesn’t. How this happened is less clear, but the parenting is very different
+with respect to balls in each house. There are other, biological
+differences as well. The 3-year-old has much taller parents and is
+already the same size as the 5-year-old. He is much more physical as
+well.
+So, the question is, Could we teach the 5-year-old to love balls and
+ballgames, and could we teach the 3-year-old to hate balls and ballgames?
+The answer to this is obvious. We could do this. It might be
+hard but people are, unfortunately, quite good at negative reinforcement,
+so it is possible to make people change their attitudes by using
+it as a method.
+Is there a way to teach the positive? Can we get someone to appreciate
+a work of art who does not respond immediately to works of
+art? Can we get someone to appreciate classical music who does not
+have any interest in it?
+This is, of course, what many art history or music appreciation
+courses endeavor to do. Their methodology is always the same:
+124 Teaching Minds
+repeated exposure and analysis. It always involves a lot of talking. And
+therein lies the problem. Since appreciation and enjoyment are subconscious
+processes, it stands to reason that these processes are best
+addressed by a methodology that is less conscious. Telling me why I
+should like something is not likely to do much more than teach me
+how to talk about something as if I liked it. I can point out the finer
+points of baseball to you, but if you don’t care, I won’t be able to get
+you to go to the next baseball game.
+On the other hand, of course, you certainly won’t like baseball if
+you have never seen it played. Exposure is the key to teaching subconscious
+processes. Add to that an enjoyable atmosphere surrounding
+the experience, especially if it is early on in one’s life, associated with
+the artistry you want to teach, and it is likely that the learner will learn
+to like whatever he is being exposed to. So, evaluation, which starts
+out as a subconscious process, must be taught by enabling copying
+and repeated practice, but cannot easily be taught verbally.
+HOW TO TEACH DIAGNOSIS
+Diagnosis is the same and it is different. Many different people do diagnosis
+under many different circumstances. But, the process is always
+the same. So it seems normal to ask why an expert in doing diagnosis
+in one area cannot do diagnosis nearly as well in another area of
+knowledge. Why can’t a doctor fix his own car? Why can’t a detective
+figure out why a business is failing? It is all diagnosis after all.
+Diagnosis is best taught early on but it can be taught at any age.
+In the end, it is just about knowing what counts as evidence and how
+to create and rule out hypotheses. The general process of gathering
+evidence and testing hypotheses is the same no matter what you are
+doing. This is true in principle, of course, not in actual fact. In reality,
+doctors cannot rule out hypotheses by tests that might harm the patient.
+Businesspeople cannot rule out hypotheses by running control
+businesses that may lose money while others make money. Detectives
+cannot spoil a crime scene by altering the evidence. Mechanics cannot
+try something that might make things worse. Investors cannot control
+world events that might make a seemingly correct hypothesis still not
+work out all that well.
+To teach diagnosis, simple problems can be worked on that lead to
+more complex problems. What is being taught, apart from the process
+How to Teach the Twelve Cognitive Processes 125
+itself, is the knowledge that underlies the hypothesis and understanding
+what constitutes evidence and the consequences of evidence. This
+knowledge is very domain specific and is the reason that doctors don’t
+necessarily make good car mechanics, and vice versa. This knowledge
+can be acquired only through practice and experience and can be acquired
+only consciously. Diagnosis is thus a conscious process that is
+very knowledge dependent. There is no seat-of-the-pants diagnosis,
+namely, diagnosis that is seemingly subconscious, although it may
+well seem that way. Having an intuition is usually just the result of
+having a great deal of experience, so much so that hypotheses just
+jump out at you because similar cases are so easily recognizable to an
+expert. Someone who is good at diagnosis would be good at diagnosis
+in any domain of knowledge if they knew how to gather and interpret
+evidence in that domain.
+Diagnosis is clearly very difficult to learn. Most people are rather
+bad at it outside of their own areas of interest. Even inside their knowledge
+base they can be sloppy in the reasoning and leap to wrong conclusions.
+This is true of all analytic skills. It is possible to never learn
+to do them well.
+HOW TO TEACH PLANNING
+Planning is extremely important and typical of an analytic cognitive
+process; it is something that some people simply never learn to do
+well. Teaching planning must be focused around the assembly of a
+case base. Planning is taught in many domains of knowledge and is
+almost always taught wrong. The classic error is to teach the theory of
+planning, means–ends analysis, a theory of urban planning, spatial
+planning, military planning, and logic-based artificial intelligence
+planning. Such courses all make the same mistake. Course designers
+think people use theories when, in fact, when people plan, they simply
+try to adapt old plans that have worked before to new situations.
+Often people don’t plan at all. They simply assume that a set of actions
+they intend to perform will work to achieve an expected goal.
+Teaching planning is therefore a tedious process that is best begun
+in childhood. It involves making plans, seeing how they play out,
+and performing an analysis of what went wrong. Often people are
+not even aware that they have made a plan, and are simply frustrated
+when things go wrong. They almost never perform an after-action
+126 Teaching Minds
+review (as the military calls the analysis process that takes place after
+a plan has been implemented).
+Teaching planning means teaching about goals, how they typically
+are achieved, what obstacles might be encountered, and how to
+deal with them. The principles of planning are the same no matter
+what domain you are in, so children can learn to plan birthday parties,
+hikes, class trips, how to deal with their problems, how to treat
+their little sister, how to get along with their parents, and so on. This
+process can be learned by copying, seeing how others deal with these
+things, adapting a plan that has worked before, and so on. A teacher
+who tries to teach planning from first principles is teaching something
+that is easily forgotten as well as teaching a process that doesn’t occur
+that much in real life. Chefs adapt old recipes or parts of old recipes.
+Generals adapt old battle plans or parts of old battle plans. Computer
+programmers use code that has worked before. Planning without a prior
+plan in mind really is quite unusual and generally not a good idea.
+Planning, like diagnosis, should be a basic part of all curricula in
+school at all ages. People make plans all the time. They plan their
+lunch, they plan their day, they plan their trips, they plan their errands,
+and, of course, they plan their lives. It is astonishing that we
+don’t teach planning all the time in every aspect of life. But we don’t
+because this doesn’t seem very academic. Since it is not explicitly
+taught to children, it is reasonable to ask how we might best teach
+planning to adults. Corporations want to teach financial planning,
+resource planning, supply chain planning, creating business plans,
+creating marketing plans, and so on. Planning is, in fact, one of the
+major preoccupations of business, as well it should be. So, how do we
+teach it?
+The problem here is that planning really works in only one way.
+It is relies on a case base. We plan by adapting old plans. That’s how
+we do it. We store old plans and we retrieve them when we need them
+again; we change them so they apply to the new situation or change
+them so that this time they will work out when they failed before. But
+we always start with an old plan. New planners, those we are trying to
+teach how to plan, cannot help but do this, even if they do not have
+a relevant old plan to work from. They simply will choose the best
+plan they have, even though it might not be all that germane to the
+current situation. Proverbs—for example, to a man with a hammer,
+everything is a nail—don’t come from nowhere.
+How to Teach the Twelve Cognitive Processes 127
+Thus, when we teach planning, there is either a lot to undo, or we
+must start from the beginning. We can try to explain why each and
+every old plan is not really helpful in a new situation, or we can teach
+a series of plans that are relevant. In other words, if you are trying to
+teach people to write a business plan, you need to start with a lemonade
+stand and work up. If you are trying to teach financial planning,
+you need to start with a child’s allowance and work up. If you want to
+teach battle planning, try a tug of war first. This is what should have
+occurred in childhood. If it didn’t, it needs to be restarted that way for
+adults. We need to use, again and again, plans in different situations
+that are simple and begin to analyze why they fail. (And these plans
+must fail, at least in simulation, or no real learning will occur.)
+Planning is very difficult. It must start simple and be practiced
+simply for a while or it never becomes second nature. Plans must fail,
+at least in simulation, because analysis of what went wrong is a critical
+part of planning. If you aren’t analyzing what went wrong, you aren’t
+learning to plan. Your case base will not end up having been indexed
+well enough to enable you to pick and choose appropriate plans in
+the future.
+HOW TO TEACH CAUSATION
+At the root of diagnosis and planning is causation. Detecting cause
+is an essential part of diagnosis, and anticipating cause is an important
+aspect of planning. Causation must be understood in order to do
+many things in this world. One needs to know what causes what. Science
+courses in school attempt to teach causation by having students
+memorize F = ma, or having them imitate chemistry experiments, or
+having them dissect a frog. While there is nothing wrong with any
+of that in principle, it really doesn’t teach causation in a way that is
+particularly useful to a functioning adult.
+While diagnosis and planning may not be recognized as critical
+skills by schools, causation is, although not under that word. Causation
+is understood as being what science is all about, and when
+schools endeavor to teach science, they are in fact trying to teach
+causation. This is true for social science as well. History is about causation,
+as is psychology. The fact that these subjects are not talked
+about in this way indicates something important about them.
+128 Teaching Minds
+Subject- based education makes the academic disciplines the center
+of what needs to be learned, when there is really something else at
+the base of learning. All human learning and all scientific inquiry is
+about causation; attempts to determine what causes what, and why,
+are what it means to be a scientist or an academic. Theories of causation,
+and tests to see whether those theories are true, are what it
+means to be a scientist.
+The problem is that telling students that causation is part of science
+makes them think about physics formulas and fact memorization
+when the real issue in teaching causation is how to determine what
+causes what, rather than how to memorize what causes what. There
+are, of course, facts about causation that are worth knowing. It is nice
+to know that if you let go of something, it may fall, but it is not necessary
+to know that gravity is the issue in this. The world went on quite
+well for millions of years before Newton. People certainly understood
+before Newton that things would fall when you let go of them and
+nothing else was supporting them. Scientific explanations of causation
+are nice for scientists but not necessary for everyday humans.
+What everyday people need to know is how to determine what causes
+what in areas of their own interest. They can hear you tell them about
+causation—the stock market always goes down when a Democrat is
+elected president—but they need to be able to decide whether what
+you said is true and whether it is the election that causes the decline
+or something else.
+Understanding about causation is much more a function of being
+able to figure out what caused what in any given instance than it is the
+memorization of facts about science. Of course, with known cases, as
+we have seen, being able to extrapolate from one case to another is a
+good way of determining what is likely to happen. There is no harm in
+knowing prior cases and great value in being able to use them. But, as
+always, cases are better learned from one’s own experience than from
+being told about them.
+Teaching causation, therefore, means teaching the process of determining
+what happened in any given situation. Since there is a
+great deal to learn about any domain of inquiry in order to determine
+causation, the main issue is how to know what the facts are
+and how to reason from them. This means that, yet again, it is the
+domain of knowledge that needs to be learned, and this entails constant
+practice in that domain. And, the methodology of determining
+How to Teach the Twelve Cognitive Processes 129
+causation needs to be learned. This, too, can depend on the particular
+domain of inquiry. Reasoning from all this takes practice as well.
+Determining cause is a critical cognitive process that underlies nearly
+all thinking.
+HOW TO TEACH JUDGMENT
+How do we get good at making a judgment? Judgments are a kind of
+prediction, of course. When a judge sentences a criminal, he is, in a
+sense, making a prediction about what will happen in the rest of this
+person’s life. But he also is making decision that is no way a prediction,
+but simply serves as punishment. Similarly, when we decide that
+a certain restaurant is our favorite, we are predicting something about
+how much we will enjoy future experiences, but we also are making
+a decision that may or may not matter to others, that is, a recommendation.
+Recommendations are also predictions, but they have a
+different feel. When a boss decides whom to promote, he is predicting
+something about future behavior but, again, the prediction isn’t the
+key point. A judgment is a decision that has some import.
+Nevertheless, as different as judgments and predictions may or
+may not be, the process of teaching them is identical. Good judgment
+is learned by making judgments and analyzing the results or
+truth of those judgments as more information becomes available. After
+a judgment is made it too becomes one of one’s cases and stories.
+Cases about judgment can be learned only by making simple judgments
+and getting smarter about the process over time on the basis
+of experience.
+Judgments can be made in two ways that matter here. Either someone
+can decide to do one thing versus another thing based on ethical,
+moral, avaricious, or emotional grounds, or for many other reasons.
+Judgments aren’t so different from decisions in this aspect. Teaching
+someone to make a judgment of this sort, between A and B, can be
+done by putting students in situations in which such judgments need
+to be made and then going over with them how they decided and
+what they may have left out of their thinking.
+A different kind of judgment is made when one judges the behavior
+of others. Judges do this, of course, as do compliance officers in
+companies, and teachers with respect to student mistakes.
+130 Teaching Minds
+Children normally make judgments about the behavior of their
+parents and friends as well. In all these cases, judgment is best taught
+by having a student watch the behavior of others, keeping himself out
+of the issue and seeing what factors motivated and determined the
+behavior of the actors. It is a lot easier to teach proper behavior when
+it is not one’s own behavior that is being judged. One can learn to act
+by judging how others act.
+So, children make judgments all the time. Typically those judgments
+reflect the values that they have been taught at home. Children
+decide what is good and what is bad mostly based on what they have
+been told. No child discovers for himself that George Washington was
+an admirable man. No child decides on his own that the United States
+is the best country in the world. These things are taught by parents
+and by schools. School, to the extent that it serves as a place of indoctrination,
+has always succeeded at producing citizens who believe
+what they are taught to believe at a young age. There obviously is a
+great deal of sentiment for keeping indoctrination as a key part of
+education, but teaching judgment means allowing children to come
+to conclusions based on their own experience and not merely what
+they were told.
+Learning to make judgments is a process of deciding for oneself
+what is true, which is, of course, not so easy. This should be the role of
+school but it usually isn’t. School wants to teach us the truth when, in
+fact, truth is best discovered, again, from experience.
+How would one discover the “best country in the world,” if that
+is a meaningful idea, or whether George Washington was all he was
+cracked up to be? Obviously, travel helps teach one about countries.
+Kids can learn about countries by simulated travel in the modern era.
+But the point wouldn’t be so much to teach them that they make good
+cheese in France, which is the kind of thing school does today, but to
+think about what makes France different from the United States. Similarly,
+we can read and learn some facts about George Washington, and
+these are indeed taught to children in primary school. I do not believe
+that children are equipped at a young age to determine for themselves
+whether Washington was a good man. Perhaps that would be a worthwhile
+assignment in high school, as long as students were interested
+in the question and were allowed to come to any conclusion that they
+could reasonably defend. But children of 5 or 6 can understand what
+How to Teach the Twelve Cognitive Processes 131
+a hero is and what leadership is, and they can determine for themselves
+who they know or have seen who is good at both. Again, real
+experiences and discussions are how one learns to think about this,
+but it must be done in an environment of possible truths, not predetermined
+truths. One doesn’t create a nation of people who can think
+by telling them what they should think. Kids know who is the leader
+among them. They should learn to discuss what it is about their leader
+that makes them want to follow. This is difficult discussion to have
+with a 6-year-old, but it gets easier with age.
+Once again, asking kids to make judgments isn’t that unusual.
+Here is a remark from a parenting book that I happened upon:
+When adults praise their kids for smart judgments, the kids glow.
+But here’s the clincher: kids earn more and more freedom and
+independence when parents trust their judgments more and
+more. 6
+The issue here is, yet again, not whether kids make judgments, but
+whether they are taught, as a central part of what they study, how to
+make judgments.
+The cognitive processes depend on reasoning from evidence in a
+way that makes sense. This is not something people are naturally good
+at. They often exhibit faulty reasoning. Practicing reasoning means
+practicing within particular domains of knowledge. Reasoning is the
+same process no matter what you are reasoning about, but we don’t
+reason about nothing. Learning the actual facts is important, but it
+is the idea that this is important that has sent the school systems on
+the wrong path. Academics study the facts, as well they should, but
+they also teach the facts, which is a grievous error. How to determine
+the facts and how to determine their effects on a situation is what the
+processes of diagnosis, planning, and causation are all about.
+HOW TO TEACH INFLUENCE
+This is yet another childhood skill. Children learn how to influence
+their parents and their siblings and their friends very early on. Of
+course, they may not learn these things in a good way. They might
+learn that temper tantrums or bullying works very well.
+132 Teaching Minds
+Teaching people how to influence people involves putting them
+in situations where it is possible to influence people and seeing how it
+goes. There is nothing to learn exactly. We try behaviors and see what
+works. What works for one person may not work for another. One way
+or another, we learn how to get what we want, or we learn to hang
+out with people who will respond to our needs. This is basically a subconscious
+process. We are so busy working on this at a very young age
+that we may not have any idea what it is we know or how to improve
+what we do. Of course, there is a conscious part as well. Someone can
+tell us that we will catch more flies with honey than with vinegar,
+and we can, if we think about it, adjust our behavior. But aphorisms
+about what works and what doesn’t work aren’t always correct and
+are highly idiosyncratic. Although there are books about how to win
+friends and influence people, the reality is that, apart from adopting a
+phony personality, people are who they are, more or less.
+But this does not mean they can’t be taught what works. It usually
+does mean that they can be taught what works as a result of their own
+experience. And, they can be taught what doesn’t work as a result of
+their own experience. But this isn’t at all easy. If it were, psychiatrists
+would not be able to make a living. You can tell a person to change
+his behavior, you can even tell him exactly what to do when, but he is
+likely not going to be able to do what you say.
+The way influence is taught currently is probably the way it has to
+be taught, then, by use of mentors who look at your behavior and talk
+you through why you do what you do. This same mentoring method
+can be used in corporate settings. Simulations may not be so effective
+because while we may know and be able to say the right answer, this
+doesn’t mean that we can execute the desired behavior in reality.
+HOW TO TEACH TEAMWORK
+Teamwork is learned by working in teams. It is a mixed process because,
+here again, we behave in ways that are not so conscious but
+we can make conscious changes. Leaders learn to manage teams by
+thinking about what works and what doesn’t. Quarterbacks must
+learn to manage their teammates. If they don’t, it really doesn’t matter
+how well they can throw the ball. Team members have to want
+to work hard for the leader, and the leader has to know how to motivate
+each team member. People are different so what works for one
+How to Teach the Twelve Cognitive Processes 133
+may not work for another. A leader learns to figure out who is who
+and what works for each member of the team. The conscious part of
+this is about learning who needs what from the leader in order for
+the leader to get the most out of each individual so that the team’s
+goals are achieved. The subconscious part is about interacting with
+others, which is rarely conscious behavior. We get smarter through
+experience. If our team wins because we functioned well as a team,
+we learn to repeat the behaviors that worked. If we win because our
+team was simply much bigger than the other team, then we probably
+won’t learn much about teamwork.
+Teamwork can be taught only by examining how a team functions
+and attempting to make conscious the subconscious behavior that is
+not working. Thinking about what we have done that may not have
+been helpful to the team, and making sure that team members’ goals
+are aligned, is pretty much the only way we can learn to improve our
+behavior.
+HOW TO TEACH NEGOTIATION
+My daughter was a little over 2 when we moved back to the United
+States from Switzerland. The enormity of U.S. toy stores overwhelmed
+her and it seemed that she wound up crying every time we entered
+one. She wanted everything. So I had what I thought was a clever idea.
+I told her that she could have two toys of her choice but that if she
+cried she couldn’t get any at all. We talked about it and it was clear that
+she had understood what I said. She ran around the toy store and ended
+up selecting three toys. I told her one would have to go back—that
+our agreement was two. She started crying hysterically. I then said she
+had to put them all back as she had violated our no crying agreement.
+All of sudden, she sucked up all her tears and said in a breathless voice:
+I’m not crying now. I said that we would compromise on one toy.
+That was possibly her first lesson in negotiating. I say possibly
+because kids and parents negotiate all the time. She and I are still negotiating.
+Now it is about when she will come to visit or when she will
+send her son down to visit or a range of other family issues.
+Negotiation is so important that it is nearly absurd to ask how we
+teach negotiation. We can learn it by copying, of course, which I did
+when I watched my father get a good price on a used car I was buying
+that I was ready to pay much more for. But really we negotiate with
+134 Teaching Minds
+our wives and children and friends and co-workers all the time.
+It is possible to teach negotiation, of course. My team once built
+a course on negotiation, working with a Harvard Law professor 7 who
+taught negotiation. The course worked by having people negotiate.
+The situations were artificial so there is some question as to how valuable
+lessons can be learned from negotiating when nothing important
+(except ego) depends on it. What I found most interesting about that
+course were the stories that the expert told from his life as a professional
+negotiator. I can’t say that I was ever able to personally make
+use of the lessons that those stories taught, but other people’s experiences
+are interesting to think about. In the end, what we really know
+about negotiation is what has worked well for us in the course of our
+lives when we were negotiating. Coaching can help, of course, which
+implies that the best way to teach negotiation would be with a mentor
+watching you do it for real and offering tips. Psychologists perform
+this service in couples counseling, and presumably real estate agents
+perform this service for homebuyers and sellers. Just-in-time advice is
+always helpful.
+HOW TO TEACH DESCRIBING
+There is a famous quote: “I apologize that this letter is so long—I
+lacked the time to make it short.”8 As long as people have been talking,
+they have had to learn to talk well. When they learned to write,
+they had to learn to write well. Communication is a very big part of
+living in a society and those who communicate well gain all kinds of
+advantages. It is difficult to attain public office without speaking well,
+or to become an important academic without writing well, or to make
+sales or convince anyone of anything without making your case well.
+This takes practice and coaching, and there is no substitute for either.
+One also has to have something to say, so this means one has to
+have had experiences to talk and write about. Further, it helps if one
+is writing about something that one is passionate about. Asking kids
+to write about their summer vacations doesn’t necessarily make them
+into good writers. Asking kids to give speeches about George Washington
+fails for reasons of lack of passion. People need to learn to describe
+well what is most important to them. And, they must be doing this
+How to Teach the Twelve Cognitive Processes 135
+in every task they undertake. They must talk about and write about
+what they do until the description process becomes second nature to
+them. So, describing cannot be taught in and of itself. It must be part
+and parcel of other events students undertake. Writing classes make
+no sense, therefore. They exist because of the subject-based divisions
+in school. Writing and speaking must be part of everything that is going
+on.
+SUMMARY
+Proficiency at all the cognitive processes depends on discovery and
+being able to extrapolate from one’s experience about what has been
+discovered. These processes depend strongly on prior cases, and prior
+cases are best learned slowly in childhood. They also depend on an
+analysis of those cases, which is best done with help from a teacher.
+Discussion, reflection, and analysis of prior cases make one better able
+to deal with new cases. New cases must be compared with old ones
+in a way that helps one reason better from them. This comparison is
+the basis of teaching analytic cognitive processes. Learning cognitive
+processes means having prior experiences with events that are similar
+to current events and being able to extrapolate from them. When we
+go to a doctor, we want one who has seen our problem, and described
+it to others, many times before. Only then can we detect the nuances
+of difference that will determine an effective course of action.
+Teaching cognitive processes means providing students with experiences,
+hopefully each one more complex than the one before,
+and helping students discuss those experiences and compare one with
+another. Knowledge is experience, but it is experience that has been
+analyzed so that it can be retrieved again just in time as needed. This
+will happen only if we have thought about what we have experienced.

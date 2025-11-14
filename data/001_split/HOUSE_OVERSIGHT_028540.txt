@@ -1,0 +1,1310 @@
+﻿(Slip Opinion) OCTOBER TERM, 2018
+1
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is
+being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been
+prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U. S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+Syllabus
+JAM ET AL. v. INTERNATIONAL FINANCE CORP.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE DISTRICT OF COLUMBIA CIRCUIT
+No. 17–1011. Argued October 31, 2018—Decided February 27, 2019
+In 1945, Congress passed the International Organizations Immunities
+Act (IOIA), which, among other things, grants international organizations
+the “same immunity from suit ... as is enjoyed by foreign
+governments.” 22 U. S. C. §288a(b). At that time, foreign governments
+were entitled to virtually absolute immunity as a matter of international
+grace and comity. In 1952, the State Department adopted
+a more restrictive theory of foreign sovereign immunity, which
+Congress subsequently codified in the Foreign Sovereign Immunities
+Act (FSIA), 28 U. S. C. §1602. The FSIA gives foreign sovereign governments
+presumptive immunity from suit, §1604, subject to several
+statutory exceptions, including, as relevant here, an exception for actions
+based on commercial activity with a sufficient nexus with the
+United States, §1605(a)(2).
+Respondent International Finance Corporation (IFC), an IOIA international
+organization, entered into a loan agreement with Coastal
+Gujarat Power Limited, a company based in India, to finance the construction
+of a coal-fired power plant in Gujarat. Petitioners sued the
+IFC, claiming that pollution from the plant harmed the surrounding
+air, land, and water. The District Court, however, held that the IFC
+was immune from suit because it enjoyed the virtually absolute immunity
+that foreign governments enjoyed when the IOIA was enacted.
+The D. C. Circuit affirmed in light of its decision in Atkinson v.
+Inter-American Development Bank, 156 F. 3d 1335.
+Held: The IOIA affords international organizations the same immunity
+from suit that foreign governments enjoy today under the FSIA.
+Pp. 6–15.
+(a) The IOIA “same as” formulation is best understood as making
+international organization immunity and foreign sovereign immunity
+2 JAM v. INTERNATIONAL FINANCE CORP.
+Syllabus
+continuously equivalent. The IOIA is thus like other statutes that
+use similar or identical language to place two groups on equal footing.
+See, e.g., Civil Rights Act of 1866, 42 U. S. C. §§1981(a), 1982;
+Federal Tort Claims Act, 28 U. S. C. §2674. Whatever the ultimate
+purpose of international organization immunity may be, the immediate
+purpose of the IOIA immunity provision is expressed in language
+that Congress typically uses to make one thing continuously equivalent
+to another. Pp. 6–9.
+(b) That reading is confirmed by the “reference canon” of statutory
+interpretation. When a statute refers to a general subject, the statute
+adopts the law on that subject as it exists whenever a question
+under the statute arises. In contrast, when a statute refers to another
+statute by specific title, the referenced statute is adopted as it existed
+when the referring statute was enacted, without any subsequent
+amendments. Federal courts have often relied on the reference
+canon to harmonize a statute with an external body of law that the
+statute refers to generally. The IOIA’s reference to the immunity enjoyed
+by foreign governments is to an external body of potentially
+evolving law, not to a specific provision of another statute. Nor is it a
+specific reference to a common law concept with a fixed meaning.
+The phrase “immunity enjoyed by foreign governments” is not a term
+of art with substantive content but rather a concept that can be given
+scope and content only by reference to the rules governing foreign
+sovereign immunity. Pp. 9–11.
+(c) The D. C. Circuit relied upon Atkinson’s conclusion that the reference
+canon’s probative force was outweighed by an IOIA provision
+authorizing the President to alter the immunity of an international
+organization. But the fact that the President has power to modify
+otherwise applicable immunity rules is perfectly compatible with the
+notion that those rules might themselves change over time in light of
+developments in the law governing foreign sovereign immunity. The
+Atkinson court also did not consider the opinion of the State Department,
+whose views in this area ordinarily receive “special attention,”
+Bolivarian Republic of Venezuela v. Helmerich & Payne Int’l Drilling
+Co., 581 U. S. ___, ___, and which took the position that immunity
+rules of the IOIA and the FSIA were linked following the FSIA’s enactment.
+Pp. 11–13.
+(d) The IFC contends that interpreting the IOIA immunity provision
+to grant only restrictive immunity would defeat the purpose of
+granting immunity in the first place, by subjecting international organizations
+to suit under the commercial activity exception of the
+FSIA for most or all of their core activities. This would be particularly
+true with respect to international development banks, which use
+the tools of commerce to achieve their objectives. Those concerns are
+Cite as: 586 U. S. ____ (2019)
+3
+Syllabus
+inflated. The IOIA provides only default rules. An international organization’s
+charter can always specify a different level of immunity,
+and many do. Nor is it clear that the lending activity of all development
+banks qualifies as commercial activity within the meaning of
+the FSIA. But even if it does qualify as commercial, that does not
+mean the organization is automatically subject to suit, since other
+FSIA requirements must also be met, see, e.g., 28 U. S. C. §§1603,
+1605(a)(2). Pp. 13–15.
+860 F. 3d 703, reversed and remanded.
+ROBERTS, C. J., delivered the opinion of the Court, in which THOMAS,
+GINSBURG, ALITO, SOTOMAYOR, KAGAN, and GORSUCH, JJ., joined.
+BREYER, J., filed a dissenting opinion. KAVANAUGH, J., took no part in
+the consideration or decision of the case.
+Cite as: 586 U. S. ____ (2019)
+1
+Opinion of the Court
+NOTICE: This opinion is subject to formal revision before publication in the
+preliminary print of the United States Reports. Readers are requested to
+notify the Reporter of Decisions, Supreme Court of the United States, Washington,
+D. C. 20543, of any typographical or other formal errors, in order
+that corrections may be made before the preliminary print goes to press.
+SUPREME COURT OF THE UNITED STATES
+_________________
+No. 17–1011
+_________________
+BUDHA ISMAIL JAM, ET AL., PETITIONERS v.
+INTERNATIONAL FINANCE CORPORATION
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+[February 27, 2019]
+CHIEF JUSTICE ROBERTS delivered the opinion of the
+Court.
+The International Organizations Immunities Act of 1945
+grants international organizations such as the World
+Bank and the World Health Organization the “same immunity
+from suit . . . as is enjoyed by foreign governments.”
+22 U. S. C. §288a(b). At the time the IOIA was
+enacted, foreign governments enjoyed virtually absolute
+immunity from suit. Today that immunity is more limited.
+Most significantly, foreign governments are not
+immune from actions based upon certain kinds of commercial
+activity in which they engage. This case requires us to
+determine whether the IOIA grants international organizations
+the virtually absolute immunity foreign governments
+enjoyed when the IOIA was enacted, or the more
+limited immunity they enjoy today.
+Respondent International Finance Corporation is an
+international organization headquartered in the United
+States. The IFC finances private-sector development
+projects in poor and developing countries around the
+world. About 10 years ago, the IFC financed the construc-
+2 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+tion of a power plant in Gujarat, India. Petitioners are
+local farmers and fishermen and a small village. They
+allege that the power plant has polluted the air, land, and
+water in the surrounding area. Petitioners sued the IFC
+for damages and injunctive relief in Federal District
+Court, but the IFC claimed absolute immunity from suit.
+Petitioners argued that the IFC was entitled under the
+IOIA only to the limited or “restrictive” immunity that
+foreign governments currently enjoy. We agree.
+I
+A
+In the wake of World War II, the United States and
+many of its allies joined together to establish a host of new
+international organizations. Those organizations, which
+included the United Nations, the International Monetary
+Fund, and the World Bank, were designed to allow member
+countries to collectively pursue goals such as stabilizing
+the international economy, rebuilding war-torn nations,
+and maintaining international peace and security.
+Anticipating that those and other international organizations
+would locate their headquarters in the United
+States, Congress passed the International Organizations
+Immunities Act of 1945, 59 Stat. 669. The Act grants
+international organizations a set of privileges and immunities,
+such as immunity from search and exemption from
+property taxes. 22 U. S. C. §§288a(c), 288c.
+The IOIA defines certain privileges and immunities by
+reference to comparable privileges and immunities enjoyed
+by foreign governments. For example, with respect to
+customs duties and the treatment of official communications,
+the Act grants international organizations the privileges
+and immunities that are “accorded under similar
+circumstances to foreign governments.” §288a(d). The
+provision at issue in this case provides that international
+organizations “shall enjoy the same immunity from suit
+Cite as: 586 U. S. ____ (2019)
+3
+Opinion of the Court
+and every form of judicial process as is enjoyed by foreign
+governments.” §288a(b).
+The IOIA authorizes the President to withhold, withdraw,
+condition, or limit the privileges and immunities it
+grants in light of the functions performed by any given
+international organization. §288. Those privileges and
+immunities can also be expanded or restricted by a particular
+organization’s founding charter.
+B
+When the IOIA was enacted in 1945, courts looked to
+the views of the Department of State in deciding whether
+a given foreign government should be granted immunity
+from a particular suit. If the Department submitted a
+recommendation on immunity, courts deferred to the
+recommendation. If the Department did not make a recommendation,
+courts decided for themselves whether to
+grant immunity, although they did so by reference to State
+Department policy. Samantar v. Yousuf, 560 U. S. 305,
+311–312 (2010).
+Until 1952, the State Department adhered to the classical
+theory of foreign sovereign immunity. According to
+that theory, foreign governments are entitled to “virtually
+absolute” immunity as a matter of international grace and
+comity. At the time the IOIA was enacted, therefore, the
+Department ordinarily requested, and courts ordinarily
+granted, immunity in suits against foreign governments.
+Ibid.; Verlinden B. V. v. Central Bank of Nigeria, 461 U. S.
+480, 486 (1983). 1
+In 1952, however, the State Department announced that
+it would adopt the newer “restrictive” theory of foreign
+——————
+1
+The immunity was “virtually” absolute because it was subject to
+occasional exceptions for specific situations. In Republic of Mexico v.
+Hoffman, 324 U. S. 30 (1945), for example, the State Department
+declined to recommend, and the Court did not grant, immunity from
+suit with respect to a ship that Mexico owned but did not possess.
+4 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+sovereign immunity. Under that theory, foreign governments
+are entitled to immunity only with respect to their
+sovereign acts, not with respect to commercial acts. The
+State Department explained that it was adopting the
+restrictive theory because the “widespread and increasing
+practice on the part of governments of engaging in commercial
+activities” made it “necessary” to “enable persons
+doing business with them to have their rights determined
+in the courts.” Letter from Jack B. Tate, Acting Legal
+Adviser, Dept. of State, to Acting Attorney General Philip
+B. Perlman (May 19, 1952), reprinted in 26 Dept. State
+Bull. 984–985 (1952).
+In 1976, Congress passed the Foreign Sovereign Immunities
+Act. The FSIA codified the restrictive theory of foreign
+sovereign immunity but transferred “primary responsibility
+for immunity determinations from the Executive to
+the Judicial Branch.” Republic of Austria v. Altmann, 541
+U. S. 677, 691 (2004); see 28 U. S. C. §1602. Under the
+FSIA, foreign governments are presumptively immune
+from suit. §1604. But a foreign government may be subject
+to suit under one of several statutory exceptions.
+Most pertinent here, a foreign government may be subject
+to suit in connection with its commercial activity that has
+a sufficient nexus with the United States. §1605(a)(2).
+C
+The International Finance Corporation is an international
+development bank headquartered in Washington,
+D. C. The IFC is designated as an international organization
+under the IOIA. Exec. Order No. 10680, 3 CFR 86
+(1957); see 22 U. S. C. §§282, 288. One hundred eightyfour
+countries, including the United States, are members
+of the IFC.
+The IFC is charged with furthering economic development
+“by encouraging the growth of productive private
+enterprise in member countries, particularly in the less
+Cite as: 586 U. S. ____ (2019)
+5
+Opinion of the Court
+developed areas, thus supplementing the activities of ” the
+World Bank. Articles of Agreement of the International
+Finance Corporation, Art. I, Dec. 5, 1955, 7 U. S. T. 2193,
+T. I. A. S. No. 3620. Whereas the World Bank primarily
+provides loans and grants to developing countries for
+public-sector projects, the IFC finances private-sector
+development projects that cannot otherwise attract capital
+on reasonable terms. See Art. I(i), ibid. In 2018, the IFC
+provided some $23 billion in such financing.
+The IFC expects its loan recipients to adhere to a set of
+performance standards designed to “avoid, mitigate, and
+manage risks and impacts” associated with development
+projects. IFC Performance Standards on Environmental
+and Social Sustainability, Jan. 1, 2012, p. 2, ¶1. Those
+standards are usually more stringent than any established
+by local law. The IFC includes the standards in its loan
+agreements and enforces them through an internal review
+process. Brief for Respondent 10.
+In 2008, the IFC loaned $450 million to Coastal Gujarat
+Power Limited, a company located in India. The loan
+helped finance the construction of a coal-fired power plant
+in the state of Gujarat. Under the terms of the loan
+agreement, Coastal Gujarat was required to comply with
+an environmental and social action plan designed to protect
+areas around the plant from damage. The agreement
+allowed the IFC to revoke financial support for the project
+if Coastal Gujarat failed to abide by the terms of the
+agreement.
+The project did not go smoothly. According to the IFC’s
+internal audit, Coastal Gujarat did not comply with the
+environmental and social action plan in constructing and
+operating the plant. The audit report criticized the IFC
+for inadequately supervising the project.
+In 2015, a group of farmers and fishermen who live near
+the plant, as well as a local village, sued the IFC in the
+United States District Court for the District of Columbia.
+6 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+They claimed that pollution from the plant, such as coal
+dust, ash, and water from the plant’s cooling system, had
+destroyed or contaminated much of the surrounding air,
+land, and water. Relying on the audit report, they asserted
+several causes of action against the IFC, including negligence,
+nuisance, trespass, and breach of contract. The
+IFC maintained that it was immune from suit under the
+IOIA and moved to dismiss for lack of subject matter
+jurisdiction.
+The District Court, applying D. C. Circuit precedent,
+concluded that the IFC was immune from suit because the
+IOIA grants international organizations the virtually
+absolute immunity that foreign governments enjoyed
+when the IOIA was enacted. 172 F. Supp. 3d 104, 108–
+109 (DC 2016) (citing Atkinson v. Inter-American Development
+Bank, 156 F. 3d 1335 (CADC 1998)). The D. C.
+Circuit affirmed in light of its precedent. 860 F. 3d 703
+(2017). Judge Pillard wrote separately to say that she
+would have decided the question differently were she
+writing on a clean slate. Id., at 708 (concurring opinion).
+Judge Pillard explained that she thought the D. C. Circuit
+“took a wrong turn” when it “read the IOIA to grant international
+organizations a static, absolute immunity that is,
+by now, not at all the same ‘as is enjoyed by foreign governments,’
+but substantially broader.” Ibid. Judge Pillard
+also noted that the Third Circuit had expressly declined to
+follow the D. C. Circuit’s approach. See OSS Nokalva, Inc.
+v. European Space Agency, 617 F. 3d 756 (CA3 2010).
+We granted certiorari. 584 U. S. ___ (2018).
+II
+The IFC contends that the IOIA grants international
+organizations the “same immunity” from suit that foreign
+governments enjoyed in 1945. Petitioners argue that it
+instead grants international organizations the “same
+immunity” from suit that foreign governments enjoy to-
+Cite as: 586 U. S. ____ (2019)
+7
+Opinion of the Court
+day. We think petitioners have the better reading of the
+statute.
+A
+The language of the IOIA more naturally lends itself to
+petitioners’ reading. In granting international organizations
+the “same immunity” from suit “as is enjoyed by
+foreign governments,” the Act seems to continuously link
+the immunity of international organizations to that of
+foreign governments, so as to ensure ongoing parity between
+the two. The statute could otherwise have simply
+stated that international organizations “shall enjoy absolute
+immunity from suit,” or specified some other fixed
+level of immunity. Other provisions of the IOIA, such as
+the one making the property and assets of international
+organizations “immune from search,” use such noncomparative
+language to define immunities in a static way. 22
+U. S. C. §288a(c). Or the statute could have specified that
+it was incorporating the law of foreign sovereign immunity
+as it existed on a particular date. See, e.g., Energy Policy
+Act of 1992, 30 U. S. C. §242(c)(1) (certain land patents
+“shall provide for surface use to the same extent as is
+provided under applicable law prior to October 24, 1992”).
+Because the IOIA does neither of those things, we think
+the “same as” formulation is best understood to make
+international organization immunity and foreign sovereign
+immunity continuously equivalent.
+That reading finds support in other statutes that use
+similar or identical language to place two groups on equal
+footing. In the Civil Rights Act of 1866, for instance,
+Congress established a rule of equal treatment for newly
+freed slaves by giving them the “same right” to make and
+enforce contracts and to buy and sell property “as is enjoyed
+by white citizens.” 42 U. S. C. §§1981(a), 1982. That
+provision is of course understood to guarantee continuous
+equality between white and nonwhite citizens with respect
+8 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+to the rights in question. See Jones v. Alfred H. Mayer
+Co., 392 U. S. 409, 427–430 (1968). Similarly, the Federal
+Tort Claims Act states that the “United States shall be
+liable” in tort “in the same manner and to the same extent
+as a private individual under like circumstances.” 28
+U. S. C. §2674. That provision is most naturally understood
+to make the United States liable in the same way as
+a private individual at any given time. See Richards v.
+United States, 369 U. S. 1, 6–7 (1962). Such “same as”
+provisions dot the statute books, and federal and state
+courts commonly read them to mandate ongoing equal
+treatment of two groups or objects. See, e.g., Adamson v.
+Bowen, 855 F. 2d 668, 671–672 (CA10 1988) (statute making
+United States liable for fees and expenses “to the same
+extent that any other party would be liable under the
+common law or under the terms of any statute” interpreted
+to continuously tie liability of United States to that of
+any other party); Kugler’s Appeal, 55 Pa. 123, 124–125
+(1867) (statute making the procedure for dividing election
+districts “the same as” the procedure for dividing townships
+interpreted to continuously tie the former procedure
+to the latter).
+The IFC objects that the IOIA is different because the
+purpose of international organization immunity is entirely
+distinct from the purpose of foreign sovereign immunity.
+Foreign sovereign immunity, the IFC argues, is grounded
+in the mutual respect of sovereigns and serves the ends of
+international comity and reciprocity. The purpose of
+international organization immunity, on the other hand, is
+to allow such organizations to freely pursue the collective
+goals of member countries without undue interference
+from the courts of any one member country. The IFC
+therefore urges that the IOIA should not be read to tether
+international organization immunity to changing foreign
+sovereign immunity.
+But that gets the inquiry backward. We ordinarily
+Cite as: 586 U. S. ____ (2019)
+9
+Opinion of the Court
+assume, “absent a clearly expressed legislative intention
+to the contrary,” that “the legislative purpose is expressed
+by the ordinary meaning of the words used.” American
+Tobacco Co. v. Patterson, 456 U. S. 63, 68 (1982) (alterations
+omitted). Whatever the ultimate purpose of international
+organization immunity may be—the IOIA does not
+address that question—the immediate purpose of the
+immunity provision is expressed in language that Congress
+typically uses to make one thing continuously equivalent
+to another.
+B
+The more natural reading of the IOIA is confirmed by a
+canon of statutory interpretation that was well established
+when the IOIA was drafted. According to the “reference”
+canon, when a statute refers to a general subject, the
+statute adopts the law on that subject as it exists whenever
+a question under the statute arises. 2 J. Sutherland,
+Statutory Construction §§5207–5208 (3d ed. 1943). For
+example, a statute allowing a company to “collect the same
+tolls and enjoy the same privileges” as other companies
+incorporates the law governing tolls and privileges as it
+exists at any given moment. Snell v. Chicago, 133 Ill. 413,
+437–439, 24 N. E. 532, 537 (1890). In contrast, a statute
+that refers to another statute by specific title or section
+number in effect cuts and pastes the referenced statute as
+it existed when the referring statute was enacted, without
+any subsequent amendments. See, e.g., Culver v. People
+ex rel. Kochersperger, 161 Ill. 89, 95–99, 43 N. E. 812, 814–
+815 (1896) (tax-assessment statute referring to specific
+article of another statute does not adopt subsequent
+amendments to that article).
+Federal courts have often relied on the reference canon,
+explicitly or implicitly, to harmonize a statute with an
+external body of law that the statute refers to generally.
+Thus, for instance, a statute that exempts from disclosure
+10 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+agency documents that “would not be available by law to a
+party . . . in litigation with the agency” incorporates the
+general law governing attorney work-product privilege as
+it exists when the statute is applied. FTC v. Grolier Inc.,
+462 U. S. 19, 20, 26–27 (1983) (emphasis added); id., at 34,
+n. 6 (Brennan, J., concurring in part and concurring in
+judgment). Likewise, a general reference to federal discovery
+rules incorporates those rules “as they are found on
+any given day, today included,” El Encanto, Inc. v. Hatch
+Chile Co., 825 F. 3d 1161, 1164 (CA10 2016), and a general
+reference to “the crime of piracy as defined by the law
+of nations” incorporates a definition of piracy “that changes
+with advancements in the law of nations,” United States
+v. Dire, 680 F. 3d 446, 451, 467–469 (CA4 2012).
+The same logic applies here. The IOIA’s reference to the
+immunity enjoyed by foreign governments is a general
+rather than specific reference. The reference is to an
+external body of potentially evolving law—the law of
+foreign sovereign immunity—not to a specific provision of
+another statute. The IOIA should therefore be understood
+to link the law of international organization immunity to
+the law of foreign sovereign immunity, so that the one
+develops in tandem with the other.
+The IFC contends that the IOIA’s reference to the immunity
+enjoyed by foreign governments is not a general
+reference to an external body of law, but is instead a specific
+reference to a common law concept that had a fixed
+meaning when the IOIA was enacted in 1945. And because
+we ordinarily presume that “Congress intends to
+incorporate the well-settled meaning of the common-law
+terms it uses,” Neder v. United States, 527 U. S. 1, 23
+(1999), the IFC argues that we should read the IOIA to
+incorporate what the IFC maintains was the then-settled
+meaning of the “immunity enjoyed by foreign governments”:
+virtually absolute immunity.
+But in 1945, the “immunity enjoyed by foreign govern-
+Cite as: 586 U. S. ____ (2019)
+11
+Opinion of the Court
+ments” did not mean “virtually absolute immunity.” The
+phrase is not a term of art with substantive content, such
+as “fraud” or “forgery.” See id., at 22; Gilbert v. United
+States, 370 U. S. 650, 655 (1962). It is rather a concept
+that can be given scope and content only by reference to
+the rules governing foreign sovereign immunity. It is true
+that under the rules applicable in 1945, the extent of immunity
+from suit was virtually absolute, while under the
+rules applicable today, it is more limited. But in 1945, as
+today, the IOIA’s instruction to grant international organizations
+the immunity “enjoyed by foreign governments” is
+an instruction to look up the applicable rules of foreign
+sovereign immunity, wherever those rules may be found—
+the common law, the law of nations, or a statute. In other
+words, it is a general reference to an external body of
+(potentially evolving) law.
+C
+In ruling for the IFC, the D. C. Circuit relied upon its
+prior decision in Atkinson, 156 F. 3d 1335. Atkinson
+acknowledged the reference canon, but concluded that the
+canon’s probative force was “outweighed” by a structural
+inference the court derived from the larger context of the
+IOIA. Id., at 1341. The Atkinson court focused on the
+provision of the IOIA that gives the President the authority
+to withhold, withdraw, condition, or limit the otherwise
+applicable privileges and immunities of an international
+organization, “in the light of the functions performed by
+any such international organization.” 22 U. S. C. §288.
+The court understood that provision to “delegate to the
+President the responsibility for updating the immunities
+of international organizations in the face of changing
+circumstances.” Atkinson, 156 F. 3d, at 1341. That delegation,
+the court reasoned, “undermine[d]” the view that
+Congress intended the IOIA to in effect update itself by
+incorporating changes in the law governing foreign sover-
+12 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+eign immunity. Ibid.
+We do not agree. The delegation provision is most
+naturally read to allow the President to modify, on a
+case-by-case basis, the immunity rules that would otherwise
+apply to a particular international organization. The
+statute authorizes the President to take action with respect
+to a single organization—“any such organization”—
+in light of the functions performed by “such organization.”
+28 U. S. C. §288. The text suggests retail rather than
+wholesale action, and that is in fact how authority under
+§288 has been exercised in the past. See, e.g., Exec. Order
+No. 12425, 3 CFR 193 (1984) (designating INTERPOL as
+an international organization under the IOIA but withholding
+certain privileges and immunities); Exec. Order
+No. 11718, 3 CFR 177 (1974) (same for INTELSAT). In
+any event, the fact that the President has power to modify
+otherwise applicable immunity rules is perfectly compatible
+with the notion that those rules might themselves
+change over time in light of developments in the law governing
+foreign sovereign immunity.
+The D. C. Circuit in Atkinson also gave no consideration
+to the opinion of the State Department, whose views in
+this area ordinarily receive “special attention.” Bolivarian
+Republic of Venezuela v. Helmerich & Payne Int’l. Drilling
+Co., 581 U. S. ___, ___ (2017) (slip op., at 9). Shortly after
+the FSIA was enacted, the State Department took the
+position that the immunity rules of the IOIA and the FSIA
+were now “link[ed].” Letter from Detlev F. Vagts, Office of
+the Legal Adviser, to Robert M. Carswell, Jr., Senior Legal
+Advisor, OAS, p. 2 (Mar. 24, 1977). The Department
+reaffirmed that view during subsequent administrations,
+and it has reaffirmed it again here. 2 That longstanding
+——————
+2
+See Letter from Roberts B. Owen, Legal Adviser, to Leroy D. Clark,
+Gen. Counsel, EEOC (June 24, 1980) in Nash, Contemporary Practice
+of the United States Relating to International Law, 74 Am. J. Int’l. L. 917,
+Cite as: 586 U. S. ____ (2019)
+13
+Opinion of the Court
+view further bolsters our understanding of the IOIA’s
+immunity provision.
+D
+The IFC argues that interpreting the IOIA’s immunity
+provision to grant anything less than absolute immunity
+would lead to a number of undesirable results.
+The IFC first contends that affording international
+organizations only restrictive immunity would defeat the
+purpose of granting them immunity in the first place.
+Allowing international organizations to be sued in one
+member country’s courts would in effect allow that member
+to second-guess the collective decisions of the others.
+It would also expose international organizations to money
+damages, which would in turn make it more difficult and
+expensive for them to fulfill their missions. The IFC
+argues that this problem is especially acute for international
+development banks. Because those banks use the
+tools of commerce to achieve their objectives, they may be
+subject to suit under the FSIA’s commercial activity exception
+for most or all of their core activities, unlike foreign
+sovereigns. According to the IFC, allowing such suits
+would bring a flood of foreign-plaintiff litigation into U. S.
+courts, raising many of the same foreign-relations con-
+——————
+918 (1980) (“By virtue of the FSIA, and unless otherwise specified in
+their constitutive agreements, international organizations are now
+subject to the jurisdiction of our courts in respect of their commercial
+activities, while retaining immunity for their acts of a public character.”);
+Letter from Arnold Kanter, Acting Secretary of State, to President
+George H. W. Bush (Sept. 12, 1992) in Digest of United States
+Practice in International Law 1016–1017 (S. Cummins & D. Stewart
+eds. 2005) (explaining that the Headquarters Agreement of the Organization
+of American States affords the OAS “full immunity from judicial
+process, thus going beyond the usual United States practice of affording
+restrictive immunity,” in exchange for assurances that OAS would
+provide for “appropriate modes of settlement of those disputes for which
+jurisdiction would exist against a foreign government under the” FSIA);
+Brief for United States as Amicus Curiae 24–29.
+14 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+cerns that we identified when considering similar litigation
+under the Alien Tort Statute. See Jesner v. Arab
+Bank, PLC, 584 U. S. ___, ___–___ (2018); Kiobel v. Royal
+Dutch Petroleum Co., 569 U. S. 108, 116–117 (2013).
+The IFC’s concerns are inflated. To begin, the privileges
+and immunities accorded by the IOIA are only default
+rules. If the work of a given international organization
+would be impaired by restrictive immunity, the organization’s
+charter can always specify a different level of immunity.
+The charters of many international organizations
+do just that. See, e.g., Convention on Privileges and Immunities
+of the United Nations, Art. II, §2, Feb. 13, 1946,
+21 U. S. T. 1422, T. I. A. S. No. 6900 (“The United Nations
+. . . shall enjoy immunity from every form of legal process
+except insofar as in any particular case it has expressly
+waived its immunity”); Articles of Agreement of the International
+Monetary Fund, Art. IX, §3, Dec. 27, 1945, 60
+Stat. 1413, T. I. A. S. No. 1501 (IMF enjoys “immunity
+from every form of judicial process except to the extent
+that it expressly waives its immunity”). Notably, the
+IFC’s own charter does not state that the IFC is absolutely
+immune from suit.
+Nor is there good reason to think that restrictive immunity
+would expose international development banks to
+excessive liability. As an initial matter, it is not clear that
+the lending activity of all development banks qualifies as
+commercial activity within the meaning of the FSIA. To
+be considered “commercial,” an activity must be “the type”
+of activity “by which a private party engages in” trade or
+commerce. Republic of Argentina v. Weltover, Inc., 504
+U. S. 607, 614 (1992); see 28 U. S. C. §1603(d). As the
+Government suggested at oral argument, the lending
+activity of at least some development banks, such as those
+that make conditional loans to governments, may not
+qualify as “commercial” under the FSIA. See Tr. of Oral
+Arg. 27–30.
+Cite as: 586 U. S. ____ (2019)
+15
+Opinion of the Court
+And even if an international development bank’s lending
+activity does qualify as commercial, that does not
+mean the organization is automatically subject to suit.
+The FSIA includes other requirements that must also be
+met. For one thing, the commercial activity must have a
+sufficient nexus to the United States. See 28 U. S. C.
+§§1603, 1605(a)(2). For another, a lawsuit must be “based
+upon” either the commercial activity itself or acts performed
+in connection with the commercial activity. See
+§1605(a)(2). Thus, if the “gravamen” of a lawsuit is tortious
+activity abroad, the suit is not “based upon” commercial
+activity within the meaning of the FSIA’s commercial
+activity exception. See OBB Personenverkehr AG v. Sachs,
+577 U. S. ___, ___–___ (2015); Saudi Arabia v. Nelson, 507
+U. S. 349, 356–359 (1993). At oral argument in this case,
+the Government stated that it has “serious doubts” whether
+petitioners’ suit, which largely concerns allegedly tortious
+conduct in India, would satisfy the “based upon” requirement.
+Tr. of Oral Arg. 25–26. In short, restrictive immunity
+hardly means unlimited exposure to suit for international
+organizations.
+* * *
+The International Organizations Immunities Act grants
+international organizations the “same immunity” from
+suit “as is enjoyed by foreign governments” at any given
+time. Today, that means that the Foreign Sovereign
+Immunities Act governs the immunity of international
+organizations. The International Finance Corporation is
+therefore not absolutely immune from suit.
+The judgment of the United States Court of Appeals for
+the D. C. Circuit is reversed, and the case is remanded for
+further proceedings consistent with this opinion.
+It is so ordered.
+16 JAM v. INTERNATIONAL FINANCE CORP.
+Opinion of the Court
+JUSTICE KAVANAUGH took no part in the consideration or
+decision of this case.
+Cite as: 586 U. S. ____ (2019)
+1
+BREYER, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+_________________
+No. 17–1011
+_________________
+BUDHA ISMAIL JAM, ET AL., PETITIONERS v.
+INTERNATIONAL FINANCE CORPORATION
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+[February 27, 2019]
+JUSTICE BREYER, dissenting.
+The International Organizations Immunities Act of 1945
+extends to international organizations “the same immunity
+from suit and every form of judicial process as is enjoyed
+by foreign governments.” 22 U. S. C. §288a(b). The
+majority, resting primarily upon the statute’s language
+and canons of interpretation, holds that the statute’s
+reference to “immunity” moves with the times. As a consequence,
+the statute no longer allows international organizations
+immunity from lawsuits arising from their
+commercial activities. In my view, the statute grants
+international organizations that immunity—just as foreign
+governments possessed that immunity when Congress
+enacted the statute in 1945. In reaching this conclusion,
+I rest more heavily than does the majority upon the
+statute’s history, its context, its purposes, and its consequences.
+And I write in part to show that, in difficult
+cases like this one, purpose-based methods of interpretation
+can often shine a useful light upon opaque statutory
+language, leading to a result that reflects greater legal
+coherence and is, as a practical matter, more sound.
+I
+The general question before us is familiar: Do the words
+of a statute refer to their subject matter “statically,” as it
+2 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+was when the statute was written? Or is their reference
+to that subject matter “dynamic,” changing in scope as the
+subject matter changes over time? It is hardly surprising,
+given the thousands of different statutes containing an
+untold number of different words, that there is no single,
+universally applicable answer to this question.
+Fairly recent cases from this Court make that clear.
+Compare New Prime Inc. v. Oliveira, 586 U. S. ___, ___
+(2019) (slip op., at 7) (adopting the interpretation of “‘contracts
+of employment’ ” that prevailed at the time of the
+statute’s adoption in 1925); Wisconsin Central Ltd. v.
+United States, 585 U. S. ___, ___ (2018) (slip op., at 2)
+(adopting the meaning of “‘money’” that prevailed at the
+time of the statute’s enactment in 1937); Carcieri v. Salazar,
+555 U. S. 379, 388 (2009) (interpreting the statutory
+phrase “‘now under Federal jurisdiction’” to cover only
+those tribes that were under federal jurisdiction at the
+time of the statute’s adoption in 1934); and Republic of
+Argentina v. Weltover, Inc., 504 U. S. 607, 612–613 (1992)
+(adopting the meaning of “ ‘commercial’” that was “attached
+to that term under the restrictive theory” when the
+Foreign Sovereign Immunities Act was enacted in 1976),
+with Kimble v. Marvel Entertainment, LLC, 576 U. S. ___,
+___ (2015) (slip op., at 14) (noting that the words “‘restraint
+of trade’” in the Sherman Act have been interpreted
+dynamically); West v. Gibson, 527 U. S. 212, 218 (1999)
+(interpreting the term “‘appropriate’” in Title VII’s remedies
+provision dynamically); and Allied-Bruce Terminix
+Cos. v. Dobson, 513 U. S. 265, 275–276 (1995) (interpreting
+the term “‘involving commerce’” in the Federal Arbitration
+Act dynamically).
+The Court, like petitioners, believes that the language of
+the statute itself helps significantly to answer the static/dynamic
+question. See ante, at 7–9. I doubt that the
+language itself helps in this case. Petitioners point to the
+words “as is” in the phrase that grants the international
+Cite as: 586 U. S. ____ (2019)
+3
+BREYER, J., dissenting
+organizations the “same immunity from suit . . . as is
+enjoyed by foreign governments.” Brief for Petitioners 23–
+24. They invoke the Dictionary Act, which states that
+“words used in the present tense include the future” “unless
+the context indicates otherwise.” 1 U. S. C. §1. But
+that provision creates only a presumption. And it did not
+even appear in the statute until 1948, after Congress had
+passed the Immunities Act. Compare §1, 61 Stat. 633,
+with §6, 62 Stat. 859.
+More fundamentally, the words “as is enjoyed” do not
+conclusively tell us when enjoyed. Do they mean “as is
+enjoyed” at the time of the statute’s enactment? Or “as is
+enjoyed” at the time a plaintiff brings a lawsuit? If the
+former, international organizations enjoy immunity from
+lawsuits based upon their commercial activities, for that
+was the scope of immunity that foreign governments
+enjoyed in 1945 when the Immunities Act became law. If
+the latter, international organizations do not enjoy that
+immunity, for foreign governments can no longer claim
+immunity from lawsuits based upon certain commercial
+activities. See 28 U. S. C. §1605(a)(2).
+Linguistics does not answer the temporal question. Nor
+do our cases, which are not perfectly consistent on the
+matter. Compare McNeill v. United States, 563 U. S. 816,
+821 (2011) (present-tense verb in the Armed Career Criminal
+Act requires applying the law at the time of previous
+conviction, not the later time when the Act is applied),
+with Dole Food Co. v. Patrickson, 538 U. S. 468, 478 (2003)
+(present-tense verb requires applying the law “at the time
+suit is filed”). The problem is simple: “Without knowing
+the point in time at which the law speaks, it is impossible
+to tell what is past and what is present or future.” Carr v.
+United States, 560 U. S. 438, 463 (2010) (ALITO, J., dissenting).
+It is purpose, not linguistics, that can help us
+here.
+The words “same . . . as,” in the phrase “same immunity
+4 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+. . . as,” provide no greater help. The majority finds support
+for its dynamic interpretation in the Civil Rights Act
+of 1866, which gives all citizens the “same right” to make
+and enforce contracts and to buy and sell property “as is
+enjoyed by white citizens.” 42 U. S. C. §§1981(a), 1982
+(emphasis added). But it is purpose, not words, that readily
+resolves any temporal linguistic ambiguity in that
+statute. The Act’s objective, like that of the Fourteenth
+Amendment itself, was a Nation that treated its citizens
+equally. Its purpose—revealed by its title, historical
+context, and other language in the statute—was “to guarantee
+the then newly freed slaves the same legal rights
+that other citizens enjoy.” CBOCS West, Inc. v. Humphries,
+553 U. S. 442, 448 (2008). Given this purpose, its
+dynamic nature is obvious.
+Similarly, judges interpreting the words “same . . . as”
+have long resolved ambiguity not by looking at the words
+alone, but by examining the statute’s purpose as well.
+Compare, e.g., Kugler’s Appeal, 55 Pa. 123, 123–125 (1867)
+(adopting a dynamic interpretation of “same as” statute in
+light of “plain” and “manifest” statutory purpose); and
+Gaston v. Lamkin, 115 Mo. 20, 34, 21 S. W. 1100, 1104
+(1893) (adopting a dynamic interpretation of “same as”
+election statute given the legislature’s intent to achieve
+“simplicity and uniformity in the conduct of elections”),
+with O’Flynn v. East Rochester, 292 N. Y. 156, 162, 54
+N. E. 2d 343, 346 (1944) (adopting a static interpretation
+of “same as” statute given that the legislature “did not
+contemplate” that subsequent changes to a referenced
+statute would apply (interpreting N. Y. Gen. Mun. Law
+Ann. §360(5) (West 1934))). There is no hard-and-fast rule
+that the statutory words “as is” or the statutory words
+“same as” require applying the law as it stands today.
+The majority wrongly believes that it can solve the
+temporal problem by bringing statutory canons into play.
+It relies on what it calls the “reference canon.” That canon,
+Cite as: 586 U. S. ____ (2019)
+5
+BREYER, J., dissenting
+as it appeared more than 75 years ago in Sutherland’s
+book on statutory construction, says that “when a statute
+refers to a general subject, the statute adopts the law on
+that subject as it exists whenever a question under the
+statute arises.” Ante, at 9 (citing 2 J. Sutherland, Statutory
+Construction §§5207–5208 (3d ed. 1943); emphasis
+added).
+But a canon is at most a rule of thumb. Indeed, Sutherland
+himself says that “[n]o single canon of interpretation
+can purport to give a certain and unerring answer.” 2
+Sutherland, supra, §4501, p. 316. And hornbooks, summarizing
+case law, have long explained that whether a
+reference statute adopts the law as it stands on the date of
+enactment or includes subsequent changes in the law to
+which it refers is “fundamentally a question of legislative
+intent and purpose.” Fox, Effect of Modification or Repeal
+of Constitutional or Statutory Provision Adopted by Reference
+in Another Provision, 168 A. L. R. 627, 628 (1947);
+see also 82 C. J. S., Statutes §485, p. 637 (2009) (“The
+question of whether a statute which has adopted another
+statute by reference will be affected by amendments made
+to the adopted statute is one of legislative intent and
+purpose”); id., at 638 (statute that refers generally to
+another body of law will ordinarily include subsequent
+changes in the adopted law only “as far as the changes are
+consistent with the purpose of the adopting statute”).
+Thus, all interpretive roads here lead us to the same
+place, namely, to context, to history, to purpose, and to
+consequences. Language alone cannot resolve the statute’s
+linguistic ambiguity.
+II
+“Statutory interpretation,” however, “is not a game of
+blind man’s bluff.” Dole Food Co., 538 U. S., at 484
+(BREYER, J., concurring in part and dissenting in part).
+We are “free to consider statutory language in light of a
+6 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+statute’s basic purposes,” ibid., as well as “‘the history of
+the times when it was passed,’” Leo Sheep Co. v. United
+States, 440 U. S. 668, 669 (1979) (quoting United States v.
+Union Pacific R. Co., 91 U. S. 72, 79 (1875)). In this case,
+historical context, purpose, and related consequences tell
+us a great deal about the proper interpretation of the
+Immunities Act.
+Congressional reports explain that Congress, acting in
+the immediate aftermath of World War II, intended the
+Immunities Act to serve two related purposes. First, it
+would “enabl[e] this country to fulfill its commitments in
+connection with its membership in international organizations.”
+S. Rep. No. 861, 79th Cong., 1st Sess., 3 (1945); see
+also id., at 2–3 (explaining that the Immunities Act was
+“basic legislation” expected to “satisfy in full the requirements
+of . . . international organizations conducting activities
+in the United States”); H. R. Rep. No. 1203, 79th
+Cong., 1st Sess., 3 (1945) (similar). And second, it would
+“facilitate fully the functioning of international organizations
+in this country.” S. Rep. No. 861, at 3.
+A
+I first examine the international commitments that
+Congress sought to fulfill. By 1945, the United States had
+entered into agreements creating several important multilateral
+organizations, including the United Nations (UN),
+the International Monetary Fund (IMF), the World Bank,
+the UN Relief and Rehabilitation Administration
+(UNRRA), and the Food and Agriculture Organization
+(FAO). See id., at 2.
+The founding agreements for several of these organizations
+required member states to grant them broad immunity
+from suit. The Bretton Woods Agreements, for example,
+provided that the IMF “shall enjoy immunity from
+every form of judicial process except to the extent that it
+expressly waives its immunity.” Articles of Agreement of
+Cite as: 586 U. S. ____ (2019)
+7
+BREYER, J., dissenting
+the International Monetary Fund, Art. IX, §3, Dec. 27,
+1945, 60 Stat. 1413, T. I. A. S. No. 1501. UNRRA required
+members, absent waiver, to accord the organization “the
+facilities, privileges, immunities, and exemptions which
+they accord to each other, including . . . [i]mmunity from
+suit and legal process.” 2 UNRRA, A Compilation of the
+Resolutions on Policy: First and Second Sessions of the
+UNRRA Council, Res. No. 32, p. 51 (1944). And the UN
+Charter required member states to accord the UN “such
+privileges and immunities as are necessary for the fulfillment
+of its purposes.” Charter of the United Nations, Art.
+105, 59 Stat. 1053, June 26, 1945, T. S. No. 993.
+These international organizations expected the United
+States to provide them with essentially full immunity.
+And at the time the treaties were written, Congress understood
+that foreign governments normally enjoyed immunity
+with respect to their commercial, as well as their
+noncommercial, activities. Thus, by granting international
+organizations “the same immunity from suit” that
+foreign governments enjoyed, Congress expected that
+international organizations would similarly have immunity
+in both commercial and noncommercial suits.
+More than that, Congress likely recognized that immunity
+in the commercial area was even more important for
+many international organizations than it was for most
+foreign governments. Unlike foreign governments, international
+organizations are not sovereign entities engaged
+in a host of different activities. See R. Higgins, Problems
+& Process: International Law and How We Use It 93
+(1994) (organizations do not act with “ ‘sovereign authority,’”
+and “to assimilate them to states . . . is not correct”).
+Rather, many organizations (including four of the five I
+mentioned above) have specific missions that often require
+them to engage in what U. S. law may well consider to be
+commercial activities. See infra, at 12.
+Nonetheless, under the majority’s view, the immunity of
+8 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+many organizations contracted in scope in 1952, when the
+State Department modified foreign government immunity
+to exclude commercial activities. Most organizations could
+not rely on the treaty provisions quoted above to supply
+the necessary immunity. That is because, unless the
+treaty provision granting immunity is “self-executing,” i.e.,
+automatically applicable, the immunity will not be effective
+in U. S. courts until Congress enacts additional legislation
+to implement it. See Medellin v. Texas, 552 U. S.
+491, 504–505 (2008); but see id., at 546–547 (BREYER, J.,
+dissenting). And many treaties are not self-executing.
+Thus, in the ordinary case, not even a treaty can guarantee
+immunity in cases arising from commercial activities.
+The UN provides a good example. As noted, the UN
+Charter required the United States to grant the UN all
+“necessary” immunities, but it was not self-executing. In
+1946, the UN made clear that it needed absolute immunity
+from suit, including in lawsuits based upon its commercial
+activities. See Convention on Privileges and Immunities
+of the United Nations, Art. II, §2, Feb. 13, 1946, 21
+U. S. T. 1422, T. I. A. S. No. 6900 (entered into force Apr.
+29, 1970); see also App. to S. Exec. Rep. No. 91–17, p. 14
+(1970) (“The U. N.’s immunity from legal process extends
+to matters arising out its commercial dealings . . . ”). But,
+until Congress ratified that comprehensive immunity
+provision in 1970, no U. S. law provided that immunity
+but for the Immunities Act. Id., at 1. Both the UN and
+the United States found this circumstance satisfactory
+because they apparently assumed the Immunities Act
+extended immunity in cases involving both commercial
+and noncommercial activities: When Congress eventually
+(in 1970) ratified the UN’s comprehensive immunity provision,
+the Senate reported that the long delay in ratification
+“appears to have been the result of the executive
+branch being content to operate under the provisions of
+the” Immunities Act. Id., at 2.
+Cite as: 586 U. S. ____ (2019)
+9
+BREYER, J., dissenting
+In light of this history, how likely is it that Congress,
+seeking to “satisfy in full the requirements of . . . international
+organizations conducting activities in the United
+States,” S. Rep. No. 861, at 2–3 (emphasis added), would
+have understood the statute to take from many international
+organizations with one hand the immunity it had
+given them with the other? If Congress wished the Act to
+carry out one of its core purposes—fulfilling the country’s
+international commitments—Congress would not have
+wanted the statute to change over time, taking on a meaning
+that would fail to grant not only full, but even partial,
+immunity to many of those organizations.
+B
+Congress also intended to facilitate international organizations’
+ability to pursue their missions in the United
+States. To illustrate why that purpose is better served by
+a static interpretation, consider in greater detail the work
+of the organizations to which Congress wished to provide
+broad immunity. Put the IMF to the side, for Congress
+enacted a separate statute providing it with immunity
+(absent waiver) in all cases. See 22 U. S. C. §286h. But
+UNRRA, the World Bank, the FAO, and the UN itself all
+originally depended upon the Immunities Act for the
+immunity they sought.
+Consider, for example, the mission of UNRRA. The
+United States and other nations created that organization
+in 1943, as the end of World War II seemed in sight. Its
+objective was, in the words of President Roosevelt, to
+“ ‘assure a fair distribution of available supplies among’”
+those liberated in World War II, and “‘to ward off death by
+starvation or exposure among these peoples.’” 1 G. Woodbridge,
+UNRRA: The History of the United Nations Relief
+and Rehabilitation Administration 3 (1950). By the time
+Congress passed the Immunities Act in 1945, UNRRA had
+obtained and shipped billions of pounds of food, clothing,
+10 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+and other relief supplies to children freed from Nazi concentration
+camps and to others in serious need. 3 id., at
+429; see generally L. Nicholas, Cruel World: The Children
+of Europe in the Nazi Web 442–513 (2005).
+These activities involved contracts, often made in the
+United States, for transportation and for numerous commercial
+goods. See B. Shephard, The Long Road Home:
+The Aftermath of the Second World War 54, 57–58 (2012).
+Indeed, the United States conditioned its participation on
+UNRRA’s spending what amounted to 67% of its budget on
+purchases of goods and services in the United States. Id.,
+at 57–58; see also Sawyer, Achievements of UNRRA as an
+International Health Organization, 37 Am. J. Pub. Health
+41, 57 (1947) (describing UNRRA training programs for
+foreign doctors within the United States, which presumably
+required entering into contracts); International Refugee
+Org. v. Republic S. S. Corp., 189 F. 2d 858, 860 (CA4
+1951) (describing successor organization’s transportation
+of displaced persons, presumably also under contract).
+Would Congress, believing that it had provided the absolute
+immunity that UNRRA sought and expected, also
+have intended that the statute be interpreted “dynamically,”
+thereby removing most of the immunity that it had
+then provided—not only potentially from UNRRA itself
+but also from other future international organizations
+with UNRRA-like objectives and tasks?
+C
+This history makes clear that Congress enacted the
+Immunities Act as part of an effort to encourage international
+organizations to locate their headquarters and carry
+on their missions in the United States. It also makes clear
+that Congress intended to enact “basic legislation” that
+would fulfill its broad immunity-based commitments to
+the UN, UNRRA, and other nascent organizations.
+S. Rep. No. 861, at 2. And those commitments, of neces-
+Cite as: 586 U. S. ____ (2019)
+11
+BREYER, J., dissenting
+sity, included immunity from suit in commercial areas, since
+organizations were buying goods and making contracts in
+the United States.
+To achieve these purposes, Congress enacted legislation
+that granted necessarily broad immunity. And that fact
+strongly suggests that Congress would not have wanted
+the statute to reduce significantly the scope of immunity
+that international organizations enjoyed, particularly
+organizations engaged in development finance, refugee
+assistance, or other tasks that U. S. law could well decide
+were “commercial” in nature. See infra, at 12.
+To that extent, an examination of the statute’s purpose
+supports a static, not a dynamic, interpretation of its
+cross-reference to the immunity of foreign governments.
+Unlike the purpose of the Civil Rights Act, the purpose
+here was not to ensure parity of treatment for international
+organizations and foreign governments. Instead, as
+the Court of Appeals for the D. C. Circuit pointed out
+years ago, the statute’s reference to the immunities of
+“foreign governments” was a “shorthand” for the immunities
+those foreign governments enjoyed at the time the Act
+was passed. Atkinson v. Inter-American Development
+Bank, 156 F. 3d 1335, 1340, 1341 (1998).
+III
+Now consider the consequences that the majority’s
+reading of the statute will likely produce—consequences
+that run counter to the statute’s basic purposes. Although
+the UN itself is no longer dependent upon the Immunities
+Act, many other organizations, such as the FAO and several
+multilateral development banks, continue to rely
+upon that Act to secure immunity, for the United States
+has never ratified treaties nor enacted statutes that might
+extend the necessary immunity, commercial and noncommercial
+alike.
+12 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+A
+The “commercial activity” exception to the sovereign
+immunity of foreign nations is broad. We have said that a
+foreign state engages in “commercial activity” when it
+exercises “‘powers that can also be exercised by private
+citizens.’” Republic of Argentina, 504 U. S., at 614. Thus,
+“a contract to buy army boots or even bullets is a ‘commercial’
+activity,” even if the government enters into the
+contract to “fulfil[l] uniquely sovereign objectives.” Ibid.;
+see also H. R. Rep. No. 94–1487, p. 16 (1976) (“[A] transaction
+to obtain goods or services from private parties would
+not lose its otherwise commercial character because it was
+entered into in connection with an [Agency for International
+Development] program”).
+As a result of the majority’s interpretation, many of the
+international organizations to which the United States
+belongs will discover that they are now exposed to civil
+lawsuits based on their (U. S.-law-defined) commercial
+activity. And because “commercial activity” may well have
+a broad definition, today’s holding will at the very least
+create uncertainty for organizations involved in finance,
+such as the World Bank, the Inter-American Development
+Bank, and the Multilateral Investment Guarantee Agency.
+The core functions of these organizations are at least
+arguably “commercial” in nature; the organizations exist
+to promote international development by investing in
+foreign companies and projects across the world. See Brief
+for International Bank for Reconstruction and Development
+et al. as Amici Curiae 1–4; Brief for Member Countries
+and the Multilateral Investment Guarantee Agency
+as Amici Curiae 13–15. The World Bank, for example,
+encourages development either by guaranteeing private
+loans or by providing financing from its own funds if private
+capital is not available. See Articles of Agreement of
+the International Bank for Reconstruction and Development,
+Art. I, Dec. 27, 1945, 60 Stat. 1440, T. I. A. S. No.
+Cite as: 586 U. S. ____ (2019)
+13
+BREYER, J., dissenting
+1502.
+Some of these organizations, including the International
+Finance Corporation (IFC), themselves believe they do not
+need broad immunity in commercial areas, and they have
+waived it. See, e.g., Articles of Agreement of the International
+Finance Corporation, Art. 6, §3, Dec. 5, 1955, 7
+U. S. T. 2214, 264 U. N. T. S. 118 (implemented by 22
+U. S. C. §282g); see also 860 F. 3d 703, 706 (CADC 2017).
+But today’s decision will affect them nonetheless. That is
+because courts have long interpreted their waivers in a
+manner that protects their core objectives. See, e.g.,
+Mendaro v. World Bank, 717 F. 2d 610, 614–615 (CADC
+1983). (This very case provides a good example. The D. C.
+Circuit held below that the IFC’s waiver provision does not
+cover petitioners’ claims because they “threaten the
+[IFC’s] policy discretion.” See 860 F. 3d, at 708.) But
+today’s decision exposes these organizations to potential
+liability in all cases arising from their commercial activities,
+without regard to the scope of their waivers.
+Under the majority’s interpretation, that broad exposure
+to liability is at least a reasonable possibility. And that
+being so, the interpretation undercuts Congress’ original
+objectives and the expectations that it had when it enacted
+the Immunities Act in 1945.
+B
+The majority’s opinion will have a further important
+consequence—one that more clearly contradicts the statute’s
+objectives and overall scheme. It concerns the important
+goal of weeding out lawsuits that are likely bad or
+harmful—those likely to produce rules of law that interfere
+with an international organization’s public interest
+tasks.
+To understand its importance, consider again that international
+organizations, unlike foreign nations, are
+multilateral, with members from many different nations.
+14 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+See H. R. Rep. No. 1203, at 1. That multilateralism is
+threatened if one nation alone, through application of its
+own liability rules (by nonexpert judges), can shape the
+policy choices or actions that an international organization
+believes it must take or refrain from taking. Yet that is
+the effect of the majority’s interpretation. By restricting
+the immunity that international organizations enjoy, it
+“opens the door to divided decisions of the courts of different
+member states,” including U. S. courts, “passing judgment
+on the rules, regulations, and decisions of the international
+bodies.” Broadbent v. Organization of Am. States,
+628 F. 2d 27, 35 (CADC 1980); cf. Singer, Jurisdictional
+Immunity of International Organizations: Human Rights
+and Functional Necessity Concerns, 36 Va. J. Int’l L. 53,
+63–64 (1995) (recognizing that “[i]t would be inappropriate
+for municipal courts to cut deep into the region of autonomous
+decision-making authority of institutions such as the
+World Bank”).
+Many international organizations, fully aware of their
+moral (if not legal) obligations to prevent harm to others
+and to compensate individuals when they do cause harm,
+have sought to fulfill those obligations without compromising
+their ability to operate effectively. Some, as I have
+said, waive their immunity in U. S. courts at least in part.
+And the D. C. Circuit, for nearly 40 years, has interpreted
+those waivers in a way that protects the organization
+against interference by any single state. See, e.g.,
+Mendaro, 717 F. 2d, at 615. The D. C. Circuit allows a
+lawsuit to proceed when “insistence on immunity would
+actually prevent or hinder the organization from conducting
+its activities.” Id., at 617. Thus, a direct beneficiary of
+a World Bank loan can generally sue the Bank, because
+“the commercial reliability of the Bank’s direct loans . . .
+would be significantly vitiated” if “beneficiaries were
+required to accept the Bank’s obligations without recourse
+to judicial process.” Id., at 618. Where, however, allowing
+Cite as: 586 U. S. ____ (2019)
+15
+BREYER, J., dissenting
+a suit would lead to “disruptive interference” with the
+organization’s functions, the waiver does not apply. Ibid.
+Other organizations have attempted to solve the liability/immunity
+problem by turning to multilateral, not
+single-nation, solutions. The UN, for instance, has
+agreed to “make provisions for appropriate modes of settlement
+of . . . [d]isputes arising out of contracts or other
+disputes of a private law character.” Convention on Privileges
+and Immunities of the United Nations, Art. VIII,
+§29, 21 U. S. T. 1438, T. I. A. S. No. 6900. It generally
+does so by agreeing to submit commercial disputes to
+arbitration. See Restatement (Third) of Foreign Relations
+Law of the United States §467, Reporters’ Note 7 (1987).
+Other organizations, including the IFC, have set up alternative
+accountability schemes to resolve disputes that
+might otherwise end up in court. See World Bank, Inspection
+Panel: About Us (describing World Bank’s threemember
+“independent complaints mechanism” for those
+“who believe that they have been . . . adversely affected by
+a World Bank-funded project”), https://inspectionpanel.org/
+about-us/about-inspection-panel (as last visited Feb. 25,
+2019); Compliance Advisor Ombudsman, How We Work:
+CAO Dispute Resolution (describing IFC and Multilateral
+Investment Guarantee Agency dispute-resolution
+process, the main objective of which is to help resolve issues
+raised about the “social and environmental impacts of
+IFC/MIGA projects”), www.cao-ombudsman.org/howwework/
+ombudsman.
+These alternatives may sometimes prove inadequate.
+And, if so, the Immunities Act itself offers a way for America’s
+Executive Branch to set aside an organization’s immunity
+and to allow a lawsuit to proceed in U. S. courts.
+The Act grants to the President the authority to “withhold,”
+to “withdraw,” to “condition,” or to “limit” any of the
+Act’s “immunities” in “light of the functions performed by
+any such international organization.” 22 U. S. C. §288.
+16 JAM v. INTERNATIONAL FINANCE CORP.
+BREYER, J., dissenting
+Were we to interpret the statute statically, then, the
+default rule would be immunity in suits arising from an
+organization’s commercial activities. But the Executive
+Branch would have the power to withdraw immunity
+where immunity is not warranted, as the Act itself provides.
+And in making that determination, it could consider
+whether allowing the lawsuit would jeopardize the
+organization’s ability to carry out its public interest tasks.
+In a word, the Executive Branch, under a static interpretation,
+would have the authority needed to separate lawsuit
+sheep from lawsuit goats.
+Under the majority’s interpretation, by contrast, there is
+no such flexibility. The Executive does not have the power
+to tailor immunity by taking into account the risk of a
+lawsuit’s unjustified interference with institutional objectives
+or other institutional needs. Rather, the majority’s
+holding takes away an international organization’s immunity
+(in cases arising from “commercial” activities)
+across the board. And without a new statute, there is no
+way to restore it, in whole or in part. Nothing in the
+present statute gives the Executive, the courts, or the
+organization the power to restore immunity, or to tailor
+any resulting potential liability, where a lawsuit threatens
+seriously to interfere with an organization’s legitimate
+needs and goals.
+Thus, the static interpretation comes equipped with
+flexibility. It comes equipped with a means to withdraw
+immunity where justified. But the dynamic interpretation
+freezes potential liability into law. It withdraws immunity
+automatically and irretrievably, irrespective of institutional
+harm. It seems highly unlikely that Congress
+would have wanted this result.
+* * *
+At the end of World War II, many in this Nation saw
+international cooperation through international organiza-
+Cite as: 586 U. S. ____ (2019)
+17
+BREYER, J., dissenting
+tion as one way both to diminish the risk of conflict and to
+promote economic development and commercial prosperity.
+Congress at that time and at the request of many of
+those organizations enacted the Immunities Act. Given
+the differences between international organizations and
+nation states, along with the Act’s purposes and the risk of
+untoward consequences, I would leave the Immunities Act
+where we found it—as providing for immunity in both
+commercial and noncommercial suits.
+My decision rests primarily not upon linguistic analysis,
+but upon basic statutory purposes. Linguistic methods
+alone, however artfully employed, too often can be used to
+justify opposite conclusions. Purposes, derived from context,
+informed by history, and tested by recognition of
+related consequences, will more often lead us to legally
+sound, workable interpretations—as they have consistently
+done in the past. These methods of interpretation can
+help voters hold officials accountable for their decisions
+and permit citizens of our diverse democracy to live together
+productively and in peace—basic objectives in
+America of the rule of law itself.
+With respect, I dissent.

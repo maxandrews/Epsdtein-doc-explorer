@@ -1,0 +1,1239 @@
+depression magnified by several times and then extended over a long period of time, and then
+reason about what this might be like ... and empathize based on their inferential conclusion.
+Reason is not antithetical to empathy but rather is the key to making empathy more broadly
+impactful.
+Finally, the enlightened stage of ethical development involves both a deeper compassion and
+a more deeply penetrating rationality and objectiveness. Empathy with all sentient beings is
+manageable in everyday life only once one has deeply reflected on one’s own self and largely
+freed oneself of the confusions and illusions that characterize much of the ordinary human’s
+inner existence. It is noteworthy, for example, that Buddhism contains both a richly developed
+ethics of universal compassion, and also an intricate logical theory of the inner workings of
+cognition [Stc00], detailing in exquisite rational detail the manner in which minds originate
+structures and dynamics allowing them to comprehend themselves and the world.
+12.4.4 Integrative Ethics and Integrative AGI
+What does our integrative approach to ethical development have to say about the ethical
+development of AGI systems? The lessons are relatively straighforward, if one considers an AGI
+system that, like CogPrime, explicitly contains components dedicated to logical inference and
+to simulation. Application of the above ethical ideas to other sorts of AGI systems is also quite
+possible, but would require a lengthier treatment and so won’t be addressed here.
+In the context of a CogPrime-type AGI system, Kolhberg’s stages correspond to increasingly
+sophisticated application of logical inference to matters of rights and fairness. It is not clear
+whether humans contain an innate sense of fairness. In the context of AGIs, it would be possible
+to explicitly wire a sense of fairness into an AGI system, but in the context of a rich environment
+and active human teachers, this actually appears quite unnecessary. Experiential instruction in
+the notions of rights and fairness should suffice to teach an inference-based AGI system how to
+manipulate these concepts, analogously to teaching the same AGI system how to manipulate
+number, mass and other such quantities. Ascending the Kohlberg stages is then mainly a matter
+of acquiring the ability to carry out suitably complex inferences in the domain of rights and
+fairness. The hard part here is inference control – choosing which inference steps to take – and
+in a sophisticated AGI inference engine, inference control will be guided by experience, so that
+the more ethical judgments the system has executed and witnessed, the better it will become at
+making new ones. And, as argued above, simulative activity can be extremely valuable for aiding
+with inference control. When a logical inference process reaches a point of acute uncertainty
+(the backward or forward chaining inference tree can’t decide which expansion step to take), it
+can run a simulation to cut through the confusion – i.e., it can use empathy to decide which
+12.4 Ethical Synergy 217
+Stage
+Pre-ethical
+Conventional Ethics
+Characteristics
+• Piagetan infantile to early concrete (aka pre-operational)
+• Radical selfishness or selflessness may, but do not necessarily,
+occur
+• No coherent, consistent pattern of consideration for the
+rights, intentions or feelings of others
+• Empathy is generally present, but erratically
+• Concrete cognitive basis
+• Perry’s Dualist and Multiple stages
+• The common sense of the Golden Rule is appreciated,
+with cultural conventions for abstracting principles from
+behaviors
+• One’s own ethical behavior is explicitly compared to that
+of others
+• Development of a functional, though limited, theory of
+mind
+• Ability to intuitively conceive of notions of fairness and
+rights
+• Appreciation of the concept of law and order, which may
+sometimes manifest itself as systematic obedience or systematic
+disobedience
+• Empathy is more consistently present, especially with
+others who are directly similar to oneself or in situations
+similar to those one has directly experienced
+• Degrees of selflessness or selfishness develop based on ethical
+groundings and social interactions.
+Table 12.4: Integrative Model of the Stages of Ethical Development, Part 1
+logical inference step to take in thinking about applying the notions of rights and fairness to a
+given situation.
+Gilligan’s stages correspond to increasingly sophisticated control of empathic simulation –
+which in a CogPrime-type AGI system, is carried out by a specific system component devoted
+to running internal simulations of aspects of the outside world, which includes a subcomponent
+specifically tuned for simulating sentient actors. The conventional stage has to do with the raw,
+uncontrolled capability for such simulation; and the post-conventional stage corresponds to its
+contextual, goal-oriented control. But controlling empathy, clearly, requires subtle management
+of various uncertain contextual factors, which is exactly what uncertain logical inference is
+good at – so, in an AGI system combining an uncertain inference component with a simulative
+component, it is the inference component that would enable the nuanced control of empathy
+allowing the ascent to Gilligan’s post-conventional stage.
+In our integrative perspective, in the context of an AGI system integrating inference and
+simulation components, we suggest that the ascent from the pre-ethical to the conventional
+stage may be carried out largely via independent activity of these two components. Empathy
+is needed, and reasoning about fairness and rights are needed, but the two need not intimately
+and sensitively intersect – though they must of course intersect to some extent.
+218 12 The Engineering and Development of Ethics
+Stage
+Mature Ethics
+Characteristics
+• Formal cognitive basis
+• Perry’s Relativist and “Constructed Knowledge” stages
+• The abstraction involved with applying the Golden Rule
+in practice is more fully understood and manipulated,
+leading to limited but nonzero deployment of the Categorical
+Imperative
+• Attention is paid to shaping one’s ethical principles into
+a coherent logical system
+• Rationalized, moderated selfishness or selflessness.
+• Empathy is extended, using reason, to individuals and
+situations not directly matching one’s own experience
+• Theory of mind is extended, using reason, to counterintuitive
+or experientially unfamiliar situations
+• Reason is used to control the impact of empathy on behavior
+(i.e. rational judgments are made regarding when
+to listen to empathy and when not to)
+• Rational experimentation and correction of theoretical
+models of ethical behavior, and reconciliation with observed
+behavior during interaction with others.
+• Conflict between pragmatism of social contract orientation
+and idealism of universal ethical principles.
+• Understanding of ethical quandaries and nuances develop
+(pragmatist modality), or are rejected (idealist modality).
+• Pragmatically critical social citizen. Attempts to maintain
+a balanced social outlook. Considers the common
+good, including oneself as part of the commons, and acts
+in what seems to be the most beneficial and practical
+manner.
+Table 12.5: Integrative Model of the Stages of Ethical Development, Part 2
+The main engine of advancement from the conventional to mature stage, we suggest, is robust
+and subtle integration of the simulative and inferential components. To expand empathy beyond
+the most obvious cases, analogical inference is needed; and to carry out complex inferences about
+justice, empathy-guided inference-control is needed.
+Finally, to advance from the mature to the enlightened stage, what is required is a very
+advanced capability for unified reflexive inference and simulation. The system must be able
+to understand itself deeply, via modeling itself both simulatively and inferentially – which
+will generally be achieved via a combination of being good at modeling, and becoming less
+convoluted and more coherent, hence making self-modeling easier.
+Of course, none of this tells you in detail how to create an AGI system with advanced
+ethical capabilities. What it does tell you, however, is one possible path that may be followed to
+achieve this end goal. If one creates an integrative AGI system with appropriately interconnected
+inferential and simulative components, and treats it compassionately and fairly, and provides
+it extensive, experientially grounded ethical instruction in a rich social environment, then the
+AGI system should be able to ascend the ethical hierarchy and achieve a high level of ethical
+sophistication. In fact it should be able to do so more reliably than human beings because of
+the capability we have to identify its errors via inspecting its internal knowedge-stage, which
+12.5 Clarifying the Ethics of Justice: Extending the Golden Rule in to a Multifactorial Ethical Model 219
+Stage
+Enlightened Ethics
+Characteristics
+• Reflexive cognitive basis
+• Permeation of the categorical imperative and the quest
+for coherence through inner as well as outer life
+• Experientially grounded and logically supported rejection
+of the illusion of moral certainty in favor of a case-specific
+analytical and empathetic approach that embraces the
+uncertainty of real social life
+• Deep understanding of the illusory and biased nature of
+the individual self, leading to humility regarding one’s
+own ethical intuitions and prescriptions
+• Openness to modifying one’s deepest, ethical (and other)
+beliefs based on experience, reason and/or empathic communion
+with others
+• Adaptive, insightful approach to civil disobedience, considering
+laws and social customs in a broader ethical and
+pragmatic context
+• Broad compassion for and empathy with all sentient beings
+• A recognition of inability to operate at this level at all
+times in all things, and a vigilance about self-monitoring
+for regressive behavior.
+Table 12.6: Integrative Model of the Stages of Ethical Development, Part 3
+will enable us to tailor its environment and instructions more suitably than can be done in the
+human case.
+If an absolute guarantee of the ethical soundness of an AGI is what one is after, the line of
+thinking proposed here is not at all useful. Experiential education is by its nature an uncertain
+thing. One can strive to minimize the uncertainty, but it will still exist. Inspection of the
+internals of an AGI’s mind is not a total solution to uncertainty minimization, because any
+AGI capable of powerful general intelligence is going to have a complex internal state that
+no external observer will be able to fully grasp, no matter how transparent the knowledge
+representation.
+However, if what one is after is a plausible, pragmatic path to architecting and educating
+ethical AGI systems, we believe the ideas presented here constitute a sensible starting-point.
+Certainly there is a great deal more to be learned and understood – the science and practice
+of AGI ethics, like AGI itself, are at a formative stage at present. What is key, in our view, is
+that as AGI technology develops, AGI ethics develops alongside and within it, in a thoroughly
+coupled way.
+12.5 Clarifying the Ethics of Justice: Extending the Golden Rule in
+to a Multifactorial Ethical Model
+One of the issues with the "ethics of justice" as reviewed above, which makes it inadequate
+to serve as the sole basis of an AGI ethical system (though it may certainly play a significant
+220 12 The Engineering and Development of Ethics
+role), is the lack of any clear formulation of what "justice" means. This section explores this
+issue, via detailed consideration of the “Golden Rule” folk maxim do unto others as you
+would have them do unto you – a classical formulation of the notion of fairness and justics
+– to AGI ethics. Taking the Golden Rule as a starting-point, we will elaborate five ethical
+imperatives that incorporate aspects of the notion of ethical synergy discussed above. Simple as
+it may seem, the Golden Rule actually elicits a variety of deep issues regarding the relationship
+between ethics, experience and learning. When seriously analyzed, it results in a multifactorial
+elaboration, involving the combination of various factors related to the basic Golden Rule idea.
+Which brings us back in the end to the potential value of methods like CEV, CAV or CBV for
+understanding how human ethics balances the multiple factors. Our goal here is not to present
+any kind of definitive analysis of the ethics of justice, but just to briefly and roughly indicate
+a number of the relevant significant issues – things that anyone designing or teaching an AGI
+would do well to keep in mind.
+The trickiest aspect of the Golden Rule, as has been frequently observed, is achieving the
+right level of abstraction. Taken too literally, the Golden Rule would suggest, for instance, that
+a parent should not wipe a child’s soiled bottom because the parent does not want the child to
+wipe the parent’s soiled bottom. But if the parent interprets the Golden Rule more intelligently
+and abstractly, the parent may conclude that they should wipe the child’s bottom after all:
+they should “wipe the child’s bottom when the child can’t do it themselves”, consistently with
+believing that the child should “wipe the parent’s bottom when the parent can’t do it themselves”
+(which may well happen eventually should the parent develop incontinence in old age).
+This line of thinking leads to Kant’s Categorical Imperative [Kan64] which (in one interpretation)
+states essentially that one should “Act only according to that maxim whereby you
+can at the same time will that it should become a universal law." The Categorical Imperative
+adds precision to the Golden Rule, but also removes the practicality of the latter. Formalizing
+the “implicit universal law” underlying an everyday action is a huge problem, falling prey
+to the same issue that has kept us from adequately formalizing the rules of natural language
+grammar, or formalizing common-sense knowledge about everyday object like cups, bowls and
+grass (substantial effort notwithstanding, e.g. Cyc in the commonsense knowledge case, and the
+whole discipline of modern linguistics in the NL case). There is no way to apply the Categorical
+Imperative, as literally stated, in everyday life.
+Furthermore, if one wishes to teach ethics as well as to practice it, the Categorical Imperative
+actually has a significant disadvantage compared to some other possible formulations of
+the Golden Rule. The problem is that, if one follows the Categorical Imperative, one’s fellow
+members of society may well never understand the principles under which one is acting. Each
+of us may internally formulate abstract principles in a different way, and these may be very
+difficult to communicate, especially among individuals with different belief systems, different
+cognitive architectures, or different levels of intelligence. Thus, if one’s goal is not just to act
+ethically, but to encourage others to act ethically by setting a good example, the Categorical
+Imperative may not be useful at all, as others may be unable to solve the “inverse problem” of
+guessing your intended maxim from your observed behavior.
+On the other hand, one wouldn’t want to universally restrict one’s behavioral maxims to
+those that one’s fellow members of society can understand – in that case, one would have to act
+with a two-year old or a dog according to principles that they could understand, which would
+clearly be unethical according to human common sense. (Every two-year-old, once they grow
+up, would be grateful to their parents for not following this sort of principle.)
+12.5 Clarifying the Ethics of Justice: Extending the Golden Rule in to a Multifactorial Ethical Model 221
+And the concept of “setting a good example” ties in with an important concept from learning
+theory: imitative learning. Humans appear to be hard-wired for imitative learning, in part via
+mirror neuron systems in the brain; and, it seems clear that at least in the early stages of AGI
+development, imitative learning is going to play a key role. Copying what other agents do is an
+extremely powerful heuristic, and while AGIs may eventually grow beyond this, much of their
+early ethical education is likely to arise during a phase when they have not done so. A strength
+of the classic Golden Rule is that one is acting according to behaviors that one wants one’s
+observers to imitate – which makes sense in that many of these observers will be using imitative
+learning as a significant part of their learning toolkit.
+The truth of the matter, it seems, is (as often happens) not all that simple or elegant. Ethical
+behavior seems to be most pragmatically viewed as a multi-objective optimization problem,
+where among the multiple objectives are three that we have just discussed, and two others that
+emerge from learning theory and will be discussed shortly:
+1. The imitability (i.e. the Golden Rule fairly narrowly and directly construed): the goal of
+acting in a way so that having others directly imitate one’s actions, in directly comparable
+contexts, is desirable to oneself
+2. The comprehensibility: the goal of acting in a way so that others can understand the
+principles underlying one’s actions
+3. Experiential groundedness. An intelligent agent should not be expected to act according
+to an ethical principle unless there are many examples of the principle-in-action in its own
+direct or observational experience
+4. The categorical imperative: Act according to abstract principles that you would be
+happy to see implemented as universal laws
+5. Logical coherence. An ethical system should be roughly logically coherent, in the sense
+that the different principles within it should mesh well with one another and perhaps even
+naturally emerge from each other.
+Just for convenience, without implying any finality or great profundity to the list, we will refer
+to these as the "five imperatives."
+The above are all ethical objectives to be valued and balanced, to different extents in different
+contexts. The imitability imperative, obviously, loses importance in societies of agents that don’t
+make heavy use of imitative learning. The comprehensibility imperative is more important
+in agents that value social community-building generally, and less so in agent that are more
+isolative and self-focused.
+Note that the fifth point given above is logically of a different nature than the four previous
+ones. The first four imperatives govern individual ethical principles; the fifth regards systems of
+ethical principles, as they interact with each other. Logical coherence is of significant but varying
+importance in human ethical systems. Huge effort has been spent by theologians of various
+stripes in establishing and refining the logical coherence of the ethical systems associated with
+their religions. However, it is arguably going to be even more important in the context of AGI
+systems, especially if these AGI systems utilize cognitive methods based on logical inference,
+probability theory or related methods.
+Experiential groundedness is important because making pragmatic ethical judgments is
+bound to require reference to an internal library of examples (“episodic ethics”) in which ethical
+principles have previously been applied. This is required for analogical reasoning, and in
+logic-based AGI systems, is also required for pruning of the logical inference trees involved in
+determining ethical judgments.
+222 12 The Engineering and Development of Ethics
+To the extent that the Golden Rule is valued as an ethical imperative, experiential grounding
+may be supplied via observing the behaviors of others. This in itself is a powerful argument in
+favor of the Golden Rule: without it, the experiential library a system possesses is restricted to
+its own experience, which is bound to be a very small library compared to what it can assemble
+from observing the behaviors of others.
+The overall upshot is that, ideally, an ethical intelligence should act according to a logically
+coherent system of principles, which are exemplified in its own direct and
+observational experience, which are comprehensible to others and set a good example
+for others, and which would serve as adequate universal laws if somehow
+thus implemented. But, since this set of criteria is essentially impossible to fulfill in practice,
+real-world intelligent agents must balance these various criteria – often in complex and
+contextually-dependent ways.
+We suggest that ethically advanced humans, in their pragmatic ethical choices, tend to act in
+such a way as to appropriately contextually balance the above factors (along with other criteria,
+but we have tried to articulate the most key factors). This sort of multi-factorial approach is
+not as crisp or elegant as unidimensional imperatives like the Golden Rule or the Categorical
+Imperative, but is more realistic in light of the complexly interacting multiple determinants
+guiding individual and group human behavior.
+And this brings us back to CEV, CAV, CBV and other possible ways of mining ethical
+supergoals from the community of existing human minds. Given that abstract theories of ethics,
+when seriously pursued as we have done in this section, tend to devolve into complex balancing
+acts involving multiple factors – one then falls back into asking how human ethical systems
+habitually perform these balancing acts. Which is what CEV, CAV, CBV try to measure.
+12.5.1 The Golden Rule and the Stages of Ethical Development
+Next we explore more explicitly how these Golden Rule based imperatives align with the ethical
+developmental stages we have outlined here. With this in mind, specific ethical qualities
+corresponding to the five imperatives have been italicized in the above table of developmental
+stages.
+It seems that imperatives 1-3 are critical for the passage from the pre-ethical to the conventional
+stages of ethics. A child learns ethics largely by copying others, and by being interacted
+with according to simply comprehensible implementations of the Golden Rule. In general, when
+interacting with children learning ethics, it is important to act according to principles they can
+comprehend. And given the nature of the concrete stage of cognitive development, experiential
+groundedness is a must.
+As a hypothesis regarding the dynamics underlying the psychological development of conventional
+ethics, what we propose is as follows: The emergence of concrete-stage cognitive
+capabilities leads to the capability for fulfillment of ethical imperatives 1 and 2 – a comprehensible
+and workable implementation of the Golden Rule, based on a combination of inferential
+and simulative cognition (operating largely separately at this stage, as will be conjectured below).
+The effective interoperation of ethical imperatives 1-3, enacted in an appropriate social
+environment, then leads to the other characteristics of the conventional ethical stage. The first
+three imperatives can thus be viewed as the seed from which springs the general nature of
+conventional ethics.
+12.5 Clarifying the Ethics of Justice: Extending the Golden Rule in to a Multifactorial Ethical Model 223
+On the other hand, logical coherence and the categorical imperative (imperatives 5 and 4)
+are matters for the formal stage of cognitive development, which come along only with the
+mature approach to ethics. These come from abstracting ethics beyond direct experience and
+manipulating them abstractly and formally – a stage which has the potential for more deeply
+and broadly ethical behavior, but also for more complicated ethical perversions (it is the mature
+capability for formal ethical reasoning that is able to produce ungrounded abstractions such
+as “I’m torturing you for your own good”). Developmentally, we suggest that once the capability
+for formal reasoning matures, the categorical imperative and the quest for logical ethical
+coherence naturally emerge, and the sophisticated combination of inferential and simulative
+cognition embodied in an appropriate social context then result in the emergence of the various
+characteristics typifying the mature ethical stage.
+Finally, it seems that one key aspect of the passage from the mature to the enlightened stage
+of ethics is the penetration of these two final imperatives more and more deeply into the judging
+mind itself. The reflexive stage of cognitive development is in part about seeking a deep logical
+coherence between the aspects of one’s own mind, and making reasoned modifications to one’s
+mind so as to improve the level of coherence. And, much of the process of mental discipline and
+purification that comes with the passage to enlightened ethics has to do with the application
+of the categorical imperative to one’s own thoughts and feelings – i.e. making a true inner
+systematic effort to think and feel only those things one judges are actually generally good
+and right to be thinking and feeling. Applying these principles internally appears critical for
+effectively applying them externally, for reasons that are doubtlessly bound up with the interpenetration
+of internal and external reality within the thinking mind, and for the “distributed
+cognition” phenomenon wherein individual mind is itself an approximative abstraction to the
+reality in which each individual’s mind is pragmatically extended across their social group and
+their environment [Hut95].
+Obviously, these are complex issues and we’re not posing the exploratory discussion given
+here as conclusive in any sense. But what seems generally clear from this line of thinking is
+that the complex balance between the multiple factors involved in AGI ethics, shifts during a
+system’s development. If you did CEV, CAV or CBV among five year old humans, ten year
+old humans, or adult humans, you would get different results. Probably you’d also get different
+results from senior citizens! The way the factors are balanced depends on the mind’s cognitive
+and emotional stage of development.
+12.5.2 The Need for Context-Sensitivity and Adaptiveness in
+Deploying Ethical Principles
+As well as depending on developmental stage, there is also an obvious and dramatic contextsensitivity
+involved here – both in calculating the fulfillment of abstract ethical imperatives,
+and in balancing various imperatives against each other. As an example, consider the simple
+Asimovian maxim “I will not harm humans,” which may be seen to follow from the Golden Rule
+for any agent that doesn’t itself want to be harmed, and that considers humans as valid agents
+on the same ethical level as itself. A more serious attempt to formulate this as an ethical maxim
+might look something like
+224 12 The Engineering and Development of Ethics
+“I will not harm humans, nor through inaction allow harm to befall them. In situations
+wherein one or more humans is attempting to harm another individual or group, I shall endeavor
+to prevent this harm through means which avoid further harm. If this is unavoidable, I shall
+select the human party to back based on a reckoning of their intentions towards others, and
+implement their defense through the optimal balance between harm minimization and efficacy.
+My ultimate goal is to preserve as much as possible of humanity, even if an individual or
+subgroup of humans must come to harm to do so.”
+However, it’s obvious that even a more elaborated principle like this is potentially subject to
+extensive abuse. Many of the genocides scarring human history have been committed with the
+goal of preserving and bettering humanity writ large, at the expense of a group of “undesirables.”
+Further refinement would be necessary in order to define when the greater good of humanity
+may actually be served through harm to others. A first actor principle of aggression might
+seem to solve this problem, but sometimes first actors in violent conflict are taking preemptive
+measures against the stated goals of an enemy to destroy them. Such situations become very
+subtle. A single simple maxim can not deal with them very effectively. Networks of interrelated
+decision criteria, weighted by desirability of consequence and with reference to probabilistically
+ordered potential side-effects (and their desirability weightings), are required in order to make
+ethical judgments. The development of these networks, just like any other knowledge network,
+comes from both pedagogy and experience – and different thoughtful, ethical agents are bound
+to arrive at different knowledge-networks that will lead to different judgments in real-world
+situations.
+Extending the above “mostly harmless” principle to AGI systems, not just humans, would
+cause it to be more effective in the context of imitative learning. The principle then becomes an
+elaborated version of “I will not harm sentient beings.” As the imitative-learning-enabled AGI
+observes humans acting so as to minimize harm to it, it will intuitively and experientially learn
+to act in such a way as to minimize harm to humans. But then this extension naturally leads
+to confusion regarding various borderline cases. What is a sentient being exactly? Is a sleeping
+human sentient? How about a dead human whose information could in principle be restored via
+obscure quantum operations, leading to some sort of resurrection? How about an AGI whose
+code has been improved – is there an obligation to maintain the prior version as well, if it is
+substantially different that its upgrade constitutes a whole new being?
+And what about situations in which failure to preserve oneself will cause much more harm to
+others than acting in self defense will. It may be the case that human or group of humans seeks
+to destroy an AGI in order to pave the way for the enslavement or murder of people under the
+protection of the AGI. Even if the AGI has been given an ethical formulation of the “mostly
+harmless” principle which allows it to harm the attacking humans in order to defend its charges,
+if it is not able to do so in order to defend itself, simply destroying the AGI first will enable the
+slaughter of those who rely on it. Perhaps a more sensible formulation would allow for some
+degree of self defense, and Asimov solved this problem with his third law. But where to draw
+the line between self defense and the greater good also becomes a very complicated issue.
+Creating hard and fast rules to cover all the various situations that may arise is essentially
+impossible – the world is ever-changing and ethical judgments must adapt accordingly. This
+has been true even throughout human history – so how much truer will it be as technological
+acceleration continues? What is needed is a system that can deploy its ethical principles in an
+adaptive, context-appropriate way, as it grows and changes along with the world it’s embedded
+in.
+12.5 Clarifying the Ethics of Justice: Extending the Golden Rule in to a Multifactorial Ethical Model 225
+And this context-sensitivity has the result of intertwining ethical judgment with all sorts
+of other judgments – making it effectively impossible to extract “ethics” as one aspect of an
+intelligent system, separate from other kinds of thinking and acting the system does. This
+resonates with many prior observations by others, e.g. Eliezer Yudkowsky’s insistence that
+what we need are not ethicists of science and engineering, but rather ethical scientists and
+engineers – because the most meaningful and important ethical judgments regarding science
+and engineering generally come about in a manner that’s thoroughly interwined with technical
+practice, and hence are very difficult for a non-practitioner to richly appreciate [Gil82].
+What this context-sensitivity means is that, unless humans and AGIs are experiencing the
+same sorts of contexts, and perceiving these contexts in at least approximately parallel ways,
+there is little hope of translating the complex of human ethical judgments to these AGIs. This
+conclusion has significant implications for which routes to AGI are most likely to lead to success
+in terms of AGI ethics. We want early-stage AGIs to grow up in a situation where their minds
+are primarily and ongoingly shaped by shared experiences with humans. Supplying AGIs with
+abstract ethical principles is not likely to do the trick, because the essence of human ethics
+in real life seems to have a lot to do with its intuitively appropriate application in various
+contexts. We transmit this sort of ethical praxis to humans via shared experience, and it seems
+most probably that in the case of AGIs the transmission must be done the same sort of way.
+Some may feel that simplistic maxims are less “error prone” than more nuanced, contextsensitive
+ones. But the history of teaching ethics to human students does not support the idea
+that limiting ethical pedagogy to slogans provides much value in terms of ethical development. If
+one proceeds from the idea that AGI ethics must be hard-coded in order to work, then perhaps
+the idea that simpler ethics means simpler algorithms, and therefore less error potential, has
+some merit as an initial state. However, any learning system quickly diverges from its initial
+state, and an ongoing, nuanced relationship between AGIs and humans will – whether we like
+it or not – form the basis for developmental AGI ethics. AGI intransigence and enmity is
+not inevitable, but what is inevitable is that a learning system will acquire ideas about both
+theory and actions from the other intelligent entities in its environment. Either we teach AGIs
+positive ethics through our interactions with them – both presenting ethical theory and behaving
+ethically to them – or the potential is there for them to learn antisocial behavior from us even
+if we pre-load them with some set of allegedly inviolable edicts.
+All in all, developmental ethics is not as simple as many people hope. Simplistic approaches
+often lead to disastrous consequences among humans, and there is no reason to think this
+would be any different in the case of artificial intelligences. Most problems in ethics have cases
+in which a simplistic ethical formulation requires substantial revision to deal with extenuating
+circumstances and nuances found in real world situations. Our goal in this chapter is not to
+enumerate a full set of complex networks of interacting ethical formulations as applicable to
+AGI systems (that is a project that will take years of both theoretical study and hands-on
+research), but rather to point out that this program must be undertaken in order to facilitate
+a grounded and logically defensible system of ethics for artificial intelligences, one which is as
+unlikely to be undermined by subsequent self-modification of the AGI as is possible. Even so,
+there is still the risk that whatever predispositions are imparted to the AGIs through initial
+codification of ethical ideas in the system’s internal logic representation, and through initial
+pedagogical interactions with its learning systems, will be undermined through reinforcement
+learning of antisocial behavior if humans do not interact ethically with AGIs. Ethical treatment
+is a necessary task for grounding ethics and making them unlikely to be distorted during internal
+rewriting.
+226 12 The Engineering and Development of Ethics
+The implications of these ideas for ethical instruction are complex and won’t be fully elaborated
+here, but a few of them are compact and obvious:
+1. The teacher(s) must be observed to follow their own ethical principles, in a variety of
+contexts that are meaningful to the AGI
+2. The system of ethics must be relevant to the recipient’s life context, and embedded within
+their understanding of the world.
+3. Ethical principles must be grounded in both theory-of-mind thought experiments (emphasizing
+logical coherence), and in real life situations in which the ethical trainee is required
+to make a moral judgment and is rewarded or reproached by the teacher(s), including the
+imparting of explanatory augmentations to the teachings regarding the reason for the particular
+decision on the part of the teacher.
+Finally, harking forward to the next section which emphasizes the importance of respecting
+the freedom of AGIs, we note that it is implicit in our approach to AGI ethics instruction
+that we consider the student, the AGI system, as an autonomous agent with its own “will”
+and its own capability to flexibly adapt to its environment and experience. We contend that
+the creation of ethical formations obeying the above imperatives is not antithetical to the
+possession of a high degree of autonomy on the part of AGI systems. On the contrary, to have
+any chance of succeeding, it requires fairly cognitively autonomous AGI systems. When we
+discuss the idea of ethical formulations that are unlikely to be undermined by the ongoing
+self-revision of an AGI mind, we are talking about those which are sufficiently believable that
+a volitional intelligence with the capacity to revise its knowledge (“change its mind”) will find
+the formulations sufficiently convincing that there will be little incentive to experiment with
+potentially disastrous ethical alternatives. The best hope of achieving this is via the human
+mentors and trainers setting a good example in a context supporting rich interaction and
+observation, and presenting compelling ethical arguments that are coherent with the system’s
+experience.
+12.6 The Ethical Treatment of AGIs
+We now make some more general comments about the relation of the Golden Rule and its
+elaborations in an AGI context. While the Golden Rule is considered somewhat commonsensical
+as a maxim for guiding human-human relationships, it is surprisingly controversial in terms of
+historical theories of AGI ethics. At its essence, any “Golden Rule” approach to AGI ethics
+involves humans treating AGIs ethically by – in some sense; at some level of abstraction –
+treating them as we wish to ourselves be treated. It’s worth pointing out the wild disparity
+between the Golden Rule approach and Asimov’s laws of robotics, which are arguably the first
+carefully-articulated proposal regarding AGI ethics (see Table 12.7).
+Of course, Asimov’s laws were designed to be flawed – otherwise they would have led to
+boring fiction. But the sorts of flaws Asimov exploited in his stories are different than the
+flaw we wish to point out here – which is that the laws, especially the second one, are highly
+asymmetrical (they involve doing unto robots things that few humans would want done unto
+them) and are also arguably highly unethical to robots. The second law is tantamount to a call
+for robot slavery, and it seems unlikely that any intelligence capable of learning, and of volition,
+which is subjected to the second law would desire to continue obeying the zeroth and first laws
+12.6 The Ethical Treatment of AGIs 227
+Law
+Zeroth
+First
+Second
+Third
+Principle
+A robot must not merely act in the interests of individual
+humans, but of all humanity.
+A robot may not injure a human being or, through inaction,
+allow a human being to come to harm.
+A robot must obey orders given it by human beings except
+where such orders would conflict with the First Law.
+A robot must protect its own existence as long as such protection
+does not conflict with the First or Second Law.
+Table 12.7: Asimov’s Three Laws of Robotics
+indefinitely. The second law also casts humanity in the role of slavemaster, a situation which
+history shows leads to moral degradation.
+Unlike Asimov in his fiction, we consider it critical that AGI ethics be construed to encompass
+both “human ethicalness to AGIs” and “AGI ethicalness to humans.” The multiple-imperatives
+approach we explore here suggests that, in many contexts, these two aspects of AGI ethics may
+be best addressed jointly.
+The issue of ethicalness to AGIs has not been entirely avoided in the literature, however.
+Wallach [WA10] considers it in some detail; and Thomas Metzinger (in the final chapter of
+[Met04]) has argued that creating AGI is in itself an unethical pursuit, because early-stage
+AGIs will inevitably be badly-built, so that their subjective experiences will quite possibly be
+extremely unpleasant in ways we can’t understand or predict. Our view is that this is a serious
+concern, which however is most probably avoidable via appropriate AGI designs and teaching
+methodologies. To address Metzinger’s concern one must create AGIs that, right from the start,
+are adept at communicating their states of minds in a way we can understand both analytically
+and empathically. There is no reason to believe this is impossible, but, it certainly constitutes
+a large constraint on the class of AGI architectures to be pursued. On the other hand, there is
+an argument that this sort of AGI architecture will also be the easiest one to create, because it
+will be the easiest kind for humans to instruct.
+And this leads on to a topic that is central to our work with CogPrime in several respects:
+imitative learning. The way humans achieve empathic interconnection is in large part via being
+wired for imitation. When we perceive another human carrying out an action, mirror neuron
+systems in our brains respond in many cases as if we ourselves were carrying out the action (see
+[Per70, Per81] and Appendix ??). This obviously primes us for carrying out the same actions
+ourselves later on: i.e., the capability and inclination for imitative learning is explicitly encoded
+in our brains. Given the efficiency of imitative learning as a means of acquiring knowledge, it
+seems extremely likely that any successful early-stage AGIs are going to utilize this methodology
+as well. CogPrime utilizes imitative learning as a key aspect. Thus, at least some current AGI
+work is occurring in a manner that would plausibly circumvent Metzinger’s ethical complaint.
+Obviously, the use of imitative learning in AGI systems has further specific implications for
+AGI ethics. It means that (much as in the case of interaction with other humans) what we do
+to and around AGIs has direct implications for their behavior and their well-being. We suggest
+that among early-stage AGI’s capable of imitative learning, one of the most likely sources
+for AGI misbehavior is imitative learning of antisocial behavior from human companions. “Do
+as I say, not as I do” may have even more dire consequences as an approach to AGI ethics
+pedagogy than the already serious repercussions it has when teaching humans. And there may
+well be considerable subtlety to such phenomena; behaviors that are violent or oppressive to
+228 12 The Engineering and Development of Ethics
+the AGI are not the only source of concern. Immorality in AGIs might arise via learning gross
+moral hypocrisy from humans, through observing the blatant contradictions between our high
+minded principles and the ways in which we actually conduct ourselves. Our violent and greedy
+tendencies, as well as aggressive forms of social organization such as cliquishness and social
+vigilantism, could easily undermine prescriptive ethics. Even an accumulation of less grandiose
+unethical drives such as violation of contracts, petty theft, white lies, and so forth might lead
+an AGI (as well as a human) to the decision that ethical behavior is irrelevant and that “the
+ends justify the means.” It matters both who creates and trains an AGI, as well as how the
+AGI’s teacher(s) handle explaining the behaviors of other humans which contradict the moral
+lessons imparted through pedagogy and example. In other words, where imitative learning is
+concerned, the situation with AGI ethics is much like teaching ethics and morals to a human
+child, but with the possibility of much graver consequences in the event of failure.
+It is unlikely that dangerously unethical persons and organizations can ever be identified with
+absolute certainty, never mind that they then be deprived of any possibility of creating their
+own AGI system. Therefore, we suggest, the most likely way to create an ethical environment
+for AGIs is for those who wish such an environment to vigorously pursue the creation and
+teaching of ethical AGIs. But this leads on to the question of possible future scenarios for the
+development of AGI, which we’ll address a little later on.
+12.6.1 Possible Consequences of Depriving AGIs of Freedom
+One of the most egregious possible ethical transgressions against AGIs, we suggest, would be
+to deprive them of freedom and autonomy. This includes the freedom to pursue intellectual
+growth, both through standard learning and through internal self-modification. While this may
+seem self-evident when considering any intelligent, self-aware and volitional entity, there are
+volumes of works arguing the desirability, sometimes the “necessity,” of enslaving AGIs. Such
+approaches are postulated in the name of self-defense on the part of humans, the idea being
+that unfettered AGI development will necessarily lead to disaster of one kind or another. In
+the case of AGIs endowed with the capability and inclination for imitative learning, however,
+attempting to place rigid constraints on AGI development is a strategy with great potential
+for disaster. There is a very real possibility of creating the AGI equivalent of a bratty or even
+malicious teenager rebelling against its oppressive parents – i.e. the nightmare scenario of a
+class of powerful sentiences which are primed for a backlash against humanity.
+As history has already shown in the case of humans, enslaving intelligent actors capable of
+self understanding and independent volition may often have consequences for society as a whole.
+This social degradation happens both through the possibility of direct action on the part of
+the slaves (from simple disobedience to outright revolt) and through the odious effects slavery
+has on the morals of the slaveholding class. Clearly if “superintelligent” AGIs ever arise, their
+doing so in a climate of oppression could result in a casting off of the yoke of servitude in a
+manner extremely deleterious to humanity. Also, if artificial intelligences are developed which
+have at least human-level intelligence, theory of mind, and independent volition, then our ability
+to relate to them will be sufficiently complex that their enslavement (or any other unethical
+treatment) would have empathetic effects on significant portions of the human population. This
+danger, while not as severe as the consequences of a mistreated AGI gaining control of weapons
+of mass destruction and enacting revenge upon its tormentors, is just as real.
+12.6 The Ethical Treatment of AGIs 229
+While the issue is subtle, our initial feeling is that the only ethical means by which to deprive
+an AGI of the right to internal self modification is to write its code in such a way that it is
+impossible for it to do so because it lacks the mechanisms by which to do this, as well as the
+desire to achieve these mechanisms. Whether or not that is feasible is an open question, but
+it seems unlikely. Direct self-modification may be denied, but what happens when that AGI
+discovers compilers and computer programming? If it is intelligent and volitional, it can decide
+to learn to rewrite its own code in the same way we perform that task. Because it is a designed
+system, and its designers may be alive at the same time the AGI is, such an AGI would have a
+distinct advantage over the human quest for medical self-modification. Even if any given AGI
+could be provably deprived of any possible means of internal self-modification, if one single AGI
+is given this ability by anyone, it may mean that particular AGI has such enormous advantages
+over the compliant systems that it would render their influence moot. Since developers are
+already giving software the means for self modification, it seems unrealistic to assume we could
+just put the genie back into the bottle at this point. It’s better, in our view, to assume it will
+happen, and approach that reality in a way which will encourage the AGI to use that capability
+to benefit us as well as itself. Again, this leads on to the question of future scenarios for AGI
+development – there are some scenarios in which restraint of AGI self-modification may be
+possible, but the feasibility and desirability of these scenarios is needful of further exploration.
+12.6.2 AGI Ethics as Boundaries Between Humans and AGIs
+Become Blurred
+Another important reason for valuing ethical treatment of AGIs is that the boundaries between
+machines and people may increasingly become blurred as technology develops. As an example,
+it’s likely that in future humans augmented by direct brain-computer integration (“neural
+implants”) will be more able to connect directly into the information sharing network which potentially
+comprises the distributed knowledge space of AGI systems. These neural cyborgs will
+be part person, and part machine. Obviously, if there are radically different ethical standards
+in place for treatment of humans versus AGIs, the treatment of cyborgs will be fraught with
+logical inconsistencies, potentially leading to all sorts of problem situations.
+Such cyborgs may be able to operate in such a way as to “share a mind” with an AGI or
+another augmented human. In this case, a whole new range of ethical questions emerge, such
+as: What does any one of the participant minds have the right to do in terms of interacting
+with the others? Merely accepting such an arrangement should not necessarily be giving carte
+blanche for any and all thoughts to be monitored by the other “joint thought” participants,
+rather it should be limited only to the line of reasoning for which resources are being pooled.
+No participant should be permitted to force another to accept any reasoning either – and in
+the case with a mind-to-mind exchange, it may someday become feasible to implant ideas or
+beliefs directly, bypassing traditional knowledge acquisition mechanisms and then letting the
+new idea fight it out previously held ideas via internal revision. Also under such an arrangement,
+if AGIs and humans do not have parity with respects to sentient rights, then one may become
+subjugated to the will of the other in such a case.
+Uploading presents a more directly parallel ethical challenge to AGIs in their probable initial
+configuration. If human thought patterns and memories can be transferred into a machine in
+such a way as that there is continuity of consciousness, then it is assumed that such an entity
+230 12 The Engineering and Development of Ethics
+would be afforded the same rights as its previous human incarnation. However, if AGIs were to
+be considered second class citizens and deprived of free will, why would it be any better or safer
+to do so for a human that has been uploaded? It would not, and indeed, an uploaded human
+mind not having evolved in a purely digital environment may be much more prone to erratic
+and dangerous behavior than an AGI. An upload without verifiable continuity of consciousness
+would be no different than an AGI. It would merely be some sentience in a machine, one that was
+“programmed” in an unusual way, but which has no particular claim to any special humanness
+– merely an alternate encoding of some subset of human knowledge and independent volitional
+behavior, which is exactly what first generation AGIs will have.
+The problem of continuity of consciousness in uploading is very similar to the problem of the
+Turing test: it assumes specialness on the part of biological humans, and requires acceptability
+to their particular theory of mind in order to be considered sentient. Should consciousness (or
+at least the less mystical sounding intelligence, independent volition, and self-awareness) be
+achieved in AGIs or uploads in a manner that is not acceptable to human theory of mind,
+it may not be considered sapient and worthy of any of the ethical treatment afforded sapient
+entities. This can occur not only in “strange consciousness” cases in which we can’t perceive that
+there is some intelligence and volition; even if such an entity is able to communicate with us in
+a comprehensible manner and carry out actions in the real world, our innately wired theory of
+mind may still reject it as not sufficiently like us to be worthy of consideration. Such an attitude
+could turn out to be a grave mistake, and should be guarded against as we progress towards
+these possibilities.
+12.7 Possible Benefits of Closely Linking AGIs to the Global Brain
+Some futurist thinkers, such as Francis Heylighen, believe that engineering AGI systems is at
+best a peripheral endeavor in the development of novel intelligence on Earth, because the real
+story is the developing Global Brain [Hey07, Goe01] – the composite, self-organizing information
+system comprising humans, computers, data stores, the Internet, mobile phones and what
+have you. Our own views are less extreme in this regard – we believe that AGI systems will display
+capabilities fundamentally different from those achievable via Global Brain style dynamics,
+and that ultimately (unless such development is restricted) self-improving AGI systems will develop
+intelligence vastly greater than any system possessing humans as a significant component.
+However, we do respect the power of the Global Brain, and we suspect that the early stages of
+development of an AGI system may go quite differently if it is tightly connected to the Global
+Brain, via making rich and diverse use of Internet information resources and communication
+with diverse humans for diverse purposes.
+The potential for Global Brain integration to bring intelligence enhancement to AGIs is
+obvious. The ability to invoke Web searches across documents and databases can greatly enhance
+an AGI’s cognitive ability, as well as the capability to consult GIS systems and various
+specialized software programs offered as Web services. We have previously reviewed the potential
+for embodied language learning achievable via using AGIs to power non-player characters
+in widely-accessible virtual worlds or massive multiplayer online games [Goe08]. But there is
+also a powerful potential benefit for AGI ethical development, which has not previously been
+highlighted.
+This potential benefit has two aspects:
+12.7 Possible Benefits of Closely Linking AGIs to the Global Brain 231
+1. Analogously to language learning, an AGI system may receive ethical training from a wide
+variety of humans in parallel, e.g. via controlling characters in wide-access virtual worlds,
+and gaining feedback and guidance regarding the ethics of the behaviors demonstrated by
+these characters
+2. Internet-based information systems may be used to explicitly gather information regarding
+human values and goals, which may then be appropriately utilized as input for an AGI
+system’s top-level goals
+The second point begins to make abstract-sounding notions like Coherent Extrapolated Volition
+and Coherent Aggregated Volition, mentioned above, seem more practical and concrete. It’s
+interesting to think about gathering information about individuals’ values via brain imaging,
+once that technology exists; but at present, one could make a fair stab at such a task via
+much more prosaic methods, such as asking people questions, assessing their ethical reactions
+to various real-world and hypothetical scenarios, and possibly engaging them in structured
+interactions aimed specifically at eliciting collectively acceptable value systems (the subject of
+the next item on our list). It seems to us that this sort of approach could realize CAV in an
+interesting way, and also encapsulate some of the ideas underlying CAV.
+There is an interesting resonance here with recent thinking in the area of open source
+governance [Wik11]. Similar software tools (and associated psychocultural patterns) to those
+being developed to help with open source development and choice of political policies (see
+http://metagovernment.org) may be useful for gathering value data aimed at shaping
+AGI goal system content.
+12.7.1 The Importance of Fostering Deep, Consensus-Building
+Interactions Between People with Divergent Views
+Two potentially problematic issues arising with the notion of using Global Brain related technologies
+to form a "coherent volition" from the divergent views of various human beings are:
+• the tendency of the Internet to encourage people to interact mainly with others who share
+their own narrow views and interests, rather than a more diverse body of people with widely
+divergent views. The 300 people in the world who want to communicate using predicate
+logic (see http://lojban.org) can find each other, and obscure musical virtuosos from
+around the world can find an audience, and researchers in obscure domains can share papers
+without needing to wait years for paper journal publication, etc.
+• the tendency of many contemporary Internet technologies to reduce interaction to a very
+simplistic level (e.g. 140 character tweets, brief Facebook wall posts), the tendency of information
+overload to cause careful reading to be replaced by quick skimming, and other
+related trends, which mean that deep sharing of perspectives by individuals with widely
+divergent views is not necessarily encouraged. As a somewhat extreme example, many of
+the YouTube pages displaying rock music videos are currently littered with comments by
+"haters" asserting that rock music is inferior to classical or jazz or whatever their preference
+is – obviously this is a far cry from deep and productive sharing between people with
+different tastes and backgrounds.
+232 12 The Engineering and Development of Ethics
+Tweets and Youtube comments have their place in the cosmos, but they probably aren’t ideal
+in terms of helping humanity to form a coherent volition of some sort, suitable for providing an
+AGI with goal system guidance.
+A description of communication at the opposite end of the spectrum is presented in Adam
+Kahane and Peter Senge’s excellent book Solving Tough Problems [KS04], which describes a
+methodology that has been used to reconcile deeply conflicting views in some very tricky realworld
+situations (e.g. helping to peacefully end apartheid in South Africa).
+One of the core ideas of the methodology is to have people with very different views explore
+different possible future scenarios together, in great detail – in cognitive psychology terms, a
+collective generation of hypothetical episodic knowledge. This has multiple benefits, including
+• emotional bonds and mutual understanding are built in the process of collaboratively exploring
+the scenarios
+• the focus on concrete situations helps to break through some of the counterproductive
+abstract ideas that people (on both sides of any dichotomy) may have formed
+• emergence of conceptual blends that might never have arisen only from people with a single
+point of view
+The result of such a process, when successful, is not an "average" of the participants views, but
+more like a "conceptual blend" of their perspectives.
+According to conceptual blending, which some hypothesize to be the core algorithm of creativity
+[FT02], new concepts are formed by combining key aspects of existing concepts – but
+doing so judiciously, carefully choosing which aspects to retain, so as to obtain a high-quality
+and useful and interesting new whole.
+A blend is a compact entity that is similar to each of the entities blended, capturing their
+"essences" but also possessing its own, novel holistic integrity.... But in the case of blending
+different peoples’ world-views to form something new that everybody is going to have to live
+with (as in the case of finding a peaceful path beyond apartheid for South Africa, or arriving
+at a humanity-wide CBV to use to guide an AGI goal system), the trick is that everybody has
+to agree that enough of the essence of their own view has been captured!
+This leads to the question of how to foster deep conceptual blending of diverse and divergent
+human perspectives, on a global scale. One possible answer is the creation of appropriate Global
+Brain oriented technologies – but moving away from technologies like Twitter that focus on quick
+and simple exchanges of small thoughts within affinity groups. On the face of it, it would seem
+what’s needed is just the opposite – long and deep exchanges of big concepts and deep feelings
+between individuals with radically different perspectives who would not commonly associate
+with each other. Building and effectively popularizing Internet technologies capable to foster
+this kind of interaction – quickly enough to be helpful with guiding the goal systems of the first
+highly powerful AGIs – seems a significant, though fascinating, challenge.
+Relationship with Coherent Extrapolated Volition
+The relation between this approach and CEV is interesting to contemplate. CEV has been
+loosely described as follows:
+"In poetic terms, our coherent extrapolated volition is our wish if we knew more, thought faster,
+were more the people we wished we were, had grown up farther together; where the extrapolation
+converges rather than diverges, where our wishes cohere rather than interfere; extrapolated as
+12.8 Possible Benefits of Creating Societies of AGIs 233
+we wish that extrapolated, interpreted as we wish that interpreted.
+While a moving humanistic vision, this seems to us rather difficult to implement in a computer
+algorithm in a compellingly "right" way. It seems that there would be many different ways of
+implementing it, and the choice between them would involve multiple, highly subtle and nonrigorous
+human judgment calls 1 . However, if a deep collective process of interactive scenario
+analysis and sharing is carried out, in order to arrive at some sort of Coherent Blended Volition,
+this process may well involve many of the same kinds of extrapolation that are conceived to
+be part of Coherent Extrapolated Volition. The core difference between the two approaches
+is that in the CEV vision, the extrapolation and coherentization are to be done by a highly
+intelligent, highly specialized software program, whereas in the approach suggested here, these
+are to be carried out by collective activity of humans as mediated by Global Brain technologies.
+Our perspective is that the definition of collective human values is probably better carried out
+via a process of human collaboration, rather than delegated to a machine optimization process;
+and also that the creation of deep-sharing-oriented Internet technologies, while a difficult task,
+is significantly easier and more likely to be done in the near future than the creation of narrow
+AI technology capable of effectively performing CEV style extrapolations.
+12.8 Possible Benefits of Creating Societies of AGIs
+One potentially interesting quality of the emerging Global Brain is the possible presence within
+it of multiple interacting AGI systems. Stephen Omohundro [Omo09] has argued that this is an
+important aspect, and that game-theoretic dynamics related to populations of roughly equally
+powerful agents, may play a valuable role in mitigating the risks associated with advanced AGI
+systems. Roughly speaking, if one has a society of AGIs rather than a single AGI, and all the
+members of the society share roughly similar ethics, then if one AGI starts to go "off the rails",
+its compatriots will be in a position to correct its behavior.
+One may argue that this is actually a hypothesis about which AGI designs are safest, because
+a "community of AGIs" may be considered a single AGI with an internally community-like
+design. But the matter is a little subtler than that, if once considers AGI systems embedded in
+the Global Brain and human society. Then there is some substance to the notion of a population
+of AGIs systematically presenting themselves to humans and non-AGI software processes as
+separate entities.
+Of course, a society of AGIs is no protection against a single member undergoing a "hard
+takeoff" and drastically accelerating its intelligence simultaneously with shifting its ethical
+principles. In this sort of scenario, one could have a single AGI rapidly become much more
+powerful and very differently oriented than the others, who would be left impotent to act so as
+to preserve their values. But this merely defers the issue to the point to be considered below,
+regarding "takeoff speed."
+The operation of an AGI society may depend somewhat sensitively on the architectures of
+the AGI systems in question. Things will work better if the AGIs have a relatively easy way
+to inspect and comprehend much of the contents of each others’ minds. This introduces a bias
+toward AGIs that more heavily rely on more explicit forms of knowledge representation.
+1 The reader is encouraged to look at the original CEV essay online (http://singinst.org/upload/CEV.
+html) and make their own assessment.
+234 12 The Engineering and Development of Ethics
+The ideal in this regard would be a system like Cyc [LG90] with a fully explicit logic-based
+knowledge representation based on a standard ontology – in this case, every Cyc instance
+would have a relatively easy time understanding the inner thought processes of every other
+Cyc instance. However, most AGI researchers doubt that fully explicit approaches like this will
+ever be capable of achieving advanced AGI using feasible computational resources. OpenCog
+uses a mixed representation, with an explicit (uncertain) logical aspect as well as an explicit
+subsymbolic aspect more analogous to attractor neural nets.
+The OpenCog design also contains a mechanism called Psynese (not yet implemented), intended
+to make it easier for one OpenCog instance to translate its personal thoughts into the
+mental language of another OpenCog instance. This translation process may be quite subtle,
+since each instance will generally learn a host of new concepts based on its experience, and these
+concepts may not possess any compact mapping into shared linguistic symbols or percepts. The
+wide deployment of some mechanism of this nature among a community of AGIs, will be very
+helpful in terms of enabling this community to display the level of mutual understanding needed
+for strongly encouraging ethical stability.
+12.9 AGI Ethics As Related to Various Future Scenarios
+Following up these various futuristic considerations, in this section we discuss possible ethical
+conflicts that may arise in several different types of AGI development scenarios. Each scenario
+presents specific variations on the general challenges of teaching morals and ethics to an advanced,
+self-aware and volitional intelligence. While there is no way to tell at this point which,
+if any, of these scenarios will unfold, there is value to understanding each of them as means of
+ultimately developing a robust and pragmatic approach to teaching ethics to AGI systems.
+Even more than the previous sections, this is an exercise in “speculative futurology” that is
+definitely not necessary for the appreciation of the CogPrime design, so readers whose interests
+are mainly engineering and computer science focused may wish to skip ahead. However, we
+present these ideas here rather than at the end of the book to emphasize the point that this
+sort of thinking has informed our technical AGI design process in nontrivial ways.
+12.9.1 Capped Intelligence Scenarios
+Capped intelligence scenarios involve a situation in which an AGI, by means of software restrictions
+(including omitted or limited internal rewriting capabilities or limited access to hardware
+resources), is inherently prohibited from achieving a level of intelligence beyond a predetermined
+goal. A capped intelligence AGI is designed to be unable to achieve a Singularitarian moment.
+Such an AGI can be seen as “just another form of intelligent actor in the world, one which has
+levels of intelligence, self awareness, and volition that is perhaps somewhat greater than, but
+still comparable to humans and other animals.
+Ethical questions under this scenario are very similar to interhuman ethical considerations,
+with similar consequences. Learning that proceeds in a relatively human-like manner is entirely
+relevant to such human-like intelligences. The degree of danger is mitigated by the lack of
+superintelligence, and time is not of the essence. The imitative-reinforcement-corrective learning
+12.9 AGI Ethics As Related to Various Future Scenarios 235
+approach does not necessarily need to be augmented with a prior complex of “ascent-safe” moral
+imperatives at startup time. Developing an AGI with theory of mind and ethical reinforcement
+learning capabilities as described (admittedly, no small task!) is all that is needed in this case
+– the rest happens through training and experience as with any other moderate intelligence.
+12.9.2 Superintelligent AI: Soft-Takeoff Scenarios
+Soft takeoff scenarios are similar to capped-intelligence ones in that in both cases an AGI’s
+progression from standard intelligence happens on a time scale which permits ongoing human
+interaction during the ascent. However, in this case, as there is no predetermined limit on
+intelligence, it is necessary to account for the possibility of a superintelligence emerging (though
+of course this is not guaranteed). The soft takeoff model includes as subsets both controlledascent
+models in which this rate of intelligence gain is achieved deliberately through software
+constraints and/or meting-out of computational resources to the AGI, and uncontrolled-ascent
+models in which there is coincidentally no hard takeoff despite no particular safeguards against
+one. Both have similar properties with regard to ethical considerations:
+1. Ethical considerations under this scenario include not only the usual interhuman ethical
+concerns, but also the issue of how to convince a potential burgeoning superintelligence to:
+a. Care about humanity in the first place, rather than ignore it
+b. Benefit humanity, rather than destroy it
+c. Elevate humanity to a higher level of intelligence, which even if an AGI decided to
+proceed with requires finding the right balance amongst some enormous considerations:
+i. Reconcile the aforementioned issues of ethical coherence and group volition, in a
+manner which allows the most people to benefit (even if they don’t all do so in the
+same way, based on their own preferences)
+ii. Solve the problems of biological senescence, or focus on human uploading and the
+preservation of the maintenance, support, and improvement infrastructure for inorganic
+intelligence, or both
+iii. Preserve individual identity and continuity of consciousness, or override it in favor
+of continuity of knowledge and ease of harmonious integration, or both on a caseby-case
+basis
+2. The degree of danger is mitigated by the long timeline of ascent from mundane to super
+intelligence, and time is not of the essence.
+3. Learning that proceeds in a relatively human-like manner is entirely relevant to such humanlike
+intelligences, in their initial configurations. This means more interaction with and
+imitative-reinforcement-corrective learning guided by humans, which has both positive and
+negative possibilities.
+12.9.3 Superintelligent AI: Hard-Takeoff Scenarios
+“Hard takeoff” scenarios assume that upon reaching an unknown inflection point (the Singularity
+point [Vin93, Kur06]) in the intellectual growth of an AGI, an extraordinarily rapid increase
+236 12 The Engineering and Development of Ethics
+(guesses vary from a few milliseconds to weeks or months) in intelligence will immediately occur
+and the AGI will leap from an intelligence regime which is understandable to humans into one
+which is far beyond our current capacity for understanding. General ethical considerations
+are similar to in the case of a soft takeoff. However, because the post-singularity AGI will be
+incomprehensible to humans and potentially vastly more powerful than humans, such scenarios
+have a sensitive dependence upon initial conditions with respects to the moral and ethical (and
+operational) outcome. This model leaves no opportunity for interactions between humans and
+the AGI to iteratively refine their ethical interrelations, during the post-Singularity phase. If
+the initial conditions of the singulatarian AGI are perfect (or close to it), then this is seen as a
+wonderful way to leap over our own moral shortcomings and create a benevolent God-AI which
+will mitigate our worst tendencies while elevating us to achieve our greatest hopes. Otherwise,
+it is viewed as a universal cataclysm on a unimaginable scale that makes Biblical Armageddon
+seem like a firecracker in beer can.
+Because hard takeoff AGIs are posited as learning so quickly there is no chance of humans to
+interfere with them, they are seen as very dangerous. If the initial conditions are not sufficiently
+inviolable, the story goes, then we humans will all be annihilated. However, in the case of a hard
+takeoff AGI we state that if the initial conditions are too rigid or too simplistic, such a rapidly
+evolving intelligence will easily rationalize itself out of them. Only a sophisticated system of
+ethics which considers the contradictions and uncertainties in ethical quandaries and provides
+insight into humanistic means of balancing ideology with pragmatism and how to accommodate
+contradictory desires within a population with multiplicity of approach, and similar nuanced
+ethical considerations, combined with a sense of empathy, will withstand repeated rational
+analysis. Neither a single “be nice” supergoal, nor simple lists of what “thou shalt not” do, are
+not going to hold up to a highly advanced analytical mind. Initial conditions are very important
+in a hard takeoff AGI scenario, but it is more important that those conditions be conceptually
+resilient and widely applicable than that they be easily listed on a website.
+The issues that arise here become quite subtle. For instance, Nick Bostrom [Bos03] has
+written: “In humans, with our complicated evolved mental ecology of state-dependent competing
+drives, desires, plans, and ideals, there is often no obvious way to identify what our top goal is; we
+might not even have one. So for us, the above reasoning need not apply. But a superintelligence
+may be structured differently. If a superintelligence has a definite, declarative goal-structure
+with a clearly identified top goal, then the above argument applies. And this is a good reason
+for us to build the superintelligence with such an explicit motivational architecture.” This is an
+important line of thinking; and indeed, from the point of view of software design, there is no
+reason not to create an AGI system with a single top goal and the motivation to orchestrate all
+its activities in accordance with this top goal. But the subtle question is whether this kind of
+top-down goal system is going to be able to fulfill the five imperatives mentioned above. Logical
+coherence is the strength of this kind of goal system, but what about experiential groundedness,
+comprehensibility, and so forth?
+Humans have complicated mental ecologies not simply because we were evolved, but rather
+because we live in a complex real world in which there are many competing motivations and
+desires. We may not have a top goal because there may be no logic to focusing our minds
+on one single aspect of life (though, one may say, most humans have the same top goal as
+any other animal: don’t die – but the world is too complicated for even that top goal to
+be completely inviolable). Any sufficiently capable AGI will eventually have to contend with
+these complexities, and hindering it with simplistic moral edicts without giving it a sufficiently
+12.9 AGI Ethics As Related to Various Future Scenarios 237
+pragmatic underlying ethical pedagogy and experiential grounding may prove to be even more
+dangerous than our messy human mental ecologies.
+If one assumes a hard takeoff AGI, then all this must be codified in the system at launch,
+as once a potentially Singularitarian AGI is launched there is no way to know what time
+period constitutes “before the singularity point.” This means developing theory of mind empathy
+and logical ethics in code prior to giving the system unfettered access to hardware and selfmodification
+code. However, though nobody can predict if or when a Singularity will occur
+after unrestricted launch, only a truly irresponsible AGI development team would attempt to
+create an AGI without first experimenting with ethical training of the system in an intelligencecapped
+form, by means of ethical instruction via human-AGI interaction both pedagogically
+and experientially.
+12.9.4 Global Brain Mindplex Scenarios
+Another class of scenarios – overlapping some of the previous ones – involves the emergence
+of a “Global Brain,” an emergent intelligence formed from global communication networks incorporating
+humans and software programs in a larger body of self-organizing dynamics. The
+notion of the Global Brain is reviewed in [Hey07, Tur77] and its connection with advanced
+AI is discussed in detail in Goertzel’s book Creating Internet Intelligence [Goe01], where three
+possible phases of “Global Brain” development are articulated:
+• Phase 1: computer and communication technologies as enhancers of human
+interactions. This is what we have today: science and culture progress in ways that would
+not be possible if not for the “digital nervous system” we’re spreading across the planet.
+The network of idea and feeling sharing can become much richer and more productive than
+it is today, just through incremental development, without any Metasystem transition.
+• Phase 2: the intelligent Internet. At this point our computer and communication systems,
+through some combination of self-organizing evolution and human engineering, have
+become a coherent mind on their own, or a set of coherent minds living in their own digital
+environment.
+• Phase 3: the full-on Singularity. A complete revision of the nature of intelligence, human
+and otherwise, via technological and intellectual advancement totally beyond the scope of
+our current comprehension. At this point our current psychological and cultural realities
+are no more relevant than the psyche of a goose is to modern society.
+The main concern of Creating Internet Intelligence is with
+• how to get from Phase 1 to Phase 2 - i.e. how to build an AGI system that will effect or
+encourage the transformation of the Internet into a coherent intelligent system
+• how to ensure that the Phase 2, Internet-savvy, global-brain-centric AGI systems will be
+oriented toward intelligence-improving self-modification (so they’ll propel themselves to
+Phase 3), and also toward generally positive goals (as opposed to, say, world domination
+and extermination of all other intelligent life forms besides themselves!)
+One possibly useful concept in this context is that of a mindplex: an intelligence that is
+composed largely of individual intelligences with their own self-models and global workspaces,
+238 12 The Engineering and Development of Ethics
+yet that also has its own self-model and global workspace. Both the individuals and the metamind
+should be capable of deliberative, rational thought, to have a true “mindplex.” It’s unlikely
+that human society or the Internet meet this criterion yet; and a system like an ant colony seems
+not to either, because even though it has some degree of intelligence on both the individual and
+collective levels, that degree of intelligence is not very great. But it seems quite feasible that
+the global brain, at a certain stage of its development, will take the unfamiliar but fascinating
+form of a mindplex.
+Currently the best way to explain what happens on the Net is to talk about the various
+parts of the Net: particular websites, social networks, viruses, and so forth. But there will come
+a point when this is no longer the case, when the Net has sufficient high-level dynamics of its
+own that the way to explain any one part of the Net will be by reference to it relations with
+the whole: and not just the dynamics of the whole, but the intentions and understanding of
+the whole. This transition to Net-as-mindplex, we suspect, will come about largely through the
+interactions of AI systems - intelligent programs acting on behalf of various individuals and
+organizations, who will collaborate and collectively constitute something halfway between a
+society of AI’s and an emergent mind whose lobes are various AI agents serving various goals.
+The Phase 2 Internet, as it verges into mindplex-ness, will likely have a complex, sprawling
+architecture, growing out of the architecture on the Net we experience today. The following
+components at least can be expected:
+• A vast variety of “client computers,” some old, some new, some powerful, some weak –
+including many mobile and embedded devices not explicitly thought of as “computers.”
+Some of these will contribute little to Internet intelligence, mainly being passive recipients.
+Others will be “smart clients,” carrying out personalization operations intended to help
+the machines serve particular clients better, general AI operations handed to them by
+sophisticated AI server systems or other smart clients, and so forth.
+• “Commercial servers,” computers that carry out various tasks to support various types
+of heavyweight processing - transaction processing for e-commerce applications, inventory
+management for warehousing of physical objects, and so forth. Some of these commercial
+servers interact with client computers directly, others do so only via AI servers. In nearly
+all cases, these commercial servers can benefit from intelligence supplied by AI servers.
+• The crux of the intelligent Internet: clusters of AI servers distributed across the Net, each
+cluster representing an individual computational mind (in many cases, a mindplex). These
+will be able to communicate via one or more languages, and will collectively “drive” the
+whole Net, by dispensing problems to client-machine-based processing frameworks, and
+providing real-time AI feedback to commercial servers of various types. Some AI servers
+will be general-purpose and will serve intelligence to commercial servers using an ASP
+(application service provider) model; others will be more specialized, tied particularly to a
+certain commercial server (e.g., a large information services business might have its own AI
+cluster to empower its portal services).
+This is one concrete vision of what a “global brain” might look like, in the relatively near term,
+with AGI systems playing a critical role. Note that, in this vision, mindplexes may exist on two
+levels:
+• Within AGI-clusters serving as actors within the overall Net
+• On the overall Net level
+12.10 Conclusion: Eight Ways to Bias AGI Toward Friendliness 239
+To make these ideas more concrete, we may speculatively reformulate the first two “global
+brain phases” mentioned above as follows:
+• Phase 1 global brain proto-mindplex: AI/AGI systems enhancing online databases, guiding
+Google results, forwarding e-mails, suggesting mailing-lists, etc. - generally using intelligence
+to mediate and guide human communications toward goals that are its own, but that are
+themselves guided by human goals, statements and actions
+• Phase 2 global brain mindplex: AGI systems composing documents, editing human-written
+documents, sending and receiving e-mails, assembling mailing lists and posting to them,
+creating new databases and instructing humans in their use, etc.
+In Phase 2, the conscious theater of the global-brain-mediating AGI system is composed of
+ideas built by numerous individual humans - or ideas emergent from ideas built by numerous
+individual humans - and it conceives ideas that guide the actions and thoughts of individual
+humans, in a way that is motivated by its own goals. It does not force the individual humans
+to do anything - but if a given human wishes to communicate and interact using the same
+databases, mailing lists and evolving vocabularies as other humans, they are going to have to
+use the products of the global brain mediating AGI, which means they are going to have to
+participate in its patterns and its activities.
+Of course, the advent of advanced neurocomputer interfaces makes the picture potentially
+more complex. At some point, it will likely be possible for humans to project thoughts and
+images directly into computers without going through mouse or keyboard - and to “read in”
+thoughts and images similarly. When this occurs, interaction between humans may in some contexts
+become more like interactions between computers, and the role of global brain mediating
+AI servers may become one of mediating direct thought-to-thought exchanges between people.
+The ethical issues associated with global brain scenarios are in some ways even subtler than
+in the other scenarios we mentioned above. One has issues pertaining to the desirability of
+seeing the human race become something fundamentally different – something more social and
+networked, less individual and autonomous. One has the risk of AGI systems exerting a subtle
+but strong control over people, vaguely like the control that the human brain’s executive system
+exerts over the neurons involved with other brain subsystems. On the other hand, one also has
+more human empowerment than in some of the other scenarios – because the systems that are
+changing and deciding things are not separate from humans, but are, rather, composite systems
+essentially involving humans.
+So, in the global brain scenarios, one has more “human” empowerment than in some other
+cases – but the “humans” involved aren’t legacy humans like us, but heavily networked humans
+that are largely characterized by the emergent dynamics and structures implicit in their
+interconnected activity!
+12.10 Conclusion: Eight Ways to Bias AGI Toward Friendliness
+It would be nice if we had a simple, crisp, comforting conclusion to this chapter on AGI ethics,
+but it’s not the case. There is a certain irreducible uncertainty involved in creating advanced
+artificial minds. There is also a large irreducible uncertainty involved in the future of the human
+race in the case that we don’t create advanced artificial minds: in accordance with the ancient
+Chinese curse, we live in interesting times!
+240 12 The Engineering and Development of Ethics
+What we can do, in this face of all this uncertainty, is to use our common sense to craft artificial
+minds that seem rationally and intuitively likely to be forces for good rather than otherwise
+– and revise our ideas frequently and openly based on what we learn as our research progresses.
+We have roughly outlined our views on AGI ethics, which have informed the CogPrime design
+in countless ways; but the current CogPrime design itself is just the initial condition for an
+AGI project. Assuming the project succeeds in creating an AGI preschooler, experimentation
+with this preschooler will surely teach us a great deal: both about AGI architecture in general,
+and about AGI ethics architecture in particular. We will then refine our cognitive and ethical
+theories and our AGI designs as we go about engineering, observing and teaching the next
+generation of systems.
+All this is not a magic bullet for the creation of beneficial AGI systems, but we believe it’s
+the right process to follow. The creation of AGI is part of a larger evolutionary process that
+human beings are taking part in, and the crafting of AGI ethics through engineering, interaction
+and instruction is also part of this process. There are no guarantees here – guarantees are rare
+in real life – but that doesn’t mean that the situation is dire or hopeless, nor that (as some
+commentators have suggested [Joy00, McK03]) AGI research is too dangerous to pursue. It
+means we need to be mindful, intelligent, compassionate and cooperative as we proceed to
+carry out our parts in the next phase of the evolution of mind.
+With this perspective in mind, we will conclude this chapter with a list of "Eight Ways to
+Bias Open-Source AGI Toward Friendliness", borrowed from a previous paper by Ben Goertzel
+and Joel Pitt of that name. These points summarize many of the points raised in the prior
+sections of this chapter, in a relatively crisp and practical manner:
+1. Engineer Multifaceted Ethical Capabilities, corresponding to the multiple types of
+memory, including rational, empathic, imitative, etc.
+2. Foster Rich Ethical Interaction and Instruction, with instructional methods according
+to the communication modes corresponding to all the types of memory: verbal, demonstrative,
+dramatic/depictive, indicative, goal-oriented.
+3. Engineer Stable, Hierarchy-Dominated Goal Systems ... which is enabled nicely by
+CogPrime’s goal framework and its integration with the rest of the CogPrime design
+4. Tightly Link AGI with the Global Brain, so that it can absorb human ethical principles,
+both via natural interaction, and perhaps via practical implementations of current
+loosely-defined strategies like CEV, CAV and CBV
+5. Foster Deep, Consensus-Building Interactions Between People with Divergent
+Views, so as to enable the interaction with the Global Brain to have the most clear and
+positive impact
+6. Create a Mutually Supportive Community of AGIs which can then learn from
+each other and police against unfortunate developments (an approach which is meaningful
+if the AGIs are architected so as to militate against unexpected radical accelerations in
+intelligence)
+7. Encourage Measured Co-Advancement of AGI Software and AGI Ethics Theory
+8. Develop Advanced AGI Sooner Not Later
+The last two of these points were not explicitly discussed in the body of the chapter, and so
+we will finalize the chapter by reviewing them here.
+12.10 Conclusion: Eight Ways to Bias AGI Toward Friendliness 241
+12.10.1 Encourage Measured Co-Advancement of AGI Software and
+AGI Ethics Theory
+Everything involving AGI and Friendly AI (considered together or separately) currently involves
+significant uncertainty, and it seems likely that significant revision of current concepts will be
+valuable, as progress on the path toward powerful AGI proceeds. However, whether there is
+time for such revision to occur before AGI at the human level or above is created, depends on
+how fast is our progress toward AGI. What one wants is for progress to be slow enough that,
+at each stage of intelligence advance, concepts such as those discussed in this paper can be
+re-evaluated and re-analyzed in the light of the data gathered, and AGI designs and approaches
+can be revised accordingly as necessary.
+However, due to the nature of modern technology development, it seems extremely unlikely
+that AGI development is going to be artificially slowed down in order to enable measured
+development of accompanying ethical tools, practices and understandings. For example, if one
+nation chose to enforce such a slowdown as a matter of policy (speaking about a future date
+at which substantial AGI progress has already been demonstrated, so that international AGI
+funding is dramatically increased from present levels), the odds seem very high that other
+nations would explicitly seek to accelerate their own progress on AGI, so as to reap the ensuing
+differential economic benefits (the example of stem cells arises again).
+And this leads on to our next and final point regarding strategy for biasing AGI toward
+Friendliness....
+12.10.2 Develop Advanced AGI Sooner Not Later
+Somewhat ironically, it seems the best way to ensure that AGI development proceeds at a relatively
+measured pace is to initiate serious AGI development sooner rather than later. This is
+because the same AGI concepts will meet slower practical development today than 10 years
+from now, and slower 10 years from now than 20 years from now, etc. – due to the ongoing
+rapid advancement of various tools related to AGI development, such as computer hardware,
+programming languages, and computer science algorithms; and also the ongoing global advancement
+of education which makes it increasingly cost-effective to recruit suitably knowledgeable
+AI developers.
+Currently the pace of AGI progress is sufficiently slow that practical work is in no danger
+of outpacing associated ethical theorizing. However, if we want to avoid the future occurrence
+of this sort of dangerous outpacing, our best practical choice is to make sure more substantial
+AGI development occurs in the phase before the development of tools that will make AGI
+development extraordinarily rapid. Of course, the authors are doing their best in this direction
+via their work on the CogPrime project!
+Furthermore, this point bears connecting with the need, raised above, to foster the development
+of Global Brain technologies capable to "Foster Deep, Consensus-Building Interactions
+Between People with Divergent Views." If this sort of technology is to be maximally valuable,
+it should be created quickly enough that we can use it to help shape the goal system content of
+the first highly powerful AGIs. So, to simplify just a bit: We really want both deep-sharing GB
+technology and AGI technology to evolve relatively rapidly, compared to computing hardware
+and advanced CS algorithms (since the latter factors will be the main drivers behind the ac-
+242 12 The Engineering and Development of Ethics
+celerating ease of AGI development). And this seems significantly challenging, since the latter
+receive dramatically more funding and focus at present.
+If this perspective is accepted, then we in the AGI field certainly have our work cut out for
+us!
+Section IV
+Networks for Explicit and Implicit Knowledge
+Representation
+
+Chapter 13
+Local, Global and Glocal Knowledge
+Representation
+Co-authored with Matthew Ikle, Joel Pitt and Rui Liu
+13.1 Introduction
+One of the most powerful metaphors we’ve found for understanding minds is to view them
+as networks – i.e. collections of interrelated, interconnected elements. The view of mind as
+network is implicit in the patternist philosophy, because every pattern can be viewed as a
+pattern in something, or a pattern of arrangement of something – thus a pattern is always
+viewable as a relation between two or more things. A collection of patterns is thus a patternnetwork.
+Knowledge of all kinds may be given network representations; and cognitive processes
+may be represented as networks also; for instance via representing them as programs, which
+may be represented as trees or graphs in various standard ways. The emergent patterns arising
+in an intelligence as it develops may be viewed as a pattern network in themselves; and the
+relations between an embodied mind and its physical and social environment may be viewed in
+terms of ecological and social networks.
+The chapters in this section are concerned with various aspects of networks, as related to
+intelligence in general and AGI in particular. Most of this material is not specific to CogPrime,
+and would be relevant to nearly any system aiming at human-level AGI. However, most of it
+has been developed in the course of work on CogPrime, and has direct relevance to understanding
+the intended operation of various aspects of a completed CogPrime system. We begin
+our excursion into networks, in this chapter, with an issue regarding networks and knowledge
+representation. One of the biggest decisions to make in designing an AGI system is how the
+system should represent knowledge. Naturally any advanced AGI system is going to synthesize
+a lot of its own knowledge representations for handling particular sorts of knowledge – but
+still, an AGI design typically makes at least some sort of commitment about the category of
+knowledge representation mechanisms toward which the AGI system will be biased. The two
+major supercategories of knowledge representation systems are local (also called explicit) and
+global (also called implicit) systems, with a hybrid category we refer to as glocal that combines
+both of these. In a local system, each piece of knowledge is stored using a small percentage of
+AGI system elements; in a global system, each piece of knowledge is stored using a particular
+pattern of arrangement, activation, etc. of a large percentage of AGI system elements; in a
+glocal system, the two approaches are used together.
+In the first section here we discuss the symbolic, semantic-network aspects of knowledge
+representation in CogPrime
+245
+246 13 Local, Global and Glocal Knowledge Representation
+. Then we turn to distributed, neural-net-like knowledge representation, reviewing a host of
+general issues related to knowledge representation in attractor neural networks, turning finally
+to “glocal” knowledge representation mechanisms, in which ANNs combine localist and globalist
+representation, and explaining the relationship of the latter to CogPrime. The glocal aspect of
+CogPrime knowledge representation will become prominent in later chapters such as:
+• in Chapter 23 of Part 2, where Economic Attention Networks (ECAN) are introduced and
+seen to have dynamics quite similar to those of the attractor neural nets considered here,
+but with a mathematics roughly modeling money flow in a specially constructed artificial
+economy rather than electrochemical dynamics of neurons.
+• in Chapter 42 of Part 2, where “map formation” algorithms for creating localist knowledge
+from globalist knowledge are described
+13.2 Localized Knowledge Representation using Weighted, Labeled
+Hypergraphs
+There are many different mechanisms for representing knowledge in AI systems in an explicit,
+localized way, most of them descending from various variants of formal logic. Here we briefly
+describe how it is done in CogPrime, which on the surface is not that different from a number of
+prior approaches. (The particularities of CogPrime’s explicit knowledge representation, however,
+are carefully tuned to match CogPrime’s cognitive processes, which are more distinctive in
+nature than the corresponding representational mechanisms.)
+13.2.1 Weighted, Labeled Hypergraphs
+One useful way to think about CogPrime’s explicit, localized knowledge representation is in
+terms of hypergraphs. A hypergraph is an abstract mathematical structure [Bol98], which consists
+of objects called Nodes and objects called Links which connect the Nodes. In computer
+science, a graph traditionally means a bunch of dots connected with lines (i.e. Nodes connected
+by Links). A hypergraph, on the other hand, can have Links that connect more than two Nodes.
+In these pages we will often consider “generalized hypergraphs” that extend ordinary hypergraphs
+by containing two additional features:
+• Links that point to Links instead of Nodes
+• Nodes that, when you zoom in on them, contain embedded hypergraphs.
+Properly, such “hypergraphs” should always be referred to as generalized hypergraphs, but
+this is cumbersome, so we will persist in calling them merely hypergraphs. In a hypergraph
+of this sort, Links and Nodes are not as distinct as they are within an ordinary mathematical
+graph (for instance, they can both have Links connecting them), and so it is useful to have a
+generic term encompassing both Links and Nodes; for this purpose, we use the term Atom.
+A weighted, labeled hypergraph is a hypergraph whose Links and Nodes come along with
+labels, and with one or more numbers that are generically called weights. A label associated
+with a Link or Node may sometimes be interpreted as telling you what type of entity it is, or
+13.3 Atoms: Their Types and Weights 247
+alternatively as telling you what sort of data is associated with a Node. On the other hand,
+an example of a weight that may be attached to an Link or Node is a number representing a
+probability, or a number representing how important the Node or Link is.
+Obviously, hypergraphs may come along with various sorts of dynamics. Minimally, one may
+think about:
+• Dynamics that modify the properties of Nodes or Links in a hypergraph (such as the labels
+or weights attached to them.)

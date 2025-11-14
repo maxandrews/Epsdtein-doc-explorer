@@ -1,0 +1,1911 @@
+﻿Journal of Criminal Law and Criminology
+Volume 104 | Issue 1 Article 2
+Winter 2014
+Crime Victims' Rights During Criminal
+Investigations? Applying the Crime Victims' Rights
+Act Before Criminal Charges Are Filed
+Paul G. Cassell
+Nathanael J. Mitchell
+Bradley J. Edwards
+Follow this and additional works at: http://scholarlycommons.law.northwestern.edu/jclc
+Part of the Criminal Law Commons
+Recommended Citation
+Paul G. Cassell, Nathanael J. Mitchell, and Bradley J. Edwards, Crime Victims' Rights During Criminal Investigations? Applying the Crime
+Victims' Rights Act Before Criminal Charges Are Filed, 104 J. Crim. L. & Criminology 59 ().
+http://scholarlycommons.law.northwestern.edu/jclc/vol104/iss1/2
+This Criminal Law is brought to you for free and open access by Northwestern University School of Law Scholarly Commons. It has been accepted for
+inclusion in Journal of Criminal Law and Criminology by an authorized administrator of Northwestern University School of Law Scholarly Commons.
+0091-4169/14/10401-0059
+THE JOURNAL OF CRIMINAL LAW & CRIMINOLOGY Vol. 104, No. 1
+Copyright © 2014 by Northwestern University School of Law
+Printed in U.S.A.
+CRIME VICTIMS’ RIGHTS DURING
+CRIMINAL INVESTIGATIONS?
+APPLYING THE CRIME VICTIMS’ RIGHTS
+ACT BEFORE CRIMINAL CHARGES ARE
+FILED
+PAUL G. CASSELL*
+NATHANAEL J. MITCHELL**&
+BRADLEY J. EDWARDS***
+This Article addresses whether crime victims should have rights during
+criminal investigations, using the Crime Victims’ Rights Act (CVRA) as the
+focal point for our discussion. This is a critical issue, as many criminal
+cases may never proceed to formal charging. If crime victims have no
+rights during criminal investigations, then many crime victims will never
+have any rights at all.
+The issue of whether crime victims have rights in the criminal justice
+process recently came to a head when the Justice Department released a
+memorandum contending that the CVRA does not extend crime victims any
+rights until prosecutors choose to file formal criminal charges. This led the
+CVRA’s Senate cosponsor, then-Senator Jon Kyl, to fire off an angry letter
+to the Justice Department attacking its position. In our Article, we side
+with the Act’s cosponsor. We believe that, properly understood, the CVRA
+does extend crime victims’ rights during criminal investigations.
+Our Article proceeds in four parts. First, it highlights the importance
+of applying the Act before the formal filing of charges by illustrating how
+dozens of victims in a notorious federal sex abuse case were deprived of the
+* Ronald N. Boyce Presidential Professor of Criminal Law, S.J. Quinney College of Law
+at the University of Utah.
+** Associate, Snow, Christensen & Martineau (Salt Lake City, Utah).
+*** Partner, Farmer, Jaffe, Weissing, Edwards, Fistos & Lehrman (Fort Lauderdale,
+Fla.). The authors thank Douglas Beloof, Patricia Cassell, Meg Garvin, Jay Howell, James
+Marsh, and Stephen Twist for their assistance with this Article.
+59
+60 CASSELL ET AL. [Vol. 104
+ability to participate meaningfully in the criminal process when federal
+prosecutors narrowly interpreted their responsibilities under the Act.
+Second, the Article reviews the purpose, text, structure, and history of the
+CVRA, concluding that they all support the conclusion that crime victims
+have rights during criminal investigations. Third, our Article critiques the
+Department’s memorandum, demonstrating that the Department’s analysis
+is unpersuasive. Fourth and finally, the Article provides a specific
+approach for determining when rights should attach—specifically when
+federal law enforcement agencies have identified a crime with sufficient
+precision to send a “target” letter to a criminal defendant. We also
+observe that federal and state prosecutors have already accorded rights to
+victims before formally filing charges, which further undermines the
+Department’s overly narrow construction of the Act.
+TABLE OF CONTENTS
+INTRODUCTION ............................................................................................ 61
+I. THE ISSUE OF RIGHTS FOR CRIME VICTIMS DURING CRIMINAL
+INVESTIGATIONS .............................................................................. 63
+A. A Brief History of Crime Victims’ Rights .................................. 63
+B. The Crime Victims’ Rights Act ................................................... 65
+C. An Illustration of the Pre-charging Issue: The Jeffrey Epstein
+Case ........................................................................................... 67
+II. THE CVRA’S APPLICATION BEFORE FORMAL CHARGES ARE FILED ..... 69
+A. The CVRA’s Purposes ................................................................ 70
+B. The CVRA’s Plain Language ...................................................... 71
+C. Courts Recognize That Crime Victims Have CVRA Rights
+Before Charging ........................................................................ 73
+III. THE JUSTICE DEPARTMENT’S UNPERSUASIVE POSITION ...................... 75
+A. OLC’s Misreading of the CVRA’s Definition of “Victim” ........ 76
+B. OLC’s Distortion of the CVRA’s Structure and Legislative
+History ...................................................................................... 80
+C. OLC’s Ineffective Response to the CVRA’s Coverage and
+Venue Provisions ...................................................................... 86
+IV. WHEN PRE-CHARGING RIGHTS ATTACH UNDER THE CVRA ............... 90
+A. A Test for Determining When Rights Attach .............................. 91
+B. Applying the Test to the Epstein Case ......................................... 93
+C. Current Department Policy on Pre-charging Rights .................... 94
+D. State Law Extension of Pre-charging Rights .............................. 97
+CONCLUSION ............................................................................................. 103
+2014] CRIME VICTIMS’ RIGHTS 61
+INTRODUCTION
+In recent years, federal and state enactments have given crime victims
+extensive rights to participate in criminal cases. Many of these rights apply
+only after the filing of criminal charges, such as the victim’s right to be
+heard during court proceedings. A crime victim’s right to deliver an impact
+statement at sentencing, for instance, can only be exercised after a
+prosecutor has filed charges against a defendant and obtained a conviction.
+Other rights, however, can apply even before the formal filing of charges.
+As one example, the Crime Victims’ Rights Act (CVRA) 1 extends to
+federal crime victims the right to “confer” with prosecutors. But can
+victims exercise this right before charges have been filed?
+This question has tremendous practical importance. In many cases,
+prosecutors negotiate pleas well before any charges are ever drafted. If
+crime victims’ rights enactments do not extend rights to victims until the
+formal filing of charges, then crime victims can be effectively excluded
+from the plea bargaining process. Yet the exclusion of victims in early
+stages of a criminal case affects more than just the content of a plea deal.
+Crime victims will also lose other important rights in the process if the
+formal filing of charges is the necessary trigger for those rights. If, for
+example, prosecutors work out a nonprosecution agreement with an
+offender, they need not notify his victims of what they are doing or of the
+fact that potential charges will never be filed.
+The issue of pre-charging rights has most prominently surfaced in
+connection with federal cases. In 2010, the Department of Justice’s Office
+of Legal Counsel (OLC) weighed in on the issue and released a legal
+opinion arguing that victims of federal crimes have no CVRA rights during
+a federal criminal investigation. 2 The Justice Department took the position
+that rights under the CVRA do not apply until prosecutors formally initiate
+criminal proceedings by filing a complaint, information, or indictment. The
+Department claims to find support for that limiting interpretation of the
+statute in its plain language and legislative history.
+Shortly after the Department released its opinion, one of the CVRA’s
+congressional sponsors, then-Senator Jon Kyl, sent a letter to Attorney
+General Eric Holder strenuously objecting to the Department’s conclusions.
+Senator Kyl directly stated his view that “[w]hen Congress enacted the
+1 Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn
+Crime Victims’ Rights Act, Pub. L. No. 108-405, 118 Stat. 2260, 2261–65 (2004) (codified
+as amended at 18 U.S.C. § 3771 (2012) and 42 U.S.C. § 10603(d)–(e) (2006)).
+2 The Availability of Crime Victims’ Rights Under the Crime Victims’ Rights Act of
+2004, 35 Op. O.L.C. 1 (Dec. 17, 2010) [hereinafter OLC CVRA Rights Memo], available at
+http://goo.gl/fHmCL4.
+62 CASSELL ET AL. [Vol. 104
+CVRA, it intended to protect crime victims throughout the criminal justice
+process—from the investigative phases to the final conclusion of a case.” 3
+Senator Kyl contested the Department’s analysis of the statute and, in
+particular, its use of statements from him during Congress’s consideration
+of the CVRA.
+This Article sides with the CVRA’s cosponsor and concludes that
+crime victims’ CVRA rights attach before formal charging. Both the
+CVRA’s plain language and its legislative history lead inexorably to this
+conclusion, as every court that has considered this issue has concluded.
+This Article also contends that, as a matter of sound public policy, crime
+victims should have rights before the formal filing of criminal charges.
+This Article proceeds in four parts. Part I frames the issues under
+discussion by defending the importance of extending rights to crime victims
+during criminal investigations. Part I also provides background on victims’
+rights and gives a concrete illustration of a case in which the question of
+pre-charging rights for crime victims has arisen—specifically, the Jeffrey
+Epstein sex abuse case before a federal court in Florida. In that case, girls
+victimized by Epstein have argued that they should have been consulted
+about a federal nonprosecution agreement; Department attorneys have
+responded that because prosecutors never filed charges, government
+officials had no formal obligations to inform the girls.
+Part II reviews the CVRA’s purpose, text, structure, and legislative
+history. This review establishes that the CVRA extends rights to crime
+victims before formal charges are filed.
+Part III critiques OLC’s position that the CVRA extends rights to
+victims only after prosecutors have lodged charges in court. The
+Department’s proffered arguments do not withstand close scrutiny,
+particularly in light of the fact that the CVRA covers federal agencies
+involved in the “detection” and “investigation” of crime, 4 and specifically
+authorizes crime victims to file CVRA motions in situations where “no
+prosecution is underway.” 5
+Part IV then proposes a specific approach for determining when crime
+victims’ CVRA rights attach. This Part explains that the rights should
+attach when federal law enforcement or prosecuting agencies have
+identified a federal crime and a particular victim with sufficient precision
+that they would send a “target” letter to a criminal defendant in similar
+circumstances. If prosecutors have sufficient information to provide notice
+3 Letter from Jon Kyl, U.S. Sen., to Eric H. Holder, Jr., Att’y Gen. (June 6, 2011),
+reprinted in 157 CONG. REC. S3608 (daily ed. June 8, 2011) (statement of Sen. Jon Kyl).
+4 18 U.S.C. § 3771(c)(1).
+5 Id. § 3771(d)(3).
+2014] CRIME VICTIMS’ RIGHTS 63
+to a potential criminal of his rights, they can do the same for his victims.
+This Part also notes that the Department of Justice and state prosecutors
+already successfully provide rights to victims before charging. This
+successful experience strongly suggests that providing rights to victims
+early in the criminal justice process will not be unduly burdensome.
+I. THE ISSUE OF RIGHTS FOR CRIME VICTIMS DURING CRIMINAL
+INVESTIGATIONS
+To consider the question of whether victims should have rights during
+criminal investigations, some understanding of the underlying purposes of
+victims’ rights enactments will be useful. These enactments are typically
+designed to make victims participants in all phases of the criminal justice
+process. 6 Congress drafted the CVRA, for example, broadly to make crime
+victims participants in criminal cases. The Jeffrey Epstein sex abuse case
+demonstrates the importance of victim participation even before charges are
+filed.
+A. A BRIEF HISTORY OF CRIME VICTIMS’ RIGHTS
+The crime victims’ rights movement has sought to make crime victims
+important participants in the criminal justice process. The movement began
+in the wake of the Warren Court revolution, which extended new rights to
+criminal defendants. 7 With the courts paying increasing attention to
+criminal defendants, crime victims’ advocates began to argue that the
+victims themselves had been overlooked. 8 The movement gained great
+visibility in the early 1980s when President Ronald Reagan appointed the
+President’s Task Force on Victims of Crime. 9 The Task Force published a
+report concluding that “the criminal justice system has lost an essential
+balance. . . . The victims of crime have been transformed into a group
+oppressively burdened by a system designed to protect them. This
+oppression must be redressed.” 10
+The Task Force chronicled how crime victims were treated in all
+stages of the criminal justice process, from the police investigation through
+6 See DOUGLAS E. BELOOF, PAUL G. CASSELL & STEVEN J. TWIST, VICTIMS IN CRIMINAL
+PROCEDURE 3–39 (3d ed. 2010) (describing reforms from a historical perspective); see also,
+e.g., 18 U.S.C. § 3771(a) (2012).
+7 See BELOOF, CASSELL & TWIST, supra note 6, at 3–39 (describing the history of
+victims’ rights in American law and the early days of the modern movement).
+8 See, e.g., William F. McDonald, Towards a Bicentennial Revolution in Criminal
+Justice: The Return of the Victim, 13 AM. CRIM L. REV. 649, 651–55 (1976).
+9 Exec. Order 12,360, 47 Fed. Reg. 17,975 (Apr. 27, 1982); see also PRESIDENT’S TASK
+FORCE ON VICTIMS OF CRIME, FINAL REPORT, at ii (1982).
+10 PRESIDENT’S TASK FORCE ON VICTIMS OF CRIME, FINAL REPORT, supra note 9, at 114.
+64 CASSELL ET AL. [Vol. 104
+court proceedings, and ultimately to any parole or other release of the
+criminal. The Task Force then made a series of recommendations for all
+criminal justice agencies, including the police, prosecutors, and the courts. 11
+The recommendations were designed to allow crime victims to receive
+information about, and to participate in, criminal cases.
+In its most far-reaching recommendation, the Task Force proposed
+amending the U.S. Constitution to protect victims’ rights. 12 The proposed
+amendment would have built on existing constitutional rights for criminal
+defendants by extending similar rights to crime victims. 13
+After the publication of the report, crime victims’ advocates secured
+the passage of a series of state constitutional and legislative reforms. These
+measures guaranteed victims’ rights in the criminal process, such as the
+right to be notified of court proceedings, to attend those proceedings, and to
+speak at appropriate points in the process, such as plea bargaining and
+sentencing. The measures were embodied in state statutes and, in more
+than thirty states, state constitutional “bills of rights” for crime victims. 14
+While many of the measures had narrow participatory rights, 15 some of the
+amendments also contained more open-ended language, promising victims
+a right to fair treatment “throughout the criminal justice process.” 16
+After successfully passing many state constitutional amendments,
+crime victims’ rights advocates sought to achieve the Task Force’s broadest
+recommendation: to secure protection for victims’ rights in the U.S.
+Constitution. In 1996, victims’ advocates proposed a Victims’ Rights
+Amendment in a Rose Garden ceremony attended by President Bill
+Clinton. 17 The proposed amendment contained a list of rights for crime
+victims, largely paralleling the rights contained in state victims’ rights
+11 See id. at 56–82.
+12 Id. at 114.
+13 Id. at 114–15.
+14 For a map depicting the states with (and without) such amendments, see State Victim
+Rights Amendments, NAT’L VICTIMS’ CONSTITUTIONAL AMENDMENT PASSAGE,
+http://goo.gl/znI4YW (last visited Nov. 26, 2013); for discussion, see infra Part IV.D
+(discussing legislative reforms in a number of states).
+15 See, e.g., CAL. CONST. art. I, § 28; MICH. CONST. art. I, § 24; N.C. CONST. art. I, § 37.
+For a detailed discussion of how one state constitutional amendment is intended to operate,
+see generally Paul G. Cassell, Balancing the Scales of Justice: The Case for and the Effects
+of Utah’s Victims’ Rights Amendment, 1994 UTAH L. REV. 1373.
+16 E.g., ARIZ. CONST. art. II, § 2.1(A)(1); MICH. CONST. art. I, § 24(1); TEX. CONST. art. I,
+§ 30(a)(1); see CAL. CONST. art. I, § 28(b)(1) (“throughout the criminal or juvenile justice process”).
+17 John M. Broder, Clinton Calls for Victims’ Rights in Constitution, L.A. TIMES, June
+26, 1996, at A1. For detailed discussions of the legislative efforts, see Paul G. Cassell,
+Recognizing Victims in the Federal Rules of Criminal Procedure: Proposed Amendments in
+Light of the Crime Victims’ Rights Act, 2005 BYU L. REV. 835, 847–50.
+2014] CRIME VICTIMS’ RIGHTS 65
+amendments. 18 Congress considered the amendment several times, but it
+never obtained the requisite two-thirds support in both houses to secure the
+Amendment’s approval. 19 Critics quarreled not so much with the goals of
+the amendment but rather with the necessity of constitutionalizing such
+rights. 20
+B. THE CRIME VICTIMS’ RIGHTS ACT
+Unable to obtain the necessary supermajority to pass a federal
+constitutional amendment, in April 2004, crime victims’ rights advocates
+decided to focus on federal legislation protecting crime victims. In
+exchange for backing off from their efforts to pass a constitutional
+amendment, crime victims’ advocates received near-universal congressional
+support for a “broad and encompassing” statutory victims’ bill of rights. 21
+Victims’ advocates sought to expand on the protections found in other
+previously-enacted victims’ rights statutes, including, notably, the Victims’
+Rights and Restitution Act of 1990. 22 That statute had also included a bill
+of rights for crime victims, yet because of limited enforcement mechanisms,
+crime victims had been unable to secure court protection of the rights listed
+in the statute. 23
+The statute that Congress passed to solve these problems—the Crime
+Victims’ Rights Act of 2004—gave victims “the right to participate in the
+18 See Cassell, supra note 17, at 848–49. For the pros and cons of the amendment as
+originally introduced, compare Paul G. Cassell, Barbarians at the Gates? A Reply to the
+Critics of the Victims’ Rights Amendment, 1999 UTAH L. REV. 479 [hereinafter Cassell,
+Barbarians at the Gates?], and Steven J. Twist, The Crime Victims’ Rights Amendment and
+Two Good and Perfect Things, 1999 UTAH L. REV. 369, with Robert P. Mosteller, The
+Unnecessary Victims’ Rights Amendment, 1999 UTAH L. REV. 443. For a more recent
+discussion of a newer version of the amendment, see Paul G. Cassell, The Victims’ Rights
+Amendment: A Sympathetic, Clause-by-Clause Analysis, 5 PHOENIX L. REV. 301 (2012).
+19 Hon. Jon Kyl et al., On the Wings of Their Angels: The Scott Campbell, Stephanie
+Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims’ Rights Act, 9 LEWIS &
+CLARK L. REV. 581, 588–91 (2005).
+20 Proposed Constitutional Amendment to Protect Crime Victims, S.J. Res. 1: Hearing
+Before the S. Comm. on the Judiciary, 108th Cong. 128–29 (2003) (statement of Sen. Patrick
+Leahy); see also Steven J. Twist & Daniel Seiden, The Proposed Victims’ Rights
+Amendment: A Brief Point/Counterpoint, 5 PHOENIX L. REV. 341, 356, 378 (2012)
+(illustrating that the necessity dispute has endured to the present day).
+21 150 CONG. REC. 7295 (2004) (statement of Sen. Dianne Feinstein); see also Kyl et al.,
+supra note 19, at 591–93.
+22 Victims’ Rights and Restitution Act of 1990, Pub. L. No. 101-647, 104 Stat. 4820
+(codified as amended at 42 U.S.C. §§ 10601, 10606–07 (2006)).
+23 See, e.g., United States v. McVeigh, 106 F.3d 325, 328 (10th Cir. 1997) (per curiam)
+(refusing to enforce a victim’s right to attend a trial); Cassell, Barbarians at the Gates?,
+supra note 18, at 515–22 (discussing McVeigh).
+66 CASSELL ET AL. [Vol. 104
+system.” 24 It extended broad rights to crime victims, including “[t]he right
+to be treated with fairness and with respect for the victim’s dignity and
+privacy” 25 and “[t]he reasonable right to confer with the attorney for the
+Government in the case.” 26 It also commanded that these rights must be
+afforded by the Justice Department “and other departments and agencies of
+the United States engaged in the detection, investigation, or prosecution of
+crime.” 27 The CVRA also contained specific enforcement mechanisms.
+The Act provided that rights can be “assert[ed]” by “[t]he crime victim or
+the crime victim’s lawful representative, and the attorney for the
+Government . . . .” 28 The courts were also required under the Act to “ensure
+that the crime victim is afforded the rights” given by the law. 29
+Congress appeared to have at least two goals in mind in passing the
+CVRA. The first was simply to ensure that crime victims understood what
+was happening in the criminal justice process. This goal is apparent from
+the fact that the CVRA gives crime victims rights to notification about
+various court hearings, as well as more general rights to confer with
+prosecutors and to be treated with fairness. 30 The CVRA’s Senate sponsors
+explained:
+In case after case we found victims, and their families, were ignored, cast aside, and
+treated as non-participants in a critical event in their lives. They were kept in the dark
+by prosecutors to[o] busy to care enough, by judges focused on [defendants’] rights,
+and by a court system that simply did not have a place for them. 31
+In passing the CVRA, Congress sought to change the system’s
+obliviousness to crime victims that often “left crime victims and their
+families victimized yet again.” 32
+A second overarching purpose of the CVRA was to allow crime
+victims to play a role in the criminal justice process. Through the CVRA,
+Congress intended to make victims “independent participant[s]” in the
+criminal justice process. 33 The CVRA extends to crime victims a series of
+“rights” in the criminal justice process—rights that the victims have
+24 150 CONG. REC. 7297; see 18 U.S.C. § 3771 (2012). For a description of victim
+participation, see BELOOF, CASSELL & TWIST, supra note 6, at 728–33.
+25 18 U.S.C. § 3771(a)(8).
+26 Id. § 3771(a)(5).
+27 Id. § 3771(c)(1).
+28 Id. § 3771(d)(1).
+29 Id. § 3771(b)(1).
+30 See id. § 3771(a).
+31 150 CONG. REC. 7296 (2004) (statement of Sen. Dianne Feinstein).
+32 Id.
+33 Id. at 7302 (statement of Sen. Jon Kyl).
+2014] CRIME VICTIMS’ RIGHTS 67
+independent standing to assert. 34 Congress viewed these provisions as
+establishing a victim’s right “to participate in the process where the
+information that [victims] and their families can provide may be material
+and relevant . . . .” 35
+Congress appears to have had both intrinsic and instrumental reasons
+for wanting crime victim participation. Congress clearly thought that such
+participation was valuable in its own right. Senator Kyl embodied this
+belief and explained his decision to become involved in the crime victims’
+rights movement because of his discovery that victims:
+were suffering through the trauma of the victimization and then being thrown into a
+system which they did not understand, which nobody was helping them with, and
+which literally prevented them from participation in any meaningful way. I came to
+realize there were literally millions of people out there being denied these basic
+rights . . . . 36
+But Congress also thought crime victim participation in the criminal
+justice system could be instrumentally useful. For example, in protecting a
+victim’s right to be heard by those determining a defendant’s sentence, a
+victim might be able to provide important information that could alter that
+sentence. As a result, the sentence might reflect a fuller appreciation of the
+danger posed by a defendant, and the judge might take appropriate steps to
+prevent others from being victimized. 37
+Congress also intended to ensure that crime victims were not
+revictimized in the criminal justice process—that is, that they would not
+suffer what scholars have called “secondary harm” in the process. 38 The
+concern is that victims suffer when they are excluded from the criminal
+justice process. Congress sought to end that suffering by making victims
+meaningful participants in criminal cases. 39
+C. AN ILLUSTRATION OF THE PRE-CHARGING ISSUE: THE JEFFREY
+EPSTEIN CASE
+Given the potentially expansive scope of victims’ rights under both
+state provisions and the CVRA, a critical question arises about how to apply
+them: Do the rights come into existence only after prosecutors formally file
+34 Compare 18 U.S.C. § 3771(d), with Susan Bandes, Victim Standing, 1999 UTAH L. REV.
+331, 344–45 (illustrating the debate surrounding victim standing prior to adoption of the CVRA).
+35 150 CONG. REC. 7296 (statement of Sen. Dianne Feinstein).
+36 Id. at 7298 (statement of Sen. Jon Kyl).
+37 Id.
+38 See, e.g., Douglas Evan Beloof, The Third Model of Criminal Process: The Victim
+Participation Model, 1999 UTAH L. REV. 289, 294–96; Richard A. Bierschbach, Allocution and
+the Purposes of Victim Participation Under the CVRA, 19 FED. SENT’G REP. 44, 46 (2006).
+39 150 CONG. REC. 7298 (statement of Sen. Jon Kyl).
+68 CASSELL ET AL. [Vol. 104
+criminal charges? Or do they attach at some earlier point in the process?
+Does v. United States, a federal case in the U.S. District Court for the
+Southern District of Florida, usefully illustrates the issue. 40 In that case, the
+U.S. Attorney’s Office for the Southern District of Florida developed
+considerable evidence that Jeffrey Epstein, a billionaire with extensive
+political and social connections, 41 had sexually molested more than thirty
+young girls between 2001 and 2007 at his West Palm Beach mansion. 42
+The U.S. Attorney’s Office entered into contentious plea negotiations with
+Epstein over how the case should be resolved. The prosecutors initially
+sought a resolution that would have required Epstein to plead guilty to at
+least a felony sex offense. After pressure from Epstein, for reasons that
+have never been clearly explained, 43 the U.S. Attorney’s Office agreed to
+enter into a nonprosecution agreement. Under the agreement, the U.S.
+Attorney’s Office agreed not to prosecute him and, in exchange, Epstein
+agreed to plead guilty to two state felonies for soliciting prostitution with a
+minor. After entering those guilty pleas, Epstein was sentenced to only
+eighteen months in state jail. 44 No federal charges were ever filed and
+40 Does v. United States, 817 F. Supp. 2d 1337 (S.D. Fla. 2011). In the interest of full
+disclosure, two of the authors of this Article (Cassell and Edwards) are co-counsel for the
+victims in this case. The statement of the facts in this Article draws heavily on the victims’
+allegations as they have detailed in their pending motion for summary judgment in the case.
+See Jane Doe #1 & Jane Doe #2’s Motion for Finding of Violations of the Crime Victims’
+Rights Act and Request for a Hearing on Appropriate Remedies at 3–23, Does, 817 F. Supp.
+2d 1337 (No. 9:08-cv-80736-KAM) [hereinafter Jane Doe Motion] (providing fifty-three
+proposed facts in the case). The U.S. Attorney’s Office has generally disputed some of these
+allegations without offering specifics as to what happened. See, e.g., United States’
+Response to Jane Doe #1 & Jane Doe #2’s Motion for Finding of Violations of the Crime
+Victim Rights Act and Request for a Hearing on Appropriate Remedies at 34–43, Does, 817
+F. Supp. 2d 1337 (No. 9:08-cv-80736-KAM) [hereinafter United States’ Response]. As of
+this writing, Epstein has declined to intervene in the case to dispute the allegations.
+41 See, e.g., Paul Harris, Prince Andrew’s Link to Sex Offender Jeffrey Epstein Taints
+Royalty in US, GUARDIAN (Mar. 12, 2011), http://goo.gl/0I4vAE; Landon Thomas Jr., Jeffrey
+Epstein: International Moneyman of Mystery, N.Y. MAG., http://goo.gl/11Cayc (last visited
+Nov. 26, 2013).
+42 See Jane Doe Motion, supra note 40, at 3–4; Abby Goodnough, Questions of
+Preferential Treatment Are Raised in Florida Sex Case, N.Y. TIMES, Sept. 3, 2006, at A19.
+43 The U.S. Attorney responsible for the plea deal later revealed that after negotiations
+started, “[w]hat followed was a year-long assault on the prosecution and the prosecutors” by
+Epstein. Letter from R. Alexander Acosta, former U.S. Att’y, to Whom It May Concern
+(Mar. 20, 2011), reprinted in Conchita Sarnoff, Behind Pedophile Jeffrey Epstein’s
+Sweetheart Deal, DAILY BEAST (Mar. 25, 2011, 3:17 AM), http://goo.gl/kyveiF. Acosta,
+however, claimed that the pressure did not influence the ultimate disposition of the case. Id.
+44 Landon Thomas Jr., From Paradise to County Jail: A Billionaire Financial Adviser
+Will Serve 18 Months in Sex Case, N.Y. TIMES, July 1, 2008, at C1.
+2014] CRIME VICTIMS’ RIGHTS 69
+Epstein spent much of the jail term on “work release” to his luxurious
+office. 45
+The U.S. Attorney’s Office did not tell Epstein’s victims about the
+nonprosecution agreement until well after it had taken effect. To the
+contrary, even after the nonprosecution agreement had been signed, the
+Office continued to tell the victims that the case was still “under
+investigation” and that they should be “patien[t].” 46 When the victims
+learned of the agreement, two of them (Jane Doe Number One and Jane
+Doe Number Two) filed suit in federal court under the Crime Victims’
+Rights Act, arguing that the prosecutors had violated their CVRA right to
+confer as well as their right to be treated fairly. 47 The victims contended
+that prosecutors should have conferred with them about the nonprosecution
+agreement before it became final.
+In response, the U.S. Attorney’s Office argued primarily that it was
+under no obligation to extend the victims any rights under the CVRA. It
+was the Government’s blunt position that “CVRA rights do not attach in the
+absence of federal criminal charges filed by a federal prosecutor.” 48 In
+short, the Government argued it was not required to confer in any way with
+the victims, or even treat them fairly, because the CVRA was not yet in
+play. The issue is thus squarely framed: Is the Government correct in its
+assertion that it has no CVRA obligations in cases like the Epstein case
+where federal prosecutors never lodged federal charges against a suspect?
+In view of the CVRA’s prominence, resolution of this issue may shed
+important light on the nature of crime victims’ enactments and the breadth
+of the role that crime victims should have in the criminal justice process.
+II. THE CVRA’S APPLICATION BEFORE FORMAL CHARGES ARE FILED
+To analyze the issue of whether the CVRA extends rights to crime
+victims before prosecutors have formally filed charges, it is useful to look at
+the CVRA’s purposes, language, and judicial interpretations. This Part
+looks at each of these three issues in turn.
+45 See Michele Dargan, Feds Say They Treated Epstein Victims Fairly, PALM BEACH
+DAILY NEWS (Apr. 8, 2011, 7:23 PM), http://goo.gl/rTGDed; Conchita Sarnoff, Billionaire
+Pedophile Goes Free, DAILY BEAST (July 20, 2010, 7:05 PM), http://goo.gl/MSTi17.
+46 See Jane Doe Motion, supra note 40, at 14, 16 (internal quotation marks and citations
+omitted).
+47 See Emergency Victim’s Petition for Enforcement of Crime Victim’s Rights Act, 18
+U.S.C. Section 3771 at 2, Does v. United States, 817 F. Supp. 2d 1337 (S.D. Fla. 2011) (No.
+9:08-cv-80736-KAM).
+48 United States’ Response, supra note 40, at 7.
+70 CASSELL ET AL. [Vol. 104
+A. THE CVRA’S PURPOSES
+An analysis of the CVRA’s application before prosecutors have filed
+charges must begin by assessing the CVRA’s purposes because any
+interpretation of the CVRA that is divorced from the statute’s purposes
+would run the risk of defeating the statute’s aims. It is axiomatic that courts
+should “give faithful meaning to the language Congress adopted in the light
+of the evident legislative purpose in enacting the law in question.” 49
+As discussed above, 50 one important goal of the CVRA was to keep
+crime victims informed about any developments in the criminal justice
+process. But the need to be informed does not begin with the filing of a
+formal criminal charge. A crime victim needs to know what is happening
+before formal charging—during a criminal investigation, for example—just
+as much as she needs to know what is happening in court. Indeed, she may
+have a greater need to know, as she may be concerned that the criminal who
+harmed her is still on the loose, posing a danger to her.
+Similarly, concerning the second purpose—facilitating victim
+participation 51 —without a right to pre-charging involvement, victims may
+be effectively shut out of the process entirely. The Epstein case provides a
+useful illustration of why the CVRA must be understood to extend rights to
+victims prior to indictment. The prosecutors handling the investigation
+reached an agreement with Epstein that barred federal prosecution of sex
+offenses committed against dozens of victims, including Jane Doe Number
+One and Jane Doe Number Two. If CVRA rights did not extend to the
+negotiations surrounding the agreement, then the victims never would have
+had any ability to participate in the resolution of the case. 52
+A construction of the CVRA that extends rights to victims before
+charges are filed would be entirely consistent with the CVRA’s
+participatory purpose. If victims have the ability to participate in a precharging
+plea bargaining process, for example, victims can help ensure that
+prosecutors do not overlook anything that should be covered in the plea
+deal. For example, victims might be able to obtain agreement to a “no
+contact” order or valuable restitution—points that the prosecutor might fail
+49 Graham Cnty. Soil & Water Conservation Dist. v. United States ex rel. Wilson, 130 S.
+Ct. 1396, 1409 (2010) (quoting United States v. Bornstein, 423 U.S. 303, 310 (1976))
+(internal quotation marks omitted).
+50 See supra notes 24–27.
+51 See supra notes 28–29.
+52 Even the Justice Department seems to recognize this point. As a matter of policy, the
+Department extends to victims the right to confer with prosecutors in situations where plea
+discussions occur before charges have been brought. U.S. DEP’T OF JUSTICE, OFFICE FOR
+VICTIMS OF CRIME, ATTORNEY GENERAL GUIDELINES FOR VICTIM AND WITNESS ASSISTANCE
+41–42 (2011 ed., rev. May 2012) [hereinafter ATTORNEY GENERAL GUIDELINES].
+2014] CRIME VICTIMS’ RIGHTS 71
+to consider in crafting a plea. Similarly, allowing victims to participate
+early in the process avoids retraumatizing victims. Again, as the Epstein
+case usefully illustrates, it may be extremely difficult for victims to
+discover after the fact that potential criminal charges against a criminal who
+has abused them have been secretly bargained away. Jane Doe Number
+One and Jane Doe Number Two, for example, were outraged when they
+discovered prosecutors had entered into an agreement blocking any
+prosecution of sex offenses Epstein committed against them—and all
+without telling them. 53
+In short, the purposes animating the CVRA all suggest that the Act
+was meant to, and should, extend rights to crime victims before formal
+charges are filed.
+B. THE CVRA’S PLAIN LANGUAGE
+While the general purposes of the CVRA support a broad
+interpretation of the Act, it is important to examine whether those purposes
+have been expressed in the Act’s language. Without a linkage to the Act’s
+text, the general purpose might not provide a sound basis for
+interpretation. 54 But the CVRA’s plain language makes clear that Congress
+intended for the law to provide at least some rights to crime victims
+throughout the criminal justice process, even before the filing of criminal
+charges.
+According to its text, the CVRA provides eight specifically
+enumerated rights for crime victims and an additional right to be reasonably
+notified of these rights. 55 Some of these rights presuppose the formal filing
+of criminal charges. For instance, the CVRA extends to victims the “right
+to reasonable, accurate, and timely notice of any public court proceeding.” 56
+That particular right obviously does not apply before charges are filed, as
+no “court proceedings” exist before a defendant is charged.
+But the CVRA also promises crime victims rights that are not
+specifically tied to court proceedings. Perhaps most expansively, the
+CVRA guarantees victims the “right to be treated with fairness and with
+53 Without disclosing confidential attorney–client communications, this fact is readily
+apparent from victims’ filings in the Epstein case. See, e.g., Jane Doe Motion, supra note 40, at
+17 (stating that the victims relied on the U.S. Attorney’s Office representatives “to their
+detriment[,]” that if they knew the true facts, “they would have taken steps to object” to the plea
+agreement, and that they believed criminal prosecution to be “extremely important”).
+54 See ANTONIN SCALIA & BRYAN A. GARNER, READING LAW: THE INTERPRETATION OF
+LEGAL TEXTS 56 (2012).
+55 18 U.S.C. § 3771(a) (2012) (enumerating eight rights); id. § 3771(c)(1) (requiring
+government officers use “their best efforts” to notify victims of their rights).
+56 Id. § 3771(a)(2).
+72 CASSELL ET AL. [Vol. 104
+respect for the victim’s dignity and privacy,” 57 a broad right that does not
+appear to be directly linked to a filed court case. Similarly, the CVRA
+promises victims the “reasonable right to confer with the attorney for the
+Government in the case.” 58 In this section, the CVRA’s drafters appear to
+have eschewed a reference to court proceedings, using a broader term
+instead. Of course, a “case” can refer both to a judicial case before a court
+and an investigative case pursued by a law enforcement officer. It is
+common usage to say such things as, “The police officer investigated and
+solved the case.” Dictionary definitions of the word “case” support this
+varied interpretation. 59
+If there remained any doubts about whether the CVRA applies during
+the investigative part of the criminal justice process, two other provisions in
+the CVRA resolve them. The CVRA specifically directs that “[o]fficers
+and employees of the Department of Justice and other departments and
+agencies of the United States engaged in the detection, investigation, or
+prosecution of crime shall make their best efforts to see that crime victims
+are notified of, and accorded, the rights described in [the CVRA].” 60 Of
+course, there would be no reason to direct that agencies involved in the
+“detection” and “investigation” of crime have CVRA obligations if the Act
+did not extend to pre-charging situations. Congress thus directly envisioned
+the victims’ rights law to apply during the “detection” and “investigation”
+phases of criminal cases.
+Similarly, the CVRA’s venue provision instructs that crime victims
+who seek to assert rights in pre-charging situations should proceed in the
+court where the crime was committed: “The rights described in subsection
+(a) [of the CVRA] shall be asserted in the district court in which a
+defendant is being prosecuted for the crime or, if no prosecution is
+underway, in the district court in the district in which the crime occurred.” 61
+Here again, it is hard to see why this provision would be necessary unless
+the CVRA applies before the formal filing of charges.
+For all these reasons, the CVRA’s plain language indicates that the
+victims have protected rights under the Act even before charges are filed.
+57 Id. § 3771(a)(8).
+58 Id. § 3771(a)(5) (emphasis added).
+59 See, e.g., BLACK’S LAW DICTIONARY 243–44 (9th ed. 2009) (defining, among the
+definitions of “case,” a “test case” as “[a] criminal investigation” as in “the Manson case”);
+WEBSTER’S THIRD NEW INTERNATIONAL DICTIONARY OF THE ENGLISH LANGUAGE
+UNABRIDGED 345 (1993) (defining “case” as “a circumstance or situation (as a crime)
+requiring investigation or action by the police or other agency”).
+60 18 U.S.C. § 3771(c)(1) (emphasis added).
+61 Id. § 3771(d)(3) (emphasis added).
+2014] CRIME VICTIMS’ RIGHTS 73
+C. COURTS RECOGNIZE THAT CRIME VICTIMS HAVE CVRA RIGHTS
+BEFORE CHARGING
+Because crime victims lack a right to appointed counsel, many victims
+have difficulty litigating the scope of their rights. 62 But in a few cases,
+victims have been able to secure counsel to argue that they have rights in
+the criminal justice process during the investigation of federal crimes.
+When those cases have reached the issue of whether the CVRA applies
+before charges have been filed, courts have uniformly agreed with the
+victims’ position.
+Perhaps the leading case to date to assess this question is the Fifth
+Circuit’s decision in In re Dean. 63 There, a wealthy corporate criminal
+defendant reached a generous plea deal with the Government—a deal that
+the Government filed for approval with the district court without conferring
+with the victims. Citing procedural rights under the CVRA, the victims
+requested that the trial court reject the plea agreement. 64 The District Court
+for the Southern District of Texas specifically concluded that victims’
+CVRA rights could apply during the investigation of the crime: “There are
+clearly rights under the CVRA that apply before any prosecution is
+underway.” 65 The district court concluded, however, that the Government
+had not violated the CVRA because it had secured judicial permission to
+dispense with notification to victims. 66
+The victims sought appellate review in the Fifth Circuit. 67 There, the
+court concurred with the district court that CVRA rights apply before trial.
+Unlike the district court, however, it held that the Government had violated
+the victims’ rights:
+The district court acknowledged that “[t]here are clearly rights under the CVRA that
+apply before any prosecution is underway.” Logically, this includes the CVRA’s
+establishment of victims’ “reasonable right to confer with the attorney for the
+Government.” At least in the posture of this case (and we do not speculate on the
+62 John W. Gillis & Douglas E. Beloof, The Next Step for a Maturing Victim Rights
+Movement: Enforcing Crime Victim Rights in the Courts, 33 MCGEORGE L. REV. 689, 693 (2002).
+63 527 F.3d 391 (5th Cir. 2008). Other aspects of the case are discussed in Paul G.
+Cassell & Steven Joffee, The Crime Victims’ Expanding Role in a System of Public
+Prosecution: A Response to the Critics of the Crime Victims’ Rights Act, 105 NW. U. L. REV.
+COLLOQUY 164, 172–76 (2011).
+64 In re Dean, 527 F.3d at 392.
+65 United States v. BP Prods. N. Am. Inc., No. H-07-434, 2008 WL 501321, at *11 (S.D.
+Tex. Feb. 21, 2008).
+66 Id. at *1, *19.
+67 For discussion of the difficulties crime victims face to obtain appellate review of their
+claims, see generally Paul G. Cassell, Protecting Crime Victims in Federal Appellate Courts:
+The Need to Broadly Construe the Crime Victims’ Rights Act’s Mandamus Provision, 87
+DENV. U. L. REV. 599 (2010).
+74 CASSELL ET AL. [Vol. 104
+applicability to other situations), the government should have fashioned a reasonable
+way to inform the victims of the likelihood of criminal charges and to ascertain the
+victims’ views on the possible details of a plea bargain. 68
+The Fifth Circuit then remanded the matter to the district court to determine
+the appropriate remedy for the violation of the victims’ rights. 69
+The Fifth Circuit’s decision in Dean has been cited favorably in four
+recent district court decisions, which provides further support for the
+conclusion that the CVRA applies before charges have been filed. In
+United States v. Rubin, 70 victims of a federal securities fraud argued that
+they had CVRA rights even before prosecutors filed a superseding
+indictment covering the specific crimes affecting the victims. Citing Dean,
+the District Court for the Eastern District of New York agreed that the
+rights were expansive and could apply before charges were filed but were
+subject to the outer limit that the Government has at least “contemplated”
+charges. 71
+Similarly, in United States v. Oakum, 72 the District Court for the
+Eastern District of Virginia considered a claim that CVRA rights did not
+apply until after a defendant had been convicted. In rejecting that
+argument, the court agreed with the Dean court that victims acquire rights
+even before a prosecution begins. 73
+The District Court for the Northern District of Indiana held to the same
+effect in In re Petersen. 74 There, the court held that a victim’s right to be
+treated with fairness and with respect for [his or her] dignity and privacy
+“may apply before any prosecution is underway and isn’t necessarily tied to
+a ‘court proceeding’ or ‘case.’” 75 The court, however, found that the
+“conclusory allegations” in the victims’ petition did not “create a plausible
+claim for relief under the CVRA.” 76
+68 In re Dean, 527 F.3d at 394 (internal citations omitted).
+69 Id. at 396. On remand, the district court held additional hearings in which the victims
+participated, satisfying their CVRA rights. See United States v. BP Prods. N. Am. Inc., 610
+F. Supp. 2d 655, 660 (S.D. Tex. 2009).
+70 558 F. Supp. 2d 411 (E.D.N.Y. 2008).
+71 Id. at 419 (internal citation omitted). Rubin’s suggestion about limitations that apply
+to pre-indictment assertions of rights is discussed at notes 184–187 and 193 infra and
+accompanying text.
+72 No. 3:08cr132, 2009 WL 790042 (E.D. Va. Mar. 24, 2009).
+73 Id. at *2.
+74 No. 2:10-CV-298 RM, 2010 WL 5108692 (N.D. Ind. Dec. 8, 2010).
+75 Id. at *2 (citing In re Dean, 527 F.3d 391, 394 (5th Cir. 2008); United States v. BP
+Prods. N. Am. Inc., H-07-434, 2008 WL 501321 (S.D. Tex. Feb. 21, 2008)).
+76 Id. Petersen also held that one specific CVRA right—the right to confer—only
+applies after charges have been filed. Id. But the authorities Petersen cites for that
+proposition prove no such thing. Confusingly, Petersen cited the Fifth Circuit’s ruling in
+2014] CRIME VICTIMS’ RIGHTS 75
+Perhaps the most extensive discussion of this issue has come from the
+Epstein case discussed earlier. 77 Overruling the Government’s argument
+that the CVRA only applies after the formal filing of charges, Does v.
+United States held that “the statutory language clearly contemplates precharge
+proceedings.” 78 The court in Does explained that “[c]ourt
+proceedings involving the crime are not limited to post-complaint or postindictment
+proceedings, but can also include initial appearances and bond
+hearings, both of which can take place before a formal charge.” 79 The court
+also noted that the CVRA’s “requirement that officials engaged in
+‘detection [or] investigation’ [of crimes] afford victims the rights
+enumerated in subsection (a) surely contemplates pre-charge application of
+the CVRA.” 80 Finally, the court in Does noted that “[i]f the CVRA’s rights
+may be enforced before a prosecution is underway, then, to avoid a strained
+reading of the statute, those rights must attach before a complaint or
+indictment formally charges the defendant with the crime.” 81
+In sum, the relevant case law unanimously agrees that the CVRA
+extends rights to crime victims before charges have been filed.
+III. THE JUSTICE DEPARTMENT’S UNPERSUASIVE POSITION
+Despite the CVRA’s broad remedial purposes, its expansive language
+referring to investigations, and the unanimous case law extending rights to
+victims prior to defendants being charged, the OLC released a
+memorandum in 2011 concluding that CVRA rights attach only “from the
+time that criminal proceedings are initiated (by complaint, information, or
+indictment).” 82 OLC’s analysis is unpersuasive. Although OLC’s opinion
+Dean for support; but (as just explained above) Dean held exactly the opposite. Similarly,
+Petersen cites other cases involving the right to confer after charges have been filed. Id. But
+none of these cases actually presented the issue of the CVRA’s application to pre-indictment
+situations, since charges had already been filed in each of these cases. See, e.g., In re
+Stewart, 552 F.3d 1285, 1289 (11th Cir. 2008).
+77 Does v. United States, 817 F. Supp. 2d 1337 (S.D. Fla. 2011).
+78 Id. at 1341.
+79 Id.
+80 Id. at 1342.
+81 Id. Recently, the district court in the Does case also rejected Government efforts to
+dismiss the action. The district court found that, if the victims could prove the factual
+allegations they have made, then they would be entitled to relief, including potentially the
+relief of invalidating the nonprosecution agreement that Epstein obtained from the
+Government. Does v. United States, No. 9:08-cv-80736-KAM, 2013 WL 3089046, at *3
+(S.D. Fla. June 19, 2013).
+82 OLC CVRA Rights Memo, supra note 2, at 1. Although the opinion is dated December
+17, 2010, it was publicly released on May 20, 2011. See Letter from Jon Kyl, supra note 3.
+76 CASSELL ET AL. [Vol. 104
+invokes the CVRA’s definition of crime “victim,” its legislative intent, and
+its structure, a closer reading of each demonstrates little support for the
+notion that crime victims must await the formal filing of charges before
+accruing CVRA rights.
+A. OLC’S MISREADING OF THE CVRA’S DEFINITION OF “VICTIM”
+OLC’s lead argument is that the CVRA’s definition of “victim”
+presupposes that criminal charges have been formally filed. 83 The CVRA
+defines a “victim” who is protected as “a person directly and proximately
+harmed as a result of the commission of a Federal offense.” 84 Focusing on
+the word “offense,” OLC concedes that it does not “conclusively resolve”
+the question of when rights attach. Nevertheless, OLC claims that the word
+“naturally suggests that a person’s status as a ‘crime victim’ can only be
+determined after there has been a formal decision to charge a defendant
+with a particular Federal offense.” 85 OLC goes on to elaborate:
+Under this reading, the earliest that a “crime victim” under the Act could be identified
+would be upon the filing of a criminal complaint—that is, at the earliest point at which
+there is a sworn written statement of probable cause to believe that a particular
+defendant committed an identified Federal offense and hence the first point at which it
+is possible with any certainty to identify a “crime victim” directly and proximately
+harmed by the commission of that offense. 86
+OLC is disingenuous in asserting that the “first point” at which a
+person has been harmed by a federal crime arises only after a criminal
+complaint has been filed. The Department routinely makes such
+determinations at earlier points in criminal cases, such as when it sends a
+“target letter” to a defense attorney during a grand jury investigation. 87
+Indeed, OLC remarkably ignores the fact that the Department is directly
+required to identify victims of a crime before the filing of a criminal
+complaint, both by statute and through internal policy directives.
+The Victims’ Rights and Restitution Act of 1990 (VRRA) 88 requires
+the Department to identify victims before the filing of a criminal complaint.
+83 OLC CVRA Rights Memo, supra note 2, at 6.
+84 18 U.S.C. § 3771(e) (2012) (emphasis added).
+85 OLC CVRA Rights Memo, supra note 2, at 5.
+86 Id.
+87 A target letter explains the procedural process underlying an indictment and places the
+defendant on notice of the general nature of the government’s criminal investigation. See
+U.S. DEP’T OF JUSTICE, TITLE 9: U.S. ATTORNEYS’ CRIMINAL RESOURCE MANUAL § 160,
+[hereinafter CRIMINAL RESOURCE MANUAL] available at http://goo.gl/YHLDke (providing an
+example target letter); infra Part III.A (developing this point further).
+88 Pub. L. No. 101-647, 104 Stat. 4820 (codified as amended at 42 U.S.C. §§ 10601,
+10606–07 (2006)).
+2014] CRIME VICTIMS’ RIGHTS 77
+Passed in 1990, the VRRA provided crime victims with a set of procedural
+rights similar to those found in the CVRA, along with rights to notification
+about victim services. 89 In 2004, the CVRA repealed and replaced the
+section of the VRRA listing procedural rights, while leaving other parts of
+the VRRA intact. 90 Under the remaining parts of the VRRA, the Justice
+Department must inform victims of federal crimes of services that are
+available to them, including “emergency medical and social services,”
+counseling, and support. 91 The Department is further obligated to keep
+victims fully informed about “the status of the investigation of the crime, to
+the extent it is appropriate to inform the victim and to the extent that it will
+not interfere with the investigation.” 92 These rights to notice about
+“emergency medical and social services” 93 as well as to the “status of the
+investigation of the crime” 94 obviously require the Department to identify
+victims of federal crimes before formal charges have been filed. Indeed, the
+VRRA makes this point clear by directing the Department to not only notify
+the victim about the status of the investigation but also about the later
+“filing of charges against a suspected offender.” 95 The VRRA then extends
+victims’ rights to information through the rest of the criminal justice
+process by requiring the Department to provide notice to victims of such
+things as the imposed sentence and the defendant’s release. 96
+The VRRA not only requires the Department to identify victims during
+the investigation of a crime, it also defines those victims in a very similar
+fashion to the CVRA. The VRRA defines “victim” as a “person that has
+suffered direct physical, emotional, or pecuniary harm as a result of the
+commission of a crime.” 97 Thus, the Department is already routinely
+identifying persons who have been “harmed” by federal crimes shortly after
+the commission of those crimes and well before formal charging.
+The Attorney General has also promulgated internal guidelines
+requiring Justice Department components to identify victims rapidly after a
+crime. The Attorney General Guidelines for Victim and Witness Assistance
+provide that “Department responsibilities to crime victims begin as soon as
+possible after the detection of a crime at which they may be undertaken
+89 See supra notes 22–23 and accompanying text.
+90 Justice for All Act of 2004, Pub. L. No. 108-405, § 102(a), 118 Stat. 2260, 2261
+(2004) (codified at 18 U.S.C. § 3771(a) (2012)).
+91 See 42 U.S.C. § 10607(c).
+92 Id. § 10607(c)(3)(A).
+93 Id. § 10607(c)(1)(A).
+94 Id. § 10607(c)(3)(A).
+95 Id. § 10607(c)(3)(C).
+96 Id. § 10607(c)(3)(G).
+97 Id. § 10607(e)(2).
+78 CASSELL ET AL. [Vol. 104
+without interfering in the investigation. Generally, this point in time is
+defined by the opening of a criminal investigation.” 98
+Given the way the two statutes work, it would make no sense to
+artificially confine the CVRA’s reach until after the filing of a criminal
+complaint. Before then, victims will have often received information from
+the Department about the status of the investigation. They might wish to
+confer with prosecutors about how the case is proceeding, and the CVRA
+extends to them a right to confer. 99 Similarly, while the Department is
+notifying victims about the services they may receive and the status of an
+investigation, it is important that the victims be treated fairly. The CVRA
+extends the right to be treated fairly. 100 Indeed, it would be absurd to think
+that Congress wanted to permit the Justice Department to treat crime
+victims unfairly until criminal charges have been filed.
+Instead of recognizing Congress’s intent, OLC’s 2011 memorandum
+simply cites to a series of cases in which courts concluded that a victim of
+uncharged conduct should not be afforded statutory protections. 101 Yet
+none of these cases—United States v. Turner, 102 Searcy v. Paletz, 103 or
+Searcy v. Skinner 104 —provide strong support for OLC’s position. Turner is
+a particularly poor fit. Although OLC’s memorandum characterizes Turner
+as excluding victims of uncharged conduct, 105 the magistrate judge adopted
+an inclusive reading of the statute precisely because of his reservations
+about the CVRA’s legislative history and plain language. The judge
+suggested that “any person who self-identifies as [a victim]” could be
+presumed to qualify for protection under the CVRA as a preliminary
+matter. 106 In fact, the line quoted by the Department is lifted out of context.
+The full sentence reads: “While the offense charged against a defendant can
+98 ATTORNEY GENERAL GUIDELINES, supra note 52, at 7 (internal citations omitted); see
+also 42 U.S.C. § 10607(b).
+99 18 U.S.C. § 3771(a)(5) (2012) (preserving “[t]he reasonable right to confer with the
+attorney for the Government in the case”).
+100 Id. § 3771(a)(8) (preserving “[t]he right to be treated with fairness and with respect
+for the victim’s dignity and privacy”).
+101 OLC CVRA Rights Memo, supra note 2, at 6 n.6.
+102 367 F. Supp. 2d 319 (E.D.N.Y. 2005).
+103 No. 6:07-1389-GRA-WMC, 2007 WL 1875802 (D.S.C. June 27, 2007).
+104 No. 6:06-1418-GRA-WMC, 2006 WL 1677177 (D.S.C. June 16, 2006).
+105 OLC CVRA Rights Memo, supra note 2, at 6 n.6.
+106 Turner, 367 F. Supp. 2d at 327 (“Instead, I have taken and will continue to follow an
+inclusive approach: absent an affirmative reason to think otherwise, I will presume that any
+person whom the government asserts was harmed by conduct attributed to a defendant, as
+well as any person who self-identifies as such, enjoys all of the procedural and substantive
+rights set forth in § 3771.”).
+2014] CRIME VICTIMS’ RIGHTS 79
+serve as a basis for identifying a ‘crime victim’ as defined in the CVRA, the
+class of victims with statutory rights may well be broader.” 107
+Paletz and Skinner similarly provide scant support for the
+Department’s position. In Skinner, a prison inmate attempted to bring a pro
+se civil suit against another inmate for allegedly attacking him during
+incarceration. 108 In dismissing the suit in an unpublished decision, the
+district court recognized that the Government had expressly declined to
+bring charges against the other inmate and concluded that the CVRA did
+not create a “mechanism to bring an action against Defendant directly.” 109
+In Paletz, that same inmate brought a similar pro se claim against another
+inmate, the Federal Bureau of Prisons, the FBI, and the U.S. Attorney
+General. 110 In a parallel, unpublished decision, the district court dismissed
+the suit, noting that the CVRA is designed to give victims certain rights
+“within the prosecutorial process against a criminal defendant.” 111
+Because Skinner and Paletz involve (apparently frivolous) civil suits,
+they say nothing about the CVRA’s reach in criminal cases, and any
+language to that effect would be pure dicta. Moreover, the courts’ terse
+analysis in both cases does not contain any substantive discussion of
+whether CVRA rights apply in criminal cases before the filing of charges.
+Instead, the courts simply cited to language from a Second Circuit decision
+that stated that the CVRA does not give victims any rights against
+defendants until those defendants have been convicted 112 —a holding clearly
+limited to restitution, as many other CVRA rights clearly apply before
+conviction. 113 Reviewing these two cases in an extended, published
+opinion, the U.S. District Court for the Southern District of Texas noted that
+reading these two decisions as standing for the proposition that charges
+must be filed for CVRA rights to attach “appears inconsistent with the
+CVRA recognition of certain subsection (a) rights that apply during
+investigation, before any charging instrument is filed.” 114 As a result, OLC
+107 Id. at 326.
+108 Skinner, 2006 WL 1677177, at *1–2.
+109 Id. at *2.
+110 Searcy v. Paletz, No. 6:07-1389-GRA-WMC, 2007 WL 1875802, at *1–2 (D.S.C.
+June 27, 2007).
+111 Id. at *2.
+112 Id. (“However, ‘the CVRA does not grant victims any rights against individuals who
+have not been convicted of a crime.’” (quoting In re W.R. Huff Asset Mgmt. Co., 409 F.3d
+555, 564 (2d Cir. 2005))).
+113 Of course, a defendant cannot be ordered to pay restitution as part of his sentence
+until he has been found guilty. See 18 U.S.C. § 3664 (2012) (describing sentencing
+procedures for ordering restitution).
+114 United States v. BP Prods. N. Am. Inc., No. H-07-434, 2008 WL 501321, at *12 n.7
+(S.D. Tex. Feb. 21, 2008).
+80 CASSELL ET AL. [Vol. 104
+vastly overstates its position when it asserts that “most courts . . . have
+declined to extend enforceable rights under the CVRA to alleged victims of
+conduct that did not lead to criminal proceedings.” 115 All the courts that
+have actually reached the issue have concluded exactly the opposite. 116
+B. OLC’S DISTORTION OF THE CVRA’S STRUCTURE AND LEGISLATIVE
+HISTORY
+The next section of OLC’s memorandum maintains that the CVRA’s
+structure and legislative history lead to the conclusion that the CVRA is
+“best understood” as extending rights after charges have been filed. Here
+again, OLC’s analysis is truncated at best and misleading at worst.
+OLC begins this part of its analysis by observing that some of the
+rights in the CVRA are limited to court proceedings. OLC notes, for
+example, that the CVRA gives victims the “right to reasonable, accurate,
+and timely notice of any public court proceeding . . . involving the
+crime.” 117 But the fact that some of the rights listed in the CVRA apply to
+court proceedings hardly means that all of the rights are to be so restricted.
+The federal criminal justice process includes stages that are pre-charging,
+post-charging, and post-conviction. It would hardly be surprising to find
+that a statute that Congress intended to be “broad and encompassing” 118
+covered events occurring after the filing of charges.
+Indeed, OLC appears to recognize that at least three of the rights listed
+in the CVRA could easily apply before charges are filed: (1) the “right to be
+reasonably protected from the accused”; (2) the “reasonable right to confer
+with the attorney for the Government in the case”; and (3) the “right to be
+treated with fairness and with respect for the victim’s dignity and
+privacy.” 119 None of these rights explicitly refer to court “proceedings” or
+other events (such as parole hearings) that necessarily occur after the filing
+of formal charges. 120
+115 OLC CVRA Rights Memo, supra note 2, at 5–6. Notably, the Department does not
+embrace the language from Huff found within the Skinner and Paletz decisions because
+presumably such an approach would be contrary to many of the rights found in the CVRA.
+116 See infra Part I.C.
+117 OLC CVRA Rights Memo, supra note 2, at 6 (emphasis added) (quoting 18 U.S.C.
+§ 3771(a)(2)).
+118 150 CONG. REC. 7295 (2004) (statement of Sen. Dianne Feinstein).
+119 OLC CVRA Rights Memo, supra note 2, at 7–8, 10 (quoting 18 U.S.C. § 3771(a)(1),
+(5), (8)).
+120 OLC appears to have overlooked another right that could well apply before charges
+are filed: the right to be notified of one’s rights under the CVRA. See 18 U.S.C.
+§ 3771(c)(1) (requiring prosecutors to “make their best efforts to see that crime victims are
+notified of, and accorded, the rights described in [the CVRA]”); United States v. Rubin, 558
+F. Supp. 2d 411, 428 (E.D.N.Y. 2008) (discussing potential application of the right to
+2014] CRIME VICTIMS’ RIGHTS 81
+For purposes of this Article, it is appropriate to focus on the last two of
+these three rights: the right to confer and the right to fair treatment. The
+first of these three rights—the right to be reasonably protected—is already
+clearly extended by another statute to crime victims before the filing of
+charges. While OLC does not acknowledge this fact, the VRRA extends
+the first right to crime victims, directing that a “responsible official shall
+arrange for a victim to receive reasonable protection from a suspected
+offender and persons acting in concert with or at the behest of the suspected
+offender.” 121 Because a “suspected” offender obviously exists before the
+filing of criminal charges, the VRRA envisions the right to protection being
+provided as soon as is practical after a victim suffers from the commission
+of a crime. Additionally, the sections of the Attorney General Guidelines
+for Victim and Witness Assistance addressing the VRRA direct that Justice
+Department components must provide reasonable protection even before the
+filing of criminal charges. 122 So, under the VRRA, the Justice Department
+should already be providing reasonable protection for a victim before an
+offender is indicted, regardless of how the CVRA is interpreted. 123
+The VRRA, however, does not contain a right to confer and a right to
+fair treatment and respect for the victim’s dignity. Therefore, if victims are
+going to receive these statutory rights before trial, these rights must be
+found in the CVRA. With regard to the CVRA provision that victims have
+the “reasonable right to confer with the attorney for the Government in the
+case,” 124 OLC contends that “[t]he phrase ‘in the case’ implies the pendency
+of a judicial proceeding.” 125 To bolster its conclusion, OLC then cites
+Black’s Law Dictionary, which includes among its several definitions of the
+word “case” the definition “a civil or criminal proceeding.” 126 But OLC
+does not acknowledge that Black’s Law Dictionary also defines and
+exemplifies a “case” more broadly as a “criminal investigation <the
+notification of rights before charges are filed). For purposes of this Article, it is not
+necessary to explore this right in detail. If other CVRA rights apply before charges are filed,
+a fortiori this right does as well. If a victim has a right, presumably the victim should be
+notified of the existence of that right.
+121 42 U.S.C. § 10607(c)(2) (2006) (emphasis added).
+122 See ATTORNEY GENERAL GUIDELINES, supra note 52, at 7–8, 26–28.
+123 Exactly what “reasonable protection” means, however, remains uncertain. See
+generally Mary Margaret Giannini, Redeeming an Empty Promise: Procedural Justice, the
+Crime Victims’ Rights Act, and the Victim’s Right to Be Reasonably Protected from the
+Accused, 78 TENN. L. REV. 47 (2010) (suggesting the right has not been adequately defined
+and proposing ways to do so).
+124 18 U.S.C. § 3771(a)(5).
+125 OLC CVRA Rights Memo, supra note 2, at 8.
+126 Id. (citing BLACK’S LAW DICTIONARY, supra note 59, at 243).
+82 CASSELL ET AL. [Vol. 104
+Manson case>.” 127 Thus, Black’s Law Dictionary does not help resolve the
+dispute as to which of the two meanings should be used, as there are clearly
+differing meanings. While OLC’s reading may be a permissible one, so is a
+pro-victim reading.
+OLC also turns to the CVRA’s legislative history to bolster its
+conclusion. But, here again, its analysis is misleading. OLC relies on a
+passage from Senate floor colloquy between Senators Jon Kyl and Dianne
+Feinstein regarding the CVRA’s scope. In OLC’s recounting of the
+legislative history, the floor statements “emphasize that the right to confer
+relates to the conduct of criminal proceedings after the filing of charges.” 128
+For instance, OLC quotes Senator Kyl stating that “[u]nder this provision,
+victims are able to confer with the Government’s attorney about
+proceedings after charging.” 129
+This is a truncated and deceptive description of the legislative history,
+so much so that Senator Kyl sent an angry letter to Attorney General Eric
+Holder complaining about the distortion. On June 6, 2011, the Senator
+wrote to “express [his] surprise that [OLC is] so clearly quoting [his]
+remarks out of context.” 130 Senator Kyl then went on to observe that the
+colloquy began by noting that the right to confer “is intended to be
+expansive.” 131 The Senator further discussed various “examples” of when
+the right to confer applied, including “any critical stage or disposition of the
+case. The right, however, is not limited to these examples.” 132 It was
+against that backdrop that Senator Kyl gave the example of conferring
+about proceedings “after charging.”
+In his letter to Attorney General Holder, Senator Kyl also noted that he
+had:
+made clear that crime victims had rights under the CVRA even before an indictment is
+filed. For example, . . . I made clear that crime victims had a right to consult about
+both ‘the case’ and ‘case proceedings’—i.e., both about how the case was being
+handled before being filed in court and then later how the case was being handled in
+court ‘proceedings.’ 133
+Senator Kyl further commented that he had discussed the CVRA’s potential
+application in grand jury proceedings, an application that required the Act
+127 BLACK’S LAW DICTIONARY, supra note 59, at 244.
+128 OLC CVRA Rights Memo, supra note 2, at 9.
+129 Id. (emphasis added) (quoting 150 CONG. REC. 7302 (2004) (statement of Sen. Jon
+Kyl) (internal quotation marks and citation omitted).
+130 Letter from Jon Kyl, supra note 3.
+131 Id. (quoting 150 CONG. REC. S4260, S4268 (daily ed. Apr. 22, 2004) (statement of
+Sen. Dianne Feinstein)).
+132 Id.
+133 Id.
+2014] CRIME VICTIMS’ RIGHTS 83
+to extend rights before indictment. 134 Thus, if anything, the legislative
+history does not support OLC’s conclusion—it contradicts it. 135
+OLC should have had no doubt as to the intent of Senator Kyl and his
+cosponsors at the time of the Act’s passage. Shortly after shepherding the
+CVRA through the Congress, Senator Kyl cowrote a law review article
+about the Act. 136 In that article, he directly indicated that the CVRA applies
+before charges are filed. Senator Kyl and his coauthors wrote:
+While most of the rights guaranteed by the CVRA apply in the context of legal
+proceedings following arrest and charging, other important rights are triggered by the
+harm inflicted by the crime itself. For example, the right to be treated with fairness,
+the right to be reasonably protected from the accused (who may qualify as the accused
+before his arrest), and the right to be treated with respect for the victim’s dignity and
+privacy each may arise without regard to the existence of legal proceedings. 137
+Remarkably, OLC cited Senator Kyl’s law review article (in a footnote), but
+then concluded without explanation that the CVRA cosponsor’s views were
+for some reason different than Congress’s. 138
+OLC also appears to acknowledge that its interpretation of the CVRA
+could well contradict what it describes as prosecutorial “good practice.” 139
+OLC noted that some Justice Department components (for example, the
+Environmental and Natural Resources Division) had advocated that the
+right to confer should apply during pre-charging plea discussions. 140 OLC
+then acknowledged that limiting the right to confer until after formal
+charging could “reduce the impact of a victim’s participation in subsequent
+court proceedings.” 141 OLC attempted to dodge this problem by explaining:
+“The question before us, though, is not whether it would be advisable as a
+matter of good practice . . . for Government attorneys to confer with victims
+pre-charge when appropriate . . . .” 142 OLC then explained that even under
+its narrow interpretation of the statute, “the CVRA would still ensure that
+134 Id.
+135 Attorney General Holder never sent a response to Senator Kyl’s letter. But Assistant
+Attorney General Ronald Weich sent a belated response. Letter from Ronald Weich, Assistant
+Att’y Gen., to Jon Kyl, U.S. Sen. (Nov. 3, 2011) (on file with authors). That response did not
+address Senator Kyl’s concern that his remarks were being quoted out of context.
+136 See generally Kyl et al., supra note 19.
+137 Id. at 594.
+138 OLC CVRA Rights Memo, supra note 2, at 8 n.7.
+139 Id. at 10.
+140 Id. at 9 (citations omitted) (discussing an interdepartmental memorandum addressing
+this question).
+141 Id. at 10.
+142 Id.
+84 CASSELL ET AL. [Vol. 104
+the victim has an opportunity to be heard by the court, and by the
+Government, before the court accepts the plea.” 143
+But OLC failed to recognize that its interpretation of the CVRA
+rendered the right to be heard a nullity in many important cases—including,
+notably, the Epstein case. 144 Where prosecutors and defense attorneys work
+out a nonprosecution agreement that agreement will never be presented to a
+court for review. Thus, in cases where the need for victim participation
+may be the greatest—that is, in cases where the Government is considering
+never filing any charges—OLC’s interpretation would bar victims from
+having any rights at all.
+Even in situations where a prosecutor works out a plea agreement,
+OLC’s interpretation is problematic. As OLC recognizes, prosecutors and
+defense counsel commonly work out pre-indictment plea agreements
+(particularly in white-collar cases), under which a defendant will plead
+guilty to certain charges. 145 Then, the parties jointly present to the district
+court a criminal “information” (that is, a recitation of the charges drafted by
+the prosecutor but never presented to the grand jury 146 ) and a plea
+agreement, asking the court to file the criminal information and
+simultaneously accept the guilty plea. As the OLC memorandum
+acknowledges, a crime victim would have the right to object to the plea
+agreement, because the CVRA gives crime victims the “right to be
+reasonably heard” at any public proceedings involving a plea. 147 But under
+OLC’s interpretation of the CVRA, a crime victim has no right to notice of
+court hearings until the charges are filed. Thus, if the information and plea
+are filed simultaneously, as is often the case, two scenarios are possible. A
+victim could have no prior right to notice of the proceeding at which the
+plea was being accepted, or alternatively (if the act of filing the information
+in the course of accepting a plea triggers a notification right), the district
+court would be required to stop in the middle of proceedings and ensure that
+notification was belatedly provided. Of course, these difficulties are all
+avoided if the right to confer is properly construed as attaching before
+charges are filed, such as during plea negotiations between prosecutors and
+defense attorneys.
+143 Id.
+144 The OLC opinion was publicly released on May 20, 2011. Perhaps not
+coincidentally, this release date was shortly before the Government filed its response in the
+Epstein case.
+145 See OLC CVRA Rights Memo, supra note 2, at 9 (acknowledging the potential effect
+of the CVRA on plea negotiations).
+146 See FED. R. CRIM. P. 7(b).
+147 18 U.S.C. § 3771(a)(4) (2012); OLC CVRA Rights Memo, supra note 2, at 6–7.
+2014] CRIME VICTIMS’ RIGHTS 85
+More importantly, extending the right in this fashion will not be
+unduly burdensome for federal prosecutors. After the OLC memorandum
+was made public, the Department amended the Attorney General
+Guidelines for Victim and Witness Assistance to require prosecutors to
+make reasonable efforts toward a goal of providing victims with a
+meaningful opportunity to offer their views before plea agreements are
+formally reached. 148 “In circumstances where plea negotiations occur
+before a case has been brought, Department policy is that this should
+include reasonable consultation prior to the filing of a charging instrument
+with the court.” 149 Thus, Department policy already extends pre-charging
+rights to victims. The CVRA should be understood as having the same
+scope.
+OLC also notes that the CVRA right “to be treated with fairness and
+with respect for the victim’s dignity and privacy” is a right that could apply
+before charges are filed. 150 Indeed, OLC is forced to concede (as district
+courts have recognized) that the “right to be treated with fairness and with
+respect for the victim’s dignity and privacy may apply with great force
+during an investigation, before any charging instrument has been filed.” 151
+OLC nonetheless maintains that the right to fairness only applies after
+charges have been filed. OLC relies on the canon of statutory construction
+noscitur a sociis, meaning that words are known by their companions, 152 for
+its interpretation of the CVRA. OLC argues that because the other seven
+enumerated rights are limited to post-charging situations, the eighth right
+should be as well. Of course, this argument assumes that OLC’s
+construction of the other seven rights is correct—a point very much in
+dispute. 153 If, for example, the right to confer applies before charges are
+filed, then presumably noscitur a sociis would cut the other way—the right
+to fairness should likewise be construed as applying before charges are
+filed.
+Moreover, OLC omits from its discussion of the fairness provision any
+assessment of the CVRA’s purposes. In construing a statute, a court must
+consider the “purpose and context” of the statute. 154 In describing the
+fairness provision, Senator Kyl emphasized that it conferred a “broad”
+148 ATTORNEY GENERAL GUIDELINES, supra note 52, at 41–42.
+149 Id. at 41.
+150 OLC CVRA Rights Memo, supra note 2, at 10 (quoting 18 U.S.C. § 3771(a)(8)).
+151 Id. (quoting United States v. BP Products North America Inc., No. H-07-434, 2008
+WL 501321, at *11 (S.D. Tex. Feb. 21, 2008) (internal quotation marks omitted)).
+152 Id. at 11.
+153 See supra Part III.A.
+154 Kasten v. Saint-Gobain Performance Plastics Corp., 131 S. Ct. 1325, 1331 (2011).
+86 CASSELL ET AL. [Vol. 104
+right. 155 The reason for adopting such a broad right was that “[t]oo often
+victims of crime experience a secondary victimization at the hands of the
+criminal justice system. This provision is intended to direct Government
+agencies and employees, whether they are in the executive or judiciary
+branch, to treat victims of crime with the respect they deserve.” 156 OLC’s
+failure to consider the purposes underlying the CVRA is a glaring
+oversight.
+OLC never attempts to explain why the CVRA’s drafters would want
+victims to have a right to fair treatment once criminal charges were filed but
+possess no such right before the filing of criminal charges. Clearly, many
+victims can and do suffer secondary victimization during criminal
+investigations, such as when sexual assault victims are treated
+inappropriately by law enforcement agents. 157 It would contradict the
+purpose of preventing victim mistreatment in the criminal justice system to
+artificially limit the right to fairness to the point at which charges are filed.
+The right to fairness logically applies at all stages of the criminal justice
+process.
+C. OLC’S INEFFECTIVE RESPONSE TO THE CVRA’S COVERAGE AND
+VENUE PROVISIONS
+At the end of its memorandum, OLC finally discusses what it
+identifies as the two strongest arguments for construing the CVRA as
+applying before charging: the coverage provision and the venue provision.
+OLC acknowledges, as it must, that the CVRA’s coverage extends to any
+federal employee engaged in “the detection, investigation or prosecution of
+crime.” 158 Such employees “shall make their best efforts to see that crime
+victims are notified of, and accorded, the rights” afforded by the statute. 159
+Notably, this duty applies to individuals not just in the Justice Department
+(where all federal prosecutors are located) but other agencies as well, such
+155 150 CONG. REC. 7303 (2004) (statement of Sen. Jon Kyl).
+156 Id.
+157 See SUSAN ESTRICH, REAL RAPE 50–51 (1987) (describing how a rape victim’s sexual
+history may be used against her in court proceedings); Beloof, supra note 38, at 309–10
+(collecting examples of victims’ issues that arise during the investigative process); see also
+PRESIDENT’S TASK FORCE ON VICTIMS OF CRIME, FINAL REPORT, supra note 10, at 57–62 (making
+recommendations for how police should treat victims during the criminal justice process).
+158 OLC CVRA Rights Memo, supra note 2, at 15 (quoting 18 U.S.C. § 3771(c)(1)
+(2012)) (internal quotation marks omitted).
+159 18 U.S.C. § 3771(c)(1).
+2014] CRIME VICTIMS’ RIGHTS 87
+as environmental crimes investigators in the Environmental Protection
+Agency (EPA). 160
+This coverage provision would seem to answer any lingering question
+about whether the CVRA applies before charging. In directing that federal
+employees engaged in the “detection” and “investigation” of crime must
+respect victims’ rights, Congress wanted broad rights extending beyond just
+the prosecution of a case. As the district court concluded in the Epstein
+case, this provision “surely contemplates pre-charge application of the
+CVRA.” 161
+OLC gamely maintains, however, that Congress was simply trying to
+provide that federal law enforcement agents should provide rights to
+victims when a criminal case moves to its prosecution phase. OLC noted
+the uncontroversial point that law enforcement agents “often develop a
+relationship of trust with crime victims during the investigation that
+continues as they assist crime victims in negotiating active criminal
+proceedings.” 162 OLC then asserted:
+Given this continuing active role that agents typically play during criminal
+prosecutions, we find the fact that the CVRA assigns responsibility to them, together
+with the attorney for the Government, to . . . accord them their rights under the CVRA
+to be entirely consistent with our conclusion that those rights arise only once the
+Government has initiated criminal proceedings. 163
+But OLC’s contorted position never explains why Congress found it
+necessary to break out three separate phases of the criminal justice process:
+the “detection,” “investigation,” and “prosecution” of crime. If the
+congressional intent was simply to cover, for example, FBI agents or EPA
+agents during the post-charging phase of a case, it could have simply
+omitted those words from the CVRA. An FBI agent, for example, would be
+engaged in the “prosecution” of the case when assisting the victim after the
+formal filing of charges. On OLC’s reading of the statute, the words
+“detection” and “investigation” become meaningless, contrary to the wellknown
+canon of construction verba cum effectu sunt accipienda, which
+means that, if possible, every word and every provision is to be given
+effect. 164
+OLC also suggests that the “most significant” argument supporting
+pre-charging application of rights is the venue provision, which allows
+160 See Kyl et al., supra note 136, at 615 (“Notice should be given to the fact that it applies
+not just to the Department of Justice, but to all ‘departments and agencies of the United States
+engaged in the detection, investigation, or prosecution of crime.’” (citation omitted)).
+161 Does v. United States, 817 F. Supp. 2d 1337, 1342 (S.D. Fla. 2011).
+162 OLC CVRA Rights Memo, supra note 2, at 15.
+163 Id.
+164 See, e.g., Reiter v. Sonotone Corp., 442 U.S. 330, 339 (1979).
+88 CASSELL ET AL. [Vol. 104
+crime victims to assert CVRA rights “in the district court in which a
+defendant is being prosecuted for the crime or, if no prosecution is
+underway, in the district court in the district in which the crime
+occurred.” 165 The Department contends that this language refers quite
+narrowly to the “period of time between the filing of a complaint and the
+initiation of formal charges.” 166 In support of its position, the Department
+cites a Fourth Circuit case interpreting the Sixth Amendment right to
+counsel, which held that a “prosecution” for purposes of that Amendment
+does not begin when a criminal complaint is filed. 167 In OLC’s view, the
+venue provision’s direction that victims should assert rights when “no
+prosecution is underway” applies only to the limited time between when the
+Government files a complaint against a defendant and some later point
+when the “prosecution” actually begins. OLC notes that the filing of a
+complaint triggers an initial appearance, where crime victims can have
+important interests at stake, such as the right to be heard about a
+defendant’s release on bail. OLC believes it is only to such post-complaint,
+yet pre-indictment, proceedings (i.e., the initial appearance) that the venue
+provision’s “no-prosecution-underway” language covers.
+As a preliminary matter, OLC’s interpretation of the word
+“prosecution” in the Department’s narrow construction of the venue
+provision is a twisted one, at odds with the way that term is conventionally
+used. The filing of a complaint is typically viewed as the start of a criminal
+prosecution. For example, the leading criminal procedure hornbook states
+that “[w]ith the filing of the complaint, the arrestee officially becomes a
+‘defendant’ in a criminal prosecution.” 168
+Moreover, having specifically rejected the filing of the criminal
+complaint as the starting point for a “prosecution” within the CVRA’s
+venue provision, OLC refuses to consider the implications of its alterative
+starting point: the formal filing of an indictment. OLC states that “a
+prosecution of a felony must commence with the return of an indictment by
+a grand jury,” citing the Federal Rules of Criminal Procedure. 169 Yet OLC
+does not pause to recognize that, while felonies proceed by way of
+indictment, misdemeanors can proceed not only by indictment but also by
+complaint. 170 The CVRA draws no distinction between misdemeanor and
+165 OLC CVRA Rights Memo, supra note 2, at 14 (quoting 18 U.S.C. § 3771(d)(3) (2012)).
+166 Id.
+167 Id. (citing United States v. Alvarado, 440 F.3d 191, 200 (4th Cir. 2006)).
+168 WAYNE R. LAFAVE ET AL., CRIMINAL PROCEDURE § 1.2(g), at 11 (5th ed. 2009)
+(emphasis added).
+169 OLC CVRA Rights Memo, supra note 2, at 14 (citing FED. R. CRIM. P. 7(a)(1)).
+170 FED. R. CRIM. P. 58(b)(1) (“The trial of a misdemeanor may proceed on an
+indictment, information, or complaint.” (emphasis added)).
+2014] CRIME VICTIMS’ RIGHTS 89
+felony offenses, broadly extending its protections to victims of any federal
+offense. 171 Thus, under OLC’s interpretation that the filing of a complaint
+does not trigger the CVRA, many victims who are entitled to CVRA
+protections—i.e., victims of misdemeanor offenses prosecuted by way of
+complaint—will never have proper venue to assert those rights because,
+according to OLC’s strained argument, no prosecution ever started in their
+cases.
+Even limiting the focus to felony cases, OLC misleadingly describes
+the Sixth Amendment case law. It is not immediately clear why one would
+look to the right to counsel to determine the breadth of the term
+“prosecution” in the Sixth Amendment. The right to counsel is not the only
+right found in that Amendment. The Amendment also extends, for
+example, a right to a speedy trial in all criminal “prosecutions.” 172 The case
+law on the speedy trial right makes clear that the right “may attach before
+an indictment and as early as the time of arrest and holding to answer a
+criminal charge.” 173
+In any event, the right to counsel cases are quite clear in providing that
+a Sixth Amendment “prosecution” can (and often does) begin well before
+an indictment. 174 The Supreme Court has directly held that the Sixth
+Amendment’s right to counsel attaches “at or after the time that judicial
+proceedings have been initiated against [a person]—‘whether by way of
+formal charge, preliminary hearing, indictment, information, or
+arraignment.’” 175 Thus, under this controlling precedent, some earlier point
+in time before indictment is the triggering point of a Sixth Amendment
+“prosecution.”
+The cases that OLC cites are not to the contrary. It is true that some
+federal appeals courts have stated that the mere filing of a criminal
+complaint does not trigger a Sixth Amendment right to counsel. 176 But
+there is a split of authority on this question, as OLC acknowledges in a
+footnote. 177 More importantly for purposes of this Article, the cases holding
+171 See 18 U.S.C. § 3771(e) (2012).
+172 U.S. CONST. amend. VI.
+173 United States v. Gouveia, 467 U.S. 180, 190 (1984) (quoting United States v.
+MacDonald, 456 U.S. 1, 6–7 (1982)) (internal quotation marks omitted).
+174 See, e.g., Texas v. Cobb, 532 U.S. 162, 172–73 (2001).
+175 Brewer v. Williams, 430 U.S. 387, 398 (1977) (quoting Kirby v. Illinois, 406 U.S.
+682, 689 (1972)).
+176 See, e.g., United States v. Alvarado, 440 F.3d 191, 196 (4th Cir. 2006).
+177 OLC CVRA Rights Memo, supra note 2, at 14 n.15 (citing Hanrahan v. United
+States, 348 F.2d 363, 366 n.6 (D.C. Cir. 1965)); see WAYNE R. LAFAVE ET AL., CRIMINAL
+PROCEDURE § 6.4(e), at 670 (3d ed. 2007) (“There is an apparent split of authority on the
+question of whether the filing of a complaint is alone enough to give rise to a Sixth
+Amendment right to counsel, though the difference probably is explainable by the fact that
+90 CASSELL ET AL. [Vol. 104
+that the mere filing of a complaint does not start a Sixth Amendment
+prosecution also make clear that a later court hearing would start such a
+prosecution. For instance, in the Fourth Circuit case cited by OLC, United
+States v. Alvarado, the court reasons that “the main reason a law
+enforcement officer files [] a complaint is to establish probable cause for an
+arrest warrant. The criminal process is still in the investigative stage, and
+the adverse positions of government and defendant have yet to solidify.” 178
+Relying on that reasoning, the Fourth Circuit refused to find that the right to
+counsel had attached merely because a police officer had filed a complaint
+to get an arrest warrant. But the Fourth Circuit distinguished that situation
+from “the initiation of adversary judicial proceedings against the
+defendant.” 179 An initial appearance would be such an adversary
+proceeding—i.e., it would be a “prosecution” under the Sixth Amendment.
+In light of this, OLC’s position that the CVRA’s venue provision’s “noprosecution-underway”
+reference covers proceedings, such as an initial
+appearance, does not work.
+The only sensible way to construe the CVRA’s venue provision is to
+read it as conveniently dividing criminal cases into two phases: a
+prosecution phase and an earlier investigative phase when “no prosecution
+is under way.” 180 Senator Kyl, for instance, has noted that if there are any
+doubts about how to construe the CVRA, this venue provision “sweeps
+them away.” 181 Once again, the language that Congress used leads
+inexorably to the conclusion that the CVRA extends rights to victims before
+the filing of criminal charges.
+IV. WHEN PRE-CHARGING RIGHTS ATTACH UNDER THE CVRA
+The zeal with which OLC argues against applying CVRA rights before
+charging raises the question of why it protests so much. Although OLC
+never articulated this concern, perhaps OLC worried that pre-charging
+rights would be difficult to administer. Such concerns should evaporate
+with a workable construction of when pre-charging rights attach. In this
+Part, we propose such a construction, suggesting that CVRA rights should
+attach when substantial evidence exists that a specific person has been
+directly and proximately harmed as the result of a federal crime. This
+approach appears to already be the method that the Department is taking, as
+this document is used for multiple purposes.”); see also Felder v. McCotter, 765 F.2d 1245,
+1248 (5th Cir. 1985) (citing Texas law).
+178 Alvarado, 440 F.3d at 200 (citations omitted) (internal quotation marks omitted).
+179 Id. (quoting United States v. Gouveia, 467 U.S. 180, 187 (1984)).
+180 18 U.S.C. § 3771(d)(3) (2012).
+181 Kyl et al., supra note 19, at 594.
+2014] CRIME VICTIMS’ RIGHTS 91
+it has extended many rights to victims before the formal filing of criminal
+charges as a matter of internal policy. 182 This approach appears to be
+workable, as a number of states extend rights to victims during the
+investigative process. 183
+A. A TEST FOR DETERMINING WHEN RIGHTS ATTACH
+As explained in the earlier Parts of this Article, the CVRA clearly
+envisions that crime victims would have rights in the criminal justice
+process before the return of indictments or the filing of criminal complaints.
+The question then as to how much earlier in the process crime victims have
+rights naturally arises. Does the CVRA apply one second after a federal
+crime has been committed? Or does it apply at some later point during an
+investigation?
+This issue was nicely framed by the U.S. District Court for the Eastern
+District of New York in a securities fraud case. In the first indictment
+underlying the case, the charged crime did not include various victims. A
+later superseding indictment broadened the charges to include those missing
+individuals. When they brought a suit under the CVRA, the court noted
+that “[q]uite understandably, movants perceive their victimization as having
+begun long before the government got around to filing the superseding
+indictment.” 184 The court, however, explained that there must be “logical
+limits” to crime victims’ rights before the filing of charges. 185 The court
+noted:
+For example, the realm of cases in which the CVRA might apply despite no
+prosecution being ‘underway,’ cannot be read to include the victims of uncharged
+crimes that the government has not even contemplated. It is impossible to expect the
+government, much less a court, to notify crime victims of their rights if the
+government has not verified to at least an elementary degree that a crime has actually
+taken place, given that a corresponding investigation is at a nascent or theoretical
+stage. 186
+The logical limits that the CVRA envisions could come from how the
+Justice Department interacts with criminals during the investigation of a
+crime. Crime victims’ rights advocates are fond of saying that victims
+“only want to be treated like criminals”—that is, they simply want to have
+the same kinds of rights as criminals receive, such as the right to be notified
+182 See, e.g., ATTORNEY GENERAL GUIDELINES, supra note 52, at 41–42 (discussing the
+right to confer regarding plea bargains).
+183 See infra Part III.D.
+184 United States v. Rubin, 558 F. Supp. 2d 411, 419 (E.D.N.Y. 2008).
+185 Id.
+186 Id.
+92 CASSELL ET AL. [Vol. 104
+of court hearings and to attend those hearings. 187 So it is instructive to
+notice that the Justice Department policy is to extend certain rights to
+suspected criminals during certain points in the investigative process. That
+policy might provide guidance on when crime victims’ rights would attach.
+Of particular interest here is the Department’s policy for grand jury
+subpoenas issued to a “target” of a criminal investigation. When such a
+target is subpoenaed to testify before a grand jury, the Department of
+Justice will advise that target of his rights, such as the right to refuse to
+answer any question that might be incriminating. 188 The Department of
+Justice defines a “target” of a criminal investigation as “a person as to
+whom the prosecutor or the grand jury has substantial evidence linking him
+or her to the commission of a crime and who, in the judgment of the
+prosecutor, is a putative defendant.” 189
+If the Department’s investigation has coalesced sufficiently so that it
+can provide notice of rights to putative defendants, it should likewise be in
+a position to provide notice of rights to that defendant’s victims.
+Combining the Department’s definition of “target” with the CVRA’s
+coverage and definition-of-victim provisions produces a formulation
+whereby CVRA rights attach in (at least) the following circumstances:
+CVRA rights attach when an officer or employee of the Department of
+Justice or any other department or agency of the United States engaged in
+the detection, investigation, or prosecution of crime has substantial
+evidence that an identifiable person has been directly and proximately
+harmed as a result of the commission of a federal offense or an offense in
+the District of Columbia, and in the judgment of the officer or employee,
+that person is a putative victim of that offense.
+This formulation borrows from the CVRA’s coverage provision 190 to
+define the relevant universe of substantial evidence as that in the possession
+of the Justice Department or other federal agencies. For instance, if state
+law enforcement officers are investigating a bank robbery, the fact that the
+robbery might also be prosecuted federally 191 does not make the teller at the
+bank a federal “victim” of the crime until evidence regarding the crime
+comes into the possession of a federal agency. The formulation also tracks
+the CVRA’s definition of “victim” in limiting the universe of potential
+187 See, e.g., Cassell, supra note 15, at 1376–85 (describing the rationale underpinning
+state victims’ rights statutes).
+188 CRIMINAL RESOURCE MANUAL, supra note 87, § 9-11.151.
+189 Id.
+190 18 U.S.C. § 3771(e) (2012).
+191 Id. § 2113.
+2014] CRIME VICTIMS’ RIGHTS 93
+victims to those who have been “directly and proximately harmed.” 192
+Finally, the formulation requires some federal officer or employee to
+evaluate the evidence and reach the conclusion that a federal offense has
+been committed that harmed the person in question. This determination
+responds to the observation by the District Court for the Eastern District of
+New York that the CVRA “cannot be read to include the victims of
+uncharged crimes that the government has not even contemplated.” 193 At
+the same time, such a formulation obviously does not require the filing of
+formal criminal charges, or even the preparation of formal criminal charges.
+Instead, all that is required is for the Department to recognize that a person
+is a putative victim of a federal offense, just as all that is required for the
+mailing of a target letter to a subpoenaed suspected criminal, is recognition
+that he is a putative defendant in a federal case.
+B. APPLYING THE TEST TO THE EPSTEIN CASE
+To illustrate how the test would operate, it is useful to examine the
+facts of the Epstein case. Applying the proposed test to that case produces
+straightforward answers, which suggests that the test would be workable in
+practice.
+From 2001 to 2007, Jeffrey Epstein sexually abused more than thirty
+minor girls in his mansion, including Jane Doe Number One and Jane Doe
+Number Two. 194 Initially, of course, his acts of abuse were secret, unknown
+to law enforcement. During that period of time, the victims would not have
+had rights under the CVRA.
+In 2006, Epstein’s acts of abuse came to the attention of the Palm
+Beach Police Department, which began investigating the case. 195 At this
+point, once again, the victims would not have had rights under the proposed
+CVRA test. The CVRA extends rights in the federal criminal justice
+process. A state investigation does not trigger the CVRA (although it may
+trigger certain state law protections, as discussed below). 196
+At some point in 2006, the Palm Beach Police Department asked the
+FBI to investigate Epstein on federal sex offenses, such as using a means of
+192 See id. § 3771(e).
+193 United States v. Rubin, 558 F. Supp. 2d 411, 419 (E.D.N.Y. 2008).
+194 As above, see supra notes 34–41 and accompanying text, this part of the Article
+draws on the factual allegations made by the victims in this case—allegations that Epstein
+has not intervened to dispute. See Jane Doe Motion, supra note 40, at 3–23.
+195 See Probable Cause Affidavit, Palm Beach Police Department: Police Case No. 05-
+368(1) (May 1, 2006), available at http://goo.gl/fAPFw5; see also Statement of Undisputed
+Facts, Epstein v. Rothstein, No. 50 2009 CA 040800XXXXMBAG (Fla. Cir. Ct. Sept. 22,
+2010), available at http://goo.gl/DzMbe8.
+196 See supra notes 178–95 and accompanying text as well as infra Part IV.D.
+94 CASSELL ET AL. [Vol. 104
+interstate communication in connection with sex offenses and traveling in
+interstate commerce for the purpose of engaging in illicit sexual conduct
+with minors. 197 The local police provided the FBI with information, which
+the FBI then investigated. Following an investigation, the FBI determined
+that the allegations of abuse against Epstein were credible, and it presented
+the case to the U.S. Attorney’s Office for the Southern District of Florida.
+In 2007, the Office contacted counsel for Jeffrey Epstein and began
+negotiating a resolution of the case against him. 198
+Under our proposed test, the victims would not have had CVRA rights
+the first moment that the FBI became aware of Epstein’s possible
+commission of sex offenses. But after the FBI developed substantial
+evidence of those sex offenses, identified victims of those offenses, and
+presented the case to the appropriate U.S. Attorney’s Office for prosecution,
+CVRA rights would have attached. Accordingly, the FBI would have been
+required to notify the identified victims of their rights under the CVRA (as
+well as under the VRRA). From that point forward in the case, the victims
+would have had CVRA rights, such as the right to fair treatment and the
+right to confer with prosecutors. In this case, the victims would have had
+the right to confer with prosecutors about the nonprosecution agreement
+that they ultimately reached with Epstein. 199
+C. CURRENT DEPARTMENT POLICY ON PRE-CHARGING RIGHTS
+One objection that might be made to the formulation offered above is
+that it might unduly burden federal law enforcement officers and
+prosecutors, who would need to make judgment calls about when an
+investigation has coalesced to the point where “victims” are in existence,
+“substantial evidence” has been collected, and notice of rights has to be
+provided. Any such objection would be ill-founded, though, as it does not
+appear that implementing such an approach would be difficult. 200
+Presumably the Justice Department has already been providing such rights
+in at least Texas, Louisiana, and Mississippi to comply with the Fifth
+197 See 18 U.S.C. §§ 2422(b), 2423(b), (e) (2012).
+198 A more substantial summary of the case is available in case filings. See Jane Doe
+Motion, supra note 40.
+199 See supra Part II.
+200 This Article does not discuss mass victim cases in which notice needs to be provided
+to hundreds of victims. But in such situations, the CVRA already provides for “reasonable”
+alternative procedures. 18 U.S.C. § 3771(d)(2) (2012). The Department of Justice, for
+example, has used websites to provide notice in terrorism cases to large numbers of victims.
+See, e.g., United States v. Ingrassia, No. CR-04-0455ADSJO, 2005 WL 2875220, at *4
+(E.D.N.Y. Sept. 7, 2005); Criminal Division’s Victim Notification Program, U.S. DEP’T OF
+JUSTICE, http://goo.gl/6H6IEk (last visited Dec. 4, 2013).
+2014] CRIME VICTIMS’ RIGHTS 95
+Circuit’s 2008 ruling in In Re Dean, which held that the CVRA extends
+rights to victims before defendants are charged. 201 We have not seen any
+reports that providing the rights has been difficult.
+Perhaps the reason for the lack of any reported difficulty is that the
+Department’s current policy on crime victims’ rights already requires
+notices to victims during investigations. The Justice Department has
+promulgated the Attorney General Guidelines for Victim and Witness
+Assistance, the latest edition of which is from May 2012. The Guidelines
+discuss crime victims’ rights under both the CVRA and the earlier VRRA.
+Because of the OLC memorandum discussed above, the Guidelines limit
+CVRA rights until after the time “when criminal proceedings are initiated
+by complaint, information, or indictment.” 202 The Department, however,
+provides hortatory guidance that Justice Department employees shall make
+“best efforts” to notify crime victims about their CVRA rights “as early in
+the criminal justice process as is feasible and appropriate.” 203
+Of greater interest, however, is the Department’s mandatory policy
+regarding notification regarding crime victim services under the VRRA.
+The Guidelines explain how “Department responsibilities to crime victims
+begin as soon as possible after the detection of a crime at which they may
+be undertaken without interfering in the investigation.” 204 The Guidelines
+then direct the appropriate “responsible official” to provide crime victims
+with “information about services available to them.” 205 This information
+must be provided at “the earliest opportunity after detection of a crime at
+which it may be done without interfering with an investigation.” 206
+The Department appears to have little difficulty implementing this
+requirement. Evidence of this fact comes from the Justice Department
+itself, which responded to the letter from Senator Kyl discussed earlier
+questioning why the Department was not applying the CVRA before
+charges were filed. 207 In its response, the Department noted that OLC had
+issued an opinion that the CVRA did not extend rights before the formal
+filing of charges. 208 “Even so,” the Department explained, “the new AG
+Guidelines go further and provide that Department prosecutors should make
+201 527 F.3d 391 (5th Cir. 2008).
+202 ATTORNEY GENERAL GUIDELINES, supra note 52, at 8.
+203 Id. at 35.
+204 Id. at 26 (citing 42 U.S.C. § 10607(b) (2006)).
+205 Id. at 29 (citing 42 U.S.C. § 10607(b)(2)). Elsewhere, the Guidelines define the
+official who is responsible as the appropriate federal law enforcement officer during the
+investigation of the crime or the U.S. Attorney once charges have been filed. Id. at 25–26.
+206 Id. at 29.
+207 See supra notes 130–33 and accompanying text.
+208 Letter from Ronald Weich, supra note 135, at 2.
+96 CASSELL ET AL. [Vol. 104
+reasonable efforts to notify identified victims of, and consider victims’
+views about, prospective plea negotiations, even prior to the filing of a
+charging instrument with the court.” 209
+The Department also noted that it provided extensive pre-charging
+notifications to victims under the VRRA:
+Pursuant to the Victims’ Rights and Restitution Act of 1990 (VRRA), the Department
+identifies victims and provides to them service referrals, reasonable protection, notice
+concerning the status of the investigation, and information about the criminal justice
+process prior to the filing of any charges. The Department’s investigative agencies
+provide such services to thousands of victims every year, whether or not the
+investigation results in a federal prosecution. 210
+Quantifying the scope of this undertaking with regard to one federal
+investigative agency, the Department explained:
+[T]he [FBI] alone reports that it provided more than 190,000 services to victims
+during the past fiscal year [FY 2011], including case status updates, assistance with
+compensation applications and referrals, and counseling referrals. From sexual
+assaults in Indian Country to child pornography and human trafficking to mass
+violence and overseas terrorism, FBI victim specialists provide much-needed
+immediate and ongoing support and information to victims. The FBI addresses victim
+safety issues when needed, providing on-scene response and crisis intervention
+services in thousands of investigations. With regard to sexual assault victims, FBI
+personnel arrange for and often accompany victims to forensic sexual assault medical
+examinations and provide assistance with HIV/STD testing. 211
+In view of the Department’s existing notifications and provision of
+services before charges are filed under the VRRA, it is hard to conceive
+how any viable claim could be made that it would be difficult to provide
+similar rights under the CVRA. The four rights that would be potentially in
+play before charging would be the right to reasonable protection, the right
+to fair treatment, and the right to confer with prosecutors, along with the
+predicate right to notice of these rights. 212 The VRRA already requires the
+Department to provide reasonable protection, so this would not be an
+expanded obligation. 213 Similarly, the Guidelines already require
+prosecutors to confer with victims about plea agreements (the most
+common situation where victims want to confer), so it is hard to imagine
+how extending this right would create any undue burden. 214 Additionally,
+the right to “fair treatment” could only be a problem if the Department
+209 Id.
+210 Id. at 2–3.
+211 Id. at 3.
+212 18 U.S.C. § 3771(a)(1), (5), (8), (c)(1) (2012).
+213 See 42 U.S.C. § 10607(c)(2) (2006).
+214 See ATTORNEY GENERAL GUIDELINES, supra note 52, at 41–42.
+2014] CRIME VICTIMS’ RIGHTS 97
+wanted to treat victims unfairly. Given its repeated and professed
+commitment to crime victims, here too this obligation should not be
+burdensome. And finally, with regard to providing notice of CVRA rights
+to victims, the fact that the Department currently provides notice of VRRA
+rights indicates that it should not be difficult to provide notice of CVRA
+rights as well.
+Indeed, it is possible that the Department’s notification letters under
+the VRRA already include this information. Interestingly, in the Epstein
+case, the FBI notified Jane Doe Number One and Jane Doe Number Two
+that they had rights in the criminal justice process. As early as June 7,
+2007—more than three months before it concluded a nonprosecution
+agreement with Epstein—the U.S. Attorney’s Office sent a notice to Jane
+Doe Number One stating “your case is under investigation.” 215 The notice
+also informed Jane Doe Number One that “as a victim and/or witness of a
+federal offense, you have a number of rights.” 216 Among the rights that the
+U.S. Attorney’s Office told Jane Doe that she possessed was “[t]he
+reasonable right to confer with the attorney for the United States in the
+case.” 217 Of course, she would not have had those rights if she was not
+covered by the CVRA. The FBI therefore apparently assumed that the
+CVRA already applied in the Epstein case. It was only later, when the
+matter went into litigation, that the Department of Justice reversed course.
+This change in course underscores the problems arising out of the OLC
+memorandum and the Department’s current interpretation of the CVRA.
+D. STATE LAW EXTENSION OF PRE-CHARGING RIGHTS
+The focus of this Article so far has been crime victims’ rights in the
+federal system. But in concluding, it is instructive to note how a number of
+states offer parallel rights for crime victims, including the right to confer
+with prosecutors. In fact, several states have extended such rights prior to
+formally filing of charges against defendants—without reported difficulty,
+so far as we are aware. This confirms our inference that extending CVRA
+rights to crime victims before the formal filing of criminal charges is both
+feasible and desirable.
+A general overview of state laws illustrates the broad protections
+afforded to victims in state criminal justice systems. Nearly two-thirds of
+states have adopted constitutional provisions to protect victims throughout
+215 Letter from A. Marie Villafaña, Assistant U.S. Att’y, to Jane Doe #1 (June 7, 2007),
+reprinted in Jane Doe Motion, supra note 40, at ex. C.
+216 Id.
+217 Id.
+98 CASSELL ET AL. [Vol. 104
+the criminal justice process. 218 Moreover, every state has adopted a statute
+that either enforces its constitutional amendment or creates independent
+statutory rights for crime victims. 219 As a result, state legislatures and state
+employees have attempted to give victims a voice in the criminal justice
+process across the country.
+Notably, while the strength of these rights varies from state to state, 220
+nearly forty states require the prosecuting attorney to notify or confer with
+the victim regarding plea negotiations. 221 Several jurisdictions involve the
+victim in the charging decision. 222 In some states, law enforcement and
+prosecutors must involve the victim at any “critical” 223 or “crucial” 224 stage
+of the criminal proceeding; and in a minority of jurisdictions, the judge
+must ascertain whether the prosecutor has afforded the victim statutory
+protections prior to accepting a plea agreement. 225
+The general contours of state provisions suggest that several state
+governments have recognized the value in informing victims of their rights
+and involving them in the criminal process prior to the formal filing of
+charges. 226 Indeed, a brief look at the statutory protections illustrates the
+extent to which states have attempted to afford protections to victims long
+before the formal filing of charges.
+218 See Victims’ Rights Laws by State, NAT’L CRIME VICTIM L. INST. (Oct. 17, 2013),
+http://goo.gl/pdDx1w (listing and linking to state laws and constitutional amendments).
+219 See LAFAVE ET AL., supra note 168, § 21.3(f), at 1041–42.
+220 See generally DEAN G. KILPATRICK ET AL., NAT’L INST. OF JUSTICE, U.S. DEP’T OF
+JUSTICE, THE RIGHTS OF CRIME VICTIMS—DOES LEGAL PROTECTION MAKE A DIFFERENCE?
+(1998), available at http://goo.gl/EzH61S.
+221 See Peggy M. Tobolowsky, Victim Participation in the Criminal Justice Process:
+Fifteen Years After the President’s Task Force on Victims of Crime, 25 NEW ENG. J. ON
+CRIM. & CIV. CONFINEMENT 21, 64 & n.168 (1999) (citing to victims’ rights statutes in
+Connecticut, Illinois, and Michigan, among others). Unfortunately, as some commentators
+have noted, the notice and conferral provisions in some states are ambiguous, and the
+absence of case law precludes a definitive understanding of the reach of the right in some
+jurisdictions. See LAFAVE ET AL., supra note 168, § 21.3(f), at 1041–42; see also, e.g., KAN.
+STAT. ANN. § 74-7333(a)(5) (2002) (“The views and concerns of victims should be
+ascertained and the appropriate assistance provided throughout the criminal process.”). In
+some jurisdictions, the ambiguous use of an illustrative list could be read as suggesting that a
+particular right, such as conferral, hinges on formal charges. See, e.g., KY. REV. STAT. ANN.
+§ 421.500(6) (LexisNexis Supp. 2012) (requiring consultation on “disposition of the case
+including dismissal, release of defendant pending judicial proceedings, any conditions of
+release, a negotiated plea, and entry into a pretrial diversion program,” but failing to define
+“disposition” or “case”).
+222 See Tobolowsky, supra note 221, at 59–60.
+223 E.g., LA. REV. STAT. ANN. §§ 46:1842(2), 46:1844(K) (2010).
+224 E.g., FLA. CONST. art. I, § 16(b) (refraining from identifying the term).
+225 See LAFAVE ET AL., supra note 168, § 21.3(f), at 1041.
+226 See Victims’ Rights Laws by State, supra note 218.
+2014] CRIME VICTIMS’ RIGHTS 99
+For example, Arizona has adopted a constitutional amendment and
+statutes that expansively protect victims. Under Arizona law, the definition
+of victim hinges on whether a criminal offense has been committed, and the
+term “criminal offense” is defined as “conduct that gives a peace officer or
+prosecutor probable cause to believe” a crime has occurred. 227 In short, a
+victim’s status does not hinge on the formal filing of charges but rather on
+the criminal conduct itself. 228 Arizona law enforcement personnel must
+give information to victims describing their rights as soon as possible, even
+if formal charges have not yet been filed, and a victim may request that the
+prosecutor discuss the disposition of the case, including “a decision not to
+proceed with a criminal prosecution, dismissal, plea, or sentence
+negotiations and pretrial diversion programs.” 229 A victim may even pursue
+some rights if counts are dismissed. 230 Arizona courts have also permitted
+victims to invoke their rights in the context of civil forfeiture
+proceedings. 231
+Hawaii’s victims’ rights statute illustrates how a state has defined the
+term “case” more expansively than the limited definition advocated by the
+Department in order to facilitate victim participation. By statute in Hawaii,
+victims must, upon request, be informed of “major developments” in any
+felony case. 232 Along a similar vein, the prosecuting attorney must consult
+or advise the victim about any plea negotiations. 233 Interestingly, however,
+the Hawaii legislature defined “major developments” as “arrest or release of
+the suspect by the police, case deferral by the police, referral to the
+prosecutor by the police, rejection of the case by the prosecutor, preliminary
+hearing date, grand jury date, trial and sentencing dates, and the disposition
+of the case.” 234 The usage of the term “case” and the plain language of the
+provisions demonstrate that victims in the State of Hawaii are entitled to a
+notification right and a possible consultation right long before formal
+charges are filed.
+227 ARIZ. REV. STAT. ANN. § 13-4401(6) (2010) (emphasis added); see State ex rel.
+Thomas v. Klein, 150 P.3d 778, 780–81 (Ariz. Ct. App. 2007) (noting the original version
+defined a criminal offense as a violation of a statute).
+228 Under Arizona law, the “rights and duties that are established by this chapter arise on the
+arrest or formal charging of the person or persons who are alleged to be responsible for a criminal
+offence against a victim.” ARIZ. REV. STAT. ANN. § 13-4402(A) (2010) (emphasis added).
+229 ARIZ. REV. STAT. ANN. § 13-4419(A) (2010).
+230 See ARIZ. REV. STAT. ANN. § 13-4402.01(A).
+231 It appears, however, that the criminal proceeding may have been parallel to the civil
+forfeiture proceeding. See State v. Lee, 245 P.3d 919, 923–24 (Ariz. Ct. App. 2011).
+232 HAW. REV. STAT. ANN. § 801D-4(a)(1) (LexisNexis 2007).
+233 See id.
+234 Id. § 801D-2.
+100 CASSELL ET AL. [Vol. 104
+Other states also expressly extend rights before the filing of charges.
+Colorado guarantees rights at “all critical stages of the criminal justice
+process[,]” which includes both the filing of charges and the decision to not
+file charges. 235 In Missouri, victims have the right:
+on charged cases or submitted cases where no charge decision has yet been made, to
+be informed by the prosecuting attorney of the status of the case and of the availability
+[of different forms of compensation and assistance] and of any final decision by the
+prosecuting attorney not to file charges. 236
+In New Jersey, officials typically send a letter informing the victim “that the
+case has been referred to the prosecutors’ office and explains and offers the
+services available from the country office of victim-witness advocacy.” 237
+Subsequent letters to the victim ensure that the victim has notice of a series
+of decisions long before indictment, 238 and the office actively solicits
+information in order to “help the prosecutor’s office decide whether or not
+to prosecute a case.” 239 Along a similar vein, the Massachusetts legislature
+included a provision that makes it clear that nothing should prevent a
+prosecutor from providing victim services to persons injured by the
+commission of a crime, even though a complaint or indictment has not yet
+been issued. 240
+In addition to extending rights before the filing of charges, several
+states require consultation before the prosecutor reaches a plea agreement
+with the defendant. For example, Idaho’s statute provides that a victim
+must be given an opportunity “to communicate with the prosecution in
+criminal or juvenile offenses, and be advised of any proposed plea
+agreement by the prosecuting attorney prior to entering into a plea
+agreement in criminal or juvenile offenses involving crimes of violence, sex
+235 COLO. CONST. art. II, § 16a; COLO. REV. STAT. § 24-4.1-302(1) (2013). But see COLO.
+REV. STAT. § 24-4.1-302.5(1)(f) (2012) (limiting conferral right, in particular, to later stages
+of a criminal proceeding). Despite these limitations on the conferral right, victims retain the
+ability to be heard at any hearing involving a plea. See id. § 24-4.1-302.5.
+236 MO. ANN. STAT. § 595.209(10) (West 2011).
+237 OFFICE OF VICTIM-WITNESS ADVOCACY, N.J. DEP’T OF LAW & PUB. SAFETY, A CRIME
+VICTIM’S GUIDE TO THE CRIMINAL JUSTICE SYSTEM 4 (2d ed. 1997); see also N.J. CONST. art. I,
+§ 22. Compare 18 U.S.C. § 3771 (2012), with N.J. STAT. ANN. § 52:4B-36 (West 2009). In
+addition to the rights similar to the federal legislation, New Jersey law provides for the right
+“[t]o be advised of case progress and final disposition and to confer with the prosecutor’s
+representative so that the victim may be kept adequately informed . . . .” Id. § 52:4B-36(k).
+238 See OFFICE OF VICTIM-WITNESS ADVOCACY, supra note 237, at 4 (including pre-grand
+jury remand, administrative dismissal, grand jury remand, grand jury dismissal, and
+indictment returned).
+239 Id. at 26 (describing victim involvement at grand jury and arraignment stages of the
+proceeding).
+240 See MASS. ANN. LAWS ch. 258B, § 2 (LexisNexis 2004).
+2014] CRIME VICTIMS’ RIGHTS 101
+crimes or crimes against children.” 241 In Indiana, the plain language of its
+statute leaves open the possibility of a conferral right before formal charges
+to the extent that the statute includes two separate time frames: “after a
+crime . . . has been charged” or “before any disposition of a criminal case
+involving the victim.” 242
+To be sure, not all states have afforded victims a voice throughout the
+entirety of the criminal justice process. 243 In some states, the statutes are
+ambiguous. 244 In a handful of states, there is clear language limiting rights
+until after the filing of charges. For example, Louisiana constrains the
+conferral right to criminal matters “in which formal charges have been filed
+by the district attorney’s office.” 245 Yet, unlike the federal CVRA, this
+statute specifically excludes pre-charging situations. And, in any event,
+despite Louisiana’s limitation on a particular right within the statute, the
+legislature in this state still often saw fit to provide the victim with
+notification rights, even in the absence of the formal filing of charges. 246
+Very few state courts have ever considered the precise issue of
+whether conferral rights may attach prior to the formal filing of charges.
+This is likely caused by the fact that, unlike the federal statute, many state
+statutes fail to provide the victim with a procedural mechanism for
+challenging the conduct of prosecutors or law enforcement agencies. 247
+However, in rare cases, state courts have implicitly recognized that a
+meaningful interpretation of victims’ rights should include some rights prior
+to filing.
+For example, a Connecticut court concluded that a company injured by
+the delinquent act of a minor was entitled to information about the case
+241 IDAHO CODE ANN. § 19-5306(1)(f) (2004). As in the case of most of the state
+statutes, the Idaho statute is not without ambiguity. A different provision within the statute
+makes the notification right contingent “[u]pon the filing of a criminal complaint or juvenile
+petition . . . .” Id. § 19-5306(2).
+242 IND. CODE ANN. § 35-40-5-3(b) (West 2012); id. § 35-40-1-1 (failing to define “case”).
+243 See, e.g., MD. CONST. art. 47(b) (“In a case originating by indictment or information
+filed in a circuit court, a victim of crime shall have the right to be informed . . . .”).
+244 In Delaware, for example, the statute contains an additional limitation in the conferral
+provision that is noticeably absent from the duty imposed on law enforcement to provide
+information about the victim’s rights to that victim. Compare DEL. CODE ANN. tit. 11,
+§ 9405 (2007), and DEL. CODE ANN. tit. 11, § 9411 (2007) (imposing additional
+requirements after the Attorney General commences the prosecution), with DEL. CODE ANN.
+tit. 11, § 9410 (2007). Query whether the limitations imposed in one section should be
+inferred in the other under the doctrine of expressio unius est exclusio alterius.
+245 LA. REV. STAT. ANN. § 1844(D)(1) (2010).
+246 See id. § 1844.
+247 See generally Douglas E. Beloof, The Third Wave of Crime Victims’ Rights:
+Standing, Remedy, and Review, 2005 BYU L. REV. 255, 300–23 (discussing problems with
+remedies in victims’ rights statutes).
+102 CASSELL ET AL. [Vol. 104
+contained in a police file in a civil proceeding, even though it appears that
+there was little indication that criminal charges had been filed. 248 Similarly,
+the South Carolina Supreme Court, while limiting the ability of the victim
+to challenge the conduct of a prosecutor, concluded that the same rights
+under the state constitution must attach prior to the formal filing of an
+indictment. 249 Other courts have even permitted a victim to recover
+compensation or reparations for unindicted or acquitted conduct. 250
+In other words, while few state judiciaries have addressed the precise
+timing of state crime victims’ rights, those that have addressed the question
+have typically found that the rights do extend to pre-charging situations.
+Despite the relative dearth of state court cases, it is worth noting that
+most state statutes unequivocally provide for notification rights early in the
+criminal process. 251 For example, the Illinois statute imposes a limited duty
+on law enforcement agencies to keep victims informed of the status of an
+investigation until the accused is apprehended or the agency discontinues
+the investigation. 252 Similarly, law enforcement agencies in Iowa must
+keep the victim apprised of the investigation “until the alleged assailant is
+apprehended or the investigation is closed.” 253 Michigan’s statute requires
+law enforcement to provide information within a mere twenty-four hours of
+contact between the agency and the victim. 254
+In sum, while state law on crime victims’ rights before charging is not
+fully developed, what law exists tends to support the position that crime
+victims deserve rights before the formal filing of charges. This law fits the
+long-standing trend in states toward expanding protections for crime
+248 See In re James B., Jr., 714 A.2d 735 (Conn. Super. Ct. 1998).
+249 See Ex parte Littlefield, 540 S.E.2d 81, 85 (S.C. 2000).
+250 See Kimberly J. Winbush, Annotation, Persons or Entities Entitled to Restitution as
+“Victim” Under State Criminal Restitution Statute, 92 A.L.R. 5TH 35, 35 (2001) (recounting
+cases in which unnamed victims were entitled to restitution).
+251 See, e.g., MINN. STAT. ANN. § 611A.0315(a) (West 2009) (requiring a prosecutor to
+“make every reasonable effort to notify a victim of domestic assault . . . or harassment that
+the prosecutor has decided to decline prosecution of the case” but providing the right to
+participate in proceedings to circumstances in which the offender has been charged).
+252 See 725 ILL. COMP. STAT. ANN. 120/4.5 (2008).
+253 IOWA CODE ANN. § 915.13(1)(f) (West 2003).
+254 See MICH. COMP. LAWS ANN. § 780.753 (West 2007). Michigan’s conferral right is
+particularly ambiguous, because the notification requirement imposed upon the prosecuting
+attorney contains a time limitation (after arraignment), but the legislature did not include an
+express time limitation on the conferral right. See MICH. COMP. LAWS ANN. § 780.756(3)
+(West 2007) (requiring the victim have the opportunity to consult prior to “any negotiation
+that may result in a dismissal, plea or sentence bargain, or pretrial diversion”); see also MISS.
+CODE ANN. § 99-43-7(1) (2007) (imposing a requirement on law enforcement officials to
+notify a victim within seventy-two hours).
+2014] CRIME VICTIMS’ RIGHTS 103
+victims. 255 The decision by state legislators to extend notification or
+conferral rights to crime victims demonstrates an express recognition that
+crime victims’ meaningful participation in the criminal justice process may
+involve granting those victims rights before indictment.
+CONCLUSION
+Crime victims have important rights at stake in the criminal justice
+process, even before prosecutors formally file criminal charges. It is hardly
+surprising, therefore, to find that a federal law that Congress in fact
+designed to create “broad and encompassing” rights for victims protects
+victims during a criminal investigation. As this Article has explained,
+interpreting the CVRA to cover crime victims during the pre-charging
+phase of a case is consistent with the statute’s purposes, text, legislative
+history, and interpretive case law. And state criminal justice systems also
+appear to be moving in that direction.
+The Justice Department’s contrary interpretation seems unlikely to
+prevail when challenged. The CVRA signals a paradigm shift in the way
+that crime victims are to be treated, at least within the federal criminal
+justice system. Before enactment of the law, federal investigators and
+prosecutors might have been able to keep victims at arm’s length, refusing
+to confer with them about the case and otherwise ignoring or even
+mistreating them during the process. But those days are over. The CVRA
+promises victims that they now have the right to confer with prosecutors
+and the right to be treated fairly while their cases are investigated. It is time
+for the Department of Justice to recognize and embrace that new reality.
+255 See Jeffrey A. Parness et al., Monetary Recoveries for State Crime Victims, 58 CLEV.
+ST. L. REV. 819, 850 (2010); Tobolowsky, supra note 221, at 59 (describing a “significant
+expansion of victim rights to be consulted by the prosecutor and heard by the court”).
+104 CASSELL ET AL. [Vol. 104

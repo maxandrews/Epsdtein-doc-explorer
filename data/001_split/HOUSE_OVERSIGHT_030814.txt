@@ -1,0 +1,688 @@
+﻿November 21, 2011
+Topic: The quixotic search for energy solutions
+Another Don Quixote Thanksgiving. Every year at Thanksgiving 1 , we look in-depth at an issue that affects markets and
+portfolios. Last year, we examined the unraveling situation in Europe. Unfortunately, most concerns we expressed last year
+have been borne out, and are getting much worse (I spent the weekend reading legal documents on a Eurozone break-up, just in
+case). Like Don Quixote, Europe went on its journey for all the wrong reasons, adopting a half-pregnant monetary union to
+support a political objective that had arguably already been achieved by 1955 2 . This year, a look at something just as worrying
+in the long run as the fiscal problems of the West: the search for energy solutions. This journey has been fraught with
+similarly quixotic dead ends, fairy tales and blunders ignoring economic (and thermodynamic) realities. This is important to us,
+since energy cost and availability is central to how we think about growth, profits, stability and our portfolio investments.
+As part of this effort, I made a pilgrimage to Manitoba to spend a day with Vaclav Smil. Vaclav is one of the world’s foremost
+experts on energy, and has written over 30 books and 300 papers on the subject (he’s #49 on Foreign Policy’s list of the 100
+most influential thinkers). Vaclav’s book “Energy Myths and Realities” should be required reading for politicians or regulators
+impacting energy policy. We start with an unflinching look at these realities before turning to solutions, and some potentially
+encouraging developments, which have less to do with how electricity is generated, and more to do with how it might be stored.
+“A dream is a wish your heart makes” (Cinderella)
+Over the last 50 years, a lot of proposed solutions have not panned out as expected. While the process of discovery and
+invention always includes large doses of failure, energy policy is different than say, cell phones or VCRs, since more public
+money, time and effort are spent on them. Hopes are raised, and as a result, less flashy but more reliable solutions are
+sometimes postponed or avoided altogether. Here are a few memorable predictions of our energy future:
+• 1945. Oak Ridge National Laboratory nuclear physicists Weinberg and Soodak predict that nuclear breeders will be man’s ultimate
+energy source; a decade later, the chairman of the US Atomic Energy Commission predict it would be “too cheap to meter”
+• 1973. “Let this be our national goal: At the end of this decade, in the year 1980, the United States will not be dependent on any other
+country for the energy we need to provide our jobs, to heat our homes, and to keep our transportation moving.” Richard Nixon
+• 1978. “Through modeling of supply and demand for over 200 US utilities it was projected that, by the year 2000, almost 60% of US
+cars could be electrified, and that only 17% of the recharging power would come from petroleum.”
+• 1979. An influential Harvard Business School study projects that by 2000, the US could satisfy 20% of its energy needs through solar
+• 1980. Physicist Bent Sorenson predicts that 49% of America’s energy could come from renewable sources by the year 2005
+• 1994. Hypercar Center established, whose lightweight material and design would yield 200 mpg cars with a 95% decline in pollution
+• 1994. InterTechnology Corporation predicts that solar energy would supply 36% of America’s industrial process heat by 2000
+• 1995. Energy consultant and physicist Alfred Cavallo projects that wind could have a capacity factor of 60%, which when combined
+with compressed air storage, would rise to 70 – 95% 3
+• 1999. US Department of Energy hopes to sequester 1 billion tonnes of carbon per year by 2025
+• 2000. Fuel cell companies announce 250-kilowatt production plants that can fit into a conference room and produce energy at 10 cents
+per kilowatt hour, with the goal of 6 cents by 2003
+• 2008. “Today I challenge our nation to commit to producing 100% of our electricity from renewable energy and truly clean carbon-free
+sources within 10 years. This goal is achievable, affordable and transformative.” Al Gore
+• 2009. Gene scientist Craig Venter announces plans to develop next-generation biofuels from algae in a partnership with Exxon Mobil
+How have things turned out? There are no commercial nuclear breeders on anyone’s horizon; global nuclear capacity is only
+20% of the Atomic Energy Agency’s 1970 forecast; the Hypercar is nowhere to be seen; solar and wind make up a miniscule
+portion of US electricity generation; wind capacity factors range from 20%-30%; the US is reliant for 50% of its oil from
+foreign sources; 70% of US electricity generation comes from coal and natural gas; fuel cells haven’t worked as expected;
+hybrids are 2% of US car sales; “clean coal” is mostly a blueprint; and Venter announced that his team failed to find naturally
+occurring algae that can be converted into commercial-scale biofuel (they will now work with synthetic strains instead) 4 .
+1 Some clients tell me it is helpful to have something to read this weekend, when/if family gatherings become unwieldy, or aggravating.
+2 A few years ago, Swedish and Dutch politicians mobilizing support for the EU Constitution referred to “Yes” votes as necessary tribute to
+the dead from the Second World War, and more urgently, to avoid the pre-war divisions which led to it. Conflict between European empires
+existed for hundreds of years (1871-1914 was the only period of peace until 1945), so the idea of a united Europe would have seemed
+appealing in 1945. However, conditions for securing a lasting peace within Western Europe were arguably already in place by 1954.
+3 A 2005 paper from Stanford raised expectations further by estimating theoretical wind power at 72 TW, 30x global electricity production.
+4 Algae are inefficient photosynthetic reactors (they do not consume CO 2 when the sun isn’t shining), and allocate only a tiny fraction of
+captured solar energy into lipid production. A 2007 study by Krassen Dimitrov at the University of Queensland predicted GreenFuel’s
+demise in advance, claiming that the company estimated its photosynthetic efficiency at almost double the maximum theoretical rate, and
+could only be profitable at $800 per barrel of oil. Genetic improvements of plant life have historically focused on disease resistance and
+modifying the split between production of “fruit vs. stem”; it is used less often to increase growth rates of biomass itself.
+1
+November 21, 2011
+Topic: The quixotic search for energy solutions
+Today’s US energy reality: electricity generation
+Before exploring why some of these ideas did not pan out, let’s look at where the US is right now in electricity generation. The
+table below shows each energy source; its installed capacity; the electricity this capacity generated in 2010 and percent of total
+generation; its capacity factor; and its long-term levelized cost for new construction, estimated by the Energy Information
+Agency. Capacity factors are important since they measure the intermittency of each source (capacity factor = actual generation
+relative to potential maximum generation). Baseload natural gas plants can run at higher factors than 28%; this number reflects
+the fact that many gas plants are used as “peaking” facilities to provide short-term energy during periods of elevated demand.
+As stated above, fossil fuels dominate, followed by nuclear. Hydroelectric is next (efficient and cheap, but most large-scale
+sites are already in use); followed by non-hydroelectric renewable energy, which across all categories makes up less than 5%, in
+part due to their low capacity factors. Non-hydroelectric renewable energy is a similarly small component of the country’s
+overall energy use, a broader category which includes transportation fuels 5 .
+Energy
+Information
+Agency
+Installed
+base
+2010 MW
+Electricity
+gen in 2010
+mm MWh
+% of
+total
+gen.
+Implied
+capacity
+factor
+EIA Levelized <---Levelized cost incorporates upfront and ongoing capital costs, cost of
+cost 2016 capital, fuel and other operating costs, capacity factor and related power
+per MWh transmission investments (in 2009 dollars) for new construction
+Coal 316,800 1,847 45.4% 67% $95 - $110 Abundant and cheap, but with a substantial range of environmental problems
+Natural gas 407,028 988 24.3% 28% $60 - $70 Capacity factors understate potential utilization
+Nuclear 101,167 807 19.8% 91% $114 Efficient once built; very expensive to build (costs rising sharply in recent decades)
+Hydro 78,825 260 6.4% 38% $86 Most viable sites already in use after incentives in the 1960s-1980s
+Wind 39,135 95 2.3% 28% $97 Low capacity factor, maturing technology; cost more than doubles offshore
+Biomass/wood 11,406 56 1.4% 56% $112 Expensive to aggregate and collect; high capital costs relative to energy density
+Geothermal 2,405 18 0.4% 85% $102 Very expensive, except near areas with active geothermal reservoirs
+Solar PV/CSP 941 1 0.0% 15% $210 - $312 Expensive, low capacity factors; this segment is commercial (non-res) installations
+Energy Conversions 101
+What went wrong with renewables? Theories generally fall into 3 buckets: (i) why bother, since there are plenty of fossil fuels;
+(ii) renewable energy would have a larger share if it benefitted from the massive R&D put into things like nuclear; and (iii)
+renewables have thermodynamic, structural and practical limitations that inhibit their ability to represent much larger shares of
+electricity or transportation fuel production. While (i) and (ii) have some merit 6 , it is hard to escape (iii). Energy Conversions
+101 is meant to show why, using examples 7 that I expanded from Vaclav’s narrative (unit equalities on p.8).
+Question #1: How much more electricity would the US need if it switched
+to electric cars?
+Question #2: Do electric cars require less energy than gasoline powered
+cars? If not, what might the other benefits of electric cars be?
+200 watt hours per km for average electric car 4.4 MWh per electric car per year (see assumptions in #1)
+20,000 km driven per car per year Now let's figure out the PRIMARY energy needed to make this electricity…
+245,000,000 number of US passeneger cars 60% Efficiency loss of generation process (avg for US coal and nat gas generation)
+980,000,000 MWh for US passeneger cars per year, all electric 10% Electricity transmission losses
+980 TWh for US passenger cars per year, all electric 12.2 MWh of primary energy required per car per year
+10% + Increase due to battery self-discharge 44,000 Megajoules of energy per electric car per year (3,600 MJ=1 MWh)
+1,078 TWh for US passenger cars per year 2.2 Megajoules per car per year per km driven
+4,325 TWh of US electricity production 15.9 km/liter for electric car when the primary energy (coal or gas used to generate
+25% Incremental electricity need
+electricity) is expressed in gasoline equivalents (35 MJ=1 L)
+37.4 Primary energy requirement of electric car, expressed in miles per gallon
+Implication: This is incremental generation, not capacity, since some
+existing facilities could produce more. But it's still a huge increase in
+generation, and the cost will depend on where you plan to get the
+electricity from, and when. Gasoline is used on site; electricity is
+generated offsite and then moved across what is perhaps the worst
+electrical grid in the OECD. Note that we did not include transmission
+losses here; if we did, generation requirements would be higher. This
+also ignores electric car battery life issues (heat, cold, etc) and the rising
+cost of rare earth metals needed for electric cars.
+Implication: In other words, primary energy required to power electric cars is
+not that different from high mpg gasoline cars, which exist already. Depending
+on how electricity is generated, there could be some emissions benefits (but
+not if coal is the primary source of electricity, as it is now). There would be
+much less depedence on foreign oil, a US objective for decades. But some
+benefits could also be obtained through a high mileage fleet, perhaps less of an
+undertaking than switching to electric cars. If efficiency losses from electricity
+conversion in coal, nuclear or gas plants were reduced from 60% to 50%, that
+would help the thermodynamics of electric cars substantially; but that's a big if.
+5 Domestically produced and imported biofuels make up around 14% of US liquid fuels consumption.
+6 The nuclear industry was the recipient of 96 percent of all funds appropriated by Congress for energy R&D between 1945 and 1998.
+7 These examples are of course assumption-dependent; I tried to be conservative. I am sure you will let me know if I wasn’t.
+2
+November 21, 2011
+Topic: The quixotic search for energy solutions
+Question #3: What if the world ends up relying on coal for the next 100 Question #4: What would be the reduction in gasoline needs if the entire U.S.
+years, and seeks to prevent further increases in carbon emissions. How
+corn harvest not already used for ethanol were repurposed for more ethanol?
+large an undertaking is it to bury 15% of all CO 2 emissions?
+160,000,000 US corn harvest, tonnes, 2010, not already used for ethanol
+33.2 billion tonnes of CO 2 emissions (2010) 159,667,200,000 US corn harvest, kg, not already used for ethanol
+5.0 Sequestration target, billions of tonnes 0.40 Conversion ratio, liters of ethanol per kg
+Now let's shrink the CO 2 by compressing it before burying it…
+63,866,880,000 Liters of converted ethanol
+0.80 Compressed gas density, tonnes per cubic meter 67% Energy density of ethanol relative to gasoline
+6.2 Volume of compressed CO 2 to bury, billions of cubic meters 42,699,571,200 Effective gasoline-equivalent savings (liters)
+3.9 Amount of global crude oil extraction, billions of tonnes (2010) 521,845,394,389 Liters of total US gasoline consumption in 2010
+0.85 Density of crude oil, tonnes per cubic meter 8% Reduction in gasoline needs by repurposing entire corn harvest
+4.6 Volume of global crude oil extracted, bn cubic meters (2010)
+Implication: Benefits of corn ethanol appear to be close to their maximum
+production level. There is of course the issue of ethanol's "energy return on
+investment" (EROI), for which estimates range from 0.8:1 to 1.6:1. Charles Hall
+at SUNY ESF (originator of the EROI concept in the 1970's) published recent
+EROIs for oil (10-20); Tar sands and Shale Oil (3-5); Nuclear (5-15) and Wind
+(15-20, but that excludes the cost of back-up peaking plants). In that context,
+the EROI for corn ethanol, which excludes the various layers of subsidies
+involved, is well below the fully loaded economic benefits of other fuel sources.
+Implication: Capturing a small portion of CO 2 emissions requires a
+compression/transportation/storage industry whose throughput is greater
+than the one used for oil extraction; and without the benefit that oil provides
+as an energy input. Coal-fired plant capital costs could rise 40%-75% (as
+per IPCC), and their electricity consumption could rise by 30%-40% for CCS
+particulate removal and flue gas desulfurization. Unlikely in time to prevent
+a further rise in CO 2 emissions; unexplored legal and NIMBY issues as well.
+Question #5: What about cellulosic ethanol? And what about using spent
+coffee grounds?
+225,000,000 Tonnes of US corn stover, annual 2.3% Wind as a % of electricity generation
+224,532,000,000 kg of US corn stover (using conversion factors from #4) 10 Growth factor
+40% Amount that can be removed without destroying soil 23% Target wind generation
+89,812,800,000 Stover removed 95,000,000 Existing wind generation, MWh, 2010
+30% Efficiency losses (evaporation, transportation, etc) 950,000,000 Target MWh
+62,868,960,000 Remaining dry stover of uniform condition for conversion 28% Wind capacity factor
+0.34 Theoretical conversion ratio, liters of ethanol per kg of stover 387,312 Required incremental MW of wind
+21,375,446,400 Liters of ethanol produced from stover 2 watts per meter squared required for wind farms
+14,291,012,736 Gasoline-equivalent ethanol from stover (see #4) 193,656 square km of required area
+2.74% Percent of gasoline needs reduced from conversion of stover And on the need for expensive HVDC transmission lines…
+And another fun fact…..
+30,099,000 US population living in prime wind and/or solar states
+0.16% Percent of global diesel fuel production offset by somehow [AZ, OK, NE, WY, CO, ND, SD, KS, IA, MT, NM + Northern TX]
+gathering all of the world's spent coffee grounds and then
+309,350,000 US population
+converting them into biodiesel
+Implication: Apart from Brazilian sugarcane, which grows 365 days a year
+and needs no irrigation or fertilizer (it self-fertilizes), biofuels are challenged
+due to the cost of aggregation, low energy densities and high energy
+extraction costs. For algae limitations, see note 3.
+Question #6: How much area would be needed for a quarter of US
+electricity generation to come from wind?
+Implication: 194 thousand square km is about the entire area of Nebraska. It
+would be a massive undertaking which requires, as stated earlier, hundreds of
+billions of dollars for new transmission lines. To be clear, land under wind
+turbines still have many practical economic uses. The larger issues are
+transmission and intermittency, as described below.
+As for wind, let’s put aside concerns about space requirements and transmission lines. Let’s also put aside problems of wind’s
+reliance on rare earths like neodymium for its turbine magnets (neodymium prices quadrupled this year, and that’s with wind
+still making up less than 3% of global electricity generation). Let’s also put aside debris (from birds/insects), ice storms and
+other natural elements that reduce wind farm efficiency. The reason to put them aside: if wind were more reliable, like
+hydropower, it could justify a lot more expense and effort. Unfortunately, wind is not that reliable. The first chart is the
+“Mona Lisa” of wind unreliability, measured at one of California’s largest wind farms. The second is from the California
+Independent System Operator, showing how wind power tends to be low when power demand is high (and vice-versa).
+Day-to-day variability in wind generation in April 2005
+Megawatts
+700 Each day is a different color
+600 Day 29
+Day 9
+500
+California energy demand vs. total wind - summer 2006
+Megawatts
+Megawatts
+1,200
+38,000
+California energy
+demand (LHS)
+1,000
+34,000
+800
+400
+Day 5 Day 26
+300
+Average
+200
+100
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+Hours
+Source: Electric Power Research Institute. As measured in Tehachapi, CA
+30,000
+26,000
+Total wind (RHS)
+22,000
+1 2 3 4 5 6 7 8 9 101112131415161718192021222324
+Hours
+Source: California Independent System Operator , Integration of
+Renewable Resources, November 2007.
+600
+400
+200
+0
+3
+November 21, 2011
+Topic: The quixotic search for energy solutions
+Wind should play an important role, but unless there is a high-voltage, high-capacity, high-density grid to accompany it (as in
+Northern Europe), or electricity storage, the variability of wind means that co-located natural gas peaking plants are
+needed as well. The cost of such natural gas plants are rarely factored into the all-in costs of wind, but perhaps they should be.
+These exercises are important, since unfounded expectations might lead to suboptimal policy choices. One example: the
+Keystone Pipeline extension, which the President has opted not to consider until after 2012. The US imports more oil from
+Canada than from any other country. With the extension, the Keystone system would account for 13% of US petroleum
+imports. The pipeline has been opposed on environmental grounds, but the extension itself would only add 1% to the entire
+network of crude oil and refined product pipelines already criss-crossing the US. Moving petroleum products by rail or truck
+instead is more expensive and riskier. If the US does not provide a market for the Alberta tar sands oil, it could end up on
+tankers to China; and the US will end up importing more of its energy needs from the Persian Gulf and Venezuela. Could
+misperceptions about wind, solar and biofuel 8 feasibility explain why some people are opposed to this extension? Unclear.
+The art of the possible
+Now let’s take a (desperately needed) look at some good news. Over the last 3 decades, the oil intensity of the developed world
+has been falling, followed by non-OECD countries (see first chart). This is not meant to suggest that declining availability of
+cheap crude oil isn’t a problem, since it is. There are lots of studies showing rapid declines in the production rate of existing
+crude oil fields, and that the discovery of new fields is (a) not keeping up, and (b) are located where marginal costs of extraction
+are considerably higher. No need to repeat them here. But oil’s importance to economic growth has been declining over time,
+and there is no reason to believe that these improvements have completely run their course.
+Oil intensity declining worldwide
+Billions of barrels/real GDP (constant 2000 USD, trillions)
+0.30%
+0.25%
+0.20%
+0.15%
+0.10%
+Non-OECD
+World
+OECD
+0.05%
+1980 1983 1986 1989 1992 1995 1998 2001 2004 2007
+Source: ISI Group, International Energy Agency, World Bank.
+Actual and projected fuel economy for new passenger
+vehicles by country, Miles per gallon
+20
+2002 2005 2008 2011 2014 2017
+Source: The International Council on Clean Transportation, United
+Nations Department of Economic and Social Affairs.
+There is also room for reduced fuel consumption, although here’s another case where energy fairy tales might have postponed
+smart policy choices. While waiting for a holy grail, the US left fuel efficiency standards unchanged from 1983 (light trucks)
+and 1987 (cars) until 2010. Chrysler head Lee Iacocca said this in 1986 when Ford/GM lobbied the Reagan Administration to
+lower (“CAFE”) fuel efficiency standards: "We are about to put up a tombstone that says, 'Here lies America's energy
+policy'. CAFE protects American jobs. If CAFE is weakened now, come the next energy crunch, American car makers
+will not be able to meet demand for fuel-efficient cars." Well, the rest of the world kept on truckin’ as he suggested, and
+have more efficient fleets (see chart). If the US fleet were 30% more efficient, US gasoline consumption could fall by 40 billion
+gallons per year (~1 billion barrels). For context, the US imports 0.36 billion barrels of crude per year from Venezuela, and
+0.62 billion from the Persian Gulf. The US just increased fuel efficiency standards, but it will take time to make an impact.
+Other possible good news includes ongoing research by Daimler Engine Research Labs on improving gasoline engines,
+something the world should not give up on just yet. Prototypes with fewer cylinders and smaller displacement may yield a car
+with both lower fuel consumption and lower emissions, eventually at fuel efficiencies greater than hybrids like the Prius. The
+US Recovery Act included $100 million for Advanced Combustion Engine Research and Development; it could be money well
+spent. One example the DoE is working on: semiconductors, powered by the heat exiting the car in its exhaust pipe, used to
+create electricity and power the car’s accessories, which are usually powered by belts driven by the car’s engine.
+55
+50
+45
+40
+35
+30
+25
+Canada
+S. Korea
+Europe
+Japan
+China
+United States
+8 Here’s one view on biodesel from Giampetro (Barcelona) and Mayumi (Tokushima), authors of “The Biofuel Delusion” [2009]: “The
+promise of biofuels as a replacement to fossil fuels is in fact a mirage that, if followed, risks leaving us short of power, short of food,
+destroying biodiversity and doing as much damage to the climate as ever.”
+4
+November 21, 2011
+Topic: The quixotic search for energy solutions
+The other good news relates to the discovery of new natural gas reserves. US shale gas production is up 14-fold over the
+last decade, and the EIA projects that by 2035, the US will no longer be a gas importer. Yes, the Energy Department recently
+slashed estimates of gas in the Marcellus Basin from 410 trillion cubic feet to 84 trillion; this followed the latest survey by the
+US Geological Survey, which last estimated the basin at 2 trillion cubic feet in 2002. However, the historical imprecision of
+peak oil/gas estimates make it a difficult science. To be clear, shale gas production will be critical; EIA projections to 2035
+assume that rising shale gas production will offset declines in almost every other gas category (see p. 7). Deep sea gas reserves
+are a potential positive, but marginal costs may be an issue. As for shale gas exploration and radium (naturally occurring and
+surfaced in sometimes dangerous concentrations), and fracking chemicals themselves, the cost of natural gas electricity appears
+low enough to absorb costs related to wastewater collection and treatment. Eventually, replacements will be needed for fossil
+fuels. What “art of the possible” solutions do is give the world more time to find them. In the meantime, many scientists
+would prefer to put as much emphasis on efficiency as on new technologies. Examples include 95% efficient natural gas
+furnaces, LED/fluorescent lighting and more insulation. The largest direct energy saver in a 2010 report by the Pacific
+Northwest National Laboratory for the Department of Energy: deployment of diagnostic devices in residential and
+commercial buildings to manage HVAC systems and lighting.
+A potential game-changer: electricity storage that works, in commercial scale
+What would potentially change the energy equation is storage. The world has been generating commercially available
+electricity for over a hundred years, but as things stand now, the world has almost no electricity storage. The benefits of
+electricity storage, if it could be implemented, are self-evident:
+• increased cost-effectiveness of intermittent solar and wind power, and lower electricity costs, since electricity produced by
+wind at night could be stored and sold during the day; and electricity produced during sunny days could be stored and sold
+during cloudy spells. There are obvious tie-ins to the feasibility and cost of electric cars
+• lower required peak production capacities of large urban power systems, by drawing on stored electricity reserves
+• deferral or avoidance of costly upgrades to the transmission grid. As per the North American Electricity Reliability
+Corporation, only 27% of grid upgrades relate to integrating renewable energy. Almost half are designed to improve overall
+reliability, due to fluctuating loads (since the grid has to accommodate peak loads, and not just average ones)
+• reduced consumption of fossil fuels which power most stand-by generators
+Unfortunately, battery storage has moved along at a snail’s pace. Moore’s Law on doubling semiconductor capacity is
+something of a distraction; technology improvements over 15-18 months are hard to find anywhere EXCEPT semiconductors.
+Solar photovoltaic cell efficiency has doubled over 15-18 years; and battery storage has progressed even more slowly as it
+relates to commercial-scale applications 9 (rather than lithium ion applications for cell phone and laptops). As a reminder,
+electricity is simply defined as the movement of electrons, which can only be “stored” as potential energy, for example via large
+height or chemical gradients (e.g., batteries).
+The accompanying chart shows the existing state of
+commercial-scale electricity storage; it’s all about
+pumped hydro 10 , a process that uses cheaper electricity at
+night to pump water uphill into a reservoir basin, and then
+releases the water during the day to power a hydro-electric
+generator. The other technologies are an afterthought, at
+least right now. Note that more energy is expended in
+pumping the energy uphill than is generated by releasing it
+downhill; the economic value derives from much higher
+electricity prices during the day. Around 10%-20% of the
+potential pumped hydro energy is lost over time through
+evaporation and conversion losses.
+Pumped
+Hydro
+127,000 MW el
+Over 99% of
+total storage
+capacity
+Compressed Air Energy
+Storage, 440 MW
+Sodium-Sulfur Battery
+316 MW
+Lead-Acid Battery
+~35 MW
+Nickel-Cadmium
+Battery, 27 MW
+Flywheels
+<25 MW
+Lithium-ion Battery
+~20 MW
+Redox-flow Battery
+<3 MW
+Source: Fraunhofer Institute, EPRI, Electricity Storage Technology Options, 2010.
+9 Companies like A123 produce commercial scale batteries, but they are primarily for grid-smoothing. A123’s lithium ion batteries are meant
+to store energy for fractions of an hour, rather than for hours or days.
+10 Most pumped hydro facilities are designed to run for 10 hours uninterrupted (before being empty). Assuming 127 GW of installed
+capacity, that means that 1,270 GWh of electricity would be produced before their reservoirs ran dry. That amount of stored electricity is
+0.0064% of annual global generation. That is a very small supply; inventory storage for crude oil is 10%-12% of annual production.
+5
+November 21, 2011
+Topic: The quixotic search for energy solutions
+There’s no room to go through the complexities of the storage technologies shown below. Here are a couple of generalizations:
+• Less expensive options like pumped hydro and compressed air storage require favorable sites with the right geology, which
+are rare in nature and expensive to build from scratch (and often not located near electricity demand centers), and in the case
+of compressed air, require co-located gas turbines for compression
+• Many battery-based technologies suffer from high upfront capital or operating costs; low energy storage volumes; delayed
+response times; safety issues (such as zinc bromine); or short lives (limited number of recharge cycles)
+I had a meeting a few weeks ago which was notable for its
+optimism and enthusiasm. I met with the managers of Eos
+Energy Storage, which is working on a zinc air battery solution
+which aims to conquer all of the obstacles outlined in the second
+bullet point above. If the Eos projections bear out, they will offer
+battery storage at a capital cost of ~$160 per kWh, in the form of
+a 1 MW battery that is the size of a 40 foot shipping container
+(for 6 MWh of storage). As with the table on page 2, the concept
+of “levelized cost” synthesizes upfront costs, financing costs,
+useful life, fuel costs and ongoing maintenance expenses. Rather
+than looking projections of capital costs per kWh, levelized cost
+comparisons are more useful. As shown, Eos aims to be the
+cheapest option that can be scaled, and flexibly and safely located
+where needed. Note as well that they expect to be cheaper than
+natural gas peaking plants. This is a relevant benchmark, since
+most utilities rely on natural gas peaking plants to meet daily
+peak load requirements and to compensate for intermittent
+renewable generation of wind and solar. If storage works, the
+need for lots of peaking facilities could disappear.
+Eos has a prototype of its Zinc-Air technology that has run
+around 2,000 cycles so far; we should all pray either for their
+success, or for the success of similar efforts undertaken by their
+competitors. Based on the outcome of energy dreams shown on
+p.1, we should always be skeptical of breakthrough claims, given
+the complexity of the challenge. Let’s hope for the best.
+Here’s another look at the financial rewards to anyone who can figure this out. Note how demands on the Texas electricity
+grid (ERCOT) are almost 100% inversely correlated with when the wind blows. Either ERCOT gets connected to the national
+grid, storage solutions are invented, or a lot of wind energy continues to be underutilized. On the right, what happens when
+70% of the grid’s transmission lines, transformers and circuit breakers are 25-30 years old: rising congestion problems,
+signified by rising loading relief requests. Grid storage has the potential to alleviate some of this congestion.
+Texas electricity demand vs. actual wind output
+Megawatts
+70,000
+65,000
+60,000
+55,000
+50,000
+45,000
+40,000
+35,000
+30,000
+25,000
+Demand
+Wind output
+Megawatts
+20,000
+0
+8/1/11 8/2/11 8/3/11 8/4/11 8/5/11 8/6/11 8/7/11 8/8/11 8/9/11
+Source: Electric Reliability Council of Texas.
+7,400
+5,920
+4,440
+2,960
+1,480
+90
+80
+70
+60
+50
+40
+30
+20
+10
+The cost of electricity storage options
+Range of levelized costs, $ per kWh
+$0.60
+$0.50
+$0.40
+$0.30
+$0.20
+$0.10
+Pumped Hydro
+CAES (Below ground)
+CAES (Above ground)
+Sodium-Sulfur
+Transmission loading relief requests
+Number of incidents, 2002 - 2008
+Independent Coordinator of Transmission for Entergy
+Midwest Independent Transmission System Operator
+PJM Interconnection (Southeast/Midwest)
+Tennessee Valley Authority
+Southwest Power Pool
+0
+2002 2003 2004 2005 2006 2007 2008
+Source: North American Electric Reliability Corporation.
+Advanced Lead-Acid
+Source: EPRI, Electricity Energy Storage Technology Options, 2010, Eos.
+CAES: Compressed Air Energy Storage.
+Zinc-Bromine
+Vanadium Redox
+Iron-Chromium Redox
+Zinc-Air Redox
+Proposed Zinc-Air Solution
+Gas peaking plants
+6
+November 21, 2011
+Topic: The quixotic search for energy solutions
+A setback for nuclear, and some investment consequences
+The saddest energy moment of the year was the failure of the Fukushima Dai-ichi nuclear power plant in March. Weaknesses of
+the original design and actions taken in the immediate aftermath of a massive tsunami combined to produce a disaster: the latest
+studies show emissions of radioactive cesium that are equal to half of the release from Chernobyl. The concept of nuclear power
+is one of man’s greatest achievements, but generating it safely and in a cost-effective way (including decommissioning) makes
+it a difficult undertaking. In some ways, nuclear’s goose was cooked by 1992, when the cost of building a 1 GW plant rose by
+a factor of 5 (in real terms) from 1972. Before he died, father of the hydrogen bomb Edward Teller’s last paper argued that
+nuclear power plants (molten salt reactors, specifically) do not belong on the surface of the earth, and belong underground
+instead, to deal with the clean-up and failure, if it happened. And that’s from one of nuclear power’s greatest supporters.
+From a broader perspective, the era of cheap oil appears to be over. As shown below in the first chart, almost the entire
+future increase in oil supplies projected by the EIA are based on unconventional supplies (tar sands, deep-sea drilling, enhanced
+oil recovery, oil shale, etc.), with the word “unconventional” being shorthand for “more expensive”. As for natural gas, as
+shown in the second chart, EIA projections assume that rising U.S. shale gas production, with all its uncertainties in terms of
+associated costs, will offset declines in almost every other category. It is hard to precisely quantify the speed bump on growth
+that this creates for the world, and as things stand right now, deleveraging of household, corporate and sovereign balance
+sheets in the US and Europe is a much bigger risk for financial markets. As I write this, Italy has entered an acute state of
+distress; its credit default swap spreads are now at levels which prompted bank runs in Greece and Ireland. In the long run, as
+we outline return expectations for the future, uncertainties related to energy availability are yet another reason why price-toearnings
+multiples may remain well below their historic averages. A break in the chain of unfulfilled promises from
+breakthrough technologies will be needed to alter this view.
+Global liquids production
+Million barrels per day
+120
+History Projections
+100
+80
+OPEC Conventional 40%
+39%
+60
+Unconventional 12%
+5%
+40
+20
+56%
+Non-OPEC Conventional 48%
+0
+1990 1995 2000 2005 2010 2015 2020 2025 2030 2035
+Source: U.S. Energy Information Administration.
+US dry gas production
+Trillion cubic feet per year
+30
+25
+History
+Projections
+1%
+20
+15
+10
+11%
+14%
+20%
+9%
+Net imports
+Shale gas
+Non-associated onshore
+Non-associated offshore
+45%
+8%
+8%
+28% Tight gas
+22%
+5
+2% 8% Coalbed methane
+7%
+9% Associated with oil
+Alaska 1%
+0
+7%
+1990 1994 1998 2002 2006 2010 2014 2018 2022 2026 2030 2034
+Source: Energy Information Administration.
+Absent an unexpected renaissance in cheap and abundant nuclear power, or unexpected solar breakthroughs 11 , we seem to be in
+for another 20-30 years of reliance on fossil fuels. As a result, that’s how our own energy-related investments have been
+positioned. Given the risks and returns associated with energy investing, a lot our exposure has been executed through private
+investments rather than public markets. Across the full range of energy-related investments in our private equity portfolios,
+roughly 70%-80% are related to conventional energy, and the remainder to a variety of renewable strategies.
+Conventional energy investments. The majority of our conventional energy investments are “upstream” (exploration and
+production of oil and natural gas). The remainder are in midstream assets (pipelines/storage) and services, with very little in
+downstream assets (refining). On natural gas, new finds have been rewarding, even with natural gas prices at current (low)
+levels, since large major oil and gas companies aggregate proven reserves, and are willing to pay a premium for them given
+their long term horizons. On crude oil, many of our investments focus on so-called “renaissance” plays, which entail older,
+mostly depleted fields which majors sell as they reshuffle their reserve mix to higher-growth assets. Service companies include
+firms providing enhanced oil recovery, fracking and waste-water management. Other servicing investments are related to deep-
+11 On Solar Energy. The EIA projects that even after further investment and expansion, commercial (non-residential) solar power will make
+up less than 1% of US electricity generation in 2035. Solar power suffers from intermittency, low electricity conversion rates, and the
+recognition that real-life installations have higher operating and maintenance expenses than previously thought. A paper presented this year
+at the Syracuse Biophysical Economics Conference by an operator of solar plants in Spain estimates that after taking unexpected operating
+expenses into account, the energy return on investment for solar is closer to 3 than to 8.
+7
+November 21, 2011
+Topic: The quixotic search for energy solutions
+sea fields recently discovered off the coast of Brazil. We have discussed these projects before (EoTM September 2009). The
+sub-salt fields in Brazil lay 7 kilometers below the surface of the ocean, beneath a thick salt canopy in the Lower Tertiary
+region. Oil extraction can be quite complicated due to the low permeability and porosity of the salt canopy, and tar pockets.
+Our investments in this region are linked to providing services, rather than owning exploration and production assets
+themselves. Overall, our experience in conventional energy investments has generally been positive.
+Renewable energy investments. Our experience with renewable energy investing has much more mixed, for many of the
+reasons outlined in this paper. Some wind projects have worked well, while others (in the UK and in upstate New York) have
+not, mostly a function of less windy conditions than project managers anticipated. As with conventional energy, some of the
+better wind projects are related to providing services (constructing offshore wind farms, development for purposes of sale),
+rather than taking ongoing operating risk. Weather played a negative role as well: higher than expected precipitation in Brazil
+negatively affected our investments in sugar cane ethanol. Solar projects are on track (utility-scale projects in the US and
+Europe, and a company providing distributed solar solutions to small business), although both are highly dependent on
+continued subsidies. Natural gas discoveries have effectively raised the efficiency hurdle rate for renewable projects, and fiscal
+problems in the West may reduce the subsidies that underpin many renewable projects and valuations.
+Michael Cembalest
+Chief Investment Officer
+Notes
+Vaclav Smil is a Distinguished Professor in the Faculty of Environment at the University of Manitoba in Winnipeg and a Fellow
+of the Royal Society of Canada. His interdisciplinary research has included the studies of energy systems (resources,
+conversions, and impacts), environmental change (particularly global biogeochemical cycles), and the history of technical
+advances and interactions among energy, environment, food, economy, and population. He is the author of thirty books and
+more than three hundred papers on these subjects and has lectured widely in North America, Europe, and Asia. He is also noted
+by Foreign Policy magazine as #49 on its list of the 100 most influential thinkers in the world.
+Citations
+“Energy Myths and Realities”, Vaclav Smil, AEI Press, 2010.
+“Year in Review – EROI or energy return on energy invested”, Charles Hall and David Murphy, Annals of the New York
+Academy of Sciences, January 2010.
+“National Electric Transmission Congestion Study”, US Department of Energy, December 2009.
+“Annual Energy Outlook 2011 Reference Case”, Richard Newell, US Energy Information Administration, December 16, 2010.
+“Energy and the Wealth of Nations: Understanding the Biophysical Economy”, Charles Hall of SUNY ESF (who was kind
+enough to review this Eye on the Market) and Kent Klitgaard, Springer NY, 2011.
+For more information on Eos and zinc-air battery storage, see www.eosenergystorage.com
+Acronyms
+CAFE
+ERCOT
+EPRI
+HVDC
+NIMBY
+EROI
+IPCC
+CCS
+CO 2
+EIA
+IEA
+IAEA
+PV
+CSP
+DoE
+SUNY ESF
+HVAC
+Corporate average fuel economy
+Electricity Reliability Council of Texas
+Electric Power Research Institute
+High voltage direct current
+Not in my backyard!
+Energy return on energy invested
+Intergovernmental Panel on Climate Change
+Carbon capture and storage
+Carbon dioxide
+Energy Information Agency
+International Energy Agency
+International Atomic Energy Agency
+Photovoltaic solar
+Concentrated solar power (the parabola version)
+Department of Energy
+State of New York, College of Environmental Science and Forestry
+Heating, ventilation and air conditioning
+Conversions used in examples 1-6
+1 megawatt = 1,000,000 watts
+1 terawatt = 1,000,000 megawatts
+1 petawatt = 1,000 terawatts
+1 megawatt = 1,000 kilowatts
+1 megawatt hour = 3,600 megajoules
+1 gigajoule = 1,000 megajoules
+1 liter gasoline = 35 megajoules
+1mile = 1.609 kilometers
+1 gallon = 3.785 liters
+1 unit of carbon = 3.7 units of CO 2
+1 metric tonne = 2,200 pounds
+1 pound = 0.4536 kg
+1 barrel = 42 gallons of gasoline
+1 btu = 1,055 joules
+8
+November 21, 2011
+Topic: The quixotic search for energy solutions
+The material contained herein is intended as a general market commentary. Opinions expressed herein are those of Michael Cembalest and may differ from those of other J.P.
+Morgan employees and affiliates. This information in no way constitutes J.P. Morgan research and should not be treated as such. Further, the views expressed herein may
+differ from that contained in J.P. Morgan research reports. The above summary/prices/quotes/statistics have been obtained from sources deemed to be reliable, but we do not
+guarantee their accuracy or completeness, any yield referenced is indicative and subject to change. Past performance is not a guarantee of future results. References to the
+performance or character of our portfolios generally refer to our Balanced Model Portfolios constructed by J.P. Morgan. It is a proxy for client performance and may not
+represent actual transactions or investments in client accounts. The model portfolio can be implemented across brokerage or managed accounts depending on the unique
+objectives of each client and is serviced through distinct legal entities licensed for specific activities. Bank, trust and investment management services are provided by J.P.
+Morgan Chase Bank, N.A, and its affiliates. Securities are offered through J.P. Morgan Securities LLC (JPMS), Member NYSE, FINRA and SIPC and Chase Investment
+Services Corp., (CISC) member FINRA and SIPC. Securities products purchased or sold through JPMS or CISC are not insured by the Federal Deposit Insurance Corporation
+("FDIC"); are not deposits or other obligations of its bank or thrift affiliates and are not guaranteed by its bank or thrift affiliates; and are subject to investment risks, including
+possible loss of the principal invested. Not all investment ideas referenced are suitable for all investors. Speak with your J.P. Morgan Representative concerning your personal
+situation. This material is not intended as an offer or solicitation for the purchase or sale of any financial instrument. Private Investments may engage in leveraging and other
+speculative practices that may increase the risk of investment loss, can be highly illiquid, are not required to provide periodic pricing or valuations to investors and may involve
+complex tax structures and delays in distributing important tax information. Typically such investment ideas can only be offered to suitable investors through a confidential
+offering memorandum which fully describes all terms, conditions, and risks.
+IRS Circular 230 Disclosure: JPMorgan Chase & Co. and its affiliates do not provide tax advice. Accordingly, any discussion of U.S. tax matters contained herein (including
+any attachments) is not intended or written to be used, and cannot be used, in connection with the promotion, marketing or recommendation by anyone unaffiliated with
+JPMorgan Chase & Co. of any of the matters addressed herein or for the purpose of avoiding U.S. tax-related penalties. Note that J.P. Morgan is not a licensed insurance
+provider. © 2011 JPMorgan Chase & Co; All rights reserved
+9

@@ -1,0 +1,574 @@
+﻿Originally published in Business Entities, July/August 2009. Reprinted with permission of Thomson Reuters/RIA.
+DISREGARDED ENTITIES
+Disregarded Entities: To Be Or Not To Be?
+Exceptions to the general rule that a disregarded entity is treated as a “tax nothing” for tax
+purposes have burgeoned over the last several years.
+Author: BRAD A. BIRMINGHAM and JAMES M. BANDOBLU, JR.
+Brad A. Birmingham is a tax partner practicing in the Buffalo, New York, office of the
+law firm Hodgson Russ LLP. James M Bandoblu, Jr. is a tax associate in the same
+office.
+As practitioners regularly use disregarded entities (DREs) in estate, corporate, and tax planning,
+it is very important that they consider during the course of planning the growing number of
+instances in which DREs are considered to exist, in whole or in part, for tax purposes.
+Various provisions of the Code and regulations confer “disregarded” status on an entity. This
+article briefly describes the four most common forms of DREs and their origins and outlines some
+of the more significant—but often overlooked—exceptions and modifications to the general rule
+that DREs are treated as “tax nothings.” Because the forms of DREs originate in different
+statutory and regulatory provisions, some of the exceptions and modifications are specific to only
+certain forms of DREs, others apply to all forms of DREs, and some are unique to grantor trusts.
+Practitioners should be attentive to this growing class of exceptions and modifications when tax
+planning for their clients.
+Types of Disregarded Entities
+The discussion below gives a general overview of four of the more frequently used types of DREs
+and their legislative creation, but there are also other miscellaneous DREs that arise primarily
+through the combined use of one DRE. For example, a partnership between a taxpayer and a
+DRE that is wholly-owned by the taxpayer does not constitute a partnership for federal tax
+purposes; rather, the partnership is a DRE, absent an election (under the check-the-box
+regulations discussed below) to be treated as a corporation. 1
+Grantor Trust Rules.
+The oldest form of a disregarded entity is the grantor trust. While the development of the
+grantor trust rules began in the early 1900s, Congress did not issue statutory guidance until
+1954. That statutory guidance developed into what is commonly known today as the grantor
+trust rules, which are found in Subpart E of Subchapter J of the Code. 2
+In short, the primary result of the grantor trust rules is to tax the grantor of a trust on the trust's
+income if the grantor retains dominion and control over the trust (or a portion of it). 3 In doing
+so, the grantor trust rules treat the grantor of a trust as the “owner” of the trust (or relevant
+portion thereof) for income tax purposes. 4 As a result, in calculating his or her taxable income,
+the grantor includes the applicable portion of the trust's income, deductions, and credits. 5
+Unlike the check-the-box rules, there are conflicting views regarding the treatment of a grantor
+trust as a DRE. While the plain language of the Code's grantor trust rules appears to imply that a
+wholly grantor trust (i.e., a trust that is deemed to be entirely owned by a single individual or
+entity) will be disregarded for federal income tax purposes and the IRS has treated grantor trusts
+as DREs, at least one court has not interpreted the rules in that manner. 6 Given the varying
+views on the topic, each practitioner needs to determine whether his or her particular grantor
+trust may be treated as a DRE. This article assumes that the grantor trust rules treat applicable
+grantor trusts as DREs, and will survey the exceptions and modifications that apply given such
+assumption.
+Check-the-Box Rules.
+Prior to 1997, the federal tax classification of an unincorporated business entity was determined
+under what were known as the “Kintner Regulations,” which analyzed four characteristics of the
+entity to determine whether it more closely resembled a corporation or a partnership. 7 In 1997,
+the Treasury Department showed sympathy for practitioners when it simplified the classification
+of unincorporated business entities by promulgating Regs. 301.7701-1, -2, and -3, now
+universally known as the “check-the-box” regulations. 8
+A business entity that is not automatically classified as a corporation (a “per se corporation”)
+pursuant to the check-the-box regulations (an “eligible entity”) may generally elect its
+classification for federal tax purposes. 9 The default classification for a domestic eligible entity is:
+(1) A partnership if the entity has two or more members.
+(2) “Disregarded as an entity separate from its owner” if it has a single owner. 10
+The default classification for a foreign eligible entity is:
+(1) A partnership if it has two or more members and at least one member does not have
+limited liability.
+(2) A corporation if all members have limited liability.
+(3) A DRE if it has a single owner that does not have limited liability. 11
+A member of a foreign eligible entity has limited liability if the member has no personal liability
+for the debts or claims against the entity by reason of being a member. 12
+Although a single-member eligible entity, such as a domestic limited liability company (LLC) with
+a single owner (SMLLC), is automatically treated as “disregarded as an entity separate from its
+owner,” it may elect on Form 8832 to be taxed as a corporation. 13 If an SMLLC does not elect to
+be treated as a corporation, the check-the-box regulations treat its activities “in the same
+manner as a sole proprietorship, branch, or division of the owner.” 14 Thus, except where an
+exception or modification exists, a non-electing SMLLC is generally ignored for federal tax
+purposes.
+Qualified Subchapter S Subsidiary Rules.
+A very common form of DRE is the qualified Subchapter S corporation (QSub). Any domestic
+corporation that is eligible to be a Subchapter S corporation and that is wholly owned by a
+Subchapter S corporation will be treated as a QSub if its parent corporation so elects. 15 The
+QSub election is made on Form 8869. When the QSub election is made, the subsidiary is
+generally deemed to have liquidated into the S corporation parent. 16
+In general, a QSub is not treated as a separate corporation for federal tax purposes. 17 All of the
+QSub's assets, liabilities, and items of income, deduction, and credit are treated as assets,
+liabilities, and items of income, deduction, and credit of the Subchapter S corporation parent. 18
+As discussed below, however, there are certain regulatory exceptions to the general rule that a
+QSub is not treated as a separate corporation for federal tax purposes.
+Qualified REIT Subsidiary Rules.
+A qualified real estate investment trust subsidiary (QRS) is a relatively specialized form of
+disregarded entity. A real estate investment trust (REIT) is an electing domestic corporation (or
+trust or other association taxable as a corporation) that meets various organizational
+requirements, derives most of its income from passive real property sources, distributes most of
+its income to its owners, and holds mainly real estate. 19 REITs generally receive conduit income
+tax treatment for income distributed to their owners. 20
+A QRS is a corporation (or trust or other association taxable as a corporation) which is wholly
+owned by a REIT and does not elect with its owner to be treated as a taxable REIT subsidiary. 21
+A QRS is not treated as a separate corporation, and, like a QSub, its assets, liabilities, and items
+of income, deductions, and credit are treated as those of the REIT owner. 22 Thus, the corporate
+status of a QRS is generally ignored for federal tax purposes. As with QSubs, however, there are
+certain regulatory exceptions to the general rule that a QRS is disregarded for federal tax
+purposes.
+General Exceptions and Modifications
+The number of exceptions and modifications to the general rule that DREs are treated as "tax
+nothings" has quietly increased over the last decade. A survey of some of the more prevalent
+exceptions and modifications to the general rule follows.
+Employment and Excise Taxes.
+Shortly after the check-the-box regulations and the QSub rules were issued in the late 1990s,
+the IRS issued Notice 99-6. 23 This Notice announced the IRS's intention to issue guidance on the
+proper method for DREs to report employment taxes. It also sought public comment on the
+issue. Notice 99-6 set forth two methods for reporting and paying employment tax for DREs until
+the IRS issued its guidance. The temporary guidance said that the IRS would accept reporting
+and payment of employment taxes with respect to SMLLC or QSub employees if either of the
+following occurred:
+(1) The owner calculated, reported, and paid all employment tax obligations with respect
+to the DRE's employees under its own name and taxpayer identification number.
+(2) The DRE separately calculated, reported, and paid all employment tax obligations
+with respect to its employees under the owner's own name and taxpayer identification
+number. 24
+Despite allowing a DRE to separately calculate, report, and pay employment tax obligations with
+respect to its employees, Notice 99-6 said that the owner would, nonetheless, retain ultimate
+responsibility for the employment tax obligations incurred with respect to the DRE's employees.
+After almost six years, the IRS issued proposed regulations governing the treatment of DREs for
+employment tax and related reporting purposes. 25 In August 2007, the IRS finalized the
+proposed regulations with a few minor modifications. 26 Reg. 301.7701-2(c)(2)(iv) treats eligible
+single-owner DREs (e.g., SMLLCs) as corporations for employment tax purposes. 27 Thus, the
+entity now must use its own taxpayer identification number when it files and pays employment
+taxes. 28 An individual owner of a DRE, however, is subject to self-employment tax and is not
+treated as an employee of the disregarded entity for employment tax purposes. 29 This special
+employment tax provision is applicable with respect to wages paid on or after 1/1/09. 30 The IRS
+also recently updated its Employer Tax Guide to reflect the final regulations. 31
+In addition, the IRS issued a similar provision with respect to certain excise tax reporting,
+registration, and payment obligations. 32 That provision treats an eligible single-owner DRE as a
+separate entity for certain excise tax purposes. 33 This special excise tax rule applies to liabilities
+imposed and actions first required or permitted in periods beginning on or after 1/1/08. 34
+The IRS also issued a final regulation under Section 1361 that mirrors the employment and
+excise tax regulation provisions promulgated under Section 7701. 35 Like the check-the-box
+regulations' rules, the QSub regulation treats a QSub as a corporation for employment and
+excise tax purposes only. 36 The regulation relating to employment taxes applies with respect to
+wages paid on or after 1/1/09, but the excise tax provision applies to liabilities imposed and
+actions first required or permitted in periods beginning on or after 1/1/08. 37 The IRS probably
+did not need to issue separate provisions under Section 1361 because Regs. 301.7701-
+2(c)(2)(iv) and (v) appear to cover QSubs as well as SMLLCs. The IRS did not issue special
+provisions with respect to REITs, but Regs. 301.7701-2(c)(2)(iv) and (v) should also cover
+REITs. There is no authority explicitly extending these rules to grantor trusts.
+Tax Liability Considerations
+A DRE, including an SMLLC, a QSub, and a QRS, is treated as a separate entity for purposes of:
+(1) Federal tax liabilities of the entity for any tax period for which the entity was not
+disregarded,
+(2) Federal tax liabilities of any other entity for which the entity is liable.
+(3) Federal tax refunds or credits. 38
+The regulations setting forth these exceptions apply after 3/31/04. 39 The following examples
+illustrate these exceptions to the general rule that DREs are treated as tax nothings.
+If a domestic corporation merges (pursuant to a state law merger) into a domestic SMLLC owned
+by an individual, the SMLLC is the successor to the corporation, for state law purposes, and is
+liable for all of the corporation's debts. If the IRS sought to extend the statute of limitations on
+assessment with respect to a liability of the corporation for a tax year prior to the tax year in
+which the merger occurred, the SMLLC is liable for the corporation's taxes that remain unpaid,
+and, therefore, is the proper party to sign the consent to extend the period of limitations. 40 The
+result would be the same if the SMLLC was a QSub or a QRS. 41
+Using this example, assume that for a tax year ending before the merger occurred the IRS
+determines that the corporation miscalculated and underreported its income tax liability. Because
+the SMLLC is the successor to the corporation and is liable for the underpayment of the
+corporation's taxes, the IRS may assess the deficiency directly against the SMLLC. 42 In the event
+that the SMLLC fails to pay the liability after notice and demand, the IRS can file a federal tax
+lien against all of the SMLLC's property and its rights to property. 43
+With respect to QSubs and QRSs, their owners are not liable for deficiencies relating to a tax
+year that precedes the year in which the QSub or QRS election is made, because the tax liability
+is for a tax year for which the QSub or QRS was not disregarded. 44 As a result, the IRS may
+assess the liability only against the QSub or QRS and, in the event of a failure to pay the liability
+after notice and demand, may file a federal tax lien only against the QSub's or QRS's property
+and rights to property. 45
+Another instance in which a DRE is recognized for federal tax purposes arises when the IRS is
+seeking to collect a tax liability from the sole member of a SMLLC. In CCA 199930013, the IRS
+Chief Counsel advised that the IRS could not levy on an LLC's assets, because under state law
+the sole member of the LLC did not own the property of the LLC. The Chief Counsel stated that
+the mere fact that an LLC is disregarded as an entity separate from its sole member (the
+taxpayer in that case) for federal tax purposes does not entitle the IRS to disregard the LLC for
+collection purposes. 46 The Chief Counsel added that state law determines a taxpayer's property
+interests for purposes of tax collection, 47 but the IRS could levy on the taxpayer's distributive
+interest in the LLC and sell that interest or file suit to foreclose the federal tax lien against the
+ownership interest. 48 In addition, depending on the facts of the case, the IRS might collect from
+an LLC's assets on the basis that it is the alter ego of its single-member or pursuant to a
+nominee or transferee liability theory. 49
+TEFRA Rules.
+Another exception to the general rule arises in the context of the Code's audit rules for
+partnerships, which were enacted by the Tax Equity and Fiscal Responsibility Act of 1982
+(TEFRA). TEFRA radically changed the way in which the IRS audits partnerships for errors in
+reporting partnership income. 50 TEFRA's basis is found in Section 6221, which provides that “the
+tax treatment of any partnership item (and the applicability of any penalty, addition to tax, or
+additional amount which relates to an adjustment to a partnership item) shall be determined at
+the partnership level.”
+Section 6231(a)(1)(B) excludes “small partnerships” from the TEFRA rules by excluding from the
+definition of a “partnership” any partnership with ten or fewer partners, each of whom is a U.S.
+individual, a C corporation, or an estate of a deceased partner. The small partnership exception
+does not apply, however, to a partnership for a tax year if any partner in the partnership during
+that tax year is a “pass-thru partner.” 51 A pass-thru partner means a partnership, estate, trust,
+S corporation, nominee, or other similar person through whom other persons hold an interest in
+the partnership. 52
+The issue that arises in this context is whether a DRE that is a partner of a partnership is
+disregarded when determining whether the small partnership exception to TEFRA applies. The
+IRS has looked at this issue on at least two different occasions and, in both cases, treated an
+SMLLC as a separate entity. That is, the IRS determined that the SMLLC—not its individual sole
+member—was the partner in applying the small partnership exception to the TEFRA audit rules. 53
+Because the SMLLC was treated as the partner and was a “pass-thru partner,” as defined in
+Section 6231(a)(9), the small partnership exception did not apply in either case.
+In CCA 200250012, IRS Chief Counsel reasoned that the statutory language indicated that
+Congress intended that the small partnership exception to TEFRA would not apply whenever, as
+a factual matter, ownership in the partnership is held through another person, regardless of the
+legal classification of that person. Rev. Rul. 2004-88 reached the same result, but the IRS
+reasoned there that state law dictated the holding. The IRS based its holding on the fact that the
+sole member of the SMLLC partner was not a partner of the partnership under state law; rather,
+the IRS found that the sole member held his partnership interest in the partnership indirectly
+through the SMLLC (i.e., was an indirect partner via the “pass-thru partner”).
+Sharing of Partnership Liabilities under Code Section 752.
+Another relatively recent variance from the treatment of DREs as “tax nothings” can be found in
+the Section 752 regulations, which deal with the allocation of partner-level tax basis arising from
+partnership-level debt. Under these complex rules, partnership debt is generally allocated to the
+partner or partners, if any, that bear the ultimate “economic risk of loss” for the debt. For
+example, where a partnership debt is guaranteed by a partner, that partner generally would be
+allocated the debt's entire associated tax basis. In determining which partner bears the economic
+risk of loss, the rules provide a general assumption that a partner is financially able to perform
+under any guarantee agreement irrespective of the partner's actual net worth, unless the facts
+and circumstances indicate a plan to circumvent or avoid the obligation. 54 As a result, tax
+planners were able to insert virtually valueless DREs as guarantors of partnership debt to secure
+the associated debt basis for use by the ultimate owners of the entities.
+Final regulations published on 10/11/06 significantly modified this approach for all partners
+holding partnership interests through a DRE. 55 Under Reg. 1.752-2(k)(1), where a partner holds
+his partnership interest through a DRE, the DRE's obligations are taken into account when
+determining the partner's economic risk of loss for the partnership-level liability only to the
+extent of the net value of the DRE as of the date on which the partnership determines the
+partner's share of partnership liabilities. 56 In the event that one or more DREs have payment
+obligations with respect to one or more liabilities of a partnership, the partnership must allocate
+the net value of each DRE among the liabilities in a reasonable and consistent manner, taking
+into account the relative priorities of those liabilities. 57
+This special treatment of DREs in this context has been criticized by some commentators in that
+it uniquely singles out DREs when, in fact, any pass-through entity that limits the liability of its
+owners can be used to accomplish similar results without a similar net value limitation. 58
+Nonetheless, the special treatment exists and represents another danger in simply ignoring a
+DRE as nonexistent during the course of tax planning.
+State Tax Treatment of DREs.
+Despite the fact that almost every state generally respects the federal classification of an SMLLC
+as a DRE for income tax purposes, several states impose an entity-level tax or fee on LLCs,
+including SMLLCs. 59 The types of taxes or fees imposed, and the SMLLCs subject to the tax, vary
+widely from state-to-state. Practitioners should inquire into a state's entity-level tax on SMLLCs,
+and possibly other DREs, before proceeding with planning opportunities in that state.
+Unlike the general conformity with federal law classification for income tax purposes, most states
+treat LLCs, including SMLLCs, as separate legal entities with respect to registration fees, sales
+and use taxes, employment taxes, and property taxes. As a result, LLCs are generally subject to
+liability for these taxes and fees. Additionally, most states require an SMLLC to file its own
+separate sales and use tax return, notwithstanding the fact that for state income tax purposes
+the SMLLC is disregarded. 60 On the other hand, many states allow an SMLLC and its owner to
+elect to file a consolidated sales and use tax return, if certain conditions are met. 61
+Consequently, practitioners should analyze a DRE's tax and filing obligations state by state, so
+that they can fully apprise their clients of all potential taxes and fees a particular state may
+impose.
+Grantor Trust Considerations
+As mentioned briefly above, opinions differ as to whether a wholly grantor trust is considered a
+disregarded entity. In Rothstein, 62 the Second Circuit Court of Appeals implicitly held that a
+wholly grantor trust was not disregarded for all income tax purposes, because the grantor
+received a cost basis for assets purchased from the trust. In Rev. Rul. 85-13, 1985-1 CB 184,
+however, the IRS reached the opposite result on facts similar to those in Rothstein. That is, the
+IRS held that the acquisition of the trust's property by the grantor in exchange for a note could
+not be a sale because the grantor was both the maker and owner of the note. As a result, the
+grantor did not receive a new cost basis in the stock purchased from the trust.
+The IRS has explicitly stated that it will not follow the Second Circuit's decision in Rothstein.
+Indeed, many estate planners rely heavily on Rev. Rul. 85-13's conclusions for a variety of
+estate planning techniques involving sales to grantor trusts. Consequently, the lasting impact of
+the Rothstein decision may prove negligible.
+Even if disregarded for federal income tax purposes, states may not disregard a wholly grantor
+trust for certain purposes. For example, Pennsylvania varies from federal law regarding grantor
+trusts and imposes state income tax on grantor trusts according to the same personal income
+tax rules that apply to irrevocable trusts, unless the grantor trust is a revocable trust. 63 For
+some non-income tax purposes (e.g., sales tax), a wholly grantor trust that is disregarded for
+federal income tax purposes may be respected as the owner of the trust's corpus by some
+states. In New York, for instance, a sale between a grantor and his grantor trust could be subject
+to sales tax, because for sales tax purposes New York generally respects the separate existence
+of distinct legal entities, even though the distinction may be disregarded for federal and state
+income tax purposes. 64
+Foreign Tax Planning Considerations
+Practitioners should be aware that foreign countries may not treat U.S. grantor trusts as
+disregarded entities. As noted below, a wholly grantor trust is treated as a separate entity for
+Canadian tax purposes. Various planning opportunities may arise as a result of such divergent
+treatment.
+Conduit Financing.
+Treasury has proposed respecting DREs in an attempt to combat perceived tax avoidance
+achieved through the use of multiple-party financing transactions. 65 In general, a financing
+arrangement is a series of transactions in which one person advances money or other property
+or grants rights to use property and another person receives money or other property or rights
+to use property, the advance and receipt are effected through one or more other persons, and
+financing transactions link all of the entities. 66 Examples of a financing transaction include debt
+and any lease or license. 67
+Since 1995, regulations have allowed the IRS to ignore intermediate entities participating in a
+financing arrangement where the intermediate entities are acting as conduit entities and to
+recharacterize the financing arrangement as a transaction directly between the remaining parties
+for purposes of imposing tax under Sections 871 and 881 and withholding obligations under
+Sections 1441 and 1442. 68
+In December 2008, the IRS issued proposed regulations under Section 881. 69 Under Prop. Reg.
+1.881-3(a)(2)(i)(C), any transaction entered into by a DRE will be taken into account for
+purposes of determining whether a conduit financing arrangement exists. The proposed
+regulation accomplishes this by stating that, for purposes of the regulations under Section 881,
+the term “person” includes a business entity that is disregarded as an entity separate from its
+single member owner under the check-the-box regulations. 70
+Currently, this change to the regulation remains only proposed. The proposed regulation states
+that it is not effective until the date it is adopted as a final regulation. 71 It is interesting to note,
+however, that the Preamble to the proposed regulation states that the proposed regulations
+“clarify that a disregarded entity is a person for purposes of Regulation 1.881-3,” implying that
+the IRS does not need the proposed regulation's change to effect this result. 72 Consequently,
+practitioners practicing in this area should employ caution both before and after the proposed
+regulation becomes final.
+Dual Consolidated Losses.
+The dual consolidated loss (DCL) rules are generally intended to prevent companies with tax
+residency in two different jurisdictions from using the same losses to obtain tax benefits in both
+jurisdictions. The provisions in Section 1503(d), and the consolidated return regulations that
+disallow the use of a DCL, generally treat a DRE as a separate entity. 73 An example of a DRE to
+which the DCL rules may apply is the so-called “hybrid entity,” which is an entity that is
+disregarded for U.S. tax purposes but is subject to an entity-level income tax by a foreign
+country. 74 The purpose of the DCL provisions, as applied to a domestic corporation that owns a
+hybrid entity, is to prevent a single net operating loss (NOL) generated by a DRE from being
+used in both the U.S. and in a foreign jurisdiction. 75
+The DCL rules apply only to a dual resident corporation (DRC). A DRC is a domestic corporation
+or a separate unit of the domestic corporation (e.g., a hybrid entity that is a DRE for U.S. tax
+purposes) that is subject to U.S. tax on its worldwide income and a foreign jurisdiction's tax on
+its worldwide income or with respect to its separate unit's worldwide income. 76 Without the
+general disallowance of the DCL to the DRC, use of the DCL could occur in both the U.S. and the
+foreign jurisdiction because the DRC could offset its own income with the NOL generated by the
+DRE for U.S. tax purposes, and that NOL might also be used for foreign tax purposes against
+income that may not be subject to U.S. tax. 77
+In general, the DCL rules forbid a DRC from reducing the taxable income of any other member of
+its affiliated group by the amount of the DRE's DCL unless, as provided in the regulations, the
+loss does not offset the income of any foreign corporation. 78 For purposes of determining the
+DCL, the DRE is treated as a separate entity and its income, deductions, gain, and loss are
+computed on a “stand alone” basis from the DRC that owns the DRE. 79 In that respect, the DRE
+is not treated as a disregarded entity.
+Treatment by Foreign Countries
+Practitioners should also be aware of the treatment of DREs by foreign countries. Canada, for
+example, generally does not disregard U.S. SMLLCs; rather, it treats them as corporations. Also,
+a grantor trust that is disregarded in the U.S. is respected as a trust in Canada. Some income
+tax treaties between the U.S. and foreign countries specifically address the treatment of
+disregarded entities (also called “fiscally transparent” entities by some treaties).
+In addition to some countries treating DREs differently than the U.S., the Code contains some
+provisions that create special rules for certain DREs (or “fiscally transparent” entities). Section
+894 generally operates to deny certain treaty benefits to a “hybrid entity” (i.e., an entity treated
+as fiscally transparent for U.S. income tax purposes but recognized as a separate entity for
+purposes of the tax law of the foreign country). Under that section, income derived by a foreign
+person through a fiscally transparent entity is denied the benefit of a reduced rate of withholding
+tax that an income tax treaty may provide if certain conditions are met. For instance, if a U.S.
+company makes an interest payment to an LLC that is wholly owned by a Canadian company,
+the payment is generally subject to the full 30% withholding rate imposed by Code section
+1442(a) and is not entitled to the benefits of a reduced rate of withholding that the U.S./Canada
+income tax treaty would otherwise permit.
+Practitioners should be cognizant of the treatment of DREs by other countries. 80 Not only can the
+different treatment by a foreign country present traps for the unwary, but they can also produce
+significant planning opportunities for U.S. individuals and businesses.
+Obama Proposal.
+The Obama administration recently released its 2010 budget proposals, which included a
+proposal that would make a regulatory change to the check-the-box regulations requiring some
+foreign subsidiaries to be treated as separate corporations for U.S. federal tax purposes. 81 The
+proposal is designed to prohibit the shifting of income from one foreign subsidiary to another in a
+tax-haven country. 82
+Under the proposal, a foreign eligible entity with a single owner that is organized or created in a
+country other than that of its single owner would be treated as a corporation for all federal tax
+purposes. 83 Existing eligible entities would undergo a deemed conversion into a corporation
+under the proposal, resulting in the entities incurring the usual tax consequences related to a
+conversion (e.g., triggering of dual-consolidated losses). Except in cases of U.S. tax avoidance,
+the proposal generally would not apply to a first-tier foreign eligible entity wholly owned by a
+U.S. person. 84
+If adopted, the proposal would not take effect until 2011. 85 Given the Obama Administration's
+heightened scrutiny of offshore tax havens and international tax abuses, this proposal is one to
+monitor closely.
+Conclusion
+There are now several instances in which DREs are not really disregarded for tax purposes. In
+addition, various proposals would increase the number of exceptions/modifications to the general
+rule that a DRE is a “tax nothing.” It is important for practitioners to keep this assortment of
+disclaimers in mind in advising clients with respect to tax planning using DREs. The erosion of
+the check-the-box regulations and other DRE provisions continues to be a trap for the unwary.
+1
+Rev. Rul. 2004-77, 2004-2 CB 119 (holding that where a domestic corporation and its wholly
+owned LLC were the only two partners in a limited partnership, the limited partnership could not
+be classified as a partnership for federal tax purposes, and therefore, would be disregarded for
+federal tax purposes, absent an election to be treated as a corporation).
+2
+3
+4
+5
+6
+See Sections 671 through 679.
+See generally Section 671.
+Section 671.
+Id.
+See Rothstein, 54 AFTR 2d 84-5072, 735 F2d 704, 84-1 USTC ¶9505 (CA-2, 1984) (discussed
+below). But see Rev. Rul. 85-13, 1985-1 CB 184.
+7
+The Kintner Regulations, promulgated in 1960, were derived from the case of Kintner, 46 AFTR
+995, 216 F2d 418, 54-2 USTC ¶9626 (CA-9, 1954).
+8
+9
+10
+11
+12
+13
+14
+15
+TD 8697, 12/17/96.
+Reg. 301.7701-3(a). A business entity is any entity that is not a trust. See Reg. 301.7701-2(a).
+Reg. 301-7701-3(b)(1).
+Reg. 301-7701-3(b)(2)(i).
+Reg. 301-7701-3(b)(2)(ii).
+Reg. 301.7701-3(a).
+Reg. 301-7701-2(a).
+Section 1361(b)(3)(B). Certain types of corporations are not eligible to make a QSub election
+(e.g., insurance companies subject to tax under Subchapter L of the Code). See Section
+1361(b)(2).
+16
+17
+18
+19
+20
+21
+22
+23
+Reg. 1.1361-4(a)(2).
+Reg. 1.1361-4(a)(1)(i).
+Reg. 1.1361-4(a)(1)(ii).
+Sections 856(a) and (c), and 857(a)(1).
+See Section 857(c)(2); see also S. Rep't. No. 106-201, 106th Cong., 1st Sess. 55 (1999).
+Sections 856(i)(2) and (l)(1).
+Section 856(i)(1).
+1999-1 CB 321. The Notice did not specifically mention grantor trusts or QRSs, but its stated
+purpose was to address issues related to entities “disregarded as entities separate from their
+owners for federal tax purposes.” While it was clearly intended to respond to the then recently
+enacted check-the-box regulations and QSub rules, the Notice should also have applied to
+grantor trusts and QRSs—but it would be unusual for a grantor trust or QRS to have employees.
+24
+25
+26
+Id.
+REG-114371-05, 10/18/05.
+TD 9356, 8/15/07. The issuance of the final regulations made Notice 99-6 obsolete as of
+1/1/09.
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+Reg. 301.7701-2(a) references these special employment and excise tax rules.
+Reg. 301.7701-2(c)(2)(iv)(C), Example ii.
+Reg. 301.7701-2(c)(2)(iv)(A).
+Reg. 301.7701-2(e)(5).
+IRS Publication 15, Employer's Tax Guide (3/09).
+Reg. 301.7701-2(c)(2)(v).
+See Reg. 301.7701-2(c)(2)(v) for a list of relevant excise taxes and associated exceptions.
+Reg. 301.7701-2(e)(6).
+Regs. 1.1361-4(a)(7) and (8).
+Id.
+Regs. 1.1361-4(a)(7)(ii) and (8)(ii).
+Regs. 301.7701-2(c)(2)(iii)(A), 1.1361-4(a)(6), and 1.856-9. Grantor trusts are not covered by
+these provisions.
+39
+Regs. 301.7701-2(e)(2), 1.1361-4(a)(6)(iii), and 1.856-9(c).
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+See Reg. 301.7701-2(c)(2)(iii)(B), Example 1.
+See Regs. 1.1361-4(a)(6)(ii), Example 3, and 1.856-9(b), Example 3.
+See Reg. 301.7701-2(c)(2)(iii)(B), Example 2.
+Id.
+See Regs. 1.1361-4(a)(6)(ii), Example 2, and 1.856-9(b), Example 2.
+See id.
+CCA 199930013.
+Id.
+See also CCA 200235023.
+Id.
+TEFRA (codified as Sections 6221 through 6234).
+Reg. 301.6231(a)(1)-1(a)(2).
+Section 6231(a)(9).
+CCA 200250012; Rev. Rul. 2004-88, 2004-2 CB 165.
+Reg. 1.752-2(b)(6).
+TD 9289, 10/11/06. These disregarded entity rules apply to liabilities incurred or assumed by a
+partnership on or after 10/11/06, other than liabilities incurred or assumed pursuant to a binding
+written contract in effect prior to that date. See Reg. 1.752-2(l).
+56
+These rules do not apply to an obligation of a DRE to the extent that its owner is otherwise
+required to make a payment with regard to the obligation of the DRE. See Reg. 1.752-2(l). In
+addition, the specific DREs cited in the applicable Regulations do not expressly include grantor
+trusts.
+57
+58
+Reg. 1.752-2(k)(3).
+See, e.g., McKee, Nelson & Whitmire, Federal Taxation of Partnerships and Partners (WG&L,
+2009), ¶ 8.02[8].
+59
+Fenwick, McLoughlin, Salmon, Smith, Tilley, and Wood, State Taxation of Pass-Through Entities
+and Their Owners (WG&L, 2009), Appendix, Tables 8 and 9. Alabama, California, New Jersey,
+New York, Pennsylvania, Tennessee, and Texas are a few of the states that impose various
+entity-level taxes or fees on LLCs.
+60
+Fenwick, McLoughlin, Salmon, Smith, Tilley, and Wood, State Taxation of Pass-Through Entities
+and Their Owners (WG&L, 2009), ¶18.03.
+61
+62
+63
+64
+Id.
+54 AFTR 2d 84-5072, 735 F2d 704, 84-1 USTC ¶9505 (CA-2, 1984).
+Pennsylvania Personal Income Tax Guide (03/06).
+See e.g., Cleveland Browns Transportation LLC, TSB-A-06(8)S, 03/06/06 (sales of
+transportation services to an operating entity by its wholly owned and income tax disregarded
+LLC were recognized for sales tax purposes).
+65
+66
+67
+68
+69
+70
+REG-113462-08, 12/22/08.
+Reg. 1.881-3(a)(2)(i)(A).
+Reg. 1.881-3(a)(2)(ii)(A).
+Reg. 1.881-3(a)(1).
+Supra note 65.
+Prop. Reg. 1.881-3(a)(2)(i)(C). The proposed regulation does not expressly apply to any DREs
+not within the ambit of the check-the-box regulations.
+71
+72
+Id.
+Supra note 65.
+73
+74
+75
+76
+77
+78
+See Reg. 1.1503(d).
+Reg. 1.1503(d)-1(b)(3).
+TD 9315, 3/16/07.
+Reg. 1.1503(d)-1(b)(2).
+TD 9315, 3/16/07.
+Id.; Section 1503(d)(1). The DCL rules also specifically speak about situations involving
+“transparent entities,” which are uniquely defined for purposes of the DCL rules.
+79
+80
+See generally Reg. 1.1503(d)-5.
+There are also other narrow areas where the IRS has indicated it will treat a DRE as separate
+from its sole owner, such as the foreign exchange rules under Section 987 in the case of certain
+DREs that are qualified business units and have a different functional currency than their U.S.
+parent.
+81
+See Dept. of Treasury, General Explanations of the Administration's Fiscal Year 2010 Revenue
+Proposals (May 2009).
+82
+President Obama announced the proposal during his 5/4/09 news conference regarding
+combating tax havens.
+83
+84
+85
+See supra footnote 77.
+Id.
+Id.
+© 2009 Thomson Reuters/RIA. All rights reserved.

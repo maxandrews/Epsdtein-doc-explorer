@@ -1,0 +1,1185 @@
+any process closely related to intelligence; but more often it’s used specifically to refer to
+more abstract reasoning/learning/etc, as distinct from lower-level perception and action.
+• Cognitive Architecture: This refers to the logical division of an AI system like OpenCog
+into interacting parts and processes representing different conceptual aspects of intelligence.
+328 A Glossary
+It’s different from the software architecture, though of course certain cognitive architectures
+and certain software architectures fit more naturally together.
+• Cognitive Cycle: The basic ”loop” of operations that an OpenCog system, used to control
+an agent interacting with a world, goes through rapidly each ”subjective moment.” Typically
+a cognitive cycle should be completed in a second or less. It minimally involves perceiving
+data from the world, storing data in memory, and deciding what if any new actions need
+to be taken based on the data perceived. It may also involve other processes like deliberative
+thinking or metacognition. Not all OpenCog processing needs to take place within a
+cognitive cycle.
+• Cognitive Schematic: An implication of the form ”Context AND Procedure IMPLIES
+goal”. Learning and utilization of these is key to CogPrime’s cognitive process.
+• Cognitive Synergy: The phenomenon by which different cognitive processes, controlling a
+single agent, work together in such a way as to help each other be more intelligent. Typically,
+if one has cognitive processes that are individually susceptible to combinatorial explosions,
+cognitive synergy involves coupling them together in such a way that they can help one
+another overcome each other’s internal combinatorial explosions. The CogPrime design is
+reliant on the hypothesis that its key learning algorithms will display dramatic cognitive
+synergy when utilized for agent control in appropriate environments.
+• CogPrime : The name for the AGI design presented in this book, which is designed specifically
+for implementation within the OpenCog software framework (and this implementation
+is OpenCogPrime).
+• CogServer: A piece of software, within OpenCog, that wraps up an Atomspace and a
+number of MindAgents, along with other mechanisms like a Scheduler for controlling the
+activity of the MindAgents, and code for important and exporting data from the Atomspace.
+• Cognitive Equation: The principle, identified in Ben Goertzel’s 1994 book "Chaotic
+Logic", that minds are collections of pattern-recognition elements, that work by iteratively
+recognizing patterns in each other and then embodying these patterns as new system elements.
+This is seen as distinguishing mind from ”self-organization” in general, as the latter
+is not so focused on continual pattern recognition. Colloquially this means that ”a mind is
+a system continually creating itself via recognizing patterns in itself.”
+• Combo: The programming language used internally by MOSES to represent the programs
+it evolves. SchemaNodes may refer to Combo programs, whether the latter are learned via
+MOSES or via some other means. The textual realization of Combo resembles LISP with
+less syntactic sugar. Internally a Combo program is represented as a program tree.
+• Composer: In the PLN design, a rule is denoted a composer if it needs premises for
+generating its consequent. See generator.
+• CogBuntu: an Ubuntu Linux remix that contains all required packages and tools to test
+and develop OpenCog.
+• Concept Creation: A general term for cognitive processes that create new ConceptNodes,
+PredicateNodes or concept maps representing new concepts.
+• Conceptual Blending: A process of creating new concepts via judiciously combining
+pieces of old concepts. This may occur in OpenCog in many ways, among them the explicit
+use of a ConceptBlending MindAgent, that blends two or more ConceptNodes into a new
+one.
+• Confidence: A component of an OpenCog/PLN TruthValue, which is a scaling into the
+interval [0,1] of the weight of evidence associated with a truth value. In the simplest case
+(of a probabilistic Simple Truth Value), one uses confidence c = n / (n+k), where n is
+A.2 Glossary of Specialized Terms 329
+the weight of evidence and k is a parameter. In the case of an Indefinite Truth Value, the
+confidence is associated with the width of the probability interval.
+• Confidence Decay: The process by which the confidence of an Atom decreases over time,
+as the observations on which the Atom’s truth value is based become increasingly obsolete.
+This may be carried out by a special MindAgent. The rate of confidence decay is subtle and
+contextually determined, and must be estimated via inference rather than simply assumed
+a priori.
+• Consciousness: CogPrime is not predicated on any particular conceptual theory of consciousness.
+Informally, the AttentionalFocus is sometimes referred to as the ”conscious”
+mind of a CogPrime system, with the rest of the Atomspace as ”unconscious” but this is
+just an informal usage, not intended to tie the CogPrime design to any particular theory of
+consciousness. The primary originator of the CogPrime
+design (Ben Goertzel) tends toward panpsychism, as it happens.
+• Context: In addition to its general common-sensical meaning, in CogPrime the term Context
+also refers to an Atom that is used as the first argument of a ContextLink. The second
+argument of the ContextLink then contains Links or Nodes, with TruthValues calculated
+restricted to the context defined by the first argument. For instance, (ContextLink USA
+(InheritanceLink person obese )).
+• Core: The MindOS portion of OpenCog, comprising the Atomspace, the CogServer, and
+other associated ”infrastructural” code.
+• Corrective Learning: When an agent learns how to do something, by having another
+agent explicitly guide it in doing the thing. For instance, teaching a dog to sit by pushing
+its butt to the ground.
+• CSDLN: (Compositional Spatiotemporal Deep Learning Network): A hierarchical pattern
+recognition network, in which each layer corresponds to a certain spatiotemporal granularity,
+the nodes on a given layer correspond to spatiotemporal regions of a given size, and the
+children of a node correspond to sub-regions of the region the parent corresponds to. Jeff
+Hawkins’s HTM is one example CSDLN, and Itamar Arel’s DeSTIN (currently used in
+OpenCog) is another.
+• Declarative Knowledge: Semantic knowledge as would be expressed in propositional or
+predicate logic facts or beliefs.
+• Deduction: In general, this refers to the derivation of conclusions from premises using
+logical rules. In PLN in particular, this often refers to the exercise of a specific inference
+rule, the PLN Deduction rule (A → B, B → C, therefore A→ C)
+• Deep Learning: Learning in a network of elements with multiple layers, involving feedforward
+and feedback dynamics, and adaptation of the links between the elements. An example
+deep learning algorithm is DeSTIN, which is being integrated with OpenCog for perception
+processing.
+• Defrosting: Restoring, into the RAM portion of an Atomspace, an Atom (or set thereof)
+previously saved to disk.
+• Demand: In CogPrime’s OpenPsi subsystem, this term is used in a manner inherited from
+the Psi model of motivated action. A Demand in this context is a quantity whose value the
+system is motivated to adjust. Typically the system wants to keep the Demand between
+certain minimum and maximum values. An Urge develops when a Demand deviates from
+its target range.
+• Deme: In MOSES, an ”island” of candidate programs, closely clustered together in program
+space, being evolved in an attempt to optimize a certain fitness function. The idea is that
+330 A Glossary
+within a deme, programs are generally similar enough that reasonable syntax-semantics
+correlation obtains.
+• Derived Hypergraph: The SMEPH hypergraph obtained via modeling a system in terms
+of a hypergraph representing its internal states and their relationships. For instance, a
+SMEPH vertex represents a collection of internal states that habitually occur in relation to
+similar external situations. A SMEPH edge represents a relationship between two SMEPH
+vertices (e.g. a similarity or inheritance relationship). The terminology ”edge /vertex” is
+used in this context, to distinguish from the ”link / node” terminology used in the context
+of the Atomspace.
+• DeSTIN – Deep SpatioTemporal Inference Network: A specific CSDLN created by
+Itamar Arel, tested on visual perception, and appropriate for integration within CogPrime.
+• Dialogue: Linguistic interaction between two or more parties. In a CogPrime context, this
+may be in English or another natural language, or it may be in Lojban or Psynese.
+• Dialogue Control: The process of determining what to say at each juncture in a dialogue.
+This is distinguished from the linguistic aspects of dialogue, language comprehension and
+language generation. Dialogue control applies to Psynese or Lojban, as well as to human
+natural language.
+• Dimensional Embedding: The process of embedding entities from some non-dimensional
+space (e.g. the Atomspace) into an n-dimensional Euclidean space. This can be useful in an
+AI context because some sorts of queries (e.g. ”find everything similar to X”, ”find a path
+between X and Y”) are much faster to carry out among points in a Euclidean space, than
+among entities in a space with less geometric structure.
+• Distributed Atomspace: An implementation of an Atomspace that spans multiple computational
+processes; generally this is done to enable spreading an Atomspace across multiple
+machines.
+• Dual Network: A network of mental or informational entities with both a hierarchical
+structure and a heterarchical structure, and an alignment among the two structures so that
+each one helps with the maintenance of the other. This is hypothesized to be a critical
+emergent structure, that must emerge in a mind (e.g. in an Atomspace) in order for it to
+achieve a reasonable level of human-like general intelligence (and possibly to achieve a high
+level of pragmatic general intelligence in any physical environment).
+• Efficient Pragmatic General Intelligence: A formal, mathematical definition of general
+intelligence (extending the pragmatic general intelligence), that ultimately boils down to:
+the ability to achieve complex goals in complex environments using limited computational
+resources (where there is a specifically given weighting function determining which goals
+and environments have highest priority). More specifically, the definition weighted-sums the
+system’s normalized goal-achieving ability over (goal, environment pairs), and where the
+weights are given by some assumed measure over (goal, environment pairs), and where the
+normalization is done via dividing by the (space and time) computational resources used
+for achieving the goal.
+• Elegant Normal Form (ENF): Used in MOSES, this is a way of putting programs in
+a normal form while retaining their hierarchical structure. This is critical if one wishes
+to probabilistically model the structure of a collection of programs, which is a meaningful
+operation if the collection of programs is operating within a region of program space where
+syntax-semantics correlation holds to a reasonable degree. The Reduct library is used to
+place programs into ENF.
+A.2 Glossary of Specialized Terms 331
+• Embodied Communication Prior: The class of prior distributions over (goal, environment
+pairs), that are imposed by placing an intelligent system in an environment where
+most of its tasks involve controlling a spatially localized body in a complex world, and interacting
+with other intelligent spatially localized bodies. It is hypothesized that many key
+aspects of human-like intelligence (e.g. the use of different subsystems for different memory
+types, and cognitive synergy between the dynamics associated with these subsystems) are
+consequences of this prior assumption. This is related to the Mind-World Correspondence
+Principle.
+• Embodiment: Colloquially, in an OpenCog context, this usually means the use of an AI
+software system to control a spatially localized body in a complex (usually 3D) world. There
+are also possible ”borderline cases” of embodiment, such as a search agent on the Internet.
+In a sense any AI is embodied, because it occupies some physical system (e.g. computer
+hardware) and has some way of interfacing with the outside world.
+• Emergence: A property or pattern in a system is emergent if it arises via the combination
+of other system components or aspects, in such a way that its details would be very difficult
+(not necessarily impossible in principle) to predict from these other system components or
+aspects.
+• Emotion: Emotions are system-wide responses to the system’s current and predicted state.
+Dorner’s Psi theory of emotion contains explanations of many human emotions in terms
+of underlying dynamics and motivations, and most of these explanations make sense in a
+CogPrime context, due to CogPrime’s use of OpenPsi (modeled on Psi) for motivation and
+action selection.
+• Episodic Knowledge: Knowledge about episodes in an agent’s life-history, or the lifehistory
+of other agents. CogPrime includes a special dimensional embedding space only for
+episodic knowledge, easing organization and recall.
+• Evolutionary Learning: Learning that proceeds via the rough process of iterated differential
+reproduction based on fitness, incorporating variations of reproduced entities. MOSES
+is an explicitly evolutionary-learning-based portion of CogPrime; but CogPrime’s dynamics
+as a whole may also be conceived as evolutionary.
+• Exemplar: (in the context of imitation learning) - When the owner wants to teach an
+OpenCog controlled agent a behavior by imitation, he/she gives the pet an exemplar. To
+teach a virtual pet "fetch" for instance, the owner is going to throw a stick, run to it, grab
+it with his/her mouth and come back to its initial position.
+• Exemplar: (in the context of MOSES) – Candidate chosen as the core of a new deme, or
+as the central program within a deme, to be varied by representation building for ongoing
+exploration of program space.
+• Explicit Knowledge Representation: Knowledge representation in which individual,
+easily humanly identifiable pieces of knowledge correspond to individual elements in a knowledge
+store (elements that are explicitly there in the software and accessible via very rapid,
+deterministic operations)
+• Extension: In PLN, the extension of a node refers to the instances of the category that
+the node represents. In contrast is the intension.
+• Fishgram (Frequent and Interesting Sub-hypergraph Mining): A pattern mining
+algorithm for identifying frequent and/or interesting sub-hypergraphs in the Atomspace.
+• First-Order Inference (FOI): The subset of PLN that handles Logical Links not involving
+VariableAtoms or higher-order functions. The other aspect of PLN, Higher-Order
+Inference, uses Truth Value formulas derived from First-Order Inference.
+332 A Glossary
+• Forgetting: The process of removing Atoms from the in-RAM portion of Atomspace, when
+RAM gets short and they are judged not as valuable to retain in RAM as other Atoms. This
+is commonly done using the LTI values of the Atoms (removing lowest LTI-Atoms, or more
+complex strategies involving the LTI of groups of interconnected Atoms). May be done by
+a dedicated Forgetting MindAgent. VLTI may be used to determine the fate of forgotten
+Atoms.
+• Forward Chainer: A control mechanism (MindAgent) for PLN inference, that works by
+taking existing Atoms and deriving conclusions from them using PLN rules, and then iterating
+this process. The goal is to derive new Atoms that are interesting according to some
+given criterion.
+• Frame2Atom: A simple system of hand-coded rules for translating the output of RelEx2Frame
+(logical representation of semantic relationships using FrameNet relationships) into Atoms.
+• Freezing: Saving Atoms from the in-RAM Atomspace to disk.
+• General Intelligence: Often used in an informal, commonsensical sense, to mean the
+ability to learn and generalize beyond specific problems or contexts. Has been formalized
+in various ways as well, including formalizations of the notion of ”achieving complex goals
+in complex environments” and ”achieving complex goals in complex environments using
+limited resources.” Usually interpreted as a fuzzy concept, according to which absolutely
+general intelligence is physically unachievable, and humans have a significant level of general
+intelligence, but far from the maximally physically achievable degree.
+• Generalized Hypergraph: A hypergraph with some additional features, such as links
+that point to links, and nodes that are seen as ”containing” whole sub-hypergraphs. This is
+the most natural and direct way to mathematically/visually model the Atomspace.
+• Generator: In the PLN design, a rule is denoted a generator if it can produce its consequent
+without needing premises (e.g. LookupRule, which just looks it up in the AtomSpace). See
+composer.
+• Global, Distributed Memory: Memory that stores items as implicit knowledge, with
+each memory item spread across multiple components, stored as a pattern of organization
+or activity among them.
+• Glocal Memory: The storage of items in memory in a way that involves both localized
+and global, distributed aspects.
+• Goal: An Atom representing a function that a system (like OpenCog) is supposed to spend
+a certain non-trivial percentage of its attention optimizing. The goal, informally speaking,
+is to maximize the Atom’s truth value.
+• Goal, Implicit: A goal that an intelligent system, in practice, strives to achieve; but that
+is not explicitly represented as a goal in the system’s knowledge base.
+• Goal, Explicit: A goal that an intelligent system explicitly represents in its knowledge
+base, and expends some resources trying to achieve. Goal Nodes (which may be Nodes or,
+e.g. ImplicationLinks) are used for this purpose in OpenCog.
+• Goal-Driven Learning: Learning that is driven by the cognitive schematic i.e. by the quest
+of figuring out which procedures can be expected to achieve a certain goal in a certain sort
+of context.
+• Grounded SchemaNode: See SchemaNode, Grounded.
+• Hebbian Learning: An aspect of Attention Allocation, centered on creating and updating
+HebbianLinks, which represent the simultaneous importance of the Atoms joined by the
+HebbianLink.
+A.2 Glossary of Specialized Terms 333
+• Hebbian Links: Links recording information about the associative relationship (cooccurrence)
+between Atoms. These include symmetric and asymmetric HebbianLinks.
+• Heterarchical Network: A network of linked elements in which the semantic relationships
+associated with the links are generally symmetrical (e.g. they may be similarity links, or
+symmetrical associative links). This is one important sort of subnetwork of an intelligent
+system; see Dual Network.
+• Hierarchical Network: A network of linked elements in which the semantic relationships
+associated with the links are generally asymmetrical, and the parent nodes of a node have
+a more general scope and some measure of control over their children (though there may be
+important feedback dynamics too). This is one important sort of subnetwork of an intelligent
+system; see Dual Network.
+• Higher-Order Inference (HOI): PLN inference involving variables or higher-order functions.
+In contrast to First-Order Inference (FOI).
+• Hillclimbing: A general term for greedy, local optimization techniques, including some
+relatively sophisticated ones that involve ”mildly nonlocal” jumps.
+• Human-Level Intelligence: General intelligence that’s ”as smart as” human general intelligence,
+even if in some respects quite unlike human intelligence. An informal concept,
+which generally doesn’t come up much in CogPrime work, but is used frequently by some
+other AI theorists.
+• Human-Like Intelligence: General intelligence with properties and capabilities broadly
+resembling those of humans, but not necessarily precisely imitating human beings.
+• Hypergraph: A conventional hypergraph is a collection of nodes and links, where each
+link may span any number of nodes. OpenCog makes use of generalized hypergraphs (the
+Atomspace is one of these).
+• Imitation Learning: Learning via copying what some other agent is observed to do.
+• Implication: Often refers to an ImplicationLink between two PredicateNodes, indicating
+an (extensional, intensional or mixed) logical implication.
+• Implicit Knowledge Representation: Representation of knowledge via having easily
+humanly identifiable pieces of knowledge correspond to the pattern of organization and/or
+dynamics of elements, rather than via having individual elements correspond to easily humanly
+identifiable pieces of knowledge.
+• Importance: A generic term for the Attention Values associated with Atoms. Most commonly
+these are STI (short term importance) and LTI (long term importance) values. Other
+importance values corresponding to various different time scales are also possible. In general
+an importance value reflects an estimate of the likelihood an Atom will be useful to the
+system over some particular future time-horizon. STI is generally relevant to processor time
+allocation, whereas LTI is generally relevant to memory allocation.
+• Importance Decay: The process of Atom importance values (e.g. STI and LTI) decreasing
+over time, if the Atoms are not utilized. Importance decay rates may in general be contextdependent.
+• Importance Spreading: A synonym for Importance Updating, intended to highlight the
+similarity with ”activation spreading” in neural and semantic networks.
+• Importance Updating: The CIM-Dynamic that periodically (frequently) updates the STI
+and LTI values of Atoms based on their recent activity and their relationships.
+• Imprecise Truth Value: Peter Walley’s imprecise truth values are intervals [L,U], interpreted
+as lower and upper bounds of the means of probability distributions in an envelope
+334 A Glossary
+of distributions. In general, the term may be used to refer to any truth value involving
+intervals or related constructs, such as indefinite probabilities.
+• Indefinite Probability: An extension of a standard imprecise probability, comprising a
+credible interval for the means of probability distributions governed by a given second-order
+distribution.
+• Indefinite Truth Value: An OpenCog TruthValue object wrapping up an indefinite probability
+• Induction: In PLN, a specific inference rule (A → B, A → C, therefore B → C). In general,
+the process of heuristically inferring that what has been seen in multiple examples, will be
+seen again in new examples. Induction in the broad sense, may be carried out in OpenCog
+by methods other than PLN induction. When emphasis needs to be laid on the particular
+PLN inference rule, the phrase ”PLN Induction” is used.
+• Inference: Generally speaking, the process of deriving conclusions from assumptions. In
+an OpenCog context, this often refers to the PLN inference system. Inference in the broad
+sense is distinguished from general learning via some specific characteristics, such as the
+intrinsically incremental nature of inference: it proceeds step by step.
+• Inference Control: A cognitive process that determines what logical inference rule (e.g.
+what PLN rule) is applied to what data, at each point in the dynamic operation of an
+inference process.
+• Integrative AGI: An AGI architecture, like CogPrime, that relies on a number of different
+powerful, reasonably general algorithms all cooperating together. This is different from an
+AGI architecture that is centered on a single algorithm, and also different than an AGI
+architecture that expects intelligent behavior to emerge from the collective interoperation
+of a number of simple elements (without any sophisticated algorithms coordinating their
+overall behavior).
+• Integrative Cognitive Architecture: A cognitive architecture intended to support integrative
+AGI.
+• Intelligence: An informal, natural language concept. ”General intelligence” is one slightly
+more precise specification of a related concept; ”Universal intelligence” is a fully precise
+specification of a related concept. Other specifications of related concepts made in the
+particular context of CogPrime research are the pragmatic general intelligence and the
+efficient pragmatic general intelligence.
+• Intension: In PLN, the intention of a node consists of Atoms representing properties of
+the entity the node represents.
+• Intentional memory: A system’s knowledge of its goals and their subgoals, and associations
+between these goals and procedures and contexts (e.g. cognitive schematics).
+• Internal Simulation World: A simulation engine used to simulate an external environment
+(which may be physical or virtual), used by an AGI system as its ”mind’s eye” in order
+to experiment with various action‘ q sequences and envision their consequences, or observe
+the consequences of various hypothetical situations. Particularly important for dealing with
+episodic knowledge.
+• Interval Algebra: Allen Interval Algebra, a mathematical theory of the relationships between
+time intervals. CogPrime utilizes a fuzzified version of classic Interval Algebra.
+• IRC Learning (Imitation, Reinforcement, Correction): Learning via interaction with
+a teacher, involving a combination of imitating the teacher, getting explicit reinforcement
+signals from the teacher, and having one’s incorrect or suboptimal behaviors guided toward
+betterness by the teacher in real-time. This is a large part of how young humans learn.
+A.2 Glossary of Specialized Terms 335
+• Knowledge Base: A shorthand for the totality of knowledge possessed by an intelligent
+system during a certain interval of time (whether or not this knowledge is explicitly represented).
+Put differently: this is an intelligence’s total memory contents (inclusive of all
+types of memory) during an interval of time.
+• Language Comprehension: The process of mapping natural language speech or text into
+a more ”cognitive”, largely language-independent representation. In OpenCog this has been
+done by various pipelines consisting of dedicated natural language processing tools, e.g. a
+pipeline: text → Link Parser → RelEx → RelEx2Frame → Frame2Atom Atomspace; and
+alternatively a pipeline Link Parser → Link2Atom → Atomspace. It would also be possible
+to do language comprehension purely via PLN and other generic OpenCog processes,
+without using specialized language processing tools.
+• Language Generation: The process of mapping (largely language-independent) cognitive
+content into speech or text. In OpenCog this has been done by various pipelines consisting of
+dedicated natural language processing tools, e.g. a pipeline: Atomspace → NLGen → text;
+or more recently Atomspace → Atom2Link → surface realization → text. It would also be
+possible to do language generation purely via PLN and other generic OpenCog processes,
+without using specialized language processing tools.
+• Language Processing: Processing of human language is decomposed, in CogPrime, into
+Language Comprehension, Language Generation, and Dialogue Control.
+• Learning: In general, the process of a system adapting based on experience, in a way that
+increases its intelligence (its ability to achieve its goals). The theory underlying CogPrime
+doesn’t distinguish learning from reasoning, associating, or other aspects of intelligence.
+• Learning Server: In some OpenCog configurations, this refers to a software server that
+performs ”offline” learning tasks (e.g. using MOSES or hillclimbing), and is in communication
+with an Operational Agent Controller software server that performs real-time agent
+control and dispatches learning tasks to and receives results from the Learning Server.
+• Linguistic Links: A catch-all term for Atoms explicitly representing linguistic content,
+e.g. WordNode, SentenceNode, CharacterNode.
+• Link: A type of Atom, representing a relationship among one or more Atoms. Links and
+Nodes are the two basic kinds of Atoms.
+• Link Parser: A natural language syntax parser, created by Sleator and Temperley at
+Carnegie-Mellon University, and currently used as part of OpenCogPrime’s natural language
+comprehension and natural language generation system.
+• Link2Atom: A system for translating link parser links into Atoms. It attempts to resolve
+precisely as much ambiguity as needed in order to translate a given assemblage of link parser
+links into a unique Atom structure.
+• Lobe: A term sometimes used to refer to a portion of a distributed Atomspace that lives
+in a single computational process. Often different lobes will live on different machines.
+• Localized Memory: Memory that stores each item using a small number of closelyconnected
+elements.
+• Logic: In an OpenCog context, this usually refers to a set of formal rules for translating
+certain combinations of Atoms into ”conclusion” Atoms. The paradigm case at present is the
+PLN probabilistic logic system, but OpenCog can also be used together with other logics.
+• Logical Links: Any Atoms whose truth values are primarily determined or adjusted via
+logical rules, e.g. PLN’s InheritanceLink, SimilarityLink, ImplicationLink, etc. The term
+isn’t usually applied to other links like HebbianLinks whose semantics isn’t primarily logic-
+336 A Glossary
+based, even though these other links can be processed via (e.g. PLN) logical inference via
+interpreting them logically.
+• Lojban: A constructed human language, with a completely formalized syntax and a highly
+formalized semantics, and a small but active community of speakers. In principle this seems
+an extremely good method for communication between humans and early-stage AGI systems.
+• Lojban++: A variant of Lojban that incorporates English words, enabling more flexible
+expression without the need for frequent invention of new Lojban words.
+• Long Term Importance (LTI): A value associated with each Atom, indicating roughly
+the expected utility to the system of keeping that Atom in RAM rather than saving it to
+disk or deleting it. It’s possible to have multiple LTI values pertaining to different time
+scales, but so far practical implementation and most theory has centered on the option of
+a single LTI value.
+• LTI: Long Term Importance
+• Map: A collection of Atoms that are interconnected in such a way that they tend to be
+commonly active (i.e. to have high STI, e.g. enough to be in the AttentionalFocus, at the
+same time).
+• Map Encapsulation: The process of automatically identifying maps in the Atomspace,
+and creating Atoms that ”encapsulate” them; the Atom encapsulation a map would link to
+all the Atoms in the map. This is a way of making global memory into local memory, thus
+making the system’s memory glocal and explicitly manifesting the ”cognitive equation.”
+This may be carried out via a dedicated MapEncapsulation MindAgent.
+• Map Formation: The process via which maps form in the Atomspace. This need not be
+explicit; maps may form implicitly via the action of Hebbian Learning. It will commonly
+occur that Atoms frequently co-occurring in the AttentionalFocus, will come to be joined
+together in a map.
+• Memory Types: In CogPrime
+this generally refers to the different types of memory that are embodied in different data
+structures or processes in the CogPrime
+architecture, e.g. declarative (semantic), procedural, attentional, intentional, episodic, sensorimotor.
+• Mind-World Correspondence Principle: The principle that, for a mind to display
+efficient pragmatic general intelligence relative to a world, it should display many of the
+same key structural properties as that world. This can be formalized by modeling the world
+and mind as probabilistic state transition graphs, and saying that the categories implicit
+in the state transition graphs of the mind and world should be inter-mappable via a highprobability
+morphism.
+• Mind OS: A synonym for the OpenCog Core.
+• MindAgent: An OpenCog software object, residing in the CogServer, that carries out
+some processes in interaction with the Atomspace. A given conceptual cognitive process
+(e.g. PLN inference, Attention allocation, etc.) may be carried out by a number of different
+MindAgents designed to work together.
+• Mindspace: A model of the set of states of an intelligent system as a geometrical space,
+imposed by assuming some metric on the set of mind-states. This may be used as a tool for
+formulating general principles about the dynamics of generally intelligent systems.
+• Modulators: Parameters in the Psi model of motivated, emotional cognition, that modulate
+the way a system perceives, reasons about and interacts with the world.
+A.2 Glossary of Specialized Terms 337
+• MOSES (Meta-Optimizing Semantic Evolutionary Search): An algorithm for procedure
+learning, which in the current implementation learns programs in the Combo language.
+MOSES is an evolutionary learning system, which differs from typical genetic programming
+systems in multiple aspects including: a subtler framework for managing multiple ”demes”
+or ”islands” of candidate programs; a library called Reduct for placing programs in Elegant
+Normal Form; and the use of probabilistic modeling in place of, or in addition to, mutation
+and crossover as means of determining which new candidate programs to try.
+• Motoric: Pertaining to the control of physical actuators, e.g. those connected to a robot.
+May sometimes be used to refer to the control of movements of a virtual character as well.
+• Moving Bubble of Attention: The Attentional Focus of a CogPrime system.
+• Natural Language Comprehension: See Language Comprehension
+• Natural Language Generation: See Language Generation
+• Natural Language Processing (NLP): See Language Processing
+• NLGen: Software for carrying out the surface realization phase of natural language generation,
+via translating collections of RelEx output relationships into English sentences.
+Was made functional for simple sentences and some complex sentences; not currently under
+active development, as work has shifted to the related Atom2Link approach to language
+generation.
+• Node: A type of Atom. Links and Nodes are the two basic kinds of Atoms. Nodes, mathematically,
+can be thought of as "0-ary" links. Some types of Nodes refer to external or
+mathematical entities (e.g. WordNode, NumberNode); others are purely abstract, e.g. a
+ConceptNode is characterized purely by the Links relating it to other atoms. Grounded-
+PredicateNodes and GroundedSchemaNodes connect to explicitly represented procedures
+(sometimes in the Combo language); ungrounded PredicateNodes and SchemaNodes are
+abstract and, like ConceptNodes, purely characterized by their relationships.
+• Node Probability: Many PLN inference rules rely on probabilities associated with Nodes.
+Node probabilities are often easiest to interpret in a specific context, e.g. the probability
+P(cat) makes obvious sense in the context of a typical American house, or in the context
+of the center of the sun. Without any contextual specification, P(A) is taken to mean
+the probability that a randomly chosen occasion of the system’s experience includes some
+instance of A.
+• Novamente Cognition Engine (NCE): A proprietary proto-AGI software system, the
+predecessor to OpenCog. Many parts of the NCE were open-sourced to form portions of
+OpenCog, but some NCE code was not included in OpenCog; and now OpenCog includes
+multiple aspects and plenty of code that was not in NCE.
+• OpenCog: A software framework intended for development of AGI systems, and also for
+narrow-AI application using tools that have AGI applications. Co-designed with the Cog-
+Prime cognitive architecture, but not exclusively bound to it.
+• OpenCog Prime (OCP): The implementation of the CogPrime cognitive architecture
+within the OpenCog software framework.
+• OpenPsi: CogPrime’s architecture for motivation-driven action selection, which is based
+on adapting Dorner’s Psi model for use in the OpenCog framework.
+• Operational Agent Controller (OAC): In some OpenCog configurations, this is a software
+server containing a CogServer devoted to real-time control of an agent (e.g. a virtual
+world agent, or a robot). Background, offline learning tasks may then be dispatched to other
+software processes, e.g. to a Learning Server.
+338 A Glossary
+• Pattern: In a CogPrime context, the term ”pattern” is generally used to refer to a process
+that produces some entity, and is judged simpler than that entity.
+• Pattern Mining: Pattern mining is the process of extracting an (often large) number of
+patterns from some body of information, subject to some criterion regarding which patterns
+are of interest. Often (but not exclusively) it refers to algorithms that are rapid or ”greedy”,
+finding a large number of simple patterns relatively inexpensively.
+• Pattern Recognition: The process of identifying and representing a pattern in some
+substrate (e.g. some collection of Atoms, or some raw perceptual data, etc.).
+• Patternism: The philosophical principle holding that, from the perspective of engineering
+intelligent systems, it is sufficient and useful to think about mental processes in terms of
+(static and dynamical) patterns.
+• Perception: The process of understanding data from sensors. When natural language is
+ingested in textual format, this is generally not considered perceptual. Perception may be
+taken to encompass both pre-processing that prepares sensory data for ingestion into the
+Atomspace, processing via specialized perception processing systems like DeSTIN that are
+connected to the Atomspace, and more cognitive-level process within the Atomspace that
+is oriented toward understanding what has been sensed.
+• Piagetan Stages: A series of stages of cognitive development hypothesized by developmental
+psychologist Jean Piaget, which are easy to interpret in the context of developing
+CogPrime systems. The basic stages are: Infantile, Pre-operational, Concrete Operational
+and Formal. Post-formal stages have been discussed by theorists since Piaget and seem
+relevant to AGI, especially advanced AGI systems capable of strong self-modification.
+• PLN: short for Probabilistic Logic Networks
+• PLN, First-Order: See First-Order Inference
+• PLN, Higher-Order: See Higher-Order Inference
+• PLN Rules: A PLN Rule takes as input one or more Atoms (the ”premises”, usually Links),
+and output an Atom that is a ”logical conclusion” of those Atoms. The truth value of the
+consequence is determined by a PLN Formula associated with the Rule.
+• PLN Formulas: A PLN Formula, corresponding to a PLN Rule, takes the TruthValues
+corresponding to the premises and produces the TruthValue corresponding to the conclusion.
+A single Rule may correspond to multiple Formulas, where each Formula deals with a
+different sort of TruthValue.
+• Pragmatic General Intelligence: A formalization of the concept of general intelligence,
+based on the concept that general intelligence is the capability to achieve goals in environments,
+calculated as a weighted average over some fuzzy set of goals and environments.
+• Predicate Evaluation: The process of determining the Truth Value of a predicate, embodied
+in a PredicateNode. This may be recursive, as the predicate referenced internally by a
+Grounded PredicateNode (and represented via a Combo program tree) may itself internally
+reference other PredicateNodes.
+• Probabilistic Logic Networks (PLN): A mathematical and conceptual framework for
+reasoning under uncertainty, integrating aspects of predicate and term logic with extensions
+of imprecise probability theory. OpenCogPrime’s central tool for symbolic reasoning.
+• Procedural Knowledge: Knowledge regarding which series of actions (or action-combinations)
+are useful for an agent to undertake in which circumstances. In CogPrime these may be
+learned in a number of ways, e.g. via PLN or via Hebbian learning of Schema Maps, or via
+explicit learning of Combo programs via MOSES or hillclimbing. Procedures are represented
+as SchemaNodes or Schema Maps.
+A.2 Glossary of Specialized Terms 339
+• Procedure Evaluation/Execution: A general term encompassing both Schema Execution
+and Predicate Evaluation, both of which are similar computational processes involving
+manipulation of Combo trees associated with ProcedureNodes.
+• Procedure Learning: Learning of procedural knowledge, based on any method, e.g. evolutionary
+learning (e.g. MOSES), inference (e.g. PLN), reinforcement learning (e.g. Hebbian
+learning).
+• Procedure Node: A SchemaNode or PredicateNode
+• Psi: A model of motivated action and emotion, originated by Dietrich Dorner and further
+developed by Joscha Bach, who incorporated it in his proto-AGI system MicroPsi. OpenCog-
+Prime’s motivated-action component, OpenPsi, is roughly based on the Psi model.
+• Psynese: A system enabling different OpenCog instances to communicate without using
+natural language, via directly exchanging Atom subgraphs, using a special system to map
+references in the speaker’s mind into matching references in the listener’s mind.
+• Psynet Model: An early version of the theory of mind underlying CogPrime, referred to
+in some early writings on the Webmind AI Engine and Novamente Cognition Engine. The
+concepts underlying the psynet model are still part of the theory underlying CogPrime, but
+the name has been deprecated as it never really caught on.
+• Reasoning: See inference
+• Reduct: A code library, used within MOSES, applying a collection of hand-coded rewrite
+rules that transform Combo programs into Elegant Normal Form.
+• Region Connection Calculus: A mathematical formalism describing a system of basic
+operations among spatial regions. Used in CogPrime as part of spatial inference to provide
+relations and rules to be referenced via PLN and potentially other subsystems.
+• Reinforcement Learning: Learning procedures via experience, in a manner explicitly
+guided to cause the learning of procedures that will maximize the system’s expected future
+reward. CogPrime does this implicitly whenever it tries to learn procedures that will maximize
+some Goal whose Truth Value is estimated via an expected reward calculation (where
+”reward” may mean simply the Truth Value of some Atom defined as ”reward”). Goal-driven
+learning is more general than reinforcement learning as thus defined; and the learning that
+CogPrime does, which is only partially goal-driven, is yet more general.
+• RelEx: A software system used in OpenCog as part of natural language comprehension, to
+map the output of the link parser into more abstract semantic relationships. These more
+abstract relationships may then be entered directly into the Atomspace, or they may be
+further abstracted before being entered into the Atomspace, e.g. by RelEx2Frame rules.
+• RelEx2Frame: A system of rules for translating RelEx output into Atoms, based on the
+FrameNet ontology. The output of the RelEx2Frame rules make use of the FrameNet library
+of semantic relationships. The current (2012) RelEx2Frame rule-based is problematic and
+the RelEx2Frame system is deprecated as a result, in favor of Link2Atom. However, the
+ideas embodied in these rules may be useful; if cleaned up the rules might profitably be
+ported into the Atomspace as ImplicationLinks.
+• Representation Building: A stage within MOSES, wherein a candidate Combo program
+tree (within a deme) is modified by replacing one or more tree nodes with alternative tree
+nodes, thus obtaining a new, different candidate program within that deme. This process
+currently relies on hand-coded knowledge regarding which types of tree nodes a given tree
+node should be experimentally replaced with (e.g. an AND node might sensibly be replaced
+with an OR node, but not so sensibly replaced with a node representing a ”kick” action).
+340 A Glossary
+• Request for Services (RFS): In CogPrime’s Goal-driven action system, a RFS is a
+package sent from a Goal Atom to another Atom, offering it a certain amount of STI
+currency if it is able to deliver the goal what it wants (an increase in its Truth Value).
+RFS’s may be passed on, e.g. from goals to subgoals to sub-subgoals, but eventually an
+RFS reaches a Grounded SchemaNode, and when the corresponding Schema is executed,
+the payment implicit in the RFS is made.
+• Robot Preschool: An AGI Preschool in our physical world, intended for robotically embodied
+AGIs.
+• Robotic Embodiment: Using an AGI to control a robot. The AGI may be running on
+hardware physically contained in the robot, or may run elsewhere and control the robot via
+networking methods such as wifi.
+• Scheduler: Part of the CogServer that controls which processes (e.g. which MindAgents)
+get processor time, at which point in time.
+• Schema: A ”script” describing a process to be carried out. This may be explicit, as in the
+case of a GroundedSchemaNode, or implicit, as the case in Schema maps or ungrounded
+SchemaNodes.
+• Schema Encapsulation: The process of automatically recognizing a Schema Map in an
+Atomspace, and creating a Combo (or other) program embodying the process carried out
+by this Schema Map, and then storing this program in the Procedure Repository and
+associating it with a particular SchemaNode. This translates distributed, global procedural
+memory into localized procedural memory. It’s a special case of Map Encapsulation.
+• Schema Execution: The process of ”running” a Grounded Schema, similar to running a
+computer program. Or, phrased alternately: The process of executing the Schema referenced
+by a Grounded SchemaNode. This may be recursive, as the predicate referenced internally by
+a Grounded SchemaNode (and represented via a Combo program tree) may itself internally
+reference other Grounded SchemaNodes.
+• Schema, Grounded: A Schema that is associated with a specific executable program
+(either a Combo program or, say, C++ code)
+• Schema Map: A collection of Atoms, including SchemaNodes, that tend to be enacted
+in a certain order (or set of orders), thus habitually enacting the same process. This is a
+distributed, globalized way of storing and enacting procedures.
+• Schema, Ungrounded: A Schema that represents an abstract procedure, not associated
+with any particular executable program.
+• Schematic Implication: A general, conceptual name for implications of the form ((Context
+AND Procedure) IMPLIES Goal)
+• SegSim: A name for the main algorithm underlying the NLGen language generation software.
+The algorithm is based on segmenting a collection of Atoms into small parts, and
+matching each part against memory to find, for each part, cases where similar Atomcollections
+already have known linguistic expression.
+• Self-Modification: A term generally used for AI systems that can purposefully modify
+their core algorithms and representations. Formally and crisply distinguishing this sort of
+”strong self-modification” from ”mere” learning is a tricky matter.
+• Sensorimotor: Pertaining to sensory data, motoric actions, and their combination and
+intersection.
+• Sensory: Pertaining to data received by the AGI system from the outside world. In a
+CogPrime system that perceives language directly as text, the textual input will generally
+A.2 Glossary of Specialized Terms 341
+not be considered as ”sensory” (on the other hand, speech audio data would be considered
+as ”sensory”).
+• Short Term Importance: A value associated with each Atom, indicating roughly the
+expected utility to the system of keeping that Atom in RAM rather than saving it to disk
+or deleting it. It’s possible to have multple LTI values pertaining to different time scales,
+but so far practical implementation and most theory has centered on the option of a single
+LTI value.
+• Similarity: a link type indicating the probabilistic similarity between two different Atoms.
+Generically this is a combination of Intensional Similarity (similarity of properties) and
+Extensional Similarity (similarity of members).
+• Simple Truth Value: a TruthValue involving a pair (s,d) indicating strength (e.g. probability
+or fuzzy set membership) and confidence d. d may be replaced by other options such
+as a count n or a weight of evidence w.
+• Simulation World: See Internal Simulation World
+• SMEPH (Self-Modifying Evolving Probabilistic Hypergraphs): a style of modeling
+systems, in which each system is associated with a derived hypergraph
+• SMEPH Edge: A link in a SMEPH derived hypergraph, indicating an empirically observed
+relationship (e.g. inheritance or similarity) between two
+• SMEPH Vertex: A node in a SMEPH derived hypergraph representing a system, indicating
+a collection of system states empirically observed to arise in conjunction with the same
+external stimuli
+• Spatial Inference: PLN reasoning including Atoms that explicitly reference spatial relationships
+• Spatiotemporal Inference: PLN reasoning including Atoms that explicitly reference spatial
+and temporal relationships
+• STI: Shorthand for Short Term Importance
+• Strength: The main component of a TruthValue object, lying in the interval [0,1], referring
+either to a probability (in cases like InheritanceLink, SimilarityLink, EquivalenceLink,
+ImplicationLink, etc.) or a fuzzy value (as in MemberLink, EvaluationLink).
+• Strong Self-Modification: This is generally used as synonymous with Self-Modification,
+in a CogPrime context.
+• Subsymbolic: Involving processing of data using elements that have no correspondence to
+natural language terms, nor abstract concepts; and that are not naturally interpreted as
+symbolically ”standing for” other things. Often used to refer to processes such as perception
+processing or motor control, which are concerned with entities like pixels or commands like
+”rotate servomotor 15 by 10 degrees theta and 55 degrees phi.” The distinction between
+”symbolic” and ”subsymbolic” is conventional in the history of AI, but seems difficult to
+formalize rigorously. Logic-based AI systems are typically considered ”symbolic”, yet
+• Supercompilation: A technique for program optimization, which globally rewrites a program
+into a usually very different looking program that does the same thing. A prototype
+supercompiler was applied to Combo programs with successful results.
+• Surface Realization: The process of taking a collection of Atoms and transforming them
+into a series of words in a (usually natural) language. A stage in the overall process of
+language generation.
+• Symbol Grounding: The mapping of a symbolic term into perceptual or motoric entities
+that help define the meaning of the symbolic term. For instance, the concept ”Cat” may be
+342 A Glossary
+grounded by images of cats, experiences of interactions with cats, imaginations of being a
+cat, etc.
+• Symbolic: Pertaining to the formation or manipulation of symbols, i.e. mental entities that
+are explicitly constructed to represent other entities. Often contrasted with subsymbolic.
+• Syntax-Semantics Correlation: In the context of MOSES and program learning more
+broadly, this refers to the property via which distance in syntactic space (distance between
+the syntactic structure of programs, e.g. if they’re represented as program trees) and semantic
+space (distance between the behaviors of programs, e.g. if they’re represented as
+sets of input/output pairs) are reasonably well correlated. This can often happen among
+sets of programs that are not too widely dispersed in program space. The Reduct library
+is used to place Combo programs in Elegant Normal Form, which increases the level of
+syntax-semantics corellation between them. The programs in a single MOSES deme are
+often closely enough clustered together that they have reasonably high syntax-semantics
+correlation.
+• System Activity Table: An OpenCog component that records information regarding
+what a system did in the past.
+• Temporal Inference: Reasoning that heavily involves Atoms representing temporal information,
+e.g. information about the duration of events, or their temporal relationship
+(before, after, during, beginning, ending). As implemented in CogPrime, makes use of an
+uncertain version of Allen Interval Algebra.
+• Truth Value: A package of information associated with an Atom, indicating its degree
+of truth. SimpleTruthValue and IndefiniteTruthValue are two common, particular kinds.
+Multiple truth values associated with the same Atom from different perspectives may be
+grouped into CompositeTruthValue objects.
+• Universal Intelligence: A technical term introduced by Shane Legg and Marcus Hutter,
+describing (roughly speaking) the average capability of a system to carry out computable
+goals in computable environments, where goal/environment pairs are weighted via the length
+of the shortest program for computing them.
+• Urge: In OpenPsi, an Urge develops when a Demand deviates from its target range.
+• Very Long Term Importance (VLTI): A bit associated with Atoms, which determines
+whether, when an Atom is forgotten (removed from RAM), it is saved to disk (frozen) or
+simply deleted.
+• Virtual AGI Preschool: A virtual world intended for AGI teaching/training/learning,
+bearing broad resemblance to the preschool environments used for young humans.
+• Virtual Embodiment: Using an AGI to control an agent living in a virtual world or game
+world, typically (but not necessarily) a 3D world with broad similarity to the everyday
+human world.
+• Webmind AI Engine: A predecessor to the Novamente Cognition Engine and OpenCog,
+developed 1997-2001 – with many similar concepts (and also some different ones) but quite
+different algorithms and software architecture
+References 343
+References
+AABL02. Nancy Alvarado, Sam S. Adams, Steve Burbeck, and Craig Latta. Beyond the turing test: Performance
+metrics for evaluating a computer simulation of the human mind. Development and
+Learning, International Conf. on, 0, 2002.
+AGBD + 08. Derek Abbott, Julio Gea-Banacloche, Paul C W Davies, Stuart Hameroff, Anton Zeilinger, Jens
+Eisert, Howard M. Wiseman, Sergey M. Bezrukov, and Hans Frauenfelder. Plenary debate: quantum
+effects in biology?trivial or not? Fluctuation and Noise Letters 8(1), pp. C5ÐC26, 2008.
+AL03. J. R. Anderson and C. Lebiere. The newell test for a theory of cognition. Behavioral and Brain
+Science, 26, 2003.
+AL09. Itamar Arel and Scott Livingston. Beyond the turing test. IEEE Computer, 42(3):90–91, March
+2009.
+AM01. J. S. Albus and A. M. Meystel. Engineering of Mind: An Introduction to the Science of Intelligent
+Systems. Wiley and Sons, 2001.
+Ami89. Daniel J. Amit. Modeling brain function – the world of attractor neural networks. Cambridge
+University Press, New York, USA, 1989.
+ARC09. I. Arel, D. Rose, and R. Coop. Destin: A scalable deep learning architecture with application
+to high-dimensional robust pattern recognition. Proc. AAAI Workshop on Biologically Inspired
+Cognitive Architectures, 2009.
+ARK09a. I. Arel, D. Rose, and T. Karnowski. A deep learning architecture comprising homogeneous cortical
+circuits for scalable spatiotemporal pattern inference. NIPS 2009 Workshop on Deep Learning for
+Speech Recognition and Related Applications, 2009.
+Ark09b. Ronald Arkin. Governing Lethal Behavior in Autonomous Robots. Chapman and Hall, 2009.
+Arl75. P. K. Arlin. Cognitive development in adulthood: A fifth stage?, volume 11. Developmental
+Psychology, 1975.
+Arm04. J. Andrew Armour. Cardiac neuronal hierarchy in health and disease. Am J Physiol Regul Integr
+Comp Physiol 287:, 2004.
+Baa97. Bernard Baars. In the Theater of Consciousness: The Workspace of the Mind. Oxford University
+Press, 1997.
+Bac09. Joscha Bach. Principles of Synthetic Intelligence. Oxford University Press, 2009.
+Bar02. Albert-Laszlo Barabasi. Linked: The New Science of Networks. Perseus, 2002.
+Bat79. Gregory Bateson. Mind and Nature: A Necessary Unity. New York: Ballantine, 1979.
+BC94. S. Baron-Cohen. Mindblindness: An Essay on Autism and Theory of Mind. MIT Press, 1994.
+BDL93. Louise Barrett, Robin Dunbar, and John Lycett. Human Evolutionary Psychology. Princeton
+University Press, 1993.
+BDS03. S Ben-David and R Schuller. Exploiting task relatedness for learning multiple tasks. Proceedings
+of the 16th Annual Conference on Learning Theory, 2003.
+BF71. J. D. Bransford and J. Franks. The abstraction of linguistic ideas. Cognitive Psychology, 2:331–350,
+1971.
+BF09. Bernard Baars and Stan Franklin. Consciousness is computational: The lida model of global
+workspace theory. International Journal of Machine Consciousness., 2009.
+bGBK02.
+1. Goertzel, Andrei Klimov Ben, and Arkady Klimov. Supercompiling java programs, 2002.
+BH05. Sebastian Bader and Pascal Hitzler. Dimensions of neural-symbolic integration - a structured
+survey. In S. Artemov, H. Barringer, A. S. d’Avila Garcez, L. C. Lamb, and J. Woods., editors,
+We Will Show Them: Essays in Honour of Dov Gabbay, volume 1, pages 167–194. College
+Publications, 2005.
+Bi01. M-m Bi, G-q andPoo. Synaptic modifications by correlated activity: Hebb’s postulate revisited.
+Ann Rev Neurosci ; 24:139-166, 2001.
+Bic88. M. Bickhard. Piaget on variation and selection models: Structuralism, logical necessity, and interactivism.
+Human Development, 31:274–312, 1988.
+Bil05. Philip Bille. A survey on tree edit distance and related problems. Theoretical Computer Science,
+337:2005, 2005.
+BO09. A. Baranes and Pierre-Yves Oudeyer. R-iac: Robust intrinsically motivated active learning. Proc.
+of the IEEE International Conf. on Learning and Development, Shanghai, China., 33, 2009.
+Bol98. B. Bollobas. Modern Graph Theory. Springer, 1998.
+344 A Glossary
+Bos02. Nick Bostrom. Existential risks. Journal of Evolution and Technology, 9, 2002.
+Bos03. Nick Bostrom. Ethical issues in advanced artificial intelligence. In Iva Smit, editor, Cognitive,
+Emotive and Ethical Aspects of Decision Making in Humans and in Artificial Intelligence, volume
+2., pages 12–17. 2003.
+Bro84. J. Broughton. Not beyond formal operations, but beyond piaget. In M. Commons, F. Richards, and
+C. Armon, editors, Beyond Formal Operations: Late Adolescent and Adult Cognitive Development,
+pages 395–411. Praeger. New York, 1984.
+BS04. B. Bakker and Juergen Schmidhuber. Hierarchical reinforcement learning based on subgoal discovery
+and subpolicy specialization. Proc. of the 8-th Conf. on Intelligent Autonomous Systems,
+2004.
+Buc03. Mark Buchanan. Small World: Uncovering Nature’s Hidden Networks. Phoenix, 2003.
+Bur62. C MacFarlane Burnet. The Integrity of the Body. Harvard University Press, 1962.
+BW88. R. W. Byrne and A. Whiten. Machiavellian Intelligence. Clarendon Press, 1988.
+BZ03. Selmer Bringsjord and M Zenzen. Superminds: People Harness Hypercomputation, and More.
+Kluwer, 2003.
+BZGS06. B. Bakker, V. Zhumatiy, G. Gruener, and Juergen Schmidhuber. Quasi-online reinforcement
+learning for robots. Proc. of the International Conf. on Robotics and Automation, 2006.
+Cal96. William Calvin. The Cerebral Code. MIT Press, 1996.
+Car85. S. Carey. Conceptual Change in Childhood. MIT Press, 1985.
+Car97. R Caruana. Multitask learning. Machine Learning, 1997.
+Cas85. R. Case. Intellectual development: Birth to adulthood. Academic Press, 1985.
+Cas04. N. L. Cassimatis. Grammatical processing using the mechanisms of physical inferences. In Proceedings
+of the Twentieth-Sixth Annual Conference of the Cognitive Science Society. 2004.
+Cas07. Nick Cassimatis. Adaptive algorithmic hybrids for human-level artificial intelligence. 2007.
+CB00. W. H. Calvin and D. Bickerton. Lingua ex Machina. MIT Press, 2000.
+CB06. Rory Conolly and Jerry Blancato. Computational modeling of the liver. NCCT BOSC
+Review, 2006. http://www.epa.gov/ncct/bosc_review/2006/files/07_Conolly_
+Liver_Model.pdf.
+CM07. Jie-Qi Chen and Gillian McNamee. What is Waldorf Education? Bridging: Assessment for Teaching
+and Learning in Early Childhood Classrooms, 2007.
+CP05. M. L. Commons and A. Pekker. Hierarchical complexity: A formal theory. http:
+//www.dareassociation.org/Papers/Hierarchical%20Complexity%20-%20A%
+20Formal%20Theory%20(Commons%20&%20Pekker).pdf, 2005.
+CRK82. M. Commons, F. Richards, and D. Kuhn. Systematic and metasystematic reasoning: a case for a
+level of reasoning beyond Piaget’s formal operations. Child Development, 53.:1058–1069, 1982.
+CS90. A. G. Cairns-Smith. Seven Clues to the Origin of Life: A Scientific Detective Story. Cambridge
+University Press, 1990.
+Cse06. Peter Csermely. Weak Links: Stabilizers of Complex Systems from Proteins to Social Networks.
+Springer, 2006.
+CSG07. Subhojit Chakraborty, Anders Sandberg, and Susan A Greenfield. Differential dynamics of transient
+neuronal assemblies in visual compared to auditory cortex. Experimental Brain Research,
+1432-1106, 2007.
+CTS + 98. M. Commons, E. J. Trudeau, S. A. Stein, F. A. Richards, and S. R. Krause. Hierarchical complexity
+of tasks shows the existence of developmental stages. Developmental Review. 18, 18.:237–278, 1998.
+Dam00. Antonio Damasio. The Feeling of What Happens. Harvest Books, 2000.
+Dav84. D. Davidson. Inquiries into Truth and Interpretation. Oxford: Oxford University Press, 1984.
+DC02. Roberts P D and Bell C C. Spike-timing dependent synaptic plasticity in biological systems.
+Biological Cybernetics, 87, 392-403, 2002.
+Den87. D. Dennett. The Intentional Stance. Cambridge, MA: MIT Press, 1987.
+Den91. Daniel Dennett. Consciousness Explained. Back Bay, 1991.
+DG05. Hugo De Garis. The Artilect War. ETC, 2005.
+DOP08. Wlodzislaw Duch, Richard Oentaryo, and Michel Pasquier. Cognitive architectures: Where do we
+go from here? Proc. of the Second Conf. on AGI, 2008.
+Dör02. Dietrich Dörner. Die Mechanik des Seelenwagens. Eine neuronale Theorie der Handlungsregulation.
+Verlag Hans Huber, 2002.
+EBJ + 97. J. Elman, E. Bates, M. Johnson, A. Karmiloff-Smith, D. Parisi, and K. Plunkett. Rethinking
+Innateness: A Connectionist Perspective on Development. MIT Press, 1997.
+
+References 345
+Ede93. Gerald Edelman. Neural darwinism: Selection and reentrant signaling in higher brain function.
+Neuron, 10, 1993.
+Elm91. J. Elman. Distributed representations, simple recurrent networks, and grammatical structure.
+Machine Learning, 7:195–226, 1991.
+EMC12. Effective-Mind-Control.com. Cellular memory in organ transplants. Effective
+Mind Control,, 2012. http://www.effective-mind-control.com/
+cellular-memory-in-organ-transplants.html, updated Feb 1 2012.
+ES00. G. Engelbretsen and F. Sommers. An invitation to formal reasoning. The Logic of Terms. Aldershot:
+Ashgate, 2000.
+FB08. Stan Franklin and Bernard Baars. Possible neural correlates of cognitive processes and modules
+from the lida model of cognition. Cognitive Computing Research Group, University of Memphis,
+2008. http://ccrg.cs.memphis.edu/tutorial/correlates.html.
+FC86. R. Fung and C. Chong. Metaprobability and Dempster-shafer in evidential reasoning. In L. Kanal
+and J. Lemmer. North-Holland, editors, Uncertainty in Artificial Intelligence, pages 295–302.
+1986.
+Fis80. K. Fischer. A theory of cognitive development: control and construction of hierarchies of skills.
+Psychological Review, 87:477–531, 1980.
+Fis01. Jefferson M. Fish. Race and Intelligence: Separating Science From Myth. Routledge, 2001.
+Fod94. J. Fodor. The Elm and the Expert. Cambridge, MA: Bradford Books, 1994.
+FP86. Doyne Farmer and Alan Perelson. The immune system, adaptation and machine learning. Physica
+D, v. 2, 1986.
+Fra06. Stan Franklin. The lida architecture: Adding new modes of learning to an intelligent, autonomous,
+software agent. Int. Conf. on Integrated Design and Process Technology, 2006.
+Fre90. R. French. Subcognition and the limits of the turing test’. Mind, 1990.
+Fre95. Walter Freeman. Societies of Brains. Erlbaum, 1995.
+FT02. G. Fauconnier and M. Turner. The Way We Think: Conceptual Blending and the Mind’s Hidden
+Complexities. Basic, 2002.
+Gar99. H Gardner. Intelligence reframed: Multiple intelligences for the 21st century. Basic, 1999.
+GD09. Ben Goertzel and Deborah Duong. Opencog ns: An extensible, integrative architecture for intelligent
+humanoid robotics. 2009.
+GdG08. Ben Goertzel and Hugo de Garis. Xia-man: An extensible, integrative architecture for intelligent
+humanoid robotics. pages 86–90, 2008.
+GE86. R. Gelman and E. Meck and s. Merkin (1986). Young children’s numerical competence. Cognitive
+Development, 1:1–29, 1986.
+GEA08. Ben Goertzel and Cassio Pennachin Et Al. An integrative methodology for teaching embodied
+non-linguistic agents, applied to virtual animals in second life. In Proc.of the First Conf. on AGI.
+IOS Press, 2008.
+Ger99. Michael Gershon. The Second Brain. Harper, 1999.
+GGC + 11. Ben Goertzel, Nil Geisweiller, Lucio Coelho, Predrag Janicic, and Cassio Pennachin. Real World
+Reasoning. Atlantis, 2011.
+GGK02. T. Gilovich, D. Griffin, and D. Kahneman. Heuristics and biases: The psychology of intuitive
+judgment. Cambridge University Press, 2002.
+Gib77. J. J. Gibson. The theory of affordances. In R. Shaw & J. Bransford. Erlbaum, editor, Perceiving,
+Acting and Knowing. 1977.
+Gib78. John Gibbs. Kohlberg’s moral stage theory: a Piagetian revision. Human Development, 22:89–112,
+1978.
+Gib79. J. J. Gibson. The Ecological Approach to Visual Perception. Boston: Houghton Mifflin, 1979.
+GIGH08. B. Goertzel, M. Ikle, I. Goertzel, and A. Heljakka. Probabilistic Logic Networks. Springer, 2008.
+Gil82. Carol Gilligan. In a Different Voice. Cambridge, MA: Harvard University Press, 1982.
+GMIH08. B. Goertzel, I. Goertzel M. Iklé, and A. Heljakka. Probabilistic Logic Networks. Springer, 2008.
+Goe93a. Ben Goertzel. The Evolving Mind. Plenum, 1993.
+Goe93b. Ben Goertzel. The Structure of Intelligence. Springer, 1993.
+Goe94. Ben Goertzel. Chaotic Logic. Plenum, 1994.
+Goe97. Ben Goertzel. From Complexity to Creativity. Plenum Press, 1997.
+Goe01. Ben Goertzel. Creating Internet Intelligence. Plenum Press, 2001.
+Goe06a. Ben Goertzel. The Hidden Pattern. Brown Walker, 2006.
+Goe06b. Ben Goertzel. The Hidden Pattern. Brown Walker, 2006.
+346 A Glossary
+Goe08. Ben Goertzel. A pragmatic path toward endowing virtually-embodied ais with human-level linguistic
+capability. IEEE World Congress on Computational Intelligence (WCCI), 2008.
+Goe09a. Ben Goertzel. Cognitive synergy: A universal principle of feasible general intelligence? In ICCI
+2009, Hong Kong, 2009.
+Goe09b. Ben Goertzel. The embodied communication prior. In Proceedings of ICCI-09, Hong Kong, 2009.
+Goe09c. Ben Goertzel. Opencog prime: A cognitive synergy based architecture for embodied artificial
+general intelligence. In ICCI 2009, Hong Kong, 2009.
+Goe10a. Ben Goertzel. Coherent aggregated volition. Multiverse According to Ben,
+2010. http://multiverseaccordingtoben.blogspot.com/2010/03/
+coherent-aggregated-volition-toward.htm.
+Goe10b. Ben Goertzel. Opencogprime wikibook. 2010. http://wiki.opencog.org/w/
+OpenCogPrime:WikiBook.
+Goe10c. Ben Goertzel. Toward a formal definition of real-world general intelligence. 2010.
+Goe10d. Ben et al Goertzel. A general intelligence oriented architecture for embodied natural language
+processing. In Proc. of the Third Conf. on Artificial General Intelligence (AGI-10). Atlantis Press,
+2010.
+Goo86. I. Good. The Estimation of Probabilities. Cambridge, MA: MIT Press, 1986.
+Gor86. R. Gordon. Folk psychology as simulation. Mind and Language. 1, 1.:158–171, 1986.
+GPC + 11. Ben Goertzel, Joel Pitt, Zhenhua Cai, Jared Wigmore, Deheng Huang, Nil Geisweiller, Ruiting
+Lian, and Gino Yu. Integrative general intelligence for controlling game ai in a minecraft-like
+environment. In Proc. of BICA 2011, 2011.
+GPI + 10. Ben Goertzel, Joel Pitt, Matthew Ikle, Cassio Pennachin, and Rui Liu. Glocal memory: a design
+principle for artificial brains and minds. Neurocomputing, April 2010.
+GPPG06. Ben Goertzel, Hugo Pinto, Cassio Pennachin, and Izabela Freire Goertzel. Using dependency parsing
+and probabilistic inference to extract relationships between genes, proteins and malignancies
+implicit among multiple biomedical research abstracts. In Proc. of Bio-NLP 2006, 2006.
+GPSL03. Ben Goertzel, Cassio Pennachin, Andre’ Senna, and Moshe Looks. An integrative architecture for
+artificial general intelligence. In Proceedings of IJCAI 2003, Acapulco, 2003.
+Gre01. Susan Greenfield. The Private Life of the Brain. Wiley, 2001.
+GRM + 11. Erik M. Gauger, Elisabeth Rieper, John J. L. Morton, Simon C. Benjamin, and Vlatko Vedral.
+Sustained quantum coherence and entanglement in the avian compass. Physics Review Letters,
+vol. 106, no. 4, 2011.
+HAG07. Markert H, Knoblauch A, and Palm G. Modelling of syntactical processing in the cortex. Biosystems
+May-Jun; 89(1-3): 300-15, 2007.
+Ham87. Stuart Hameroff. Ultimate Computing. North Holland, 1987.
+Ham10. Stuart Hameroff. The Òconscious pilotÓÑdendritic synchrony moves through the brain to mediate
+consciousness. Journal of Biological Physics, 2010.
+Hay85. Patrick Hayes. The second naive physics manifesto. In R. Shaw & J. Bransford, editor, Formal
+Theories of the Commonsense World. 1985.
+HB06. Jeff Hawkins and Sandra Blakeslee. On Intelligence. Brown Walker, 2006.
+Heb49. Donald Hebb. The organization of behavior. Wiley, 1949.
+Hey07. F. Heylighen. The Global Superorganism: an evolutionary-cybernetic model of the emerging network
+society. Social Evolution and History 6-1, 2007.
+HF95. P. Hayes and K. Ford. Turing test considered harmful. IJCAI-14, 1995.
+HG08. David Hart and Ben Goertzel. Opencog: A software framework for integrative artificial general
+intelligence. In AGI, volume 171 of Frontiers in Artificial Intelligence and Applications, pages
+468–472. IOS Press, 2008.
+HHPO12. Adam Hampshire, Roger Highfield, Beth Parkin, and Adrian Owen. Fractionating human intelligence.
+Neuron vol. 76 issue 6, 2012.
+Hib02. Bill Hibbard. Superintelligent Machines. Springer, 2002.
+Hof79. Douglas Hofstadter. Godel, Escher, Bach: An Eternal Golden Braid. Basic, 1979.
+Hof95. Douglas Hofstadter. Fluid Concepts and Creative Analogies. Basic Books, 1995.
+Hof96. Douglas Hofstadter. Metamagical Themas. Basic Books, 1996.
+Hop82. J J Hopfield. Neural networks and physical systems with emergent collective computational abilities.
+Proc. of the National Academy of Sciences, 79:2554–2558, 1982.
+HOT06. G. E. Hinton, S. Osindero, and Y. Teh. A fast learning algorithm for deep belief nets. Neural
+Computation, 18:1527–1554, 2006.
+References 347
+Hut95. E. Hutchins. Cognition in the Wild. MIT Press, 1995.
+Hut96. Edwin Hutchins. Cognition in the Wild. MIT Press, 1996.
+Hut05. Marcus Hutter. Universal Artificial Intelligence: Sequential Decisions based on Algorithmic Probability.
+Springer, 2005.
+HZT + 02. J. Han, S. Zeng, K. Tham, M. Badgero, and J. Weng. Dav: A humanoid robot platform for
+autonomous mental development,. Proc. 2nd International Conf. on Development and Learning,
+2002.
+IP58. B. Inhelder and J. Piaget. The Growth of Logical Thinking from Childhood to Adolescence. Basic
+Books, 1958.
+JL08. D. J. Jilk and C. Lebiere. and o’reilly. R. C. and Anderson, J. R. (2008). SAL: An explicitly
+pluralistic cognitive architecture. Journal of Experimental and Theoretical Artificial Intelligence,
+20:197–218, 2008.
+JM09. Daniel Jurafsky and James Martin. Speech and Language Processing. Pearson Prentice Hall, 2009.
+Joy00. Bill Joy. Why the future doesn’t need us, Wired. April 2000.
+Kam91. George Kampis. Self-Modifying Systems in Biology and Cognitive Science. Plenum Press, 1991.
+Kan64. Immanuel Kant. Groundwork of the Metaphysic of Morals. Harper and Row, 1964.
+Kap08. F. Kaplan. Neurorobotics: an experimental science of embodiment. Frontiers in Neuroscience,
+2008.
+KE06. J. L. Krichmar and G. M. Edelman. Principles underlying the construction of brain-based devices.
+In T. Kovacs and J. A. R. Marshall, editors, Adaptation in Artificial and Biological Systems, pages
+37–42. 2006.
+KK90. K. Kitchener and P. King. Reflective judgement: ten years of research. In M. Commons.
+Praeger. New York, editor, Beyond Formal Operations: Models and Methods in the Study of
+Adolescent and Adult Thought, volume 2, pages 63–78. 1990.
+KLH83. Lawrence Kohlberg, Charles Levine, and Alexandra Hewer. Moral stages : a current formulation
+and a response to critics. Karger. Basel, 1983.
+Koh38. Wolfgang Kohler. The Place of Value in a World of Facts. Liveright Press, New York, 1938.
+Koh81. Lawrence Kohlberg. Essays on Moral Development, volume I. The Philosophy of Moral Development,
+1981.
+KS04. Adam Kahane and Peter Senge. Solving Tough Problems: An Open Way of Talking, Listening,
+and Creating New Realities. Berrett-Koehler, 2004.
+Kur06. Ray Kurzweil. The Singularity is Near. 2006.
+Kur12. Ray Kurzweil. How to Create a Mind. Viking, 2012.
+Kyb97. H. Kyburg. Bayesian and non-bayesian evidential updating. Artificial Intelligence, 31:271–293,
+1997.
+Lan05. Pat Langley. An adaptive architecture for physical agents. Proc. of the 2005 IEEE/WIC/ACM
+Int. Conf. on Intelligent Agent Technology, 2005.
+LAon. C. Lebiere and J. R. Anderson. The case for a hybrid architecture of cognition. (in preparation).
+LBDE90. Y. LeCun, B. Boser, J. S. Denker, and Al. Et. Handwritten digit recognition with a backpropagation
+network. Advances in Neural Information Processing Systems, 2, 1990.
+LD03. A. Laud and G. Dejong. The influence of reward on the speed of reinforcement learning. Proc. of
+the 20th International Conf. on Machine Learning, 2003.
+Leg06a. Shane Legg. Friendly ai is bunk. Vetta Project, 2006. http://commonsenseatheism.com/
+wp-content/uploads/2011/02/Legg-Friendly-AI-is-bunk.pdf.
+Leg06b. Shane Legg. Unprovability of friendly ai. Vetta Project, 2006. http://www.vetta.org/2006/
+09/unprovability-of-friendly-ai/.
+LG90. Douglas Lenat and R. V. Guha. Building Large Knowledge-Based Systems: Representation and
+Inference in the Cyc Project. Addison-Wesley, 1990.
+LH07a. Shane Legg and Marcus Hutter. A collection of definitions of intelligence. IOS, 2007.
+LH07b. Shane Legg and Marcus Hutter. A definition of machine intelligence. Minds and Machines, 17,
+2007.
+LLW + 05. Guang Li, Zhengguo Lou, Le Wang, Xu Li, and Walter J Freeman. Application of chaotic neural
+model based on olfactory system on pattern recognition. ICNC, 1:378–381, 2005.
+LMC07a. M. H. Lee, Q. Meng, and F. Chao. Developmental learning for autonomous robots. Robotics and
+Autonomous Systems, 2007.
+LMC07b. M. H. Lee, Q. Meng, and F. Chao. Staged competence learning in developmental robotics. Adaptive
+Behavior, 2007.
+348 A Glossary
+LN00. George Lakoff and Rafael Nunez. Where Mathematics Comes From. Basic Books, 2000.
+Log07. Robert M. Logan. The Extended Mind. University of Toronto Press, 2007.
+Loo06. Moshe Looks. Competent Program Evolution. PhD Thesis, Computer Science Department, Washington
+University, 2006.
+LRN87. John Laird, Paul Rosenbloom, and Alan Newell. Soar: An architecture for general intelligence.
+Artificial Intelligence, 33, 1987.
+LS05. J Lisman and N Spruston. Postsynaptic depolarization requirements for ltp and ltd: a critique of
+spike timing-dependent plasticity. Nature Neuroscience 8, 839-41, 2005.
+LWML09. John Laird, Robert Wray, Robert Marinier, and Pat Langley. Claims and challenges in evaluating
+human-level intelligent systems. Proc. of AGI-09, 2009.
+Mac95. D. MacKenzie. The automation of proof: A historical and sociological exploration. IEEE Annals
+of the History of Computing, 17(3):7–29, 1995.
+Mar01. H. Marchand. Reflections on PostFormal Thought. The Genetic Epistemologist, 2001.
+McK03. Bill McKibben. Enough: Staying Human in an Engineered Age. Saint Martins Griffin, 2003.
+Met04. Thomas Metzinger. Being No One. Bradford, 2004.
+Min88. Marvin Minsky. The Society of Mind. MIT Press, 1988.
+Min07. Marvin Minsky. The Emotion Machine. 2007.
+MK07. Joseph Modayil and Benjamin Kuipers. Autonomous development of a grounded object ontology
+by a learning robot. AAAI-07, 2007.
+MK08. Jonathan Mugan and Benjamin Kuipers. Towards the application of reinforcement learning to
+undirected developmental learning. International Conf. on Epigenetic Robotics, 2008.
+MK09. Jonathan Mugan and Benjamin Kuipers. Autonomously learning an action hierarchy using a
+learned qualitative state representation. IJCAI-09, 2009.
+Mon12. Maria Montessori. The Montessori Method. Frederick A. Stokes, 1912.
+MSV + 08. G. Metta, G. Sandini, D. Vernon, L. Natale, and F. Nori. The icub humanoid robot: an open platform
+for research in embodied cognition. Performance Metrics for Intelligent Systems Workshop
+(PerMIS 2008), 2008.
+MW07. Stephen Morgan and Christopher Winship. Counterfactuals and Causal Inference. Cambridge
+University Press, 2007.
+Nan08. Nanowerk. Carbon nanotube rubber could provide e-skin for robots. http://www.nanowerk.
+com/news/newsid=6717.php, 2008.
+Nei98. Dianne Miller Neilsen. Teaching Young Children, Preschool-K: A Guide to Planning Your Curriculum,
+Teaching Through Learning Centers, and Just About Everything Else. Corwin Press,
+1998.
+New90. Alan Newell. Unified Theories of Cognition. Harvard University press, 1990.
+Nie98. Dianne Miller Nielsen. Teaching Young Children, Preschool-K: A Guide to Planning Your Curriculum,
+Teaching Through Learning Centers, and Just About Everything Else. Corwin Press,
+1998.
+Nil09. Nils Nilsson. The physical symbol system hypothesis: Status and prospects. 50 Years of AI,
+Festschrift, LNAI 4850, 33, 2009.
+NK04. A. Nestor and B. Kokinov. Towards active vision in the dual cognitive architecture. International
+Journal on Information Theories and Applications, 11, 2004.
+OK06. P. Oudeyer and F. Kaplan. Discovering communication. Connection Science, 2006.
+Omo08. Stephen Omohundro. The basic ai drives. Proceedings of the First AGI Conference. IOS Press,
+2008.
+Omo09. Stephen Omohundro. Creating a cooperative future. 2009. http://selfawaresystems.com/
+2009/02/23/talk-on-creating-a-cooperative-future/.
+Opa52. A. I. Oparin. The Origin of Life. Dover, 1952.
+Pal82. Gunter Palm. Neural Assemblies. An Alternative Approach to Artificial Intelligence. Springer,
+1982.
+Pei34. C. Peirce. Collected papers: Volume V. Pragmatism and pragmaticism. Harvard University Press.
+Cambridge MA., 1934.
+Pel05. Martin Pelikan. Hierarchical Bayesian Optimization Algorithm: Toward a New Generation of
+Evolutionary Algorithms. Springer, 2005.
+Pen96. Roger Penrose. Shadows of the Mind. Oxford University Press, 1996.
+Per70. William G. Perry. Forms of Intellectual and Ethical Development in the College Years: A Scheme.
+Holt, Rinehart and Winston, 1970.
+References 349
+Per81. William G. Perry. Cognitive and ethical growth: The making of meaning. In Arthur W. Chickering.
+Jossey-Bass. San Francisco, editor, The Modern American College, pages 76–116. 1981.
+PH12. Zhiping Pang and Weiping Han. Regulation of synaptic functions in central nervous system by
+endocrine hormones and the maintenance of energy homeostasis. Bioscience Reports, 2012.
+Pia53. Jean Piaget. The Origins of Intelligence in Children. Routledge and Kegan Paul, 1953.
+Pia55. Jean Piaget. The Construction of Reality in the Child. Routledge and Kegan Paul, 1955.
+Pir84. Robert Pirsig. Zen and the Art of Motorcycle Maintenance. Bantam, 1984.
+PNR07. Karalny Patterson, Peter J. Nestor, and Timothy T. Rogers. Where do you know what you know?
+the representation of semantic knowledge in the human brain. Nature Reviews Neuroscience,
+8:976–987, 2007.
+PSF09. Richard Dum Peter Strick and Julie Fiez. Cerebellum and nonmotor function. Annual Review of
+Neuroscience Vol. 32: 413-434, 2009.
+PW78. D. Premack and G. Woodruff. Does the chimpanzee have a theory of mind? Behavioral and Brain
+Sciences, pages 515–526, 1978.
+QaGKKF05. R. Quian Quiroga, L. Reddy amd G. Kreiman, C. Koch, and I. Fried. Invariant visual representation
+by single-neurons in the human brain. Nature, 435:1102–1107, 2005.
+QKKF08. R. Quian Quiroga, G Kreiman, C Koch, and I. Fried. Sparse but not "grandmother-cell" coding
+in the medial temporal lobe. Trends in Cognitive Sciences, 12:87–91, 2008.
+Rav04. Ian Ravenscroft. Folk psychology as a theory, stanford encyclopedia of philosophy. http://
+plato.stanford.edu/entries/folkpsych-theory/, 2004.
+RBW92. Gagne R., L. Briggs, and W. Walter. Principles of Instructional Design. Harcourt Brace Jovanovich,
+1992.
+RCK01. J. Rosbe, R. S. Chong, and D. E. Kieras. Modeling with perceptual and memory constraints: An
+epic-soar model of a simplified enroute air traffic control task. SOAR Technology Inc. Report,
+2001.
+RD06. Matthew Richardson and Pedro Domingos. Markov logic networks. Machine Learning, 2006.
+Rie73. K. Riegel. Dialectic operations: the final phase of cognitive development. Human Development,
+16.:346–370, 1973.
+RM95. H. L. Roediger and K. B. McDermott. Creating false memories: Remembering words not presented
+in lists. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21:803–814, 1995.
+Ros88. Israel Rosenfield. The Invention of Memory: A New View of the Brain. Basic Books, 1988.
+Row90. John Rowan. Subpersonalities: The People Inside Us. Routledge Press, 1990.
+Row11. T Rowe. Fossil evidence on origin of the mammalian brain. Science 20, 2011.
+RV01. Alan Robinson and Andrei Voronkov. Handbook of Automated Reasoning. MIT Press, 2001.
+RZDK05. Michael Rosenstein, ZvikaMarx, Tom Dietterich, and Leslie Pack Kaelbling. Transfer learning
+with an ensemble of background tasks. NIPS workshop on inductive transfer, 2005.
+SA93. L. Shastri and V. Ajjanagadde. From simple associations to systematic reasoning: A connectionist
+encoding of rules, variables, and dynamic bindings using temporal synchrony. Behavioral & Brain
+Sciences, 16-3, 1993.
+Sal93. Stan Salthe. Development and Evolution. MIT Press, 1993.
+Sam10. Alexei V. Samsonovich. Toward a unified catalog of implemented cognitive architectures. In BICA,
+pages 195–244, 2010.
+SB98. Richard Sutton and Andrew Barto. Reinforcement Learning. MIT Press, 1998.
+SB06. J. Simsek and A. Barto. An intrinsic reward mechanism for efficient exploration. Proc. of the
+Twenty-Third International Conf. on Machine Learning, 2006.
+SBC05. S. Singh, A. Barto, and N. Chentanez. Intrinsically motivated reinforcement learning. Proc. of
+Neural Information Processing Systems 17, 2005.
+SC94. Barry Smith and Roberto Casati. Naive Physics: An Essay in Ontology. Philosophical Psychology,
+1994.
+Sch91a. Juergen Schmidhuber. Curious model-building control systems.. Proc. International Joint Conf.
+on Neural Networks, 1991.
+Sch91b. Juergen Schmidhuber. A possibility for implementing curiosity and boredom in model-building
+neural controllers. Proc. of the International Conf. on Simulation of Adaptive Behavior: From
+Animals to Animats, 1991.
+Sch95. Juergen Schmidhuber. Reinforcement-driven information acquisition in non-deterministic environments.
+Proc. ICANN’95, 1995.
+Sch02. Juergen Schmidhuber. Exploring the predictable.. Springer, 2002.
+350 A Glossary
+Sch06. J. Schmidhuber. Godel machines: Fully Self-referential Optimal Universal Self-improvers. In
+B. Goertzel and C. Pennachin, editors, Artificial General Intelligence, pages 119–226. 2006.
+Sch07. Dale Schunk. Theories of Learning: An Educational Perspective. Prentice Hall, 2007.
+SE07. Stuart Shapiro and Al. Et. Metacognition in sneps. AI Magazine, 28, 2007.
+SF05. Greenfield SA and Collins T F. A neuroscientific approach to consciousness. Prog Brain Res.,
+2005.
+Sha76. G. Shafer. A Mathematical Theory of Evidence. Princeton, NJ: Princeton University Press, 1976.
+Shu03. Thomas R. Shultz. Computational Developmental Psychology. MIT Press, 2003.
+SKBB91. D Shannahoff-Khalsa, M Boyle, and M Buebel. The effects of unilateral forced nostril breathing
+on cognition. Int J Neurosci., 1991.
+Slo01. Aaron Sloman. Varieties of affect and the cogaff architecture schema. In Proceedings of the
+Symposium on Emotion, Cognition, and Affective Computing, AISB-01, 2001.
+Slo08a. Aaron Sloman. A new approach to philosophy of mathematics: Design a young explorer able to
+discover ’toddler theorems’. 2008.
+Slo08b. Aaron Sloman. The Well-Designed Young Mathematician. Artificial Intelligence, December 2008.
+SM05. Push Singh and Marvin Minsky. An architecture for cognitive diversity. In Darryl Davis, editor,
+Visions of Mind. 2005.
+Sot11. Kaj Sotala. 14 objections against ai/friendly ai/the singularity answered. Xuenay.net, 2011.
+http://www.xuenay.net/objections.html , downloaded 3/20/11.
+SS74. Jean Sauvy and Simonne Suavy. The Child’s Discovery of Space: From hopscotch to mazes – an
+introduction to intuitive topology. Penguin, 1974.
+SS03a. John F. Santore and Stuart C. Shapiro. Crystal cassie: Use of a 3-d gaming environment for a
+cognitive agent. In Papers of the IJCAI 2003 Workshop on Cognitive Modeling of Agents and
+Multi-Agent Interactions, 2003.
+SS03b. Rudolf Steiner and S K Sagarin. What is Waldorf Education? Steiner Books, 2003.
+Stc00. Theodore Stcherbatsky. Buddhist Logic. Motilal Banarsidass Pub, 2000.
+SV99. A. J. Storkey and R. Valabregue. The basins of attraction of a new hopfield learning rule. Neural
+Networks, 12:869–876, 1999.
+SZ04. R. Sun and X. Zhang. Top-down versus bottom-up learning in cognitive skill acquisition. Cognitive
+Systems Research, 5, 2004.
+TC97. M. Tomasello and J. Call. Primate Cognition. Oxford University Press, 1997.
+TC05. Endel Tulving and R. Craik. The Oxford Handbook of Memory. Oxford U. Press, 2005.
+Tea06. Sebastian Thrun and et al. The robot that won the darpa grand challenge. Journal of Robotic
+Systems, 23-9, 2006.
+TM95. S. Thrun and Tom Mitchell. Lifelong robot learning. Robotics and Autonomous Systems, 1995.
+TS94. E. Thelen and L. Smith. A Dynamic Systems Approach to the Development of Cognition and
+Action. MIT Press, 1994.
+TS07. M. Taylor and P. Stone. Cross-domain transfer for reinforcement learning. Proc. of the 24th
+International Conf. on Machine Learning, 2007.
+Tur50. Alan Turing. Computing machinery and intelligence. Mind, 59, 1950.
+Tur77. Valentin F. Turchin. The Phenomenon of Science. Columbia University Press, 1977.
+TV96. Turchin and V. Supercompilation: Techniques and results. In Dines Bjorner, M. Broy, and Aleksandr
+Vasilevich Zamulin, editors, Perspectives of System Informatics. Springer, 1996.
+Vin93. Vernor Vinge. The coming technological singularity. VISION-21 Symposium, NASA and
+Ohio Aerospace Institute, 1993. http://www-rohan.sdsu.edu/faculty/vinge/misc/
+singularity.html.
+Vyg86. Lev Vygotsky. Thought and Language. MIT Press, 1986.
+WA10. Wendell Wallach and Colin Atkins. Moral Machines. Oxford University Press, 2010.
+Wan95. P. Wang. Non-Axiomatic Reasoning System. PhD Thesis, Indiana University. Bloomington, 1995.
+Wan06. Pei Wang. Rigid Flexibility: The Logic of Intelligence. Springer, 2006.
+Was09. Mark Waser. Ethics for self-improving machines. In AGI-09, 2009. http://vimeo.com/
+3698890.
+Wel90. H. Wellman. The Child’s Theory of Mind. MIT Press, 1990.
+WH06. J. Weng and W. S. Hwangi. From neural networks to the brain: Autonomous mental development.
+IEEE Computational Intelligence Magazine, 2006.
+Who64. Benjamin Lee Whorf. Language, Thought and Reality. 1964.
+References 351
+WHZ + 00. J. Weng, W. S. Hwang, Y. Zhang, C. Yang, and R. Smith. Developmental humanoids: Humanoids
+that develop skills automatically,. Proc. the first IEEE-RAS International Conf. on Humanoid
+Robots, 2000.
+Wik11. Wikipedia. Open source governance. 2011. http://en.wikipedia.org/wiki/Open_
+source_governance.
+Win72. Terry Winograd. Understanding Natural Language. Edinburgh University Press, 1972.
+Wit07. David C. Witherington. The Dynamic Systems Approach as Metatheory for Developmental Psychology,
+Human Development. 50, 2007.
+Wol02. Stephen Wolfram. A New Kind of Science. Wolfram Media, 2002.
+WW06. Matt Williams and Jon Williamson. Combining argumentation and bayesian nets for breast cancer
+prognosis. Journal of Logic, Language and Information, 2006.
+Yud04. Eliezer Yudkowsky. Coherent extrapolated volition. Singularity Institute for AI, 2004. http:
+//singinst.org/upload/CEV.html.
+Yud06. Eliezer Yudkowsky. What is friendly ai? Singularity Institute for AI, 2006. http://singinst.
+org/ourresearch/publications/what-is-friendly-ai.html.
+Zad78. L. Zadeh. Fuzzy sets as a basis for a theory of possibility. Fuzzy Sets and Systems, 1:3–28, 1978.
+ZPK07. Luke S Zettlemoyer, Hanna M. Pasula, and Leslie Pack Kaelbling. Logical particle filtering.
+Proceedings of the Dagstuhl Seminar on Probabilistic, Logical, and Relational Learning, 2007.

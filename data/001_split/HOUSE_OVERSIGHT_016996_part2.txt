@@ -1,0 +1,587 @@
+For every parsed article, we append metadata relating to the importance of the article within Wikipedia,
+namely the size in words of the article and the number of page views which it obtains. The article word
+count is created by directly accessing the article using its URL. The traffic statistics for Wikipedia articles
+are obtained from http://stats.grok.se/.
+Figure S10a displays the number of records parsed from Wikipedia and retained for the final cohort
+analysis. Table S7 displays specific examples from the extraction‟s output, including name, year of birth,
+year of death, approximate word count of main article and traffic statistics for March 2010.
+1) Create a database of records referring to people born 1800-1980 in Wikipedia.
+a. Using the DBPedia framework, find all articles which are members of the categories
+„1700_births‟ through „1980_births‟. Only people both in 1800-1980 are used for the
+purposes of fame analysis. People born in 1700-1799 are used to identify naming
+ambiguities as described in section III.7.A.7 of this Supplementary Material.
+b. For all these articles, create a record identified by the article URL, and append the birth
+year.
+c. For every record, use the URL to navigate to the online Wikipedia page. Within the main
+article body text, remove all HTML markup tags and perform a word count. Append this
+word count to the record.
+d. For every record, use the URL to determine the page‟s traffic statistics for the month of
+March 2010. Append the number of views to the record.
+III.7.A.2 – Identification of occupation for individuals appearing in Wikipedia.
+Two types of structural elements within Wikipedia enable us to identify, for certain individuals, their
+occupation. The first, Wikipedia Categories, was previously described and used to recognize articles
+about people. Wikipedia Categories also contain information pertaining to occupation. The categories
+“Physicists”, “Physicists by Nationality”, “Physicists stubs”, along with their subcategories, pinpoint articles
+of relating to the occupation of physicist. The second are Wikipedia Lists, special pages dedicated to
+listing Wikipedia articles which fit a precise subject. For physicists, relevant examples are “List of
+physicists”, “List of plasma physicists” and “List of theoretical physicists”. Given their redundancy, these
+two structural elements, when used in combination provide a strong means of identifying the occupation
+of an individual.
+Next, we selected the top 50 individuals in each category, and annotated each one manually as a function
+of the individual‟s main occupation, as determined by reading the associated Wikipedia article. For
+instance, “Che Guevara” was listed in Biologists; so even though he was a medical doctor by training, this
+is not his primary historical contribution. The most famous individuals of each category born between
+1800 and 1920 are given in Appendix.
+In our database of individuals, we append, when available, information about the occupations of people.
+This enables the comparison, on the basis of fame, of groups of individuals distinguished by their
+occupational decisions.
+20
+2) Associate Wikipedia records of individuals with occupations using relevant Wikipedia
+“Categories” and “Lists” pages. For every occupation to be investigated :
+a. Manually create a list of Wikipedia categories and lists associated with this defined
+occupation.
+b. Using the DBPedia framework, find all the Wikipedia articles which are members of the
+chosen Wikipedia categories.
+c. Using the online Wikipedia website, find all Wikipedia articles which are listed in the body
+of the chosen Wikipedia lists.
+d. Intersect the set of all articles belonging to the relevant Lists and Categories with the set
+of people both 1800-1980. For people in both sets, append the occupation information.
+e. Associate the records of these articles with the occupation.
+III.7.A.3 - Extraction of individuals appearing in Encyclopedia Britannica.
+Encyclopedia Britannica is a hand-curated, high quality encyclopedic dataset with many detailed
+biographical entries. We obtained, in a private communication, structured datasets from Encyclopedia
+Britannica Inc. These datasets contain a complete record of all entries relating to individuals in the
+Encyclopedia Britannica. Each record contains the birth and death of the person at hand, as well as set of
+information snippets summarizing the most critical biographical information available within the
+encyclopedia.
+For the analysis of fame, we extract, from the dataset provided by Encyclopedia Britannica Inc.,
+records of individuals born in between 1800 and 1980. For every person, we retain, as a measure of their
+notability, a count of the number of biographical snippets present in the dataset. Figure S10b outlines the
+number of records parsed from the Encyclopedia Britannica dataset, as well as the number of these
+records ultimately retained for final analysis. Table S8 displays examples of records parsed in this step of
+the analysis procedure.
+3) Create a database of records referring to people born 1800-1980 in Encyclopedia
+Britannica.
+a. Using the internal database records provided by Encyclopedia Britannica Inc., find all
+entries referring to individuals born 1700-1980. Only people both in 1800-1980 are used
+for the purposes of fame analysis. People born in 1700-1799 are used to identify naming
+ambiguities as described in section III.7.A.7 of this Supplementary Material.
+b. For these entries, create a record identified by a unique integer containing the individual‟s
+full name, as listed in the encyclopedia, and the individual‟s birth year.
+c. For every record, find the number of encyclopedic informational snippets present in the
+Encyclopedia Britannica dataset. Append this count to the record.
+III.7.A.4 – Produce spelling variants of the full names of individuals.
+We ultimately wish to identify the most relevant name used to commonly refer to an individual. Given the
+limits of OCR and the specificities of the method used to create the word frequency database, certain
+typographic elements such as accents, hyphens or quotation marks can complicate this process. As
+such, for every full name present in our database of people, we append variants of the full names where
+these typographic elements have been removed or, when possible, replaced. Table S9 presents
+examples of spelling variants for multiple names.
+21
+4) In both databases, for every record, create a set of raw names variants. To create the set:
+a. Include the original raw name.
+b. If the name includes apostrophes or quotation marks, include a variant where these
+elements are removed.
+c. If the first word in the name contains a hyphen, include a name where this hyphen is
+replaced with a whitespace.
+d. If the last word of the name is a numeral, include a name where this numeral has been
+removed.
+e. For every element in the set which contains non-Latin characters, include a variant where
+this characters have been replaced using the closest Latin equivalent.
+III.7.A.5 – Find possible names used to refer to individuals.
+The common name of an individual sometimes significantly differs from the complete, formal name
+present in Encyclopedia Britannica and Wikipedia. This encyclopedia full name can contain details such
+as titles, initials and military or nobility standings, which are not commonly used when referring to
+individual in most publications. Even in simpler cases, when the full name contains only first, middle and
+last names, there exists no systematic convention on which names to use when talking about an
+individual. Henry David Thoreau is most commonly referred to by his full name, not “Henry Thoreau” nor
+“David Thoreau”, whereas Oliver Joseph Lodge is mentioned by his first and last name “Oliver Lodge”,
+not his full name “Oliver Joseph Lodge”.
+Given a full name with complex structure potentially containing details such as titles, initials, nobility rights
+and ranks, in addition to multiple first and last names, we must extract a list of simple names, using three
+words at most, which can potentially be used to refer to this individual. This set of names is created by
+generating combinations of names found in the raw name. Furthermore, whenever they appear we
+systematically exclude common words such as titles or ranks from these names. The query name sets of
+several individuals are displayed in Table S10.
+5) For every record, using the set of raw names, create a set of query names. Query names
+are (2,3) grams which will be used in order to measure the fame of the individual. The following
+procedure is iterated on every raw name variant associated with the record. Steps for which the
+record type is not specified are carried out for both.
+a. For Encyclopedia Britannica records, truncate the raw name at the second comma,
+reorder so that the part of name preceding the first comma follows that succeeding the
+comma.
+b. For Wikipedia records, replace the underscores with whitespaces.
+c. Truncate the name string at the first (if any) parenthesis or comma.
+d. Truncate the name string at the beginning of the words „in‟, ‟In‟, ‟the‟, ‟The‟, ‟of‟ and „Of‟, if
+these are present.
+e. Create the last name set. Iterating from last to first in the words of the name, add the first
+name with the following properties:
+i. Begin with a capitalized letter.
+ii. Longer than 1 character.
+iii. Not ending in a period.
+iv. If the words preceding this last name are identified as a prefix ('von', 'de', 'van',
+'der', 'de' , „d'‟, 'al-', 'la', 'da', 'the', 'le', 'du', 'bin', 'y', 'ibn' and their capitalized
+versions ), the last name is a 2gram containing both the prefix.
+f. If the last name contains a capitalized character besides the first one, add a variant of
+this word where the only capital letter is the first to the set of last names.
+g. Create the set of first names. Iterating on the raw name elements which are not part of
+the last name set, candidate first names are words with the following properties :
+i. Begin with a capital letter.
+ii. Longer than 1 character.
+iii. Not ending in a period.
+iv. Not a title. („Archduke‟, 'Saint', 'Emperor', 'Empress', 'Mademoiselle', 'Mother',
+'Brother', 'Sister', 'Father', 'Mr', 'Mrs', 'Marshall', 'Justice', 'Cardinal', 'Archbishop',
+'Senator', 'President', 'Colonel', 'General', 'Admiral', 'Sir', 'Lady', 'Prince',
+'Princess', 'King', 'Queen', 'de', 'Baron', 'Baroness', 'Grand', 'Duchess', 'Duke',
+'Lord', 'Count', 'Countess', 'Dr')
+22
+h. Add to the set of query names all pairs of “first names + last names” produced by
+combining the sets of first and last names.
+i. This procedure is carried for every raw name variant.
+III.7.A.6 – Find the word match frequencies of all names.
+Given the set of names which may refer to an individual, we wish to find the time resolved words
+frequencies of these names. The frequency of the name, which corresponds to a measure of how often
+an individual is mentioned, provides a metric for the fame of that person. We append the word
+frequencies of all the names which can potentially refer to an individual. This enables us, in a later step,
+to identify which name is the relevant.
+6) Append the fame signal for each query name of each record. The fame signal is the
+timeseries of normalized word matches in the complete English database.
+III.7.A.7 – Find ambiguous names which can refer to multiple individuals.
+Certain names are particularly popular and are shared by multiple people. This results in ambiguity, as
+the same query name may refer to a plurality of individuals. Homonimity conflicts occur between a group
+of individuals when they share some part of, or all, their name. When these homonimity conflicts arise,
+the word frequency of a specific name may not reflect the number of references to a unique person, but to
+that of an entire group. As such, the word frequency does not constitute a clear means of tracking the
+fame of the concerned individuals. We identify homonimity conflicts by finding instances of individuals
+whose names contain complete or partial matches. These conflicts are, when possible, resolved on the
+basis of the importance of the conflicted individuals in the following step. Typical homonimity conflicts are
+shown in Table S11.
+7) Identify homonimity conflicts. Homonimity conflicts arise when the query names of two or more
+individuals contain a substring match. These conflicts are distinguished as such :
+a. For every query name of every record, find the set of substrings of query names.
+b. For every query name of every record, search for matches in the set of query name
+substrings of all other records.
+c. Bidirectional homonimity conflicts occur when a query name fully matches another query
+name. The name conflicted name could be used to refer to both individuals.
+Unidirectional conflicts occur when a query name has a substring match within another
+query name. Thus, the conflicted name can refer to one of the individuals, but also be
+part of a name referring to another.
+III.7.A.8 – Resolve, when possible, the most likely origin of ambiguous names.
+The problem of homonymous individuals is limiting because the word frequencies data do not allow us to
+resolve the true identity behind a homonymous name. Nonetheless, in some cases, it is possible to
+distinguish conflicted individuals on the basis of their importance. For the database of people extracted
+from Encyclopedia Britannica, we argue that the quantity of information available about an individual
+provides a proxy for their relevance. Likewise, for people obtained from Wikipedia, we can judge their
+importance by the size of the article written about the person and the quantity of traffic the article
+generates. As such, we approach the problem of ambiguous names by comparing the notability of
+individuals, as evaluated by the amount of information available about them in the respective
+encyclopedic source. Examples of conflict resolution are shown in Table S12 and S13.
+8) Resolve homonimity conflicts.
+23
+a. Conflict resolution involves the decision of whether a query name, associated with
+multiple records, can unambiguously refer to a single one of them.
+b. Wikipedia. Conflict resolution for Wikipedia records is carried out on the basis the main
+article word count and traffic statistics. A conflict is resolved as such :
+i. Find the cumulative word count of words written in the articles in conflict.
+ii. Find the cumulative number of views resulting from the traffic to the articles in
+conflict.
+iii. For every record in the conflict, find the fraction of words and views resulting from
+this record by dividing by the cumulative counts.
+iv. Does a record have the largest fraction of both words written and page views?
+v. Does this record have above 66% of either words written and page views?
+vi. If so, the conflicted query name can be considered as being sufficiently specific
+to the record with these properties.
+c. Encyclopedia Britannica. Conflict resolution for Encyclopedia Britannica records is carried
+on the basis of the quantity of information snippets present in the dataset.
+i. Find the cumulative number of information snippets related to the records in
+conflicts.
+ii. For every record in the conflict, find the fraction of informational snippets by
+dividing with the cumulative count
+iii. If a record has greater than 66% of the cumulative total, the query name in
+conflict is considered to refer to this record.
+III.7.A.9 Identify the most relevant name used to refer to an individual.
+So far, we have obtained, for all individuals in both our databases, a set of names by which they can
+plausibly be mentioned. From this set, we wish to identify the best such candidate and use its word
+frequency to observe the fame of the person at hand. This optimal name is identified on the basis of the
+amplitude of the word frequency, the potential ambiguities which arise from name homonimity and the
+quality of the word frequency time series. Examples are shown in Fig S11 and S12.
+9) Determine the best query name for every record.
+a. Order all the query names associated with a record on the basis of the integral of the
+fame signal from the year of birth until the year 2000.
+b. Iterating from the strongest fame signal to the lowest, the selected query name is the first
+result with the following properties :
+i. Unambiguously refers to the record (as determined by conflict resolution, if
+needed).
+ii. The average fame signal in the window [year of birth ± 10 years] is less than 10 -9
+or an order of magnitude less than the average fame signal from the year of birth
+to the year 2000.
+iii. (Wikipedia Only). The query name, when converted to a Wikipedia URL by
+replacing whitespaces with underscores, refers to the record or an inexistent
+article. If the name refers to another article or a disambiguation page, the query
+name is rejected.
+c. If the best query name is a 2-gram name corresponding the last two names in 3-gram
+query name, and if the fame integral of the 3-gram name is 80% of the fame integral of
+the 2-gram, the best query name is replaced by the 3-gram.
+24
+III.7.A.10 – Compare the fame of multiple individuals.
+Having identified the best name candidate for every individual, we use the word frequency time series of
+this name as a metric for the fame of the each individual. We now compare the fame of multiple
+individuals on the basis of the properties of their fame signal. For this analysis, we group people
+according to specific characteristics, which in the context of this work are the years of birth and the
+respective occupations.
+10) Assemble cohorts on the basis of a shared record property.
+a. Fetch all records which match a specific record property, such as year of birth or
+occupation.
+b. Create fame cohorts comparing the fame of individuals born in the same year.
+i. Use average lifetime fame ranking, done on the basis of the average fame as
+computed from the birth of the individual to the year 2000.
+c. Create fame cohorts for individuals with the same occupation.
+i. Use most famous 20 th year, ranking on the basis of the 20 th best year in the
+terms of fame for the individual.
+III.7B. Cohorts of fame
+For each year, we defined a cohort of the top 50 most famous individuals born that year. Individual fame
+was measured in this case by the average frequency over all years after one's birth. We can compute
+cohorts on the basis of names from Wikipedia, or Encyclopedia Britannica. In Figure 5, we used cohorts
+computed with names from Wikipedia.
+At each time point, we defined the frequency of the cohort as the median value of the frequencies of all
+individuals in the cohort.
+For each cohort, we define:
+(1) Age of initial celebrity. This is the first age when the cohort's frequency is greater than 10-9. This
+corresponds to the point at which the median individual in the cohort enter the "English lexicon" as
+defined in the first section of the paper.
+(2) Age of peak celebrity. This is the first age when the cohort's frequency is greater than 95% of its peak
+value. This definition is meant to diminish the noise that exists on the exact position of the peak value of
+the cohort's frequency.
+(3) Doubling time of fame. We compute the exponential rate at which fame increases between the 'age of
+fame' and the 'age of peak fame'. To do so, we fit an exponential to the timeseries with the methods of
+least squares. The doubling time is derived from the estimated exponent.
+(4) Half-life of fame. We compute the exponential rate at which fame decreases past the year at which it
+reaches its peak (which is later than the "age of peak celebrity" as defined above). To do so, we fit an
+exponential to the timeseries with the methods of least squares. The half-life is derived from the
+estimated exponent.
+We show the way these parameters change with the cohort‟s year of birth in Figure S13.
+The dynamics of these quantities is sensibly the same when using cohorts from Wikipedia or from
+Encyclopedia Britannica. However, Britannica features fewer individuals in their cohorts, and therefore the
+cohorts from the early 19 th century are much noisier. We show in Figure S14 the fame analysis
+conducted with cohorts from Britannica, restricting our analysis to the years 1840-1950.
+In Figure 5E, we analyze the trade-offs between early celebrity and overall fame as a function of
+occupation. For each occupation, we select the top 25 most famous individuals born between 1800 and
+1920. For each occupation, we define the contour within which all points are close to at least 2 member of
+the cohort (it is the contour of the density map created by the cohort).
+25
+People leave more behind them than a name. Like her fictional protagonist Victor Frankenstein, Mary
+Shelley is survived by her creation: Frankenstein took on a life of his own within our collective imagination
+(Figure S15). Such legacies, and all the many other ways in which people achieve cultural immortality,
+fall beyond the scope of this initial examination.
+III.8. History of Technology
+A list of inventions from 1800-1960 was taken from Wikipedia (Ref S10).
+The year listed is used in our analysis. Where multiple listings of a particular invention appear, the year
+retained in the list is the one reported in the main Wikipedia article for the invention. (e.g. "Microwave
+Oven" is listed in 1945 and 1946; the main article lists 1945 as the year of invention, and this is the year
+we use in our analyses).
+Each entry's main Wikipedia page was checked for alternate terms for the invention. Where alternate
+names were listed in the main article (e.g. thiamine or thiamin or vitamin B 1 ), all the terms were
+compared for their presence in the database. Where there was no single dominant term (e.g.MSG or
+monosodium glutamate) the invention was eliminated from the list. If a name other than the originally
+listed one appears to be dominant, the dominant name was used in the analysis (e.g.
+electroencephalograph and EEG - EEG is used).
+Inventions were grouped into 40-year intervals (1800-1840, 1840-1880, 1880-1920, and 1920-1960), and
+the median percentages of peak frequency was calculated for each bin for each year following invention:
+these were plotted in Fig 4B, together with examples of individual inventions in inset.
+Our study of the history of technology suffers from a possible sampling bias: it is possible that some older
+inventions, which peaked shortly after their invention, are by now forgotten and not listed in the Wikipedia
+article at all. This sampling bias would be more extreme for the earlier cohorts, and would therefore tend
+to exaggerate the lag between invention date and cultural impact in the older invention cohorts. We have
+verified that our inventions are past their peaks, in all three cohorts (Fig S16). Future analyses would
+benefit from the use of historical invention lists to control for this effect.
+Another possible bias is that observing inventions later after they were invented leaves more room for the
+fame of these inventions to rise. To ensure that the effect we observe is not biased in this way, we
+reproduce the analysis done in the paper using constant time intervals: a hundred years from time of
+invention. Because we have a narrower timespan, we consider only technologies invented in the 19 th
+century; and we group them in only two cohorts. The effect is consistent with that observed in the main
+text (Fig S16).
+III.9. Censorship
+III.9A. Comparing the influence of censorship and propaganda on
+various groups
+To create panel E of Fig 6, we analyzed a series of cohorts; for each cohort, we display the mean of the
+normalized probability mass functions of the cohort, as described in section 1B. We multiplied the result
+by 100 in order to represent the probability mass functions more intuitively, as a percentage of lifetime
+26
+fame. People whose names did not appear in the cohorts for the time periods in question (1925-1933,
+1933-1945, and 1955-1965) were eliminated from the analysis.
+The cohorts we generated were based on four major sources, and their content is given in Appendix.
+1) The Hermann lists
+The lists of the infamous librarian Wolfgang Hermann were originally published in a librarianship journal
+and later in Boersenblatt, a publishing industry magazine in Germany. They are reproduced in Ref S11. A
+digital version is available on the German-language version of Wikipedia (Ref S12). We considered
+digitizing Ref S10 by hand to ensure accuracy, but felt that both OCR and manual entry would be timeconsuming
+and error prone. Consequently, we began with the list available on Wikipedia and hired a
+manual annotator to compare this list with the version appearing in Ref S11 to ensure the accuracy of the
+resulting list. The annotator did not have access to our data and made these decisions purely on the
+basis of the text of Ref S11. The following changes were made:
+Literature
+1) “Fjodor Panfjorow” was changed to “Fjodor Panferov”.
+2) “Nelly Sachs” was deleted.
+History
+1) “Hegemann W. Ellwald, Fr. v.” was changed to “W. Hegemann” and “Fr. Von Hellwald”
+Art
+4) “Paul Stefan” was deleted.
+Philosophy/Religion
+1) “Max Nitsche” was deleted.
+The results of this manual correction process were used as our lists for Politics, Literature, Literary
+History, History, Art-related Writers, and Philosophy/Religion.
+27
+2) The Berlin list
+The lists of Hermann continued to be expanded by the Nazi regime. We also analyzed a version from
+1938 (Ref S13). This version was digitized by the City of Berlin to mark the 75 th year after the book
+burnings in 2008 (Ref S14). The list of authors appearing on the website occasionally included multiple
+authors on a single line, or errors in which the author field did not actually contain the name of a person
+who wrote the text. These were corrected by hand to create an initial list.
+We noted that many authors were listed only using a last name and a first initial. Our manual annotator
+attempted to determine the full name of any such author. The results were far from comprehensive, but
+did lead us to expand the dataset somewhat; names with only first initials were replaced by the full name
+wherever possible.
+Some authors were listed using a pseudonym, and on several occasions our manual annotator was able
+to determine the real name of the author who used a given pseudonym. In this case, the real name was
+added to the list.
+In addition, we occasionally included multiple spelling variants for a single author. Because of this, and
+because an author‟s real name and pseudonym may both be included on the list, the number of author
+names on the list very slightly exceeds the number of individuals being examined. The numbers reported
+in the figure are the number of names on the list.
+It is worth pointing out that Adolf Hitler appears as an author of one of the banned books from 1938. This
+is due to a French version of Mein Kampf, together with commentary, which was banned by the Nazi
+authorities. Although it is extremely peculiar to find Hitler on a list of banned authors, we did not remove
+Hitler‟s name, as we had no basis for doing so from the standpoint of the technical authorship and name
+criteria described above: Adolf Hitler is indeed listed as the author of a book that was banned by the Nazi
+regime. This is consistent with our stance throughout the paper, which is that we avoided making
+judgments ourselves that could bias the outcome of our results. Instead, we relied strictly upon our
+secondary sources. Because Adolf Hitler is only one of many names, the list as a whole nevertheless
+exhibits strong evidence of suppression, especially because the measure we retained (median usage) is
+robust to such outliers.
+3) Degenerate artists
+The list of degenerate artists was taken directly from the catalog of a recent exhibition at the Los Angeles
+County Museum of Art which endeavored to reconstruct the original „Degenerate Art‟ exhibition (Ref S15).
+4) People with recorded ties to Nazis
+The list of Nazi party members was generated in a manner consistent with the occupation categories in
+section 7. We included the following Wikipedia categories: Nazis_from_outside_Germany, Nazi_leaders,
+SS_officers, Holocaust_perpetrators, Officials_of_Nazi_Germany, Nazis_convicted_of_war_crimes,
+together with all of their subcategories, with the exception of Nazis_from_outside_Germany. In addition,
+the three categories German_Nazi_politicians, Nazi_physicians, Nazis were included without their
+respective subcategories.
+III.9B. De Novo Identification of Censored and Suppressed Individuals
+We began with the list of 56,500 people, comprising the 500 most famous individuals born in each year
+from 1800 – 1913. This list was derived from the analysis of all biographies in Wikipedia described in
+section 7. We removed all individuals whose mean frequency in the German language corpus was less
+than 5 x 10 -9 during the period from 1925 – 1933; because their frequency is low, a statistical assessment
+of the effect of censorship and suppression on these individuals is more susceptible to noise.
+The suppression index is computed for the remaining individuals using an observed/expected measure.
+The expected fame for a given year is computed by taking the mean frequency of the individual in the
+German language from 1925-1933, and the mean frequency of the individual from 1955-1965. These two
+values are assigned to 1929 and 1960, respectively; linear interpolation is then performed in order to
+compute an expected fame value in 1939. This expected value is compared to the observed mean
+frequency in the German language during the period from 1933-1945. The ratio of these two numbers is
+the suppression index s. The complete list of names and suppression indices is included as supplemental
+data. The distribution of s was plotted for using a logarithmic binning strategy, with 100 bins between 10 -2
+and 10 2 . Three specific individuals who received scores indicating suppression in German are indicated
+on the plot by arrows (Walter Gropius, Pablo Picasso, and Hermann Maas).
+As a point of comparison, the entire analysis was repeated for English; these results are shown on the
+plot.
+III.9C. Validation by an expert annotator
+We wanted to see whether the findings of this high-throughput, quantitative approach were consistent
+with the conclusions of an expert annotator using traditional, qualitative methods. We created a list of 100
+individuals at the extremes of our distribution, including the names of the fifty people with the largest s
+value and of the fifty people with the smallest s value. We hired a guide at Yad Vashem with advanced
+degrees in German and Jewish literature to manually annotate these 100 names based on her
+assessment of which people were suppressed by the Nazis (S), which people would have benefited from
+the Nazi regime (B), and lastly, which people would not obviously be affected in either direction (N). All
+100 names were presented to the annotator in a single, alphabetized list; the annotator did not have
+access to any of our methods, data, or conclusions. Thus the annotator‟s assessment is wholly
+independent of our own.
+28
+The annotator assigned 36 names to the S category and 27 names to the B category; the remaining 37
+were given the ambiguous N classification. Of the names assigned to the S category by the human
+annotator, 29 had been annotated as suppressed by our algorithm, and 7 as elevated, so the
+correspondence between the annotator and our algorithm was 81%. Of the names assigned to the B
+category, 25 were annotated as elevated by our algorithm, and only 2 as suppressed, so the
+correspondence was 93%.
+Taken together, the conclusions of a scholarly annotator researching one name at a time closely matched
+those of our automated approach. These findings confirm that our computational method provides an
+effective strategy for rapidly identifying likely victims of censorship given a large pool of possibilities.
+III.10. Epidemics
+Disease epidemics have a significant impact on the surrounding culture (Fig. S18 A-C). It was recently
+shown that during seasonal influenza epidemics, users of Google are more likely to engage in influenzarelated
+searches, and that this signature of influenza epidemics corresponds well with the results of CDC
+surveillance (Ref S16). We therefore reasoned that culturomic approaches might be used to track
+historical epidemics. These could help complement historical medical records, which are often woefully
+incomplete.
+We examined timelines for 4 diseases: influenza (main text), cholera, HIV, and poliomyelitis. In the case
+of influenza, peaks in cultural interest showed excellent correspondence with known historical epidemics
+(the Russian Flu of 1890, leading to 1M deaths, the Spanish Flu of 1918, leading to 20-100M deaths; and
+the Asian Flu of 1957, leading to 1.5M deaths). Similar results were observed for cholera and HIV.
+However, results for polio were mixed. The US epidemic of 1916 is clearly observed, but the 1951-55
+epidemic is harder to pinpoint: the observed peak is much broader, starting in the 30s and ending in the
+60s. This is likely due to increased interest in polio following the election of Franklin Delano Roosevelt in
+1932, as well as the development and deployment of Salk‟s polio vaccine in 1952 and Sabin‟s oral
+version in 1962. These confounding factors highlight the challenge of interpreting timelines of cultural
+interest: interest may increase in response to an epidemic, but it may also respond to a stricken celebrity
+or a famous cure.
+The dates of important historical epidemics were derived from the Cambridge World History of Human
+Diseases (1993) 3 rd Edition.
+For cholera, we retained the time periods which most affected the Western world, according to this
+resource:
+- 1830-35 (Second Cholera Epidemic)
+- 1848-52, and 1854 (Third Cholera Epidemic)
+- 1866-74 (Fourth Cholera Epidemic)
+- 1883-1887 (Fifth Cholera Epidemic)
+The first, sixth and seventh cholera epidemics appear not to have caused significant casualties in the
+Western world.
+29
+Supplementary References
+“Quantitative analysis of culture using millions of digitized books”,
+Michel et al.
+S1. L. Taycher, “Books of the world stand up and be counted”,
+2010. http://booksearch.blogspot.com/2010/08/books-of-world-stand-up-and-becounted.html
+S2. Ray Smith, Daria Antonova, and Dar-Shyang Lee, Adapting the Tesseract
+open source OCR engine for multilingual OCR, Proceedings of the
+International Conference on Multilingual OCR, Barcelona Spain, 2009,
+http://doi.acm.org/10.1145/1577802.1577804
+S3. Popat, Ashok. "A panlingual anomalous text detector." DocEng '09: Proceedings
+of the 9th ACM symposium on Document Engineering, 2009, pp. 201-204.
+S4. Brants, Thorsten and Franz, Alex. "Web 1T 5-gram Version 1." LDC2006T13
+http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2006T13
+S5. Dean, Jeffrey and Ghemawat, Sanjay. "MapReduce: Simplified Data Processing
+on Large Clusters." OSDI '04 p137--150
+S6. Lyman, Peter and Hal R. Varian, "How Much Information", 2003.
+http://www2.sims.berkeley.edu/research/projects/how-much-info-
+2003/print.htm#books
+S7. http://en.wikipedia.org/wiki/List_of_treaties.
+S8. http://en.wikipedia.org/wiki/Geographical_renaming]
+S9. Christian Bizer, Jens Lehmann, Georgi Kobilarov, Sören Auer, Christian Becker,
+Richard Cyganiak, Sebastian Hellmann.” DBpedia – A Crystallization Point for
+the Web of Data.” Journal of Web Semantics: Science, Services and Agents on
+the World Wide Web, 2009, pp. 154–165.
+S10. http://en.wikipedia.org/wiki/Timeline_of_historic_inventions
+S11. Gerhard Sauder: Die Bücherverbrennung.10. Mai 1933. Ullstein Verlag, Berlin,
+Wien 1985.
+S12. http://de.wikipedia.org/wiki/Liste_der_verbrannten_Bücher_1933.
+S13. Liste Des Schädlichen Und Unerwünschten Schrifttums: Stand Vom 31. Dez.
+1938. Leipzig: Hedrich, 1938. Print.
+S14. http://www.berlin.de/rubrik/hauptstadt/verbannte_buecher/az-autor.php
+S15. Barron, Stephanie, and Peter W. Guenther. Degenerate Art: the Fate of the
+Avant-garde in Nazi Germany. Los Angeles, CA: Los Angeles County Museum
+of Art, 1991. Print.
+S16. Ginsberg, Jeremy, Matthew H. Mohebbi, Rajan S. Patel, Lynnette Brammer,
+Mark S. Smolinski, and Larry Brilliant. "Detecting Influenza Epidemics Using
+Search Engine Query Data." Nature 457 (2008): 1012-014.
+Supplementary Figures
+“Quantitative analysis of culture using millions of digitized books”,
+Michel et al.
+Figure S1
+Fig. S1. Schematic of stereo scanning for Google Books.
+Figure S2
+Fig. S2. Example of a page scanned before (left) and after processing (right).
+Figure S3
+Fig. S3. Outline of n-gram corpus construction. The numbering corresponds to sections of the text.
+Figure S4
+Fig. S4. Fraction of English Books with a given OCR quality.
+Figure S5
+Fig. S5. Known events exhibit sharp peaks at date of occurrence. We select groups of events that occur
+at known dates, and produce the corresponding timeseries. We normalize each timeserie relative to its
+total frequency, center the timeseries around the relevant event, and plot the mean. (A) A list of 124
+treaties. (B) A list of 43 head of state (US presidents, UK monarchs), centered around the year when they
+were elected president or became king/queen. (C) A list of 28 country name changes, centered around
+the year of name change. Together, these form positive controls about timeseries in the corpus.
+Figure S6
+Fig. S6. Frequency distribution of words in the dictionary. We compute the frequency in our year 2000
+lexicon for all 116,156 words (1-grams) in the AHD (year 2000). We represent the percentage of these
+words whose frequency is smaller than the value on the x-axis (logarithmic scale, base 10). 90% of all
+words in AHD are more frequent than 1 part per billion (10 -9 ), but only 75% are more frequent than 1
+part per 100 million (10 -8 ).
+Figure S7
+Fig. S7. Lexical trends excluding proper nouns. We compute the number of words that are 1-grams in
+the categories “P”, “B” and “R”. The same upward trend starting in 1950 is observed. The size of the
+lexicon in the year 2000 is still larger than the OED or W3.
+Figure S8
+Fig. S8. Example of grammatical change. Irregular verbs are used as a model of grammatical evolution.
+For each verb, we plot the usage frequency of its irregular form in red (for instance, ‘found’), and the
+usage frequency of its regular past-tense form in blue (for instance, ‘finded’). Virtually all irregular verbs
+are found from time to time used in a regular form, but those used more often tend to be used in a
+regular way more rarely. This is illustrated in the top two rows with the frequently-used verb “find” and
+the less often encountered “dwell”. In the third row, the trajectory of “thrive” is one of many ways by
+which regularization occurs. The bottom two panels shows that the regularization of “spill” happened
+earlier in the US than in the UK.
+Figure S9
+Fig. S9. We forget. Events of importance provoke a peak of discussion shortly after they happened, but
+interest in them quickly decreases.
+Figure S10
+Fig. S10. Biographical Records. The number of records parsed from the two encyclopedic sources (blue
+curve), and used in our analyses (green curve). See steps 7.A.1 to 7.A.10 above.
+Figure S11
+Fig. S11. Selection of query name. The chosen query name is in black. (A) Adrien Albert Marie de Mun.
+Strongest and optimal query name is Albert de Mun, (B) Oliver Joseph Lodge, strongest and optimal
+query name is Oliver Lodge, (C) Henry David Thoreau. Strongest query name is David Thoreau, but is a
+substring match of Henry David Thoreau, with fame >80% of David Thoreau. Optimal query name is
+Henry David Thoreau. (D) Mary Tyler Moore. Strongest name is Mary Moore, but is rejected because of
+noise. Next strongest is Tyler Moor, but this is a substring match of Mary Tyler Moore, with fame >80%
+of Tyler Moore. Optimal query name is thus Mary Tyler Moore.
+Figure S12
+Fig. S12. Filtering out names with trajectories that cannot be resolved. Illustrates the requirement for
+query name filtration on the basis of premature fame. Fame a birth is the average fame in a 10 year
+window around birth, lifetime fame is the average fame from year of birth to 2000. The dashed line in
+(A), (D) indicates the separatrix used to excluded query names with premature fame signals. Points to
+the right were rejected from further analysis. In (B), (C), (E), (F) the black line indicates the year of birth
+of the individuals whose fame trajectories are plotted.
+Figure S13
+Fig. S13. Values of the four parameters of fame as a function of time. ‘Age of peak celebrity’ (75 years
+old) has been fairly consistent. Celebrities are noticed earlier, and become more famous than ever
+before: ‘Age of initial celebrity’ has dropped from 43 to 29 years, and ‘Doubling time’ has dropped from
+8.1 to 3.3 years. But they are forgotten sooner as well: the half-life has declined from 120 years to 71.
+Figure S14
+Fig. S14. Fundamental parameters of fame do not depend on the underlying source of people studied.
+We represent the analysis of fame using individuals from Encyclopedia Britannica.
+Figure S15
+Fig. S15. Many routes to Immortality. People leave more behind them than their name: ‘Mary Shelley’
+(blue) created the monstrously famous ‘Frankenstein’ (green).
+Figure S16
+Fig. S16. Controls. (A) We observe over the same timespan (100 years) two cohorts invented at different
+times. Again, the more recent cohort reaches 25% of its peak faster. (B) We verify that inventions have
+already reached their peak. We calculate the peak of each invention, and plot the distribution of these
+peaks as a function of year, grouping them along the same cohorts as used in the text. In each case, the
+distribution falls within the bounds of the period observed (1800-2000).
+Figure S17
+Fig. S17. Suppression of authors on the Art and Literary History blacklists in German. We plot the
+median trajectory (as in the main text) of authors in the Herman lists for Art (green) and Literary History
+(red), and for authors found in the 1938 blacklist (blue). The Nazi regime (1933-1945) is highlighted, and
+corresponds to strong drops in the trajectories of these authors.
+Figure S18
+Fig. S18. Tracking historical epidemics using their influence on the surrounding culture. (A) Usage
+frequency of various diseases: ‘fever’ (blue), ‘cancer’ (green), ‘asthma’ (red), ‘tuberculosis’ (cyan),
+‘diabetes’ (purple), ‘obesity’ (yellow) and ‘heart attack’ (black). (B) Cultural prevalence of AIDS and HIV.
+We highlight the year 1983 when the viral agent was discovered. (C) Usage of the term ‘cholera’ peaks
+during the cholera epidemics that affected Europe and the US (blue shading). (D) Usage of the term
+‘infantile paralysis’ (blue) exhibits one peak during the 1916 polio epidemic (blue shading), and a second
+around the time of a series of polio epidemics that took place during the early 1950s. But the second
+peak is anomalously broad. Discussion of polio during that time may have been fueled by the election of
+‘Franklin Delano Roosevelt’ (green), who had been paralyzed by polio in 1936 (green shading), as well as
+by the development of the ‘polio vaccine’ (red) in 1952. The vaccine ultimately eradicated ‘infantile
+paralysis’ in the United States.
+Figure S19
+Fig. S19. Culturomic ‘timelines’ reveal how often a word or phrase appears in books over time. (A) ‘civil
+rights’, ‘women’s rights’, ‘children’s rights’ and ‘animals rights’ are shown. (B) ‘genocide’ (blue), ‘the
+Holocaust’ (green), and ‘ethnic cleansing’ (red) (C) Ideology: ideas about ‘capitalism’ (blue) and
+‘communism’ (green) became extremely important during the 20 th century. The latter peaked during the
+1950s and 1960s, but is now decreasing. Sadly, ‘terrorism’ (red) has been on the rise. (D) Climate
+change: Awareness of ‘global temperature’, ‘atmospheric CO2’, and ‘sea levels’ is increasing. (E) ‘aspirin’
+(blue), ‘penicillin’ (green), ‘antibiotics’ (red), and ‘quinine’ (cyan). (F) ‘germs’ (blue), ‘hygiene’ (green)
+and ‘sterilization’ (red). (G) The history of economics: ‘banking’ (blue) is an old concept which was of
+central concern during ‘the depression’ (red). Afterwards, a new economic vocabulary arose to
+supplement the older ideas. New concepts such as ‘recession’ (cyan), ‘GDP’ (purple), and ‘the economy’
+(green) entered everyday discourse. (H) We illustrate geographical name changes: ‘Upper Volta’ (blue)
+and ‘Burkina Faso’ (green). (I) ‘radio’ in the US (blue) and in the UK (red) have distinct trajectories. (J)
+‘football’ (blue), ‘golf’ (green), ‘baseball’ (red), ‘basketball’ (cyan) and ‘hockey’ (purple) (K) Sportsmen: In
+the 1980s, the fame of ‘Michael Jordan’ (cyan) leaped over other that of other great athletes, including
+‘Jesse Owens’ (green), ‘Joe Namath’ (red), ‘Mike Tyson’ (purple), and ‘Wayne Gretsky’ (yellow).
+Presently, only ‘Babe Ruth’ (blue) can compete. One can only speculate as to whether Jordan’s hang
+time will match that of the Bambino. (L) ‘humorless’ is a word that rose to popularity during the first half
+of the century. This indicates how these data can serve to identify words that are a marker of a specific
+period in time.

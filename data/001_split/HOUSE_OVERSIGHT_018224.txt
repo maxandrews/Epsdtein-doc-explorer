@@ -1,0 +1,366 @@
+conversationid":"8:live:linkspirit","from":"8:live:linkspirit","properties":null,"amsreferences":null},{"id":" 
+1554479008608","displayName":null,"originalarrivaltime":"2019-04-05T15:43:25.051Z","messagetype":"Event/Call"," 
+version":1554479008608.0,"content":"<partlist type=\"ended\" alt=\"\" 
+callId=\"f3ce37d6-c385-4dca-89fe-4e19364143f1\"><part 
+identity=leevacation\"><name>jeevacation</name><duration>166.869</duration></part><part 
+identit =\"live:linkspirit\"><name 
+/name><duration>166.869</duration></part></partlist>","conversationid":"8:live:linkspirit","from":"8: 
+jeevacation","properties":null,"amsreferences":null}, Vid":"1554478841428","displayName":null,"originalarrivaltime":" 
+2019-04-05T15:40:38.22Z","messagetype":"Event/Call","version":1554478841428.0,"content":"<partlist type=\"started\" 
+alt=\"\" callId=\"f3ce37d6-c385-4dca-89fe-4e 19364143f1\"><part 
+identity=leevacation\"><name>jeevacation</name></part><part identity=\"live:linkspirit\"><nameM 
+iname></part></partlist>","conversationid":"8:live:linkspirit","from":"8:jeevacation","properties":null," 
+amsreferences":null}, {"id":" 1554478828396","displayName":"D ","originalarrivaltime":"2019-04-05T15:40:28.215Z"," 
+messagetype":"RichText","version": 1554478828396.0,"content":"<ss type=\"smile\">:)</ss> 
+","conversationid":"8: live: linkspirit","from":"8: live:linkspirit","properties":null,"amsreferences":null} , {"id":" 
+1554478825396","displayName":"D ","originalarrivaltime":"2019-04-05T15:40:24.483Z","messagetype":"RichText"," 
+version":1554478825396.0,"content":"Nice article about girls for trump 
+","conversationid":"8:live:linkspirit","from":"8:live:linkspirit","properties":null,"amsreferences":null}, {"id":" 
+1554478804520","displayName":null,"originalarrivaltime":"2019-04-05T15:40:01.272Z","messagetype":"RichText"," 
+version":1554478804520.0,"content":"now natasha should understand that i dont care about her 
+photos","conversationid":"8: live: linkspirit","from":"8:j eevacation","properties":null,"amsreferences":null} , {"id":" 
+1554478779519","displayName":null,"originalarrivaltime":"2019-04-05T15:39:36.308Z","messagetype":"RichText"," 
+version":1554478779519.0,"content":"do i look 
+cute","conversationid":"8:live:linkspirit","from":"8:jeevacation","properties":null,"amsreferences":null}, {"id":" 
+1554478759720","displayName":"D ","originalarrivaltime":"2019-04-05T15:39:19.538Z","messagetype":"RichText"," 
+version":1554478759720.0,"content":"We googled you 
+","conversationid":"8:live: linkspirit","from":"8: live:linkspirit","properties":null,"amsreferences":null} , {"id":" 
+1554478236496","displayName":null,"originalarrivaltime":"2019-04-05T15:30:33.021Z","messagetype":"Event/Call"," 
+version": 1554478236496.0,"content":"<partlist type=\"ended\" alt=\"\" 
+callId=\"7bf0b7ba-4703-4996-8eb6-8f4b3d2e17c6\"><part 
+identity=leevacation\"><name>jeevacation</name><duration>755.462</duration></part><part 
+ntit "li e:linkspirit\"><nameM 
+/name><duration>755.462</duration></part></partlist>","conversationid":"8:live:linkspirit","from":"8: 
+jeevacation","properties":null,"amsreferences":null}, { "id":"1554477480760","displayName":null,"originalarrivaltime":" 
+2019-04-05T15:17:57.605Z","messagetype":"Event/Call","version":1554477480760.0,"content":"<partlist 
+type=\"started\" alt=\"\" callId=\"7bf0b7ba-4703-4996-8eb6-8f4b3d2e17c6\"><part 
+identit =\"'eevacation\"><name>jeevacation</name></part><part identity=\"live:linkspirit\"><nameM 
+/name></part></partlist>","conversationid":"8:live:linkspirit","from":"8:jeevacation","properties":null," 
+amsreferences":null}, {"id":" 1554477455181","displayName":"D ","originalarrivaltime":"2019-04-05T15:17:35.028Z"," 
+messagetype":"RichText","version":1554477455181.0,"content":"May we call you? 
+","conversationid":"8:live: linkspirit","from":"8: live:linkspirit","properties":null,"amsreferences":null} , {"id":" 
+1554474972179","displayName":"D ","originalarrivaltime":"2019-04-05T14:36:11.929Z","messagetype":"Event/Call"," 
+version": 1554474972179.0,"content":"<partlist type=\"ended\" alt=\"\" 
+callId=\"b6dc902b-cc99-4c78-91f4-eed0c9ef1598\"><part identity=\"live:linkspirit\"><name>= 
+/name><duration>60.886</duration></part><part 
+identity=leevacation\"><name>jeevacation</name><duration>60.886</duration></part></partlist>","conversationid":" 
+8 :live :linkspirit","from" : "8 :live:linkspirit","properties" :null,"amsreferences" :null} , { "id" :"1554474911271"," 
+displayName":"D E ","originalarrivaltime":"2019-04-05T14:35:11.115Z","messagetype":"Event/Call","version": 
+1554474911271.0,"content":"<partlist type=\"started\" alt=\"\" callId=\"b6dc902b-cc99-4c78-91f4-eed0c9ef1598\"><part 
+identity=\"live:linkspirit\"><name> </name></part><part 
+identity=leevacation\"><name>jeevacation</name></part></partlist>","conversationid":"8:live:linkspirit","from":"8: 
+live:linkspirit","properties":null,"amsreferences":null},{"id":" 1554474902693","displayName":null,"originalarrivaltime":" 
+2019-04-05T14:34:59.931Z","messagetype":"RichText","version": 1554474902693.0,"content":"10 
+minutes","conversationid":"8: live:linkspirit","from":"8:j eevacation","properties":null,"amsreferences":null} , {"id":" 
+1554474886786","displayName":"D E ","originalarrivaltime":"2019-04-05T14:34:46.136Z","messagetype":"Event/Call"," 
+version":1554474886786.0,"content":"<partlist type=\"missed\" alt=\"\" 
+callId=\"093b857c-7a65-44ae-ad88-5e22d2103a29\"><part identity=\"live:linkspirit\"><nameM 
+/name></part><part 
+HOUSE OVERSIGHT 018224 
+leaving monday 
+","conversationid":1 ","from": ',"properties" :null,"amsreferences" :null}, {"id":" 1559390086120"," 
+displayName": 
+originalarrivaltime":"2019-06-01T11:54:45.3Z","messagetype":"RichText","version":1559390086120.0," 
+content" :"I m leaving monda 
+","conversationid": ,"from": ","properties" :null,"amsreferences" :null} , { "id" :" 1559389789535"," 
+displayName":null,"originalarrivaltime":"2019-06-01T11:49:49.426Z","messagetype":"RichText","version": 
+15593 89789535.0,"content":"mon","conversationid":" ","from":"8:jeevacation","properties":null," 
+amsreferences" :null} , {"id":" 1559389721987","displayName": 
+","originalarrivaltime":"2019-06-01T11:48:33.311Z","messagetype":"RichText","version": 1559389721987.0," 
+content": "When ? 
+","conversationid": "from":' ,"properties" :null,"amsreferences" :null , { "id" :" 15593 89017100"," 
+displayName":null,"originalarrivaltime":"2019-06-01T11:36:57.031Z","messagetype":"RichText","version": 
+1559389017100.0,"content":"trump coming to londong will be crazy 
+","conversationid": ","from":"8:jeevacation","properties":null,"amsreferences":null}, {"id":"1559328334904"," 
+dis layName":= 
+,"originalarrivaltime" :"2019-05-31T18:45:34.159Z","messagetype" :"Event/Call","version" : 1559328336498.0," 
+content" "<partlist \ "missed\ " alt=\"\" callId=\"9931567a-f8a9-4b63-a9dc-6c8eef09e921\"><part 
+identity= \"><name/name><duration>1.368</duration></part><part 
+identity=1 eevacation\ "><name>j e evacation</name><duration>1.368</duration></part></partlist>","convers ationid" : "8: 
+,"properties": Vedittime":"1559328335967"1,"amsreferences":null}, {"id":" 
+1559328336217","displayName" :1 
+,"originalarrivaltime" :"2019-05-31T18:45:36.217Z","messagetype" :"Event/Call","version" :1559328336217.0," 
+content" :"< artlist type= \ "missed\ " alt=\"\" callId=\"9931567a-f8a9-4b63-a9dc-6c8eef09e921\"><part 
+identity \"><name/name><duration>1.368</duration></part><part 
+idertiti\ "jeevacation\ "><name>j e evacation</name><duration>1.368</duration></part></partlist>","convers ationid" : "8: 
+","from": ',"properties": { "isserversidegenerated" :"True"},"amsreferences" :null}, { "id":" 
+1559312978521","displayName":  
+M'originalarrivaltime" :"2019-05-31T14:29:37.983Z","messagetype" :"RichText","version" :1559312978521.0," 
+content" :"The girls are free around 6pm 
+","conversationid": "from": ,"properties" :null,"amsreferences" :null}, {" id" :" 1559312968427"," 
+disnlayName": 
+,"originalarrivaltime" :"2019-05-31T14:29:27.846Z","messagetype" :"RichText","version" :1559312968427.0," 
+content":"I m at the museum 
+","conversationid": 
+","from,"properties" :null,"amsreferences" :null} , { "id":" 1559307931244"," 
+displayName":null,"originalarrivaltime":"2019-05-31T13:05:31.082Z","messagetype":"RichText","version": 
+1559307931244.0,"content":"Fun?","conversationid": ,"from" :"8:j eevacation","properties" :null," 
+amsreferences" :null} , {"id" :"1559304853407","displayName":null,"originalarrivaltime" :"2019-05-31T12: 14: 12.668Z"," 
+messagetype":"RichText","version": 1559304853407.0,"content":"yes","conversationid": ' "from" :"8: 
+,cation", "properties" :null,"amsreferences" :null} , { "id" :"1559303828889","displayName" : 
+"originalarrivaltime":"2019-05-31T11:57:08.532Z","messagetype":"RichText","version": 1559303828889.0," 
+content":"Her friend ? 
+","conversationid": 
+,"from":' ',"properties" :null,"amsreferences" :null}, {"id":" 1559303808967"," 
+displayName":null,"originalarrivaltime":"2019-05-31T11:56:48.89Z","messagetype":"RichText","version": 
+1559303808967.0,"content" • "it was sent to 
+"conversationid": rom":"8: j eevacation","properties" :null,"amsreferences":null} , { "id":" 
+J.WU02248470","displayName" 
+M"originalarrivaltime" : "201 11:30:37.238Z","messagetype":"RichText","version":1559302248470.0," 
+content":' from Prague said that she never received 750 usd 
+","conversationid": ,"from" ,"properties" :null,"amsreferences" :null}, {"id":" 1559297904423 " ," 
+displayName": 
+,"originalarrivaltime" :"2019-05-31T10: 18:22. 869Z","messagetype" :"RichText","version" :1559297904423.0," 
+content" :"Good and ou ? 
+","conversationid":1 "from":' ,"properties" :null,"amsreferences" :null}, { "id":" 15592970387367 
+displayName":null,"originalarrivaltime":"2019-05-31T10:03:58.693Z","messagetype":"RichText","version": 
+1559297038736.0,"content":"all 
+good?", "convers ationid" : " "from": "8: j eevacation","properties":null,"amsreferences" :null}, {"id":" 
+1559233929278","display 
+12071v itmg.....1-‘,t•itl?1-,Thvim if‘Tc.,-;,,,,iv•15501110101-752 " 
+HOUSE OVERSIGHT 018225 
+22:50.566Z","messagetype":"RichText","version": 1558354971525.0,"content":"London on the 31st 
+","conversationid":' ","from":' ',"properties" :null,"amsreferences" :null} , {"id":" 1558348360275"," 
+displayName":null,"originalarrivaltime":"2019-05-20T10:32:40.169Z","messagetype":"RichText","version": 
+1558348360275.0,"content":"when do you plan to go to 
+london","conversationid": "from": " 8 jeevacation","properties":null,"amsreferences":null}, { "id" :" 
+1558348351352","displayName":null,"originalarrivaltime":"2019-05-20T10:32:31.05Z","messagetype":"RichText"," 
+version":1558348351352.0,"content":"yes i spoke to i think she will be a help to you in tokyo. 
+","conversationid":' ,"from": "8 jeevacation","properties" :null,"amsreferences":null} , {"id":"1558348323414"," 
+displayName":" 
+,"originalarrivaltime" :"2019-05-20T10:32: 02.415Z","messagetype" :"RichText","version" :1558348323414.0," 
+content":"All good ? 
+","conversationid":' 
+displayName":' 
+=","originalarrivaltime":"2019-05-20T09:03:12.689Z","messagetype":"RichText","version":1558342996351.0," 
+content": "<a 
+href=\"https://mobile.francetvinfo.fr/monde/usa/presidentielle/donald-trump/europeennes-la-republique-en-marche-
+denonce-la-presence-de-steve-bannon-a-paris 3450243.html#xtref=https://www.google.frA">https://mobile.francetvinfo. 
+paris 3450243.html#xtref=https://www.google.fr/</a>","conversationid":"8',"from":"8 
+fr/monde/usa/presidentielle/donald-trump/europeennes-la-republique-en-marche-denonce-la-preilateve-bannon-a-
+,"properties":{" 
+urlpreviews":"[rkey\":\"https://mobile.francetvinfo.fr/monde/usa/presidentielle/donald-trump/europeennes-la-
+republique-en-marche-denonce-la-presence-de-steve-bannon-a-paris 3450243.html#xtref=https://www.google.frA",\" 
+value: rurl\": \"https://mobile.francetvinfo.fr/monde/usa/presidentielle/donald-trump/europeennes-la-republique-en-
+marche-denonce-la-presence-de-steve-bannon-a-paris 3450243.html#xtref=https://www.google.frA",\"size:V'55013V',\" 
+status code: \"200\",\"content_type:\"text/html\",\"site: \"Franceinfe,\"category\": \"generie,\"title: \"EuropA© 
+ennes : La RACpublique en marche dA©nonce la prA©sence de Steve Bannon A Paris\",\"description\":\"\\\Ilne se 
+cache absolument pas de son envie de s'ingACrer dans notre scrutin\\\",A a rA0agi samedi la tAate de liste LREM pour 
+les AClections europACennes, Nathalie Loiseau.A 
+\", \ "favicon\": \ "https :Heal -urlp.secure.skypeassets.comiimgl/d30a8d0d-097d-4f2a-a73 e-879677389c0a. ice, \ "favicon 
+mete: {\"width\ " :48, \ "height\ " :48 } , \ "thumbnail \ ": \ "https://eal-urlp.secure.skypeassets.com/img1/74f66f37-a8ee-4b41-
+98b4-6de99ee0a767.jpeg\ ", \ "thumbnail mete: {\"width\ ":320,\ "height\ ":180}, \"user_pie:\"\"} }]" 1,"amsreferences": 
+null}, {"id":" 1558342987773 ","displayName" 
+,"originalarrivaltime":"2019-05-20T06:38:09.293Z","messagetype":"RichText/UriObject","version": 
+1558342987773.0,"content":"<URIObject 
+uri=\"https://api.asm.skype.com/v1/objects/0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\" 
+url_thumbnail=\"https://api.asm.skype.com/v1/objects/0-ea-d8-536f530d0f43cf7b46fc0b5022b88856/views/imgt1 anim\" 
+type=\"Picture.1\" doc id=\"0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\" width=\"900\" height=\"1600\">Pour 
+afficher cette photo partagA0e, allez A A :<a 
+href=\"https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\">https:// 
+login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d8-536f530d0f43cf7b46fc0b5022b88856</a><OriginalName 
+v=\"Oce6694d-303c-4dd5-83e4-25a0d614f92a.jpg\"></OriginalName><FileSize v= \ "232495 \ "></FileSize><meta 
+type=\"phote 
+originalName=\"Oce6694d-303c-4dd5-83e4-25a0d614f92a.jpg\"></meta></URIObject>","conversationid":" 
+from" : '","properties":null,"amsreferences" : ["0-ea-d8-536f530d0f43cf7b46fc0b5022b888561 , rid": " 
+1558334292507","displayName": 
+dads","originalarrivaltime":"2019-05-20T06:38:09.293Z","messagetype":"RichText/UriObject","version": 
+1558334292507.0,"content":"<URIObject 
+uri=\"https://api.asm.skype.com/v1/objects/0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\" 
+url thumbnail=\"https://api.asm.skype.com/v1/objects/0-ea-d8-536f530d0f43cf7b46fc0b5022b88856/views/imgt1 anim\" 
+type=\"Picture.1\" doc_id=\"0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\" width=\"900\" height=\"1600\">Pour 
+afficher cette photo partagACe, allez A A :<a 
+href=\"https://login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d8-536f530d0f43cf7b46fc0b5022b88856\">https:// 
+login.skype.com/login/sso?go=xmmfallback?pic=0-ea-d8-536f530d0f43cf7b46fc0b5022b88856</a><OriginalName 
+v=\"Oce6694d-303c-4dd5-83e4-25a0d614f92a.jpg\"></OriginalName><FileSize v=\"232495\"></FileSize><meta 
+type=\"phote 
+originalName=\"Oce6694d-303c-4dd5-83e4-25a0d614f92a.jpg\"></meta></URIObject>","conversationid":' 
+from":" ","properties":null,"amsreferences": ["0-ea-d8-536f530d0f43cf7b46fc0b5022b8885611, Vid":" 
+1558274182397","displayName":null,"originalarrivaltime":"2019-05-19T13:56:21.567Z","messagetype":"Event/Call"," 
+version":1558274182397.0,"content":"<partlist type=\"ended\" alt=\"\" 
+rallTr1=\"1-‘g,-11 fdo_fla 11-411rol-va r52_11Off5 RiciAl \ "-><--nart 
+',"from": '","properties" :null,"amsreferences" :null} , {"id":" 1558342996351"," 
+HOUSE OVERSIGHT 018226 
+originalarrivaltime":"2017-08-24T14:45:23.08Z","messagetype":"Event/Call","version": 1503585923375.0,"content":"< 
+partlist type=\"started\" alt=\"\" callId=\"b44a321d-f7a4-493f-90e8-774e28bade05\"><part 
+identity=leevacation\"><name>jeevacation</name></part><part identity=\"lawkrauss\"><name>Lawrence 
+Krauss</name></part></partlist>","conversationid":"8:lawkrauss","from":"8:jeevacation","properties":null," 
+amsreferences":null}, {"id":" 1503581818456","displayName":null,"originalarrivaltime":"2017-08-24T13:36:58.455Z"," 
+messagetype":"Event/Call","version":1503581818456.0,"content":"<partlist type=\"ended\" alt=\"\">\n <part 
+identity=leevacation\">\n <name>jeevacation</name>\n <duration>l</duration>\n </part>\n <part 
+identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n <duration>l</duration>\n 
+</part>\n</partlist>","conversationid":"8:lawkrauss","from":"8:jeevacation","properties":null,"amsreferences":null},{" 
+id":" 1503581817315","displayName":null,"originalarrivaltime":"2017-08-24T13:36:57.314Z","messagetype":"Event/ 
+Call", "version": 1503581817315.0,"content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n 
+<name>jeevacation</name>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" :"8 Jawkrauss","from" :"8:j eevacation","properties" :null,"amsreferences" :null} , {" 
+id":" 1503571259463 ","displayName" :null,"originalarrivaltime" : "2017-08-24T10:40:59.463Z","messagetype" :"Text"," 
+version":1503571259463.0,"content":"from the worlds expert KEN STARR. clinton. removed from Baylor under title 9 
+.","conversationid" :"8: lawkrauss","from" :"8:j eevacation","properties":null,"amsreferences" :null} , {"id":" 
+1503571228541","displayName":null,"originalarrivaltime":"2017-08-24T10:40:28.541Z","messagetype":"Text"," 
+version":1503571228541.0,"content":"Consult a lawyer beforehand, if possible, but be cooperative/nice at this stage. But 
+this sounds like an internal discipline matter rather than Title IX. \n\nGoing into court this morning but can focus/reflect 
+more on this after I emerge (around noon Central).\n\nDoing great! Hope you are as well.\n\nBreakers at Thanksgiving. 
+Where will Jeffrey be?\n\nSent from my iPhone\n\nOn Aug 24, 2017, at 5:24 AM, jeffrey E. <jeevacation@gmail.com> 
+wrote:\n\n> Lawrence Krauss , professor at Arizona , says office of diversity contacts him saying a third party, said you 
+inappropriatly touched another person in AUSTRAILIA after a Skeptics type event. They asked him to sign a paper 
+saying he received notice of the investigation, any statments made could not be used in a court to incriminate him. and if 
+he didnt sign or agree , he was open to disciplinary action. He was concerced that an investigation will now always be 
+part of his file. . he was going to meet the title nine woman today. does he bring a lawyer. does he record the meeting, 
+does he say , he will say nothing but is wiling to listen ? not a good environment nowadays. how are you?\n>\n> On 
+Thu, Aug 24, 2017 at 5:56 AM, Starr, Ken <Ken Starr@bayloredu> wrote:\n>\n> No. Emphatically not if the victim 
+is not a student. What's the student-status, if any, of the \"victim?\" \n>\n> Hugs, Ken\n>\n> Sent from my 
+iPhone\n>\n> On Aug 24, 2017, at 4:48 AM, jeffrey E. <jeevacation@gmail.com> wrote:\n>\n>> A professor friend 
+is told by title nine person that a third party filed a complaint alleging inappropriate touching of a person , not the third 
+party, at a bar in another country by the professor after he gave a lecture for money to an unrelated organization. 
+Jurisdiction?\n>> 
+--","conversationid":"8: lawkrauss","from" :"8:jeevacation","properties":null,"amsreferences" :null} , {"id":" 
+1503545604820","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-08-24T03:33:24.823Z","messagetype":"Text","version":1503545604820.0," 
+content": "I have a question of some urgency. Can you call me tonight at 
+2169703496?","conversationid" : "8 Jawkrauss","from" :" 8 Jawkrauss","properties" :null,"amsreferences" :null} , { "id" :" 
+1503544229572","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-08-24T03:10:29.555Z","messagetype":"Event/Call","version":1503544229572.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+<duration>3</duration>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+<duration>3</duration>\n 
+</part> \n</partlist>","conversationid" : "8 Jawkrauss","from" :" 8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1503544226134","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-08-24T03:10:26.133Z","messagetype":"Event/Call","version":1503544226134.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+</part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part>\n</partlist>","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":null},{"id":" 
+1503537639808","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-08-24T01:20:39.807Z","messagetype":"Text","version":1503537639808.0," 
+content": "can we talk tonight? I need 
+advise.","conversationid" :"8:lawkrauss","from":"8: lawkrauss","properties":null,"amsreferences" :null} , Vid":" 
+1503537629042","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-08-24T01:20:29.034Z","messagetype":"RichText/Media AudioMsg","version": 
+1503537629042.0,"content":"<URIObject type=\"Audio.1/Message.1\" 
+url_thumbnail=\"https://api.asm.skype.com/v1/objects/0-eus-d4-ad50290590a0009ed5eb06aa92a5749e/views/thumbnail\" 
+uri=\"https://api.asm. 
+HOUSE OVERSIGHT 018227 
+place at 
+boulders.","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":nullI, { "id":" 
+1501528786603","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-31T19:19:46.596Z","messagetype":"Event/Call","version":1501528786603.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+<duration>23</duration>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+<duration>23</duration>\n 
+</part> \n</partlist>","conversationid" : "8 :lawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1501528763572","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-31T19:19:23.565Z","messagetype":"Event/Call","version":1501528763572.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+</part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : "8 :lawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1501528580585","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-31T19:16:20.579Z","messagetype":"Event/Call","version":1501528580585.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+<duration>677</duration>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+<duration>677</duration>\n 
+</part> \n</partlist>","conversationid" : "8 :lawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1501527903028","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-31T19:05:03.026Z","messagetype":"Event/Call","version":1501527903028.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+</part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part>\n</partlist>","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":null},{"id":" 
+1501264249116","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-28T17:50:49.11Z","messagetype":"Event/Call","version":1501264249116.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+<duration>536</duration>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+<duration>536</duration>\n 
+</part>\n</partlist>","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":null},{"id":" 
+1501263713374","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-28T17:41:53.324Z","messagetype":"Event/Call","version":1501263713374.0," 
+content":"<partlist type=\"started\" alt-=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+</part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : "8 :lawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1500406932742","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-18T19:42:12.727Z","messagetype":"Text","version":1500406932742.0," 
+content": "Hey.. thanks for Valdson.. he is a lovely fellow., really enjoyed spending time with him, and he was a great 
+help. ","conversationid": "8: lawkrauss","from" : " 8:lawkrauss","properties" :null,"amsreferences" :null}, Vid":" 
+1499812954614","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-11T22:42:34.568Z","messagetype":"RichText","version":1499812954614.0," 
+content":"ok.. in france now.. we can talk next week.. after we deal with trump. <ss type=\"smile\">:)</ss> Thanks for 
+the 
+driver! ","conversationid":"8: lawkrauss","from":"8: lawkrauss","properties":null,"amsreferences":null} , {"id":" 
+1499333820278","displayName":null,"originalarrivaltime":"2017-07-06T09:37:00.28Z","messagetype":"Text","version": 
+1499333820278.0,"content":"lets be creative, not sure , if you are just asking for more. or a new 
+formula.","conversationid":"8:lawkrauss","from":"8:jeevacation","properties":null,"amsreferences":null},{"id":" 
+1499295703442","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T23:01:43.434Z","messagetype":"RichText","version":1499295703442.0," 
+content": "oh yeah.. and I like the idea of you matching ASU.. could you do that? <ss 
+type=\"smile\">:)</ss>","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":null},{" 
+id":"1499295293014","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T22:54:53.017Z","messagetype":"RichText","version":1499295293014.0," 
+content":"don&aposj forget my dream app idea.. and don&aposj steal it. <ss type=\"smile\">:)</ss> anyway, I do think 
+it would be fascinating to make it happen. lets talk about how to make that happen. I think we could learn some very 
+interesting things that could only be learned that 
+way.","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":null},{"id":" 
+1499291829188","displayName":"Lawrence 
+,,,,,in,i—nif;mgo,•,,-mi-7_(1-7_11ST11 .57410 1 R17“ • 1,400101 2101 RR A 
+HOUSE OVERSIGHT 018228 
+messagetype":"Event/Call","version": 1499289710386.0,"content":"<partlist type=\"started\" alt=\"\">\n <part 
+identity=leevacation\">\n <name>jeevacation</name>\n </part>\n <part identity=\"lawkrauss\">\n 
+<name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : "8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1499289671026","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T21:21:11.028Z","messagetype":"Event/Call","version":1499289671026.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+<duration>48</duration>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+<duration>48</duration>\n 
+</part> \n</partlist>","conversationid" : "8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1499289623166","displayName":"Lawrence 
+Krauss","originalarrivaltime" :"2017-07-05T21 :20:23.165Z","messagetype" :"Event/Call","version" : 1499289623166.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n <name>jeevacation</name>\n 
+</part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : "8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1499289586561","displayName":null,"originalarrivaltime":"2017-07-05T21:19:46.565Z","messagetype":"Event/Call"," 
+version": 1499289586561.0,"content":"<partlist type=\"ended\" alt=\"\">\n <part identity=leevacation\">\n 
+<name>jeevacation</name>\n <duration>315</duration>\n </part>\n <part identity=\"lawkrauss\">\n 
+<name>Lawrence Krauss</name>\n <duration>315</duration>\n 
+</part> \n</partlist>","conversationid":"8 Jawkrauss","from":"8:j eevacation","properties":null,"amsreferences":null} , {" 
+id":" 1499289271522","displayName":null,"originalarrivaltime":"2017-07-05T21:14:31.525Z","messagetype":"Event/ 
+Call","version":1499289271522.0,"content":"<partlist type=\"started\" alt=\"\">\n <part identity=leevacation\">\n 
+<name>jeevacation</name>\n </part>\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid":"8 Jawkrauss","from":"8:j eevacation","properties":null,"amsreferences":null} , {" 
+id":" 1499289260333","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T21:14:20.33Z","messagetype":"Event/Call","version":1499289260333.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : "8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null }, { "id" :" 
+1499289260161","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T21:14:20.158Z","messagetype":"Event/Call","version":1499289260161.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : " 8 Jawkrauss","from" :" 8: lawkrauss","properties" :null,"amsreferences":null} , Vid" :" 
+1499289241067","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T21:14:01.064Z","messagetype":"Text","version":1499289241067.0," 
+content": "He won't be there then.. I am talking about 
+Paris","conversationid":"8:lawkrauss","from":"8:lawkrauss","properties":null,"amsreferences":nullI, {"id":" 
+1499289184238","displayName":null,"originalarrivaltime":"2017-07-05T21:13:04.211Z","messagetype":"Text"," 
+version":1499289184238.0,"content":"are you nuts. trump will close down the 
+city","conversationid":"8:lawkrauss","from":"8 jeevacation","properties":null,"amsreferences":null},{"id":" 
+1499289143675","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T21:12:23.673Z","messagetype":"Text","version":1499289143675.0," 
+content":"we will be there July 13-16.. will 
+you?","conversationid" : " 8 Jawkrauss","from" :" 8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1499286774412","displayName":null,"originalarrivaltime":"2017-07-05T20:32:54.412Z","messagetype":"Text"," 
+version": 1499286774412.0,"content":"paris","conversationid":"8:lawkrauss","from":"8:jeevacation","properties":null," 
+amsreferences":null}, { "id":" 1499282973357","displayName":"Lawrence 
+Krauss","originalarrivaltime":"2017-07-05T19:29:33.359Z","messagetype":"Text","version":1499282973357.0," 
+content": "hi.. tried you a bunch of times.. leaving for london and paris tomorrow.. where are 
+you?","conversationid" : "8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , { "id" :" 
+1499027840520","displayName":null,"originalarrivaltime":"2017-07-02T20:37:20.508Z","messagetype":"Text"," 
+version":1499027840520.0,"content":"news?","conversationid":"8:lawkrauss","from":"8:jeevacation","properties":null," 
+amsreferences" :null} , {"id" : " 1498338331231","displayName": "Lawrence 
+Krauss","originalarrivaltime":"2017-06-24T21:05:31.043Z","messagetype":"Event/Call","version": 1498338331231.0," 
+content":"<partlist type=\"ended\" alt=\"\">\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+</part> \n</partlist>","conversationid" : " 8 Jawkrauss","from" :"8: lawkrauss","properties" :null,"amsreferences":null} , Vid" :" 
+1498338331043 ","displayName" :"Lawrence 
+Krauss","originalarrivaltime":"2017-06-24T21:05:31.043Z","messagetype":"Event/Call","version": 1498338331043.0," 
+content":"<partlist type=\"started\" alt=\"\">\n <part identity=\"lawkrauss\">\n <name>Lawrence Krauss</name>\n 
+"frnm " •" •laxxrle-ralice" itnrnr‘..rti..•0".1-11111 l'ainergrg.c".1-111111 5''." 
+HOUSE OVERSIGHT 018229 
+PAGE INTENTIONALLY LEFT BLANK 
+HOUSE OVERSIGHT 018230 
+PAGE INTENTIONALLY LEFT BLANK 
+HOUSE OVERSIGHT 018231 

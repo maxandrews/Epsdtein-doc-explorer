@@ -1,0 +1,546 @@
+﻿October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+First, a few updates:
+� It looks like sub-2.5% global GDP growth is showing up in the weak outlook provided by some bell-weather cyclical
+companies that reported so far (AMD, APD, BHI, CAT, ETFC, GE, GOOG, IBM, MCD, MSFT, PH). We’re about to see
+how resilient an equity market is when one of its key selling points is how expensive bonds are. The recent pick-up in
+leading indicators suggests that earnings expectations may stabilize early in the new year.
+� September US retail sales were strong and US housing data continue to improve, although as noted last week, the degree of
+housing’s contribution to growth remains the big question. There will be economic headwinds next year even if the fiscal
+cliff is negotiated down. See October 9 th EoTM for the full Monty on the fiscal cliff mechanics.
+� We modeled the President’s tax proposals on various demographics of high net worth taxpayers 1 . The results: increases in
+effective tax rates (as % of adjusted gross income) from 4% to 12%, depending on income, investible assets, stock-bond
+ownership, state of domicile, etc. It’s unlikely to be enacted as scripted unless there’s a Democratic sweep, but its contours
+probably indicate where HNW taxation is eventually heading. We don’t have enough info to analyze Romney’s tax plan in
+comparable detail. On the latter, the Tax Policy Center released a study indicating that capping itemized deductions at $25k
+for all taxpayers only offsets 32% of the estimated revenue loss from a 20% reduction in income tax rates.
+� Production, capital spending and export data from China show improvement from the weak pace over the summer, although
+details reveal a continued decline in manufacturing growth offset by rising gov’t infrastructure spending. China ran a 600
+billion RMB budget surplus through September, and targets an 800 bn RMB budget deficit this year. I wouldn’t argue that
+all that gov’t spending is going to have a huge productivity benefit, but it should keep things moving. Chinese earnings
+growth and business climate surveys remain weak, an unsurprising consequence of excess industrial capacity.
+� In Europe, financial markets continue to rally in the Periphery. Five -year Spanish credit spreads have fallen below 3%
+from over 6% last July, and without the ECB firing a single shot (e.g. buying any bonds). The economic data is still bad (a
+collapse in auto sales similar to 2009), but now it’s just “run-of-the-mill” terrible instead of “look-out-for-that-bank/countryit’s-about-to-default”
+terrible. What is impossible to assess: the ability of Southern Europe to withstand rising social and
+political pressures of massive unemployment. Also: watch out for France, where there is a large, growing economic gap vs.
+Germany, and where its President is resisting German demands for centralized budgetary supervision.
+Our annual energy discussion with Vaclav
+Every year, I sit down with Vaclav Smil from the University of Manitoba to discuss “the year in energy”. Vaclav is one of the
+world’s foremost experts on energy issues, and has written over 30 books and 300 papers on the subject. In this note, we walk
+through what Vaclav identified as the 5 notable energy developments of 2012 2 : energy independence initiatives in the US,
+Europe and Japan; geopolitical implications of rising Chinese oil demand; and another rough year for the electric car.
+The political backdrop in the Middle East, European concerns about natural gas dependence on Russia, and lingering concerns
+about nuclear power after Fukushima are factors driving countries to seek greater energy independence. In the US, prospects for
+energy independence rely mostly on domestically produced oil and natural gas, while in Europe and Japan, they rely on rising
+renewable energy targets. What’s remarkable is the official sector confidence in Germany and Japan that the transition cost to
+renewables will be manageable. One indicative data point: the cost of building connections between offshore wind farms and
+the electricity grid (excluding the cost of the wind turbine itself) can be greater than the cost of building an entire brand new
+natural gas plant. As always, a renewable energy discussion involves facts, figures, emotion and a large dose of the unknown.
+The outcome will have important consequences for growth, the cost and availability of electricity and the global balance of
+payments. These developments argue for greater growth and productivity potential in the US, although energy costs are just one
+part of the larger economic and profits equation. Even among US manufacturing companies, energy generally represents only
+5% of total expenses, and is dwarfed by labor costs.
+Michael Cembalest
+J.P. Morgan Asset Management
+1 Proposed changes affecting U.S. high net worth taxpayers: increased tax rates on ordinary income, dividends and realized capital gains;
+increased Medicare taxes on earned and unearned income; rising limitations on itemized deductions (state & local taxes, mortgage interest
+and charitable deductions); partial inclusion of municipal income, 401k contributions and employer-paid health benefits in taxable income.
+2 Other items we could have discussed: continued growth of global hydropower, politics around the Keystone XL pipeline, the apparent end
+of Exxon’s collaboration with Craig Venter to develop fuels from genetically modified algae, and the EU’s decision to deemphasize cropbased
+biofuels due to concerns about greater carbon emissions than the diesel they replace, and high food prices.
+1
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+I: What might US energy independence look like?
+Rising crude oil production in Texas and North Dakota has contributed to a reversal of the long-term US production decline.
+The latest data (June 2012) show North Dakota now ahead of Alaska’s North Slope.
+Crude oil production by region
+Total US crude oil production
+Million barrels crude oil production per day
+Million barrels crude oil production per day
+2.5
+9.5
+2.0
+1.5
+Alaska
+Texas
+8.5
+7.5
+1.0
+6.5
+0.5
+Federal Offshore
+Gulf of Mexico
+North Dakota
+0.0
+1985 1990 1995 2000 2005 2010
+Source: US Energy Information Administration.
+5.5
+4.5
+1985 1990 1995 2000 2005 2010
+Source: US Energy Information Administration.
+The growth in US domestic production is notable, but on its own insufficient to result in energy independence since the US still
+imports ~9 mm bpd of oil. But when combined with other factors affecting demand and supply, the concept of energy
+independence comes into view over the next couple of decades. What is “energy independence”? After some adjustments
+(and I may be underestimating some of them), US net imports could fall to 4-5 mm bpd, a level which can be met by imports
+from countries with historically reliable economic and political linkages to the US (everything is relative). The point is not that
+reduced US crude imports will lower oil prices; countries like China with growing oil needs may offset that. What matters
+here are the economic and geopolitical benefits from (a) not having to design military and foreign policy objectives based
+on energy security to the degree the US has over the last 30 years 3 , and (b) being able to reap the growth, employment
+and current account benefits of domestically sourced-oil and natural gas.
+What US energy independence might look like
+US net crude oil imports, million barrels per day
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Net
+Imports
+Net
+Imports
+2012 2025
+Projection
+Oil imported for refined product exports
+Displaced by Natural Gas Vehicles
+Reduced consumption: CAFE standards
+and Auto Replacement Cycle
+Net increase in domestic production
+Source: US Energy Information Administration, JPMAM.
+Col/Brazil
+Mexico
+Canada
+Current US
+imports
+For a review of the assumptions in this chart, see page 3; otherwise, skip to page 4.
+3 See “Addicted to Oil: Strategic Implications of American Oil Policy” from the Strategic Studies Institute of the U.S. Army. The piece
+outlines 4 pillars to U.S. national interests: defense of the homeland, promotion of U.S. democratic values, creation of a favorable world
+order, and enhancement of the nation’s economic well-being. According to the authors, each has been negatively impacted by US demand
+for foreign oil. They believe that U.S. foreign policies that support repressive oil states are diametrically opposed to American values, and
+reversed the 20 th century trend of the U.S. fighting against totalitarianism and in favor of liberty, and in turn caused the U.S. to lose the “war
+for ideas” that is critical to wining the “war on terror”.
+2
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+Some detail on the components of increased US energy independence:
+Net increase in domestic production: we have modeled an increase of 1.8 mm bpd. For context, the 2012 Energy Information
+Administration (EIA) outlook has a variety of crude oil production scenarios for 2025 ranging from no increase to an increase
+of 2.8 mm bpd (the “technically recoverable resource” case). Any production increase from current levels is expected to come
+from “tight oil”, extracted from formations such as Bakken and Eagle Ford, and the Permian Basin. While conventional crude
+production volumes in the Gulf may rise, these are expected by the EIA to offset declines elsewhere (Alaska). The EIA’s
+optimism is matched by a June 2012 paper from Leonardo Maugeri at Harvard’s Kennedy School, which projects a US crude
+oil increase of 2.6 mm bpd by 2020. An illustrative quote 4 :
+“The shale/tight oil boom in the United States is not a temporary bubble, but the most important revolution in the
+oil sector in decades. It will probably trigger worldwide emulation over the next decades that might bear surprising results
+- given the fact that most shale/tight oil resources in the world are still unknown and untapped.… Thanks to the
+technological revolution brought about by the combined use of horizontal drilling and hydraulic fracturing, the US is now
+exploiting its huge and virtually untouched shale and tight oil fields, whose production – although still in its infancy – is
+already skyrocketing in North Dakota and Texas.”
+Regarding the Bakken shale, Maugeri’s estimate of 300 billion barrels of oil in place are exceeded by larger mean estimates
+from USGS geochemist Leigh Price and Continental Resources.
+Reduced consumption due to higher CAFE standards and
+the automobile replacement cycle: this is a topic that
+generates a lot of debate and technical discussion about
+driving patterns, but this much is clear: CAFE standards
+and the ongoing replacement of older cars will improve the
+fuel efficiency of the future fleet. The Union for Concerned
+Scientists has estimated the benefit of CAFE at 3 million
+barrels of oil per day by 2030, while the Administration’s
+estimate is 2.2 million by 2025. The average 11-year age of
+US cars is at the highest level on record, up from 8.5 years
+in 1995. While some of this increase reflects cars with
+improved lifespans, it also reflects the impact of the
+recession and pent-up demand to replace older cars. As a
+result, our estimate of 1.5 mm bpd in oil consumption
+savings seems reasonable in context.
+Corporate Average Fuel Economy standards
+Miles per gallon, passenger cars
+60
+15
+1978 1983 1988 1993 1998 2003 2008 2013 2018 2023
+Source: National Highway Traffic Safety Administration.
+Impact of rising penetration of natural gas vehicles: The rationale for natural gas vehicles (NGV) stems from a price per
+million BTUs for oil that’s 5x higher than natural gas. The US NGV penetration rate is low, in part due to the chicken/egg
+problem of the lack of natural gas refueling stations, and a more limited driving range (natural gas tanks generally hold less
+energy than diesel tanks). But the economics of NGVs are becoming more compelling for taxis, vans and buses that are
+centrally fueled with limited ranges, and for trucks with established routes where refueling stations can be built every 300-400
+miles. Such heavy-duty vehicles account for 17% of all petroleum usage in the US. An example: a heavy duty 18-wheeler
+might travel 60,000 miles per year and get 5 mpg (using 12,000 gallons of diesel fuel). Assuming a $1.5 difference between
+diesel and liquid natural gas prices, a trucking company could save ~ $18,000 in annual fuel costs. The conversion cost to
+LNG (liquid natural gas) of $70,000 would imply a 4-year payback period, which is short in the scheme of energy trade-offs.
+We assume a very modest NGV penetration rate of 3%, which translates into reduced oil consumption of 0.3 mm bpd.
+Oil imported for export purposes: in 2011, the US exported 0.5 mm bpd in refined petroleum products. As a result, part of the
+current crude oil import tab is simply for re-export, and is not part of the country’s domestic consumption requirement.
+55
+50
+45
+40
+35
+30
+25
+20
+4 “The Unprecedented Upsurge of Oil Production Capacity and What It Means for the World”, Leonardo Maugeri, Belfer Center for Science
+and International Affairs, Harvard Kennedy School, June 2012. See sections 5-9 for a discussion of how shale and tight oil are gradually
+replacing conventional sources, how hydraulic fracking works, a detailed examination of the Bakken Shale, how EIA and USGS data are
+backward-looking and underestimate potential growth, the challenges for the US refining industry which has invested in the ability to process
+heavy-sour imports rather than light-sweet oil from shale, pipeline needs and a range of environmental issues. Maugeri was Senior Executive
+Vice President of Strategies and Development at ENI, and Executive Chairman of Polimeri Europa, ENI’s petrochemical branch.
+3
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+II: Is Germany making an impetuous mad dash into renewable energy?
+In the wake of Fukushima, Chancellor Merkel announced a plan to accelerate the closure of coal and nuclear power plants, with
+the goal of relying more on renewable energy to fill the gap. Germany is by far the largest user of electricity in Europe and its
+manufacturing to GDP ratio is high, so the consequences may be substantial. To get a sense of the potential impact, start with
+the first chart on Germany’s current generating capacity and output by source. While wind and solar installations have increased
+in recent years, their electricity output is less impactful due to wind and solar intermittency.
+The two largest increases in Germany’s renewable plan are offshore wind and photovoltaic (solar). Offshore wind connections
+are very expensive; according to Netherlands-based transmission system operator TenneT, they work out to ~1.1 million Euros
+per MW, and that’s just for the connection (not the wind turbine itself, that’s extra). That offshore wind connection cost is
+even higher than the 0.8-1.0 million per MW upfront capital cost of building new natural gas plants, using data from RWE AG
+(Essen) and SWB AG (Bremen). Wind is free and natural gas isn’t, so we should look at all-in levelized costs 5 by electricity
+source. As shown in the second chart, all things considered, offshore wind is a very expensive way for Germany to generate
+electricity, and solar is higher by another order of magnitude. The relative ordering is similar in other countries.
+Snapshot of current German capacity and generation
+Percent of total
+45%
+40%
+Generating Capacity
+Electricity Generation
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Coal Nuclear Natural Gas Wind Solar
+Source: BDEW Bundesverband der Energie-und Wasserwirtschaft e.V.
+Levelized cost of electricity production in Germany
+USD/MWh
+440
+Germany is a very energy-efficient country, and has among the lowest electricity-to-GDP ratios in Europe. However, the cost of
+electricity to industrial consumers is already among the highest in Europe when including taxes, and for residential
+consumers, Germany is the highest. As a result, the proposed shift to renewable energy may further increase electricity prices
+for both residential and commercial users. There’s not enough data yet to measure the impact so far.
+Average retail electricity price in 2011:
+residential segment, EUR/MWh
+250
+200
+150
+100
+50
+0
+Basic price
+Taxes
+GER BEL ITL SPN NED POR CZE UK FRA GRE
+Source: Wirtschaft & Infastruktur GmbH & Co Planugs - Renewable Energies.
+Germany’s goal: raise the contribution of renewable energy from 20% to 35% by 2020, and to 80% of total consumption
+by 2050. The total cost of financing this transition is estimated at 800 billion Euros by DIW Berlin. The first stage, from now
+until 2020, is supposed to cost 200 billion Euros. At a time when commitments to save Spain and the rest of the Periphery are
+390
+340
+290
+240
+190
+140
+90
+40
+Nuclear Coal Natural Onshore Offshore Solar
+Gas Wind Wind
+Source: International Energy Agency, Nuclear Energy Agency and OECD.
+Average retail electricity price in 2011:
+commerial/industrial segment, EUR/MWh
+180
+160
+Basic price
+140
+Taxes
+120
+100
+80
+60
+40
+20
+0
+ITL GER BEL CZE SPN NED UK GRE POR FRA
+Source: Wirtschaft & Infastruktur GmbH & Co Planugs - Renewable Energies.
+5 Levelized costs are all-in costs which include construction, financing costs, ongoing maintenance and operations and fuel inputs costs. In
+Europe (unlike in the US), levelized cost numbers also include a carbon footprint estimate @ $30 per tonne of CO2.
+4
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+adding up, it is unclear how Germany will accomplish all of its goals simultaneously. That’s probably why the ECB has been
+doing the heavy lifting in the European bailout: that approach doesn’t look like it will cost Germany any money (yet…..)
+A brief comment on investment opportunities in wind. A recent offshore wind farm project in Germany entailed a fixed sale
+price contract for electricity at a guaranteed rate of 119 Euros per MWh for 13 years. This compares to 45-50 Euros per MWh
+for electricity in shorter term German power markets. The investor takes operational and maintenance risks, and the risk of
+wind’s intermittency. With a large gap between the contract price and the spot market, there may be a “windfall” (sorry) for
+investors. However, wind investment risks have at times been under-appreciated. In a May 2012 report from Standard &
+Poor’s, the authors note that they had initially rated 7 portfolio and single-asset wind projects as investment-grade. All but one
+has since fallen below investment-grade, which S&P states is a result of “wind resource deficiency” (wind levels below what
+industry experts had cited as lower-bound estimates), and higher-than-expected operating and maintenance costs (repairing
+cracked foundations, jack-up rigs to fix gearboxes and blades, etc). On the latter point, S&P indicates that U.S. wind project
+O&M costs stabilized at rates that were 30% to 40% higher than forecast.
+III: Inherit the Wind: Japan’s energy dilemma after Fukushima
+Among the challenges Japan has faced in the wake of the tsunami and nuclear meltdown, one of the greatest relates to energy
+policy. Only 2 of its 54 nuclear reactors are now operating. While Japan may turn some back on temporarily, it expects to
+decommission all of them within 18 years. Like Germany, Japan plans to increase contributions from renewable energy.
+Japan’s plan entails increases in offshore wind, geothermal power, biomass and tidal power. The government’s preferred plan as
+described by the METI Advisory Committee in September 2012 is #1 in the first chart, which entails no nuclear power by 2031.
+Contribution to Japan power generation
+Japan power plant capacity utilization by fuel type
+Percent
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+2006
+2007
+2008
+2009
+2010
+2011
+Potential 2031
+targets
+Source: Federation of Electric Power Companies of Japan, METI Advisory
+Committee.
+2012
+#1
+#2
+#3
+Co-generation
+Renewables
+Hydro
+Oil
+LNG
+Coal
+Nuclear
+Percent
+100%
+The first thing to note is that Japan has been able to withstand the reduction in operating nuclear plants through a sharp
+increase in electricity produced by natural gas plants, and oil-burning plants. However, as shown above in the 2nd chart,
+utilization rates of plants using LNG are rising close to maximum capacity. Consider as well the fact that Japan pays as much as
+5 times more per BTU for its natural gas than the US. As a result, Japan is facing a near-term decision: turn on more nuclear
+power plants, import more LNG or suffer the growth penalty from higher electricity costs resulting from less supply. For a
+country that is already suffering from low growth and declining exports, this would be a steep price to pay.
+As for Japan’s long-term renewable energy plan, it is starting from a lower base than Germany: in 2011 only 1.25% of
+electricity came from renewable energy other than hydro (which supplied ~9%). The largest single component of its renewable
+energy plan relies on offshore wind. Japan’s Institute of Energy Economics estimates that offshore wind levelized costs might
+be only 35% higher than onshore, but Japan has limited experience in both. What may be more relevant is the experience of the
+United Kingdom. In a recent auction run by Ofgem (Britain’s electricity and gas market regulator), participants were asked to
+bid on a contract to build connections to offshore wind farms. Using Ofgem’s estimated transfer values, just the cost of
+building the connection for offshore wind farms to the grid is ~$1.05 million per megawatt (MW). As in Germany, this is a bit
+higher than the UK Department of Energy and Climate estimate for an entire new 850-MW combined cycle natural gas plant.
+For manufacturing-heavy Germany and Japan, a future based heavily on offshore wind and solar will be a brave new world of
+yet-to-be-determined cost and complexity. According to Vaclav, the “entire green thing is desirable and very much worth
+doing, but at a measured realistic pace commensurate with overall system conditions and requirements, not guided and
+propelled by naive, unrealistic expectations and impossible goals”.
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Coal
+LNG
+2007 2008 2009 2010 2011 2012
+Source: Federation of Electric Power Companies of Japan 2012 Electricity
+Review, J.P. Morgan Commodities Research.
+Oil
+Nuclear
+5
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+IV: What geopolitical consequences may result from China’s rising energy needs?
+As shown below, US reliance on oil imports as a share of consumption is gradually declining. China’s percentage, on the other
+hand, is rising and now higher than in the US (in dollar terms, US imports are higher but they should converge in a few years).
+China now has the world’s largest new car market and most extensive network of superhighways. It is making substantial
+investments in a renewable energy, and is now the largest solar, wind, nuclear and hydropower market. However, given the
+current lack of a viable, affordable electric car, Chinese fossil fuel consumption is expected to continue to rise. The penetration
+rate of passenger vehicles in China is considerably lower than in other countries. China’s per capita GDP is lower as well, so the
+gap will not close overnight. The second chart below gives a good indication of the potential rise in automobile use in China
+over time. These trends are part of the reason why we do not expect reduced US imports to result in lower oil prices.
+Net imports of crude and petroleum products as a
+Auto penetration rates
+percent of total domestic consumption
+Passenger and commercial vehicles per 1,000 people
+65%
+55%
+45%
+35%
+25%
+15%
+5%
+-5%
+-15%
+China
+-25%
+1990 1995 2000 2005 2010
+Source: Energy Information Administration, BP.
+US
+Vaclav sees these trends as important, since they affect prospects of China co-operating with the West on containment of
+Iran’s nuclear ambitions. Unfortunately for the West, the prospects for co-operation on sanctions appear dim. Some things to
+keep in mind about China’s relationship with Iran, described in greater detail in a 2012 Rand Institute report:
+� Iran and China share a deep ambivalence about the West given their prior experiences as semi-colonial states in the
+beginning of the 20 th century. The US supported a coup against a popular Iranian leader in 1953 (and also influenced other
+political transitions), and Communist China was under U.S.-led international sanctions for most of its existence.
+� China extended recognition to Iran’s Islamic Republic only 3 days after its founding, and improved relations with Iran
+through arms sales during the Iran-Iraq war (small arms, ballistic and anti-cruise ship missiles)
+� China became a net oil importer in 1993, and further strengthened ties with Iran. Once China was accepted into the World
+Trade Organization in 2001, the West lost the little leverage it had over Sino-Iranian ties.
+� From 1985 to 1996, China provided Iran with civil nuclear technology and machinery, assistance in uranium exploration and
+mining, training for nuclear engineers, and instruction on the use of lasers for uranium enrichment. China ended its direct
+support for these nuclear programs in 1997. Chinese design and technology are seen in Iranian ballistic and anti-cruise ship
+missiles, anti-ship mines and fast attack boats.
+� For the last two decades, China has built railroads, bridges, dams, ports and tunnels throughout Iran. In 2007, China became
+Iran’s largest trading partner, and the two countries announced plans to broaden bilateral trade to $100 bn per year by 2016.
+� The two countries formed a joint oil and gas committee to broaden energy cooperation. China is the most important investor
+in Iranian exploration and extraction operations, and has been selected to develop the Azadegan and Yadavaran oil and
+natural gas fields, and the South Pars field. Iran is the largest methanol exporter to China, displacing Saudi Arabia.
+� Iran used to be vulnerable to refined fuel sanctions when it imported 40% of them; China helped Iran build out its refining
+capacity, and Iran is now a refined fuels exporter.
+� China is paying Iran in rice and medical/engineering supplies (and cash) in exchange for Iranian oil, and a Chinese shipyard
+delivered the first of 12 supertankers to Iran, giving it extra capacity to transport its oil to Asia.
+� A couple of quotes on the geopolitics of all of this, from the Peking University School of International Studies and Renmin
+University: “It is beneficial for our external environment to have the United States militarily and diplomatically deeply sunk
+in the Mideast to the extent that it can hardly extricate itself”, and “Washington’s deeper involvement in the Middle East is
+favorable to Beijing, reducing Washington’s ability to place focused attention and pressure on China.” [Rand report]
+700
+600
+500
+400
+300
+Japan
+Korea
+Taiwan
+200
+Thailand
+100
+0
+Indonesia
+China
+India
+1980 1987 1994 2001 2008
+Source: China Association of Automobile Manufacturers, CEIC, J.P. Morgan
+Securities LLC.
+6
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+Bottom line: China has a long history of economic, political and military co-operation with Iran. China has greater economic
+linkages with the US, but for China, that fact does not negate the advantages of its relationship with Iran, particularly as its
+energy needs continue to rise, and as it seeks to prevent U.S. domination of the Persian Gulf.
+V: Another rough year for the electric car
+Forecasts of greater electric car penetration have been around since the 1970’s. A report by The National Regulatory Research
+Institute in 1980 aggregated various studies, which predicted 1.2 mm units in use in the US by 1983, 3 mm by 1990, 5 mm by
+1995, 6.2 mm by 1998 and 13 mm by 2000. Instead, only 2.5 mm have been sold since 1999, and this mostly includes hybrids,
+which are not true plug-in electric vehicles (most use regenerative braking for short distance trips). Since 2010, only 50,000
+highway-capable plug-in electric vehicles have been sold in the US, less than 0.03% of all vehicles. For decades, scientists have
+projected battery breakthroughs using nickel-zinc, iron-air, nickel-air, as well as combinations of zinc with chlorine or air and
+sulfur with sodium or lithium. Progress has been slow. Affordable mass-produced electric cars are still on the drawing board.
+• Toyota cancelled plans for sales of eQ vehicles, claiming that the current capabilities of electric vehicles do not meet
+society’s needs. Toyota planned to sell 40,000 plug-in hybrids in Japan this year; only 8,400 have been sold so far
+• After receiving a $529mm loan from the US government, Fisker developed and built the Karma in Finland. Its battery failed
+during the Consumer Reports test drive, and Fisker subsequently recalled all of its 2012 Karma batteries
+• A123 Systems, Inc., maker of the recalled lithium-ion battery used in the Karma and recipient of a $249mm Federal grant in
+2009, filed for bankruptcy protection on October 16, 2012
+• Tesla cut their delivery targets for 2012 from 5,000 to 2,700-3,250 due to production issues
+• The Chevy Volt is the most successful electric car in the US, but only 16,400 have been sold this year through September,
+vs the goal of 45,000 that was set by the Department of Energy. Sales of the Nissan Leaf in the US are down 28% vs 2011.
+If you have gotten this far, I hope you enjoyed our annual energy issue. See you next year, when it will be the 40 th
+anniversary of Soylent Green, in which Edward G Robinson rides a bicycle to power a lamp so he can read a book.
+Michael Cembalest
+J.P. Morgan Asset Management
+Biography
+Vaclav Smil is a Distinguished Professor Emeritus in the Faculty of Environment at the University of Manitoba in Winnipeg and a Fellow of
+the Royal Society of Canada. His interdisciplinary research includes the studies of energy systems (resources, conversions, and impacts),
+environmental change (particularly global biogeochemical cycles), and the history of technical advances and interactions among energy,
+environment, food, economy, and population. He is the author of more than thirty books and more than three hundred papers on these
+subjects and has lectured widely in North America, Europe, and Asia. In 2010 he was noted by Foreign Policy magazine as #49 on its list of
+the 100 most influential thinkers in the world.
+Sources, and there sure were a lot of them
+Annual Energy Outlook 2012, DOE/EIA-0383, US Energy Information Administration, June 2012.
+“Leveling the Playing Field for Natural Gas in Transportation”, Hamilton Project Discussion paper, Christopher R. Knittel, June 2012.
+“Benefits of Fuel Economy Standards”, Union of Concerned Scientists, August 2012
+“Projected Costs of Generating Electricity”, 2010 Edition, International Energy Agency, Nuclear Energy Agency, OECD
+“Electricity prices scenarios until at least the year 2020 in selected EU countries”, WIP - Renewable Energies, January 2012
+“Financing the Energy Transition in Times of Financial Market Instability”, DIW Economic Bulletin, September 2012
+“Japan’s Power Play Options”, GaveKal Research, Yuchan Li, September 2012
+“Electricity Generation Cost Model – 2011 Update”, Parsons Brinckerhoff, August 2011
+“Connection costs overshadow offshore wind”, Reuters, Gerard Wynn, October 2012.
+“Summary and Evaluation of Cost Calculation for Nuclear Power Generation by the Cost Estimation and Review Committee”, Yuji Matsuo,
+The Institute of Energy Economics, Japan, May 2012.
+“The Unprecedented Upsurge of Oil Production Capacity and What It Means for the World”, Leonardo Maugeri, Belfer Center for Science
+and International Affairs, Harvard Kennedy School, June 2012
+“China and Iran: Economic, Military and Political Relations”, Rand Center for Middle East Public Policy, 2012
+“Addicted to Oil: Strategic Implications of American Oil Policy”, Strategic Studies Institute of the U.S. Army War College, 2006
+“Special Report: Offshore Wind Arrives, Will Renewables Prosper?”, Standard & Poor’s Credit Week, May 2012
+“Electric Utility Regulatory Aspects of Electric Vehicle Commercialization”, National Regulatory Research Institute, December 1980
+“President Obama Announces Historic 54.5 mpg Fuel Efficiency Standard”, White House Press Release, July 29, 2011
+“Germany Power Links for Unbuilt Offshore Wind Cost Consumers”, Bloomberg, October 2012
+“Long term scenarios and strategies for the development of renewable energies in Germany in view of European and global development”,
+Deutsches Zentrum für Luft- und Raumfahrt (DLR), Fraunhofer Institut für Windenergie und Energiesystemtechnik (IWES), March 2012
+7
+October 22, 2012
+The most important energy developments of 2012: how countries are planning for Independence Day
+IRS Circular 230 Disclosure: JPMorgan Chase & Co. and its affiliates do not provide tax advice. Accordingly, any discussion of U.S. tax matters contained herein (including
+any attachments) is not intended or written to be used, and cannot be used, in connection with the promotion, marketing or recommendation by anyone unaffiliated with
+JPMorgan Chase & Co. of any of the matters addressed herein or for the purpose of avoiding U.S. tax-related penalties. Note that J.P. Morgan is not a licensed insurance
+provider.
+The material contained herein is intended as a general market commentary. Opinions expressed herein are those of Michael Cembalest and may differ from those of other J.P.
+Morgan employees and affiliates. This information in no way constitutes J.P. Morgan research and should not be treated as such. Further, the views expressed herein may differ
+from that contained in J.P. Morgan research reports. The above summary/prices/quotes/statistics have been obtained from sources deemed to be reliable, but we do not
+guarantee their accuracy or completeness, any yield referenced is indicative and subject to change. Past performance is not a guarantee of future results. References to the
+performance or character of our portfolios generally refer to our Balanced Model Portfolios constructed by J.P. Morgan. It is a proxy for client performance and may not
+represent actual transactions or investments in client accounts. The model portfolio can be implemented across brokerage or managed accounts depending on the unique
+objectives of each client and is serviced through distinct legal entities licensed for specific activities. Bank, trust and investment management services are provided by JP
+Morgan Chase Bank, N.A, and its affiliates. Securities are offered through J.P. Morgan Securities LLC (JPMS), Member NYSE, FINRA and SIPC, and its affiliates globally as
+local legislation permits. Securities products purchased or sold through JPMS are not insured by the Federal Deposit Insurance Corporation ("FDIC"); are not deposits or
+other obligations of its bank or thrift affiliates and are not guaranteed by its bank or thrift affiliates; and are subject to investment risks, including possible loss of the principal
+invested. Not all investment ideas referenced are suitable for all investors. Speak with your J.P. Morgan Representative concerning your personal situation. This material is not
+intended as an offer or solicitation for the purchase or sale of any financial instrument. Private Investments may engage in leveraging and other speculative practices that may
+increase the risk of investment loss, can be highly illiquid, are not required to provide periodic pricing or valuations to investors and may involve complex tax structures and
+delays in distributing important tax information. Typically such investment ideas can only be offered to suitable investors through a confidential offering memorandum which
+fully describes all terms, conditions, and risks. This material is distributed with the understanding that J.P. Morgan is not rendering accounting, legal or tax advice. You should
+consult with your independent advisors concerning such matters.
+In the United Kingdom, this material is approved by J.P. Morgan International Bank Limited (JPMIB) with the registered office located at 25 Bank Street, Canary Wharf,
+London E14 5JP, registered in England No. 03838766 and is authorised and regulated by the Financial Services Authority. In addition, this material may be distributed by:
+JPMorgan Chase Bank, N.A. (JPMCB) Paris branch, which is regulated by the French banking authorities Autorité de Contrôle Prudentiel and Autorité des Marchés
+Financiers; J.P. Morgan (Suisse) SA, regulated by the Swiss Financial Market Supervisory Authority; JPMCB Bahrain branch, licensed as a conventional wholesale bank by
+the Central Bank of Bahrain (for professional clients only); JPMCB Dubai branch, regulated by the Dubai Financial Services Authority.
+In Hong Kong, this material is distributed by JPMorgan Chase Bank, N.A. (JPMCB) Hong Kong branch except to recipients having an account at JPMCB Singapore branch
+and where this material relates to a Collective Investment Scheme (other than private funds such as private equity and hedge funds) in which case it is distributed by J.P.
+Morgan Securities (Asia Pacific) Limited (JPMSAPL). Both JPMCB Hong Kong branch and JPMSAPL are regulated by the Hong Kong Monetary Authority.
+In Singapore, this material is distributed by JPMCB Singapore branch except to recipients having an account at JPMCB Singapore branch and where this material relates to a
+Collective Investment Scheme (other than private funds such as a private equity and hedge funds) in which case it is distributed by J.P. Morgan (S.E.A.) Limited (JPMSEAL).
+Both JPMCB Singapore branch and JPMSEAL are regulated by the Monetary Authority of Singapore.
+With respect to countries in Latin America, the distribution of this material may be restricted in certain jurisdictions. Receipt of this material does not constitute an offer or
+solicitation to any person in any jurisdiction in which such offer or solicitation is not authorized or to any person to whom it would be unlawful to make such offer or
+solicitation. The Fund may not be publicly offered in any Latin American country, without previous registration of such fund´s securities in compliance with the laws of the
+corresponding jurisdiction.
+Each recipient of this presentation, and each agent thereof, may disclose to any person, without limitation, the US income and franchise tax treatment and tax structure of the
+transactions described herein and may disclose all materials of any kind (including opinions or other tax analyses) provided to each recipient insofar as the materials relate to a
+US income or franchise tax strategy provided to such recipient by JPMorgan Chase & Co. and its subsidiaries. Should you have any questions regarding the information
+contained in this material or about J.P. Morgan products and services, please contact your J.P. Morgan private banking representative. Additional information is available
+upon request. “J.P. Morgan” is the marketing name for JPMorgan Chase & Co. and its subsidiaries and affiliates worldwide. This material may not be reproduced or
+circulated without J.P. Morgan’s authority. © 2012 JPMorgan Chase & Co. All rights reserved.
+8

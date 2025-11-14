@@ -1,0 +1,1409 @@
+The main ingredients we’ve used in assembling the integrative diagram are as follows:
+• Our own views on the various types of memory critical for human-like cognition, and the
+need for tight, "synergetic" interactions between the cognitive processes focused on these
+• Aaron Sloman’s high-level architecture diagram of human intelligence [Slo01], drawn from
+his CogAff architecture, which strikes me as a particularly clear embodiment of "modern
+common sense" regarding the overall architecture of the human mind. We have added only
+a couple items to Sloman’s high-level diagram, which we felt deserved an explicit high-level
+role that he did not give them: emotion, language and reinforcement.
+• The LIDA architecture diagram presented by Stan Franklin and Bernard Baars [BF09].
+We think LIDA is an excellent model of working memory and what Sloman calls "reactive
+processes", with well-researched grounding in the psychology and neuroscience literature.
+We have adapted the LIDA diagram only very slightly for use here, changing some of
+the terminology on the arrows, and indicating where parts of the LIDA diagram indicate
+processes elaborated in more detail elsewhere in the integrative diagram.
+• The architecture diagram of the Psi model of motivated cognition, presented by Joscha
+Bach in [Bac09] based on prior work by Dietrich Dorner [Dör02]. This diagram is presented
+without significant modification; however it should be noted that Bach and Dorner present
+this diagram in the context of larger and richer cognitive models, the other aspects of which
+are not all incorporated in the integrative diagram.
+• James Albus’s three-hierarchy model of intelligence [AM01], involving coupled perception,
+action and reinforcement hierarchies. Albus’s model, utilized in the creation of intelligent
+unmanned automated vehicles, is a crisp embodiment of many ideas emergent from the field
+of intelligent control systems.
+• Deep learning networks as a model of perception (and action and reinforcement learning),
+as embodied for example in the work of Itamar Arel [ARC09] and Jeff Hawkins [HB06]. The
+integrative diagram adopts this as the basic model of the perception and action subsystems
+of human intelligence. Language understanding and generation are also modeled according
+to this paradigm.
+5.3 An Architecture Diagram for Human-Like General Intelligence 97
+One possible negative reaction to the integrative diagram might be to say that it’s a kind
+of Frankenstein monster diagram, piecing together aspects of different theories in a way that
+violates the theoretical notions underlying all of them! For example, the integrative diagram
+takes LIDA as a model of working memory and reactive processing, but from the papers on
+LIDA it’s unclear whether the creators of LIDA construe it more broadly than that. The deep
+learning community tends to believe that the architecture of current deep learning networks,
+in itself, is close to sufficient for human-level general intelligence – whereas the integrative
+diagram appropriates the ideas from this community mainly for handling perception, action
+and language, etc.
+On the other hand, in a more positive perspective, one could view the integrative diagram
+as consistent with LIDA, but merely providing much more detail on some of the boxes in the
+LIDA diagram (e.g. dealing with perception and long-term memory). And one could view the
+integrative diagram as consistent with the deep learning paradigm – via viewing it, not as
+a description of components to be explicitly implemented in an AGI system, but rather as a
+description of the key structures and processes that must emerge in deep learning network, based
+on its engagement with the world, in order for it to achieve human-like general intelligence.
+Our own view, underlying the creation of the integrative diagram, is that different communities
+of cognitive science researchers have focused on different aspects of intelligence, and have
+thus each created models that are more fully fleshed out in some aspects than others. But these
+various models all link together fairly cleanly, which is not surprising as they are all grounded
+in the same data regarding human intelligence. Many judgment calls must be made in fusing
+multiple models in the way that the integrative diagram does, but we feel these can be made
+without violating the spirit of the component models. In assembling the integrative diagram, we
+have made these judgment calls as best we can, but we’re well aware that different judgments
+would also be feasible and defensible. Revisions are likely as time goes on, not only due to
+new data about human intelligence but also to evolution of understanding regarding the best
+approach to model integration.
+Another possible argument against the ideas presented here is that there’s nothing new – all
+the ingredients presented have been given before elsewhere. To this our retort is to quote Pascal:
+"Let no one say that I have said nothing new ... the arrangement of the subject is new." The
+various architecture diagrams incorporated into the integrative diagram are either extremely
+high level (Sloman’s diagram) or focus primarily on one aspect of intelligence, treating the
+others very concisely by summarizing large networks of distinction structures and processes in
+small boxes. The integrative diagram seeks to cover all aspects of human-like intelligence at a
+roughly equal granularity – a different arrangement.
+This kind of high-level diagramming exercise is not precise enough, nor dynamics-focused
+enough, to serve as a guide for creating human-level or more advanced AGI. But it can be a
+useful tool for explaining and interpreting a concrete AGI design, such as CogPrime.
+5.3 An Architecture Diagram for Human-Like General Intelligence
+The integrative diagram is presented here in a series of seven Figures.
+Figure 5.1 gives a high-level breakdown into components, based on Sloman’s high-level
+cognitive-architectural sketch [Slo01]. This diagram represents, roughly speaking, "modern common
+sense" about how a human-like mind is architected. The separation between structures
+98 5 A Generic Architecture of Human-Like Cognition
+Fig. 5.1: High-Level Architecture of a Human-Like Mind
+and processes, embodied in having separate boxes for Working Memory vs. Reactive Processes,
+and for Long Term Memory vs. Deliberative Processes, could be viewed as somewhat artificial,
+since in the human brain and most AGI architectures, memory and processing are closely integrated.
+However, the tradition in cognitive psychology is to separate out Working Memory and
+Long Term Memory from the cognitive processes acting thereupon, so we have adhered to that
+convention. The other changes from Sloman’s diagram are the explicit inclusion of language,
+representing the hypothesis that language processing is handled in a somewhat special way in
+the human brain; and the inclusion of a reinforcement component parallel to the perception and
+action hierarchies, as inspired by intelligent control systems theory (e.g. Albus as mentioned
+above) and deep learning theory. Of course Sloman’s high level diagram in its original form is
+intended as inclusive of language and reinforcement, but we felt it made sense to give them
+more emphasis.
+Figure 5.2, modeling working memory and reactive processing, is essentially the LIDA diagram
+as given in prior papers by Stan Franklin, Bernard Baars and colleagues [BF09]. The
+boxes in the upper left corner of the LIDA diagram pertain to sensory and motor processing,
+which LIDA does not handle in detail, and which are modeled more carefully by deep learning
+theory. The bottom left corner box refers to action selection, which in the integrative diagram
+is modeled in more detail by Psi. The top right corner box refers to Long-Term Memory, which
+the integrative diagram models in more detail as a synergetic multi-memory system (Figure
+5.4).
+The original LIDA diagram refers to various "codelets", a key concept in LIDA theory. We
+have replaced "attention codelets" here with "attention flow", a more generic term. We suggest
+one can think of an attention codelet as: a piece of information stating that, for a certain group
+of items, it’s currently pertinent to pay attention to this group as a collective.
+5.3 An Architecture Diagram for Human-Like General Intelligence 99
+Fig. 5.2: Architecture of Working Memory and Reactive Processing, closely modeled on the
+LIDA architecture
+Figure 5.3, modeling motivation and action selection, is a lightly modified version of the
+Psi diagram from Joscha Bach’s book Principles of Synthetic Intelligence [Bac09]. The main
+difference from Psi is that in the integrative diagram the Psi motivated action framework is
+embedded in a larger, more complex cognitive model. Psi comes with its own theory of working
+and long-term memory, which is related to but different from the one given in the integrative
+diagram – it views the multiple memory types distinguished in the integrative diagram as
+emergent from a common memory substrate. Psi comes with its own theory of perception and
+action, which seems broadly consistent with the deep learning approach incorporated in the
+integrative diagram. Psi’s handling of working memory lacks the detailed, explicit workflow of
+LIDA, though it seems broadly conceptually consistent with LIDA.
+In Figure 5.3, the box labeled "Other portions of working memory" is labeled "Protocol and
+situation memory" in the original Psi diagram. The Perception, Action Execution and Action
+Selection boxes have fairly similar semantics to the similarly labeled boxes in the LIDA-like
+Figure 5.2, so that these diagrams may be viewed as overlapping. The LIDA model doesn’t
+explain action selection and planning in as much detail as Psi, so the Psi-like Figure 5.3 could
+be viewed as an elaboration of the action-selection portion of the LIDA-like Figure 5.2. In
+Psi, reinforcement is considered as part of the learning process involved in action selection and
+planning; in Figure 5.3 an explicit "reinforcement box" has been added to the original Psi
+diagram, to emphasize this.
+Figure 5.4, modeling long-term memory and deliberative processing, is derived from our own
+prior work studying the "cognitive synergy" between different cognitive processes associated
+with different types of memory. The division into types of memory is fairly standard. Declarative,
+procedural, episodic and sensorimotor memory are routinely distinguished; we like to distinguish
+attentional memory and intentional (goal) memory as well, and view these as the interface
+between long-term memory and the mind’s global control systems. One focus of our AGI design
+work has been on designing learning algorithms, corresponding to these various types of memory,
+100 5 A Generic Architecture of Human-Like Cognition
+Fig. 5.3: Architecture of Motivated Action
+Fig. 5.4: Architecture of Long-Term Memory and Deliberative and Metacognitive Thinking
+that interact with each other in a synergetic way [Goe09c], helping each other to overcome
+their intrinsic combinatorial explosions. There is significant evidence that these various types
+of long-term memory are differently implemented in the brain, but the degree of structure and
+dynamical commonality underlying these different implementations remains unclear.
+5.3 An Architecture Diagram for Human-Like General Intelligence 101
+Each of these long-term memory types has its analogue in working memory as well. In some
+cognitive models, the working memory and long-term memory versions of a memory type and
+corresponding cognitive processes, are basically the same thing. CogPrime is mostly like this
+– it implements working memory as a subset of long-term memory consisting of items with
+particularly high importance values. The distinctive nature of working memory is enforced via
+using slightly different dynamical equations to update the importance values of items with
+importance above a certain threshold. On the other hand, many cognitive models treat working
+and long term memory as more distinct than this, and there is evidence for significant functional
+and anatomical distinctness in the brain in some cases. So for the purpose of the integrative
+diagram, it seemed best to leave working and long-term memory subcomponents as parallel but
+distinguished.
+Figure 5.4 also encompasses metacognition, under the hypothesis that in human beings and
+human-like minds, metacognitive thinking is carried out using basically the same processes as
+plain ordinary deliberative thinking, perhaps with various tweaks optimizing them for thinking
+about thinking. If it turns out that humans have, say, a special kind of reasoning faculty
+exclusively for metacognition, then the diagram would need to be modified. Modeling of self
+and others is understood to occur via a combination of metacognition and deliberative thinking,
+as well as via implicit adaptation based on reactive processing.
+Fig. 5.5: Architecture for Multimodal Perception
+Figure 5.5 models perception, according to the basic ideas of deep learning theory. Vision and
+audition are modeled as deep learning hierarchies, with bottom-up and top-down dynamics. The
+lower layers in each hierarchy refer to more localized patterns recognized in, and abstracted from,
+sensory data. Output from these hierarchies to the rest of the mind is not just through the top
+layers, but via some sort of sampling from various layers, with a bias toward the top layers. The
+different hierarchies cross-connect, and are hence to an extent dynamically coupled together. It
+is also recognized that there are some sensory modalities that aren’t strongly hierarchical, e.g
+102 5 A Generic Architecture of Human-Like Cognition
+touch and smell (the latter being better modeled as something like an asymmetric Hopfield net,
+prone to frequent chaotic dynamics [LLW + 05]) – these may also cross-connect with each other
+and with the more hierarchical perceptual subnetworks. Of course the suggested architecture
+could include any number of sensory modalities; the diagram is restricted to four just for
+simplicity.
+The self-organized patterns in the upper layers of perceptual hierarchies may become quite
+complex and may develop advanced cognitive capabilities like episodic memory, reasoning, language
+learning, etc. A pure deep learning approach to intelligence argues that all the aspects
+of intelligence emerge from this kind of dynamics (among perceptual, action and reinforcement
+hierarchies). Our own view is that the heterogeneity of human brain architecture argues against
+this perspective, and that deep learning systems are probably better as models of perception
+and action than of general cognition. However, the integrative diagram is not committed to
+our perspective on this – a deep-learning theorist could accept the integrative diagram, but
+argue that all the other portions besides the perceptual, action and reinforcement hierarchies
+should be viewed as descriptions of phenomena that emerge in these hierarchies due to their
+interaction.
+Fig. 5.6: Architecture for Action and Reinforcement
+Figure 5.6 shows an action subsystem and a reinforcement subsystem, parallel to the perception
+subsystem. Two action hierarchies, one for an arm and one for a leg, are shown for
+5.3 An Architecture Diagram for Human-Like General Intelligence 103
+concreteness, but of course the architecture is intended to be extended more broadly. In the
+hierarchy corresponding to an arm, for example, the lowest level would contain control patterns
+corresponding to individual joints, the next level up to groupings of joints (like fingers), the
+next level up to larger parts of the arm (hand, elbow). The different hierarchies corresponding
+to different body parts cross-link, enabling coordination among body parts; and they also connect
+at multiple levels to perception hierarchies, enabling sensorimotor coordination. Finally
+there is a module for motor planning, which links tightly with all the motor hierarchies, and
+also overlaps with the more cognitive, inferential planning activities of the mind, in a manner
+that is modeled different ways by different theorists. Albus [AM01] has elaborated this kind of
+hierarchy quite elaborately.
+The reward hierarchy in Figure 5.6 provides reinforcement to actions at various levels on
+the hierarchy, and includes dynamics for propagating information about reinforcement up and
+down the hierarchy.
+Fig. 5.7: Architecture for Language Processing
+Figure 5.7 deals with language, treating it as a special case of coupled perception and action.
+The traditional architecture of a computational language comprehension system is a pipeline
+[JM09] [Goe10d], which is equivalent to a hierarchy with the lowest-level linguistic features (e.g.
+sounds, words) at the bottom, and the highest level features (semantic abstractions) at the top,
+and syntactic features in the middle. Feedback connections enable semantic and cognitive modulation
+of lower-level linguistic processing. Similarly, language generation is commonly modeled
+hierarchically, with the top levels being the ideas needing verbalization, and the bottom level
+corresponding to the actual sentence produced. In generation the primary flow is top-down,
+with bottom-up flow providing modulation of abstract concepts by linguistic surface forms.
+So, that’s it – an integrative architecture diagram for human-like general intelligence, split
+among seven different pictures, formed by judiciously merging together architecture diagrams
+produced via a number of cognitive theorists with different, overlapping foci and research
+paradigms.
+Is anything critical left out of the diagram? A quick perusal of the table of contents of
+cognitive psychology textbooks suggests to me that if anything major is left out, it’s also
+unknown to current cognitive psychology. However, one could certainly make an argument for
+explicit inclusion of certain other aspects of intelligence, that in the integrative diagram are
+104 5 A Generic Architecture of Human-Like Cognition
+left as implicit emergent phenomena. For instance, creativity is obviously very important to
+intelligence, but, there is no "creativity" box in any of these diagrams – because in our view,
+and the view of the cognitive theorists whose work we’ve directly drawn on here, creativity
+is best viewed as a process emergent from other processes that are explicitly included in the
+diagrams.
+5.4 Interpretation and Application of the Integrative Diagram
+A tongue-partly-in-cheek definition of a biological pathway is "a subnetwork of a biological
+network, that fits on a single journal page." Cognitive architecture diagrams have a similar
+property – they are crude abstractions of complex structures and dynamics, sculpted in accordance
+with the size of the printed page, and the tolerance of the human eye for absorbing
+diagrams, and the tolerance of the human author for making diagrams.
+However, sometimes constraints – even arbitrary ones – are useful for guiding creative efforts,
+due to the fact that they force choices. Creating an architecture for human-like general
+intelligence that fits in a few (okay, seven) fairly compact diagrams, requires one to make many
+choices about what features and relationships are most essential. In constructing the integrative
+diagram, we have sought to make these choices, not purely according to our own tastes in cognitive
+theory or AGI system design, but according to a sort of blend of the taste and judgment
+of a number of scientists whose views we respect, and who seem to have fairly compatible,
+complementary perspectives.
+What is the use of a cognitive architecture diagram like this? It can help to give newcomers
+to the field a basic idea about what is known and suspected about the nature of human-like
+general intelligence. Also, it could potentially be used as a tool for cross-correlating different
+AGI architectures. If everyone who authored an AGI architecture would explain how their architecture
+accounts for each of the structures and processes identified in the integrative diagram,
+this would give a means of relating the various AGI designs to each other.
+The integrative diagram could also be used to help connect AGI and cognitive psychology
+to neuroscience in a more systematic way. In the case of LIDA, a fairly careful correspondence
+has been drawn up between the LIDA diagram nodes and links and various neural structures
+and processes [FB08]. Similar knowledge exists for the rest of the integrative diagram, though
+not organized in such a systematic fashion. A systematic curation of links between the nodes
+and links in the integrative diagram and current neuroscience knowledge, would constitute an
+interesting first approximation of the holistic cognitive behavior of the human brain.
+Finally (and harking forward to later chapters), the big omission in the integrative diagram
+is dynamics. Structure alone will only get you so far, and you could build an AGI system with
+reasonable-looking things in each of the integrative diagram’s boxes, interrelating according to
+the given arrows, and yet still fail to make a viable AGI system. Given the limitations the
+real world places on computing resources, it’s not enough to have adequate representations
+and algorithms in all the boxes, communicating together properly and capable doing the right
+things given sufficient resources. Rather, one needs to have all the boxes filled in properly
+with structures and processes that, when they act together using feasible computing resources,
+will yield appropriately intelligent behaviors via their cooperative activity. And this has to do
+with the complex interactive dynamics of all the processes in all the different boxes – which is
+5.4 Interpretation and Application of the Integrative Diagram 105
+something the integrative diagram doesn’t touch at all. This brings us again to the network of
+ideas we’ve discussed under the name of "cognitive synergy," to be discussed later on.
+It might be possible to make something similar to the integrative diagram on the level of
+dynamics rather than structures, complementing the structural integrative diagram given here;
+but this would seem significantly more challenging, because we lack a standard set of tools for
+depicting system dynamics. Most cognitive theorists and AGI architects describe their structural
+ideas using boxes-and-lines diagrams of some sort, but there is no standard method for depicting
+complex system dynamics. So to make a dynamical analogue to the integrative diagram, via
+a similar integrative methodology, one would first need to create appropriate diagrammatic
+formalizations of the dynamics of the various cognitive theories being integrated – a fascinating
+but onerous task.
+When we first set out to make an integrated cognitive architecture diagram, via combining
+the complementary insights of various cognitive science and AGI theorists, we weren’t sure how
+well it would work. But now we feel the experiment was generally a success – the resultant
+integrated architecture seems sensible and coherent, and reasonably complete. It doesn’t come
+close to telling you everything you need to know to understand or implement a human-like
+mind – but it tells you the various processes and structures you need to deal with, and which of
+their interrelations are most critical. And, perhaps just as importantly, it gives a concrete way
+of understanding the insights of a specific but fairly diverse set of cognitive science and AGI
+theorists as complementary rather than contradictory. In a CogPrime context, it provides a
+way of tying in the specific structures and dynamics involved in CogPrime, with a more generic
+portrayal of the structures and dynamics of human-like intelligence.
+
+Chapter 6
+A Brief Overview of CogPrime
+6.1 Introduction
+Just as there are many different approaches to human flight – airplanes, helicopters, balloons,
+spacecraft, and doubtless many methods no person has thought of yet – similarly, there are likely
+many different approaches to advanced artificial general intelligence. All the different approaches
+to flight exploit the same core principles of aerodynamics in different ways; and similarly, the
+various different approaches to AGI will exploit the same core principles of general intelligence
+in different ways.
+In the chapters leading up to this one, we have taken a fairly broad view of the project
+of engineering AGI. We have presented a conception and formal model of intelligence, and
+described environments, teaching methodologies and cognitive and developmental pathways
+that we believe are collectively appropriate for the creation of AGI at the human level and
+ultimately beyond, and with a roughly human-like bias to its intelligence. These ideas stand
+alone and may be compatible with a variety of approaches to engineering AGI systems. However,
+they also set the stage for the presentation of CogPrime, the particular AGI design on which
+we are currently working.
+The thorough presentation of the CogPrime design is the job of Part 2 of this book – where,
+not only are the algorithms and structures involved in CogPrime reviewed in more detailed,
+but their relationship to the theoretical ideas underlying CogPrime is pursued more deeply.
+The job of this chapter is a smaller one: to give a high-level overview of some key aspects the
+CogPrime architecture at a mostly nontechnical level, so as to enable you to approach Part
+2 with a little more idea of what to expect. The remainder of Part 1, following this chapter,
+will present various theoretical notions enabling the particulars, intent and consequences of the
+CogPrime design to be more thoroughly understood.
+6.2 High-Level Architecture of CogPrime
+Figures 6.1, 6.2 , 6.4 and 6.5 depict the high-level architecture of CogPrime, which involves
+the use of multiple cognitive processes associated with multiple types of memory to enable
+an intelligent agent to execute the procedures that it believes have the best probability of
+working toward its goals in its current context. In a robot preschool context, for example, the
+107
+108 6 A Brief Overview of CogPrime
+top-level goals will be simple things such as pleasing the teacher, learning new information
+and skills, and protecting the robot’s body. Figure 6.3 shows part of the architecture via which
+cognitive processes interact with each other, via commonly acting on the AtomSpace knowledge
+repository.
+Comparing these diagrams to the integrative human cognitive architecture diagrams given
+in Chapter 5, one sees the main difference is that the CogPrime diagrams commit to specific
+structures (e.g. knowledge representations) and processes, whereas the generic integrative architecture
+diagram refers merely to types of structures and processes. For instance, the integrative
+diagram refers generally to declarative knowledge and learning, whereas the CogPrime diagram
+refers to PLN, as a specific system for reasoning and learning about declarative knowledge. Table
+6.1 articulates the key connections between the components of the CogPrime diagram and
+those of the integrative diagram, thus indicating the general cognitive functions instantiated by
+each of the CogPrime components.
+6.3 Current and Prior Applications of OpenCog
+Before digging deeper into the theory, and elaborating some of the dynamics underlying the
+above diagrams, we pause to briefly discuss some of the practicalities of work done with the
+OpenCog system currently implementing parts of the CogPrime architecture.
+OpenCog, the open-source software framework underlying the “OpenCogPrime” (currently
+partial) implementation of the CogPrime architecture, has been used for commercial applications
+in the area of natural language processing and data mining; for instance, see [GPPG06]
+where OpenCogPrime’s PLN reasoning and RelEx language processing are combined to do
+automated biological hypothesis generation based on information gathered from PubMed abstracts.
+Most relevantly to the present work, it has also been used to control virtual agents in
+virtual worlds [GEA08].
+Prototype work done during 2007-2008 involved using an OpenCog variant called the Open-
+PetBrain to control virtual dogs in a virtual world (see Figure 6.6 for a screenshot of an
+OpenPetBrain-controlled virtual dog). While these OpenCog virtual dogs did not display intelligence
+closely comparable to that of real dogs (or human children), they did demonstrate a
+variety of interesting and relevant functionalities including:
+• learning new behaviors based on imitation and reinforcement
+• responding to natural language commands and questions, with appropriate actions and
+natural language replies
+• spontaneous exploration of their world, remembering their experiences and using them to
+bias future learning and linguistic interaction
+One current OpenCog initiative involves extending the virtual dog work via using OpenCog
+to control virtual agents in a game world inspired by the game Minecraft. These agents are
+initially specifically concerned with achieving goals in a game world via constructing structures
+with blocks and carrying out simple English communications. Representative example tasks
+would be:
+• Learning to build steps or ladders to get desired objects that are high up
+• Learning to build a shelter to protect itself from aggressors
+6.3 Current and Prior Applications of OpenCog 109
+Fig. 6.1: High-Level Architecture of CogPrime. This is a conceptual depiction, not a
+detailed flowchart (which would be too complex for a single image). Figures 6.2 , 6.4 and 6.5
+highlight specific aspects of this diagram.
+• Learning to build structures resembling structures that it’s shown (even if the available
+materials are a bit different)
+• Learning how to build bridges to cross chasms
+Of course, the AI significance of learning tasks like this all depends on what kind of feedback
+the system is given, and how complex its environment is. It would be relatively simple to make
+an AI system do things like this in a trivial and highly specialized way, but that is not the intent
+of the project the goal is to have the system learn to carry out tasks like this using general
+learning mechanisms and a general cognitive architecture, based on embodied experience and
+110 6 A Brief Overview of CogPrime
+only scant feedback from human teachers. If successful, this will provide an outstanding platform
+for ongoing AGI development, as well as a visually appealing and immediately meaningful demo
+for OpenCog.
+Specific, particularly simple tasks that are the focus of this project team’s current work at
+time of writing include:
+• Watch another character build steps to reach a high-up object
+• Figure out via imitation of this that, in a different context, building steps to reach a high
+up object may be a good idea
+• Also figure out that, if it wants a certain high-up object but there are no materials for
+building steps available, finding some other way to get elevated will be a good idea that
+may help it get the object
+6.3.1 Transitioning from Virtual Agents to a Physical Robot
+Preliminary experiments have also been conducted using OpenCog to control a Nao robot as well
+as a virtual dog [GdG08]. This involves hybridizing OpenCog with a separate (but interlinked)
+subsystem handling low-level perception and action. In the experiments done so far, this has
+been accomplished in an extremely simplistic way. How to do this right is a topic treated in
+detail in Chapter 26 of Part 2.
+We suspect that reasonable level of capability will be achievable by simply interposing DeS-
+TIN (or some other system in its place) as a perception/action “black box” between OpenCog
+and a robot. Some preliminary experiments in this direction have already been carried out, connecting
+the OpenPetBrain to a Nao robot using simpler, less capable software than DeSTIN in
+the intermediary role (off-the-shelf speech-to-text, text-to-speech and visual object recognition
+software).
+However, we also suspect that to achieve robustly intelligent robotics we must go beyond this
+approach, and connect robot perception and actuation software with OpenCogPrime in a “white
+box” manner that allows intimate dynamic feedback between perceptual, motoric, cognitive
+and linguistic functions. We will achieve this via the creation and real-time utilization of links
+between the nodes in CogPrime’s and DeSTIN’s internal networks (a topic to be explored in
+more depth later in this chapter).
+6.4 Memory Types and Associated Cognitive Processes in CogPrime
+Now we return to the basic description of the CogPrime approach, turning to aspects of the
+relationship between structure and dynamics. Architecture diagrams are all very well, but,
+ultimately it is dynamics that makes an architecture come alive. Intelligence is all about learning,
+which is by definition about change, about dynamical response to the environment and internal
+self-organizing dynamics.
+CogPrime relies on multiple memory types and, as discussed above, is founded on the premise
+that the right course in architecting a pragmatic, roughly human-like AGI system is to handle
+different types of memory differently in terms of both structure and dynamics.
+6.4 Memory Types and Associated Cognitive Processes in CogPrime 111
+CogPrime’s memory types are the declarative, procedural, sensory, and episodic memory
+types that are widely discussed in cognitive neuroscience [TC05], plus attentional memory for
+allocating system resources generically, and intentional memory for allocating system resources
+in a goal-directed way. Table 6.2 overviews these memory types, giving key references and indicating
+the corresponding cognitive processes, and also indicating which of the generic patternist
+cognitive dynamics each cognitive process corresponds to (pattern creation, association, etc.).
+Figure 6.7 illustrates the relationships between several of the key memory types in the context
+of a simple situation involving an OpenCogPrime-controlled agent in a virtual world.
+In terms of patternist cognitive theory, the multiple types of memory in CogPrime should be
+considered as specialized ways of storing particular types of patterns, optimized for spacetime
+efficiency. The cognitive processes associated with a certain type of memory deal with creating
+and recognizing patterns of the type for which the memory is specialized. While in principle all
+the different sorts of pattern could be handled in a unified memory and processing architecture,
+the sort of specialization used in CogPrime is necessary in order to achieve acceptable efficient
+general intelligence using currently available computational resources. And as we have argued
+in detail in Chapter 7, efficiency is not a side-issue but rather the essence of real-world AGI
+(since as Hutter has shown, if one casts efficiency aside, arbitrary levels of general intelligence
+can be achieved via a trivially simple program).
+The essence of the CogPrime design lies in the way the structures and processes associated
+with each type of memory are designed to work together in a closely coupled way, yielding cooperative
+intelligence going beyond what could be achieved by an architecture merely containing
+the same structures and processes in separate “black boxes.”
+The inter-cognitive-process interactions in OpenCog are designed so that
+• conversion between different types of memory is possible, though sometimes computationally
+costly (e.g. an item of declarative knowledge may with some effort be interpreted
+procedurally or episodically, etc.)
+• when a learning process concerned centrally with one type of memory encounters a situation
+where it learns very slowly, it can often resolve the issue by converting some of the relevant
+knowledge into a different type of memory: i.e. cognitive synergy
+6.4.1 Cognitive Synergy in PLN
+To put a little meat on the bones of the "cognitive synergy" idea, discussed repeatedly in prior
+chapters and more extensively in latter chapters, we now elaborate a little on the role it plays
+in the interaction between procedural and declarative learning.
+While MOSES handles much of CogPrime’s procedural learning, and CogPrime’s internal
+simulation engine handles most episodic knowledge, CogPrime’s primary tool for handling
+declarative knowledge is an uncertain inference framework called Probabilistic Logic Networks
+(PLN). The complexities of PLN are the topic of a lengthy technical monograph [GMIH08], and
+are summarized in Chapter 34; here we will eschew most details and focus mainly on pointing
+out how PLN seeks to achieve efficient inference control via integration with other cognitive
+processes.
+As a logic, PLN is broadly integrative: it combines certain term logic rules with more standard
+predicate logic rules, and utilizes both fuzzy truth values and a variant of imprecise probabilities
+called indefinite probabilities. PLN mathematics tells how these uncertain truth values propagate
+112 6 A Brief Overview of CogPrime
+through its logic rules, so that uncertain premises give rise to conclusions with reasonably
+accurately estimated uncertainty values. This careful management of uncertainty is critical for
+the application of logical inference in the robotics context, where most knowledge is abstracted
+from experience and is hence highly uncertain.
+PLN can be used in either forward or backward chaining mode; and in the language introduced
+above, it can be used for either analysis or synthesis. As an example, we will consider
+backward chaining analysis, exemplified by the problem of a robot preschool-student trying to
+determine whether a new playmate “Bob” is likely to be a regular visitor to is preschool or not
+(evaluating the truth value of the implication Bob → regular_visitor). The basic backward
+chaining process for PLN analysis looks like:
+1. Given an implication L ≡ A → B whose truth value must be estimated (for instance
+L ≡ Concept ∧ Procedure → Goal as discussed above), create a list (A 1 , ..., A n ) of (inference
+rule, stored knowledge) pairs that might be used to produce L
+2. Using analogical reasoning to prior inferences, assign each A i a probability of success
+• If some of the A i are estimated to have reasonable probability of success at generating
+reasonably confident estimates of L’s truth value, then invoke Step 1 with A i in place
+of L (at this point the inference process becomes recursive)
+• If none of the A i looks sufficiently likely to succeed, then inference has “gotten stuck”
+and another cognitive process should be invoked, e.g.
+– Concept creation may be used to infer new concepts related to A and B, and then
+Step 1 may be revisited, in the hope of finding a new, more promising A i involving
+one of the new concepts
+– MOSES may be invoked with one of several special goals, e.g. the goal of finding
+a procedure P so that P (X) predicts whether X → B. If MOSES finds such a
+procedure P then this can be converted to declarative knowledge understandable
+by PLN and Step 1 may be revisited....
+– Simulations may be run in CogPrime’s internal simulation engine, so as to observe
+the truth value of A → B in the simulations; and then Step 1 may be revisited....
+The combinatorial explosion of inference control is combatted by the capability to defer to
+other cognitive processes when the inference control procedure is unable to make a sufficiently
+confident choice of which inference steps to take next. Note that just as MOSES may rely
+on PLN to model its evolving populations of procedures, PLN may rely on MOSES to create
+complex knowledge about the terms in its logical implications. This is just one example of the
+multiple ways in which the different cognitive processes in CogPrime interact synergetically; a
+more thorough treatment of these interactions is given in [Goe09a].
+In the “new playmate” example, the interesting case is where the robot initially seems not
+to know enough about Bob to make a solid inferential judgment (so that none of the A i seem
+particularly promising). For instance, it might carry out a number of possible inferences and not
+come to any reasonably confident conclusion, so that the reason none of the A i seem promising
+is that all the decent-looking ones have been tried already. So it might then recourse to MOSES,
+simulation or concept creation.
+For instance, the PLN controller could make a list of everyone who has been a regular
+visitor, and everyone who has not been, and pose MOSES the task of figuring out a procedure
+for distinguishing these two categories. This procedure could then be used directly to make the
+needed assessment, or else be translated into logical rules to be used within PLN inference. For
+6.5 Goal-Oriented Dynamics in CogPrime 113
+example, perhaps MOSES would discover that older males wearing ties tend not to become
+regular visitors. If the new playmate is an older male wearing a tie, this is directly applicable.
+But if the current playmate is wearing a tuxedo, then PLN may be helpful via reasoning that
+even though a tuxedo is not a tie, it’s a similar form of fancy dress – so PLN may extend the
+MOSES-learned rule to the present case and infer that the new playmate is not likely to be a
+regular visitor.
+6.5 Goal-Oriented Dynamics in CogPrime
+CogPrime’s dynamics has both goal-oriented and “spontaneous” aspects; here for simplicity’s
+sake we will focus on the goal-oriented ones. The basic goal-oriented dynamic of the CogPrime
+system, within which the various types of memory are utilized, is driven by implications known
+as “cognitive schematics”, which take the form
+Context ∧ P rocedure → Goal < p >
+(summarized C ∧ P → G). Semi-formally, this implication may be interpreted to mean: “If the
+context C appears to hold currently, then if I enact the procedure P , I can expect to achieve the
+goal G with certainty p.” Cognitive synergy means that the learning processes corresponding to
+the different types of memory actively cooperate in figuring out what procedures will achieve
+the system’s goals in the relevant contexts within its environment.
+CogPrime’s cognitive schematic is significantly similar to production rules in classical architectures
+like SOAR and ACT-R (as reviewed in Chapter 4; however, there are significant
+differences which are important to CogPrime’s functionality. Unlike with classical production
+rules systems, uncertainty is core to CogPrime’s knowledge representation, and each CogPrime
+cognitive schematic is labeled with an uncertain truth value, which is critical to its utilization by
+CogPrime’s cognitive processes. Also, in CogPrime, cognitive schematics may be incomplete,
+missing one or two of the terms, which may then be filled in by various cognitive processes
+(generally in an uncertain way). A stronger similarity is to MicroPsi’s triplets; the differences
+in this case are more low-level and technical and have already been mentioned in Chapter 4.
+Finally, the biggest difference between CogPrime’s cognitive schematics and production rules
+or other similar constructs, is that in CogPrime this level of knowledge representation is not
+the only important one. CLARION [SZ04], as reviewed above, is an example of a cognitive
+architecture that uses production rules for explicit knowledge representation and then uses a
+totally separate subsymbolic knowledge store for implicit knowledge. In CogPrime
+both explicit and implicit knowledge are stored in the same graph of nodes and links, with
+• explicit knowledge stored in probabilistic logic based nodes and links such as cognitive
+schematics (see Figure 6.8 for a depiction of some explicit linguistic knowledge.)
+• implicit knowledge stored in patterns of activity among these same nodes and links, defined
+via the activity of the “importance” values (see Figure 6.9 for an illustrative example thereof)
+associated with nodes and links and propagated by the ECAN attention allocation process
+The meaning of a cognitive schematic in CogPrime is hence not entirely encapsulated in its
+explicit logical form, but resides largely in the activity patterns that ECAN causes its activation
+or exploration to give rise to. And this fact is important because the synergetic interactions
+of system components are in large part modulated by ECAN activity. Without the real-time
+114 6 A Brief Overview of CogPrime
+combination of explicit and implicit knowledge in the system’s knowledge graph, the synergetic
+interaction of different cognitive processes would not work so smoothly, and the emergence of
+effective high-level hierarchical, heterarchical and self structures would be less likely.
+6.6 Analysis and Synthesis Processes in CogPrime
+We now return to CogPrime’s fundamental cognitive dynamics, using examples from the “virtual
+dog” application to motivate the discussion.
+The cognitive schematic Context ∧ Procedure → Goal leads to a conceptualization of the
+internal action of an intelligent system as involving two key categories of learning:
+• Analysis: Estimating the probability p of a posited C ∧ P → G relationship
+• Synthesis: Filling in one or two of the variables in the cognitive schematic, given assumptions
+regarding the remaining variables, and directed by the goal of maximizing the
+probability of the cognitive schematic
+More specifically, where synthesis is concerned,
+• The MOSES probabilistic evolutionary program learning algorithm is applied to find P ,
+given fixed C and G. Internal simulation is also used, for the purpose of creating a simulation
+embodying C and seeing which P lead to the simulated achievement of G.
+– Example: A virtual dog learns a procedure P to please its owner (the goal G) in the
+context C where there is a ball or stick present and the owner is saying “fetch”.
+• PLN inference, acting on declarative knowledge, is used for choosing C, given fixed P and
+G (also incorporating sensory and episodic knowledge as appropriate). Simulation may also
+be used for this purpose.
+– Example: A virtual dog wants to achieve the goal G of getting food, and it knows that
+the procedure P of begging has been successful at this before, so it seeks a context C
+where begging can be expected to get it food. Probably this will be a context involving a
+friendly person.
+• PLN-based goal refinement is used to create new subgoals G to sit on the right hand side
+of instances of the cognitive schematic.
+– Example: Given that a virtual dog has a goal of finding food, it may learn a subgoal of
+following other dogs, due to observing that other dogs are often heading toward their
+food.
+• Concept formation heuristics are used for choosing G and for fueling goal refinement, but
+especially for choosing C (via providing new candidates for C). They are also used for
+choosing P , via a process called “predicate schematization” that turns logical predicates
+(declarative knowledge) into procedures.
+– Example: At first a virtual dog may have a hard time predicting which other dogs are
+going to be mean to it. But it may eventually observe common features among a number
+of mean dogs, and thus form its own concept of “pit bull,” without anyone ever teaching
+it this concept explicitly.
+6.6 Analysis and Synthesis Processes in CogPrime 115
+Where analysis is concerned:
+• PLN inference, acting on declarative knowledge, is used for estimating the probability of
+the implication in the cognitive schematic, given fixed C, P and G. Episodic knowledge
+is also used in this regard, via enabling estimation of the probability via simple similarity
+matching against past experience. Simulation is also used: multiple simulations may be run,
+and statistics may be captured therefrom.
+– Example: To estimate the degree to which asking Bob for food (the procedure P is “asking
+for food”, the context C is “being with Bob”) will achieve the goal G of getting food, the
+virtual dog may study its memory to see what happened on previous occasions where it
+or other dogs asked Bob for food or other things, and then integrate the evidence from
+these occasions.
+• Procedural knowledge, mapped into declarative knowledge and then acted on by PLN inference,
+can be useful for estimating the probability of the implication C ∧ P → G, in cases
+where the probability of C ∧ P 1 → G is known for some P 1 related to P .
+– Example: knowledge of the internal similarity between the procedure of asking for food
+and the procedure of asking for toys, allows the virtual dog to reason that if asking Bob
+for toys has been successful, maybe asking Bob for food will be successful too.
+• Inference, acting on declarative or sensory knowledge, can be useful for estimating the
+probability of the implication C ∧ P → G, in cases where the probability of C 1 ∧ P → G is
+known for some C 1 related to C.
+– Example: if Bob and Jim have a lot of features in common, and Bob often responds
+positively when asked for food, then maybe Jim will too.
+• Inference can be used similarly for estimating the probability of the implication C ∧P → G,
+in cases where the probability of C ∧ P → G 1 is known for some G 1 related to G. Concept
+creation can be useful indirectly in calculating these probability estimates, via providing
+new concepts that can be used to make useful inference trails more compact and hence
+easier to construct.
+– Example: The dog may reason that because Jack likes to play, and Jack and Jill are both
+children, maybe Jill likes to play too. It can carry out this reasoning only if its concept
+creation process has invented the concept of “child” via analysis of observed data.
+In these examples we have focused on cases where two terms in the cognitive schematic are
+fixed and the third must be filled in; but just as often, the situation is that only one of the
+terms is fixed. For instance, if we fix G, sometimes the best approach will be to collectively
+learn C and P . This requires either a procedure learning method that works interactively with a
+declarative-knowledge-focused concept learning or reasoning method; or a declarative learning
+method that works interactively with a procedure learning method. That is, it requires the sort
+of cognitive synergy built into the CogPrime design.
+116 6 A Brief Overview of CogPrime
+6.7 Conclusion
+To thoroughly describe a comprehensive, integrative AGI architecture in a brief chapter would
+be an impossible task; all we have attempted here is a brief overview, to be elaborated on in
+the 800-odd pages of Part 2 of this book. We do not expect this brief summary to be enough to
+convince the skeptical reader that the approach described here has a reasonable odds of success
+at achieving its stated goals, or even of fulfilling the conceptual notions outlined in the preceding
+chapters. However, we hope to have given the reader at least a rough idea of what sort of AGI
+design we are advocating, and why and in what sense we believe it can lead to advanced artificial
+general intelligence. For more details on the structure, dynamics and underlying concepts of
+CogPrime, the reader is encouraged to proceed to Part 2– after completing Part 1, of course.
+Please be patient – building a thinking machine is a big topic, and we have a lot to say about
+it!
+6.7 Conclusion 117
+Fig. 6.2: Key Explicitly Implemented Processes of CogPrime . The large box at the
+center is the Atomspace, the system’s central store of various forms of (long-term and working)
+memory, which contains a weighted labeled hypergraph whose nodes and links are "Atoms" of
+various sorts. The hexagonal boxes at the bottom denote various hierarchies devoted to recognition
+and generation of patterns: perception, action and linguistic. Intervening between these
+recognition/generation hierarchies and the Atomspace, we have a pattern mining/imprinting
+component (that recognizes patterns in the hierarchies and passes them to the Atomspace; and
+imprints patterns from the Atomspace on the hierarchies); and also OpenPsi, a special dynamical
+framework for choosing actions based on motivations. Above the Atomspace we have a
+host of cognitive processes, which act on the Atomspace, some continually and some only as
+context dictates, carrying out various sorts of learning and reasoning (pertinent to various sorts
+of memory) that help the system fulfill its goals and motivations.
+118 6 A Brief Overview of CogPrime
+Fig. 6.3: MindAgents and AtomSpace in OpenCog. This is a conceptual depiction of
+one way cognitive processes may interact in OpenCog – they may be wrapped in MindAgent
+objects, which interact via cooperatively acting on the AtomSpace.
+6.7 Conclusion 119
+Fig. 6.4: Links Between Cognitive Processes and the Atomspace. The cognitive processes
+depicted all act on the Atomspace, in the sense that they operate by observing certain
+Atoms in the Atomspace and then modifying (or in rare cases deleting) them, and potentially
+adding new Atoms as well. Atoms represent all forms of knowledge, but some forms of knowledge
+are additionally represented by external data stores connected to the Atomspace, such as
+the Procedure Repository; these are also shown as linked to the Atomspace.
+120 6 A Brief Overview of CogPrime
+Fig. 6.5: Invocation of Atom Operations By Cognitive Processes. This diagram depicts
+some of the Atom modification, creation and deletion operations carried out by the abstract
+cognitive processes in the CogPrime architecture.
+6.7 Conclusion 121
+CogPrime
+Component
+Int. Diag.
+Sub-Diagram
+Int. Diag. Component
+Procedure Repository Long-Term Memory Procedural
+Procedure Repository Working Memory Active Procedural
+Associative Episodic
+Memory
+Long-Term Memory
+Episodic
+Associative Episodic
+Memory
+Working Memory Transient Episodic
+Backup Store Long-Term Memory
+no correlate: a function not
+necessarily possessed by the human
+mind
+Spacetime Server Long-Term Memory Declarative and Sensorimotor
+Dimensional
+Embedding Space
+no clear correlate: a
+tool for helping
+multiple types of LTM
+Dimensional
+Embedding Agent
+no clear correlate
+Blending
+Long-Term and
+Working Memory
+Concept Formation
+Clustering
+Long-Term and
+Working Memory
+Concept Formation
+PLN Probabilistic
+Inference
+MOSES / Hillclimbing
+World Simulation
+Episodic Encoding /
+Recall
+Episodic Encoding /
+Recall
+Forgetting / Freezing
+/ Defrosting
+Map Formation
+Long-Term and
+Working Memory
+Long-Term and
+Working Memory
+Long-Term and
+Working Memory
+Long-Term g Memory
+Working Memory
+Long-Term and
+Working Memory
+Long-Term Memory
+Reasoning and Plan
+Learning/Optimization
+Procedure Learning
+Simulation
+Story-telling
+Consolidation
+no correlate: a function not
+necessarily possessed by the human
+mind
+Concept Formation and Pattern
+Mining
+Attention Allocation
+Long-Term and
+Working Memory
+Hebbian/Attentional Learning
+Attention Allocation
+High-Level Mind
+Architecture
+Reinforcement
+Attention Allocation Working Memory
+Perceptual Associative Memory and
+Local Association
+AtomSpace
+High-Level Mind
+Architecture
+no clear correlate: a general tool for
+representing memory including
+long-term and working, plus some of
+perception and action
+AtomSpace Working Memory
+Global Workspace (the high-STI
+portion of AtomSpace) & other
+Workspaces
+Declarative Atoms
+Long-Term and
+Working Memory
+Declarative and Sensorimotor
+Procedure Atoms
+Long-Term and
+Working Memory
+Procedural
+Hebbian Atoms
+Long-Term and
+Working Memory
+Attentional
+Goal Atoms
+Long-Term and
+Working Memory
+Intentional
+Feeling Atoms
+Long-Term and
+Working Memory
+spanning Declarative, Intentional and
+Sensorimotor
+OpenPsi
+High-Level Mind
+Architecture
+Motivation / Action Selection
+OpenPsi Working Memory Action Selection
+Pattern Miner
+High-Level Mind
+Architecture
+arrows between perception and
+working and long-term memory
+Pattern Miner Working Memory
+arrows between sensory memory and
+perceptual associative and transient
+episodic memory
+arrows between action selection and
+122 6 A Brief Overview of CogPrime
+Fig. 6.6: Screenshot of OpenCog-controlled virtual dog
+Fig. 6.7: Relationship Between Multiple Memory Types. The bottom left corner shows
+a program tree, constituting procedural knowledge. The upper left shows declarative nodes and
+links in the Atomspace. The upper right corner shows a relevant system goal. The lower right
+corner contains an image symbolizing relevant episodic and sensory knowledge. All the various
+types of knowledge link to each other and can be approximatively converted to each other.
+6.7 Conclusion 123
+Memory Type
+Declarative
+Procedural
+Episodic
+Attentional
+Intentional
+Sensory
+Specific Cognitive Processes
+Probabilistic Logic Networks (PLN)
+[GMIH08]; conceptual blending
+[FT02]
+MOSES (a novel probabilistic
+evolutionary program learning
+algorithm) [Loo06]
+internal simulation engine [GEA08]
+Economic Attention Networks
+(ECAN) [GPI + 10]
+probabilistic goal hierarchy refined by
+PLN and ECAN, structured
+according to MicroPsi [Bac09]
+In CogBot, this will be supplied by
+the DeSTIN component
+General Cognitive
+Functions
+pattern creation
+pattern creation
+association, pattern
+creation
+association, credit
+assignment
+credit assignment,
+pattern creation
+association, attention
+allocation, pattern
+creation, credit
+assignment
+Table 6.2: Memory Types and Cognitive Processes in CogPrime. The third column indicates
+the general cognitive function that each specific cognitive process carries out, according to the
+patternist theory of cognition.
+124 6 A Brief Overview of CogPrime
+Fig. 6.8: Example of Explicit Knowledge in the Atomspace. One simple example of
+explicitly represented knowledge in the Atomspace is linguistic knowledge, such as words and
+the concepts directly linked to them. Not all of a CogPrime system’s concepts correlate to
+words, but some do.
+6.7 Conclusion 125
+Fig. 6.9: Example of Implicit Knowledge in the Atomspace. A simple example of implicit
+knowledge in the Atomspace. The "chicken" and "food" concepts are represented by "maps"
+of ConceptNodes interconnected by HebbianLinks, where the latter tend to form between ConceptNodes
+that are often simultaneously important. The bundle of links between nodes in the
+chicken map and nodes in the food map, represents an "implicit, emergent link" between the
+two concept maps. This diagram also illustrates "glocal" knowledge representation, in that the
+chicken and food concepts are each represented by individual nodes, but also by distributed
+maps. The "chicken" ConceptNode, when important, will tend to make the rest of the map
+important – and vice versa. Part of the overall chicken concept possessed by the system is expressed
+by the explicit links coming out of the chicken ConceptNode, and part is represented
+only by the distributed chicken map as a whole.
+
+Section II
+Toward a General Theory of General Intelligence
+
+Chapter 7
+A Formal Model of Intelligent Agents
+7.1 Introduction
+The artificial intelligence field is full of sophisticated mathematical models and equations, but
+most of these are highly specialized in nature – e.g. formalizations of particular logic systems,
+analyzes of the dynamics of specific sorts of neural nets, etc. On the other hand, a number of
+highly general models of intelligent systems also exist, including Hutter’s recent formalization
+of universal intelligence [Hut05] and a large body of work in the disciplines of systems science
+and cybernetics – but these have tended not to yield many specific lessons useful for engineering
+AGI systems, serving more as conceptual models in mathematical form.
+It would be fantastic to have a mathematical theory bridging these extremes – a real "general
+theory of general intelligence," allowing the derivation and analysis of specific structures and
+processes playing a role in practical AGI systems, from broad mathematical models of general
+intelligence in various situations and under various constraints. However, the path to such a
+theory is not entirely clear at present; and, as valuable as such a theory would be, we don’t
+believe such a thing to be necessary for creating advanced AGI. One possibility is that the
+development of such a theory will occur contemporaneously and synergetically with the advent
+of practical AGI technology.
+Lacking a mature, pragmatically useful "general theory of general intelligence," however, we
+have still found it valuable to articulate certain theoretical ideas about the nature of general
+intelligence, with a level of rigor a bit greater than the wholly informal discussions of the previous
+chapters. The chapters in this section of the book articulate some ideas we have developed in
+pursuit of a general theory of general intelligence; ideas that, even in their current relatively
+undeveloped form, have been very helpful in guiding our concrete work on the CogPrime design.
+This chapter presents a more formal version of the notion of intelligence as “achieving complex
+goals in complex environments,” based on a formal model of intelligent agents. These formalizations
+of agents and intelligence will be used in later chapters as a foundation for formalizing
+other concepts like inference and cognitive synergy. Chapters 8 and 9 pursue the notion of cognitive
+synergy a little more thoroughly than was done in previous chapters. Chapter 10 sketches
+a general theory of general intelligence using tools from category theory – not bringing it to the
+level where one can use it to derive specific AGI algorithms and structures; but still, presenting
+ideas that will be helpful in interpreting and explaining specific aspects of the CogPrime design
+in Part 2. Finally, Appendix ?? explores an additional theoretical direction, in which the mind
+of an intelligent system is viewed in terms of certain curved spaces – a novel way of thinking
+129
+130 7 A Formal Model of Intelligent Agents
+about the dynamics of general intelligence, which has been useful in guiding development of the
+ECAN component of CogPrime, and we expect will have more general value in future.
+Despite the intermittent use of mathematical formalism, the ideas presented in this section
+are fairly speculative, and we do not propose them as constituting a well-demonstrated theory
+of general intelligence. Rather, we propose them as an interesting way of thinking about general
+intelligence, which appears to be consistent with available data, and which has proved inspirational
+to us in conceiving concrete structures and dynamics for AGI, as manifested for example
+in the CogPrime design. Understanding the way of thinking described in these chapters is valuable
+for understanding why the CogPrime design is the way it is, and for relating CogPrime to
+other practical and intellectual systems, and extending and improving CogPrime.
+7.2 A Simple Formal Agents Model (SRAM)
+We now present a formalization of the concept of “intelligent agents” – beginning with a formalization
+of “agents” in general.
+Drawing on [Hut05, LH07a], we consider a class of active agents which observe and explore
+their environment and also take actions in it, which may affect the environment. Formally,
+the agent sends information to the environment by sending symbols from some finite alphabet
+called the action space Σ; and the environment sends signals to the agent with symbols from
+an alphabet called the perception space, denoted P. Agents can also experience rewards, which
+lie in the reward space, denoted R, which for each agent is a subset of the rational unit interval.
+The agent and environment are understood to take turns sending signals back and forth,
+yielding a history of actions, observations and rewards, which may be denoted
+or else
+a 1 o 1 r 1 a 2 o 2 r 2 ...
+a 1 x 1 a 2 x 2 ...
+if x is introduced as a single symbol to denote both an observation and a reward. The
+complete interaction history up to and including cycle t is denoted ax 1:t ; and the history before
+cycle t is denoted ax <t = ax 1:t−1 .
+The agent is represented as a function π which takes the current history as input, and produces
+an action as output. Agents need not be deterministic, an agent may for instance induce a
+probability distribution over the space of possible actions, conditioned on the current history. In
+this case we may characterize the agent by a probability distribution π(a t |ax <t ). Similarly, the
+environment may be characterized by a probability distribution µ(x k |ax <k a k ). Taken together,
+the distributions π and µ define a probability measure over the space of interaction sequences.
+Next, we extend this model in a few ways, intended to make it better reflect the realities of
+intelligent computational agents. The first modification is to allow agents to maintain memories
+(of finite size), via adding memory actions drawn from a set M into the history of actions,
+observations and rewards. The second modification is to introduce the notion of goals.
+7.2 A Simple Formal Agents Model (SRAM) 131
+7.2.1 Goals
+We define goals as mathematical functions (to be specified below) associated with symbols
+drawn from the alphabet G; and we consider the environment as sending goal-symbols to the
+agent along with regular observation-symbols. (Note however that the presentation of a goalsymbol
+to an agent does not necessarily entail the explicit communication to the agent of the
+contents of the goal function. This must be provided by other, correlated observations.) We also
+introduce a conditional distribution γ(g, µ) that gives the weight of a goal g in the context of
+a particular environment µ.
+In this extended framework, an interaction sequence looks like
+or else
+a 1 o 1 g 1 r 1 a 2 o 2 g 2 r 2 ...
+a 1 y 1 a 2 y 2 ...
+where g i are symbols corresponding to goals, and y is introduced as a single symbol to denote
+the combination of an observation, a reward and a goal.
+Each goal function maps each finite interaction sequence I g,s,t = ay s:t with g s to g t corresponding
+to g, into a value r g (I g,s,t ) ∈ [0, 1] indicating the value or “raw reward” of achieving
+the goal during that interaction sequence. The total reward r t obtained by the agent is the sum
+of the raw rewards obtained at time t from all goals whose symbols occur in the agent’s history
+before t.
+This formalism of goal-seeking agents allows us to formalize the notion of intelligence as
+“achieving complex goals in complex environments” – a direction that is pursued in Section 7.3
+below.
+Note that this is an external perspective of system goals, which is natural from the perspective
+of formally defining system intelligence in terms of system behavior, but is not necessarily very
+natural in terms of system design. From the point of view of AGI design, one is generally more
+concerned with the (implicit or explicit) representation of goals inside an AGI system, as in
+CogPrime’s Goal Atoms to be reviewed in Chapter 22 below.
+Further, it is important to also consider the case where an AGI system has no explicit goals,
+and the system’s environment has no immediately identifiable goals either. But in this case, we
+don’t see any clear way to define a system’s intelligence, except via approximating the system in
+terms of other theoretical systems which do have explicit goals. This approximation approach
+is developed in Section 7.3.5 below.
+The awkwardness of linking the general formalism of intelligence theory presented here, with
+the practical business of creating and designing AGI systems, may indicate a shortcoming on
+the part of contemporary intelligence theory or AGI designs. On the other hand, this sort of
+situation often occurs in other domains as well – e.g. the leap from quantum theory to the
+analysis of real-world systems like organic molecules involves a lot of awkwardness and large
+leaps a well.
+132 7 A Formal Model of Intelligent Agents
+7.2.2 Memory Stores
+As well as goals, we introduce into the model a long-term memory and a workspace. Regarding
+long-term memory we assume the agent’s memory consists of multiple memory stores corresponding
+to various types of memory, e.g.: procedural (K P roc ), declarative (K Dec ), episodic
+(K Ep ), attentional (K Att ) and Intentional (K Int ). In Appendix ?? a category-theoretic model
+of these memory stores is introduced; but for the moment, we need only assume the existence
+of
+• an injective mapping Θ Ep : K Ep → H where H is the space of fuzzy sets of subhistories
+(subhistories being “episodes” in this formalism)
+• an injective mapping Θ P roc : K P roc × M × W → A, where M is the set of memory states,
+W is the set of (observation, goal, reward) triples, and A is the set of actions (this maps
+each procedure object into a function that enacts actions in the environment or memory,
+based on the memory state and current world-state)
+• an injective mapping Θ Dec : K Dec → L, where L is the set of expressions in some formal language
+(which may for example be a logical language), which possesses words corresponding
+to the observations, goals, reward values and actions in our agent formalism
+• an injective mapping Θ Int : K Int → G, where G is the space of goals mentioned above
+• an injective mapping Θ Att : K Int ∪ K Ep ∪ K P roc ∪ K Ec → V, where V is the space of
+“attention values” (structures that gauge the importance of paying attention to an item of
+knowledge over various time-scales or in various contexts)
+We also assume that the vocabulary of actions contains memory-actions corresponding to the
+operations of inserting the current observation, goal, reward or action into the episodic and/or
+declarative memory store. And, we assume that the activity of the agent, at each time-step,
+includes the enaction of one or more of the procedures in the procedural memory store. If several
+procedures are enacted at once, then the end result is still formally modeled as a single action
+a = a [1] ∗ ... ∗ a [k] where ∗ is an operator on action-space that composes multiple actions into a
+single one.
+Finally, we assume that, at each time-step, the agent may carry out an external action a i
+on the environment, a memory action m i on the (long-term) memory, and an action b i on its
+internal workspace. Among the actions that can be carried out on the workspace, are the
+ability to insert or delete observations, goals, actions or reward-values from the workspace.
+The workspace can be thought of as a sort of short-term memory or else in terms of Baars’
+“global workspace” concept mentioned above. The workspace provides a medium for interaction
+between the different memory types.
+The workspace provides a mechanism by which declarative, episodic and procedural memory
+may interact with each other. For this mechanism to work, we must assume that there are
+actions corresponding to query operations that allow procedures to look into declarative and
+episodic memory. The nature of these query operations will vary among different agents, but
+we can assume that in general an agent has
+• one or more procedures Q Dec (x) serving as declarative queries, meaning that when Q Dec is
+enacted on some x that is an ordered set of items in the workspace, the result is that one
+or more items from declarative memory is entered into the workspace
+• one or more procedures Q Ep (x) serving as episodic queries, meaning that when Q Ep is
+enacted on some x that is an ordered set of items in the workspace, the result is that one
+or more items from episodic memory is entered into the workspace
+7.2 A Simple Formal Agents Model (SRAM) 133
+One additional aspect of CogPrime’s knowledge representation that is important to PLN is
+the attachment of nonnegative weights n i corresponding to elementary observations o i . These
+weights denote the amount of evidence contained in the observation. For instance, in the context
+of a robotic agent, one could use these values to encode the assumption that an elementary visual
+observation has more evidential value than an elementary olfactory observation.
+We now have a model of an agent with long-term memory comprising procedural, declarative
+and episodic aspects, an internal cognitive workspace, and the capability to use procedures to
+drive actions based on items in memory and the workspace, and to move items between longterm
+memory and the workspace.
+7.2.2.1 Modeling CogPrime
+Of course, this formal model may be realized differently in various real-world AGI systems. In
+CogPrime we have
+• a weighted, labeled hypergraph structure called the AtomSpace used to store declarative
+knowledge (this is the representation used by PLN)
+• a collection of programs in a LISP-like language called Combo, stored in a ProcedureRepository
+data structure, used to store procedural knowledge
+• a collection of partial “movies” of the system’s experience, played back using an internal
+simulation engine, used to store episodic knowledge
+• AttentionValue objects, minimally containing ShortTermImportance (STI) and LongTermImportance
+(LTI) values used to store attentional knowledge
+• Goal Atoms for intentional knowledge, stored in the same format as declarative knowledge
+but whose dynamics involve a special form of artificial currency that is used to govern action
+selection
+The AtomSpace is the central repository and procedures and episodes are linked to Atoms
+in the AtomSpace which serve as their symbolic representatives. The “workspace” in CogPrime
+exists only virtually: each item in the AtomSpace has a “short term importance” (STI) level, and
+the workspace consists of those items in the AtomSpace with highest STI, and those procedures
+and episodes whose symbolic representatives in the AtomSpace have highest STI.
+On the other hand, as we saw above, the LIDA architecture uses separate representations for
+procedural, declarative and episodic memory, but also has an explicit workspace component,
+where the most currently contextually relevant items from all different types of memory are
+gathered and used together in the course of actions. However, compared to CogPrime, it lacks
+comparably fine-grained methods for integrating the different types of memory.
+Systematically mapping various existing cognitive architectures, or human brain structure,
+into this formal agents model would be a substantial though quite plausible exercise; but we
+will not undertake this here.
+7.2.3 The Cognitive Schematic
+Next we introduce an additional specialization into SRAM: the cognitive schematic, written
+informally as
+134 7 A Formal Model of Intelligent Agents
+Context & P rocedure → Goal
+and considered more formally as holds(C) & ex(P ) → h i where h may be an externally specified
+goal g i or an internally specified goal h derived as a (possibly uncertain) subgoal of one of more
+g i ; C is a piece of declarative or episodic knowledge and P is a procedure that the agent can
+internally execute to generate a series of actions. ex(P ) is the proposition that P is successfully
+executed. If C is episodic then holds(C) may be interpreted as the current context (i.e. some
+finite slice of the agent’s history) being similar to C; if C is declarative then holds(C) may be
+interpreted as the truth value of C evaluated at the current context. Note that C may refer to
+some part of the world quite distant from the agent’s current sensory observations; but it may
+still be formally evaluated based on the agent’s history.
+In the standard CogPrime notation as introduced formally in Chapter 20 (where indentation
+has function-argument syntax similar to that in Python, and relationship types are prepended
+to their relata without parentheses), for the case C is declarative this would be written as
+PredictiveExtensionalImplication
+AND
+C
+Execution P
+G
+and in the case C is episodic one replaces C in this formula with a predicate expressing C’s
+similarity to the current context. The semantics of the PredictiveExtensionalInheritance relation
+will be discussed below. The Execution relation simply denotes the proposition that procedure
+P has been executed.
+For the class of SRAM agents who (like CogPrime) use the cognitive schematic to govern
+many or all of their actions, a significant fragment of agent intelligence boils down to estimating
+the truth values of PredictiveExtensionalImplication relationships. Action selection procedures
+can be used, which choose procedures to enact based on which ones are judged most likely
+to achieve the current external goals g i in the current context. Rather than enter into the
+particularities of action selection or other cognitive architecture issues, we will restrict ourselves
+to PLN inference, which in the context of the present agent model is a method for handling
+PredictiveImplication in the cognitive schematic.
+Consider an agent in a virtual world, such as a virtual dog, one of whose external goals is to
+please its owner. Suppose its owner has asked it to find a cat, and it can translate this into a
+subgoal “find cat.” If the agent operates according to the cognitive schematic, it will search for
+P so that
+PredictiveExtensionalImplication
+AND
+C
+Execution P
+Evaluation
+found
+cat
+holds.
+7.3 Toward a Formal Characterization of Real-World General Intelligence 135
+7.3 Toward a Formal Characterization of Real-World General
+Intelligence
+Having defined what we mean by an agent acting in an environment, we now turn to the
+question of what it means for such an agent to be “intelligent.”
+As we have reviewed extensively in Chapter 2 above, “intelligence” is a commonsense, “folk
+psychology” concept, with all the imprecision and contextuality that this generally entails.
+One cannot expect any compact, elegant formalism to capture all of its meanings. Even in
+the psychology and AI research communities, divergent definitions abound; Legg and Hutter
+[LH07a] lists and organizes 70+ definitions from the literature.
+Practical study of natural intelligence in humans and other organisms, and practical design,
+creation and instruction of artificial intelligences, can proceed perfectly well without an
+agreed-upon formalization of the “intelligence” concept. Some researchers may conceive their
+own formalisms to guide their own work, others may feel no need for any such thing.
+But nevertheless, it is of interest to seek formalizations of the concept of intelligence, which
+capture useful fragments of the commonsense notion of intelligence, and provide guidance for
+practical research in cognitive science and AI. A number of such formalizations have been given
+in recent decades, with varying degrees of mathematical rigor. Perhaps the most carefullywrought
+formalization of intelligence so far is the theory of “universal intelligence” presented by
+Shane Legg and Marcus Hutter in [LH07b], which draws on ideas from algorithmic information
+theory.
+Universal intelligence captures a certain aspect of the “intelligence” concept very well, and
+has the advantage of connecting closely with ideas in learning theory, decision theory and
+computation theory. However, the kind of general intelligence it captures best, is a kind which
+is in a sense more general in scope than human-style general intelligence. Universal intelligence
+does capture the sense in which humans are more intelligent than worms, which are more
+intelligent than rocks; and the sense in which theoretical AGI systems like Hutter’s AIXI or
+AIXI tl [Hut05] would be much more intelligent than humans. But it misses essential aspects
+of the intelligence concept as it is used in the context of intelligent natural systems like humans
+or real-world AI systems.
+Our main goal in this section is to present variants of universal intelligence that better
+capture the notion of intelligence as it is typically understood in the context of real-world
+natural and artificial systems. The first variant we describe is pragmatic general intelligence,
+which is inspired by the intuitive notion of intelligence as “the ability to achieve complex goals
+in complex environments,” given in [Goe93a]. After assuming a prior distribution over the
+space of possible environments, and one over the space of possible goals, one then defines the
+pragmatic general intelligence as the expected level of goal-achievement of a system relative
+to these distributions. Rather than measuring truly broad mathematical general intelligence,
+pragmatic general intelligence measures intelligence in a way that’s specifically biased toward
+certain environments and goals.
+Another variant definition is then presented, the efficient pragmatic general intelligence,
+which takes into account the amount of computational resources utilized by the system in
+achieving its intelligence. Some argue that making efficient use of available resources is a defining
+characteristic of intelligence, see e.g. [Wan06].
+A critical question left open is the characterization of the prior distributions corresponding
+to everyday human reality; we give a semi-formal sketch of some ideas on this in Chapter 9
+below, where we present the notion of a “communication prior,” which assigns a probability
+136 7 A Formal Model of Intelligent Agents
+weight to a situation S based on the ease with which one agent in a society can communicate
+S to another agent in that society, using multimodal communication (including verbalization,
+demonstration, dramatic and pictorial depiction, etc.).
+Finally, we present a formal measure of the “generality” of an intelligence, which precisiates
+the informal distinction between “general AI” and “narrow AI.”
+7.3.1 Biased Universal Intelligence
+To define universal intelligence, Legg and Hutter consider the class of environments that are
+reward-summable, meaning that the total amount of reward they return to any agent is bounded
+by 1. Where r i denotes the reward experienced by the agent from the environment at time i,
+the expected total reward for the agent π from the environment µ is defined as
+∞∑
+Vµ π ≡ E( r i ) ≤ 1
+To extend their definition in the direction of greater realism, we first introduce a second-order
+probability distribution ν, which is a probability distribution over the space of environments
+µ. The distribution ν assigns each environment a probability. One such distribution ν is the
+Solomonoff-Levin universal distribution in which one sets ν = 2 −K(µ) ; but this is not the only
+distribution ν of interest. In fact a great deal of real-world general intelligence consists of the
+adaptation of intelligent systems to particular distributions ν over environment-space, differing
+from the universal distribution.
+We then define
+Definition 4 The biased universal intelligence of an agent π is its expected performance
+with respect to the distribution ν over the space of all computable reward-summable environments,
+E, that is,
+1
+Υ (π) ≡ ∑ µ∈E
+ν(µ)V π µ
+Legg and Hutter’s universal intelligence is obtained by setting ν equal to the universal
+distribution.
+This framework is more flexible than it might seem. E.g. suppose one wants to incorporate
+agents that die. Then one may create a special action, say a 666 , corresponding to the state of
+death, to create agents that
+• in certain circumstances output action a 666
+• have the property that if their previous action was a 666 , then all of their subsequent actions
+must be a 666
+and to define a reward structure so that actions a 666 always bring zero reward. It then follows
+that death is generally a bad thing if one wants to maximize intelligence. Agents that die will
+not get rewarded after they’re dead; and agents that live only 70 years, say, will be restricted
+from getting rewards involving long-term patterns and will hence have specific limits on their
+intelligence.
+7.3 Toward a Formal Characterization of Real-World General Intelligence 137
+7.3.2 Connecting Legg and Hutter’s Model of Intelligent Agents to
+the Real World
+A notable aspect of the Legg and Hutter formalism is the separation of the reward mechanism
+from the cognitive mechanisms of the agent. While commonplace in the reinforcement learning
+literature, this seems psychologically unrealistic in the context of biological intelligences and
+many types of machine intelligences. Not all human intelligent activity is specifically rewardseeking
+in nature; and even when it is, humans often pursue complexly constructed rewards,
+that are defined in terms of their own cognitions rather than separately given. Suppose a certain
+human’s goals are true love, or world peace, and the proving of interesting theorems – then these
+goals are defined by the human herself, and only she knows if she’s achieved them. An externallyprovided
+reward signal doesn’t capture the nature of this kind of goal-seeking behavior, which
+characterizes much human goal-seeking activity (and will presumably characterize much of the
+goal-seeking activity of advanced engineered intelligences also) ... let alone human behavior that
+is spontaneous and unrelated to explicit goals, yet may still appear commonsensically intelligent.
+One could seek to bypass this complaint about the reward mechanisms via a sort of “neo-
+Freudian” argument, via
+• associating the reward signal, not with the “external environment” as typically conceived,
+but rather with a portion of the intelligent agent’s brain that is separate from the cognitive
+component
+• viewing complex goals like true love, world peace and proving interesting theorems as indirect
+ways of achieving the agent’s “basic goals”, created within the agent’s memory via
+subgoaling mechanisms
+but it seems to us that a general formalization of intelligence should not rely on such strong
+assumptions about agents’ cognitive architectures. So below, after introducing the pragmatic
+and efficient pragmatic general intelligence measures, we will propose an alternate interpretation
+wherein the mechanism of external rewards is viewed as a theoretical test framework for
+assessing agent intelligence, rather than a hypothesis about intelligent agent architecture.
+In this alternate interpretation, formal measures like the universal, pragmatic and efficient
+pragmatic general intelligence are viewed as not directly applicable to real-world intelligences,
+because they involve the behaviors of agents over a wide variety of goals and environments,
+whereas in real life the opportunities to observe agents are more limited. However, they are
+viewed as being indirectly applicable to real-world agents, in the sense that an external intelligence
+can observe an agent’s real-world behavior and then infer its likely intelligence according
+to these measures.
+In a sense, this interpretation makes our formalized measures of intelligence the opposite of
+real-world IQ tests. An IQ test is a quantified, formalized test which is designed to approximately
+predict the informal, qualitative achievement of humans in real life. On the other hand,
+the formal definitions of intelligence we present here are quantified, formalized tests that are
+designed to capture abstract notions of intelligence, but which can be approximately evaluated
+on a real-world intelligent system by observing what it does in real life.
+138 7 A Formal Model of Intelligent Agents
+7.3.3 Pragmatic General Intelligence
+The above concept of biased universal intelligence is perfectly adequate for many purposes, but
+it is also interesting to explicitly introduce the notion of a goal into the calculation. This allows
+us to formally capture the notion presented in [Goe93a] of intelligence as “the ability to achieve
+complex goals in complex environments.”
+If the agent is acting in environment µ, and is provided with g s corresponding to g at the
+start and the end of the time-interval T = {i ∈ (s, ..., t)}, then the expected goal-achievement
+of the agent, relative to g, during the interval is the expectation
+V π µ,g,T ≡ E(
+t∑
+r g (I g,s,i ))
+i=s
+where the expectation is taken over all interaction sequences I g,s,i drawn according to µ. We
+then propose
+Definition 5 The pragmatic general intelligence of an agent π, relative to the distribution
+ν over environments and the distribution γ over goals, is its expected performance with respect
+to goals drawn from γ in environments drawn from ν, over the time-scales natural to the goals;
+that is,
+∑
+Π(π) ≡ ν(µ)γ(g, µ)Vµ,g,T
+π
+µ∈E,g∈G,T
+(in those cases where this sum is convergent).
+This definition formally captures the notion that “intelligence is achieving complex goals in
+complex environments,” where “complexity” is gauged by the assumed measures ν and γ.
+If ν is taken to be the universal distribution, and γ is defined to weight goals according to
+the universal distribution, then pragmatic general intelligence reduces to universal intelligence.
+Furthermore, it is clear that a universal algorithmic agent like AIXI [Hut05] would also
+have a high pragmatic general intelligence, under fairly broad conditions. As the interaction
+history grows longer, the pragmatic general intelligence of AIXI would approach the theoretical
+maximum; as AIXI would implicitly infer the relevant distributions via experience. However,
+if significant reward discounting is involved, so that near-term rewards are weighted much
+higher than long-term rewards, then AIXI might compare very unfavorably in pragmatic general
+intelligence, to other agents designed with prior knowledge of ν, γ and τ in mind.
+The most interesting case to consider is where ν and γ are taken to embody some particular
+bias in a real-world space of environments and goals, and this bias is appropriately reflected
+in the internal structure of an intelligent agent. Note that an agent needs not lack universal
+intelligence in order to possess pragmatic general intelligence with respect to some non-universal
+distribution over goals and environments. However, in general, given limited resources, there
+may be a tradeoff between universal intelligence and pragmatic intelligence. Which leads to the
+next point: how to encompass resource limitations into the definition.
+One might argue that the definition of Pragmatic General Intelligence is already encompassed
+by Legg and Hutter’s definition because one may bias the distribution of environments within
+the latter by considering different Turing machines underlying the Kolmogorov complexity.
+However this is not a general equivalence because the Solomonoff-Levin measure intrinsically
+7.3 Toward a Formal Characterization of Real-World General Intelligence 139
+decays exponentially, whereas an assumptive distribution over environments might decay at
+some other rate. This issue seems to merit further mathematical investigation.
+7.3.4 Incorporating Computational Cost
+Let η π,µ,g,T be a probability distribution describing the amount of computational resources consumed
+by an agent π while achieving goal g over time-scale T . This is a probability distribution
+because we want to account for the possibility of nondeterministic agents. So, η π,µ,g,T (Q) tells
+the probability that Q units of resources are consumed. For simplicity we amalgamate space
+and time resources, energetic resources, etc. into a single number Q, which is assumed to live
+in some subset of the positive reals. Space resources of course have to do with the size of the
+system’s memory. Then we may define
+Definition 6 The efficient pragmatic general intelligence of an agent π with resource
+consumption η π,µ,g,T , relative to the distribution ν over environments and the distribution γ
+over goals, is its expected performance with respect to goals drawn from γ in environments drawn
+from ν, over the time-scales natural to the goals, normalized by the amount of computational
+effort expended to achieve each goal; that is,
+Π Eff (π) ≡
+∑
+µ∈E,g∈G,Q,T
+(in those cases where this sum is convergent).
+ν(µ)γ(g, µ)η π,µ,g,T (Q)
+Vµ,g,T
+π Q
+This is a measure that rates an agent’s intelligence higher if it uses fewer computational
+resources to do its business. Roughly, it measures reward achieved per spacetime computation
+unit.
+Note that, by abandoning the universal prior, we have also abandoned the proof of convergence
+that comes with it. In general the sums in the above definitions need not converge; and
+exploration of the conditions under which they do converge is a complex matter.
+7.3.5 Assessing the Intelligence of Real-World Agents
+The pragmatic and efficient pragmatic general intelligence measures are more “realistic” than
+the Legg and Hutter universal intelligence measure, in that they take into account the innate
+biasing and computational resource restrictions that characterize real-world intelligence. But as
+discussed earlier, they still live in “fantasy-land” to an extent – they gauge the intelligence of an
+agent via a weighted average over a wide variety of goals and environments; and they presume
+a simplistic relationship between agents and rewards that does not reflect the complexities
+of real-world cognitive architectures. It is not obvious from the foregoing how to apply these
+measures to real-world intelligent systems, which lack the ability to exist in such a wide variety
+of environments within their often brief lifespans, and mostly go about their lives doing things
+other than pursuing quantified external rewards. In this brief section we describe an approach
+to bridging this gap. The treatment is left semi-formal in places.
+140 7 A Formal Model of Intelligent Agents
+We suggest to view the definitions of pragmatic and efficient pragmatic general intelligence
+in terms of a “possible worlds” semantics – i.e. to view them as asking, counterfactually, how
+an agent would perform, hypothetically, on a series of tests (the tests being goals, defined in
+relation to environments and reward signals).
+Real-world intelligent agents don’t normally operate in terms of explicit goals and rewards;
+these are abstractions that we use to think about intelligent agents. However, this is no objection
+to characterizing various sorts of intelligence in terms of counterfactuals like: how would system
+S operate if it were trying to achieve this or that goal, in this or that environment, in order to
+seek reward? We can characterize various sorts of intelligence in terms of how it can be inferred
+an agent would perform on certain tests, even though the agent’s real life does not consist of
+taking these tests.
+This conceptual approach may seem a bit artificial but we don’t currently see a better
+alternative, if one wishes to quantitatively gauge intelligence (which is, in a sense, an “artificial”
+thing to do in the first place). Given a real-world agent X and a mandate to assess its intelligence,
+the obvious alternative to looking at possible worlds in the manner of the above definitions,
+is just looking directly at the properties of the things X has achieved in the real world during
+its lifespan. But this isn’t an easy solution, because it doesn’t disambiguate which aspects of
+X’s achievements were due to its own actions versus due to the rest of the world that X was
+interacting with when it made its achievements. To distinguish the amount of achievement that
+X “caused” via its own actions requires a model of causality, which is a complex can of worms in
+itself; and, critically, the standard models of causality also involve counterfactuals (asking “what
+would have been achieved in this situation if the agent X hadn’t been there”, etc.) [MW07].
+Regardless of the particulars, it seems impossible to avoid counterfactual realities in assessing
+intelligence.
+The approach we suggest – given a real-world agent X with a history of actions in a particular
+world, and a mandate to assess its intelligence – is to introduce an additional player, an inference
+agent δ, into the picture. The agent π modeled above is then viewed as π X : the model of X that
+δ constructs, in order to explore X’s inferred behaviors in various counterfactual environments.
+In the test situations embodied in the definitions of pragmatic and efficient pragmatic general
+intelligence, the environment gives π X rewards, based on specifically configured goals. In X’s
+real life, the relation between goals, rewards and actions will generally be significantly subtler
+and perhaps quite different.
+We model the real world similarly to the “fantasy world” of the previous section, but with
+the omission of goals and rewards. We define a naturalistic context as one in which all goals and
+rewards are constant, i.e. g i = g 0 and r i = r 0 for all i. This is just a mathematical convention
+for stating that there are no precisely-defined external goals and rewards for the agent. In a
+naturalistic context, we then have a situation where agents create actions based on the past
+history of actions and perceptions, and if there is any relevant notion of reward or goal, it
+is within the cognitive mechanism of some agent. A naturalistic agent X is then an agent π
+which is restricted to one particular naturalistic context, involving one particular environment
+µ (formally, we may achieve this within the framework of agents described above via dictating
+that X issues constant “null actions” a 0 in all environments except µ).
+Next, we posit a metric space (Σ µ , d) of naturalistic agents defined on a naturalistic context
+involving environment µ, and a subspace ∆ ∈ Σ µ of inference agents, which are naturalistic
+agents that output predictions of other agents’ behaviors (a notion we will not fully formalize
+here). If agents are represented as program trees, then d may be taken as edit distance on tree
+space [Bil05]. Then, for each agent δ ∈ ∆, we may assess
+7.4 Intellectual Breadth: Quantifying the Generality of an Agent’s Intelligence 141
+• the prior probability θ(δ) according to some assumed distribution θ
+• the effectiveness p(δ, X) of δ at predicting the actions of an agent X ∈ Σ µ
+We may then define
+Definition 7 The inference ability of the agent δ, relative to µ and X, is
+∑
+Y ∈Σ
+q µ,X (δ) = θ(δ)
+µ
+sim(X, Y )p(δ, Y )
+∑
+Y ∈Σ µ
+sim(X, Y )
+where sim is a specified decreasing function of d(X, Y ), such as sim(X, Y ) =
+1
+1+d(X,Y ) .
+To construct π X , we may then use the model of X created by the agent δ ∈ ∆ with the
+highest inference ability relative to µ and X (using some specified ordering, in case of a tie).
+Having constructed π X , we can then say that
+Definition 8 The inferred pragmatic general intelligence (relative to ν and γ) of a naturalistic
+agent X defined relative to an environment µ, is defined as the pragmatic general intelligence
+of the model π X of X produced by the agent δ ∈ ∆ with maximal inference ability relative to µ
+(and in the case of a tie, the first of these in the ordering defined over ∆). The inferred efficient
+pragmatic general intelligence of X relative to µ is defined similarly.
+This provides a precise characterization of the pragmatic and efficient pragmatic intelligence
+of real-world systems, based on their observed behaviors. It’s a bit messy; but the real world
+tends to be like that.
+7.4 Intellectual Breadth: Quantifying the Generality of an Agent’s
+Intelligence
+We turn now to a related question: How can one quantify the degree of generality that an
+intelligent agent possesses? Above we have discussed the qualitative distinction between AGI
+and “Narrow AI”, and intelligence as we have formalized it above is specifically intended as
+a measure of general intelligence. But quantifying intelligence is different than quantifying
+generality versus narrowness.
+To make the discussion simpler, we introduce the term “context” as a shorthand for “environment/interval
+triple (µ, g, T ).” Given a context (µ, g, T ), and a set Σ of agents, one may
+construct a fuzzy set Ag µ,g,T gathering those agents that are intelligent relative to the context;
+and given a set of contexts, one may also define a fuzzy set Con π gathering those contexts with
+respect to which a given agent π is intelligent. The relevant formulas are:
+χ Agµ,g,T (π) = χ Conπ (µ, g, T ) = 1 N
+∑
+Q
+η µ,g,T (Q)V π µ,g,T
+Q
+where N = N(µ, g, T ) is a normalization factor defined appropriately, e.g. via N(µ, g, T ) =
+max
+π V π µ,g,T .
+One could make similar definitions leaving out the computational cost factor Q, but we
+suspect that incorporating Q is a more promising direction. We then propose
+142 7 A Formal Model of Intelligent Agents
+Definition 9 The intellectual breadth of an agent π, relative to the distribution ν over
+environments and the distribution γ over goals, is
+where H is the entropy and
+H(χ P Con π
+(µ, g, T ))
+χ P Con π

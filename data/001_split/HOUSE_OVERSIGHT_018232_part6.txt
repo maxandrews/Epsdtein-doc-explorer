@@ -1,0 +1,1301 @@
+and GooglePlus you’d exhaust yourself. So, one winner emerges. Data scientists
+attribute the success of these winning nodes to “preferential attachment” – the idea
+that if Brian Arthur is using Microsoft Word and I’m using it you are likely to do so
+too. But there’s another secret: More widespread adoption makes the whole system
+faster. Winner-take-all marks that network hunger for the compression of time. 234
+There’s an additional feature at work in the very newest of these billion-user
+clusters that’s worth our attention: It’s not merely that we’ll use them because
+everyone seems to be doing so, it’s also that as more users weave themselves into
+each others’ lives and the machines into too, these nodes of power get smarter.
+Google Maps can predict the fastest route from your house to your office because it
+can watch the movements of hundreds of millions of users, each silently pinging
+their location and speed as they creep through rush hour or sprint down an empty
+motorway. As more people use GPS enabled devices, the quality of this data gets
+232 The network magnetism: Chamath Palihapitiya, “How we put Facebook on the
+path to 1 billion users.” Udemy Growth Hacking: An Introduction lecture published
+January 9, 2013 and available on YouTube.
+233 Winner-take-all: van der Hofstad, p 24
+234 But there’s another secret: Albert-Lazlo Barabási “Network Science”,
+Philosophical Transactions of the Royal Society A: (2013) 371
+161
+ever better, like a video resolving itself from low-quality to HD in front of your eyes.
+Success attracts still more users. All of them are Google’s sensors, in a way. Medical
+diagnosis, cybersecurity, trading algorithms, search – pretty much any linked ball of
+chips and humans and sensors throbs with this logic. The best of the leading
+technology firms understand the power of this logic: Google’s TensorFlow artificial
+intelligence engine, for instance, was largely regarded by experts as nearly a decde
+ahead of competitors in 2015. So the company began giving away access for free. In
+traditional economic terms this would be insane; but with network logic the
+strategy is clear: The more people who use TensorFlow, the smarter it gets, which in
+turn attracts still more users. Dense and learning fusions of mind and data like
+TensorFlow and other soon-arriving AI systems are all gated universes. The
+“increasing returns” for those inside – you, me, our neighbors – breed mutual
+efficient success and, of course, massive power for their owners. We’re part of the
+game too: The more people tied in, the better our lives get.
+The topological charm of these explosively growing clusters was first teased apart
+by the electrical engineer Bob Metcalfe in the 1970s. Metcalfe was hunting for a
+better way to send data – say grocery lists to his wife – through Menlo Park and he
+perfected a connection protocol called Ethernet, which soon became a standard for
+linking machines. What Metcalfe noticed, as more and more users piled into the
+gateland of Stanford’s Ethernet-connected machines, was that the power of the
+system was growing exponentially with each additional user. This became known
+later as “Metcalfe’s Law”: The power of a network grows, massively, with each
+additional user. A system with one phone, for example, is really not very useful. Who
+would you call? A system with two phones means one possible connection – we can
+call each other. But when you increase the number of phones by a factor of two –
+from five to ten, say – the number of possible connections more than doubles from
+ten to 45 . The difference between Bob Metcalfe and his wife sharing grocery lists
+and a connected national network of husbands and wives is immense – an insight
+that led Bob Metcalfe and his wife to start a networking company that made them
+billionaires.
+Metcalfe’s Law has another angle, and it’s here where some of the unnerving,
+dangerous political power of network gates is revealed: It’s not merely that the
+power of a network grows exponentially with each additional user; it’s that the cost
+of being cut out grows every bit as fast. Maybe even faster. If I shut you out of Google
+today, it’s painful. But tomorrow – after a day of new information and websites and
+services come on line – it will be even more costly. The network scientists Rahul
+Tongia and Ernest Wilson have called this “The Flip Side of Metcalfe’s Law.” 235 To be
+excluded from a database of cancer genetics, for instance, when it has a million
+members is probably not such a painful problem; to be locked out of the chance to
+compare your genes with a billion others, however, is hugely costly. Maybe even
+fatal. Imagine if I cut you out tomorrow from the NYSE, your phone system, smart
+diagnostic webs, cybersecurity patches? It’s not like you can swap our your Ford for
+235 The network scientists: Rahul Tongia and Ernest J. Wilson III, “The Flipside of
+Metcalfe’s Law”, International Journal of Communication 5 (2011), 665–681
+162
+a Dodge. There is nowhere to go. Gatelands produce “winner take all” systems, but
+they also produce these “loser gets nothing” dynamics – and an absolutely chilly,
+fatal cost of separation from the winning system. A discipline of network science
+known as “queing theory” helps us understand why. In studies of massively
+connected systems, the more time machines spend on their main task – hunting
+prime numbers or DNA patterns, for instance – and the less time chattering with
+each other about how they will compute, the faster they run. Winning protocols
+avoid this terrible inefficiency of translation because it can be spread across so
+much connection. In fact, the great breakthrough of computer systems in recent
+years has been the ability to handle massive amounts of data all at once, to maintain
+versions of information in a concurrent state many places in the world. This is the
+essential technical leap that permits compression of time. And it depends entirely on
+careful and gated design.
+To be inside a gated system is, then, really to be faster because of the slickness of
+communication that becomes possible. The very structure of the system accelerates
+that compression of time. This design feature of networks, in which winners take
+more and more, is why gates, and their careful use, will become the most dramatic
+lever for business, research or international politics in coming years. It also explains
+why our modern gates are different than older ones. Why it is so damn costly to
+leave them; why mastery of them is even more insanely lucrative than Cecil Rhodes’
+gold mines. Think of the old industrial age power games for a moment: Britain and
+Germany tried to match each other with their industrial output during their fatal
+competitive sprint 150 years ago; but imagine if network effects obtained? If
+Britain’s initial head start in the industrial revolution had given them 90% global
+trade share? Germany would never have even tried to compete. They would have
+been the Friendster of the 20 th Century: Isolated, slow-growing, powerless and
+finally consumed by the winning system.
+5.
+Networks crave gates. Once a billion people were connected together, of course
+there was going to be something like Facebook, a Gateland where they could link
+one to another in ever-thicker cascades of connection. Once everyone could record
+and watch and share videos, something like YouTube was inevitable. As we try to
+picture the world ahead of us, as we try to ask what tools of power we can acquire to
+twist this dangerous landscape into something we can manage and predict and
+control, we must ask of it: What does it want? The world wants a protocol for the
+fast exchange of money. It wants a basic language protocol. It wants a place to swap
+information about IT security holes. It wants instant translation systems to replace
+the need to learn to English or Chinese or Spanish so the world can move yet faster. I
+believe it wants certain sorts of alliances, a particular type of superpower and even
+craves a new form of politics. For any nation that controls these gates, there is a
+possibility to use that position to create still more gatekept platforms, to shape the
+protocols that tie platforms together in the way roads or jet planes link the physical
+world. This is the iron law of Gateland: Connectivity is power. Which means that
+gatekeeping is, at the end of the day, our most powerful point of a control.
+163
+It won’t surprise you that, in recent years, for instance, the world has seen an
+acceleration in the construction of physical barriers, of fences and walls running
+between nations and defining and in and out. Roy Hassner and Jason Wittenberg,
+two American political scientists, scored out the pace of global wall building and
+found a sharp acceleration: In fact, of 51 national enclosures built since the end of
+World War Two – the Berlin Wall being the most famous example – more than half
+were constructed in a rush of self-protection between 2000 and 2014 236 . And more
+are coming: Hungary, Kenya, Algeria and India now posthole their borders in initial
+exploration of what might be built. There’s a frantic urgency to some of this. The
+Spanish government, for instance, raised a ten-foot high, razor and camera topped
+fence around their Saharan footholds in 1998 – the enclosed land was controlled by
+Madrid, so it was technically “Europe,” which made an irresistible target for wouldbe
+migrants. The fence wasn’t enough to stop the flows. So they built a second one to
+run around the first in 2001. Then, in 2005, thousands of desperate Africans
+launched a coordinated charge against. A couple of dozen migrants died in the
+attempt; a thousand made it through. The Spanish responded with a third line of
+fence, this one 20 feet high, electic, camera-watched.
+This pattern of ever more stacked defense is repeated everywhere. The walls, fences
+and trenches of the modern world seem to be getting longer, more ambitions, and
+better defended with each passing year, Hassner and Wittenberg concluded. Unlike
+traditional lines of defense, the Maginot Line or the Great Wall of China for instance,
+the aim of 21 st century barriers in places like Israel or the US or Spanish Morocco
+have been less to stop a rolling armor blitzkreig than to slow the insidious
+movement of smugglers and spies and criminals, or the hopeful dashes of fleeing
+refugees. There’s an affective and – to those on the inside – appealing asymmetry to
+these borders. They are mostly marked and built by richer, more modern, more
+stable nations desperate to control in and out. The creation of gates is, we should
+sense now, the corollary of connection. That they can sometimes be piled into the
+“winner take all” efficiencies Brian Arthur first teased out should give us a sense that
+there is a logic to this emergence.
+Reviewing the problems of deadly disease contagion after the 2015 Ebola pandemic,
+Bill Gates examined this connection-and-gate lemma in the sharpest, most
+worrisome historical terms. “There is a significant chance that an epidemic of a
+substantially more infectious disease will occur sometime in the next 20 years,” he
+wrote. “In fact, of all the things that could kill more than 10 million people around
+the world, the most likely is an epidemic stemming from either natural causes or
+bioterrorism.” 237 This was the cost of a fast-moving, interconnected world. It was
+what floated free from the extension of Paul Virilio’s line: Airplanes produced the
+236 In fact: Roy Hassner and Jason Wittenberg, “Barriers to Entry: Who Builds
+Fortified Boundaries and Why?” International Security, Vol. 40, No. 1 (Summer
+2015), pp. 157–190
+237 Reviewing the problem: Bill Gates, “The Next Epidemic — Lessons from Ebola”
+New England Journal of Medicine 2015, April 9; 372:1381-1384
+164
+airplane accident. Well, networks will produce the network accident. Many, in fact.
+A world primed for contagtion, Gates suggested, needs – and is missing – more and
+better gates. (Yes, here you can pause to double take at the serendipitously strange
+fact that the wealthiest citizen of our gated age is named Gates, just as the richest
+man in the era of pulling oil out of rocks was a “Rockefeller”) Connection demands
+systems to gaze ceaselessly for the smallest sign of assault or need for change or
+accidental shimmering movement of danger. Part of what made the Ebola response
+successful is that the response really was in the form of gates as we’ve come to
+understand them here, not walls. Protocols for biological reaction, for medical care,
+for epidemic monitoring, the urgent helicoperting in of support and aid and ideas.
+The gates assembled around the Ebola pandemic were its solution. Had it merely
+been walled off it would have spiked, grown, mutated and finally escaped.”The
+world,” Gates wrote, “needs to build a warning and response system for outbreaks.”
+This is true for all the outbreaks we face – whether they are disease or financial
+panic or terror. There will be, you can be sure, ignorant calls to build walls and not
+gates. This misses the point of networks. In an age of interconnection walls are
+nearly as dangerous as no walls. What matters is bulding topologies designed for
+gating, for milking power from the profound logic of networks we’ve seen at work.
+For decades after the 1929 financial crisis triggered an historic global depression,
+economists and politicians debated what had gone wrong. What had they missed?
+The world, it emerged, had been wired with an economic system designed rapid
+movement, but politicians and bankers had forgotten to put in the needed brakes.
+They had tried to run an industrial engine against the background of gasping
+political structures. Basic adjustment mechanisms – release valves for financial or
+currency pressures – had not been invented, refined or installed. 238 When we find
+ourselves in coming years gasping through some sort of financial crisis of our own,
+or running scared from a cascading military or social epidemic that slaps us
+unexpectedly, what do you think the most likely cause will be? It will be a failure of
+gates. Too few in some places; too damn many in others.
+Remember the haunting, persistent vulnerability of our age. A twitch anywhere in
+the system can rock and even crack the whole edifice. Space Time Compression’s
+ability to shrink distance to zero and time to an instant can turn anywhere, anytime
+into a battlefield or a spot for revolutionary innovation. Any moment can present us
+with questions of war and peace. Today we have no central theory of gatekeeping,
+no ideas about balancing inside and out. We fly on instincts, but they are the old
+industrial ones. Anyone can see a system that is full of holes and inconsistencies. Can
+you see a way through it, though? Pressed by political, technical and economic
+desire – to say nothing of the basic urge for self-preservation – more gates will be
+with us from now on.
+238 Basic adjustment: Ben S. Bernanke, “Money, Gold, and the Great Depression”, H.
+Parker Willis Lecture in Economic Policy, Washington and Lee University, Lexington,
+Virginia March 2, 2004
+165
+“Computer systems are, like many other things in engineering, constructed by
+composition,” computer researchers F.X. Lindner and Sandro Gaycken have written.
+That line, intended for switched-on digital systems, in fact fits most of our world.
+Nearly everything around us, from cities to telephone networks to refugee waves,
+are assembled by composition. Curriences are layered with encryption. Refugee
+dreams carved from photosharing and refined with GPS. Composition in this way
+breeds new vulnerabilities, new points of contact and this rather astonishing result,
+one we’re not prepared for in any sense: “In a composite system there is no critical
+gate,” Lindner and Gaycken explain. “Everything is a gate.” 239
+239 “Everything is a gate”: Lidner and Gaycken, p. 56
+166
+Chapter Ten:
+Defense in Depth
+In which gates, operated with our new instinct, become at once a tool of prosperity and
+survival.
+If you walk for a few minutes to the south of Tinanmen Square in Beijing, leaving the
+tomb of Mao Zedong behind you, there’s a small lane that runs back into a warren of
+anonymous, white-walled buildings. The streets are unusually clean; the
+surveillance cameras unusually – even for Beijing – dense. The neighborhood is
+home to many of the last of the generation of Communist Party cadres who joined
+and supported its rise decades ago. Several years ago, I found myself settled into one
+of them for an afternoon tea with Huang Hua, one of the great modern Chinese
+foreign policy figures – and a member of that early revolutionary generation. Huang
+was, in a sense, heir to the Warring States diplomat Su Qin, whom Master Nan had
+encouraged me to study. Huang had penetrated the madness of Mao’s revolutionary
+era to see the possibility of a different order, one he’d brought to vivid life after
+Deng Xiaoping ascended to the Chinese leadership in 1976. Huang had been the
+country’s Foreign Minister and later a Vice Premier. He was always calm, with an
+easy and relaxed temperament. One of my favorite images of him was from the mid-
+1970s when, while sitting on a flight to the US from Paris to take China’s seat at the
+United Nations, he was ambushed by Walter Cronkite. Huang is completely
+unflustered in the scratchy video of that encounter. He sits quietly in a cloud of
+smoke. Cronkite pesters him. Huang smiles, offers a cigarette to the news crew, and
+though he is in the midst of a transit from the poverty, chaos and smashed politics of
+China he is nothing but serene, a statesman – not the nervous representative of a
+twitchy power.
+“Do you know the difference between Western and Chinese thinking?” Huang asked
+that afternoon as we sat inside his courtyard house. Leaves were turning outside. He
+was in his early 90s then, still tack-sharp. “You see, when Chinese want to do
+something, we begin with the question: What is the nature of the age? Westerners
+begin with the goal. What do they aim to achieve?” Deng’s foreign policy, one Huang
+shaped and executed, had been an excellent example. Mao, who ruled China from
+1949 until 1976, had a darting, paranoid, murderously strategic temperament. The
+nature of his age, he was convinced in his Marx-addled mind, was one of zhanzheng
+yu geming – war and revolution. From this first principle, everything followed: He
+honeycombed Beijing with bomb-proof tunnels, relocated Chinese industry to
+isolated and gaspingly poor mountain strongholds, reacted to foreign ideas or
+influence with a snapping electricity – and was bent on protective isolation as he
+dragged the country through one impossible and failed isolationist development
+initiative after another.
+Deng, when he came to power in 1977, read the nature of his age too. He read it
+differently. “There is no possibility of a great war. Don’t be afraid of it, there is no
+risk of it,” he assured a group of Chinese cadres during a chat in 1983. The cadres
+were having a hard time replacing their Maoist paranoia with confidence that China
+167
+might safely open, develop, and change. They mixed the crouching nervousness of a
+secret political party with the vivid nightmares of a nation that had been invaded,
+abused – humiliated, they said – by nine countries since the mid-19 th Century Opium
+Wars. “We used to worry about war and talk about its possibility every year,” Deng
+told them. “It seems the worry was overdone.” The world was, he felt, entering an
+era of heping yu fazhan – peace and development. Terrible, nation-demolishing wars
+would not soon victimize China, Deng thought. Nation building was the nature of the
+age. Its tools would be science, finance, and trade. If the Chinese people worked
+hard, he promised his incredulous listeners, they might by the year 2000 grow their
+thin $250 per capita income to the nearly unimaginable target of $1000. “I don’t
+care if the cat is white or black,” he famously observed, “as long as it catches mice.”
+Socialism? Capitalism? No matter so long as it produced progress. Deng’s judgment
+proved out. There were no major wars. Development was, for China, the name of the
+age. The cat caught $1000 dollars of per capita income nearly on the old man’s
+schedule. It is still playing with the string.
+There is something admirably direct about the Western way of problem solving, of
+course. The shortest distance between two points is a straight line. It has its uses. But
+it’s also true that this sort of elementary geometry does not describe, always, the
+best path. Particularly not today, in an era when topological collapse or instant
+connection means that the distance from a to b can go to zero (or infinity) in a single
+sudden shift. Yes, you may be stringing a line from a to b, but if you’re putting it up
+in a tornado? Is the best route to a new Middle East really the tipping over of stable
+states? Is the quickest path to climate control voluntary compacts? Are faster
+markets and more unwatched capitalism the safest way to ameliorate our
+unbalanced economics? Sometimes a more indirect line is called for. Sometimes it is
+faster, safer. Huang Hua’s question – “Where is the world going, after all?” – turns
+out to be the first essential one for any endeavor. If you are not looking from the
+highest possible altitude, Chinese will warn you, you are not seeing the full picture.�
+The nature of our age has, I think, emerged clearly, vividly and broadly for us now.
+Constant, instant, everywhere connectivity taps with the efficient mercilessness of a
+steel hammer on the glass of most of our comfortable institutions. The Seventh
+Sense has let us understand a bit about the origins of this creative violence. And it
+has shown us too that our era’s dominant feature is not merely cracking disruption,
+but also the construction of new orders. Da po, Da li the Chinese might say – great
+destruction and great construction. This is the nature of our age. Tap, tap, crack. And
+then: Gatelands – speed-bred by technology and filled with possibility. That some of
+these gated worlds contain billions of people or trillions of sensors, computer chips
+or network nodes only strengthens their inexorable grip. That they can be so easily
+or even accidentally weaponized marks the edginess of our problem. That they will
+be built atop the sharp-edged shards of a collapsing older system heightens the
+urgency at which they must emerge. To be inside, we’ve seen, delivers the lightspeed
+benefits of time compression, of life on a nearly alive mesh. To be outside? It
+is to be cut off.
+168
+I said earlier that I wanted to lay the Seventh Sense onto the problems of war and
+peace and grand strategy – and while the insights our new instinct reveals are lifegiving
+for business and eye-opening for culture, it’s to the devious and unavoidable
+problem of global order I want to turn now. In a now-famous 1986 speech “You and
+Your Research”, the Bell Labs scientist Richard Hamming set three questions for
+anyone embarked on the exploration of new ideas: “1. What are the most important
+problems in your field? 2. Are you working on one of them? 3. Why not?” 240 Well, the
+most important problem in the field of global affairs is the question of the future of
+world order, of how it will emerge – and what sort of aspect it may yet present. It is
+the problem to be working on. It also touches, like it or not, whatever the most
+important problem in your field is: Opening new markets, educating your kids,
+planning five years of corporate growth. Remember the distinction from earlier in
+the book, the difference between living at an ordinary moment and an historic one?
+The difference between Warsaw in 1539 and 1939? In one age, history is irrelevant;
+in the other it nearly throttles you. You can’t avoid being touched. We live in an
+historic era, not least because the connections that define our age means epochal
+quakes in one part of the system will rattle other bits too.
+A feeling for history – Nietzche’s old “Sixth Sense” – should fire up invisibly in us bit
+now as we think about what life in an historic age might mean for us. The surprises
+in our news every day. The creaking of our old institutions. What do they augur? The
+political scientists Charles S. Gochman and Zeev Maoz once made a survey of history
+to see if they could spot just when the world slipped from calm moments to
+epochally unettled ones. They surveyed nearly 1,000 wars, big and small, hunting
+for patterns as you or I might look for trends in stock prices or sports scores.
+Increasing complexity, they discovered, almost always shook the world into conflict.
+States, armies, political groups, newly independent nations, ideological and religious
+forces emerge and then collide in their young energy, each driven by different aims
+and values and dreams. A cycle marks the process. First, disputes over small matters
+accelerate – as they are doing now. Everything seems open to question: Do you
+control this trade route? Who says we have to respect this arms limit? The
+combined pressure of so many simultaneous disagreements announces a shift in the
+pattern of all relations. A logical loop follows: “The frequency of disputes,” Gochman
+and Moaz explain, “appears to be an early indicator of system transformation…The
+rise in the number of disputes seems to indicate a decline in the degree of consensus
+on the ‘rules’ of the international order. This heightened dissensus (often
+culminating in large-scale wars) is followed by restructuring.” 241 Pressure on the
+rules. Small cracks. Large scale war. Re-ordering. Like water moving from ice to
+liquid to steam and back, this cycle has a predictable logic. It ran in the age of
+Bismarck and culminated in World War One. It spun again in the age between last
+century’s great wars too, tripping into a second World War. And it ran as well in the
+240 “What are”: Richard Hamming, “You and Your Research”, Simula Research
+Laboratory (Berlin: Springer-Verlag, 2010) Chapter 6
+241 The politial scientists: Charles S. Gochman and Zeev Maoz, “Militarized
+Interstate Disputes, 1816-1976: Procedures, Patterns, and Insights”, The Journal of
+Conflict Resolution, Vol. 28, No. 4 (Dec., 1984), pp. 585-616
+169
+fracturing of ancient China during the Spring and Autumn era or in the Roman
+Empire in the age of the Caesars. Our current shifting – that tap, tap on every
+nation’s politics, media, and economics – isn’t really so unpredictable after all. 242
+You may know the old saw of military parade evaluation: That the more magnificent
+a nation’s uniforms are the weaker it’s army usually is. But the gold-braided
+admirals of some three-ship navy reflect a very human need for security, and
+particularly for a self-decided feeling of security. Every nation has it’s own foreign
+affairs aims. Each cherishes a certain national image, memories of military glory and
+of “interests” inseparable from culture or identity. The goals of the French and the
+Turks, for instance, each evoke an encyclopedia of history, tradition and politics.
+Uneasiness in Paris about capitalism and immigration, for instance; or Anrka’s
+worry about ethnic division, fundamentalisms, and the creeping nuclear progress of
+their neighbors. Our era’s revolutionary logic will shape choices in every nation
+differently. But I’d like here to discuss American foreign policy. America plays a
+central role in world order now. The country’s leading position makes her, to some
+degree, an unavoidable gatekeeper. In the Napoleonic era, nearly every revolution
+or war could be tied to energies emanating from Paris. During the Cold War most
+puzzles of politics or geography might be framed in terms of a zero-sum competition
+with the USSR. In our own age, we’ll find most every problem links to networks and
+their new logic. And – for now at least – to America. Thomas Paine’s memorable 250
+year-old assessment, that “The cause of America is the cause of all mankind,”
+touches this linked universalism in a way he never could have imagined.
+“Betweeness” or “Centrality” are the way network science labels and measures such
+a role. Just how essential is a certain nation or trading platform or point? The
+networks of America won’t, in the future, be the only networks. They will be less
+“between”. But they will be, always and indelibly, the first reference for design.
+If the traditional aim of American foreign policy was to prevent the emergence of a
+challenger that threatened the country directly, or that might fence off and
+manipulate Asia or Europe or Latin America against Washington’s aims, the concern
+now is different: Mastery of topological destiny. There are those who observe, as an
+American think tank noted in 2015, “Today the United States faces no existential
+threat.” 243 This is wrong. The emergence and shape of networks is just such a
+danger. Security, the great foreign policy theorist Andre Wolfers once wrote, is “the
+absence of threats to acquired values.” 244 The networks around us, as we’ve seen,
+are demolishing older values. Often because we want them to. Any revolutionary
+technology unbuttons an older order this way. But we now approach this
+destabilized world with a sort of wideyed panic. Control terrorism, manage climate
+242 Our current shifting: See also Lars-Erik Cederman, T. Camber Warren, and
+Didier Sornette, “Testing Clausewitz: Nationalism, Mass Mobilization, and the
+Severity of War” International Organization 65, Fall 2011, pp 605–38
+243 “America faces no existential threat”: See James Dobbins, et al. Choices for
+America in a Turbulent World (Santa Monica: RAND Corporation, 2015) xiv
+244 In his classic essay: Andre Wolfers, “’National Security’ as an ambigious
+symbol’”, Political Science Quarterly, 67 (1952) 485
+170
+change, lock in great-state peace. So many desires scatter our minds and when we
+fail to achieve them they erode our will. Here is a basic lesson of accomplishment in
+any human domain: Better for us to focus on a single aim, and tighten our efforts
+around that one aim and use success to strengthen our will. The answer to the great,
+newly-charged existential question of politics – “Are you a gatekeeper or the
+gatekept?” – is not yet decided for the United States. So, strategy first: We live in a
+connected age where power is sliding into that gated order we’ve learned about.
+America’s role? Not to make the entire world democratic. Not to try to bomb or
+force stability onto every nation now collapsing under network pressures. Not to
+passively wait for our version of history to “win”. Not to thwart the rise of other
+countries. No. The strategy that fits the nature of our age and position is to perfect
+and then operate the essential, topological mechanisms of power now. Sometimes
+with warm humanity; other times with the ruthlessness demanded by the touch of
+danger and evil. This involves gates. It involves firmness and nerve and willpower. It
+demands what we might call Hard Gatekeeping.
+2.
+Everything around us now is or soon will be connected. Access to our trade, the use
+of technology and networks, our defense or our currency – all of these must be
+considered as gated systems. Each will come to throb with new power as a result of
+their links, as a byproduct of their escalating sensitivity, intelligence and power, and
+from that in-or-out distinction. Much remains to be instantly, fully linked in this
+way. Our education. Our medicine. Our military. Real-time information, sensors and
+machine intelligence will erect Gatelands in each of these areas and in others. These
+walls will go up even faster than real-world berms and fences. The strategic position
+of any nation or terror group or business is not going to be secured by industrial
+measures. No one at Google wants to build a newspaper. No one in Al-Qaeda is
+trying to float an aircraft carrier. Rather, it will be determined in the construction of
+new tools, which largely means the building of a new, gated order.
+“Every new age and every new epoch in the coexistence of peoples,” the historian
+Carl Schmitt once wrote, “is founded on new spatial divisions, new enclosures, and
+new spatial orders of the earth.” Schmitt was contemplating history: The great
+Mediterranean empires and the long, millennial power trails of Asian chieftains. But
+his insight touches every age, our own included. To make a nation, to build an
+empire, is to draw lines, to push at borders, to smash at gates. Some of this is the
+wild martial ambition of a Napoleon or Hitler (who Schmitt unwisely advised); often
+it is simple protection. Lord Balfour, serving as Foreign Secretary, contemplated this
+problem from his imperial vantage in 1918 and observed: “Every time I come to a
+discussion – an intervals of say, five years – I find there is a new sphere we have got
+to guard,” he wrote. “Those gateways are getting further and further away from
+India, I don’t know how far west they are going to be brought by the General
+Staff.” 245 This problem of where exactly to put the gates confronts us now as well.
+245 “Those gateways”: Quoted in Robert Jervis, “Cooperation Under the Security
+Dilemma”, World Politics Vol 30, Issue 2 (Jan, 1978) p. 169
+171
+Gatekeeping, as we’ve seen, isn’t simply the act of marking geographic lines. Those
+hurrying walls and berms and triple-fences of the real world are a kind of
+gatekeeping but they are also, I’m pretty sure, expressions of a deeper desire. Each
+is a real-world defense against topological pressures of population and ideology and
+violence, all shaped by network magnetism. The likely futility of such gates is clear
+enough when you contemplate the forces they are intended to keep out: Refugees
+see prosperity miles on their phones. Little wonder they rush at it. Internettransmitted
+messages light up ideologies, protests or fundamentalisms that pull
+people back and forth endlessly across physical borders. The world responds, as
+anyone without a Seventh Sense might, with walls. But to focus merely on the
+physical? This is to misread the issue. Gatekeeping includes real-world borders, of
+course, but the statesmen of the future will act particularly on topologies. They will
+work not merely to stop up flows, but to decide their movement. Gates will, for
+instance, serve as bespoke disease buffers, created to track and then freeze the
+worrisome pandemics now crawling at us on the connections of our age. Other gates
+will be economic tools: The will help isolate and then soothe the unstable and
+apparently broken, middle-class eroding financial patterns of the past decades.
+Recall how the design of computer or network systems affects the real world, like a
+marble slipped under a carpet? Gatekeeping’s topological design is like placing
+marbles (or boulders) in particular ways, to direct movements and flows as you
+might guide water with a canal. The great historian Arnold Toynbee once recalled a
+passing moment with British Prime Minister Lloyd George during the endless (and
+disastrous) Paris Peace Conference of 1919. “Lloyd George, to my delight, had
+forgotten my presence,” Toynbee wrote, “and began to think aloud.
+‘Mesopotamia…yes…oil…irrigation…we must have Mesopotamia; Palestine…yes…
+the Holy Land… Zionism… we must have Palestine…; Syria… h’m… what is there in
+Syria? Let the French have that.” 246 This sort of charmless arrogance – The Holy
+Land….We must have that – doesn’t much suit our age, but that comprehensive view?
+What oil and irrigation and Suez were to Lloyd George, emergence and data flows
+and gates are to us. There’s a crucial difference, however: We need not take the most
+precious territory of our age through invasion or colonial exploitation or in misbalanced
+peace settlements. We can build the essential landscape of power. We can
+build it for defense. And then we can grow it, perfect it, and attract others. Schmitt
+was right, human history is the story of enclosures – and nothing about our
+emerging age suggests any other approach can, with a single clear line, solve the
+vexing network x network x weapons problems we face. Hard Gatekeeping means
+molding the landscape, gate by gate, to encourage certain movements and make
+others difficult, costly, maybe even impossible. Any future order must begin with
+this first principle: The line between in and out is as essential as what goes on
+inside.
+246 Lloyd George: Margaret MacMillan, Paris 1919: Six Months that Changed the
+World, (New York: Random House, 2002) p. 381
+172
+The goals of Hard Gatekeeping are simple enough to state: To protect those inside
+the gated order, to make security and innovation more efficient, to accelerate
+certain kinds of connection and dampen others, to manage vulnerable links to the
+non-gatekept world and – perhaps most important– to use that “in or out” leverage
+to relentlessly affect the interests and plans of others. These aims are the root of real
+security in any age. “In anarchy, security is the highest end,” Kenneth Waltz wrote.
+“Only if survival is assured can states seek other goals such as tranquility, profit and
+power.” 247 Survival – and Waltz’s other essential aims – will be decided by the
+nature of our future connection. In this sense, Hard Gatekeeping produces a decisive
+change in our posture. It lets us aim for something instead of merely being against
+movement or – hopelessly – against the future. It establishes priorities, clarifies our
+real core interests, helps us budget our effort and our expenses – better, perhaps, to
+spend a trillon dollars building tools of topological mastery like infrastructure or
+new technology than chasing Middle East peace. 248 Gatekeeping does not transcend
+the long-standing debates between the cold realism of Stalin and the idealism of
+Woodrow Wilson so much as it sets us a preliminary task: Shaping the environment.
+To build and control the next generation of gatekept systems should be our aim
+now. In the future paper currency wil be replaced by secure digital bit transactions.
+Genetic information will demand smart, live-connected platforms for efficient
+mining and study. Cyber and biological security will each come to be defined by
+high-speed, machine-intelligent protocols. All of these are gatekept cores. Mastering
+them will be as important as having military bases, trade missions or treaty
+arrangements once was. The development of such systems plays to our strengths;
+they deliver both security and useful pressures of innovation. Remember – the aim
+isn’t to build walls. It is to use the logic of networks and gates, and all the complex
+productive force they release.
+The elements of Hard Gatekeeping can be stated simply enough:
+3.
+First, Does it work for us? We seek a landscape of technology, trade, finance,
+knowledge – all the tools of power – that balances the pressures of politics with a
+colder grasp of longer-term national interest. The protocols, alliances, treaties and
+data webs that enable markets, trade or thinking machines – all are gatelands we
+can cultivate, improve and protect. Our gatelands must be designed to limit the
+rippling risks of contagion or error moving wildly, like spring weather, inside linked
+complex systems now. Control of topologies is what air superiority or sea mastery
+once were. The opening attacks of future wars will come invisibly and silently
+through networks, in space, in fast topological strikes – not with noisy land
+invasions or bombing runs. Well-built gates will give us time and leverage. They will
+247 “In anarchy”: Kenneth Waltz, Theory of International Politics, (Reading, MA:
+Addison-Wesley, 1979), 126
+248 It establishes: For a discussion about why a grand strategy is of practical use see
+Hal Brands, “The Promise and Pitfalls of Grand Strategy,” Strategic Studies Institute,
+External Associates Monograph Program, 2012
+173
+deliver the honestly-earned confidence of the secure. They will provide purchase for
+the patient work of diplomacy, a marked shift from the crisis-to-crisis lurching of
+today.
+The texture of our values should be everywhere woven into these gatelands we will
+cultivate: Democratic choice, freedom of thought, privacy. We won’t have time for
+leisurely deliberation about ideals in the crashing, time-compacted crises ahead, so
+we should begin with them. Let other nations measure gated enclosures for their
+different values, marked by their paranoias and historical burdens; our strength will
+be an order that reflects our habits of civilization. The curious, open-minded
+searching native to our temperament, for instance. This will force constant
+innovation and evolution, an antidote to the failure to change that poisons most
+closed systems. A continued absence of gates will undo us in the short run. But the
+long run will be a disaster if our gates are inflexible, too closed, incapable of upgrade
+or – worse – girded by promises and fears that are not naturally our own.
+A second principle is that we ought not force anyone else to use our gated systems.
+Gatekeeper or gatekept? No more profound, painful, liberating or enslaving political
+choice now exists. Nations must be free to select, in as much as they can, their own
+terms of enmeshment. Our aim should simply be to build the best order we can.
+America’s tremendous economic and technical lead serves us – for now, at least – as
+the isolating stretch of the Atlantic and Pacific once did. There’s no need to force
+others to follow us. Recall Greshams’ famous “economic law”: The way in which the
+bad drives out the good. A stock market made of swindlers won’t attract investors
+for very long. Well, in many networks, a sort of reverse-Gersham’s law applied. The
+good drives out the bad. By this I don’t mean merely the self-cleaning properties of
+systems like Wikipedia. But of linked systems more broadly. If one nation runs a
+DNA database where results are skewed by rules of political power – family
+members of leaders get special access for instance – it will make it less effective, and
+therefore less appealing as a gateland. So we should be relaxed about letting Europe
+or Russia or China try their own gated systems. Their desires reflect sensible,
+understandable urges. If you were leading a nation would you rely on Washington’s
+trade or financial commitments? Because of the nature of power now many nations
+may have no other choice; but forcing them to enmeshment could bring shattering,
+unnecessary pressure. Let them divide themselves from us; it will only weaken
+them.
+We need not evangelize, invade, or compel our way to power. Consider the case of
+global trade. For decades after World War Two, many nations sought independence
+from economic entanglement. They yearned for autarky. They scorned trade. And
+they nearly bankrupted themselves in the process: Want to buy Portuguese cars?
+French computers? Indian bikinis? I didn’t think so. The whole point of trade was to
+solve such imbalances of skill and trade. When the age of connection began after the
+Cold War, most countries made a decisive shift: They arranged their economies to
+be attractive to global financial flows. Trade grew twice as fast as the world
+economy. The cost of being left out was, and is, a nearly impossible burden.
+American systems, if they work for America, should have the same magnetic appeal,
+174
+the power-law dynamics Brian Arthur found in the most successful network
+arrangements. Getting it right is enough of a task. If we can manage that, what we
+build will run with unimpeachable legitimacy. Chosen, not forced.
+A third principle is that our gates and protocols and webs ought to be open to
+others, but with each new link weighed, added to the scale of strategic balance with
+exacting care. An overarching, systemic view should inform us. Nations that want to
+use our cyber security systems, for instance, should join research cooperatives – and
+possibly shoulder as well some problems of global network health like the
+implementation of IPv6 or DNSSEC, or any of the future jointly secur standars that
+will emerge. They should even – here is where the leap comes – be required to
+cooperate on nuclear proliferation, cybercrime, or trade norms. The puzzle here is
+clear: How to use our strengths to address our dangers? While we can’t directly
+press our lead in cancer research to stop national flirtations with nuclear bombs or
+cyber crime, it’s probably true that a cost of weapons proliferation should be
+exclusion from life-giving technical and trade and other gated orders. Remember
+that feature of network systems now, how the cost of exclusion grows even faster
+than the benefits of inclusion? If the aim of any society in this connected age is to
+accelerate the compression of time for its citizens, than life outside the best gates for
+this will be a nearly fatal political cost. Do you really want to rely on French
+computers? Wear Indian bikinis? Do Iranians want to rely on Iranian cyber-security
+tools alone? It is ever-easier for citizens of nations sliced free from vital networks to
+feel what they don’t have.
+The courage to leave some nations out of the order we’re constructing – and to cut
+others out – doesn’t come easily to us. Today we don’t really engage in a
+comprehensive, linked strategy. Iranian proliferation and Chinese finance and Saudi
+military support are, for all practical purposes, separated in our contemplation of
+the world. Hard Gatekeeping frames these together as a piece; it spots the
+topological string running between each and gives us a firm position from which to
+pull the threads we want. We will come to know, to pay, the costs of over-inclusion.
+But this also means that we must be concerned with the security and safety of
+others, on our network or on others. To attempt to achieve absolute American
+security, to do so at the expense of other nations – this will not only erode the
+credibility of any system we build. It will also make them fundamentally less
+effective. We are, after all, what we are conneted to.
+Fourth, no nation should be permitted to force another inside of its own gates. India
+might develop a great search engine; they should not be allowed to force
+Bangladeshis to use it. China may develop clever trade channels to Europe; they
+should not drive their use with military pressure. This principle is the flip side of our
+own commitment not to compel others into American gatekept systems. It
+represents an important nod to sovereign power: Each nation decides on its own. If
+we’re intent on avoiding some of the chaos of the last major system change, which
+produced the Thirty Years War, we should learn its lessons. That fight
+fundamentally touched on one question: Who decides what happens inside a
+country? The specific problem of Europe 350 years ago was if each King could
+175
+decide the religion of his state. The treaties that settled this debate in 1648 – after
+the most devastating wars in European history at that time – established Cuius regio,
+eius religio as the governing principle. Whose realm, whose religion. The very notion
+of a “state” is itself being eroded as topologies, migrations, and superfast data links
+eat at old borders. But nations remain an essential container of power. A rapid
+collapse of that system would be a disaster, and is frankly unlikely. To be American.
+French. Chinese. This still matters.
+Do we demand that other nations use our protocols? Do we force China or Germany
+to rules of transparency, data tracking of their citizens and research that we obey?
+No. Cuius reticulum, eius reticulum. Whose realm, whose network. But, at the same
+time, should we permit China or Germany to force another nation into its trading
+regime? It’s biological or cyber networks? To the question, “What would America
+fight against in a gatekept world?” one answer is this: We would resist any attempt
+to force-fit a nation to a gated order. We should prepare for difficult, expensive
+fights to maintain this principle. Russia watching neighboring states seduced into a
+Chinese trading order or an American technological system won’t bubble with silent
+acquiescence. Arrangements that tilt trade to one side of the Pacific will unnerve
+China or Japan – or the US. But, in the end, the control logic of cuius reticulum buffers
+us, as a sort of law, against a wilder madness of collapsed nations.
+Fifth, we should not permit the emergence of any means to destroy our system. The
+very efficiency of connected architectures makes them vulnerable. Networks, by
+design, have holes that particular modes of attack can exploit. Contagion. Strikes
+against central nodes. 249 Arms racing of a certain type. Our first attempt to limit risk
+should be defensive. Better gates. But we’d be foolish to stop there. Gates, the
+Trojans would remind us, are not enough. When truly existential dangers emerge –
+nuclear weapons, certain types of artificial intelligence or genetic engineering – then
+we must attack. Hard Gatekeeping should include a coiled, prepared readiness to
+strike with the same light-speed movement that defines the dangers we fear. Of
+course we should try to deter such attacks. But we should be realistic. There’s much
+we can’t deter. And the cost of attack is awfully cheap. We won’t be truly safe
+without battle plans and diplomatic gambits that can hammer at the topological and
+real world vulnerabilities of our enemies. After all, they will be hammering on ours.
+Our defense task is simple to say, hard to achieve: From the largest symmetrical
+superpower in history, America needs to become the greatest asymmetrical one –
+capable of devastating, instant action anywhere in the real or topological world.
+Network scientists who study the power of “centrality” have shown the way that
+certain positions in a topology – think of a rainforest, a travel network or a stock
+exchange – wield unusual influence. Centrality of a certain node in linked systems
+can determine control, it can produce “super spreaders” which instantly shape
+249 Strikes against: I.A. Kovacs, A-L. Barabasi, “Destruction Perfected,” Nature
+(News & Views) 2015, 524, 38-39
+176
+linked topologies 250 . Contagions, panics, economic brain freezes – these are the
+essential tactics of our future. The maintenance of our centrality on the topologies
+we rely on is, then, the essential part of our future security. Interrupting this is, of
+course, exactly the edge our enemies seek against us: To infect us – with panic,
+terror or some virtual or real virus. To alter the landscape with one sharp razor
+slice, not a hail of bombs.
+There is no excuse for us to not prepare to struggle in these new terms. Our military
+must be shifted for the demands of such instant, cross-space attack. But it’s more
+than that. In recent years America has gotten into a habit of reaching for our military
+tool, and while we’ve strengthened it to an historically unprecedented degree, we’ve
+let other skills atrophy. Our real aim should be to stop our opponents from adapting,
+evolving and connecting to us. If we suffer some strategic, nation-crippling defeat in
+the future, I don’t think it will be because our military was weak. Rather it will be
+because we’ve not mastered all the other tools of topological control. The first sign
+of our real awarness of this will be when the old, foolishly vulnerable systems and
+tactics and ideas are replaced. We should never build another aircraft carrier
+without a sense of new, networked naval plan. The idea of spending hundreds of
+billions for manned bomber planes is absurd. We should embrace self-imposed
+limits, we should force ourselves to innovate both with our military and in the
+creation of new tools of policy. Doing so will prevent any number of conflicts. And it
+will stiffen our temperament to unconventional thinking.
+There’s a lean efficiency to these five principles that define Hard Gatekeeping. The
+strategy echoes, in its clarity, in its clean frugality, the postures of some of the most
+enduring orders in human history: The “defense in depth” of the Roman Empire, for
+instance. The protective order of Tokugawa Japan. The walls of Tang China, part of a
+chained national history that celebrates heroes as “defenders of the nation,” not
+attackers. Gatekeeping resists unnecessary profligacy. It limits the need to
+proselytize or colonize or force others to our way of thinking. And it has a universal
+aspect: Hard Gatekeeping can – with a little imagination and some discipline – be
+laid on puzzles like terrorism, cyberattacks, US-China relations, order in the Middle
+East, the proliferation of nuclear weapons, income inequality and global warming. It
+provides a sharp single image of what we’re after – and guidelines for getting there.
+It’s clear enough what we need to do, I think. Build gates. Use them. Hold inside
+them and protect the curious, innovative and revolutionary spirit of our people and
+our age.
+Let’s use this approach to examine some particular problems, and let’s start with
+US-China ties – a puzzle whose resolution may be the decisive act of policy in the
+4.
+250 Super spreaders: Manlio De Domenico, Albert Sole ́-Ribalta, Elisa Omodei,
+Sergio Gomez & Alex Arenas, “Ranking in Interconnected Multilayer Networks
+Reveals Versatile Nodes”, Nature Communications April 23, 2015
+177
+next century. How might Huang Hua, with his nature-of-the-age consideration of
+strategy have regarded the matter? What does gatekeeping tell us?
+The dominant view of future relations between Americans and Chinese generally
+runs along a nervously familiar historical track: An established power (the US) and a
+rising one (China) consider each other. Do they cooperate? Scratch at each other in
+constant annoyance? Each nation possesses a different image the world. Each holds,
+as well, distinct pictures of their role. One power has enjoyed a long period of
+prosperity, has built and defended a global structure; the other, trod mercilessly
+underfoot by history, feels the unbearable flow of power’s rising sap, a hunger for
+recognition and release and for some, revenge; her economy craves resources, trade
+routes, and markets. So Germany encountered and then attacked Great Britain at the
+turn of the 20 th Century. Japan collided, similarly, with Russia in 1904. France taking
+on Austria, Russia and Great Britain in the Napoleonic age.
+Even if the leaders of the United States and China intend to avoid conflict, they face
+one of the most sobering, if not depressing, problems of international politics: The
+“security dilemma”. The world is a dangerous place. So countries do things to feel
+safer. Their populations demand it. Germany looks at Britain’s imperial navy in the
+1890s: London could snap Berlin’s trade arteries. So the Kaiser orders two
+battleships. Britain builds three in response. Germany turns to submarines. And so
+on. Each country, chasing her own security, ends up less secure. This is the
+“dilemma”. The puzzle is like one of those woven wicker finger traps: The harder
+each side pulls to get out, the more stuck they become. America in 2012 pivots her
+military gaze to Asia. China feels encircled. She orders a couple of aircraft carriers,
+paves remote islands into military bases. America flies aircraft closer to Chinese
+waters. Are the two sides more secure? Collisions, arms racing, accelerating distrust
+become the threnody of contacts. Each side seeks something impossible: Perfect
+security. Move first, certain forces begin to whisper in each capital.
+The essence of this problem today, as the United States and China consider their
+future, is not merely or even mainly in the details of trade, territory, or cyber
+disputes we read about. These hot points are important, of course, but they are
+symptoms of differing judgments of the world, of a fracture at that first step of
+asking, “What is the nature of the age?” Americans generally believe the existing
+global power map is just, sustainable, in need – perhaps – of minor adjustments.
+America engineered this system; benefits tremendously from it’s fictionless
+operation. China regards that same layout differently. As broken, unbalanced,
+rocking towards a seizure – and, anyhow, built, lubricated and run without her
+participation. This view is sharpened by ideology, national psychology and the bald
+fact that no global mechanism ever functions perfectly. The larger nature of the age
+is, many in Beijing feel, Da po, Da li. Great destruction. Great construction. Certainly
+this is true inside China; it must be true outside. The nation has it’s hammers out.
+They see the paradoxes of power we read about earlier, the inability to act and the
+collapse of American credibility, as clearly as people in Washington or Damascus or
+Moscow. Surely the global system should be adjusted, they think. Tap. Tap.
+178
+So though no inherent enmity exists between the two countries, a crack emerges.
+Each side finds reasons not to cooperate. A shared interest in peace – neither side
+wants a collision, both understand the costs – is shimmied apart by a perception
+gap. Cultural, historical, temperamental and ideological differences accelerate the
+unzipping of even the best intentions. Misunderstanding bends and then snaps
+irrevocably into mistrust. So yes, the recovered islands and the trade tensions and
+the political theories have to be managed because each is a blister that limits
+forward motion – but the real source of friction? It is the scraping of different world
+views. This is deep strategic misalignment. It is, in fact, the stuff of war.
+In recent years, America has had two different, nearly opposite approaches to China,
+each however marked by an assured national confidence that the current world
+order is sustainable. One policy is short-handed as “engagement” – or, colloquially,
+“panda hugging.” As China becomes more prosperous, this approach suggests, she
+will become more congenial to American interests. More cuddly. This was, for some,
+the basis for bringing China into the World Trade Organization in the 1990s. Later it
+justified deep commercial links and educational ties. The logic of such an approach
+fit the mindset of many baby-boomer Americans: China’s attraction to MTV,
+McDonalds and Mercedes hinted at a still deeper desire they thought. To be
+Western. China’s citizens would surely become more attracted and committed to the
+world system that had delivered all this prosperity. The country would become
+more global, in a sense, and less Chinese.
+In fact, as China has grown in recent years she has become more global and more
+Chinese. Growth, wealth, an admixture of confidence into the old national habit of
+insecurity – all of these have encouraged a searching exploration. The demands of
+domestic politics, the instincts of the Chinese Communist Party and the inevitable
+practical questions of security and reform all produce sensible questions. China
+needs oil, for instance. Must she project power into the Middle East? Control the sea
+lanes of the Malacca Straits? There’s no natural, inherent resistance to American
+interests in any one problem, but that hopeful American logic of “engagement”
+ignores much about China’s essence. The country presses at rules she mistrusts (as
+America once did). She struggles with the inevitable challenges of a political system
+still smoking a bit from recent revolutions – and, of course, facing the pressures of a
+networked age. But she holds, strongly, a sense of Chineseness. Can we honestly
+expect to use mere prosperity to change China in a predictable, pro-American way?
+“Engagement” feels to Chinese like a demand to become more American. That
+prospect is as appealing as a request to become more Chinese would be for
+Americans.
+An alterative strategy to “engagment” is known as “containment”. (While not
+formally called “Panda Kicking”, this is often what this policy looks like.) This view
+takes it for granted that as China becomes more powerful she will become a threat.
+Any growth in Chinese power means a decline in America’s influence and security. A
+stronger China in Asia, for instance, means a weaker America. Countries like Japan
+or Korea or the Philippines will be required to choose a side at some point, at some
+awful 21 st Century Melian moment. The aim of containment is to squelch China
+179
+before such a fork appears. This approach, too, has its logical problems. Boxing the
+largest economy in the world hardly seems sensible – and is likely not achievable.
+Anyhow, early attempts to do so have shown how little leverage the US has. When
+China announced plans to build an Asian Investment and Infrastructure Bank in
+2014, the US opposed it and then watched as nearly all of Washington’s traditional
+allies raced to join.
+At the same time, China’s policy towards the US has been hard to decipher for many:
+Is the country intent on amity or enmity? It’s clear enough that the American
+options presented to Beijing are unappetizing: Change or be contained. Messages by
+China in response have tickled the natural historical pessimism of American political
+leaders. China speaks of wanting a new kind of relations with America, of cultivating
+rich technological and financial ties, but the country at the same moment challenges
+easy assumptions about how foreign investment, educational or security
+cooperation might mesh together like gears of friendly progress. It’s hard to do
+business in the Mainland. The military grows with astonishing speed. Domestic
+habits of smash-mouth competition rattle at more sedate Western habits. Any
+element of China’s actions are explainable and even sensible when seen with
+sympathetic eyes – but the same exact facts can be stitched into a story that suggests
+constant damage to American interests. China’s position is, to be honest, a difficult
+one: The country is opaque to most foreigners, wrapped in habits and instincts that
+run along such different lines that even simple daily decisions – how to run a
+meeting, for example – can be a source of disagreement. In the west you prize
+diamonds for their clarity, Chinese will say, in China we prize jade because it is cloudy.
+There’s a charm in opacity; even a bit of sensible political magic at times. But China
+is moving out into the world very rapidly, now: Fast and dimly understood don’t
+fuse into easy trust.
+In one sense, then, it’s possible to sense the tense, angry energy of an impending
+collision. Beijing and Washington are enacting the old historical pattern. Wrestling
+for years over small issues, never quite coming to grips, slowly pulling at each other
+until a final, fatal collapse. Germany and Great Britain, all over again. But: Connection
+changes the nature of an object. So much in our world looks different after connected
+dynamics are applied. Might connection change the nature of enmity? We are, after
+all, part of the same connected skein. We’ve concluded that America’s greatest
+threat is not China or Russia or terrorism – but the evolution of the network itself.
+That same topological evolution menaces Beijing too. If China is not our biggest
+enemy, if we are not theirs – what might be developed? Might the rat trap of history
+remain unsprung?
+An American “China Policy” shouldn’t be regarded as some distinct initiative; rather
+it must be a part of a grand strategic program of Hard Gatekeeping. Our goal aim
+isn’t some shimmeringly perfect “China Policy” so much as it is to cultivate a grand
+strategic disposition that informs what we undertake in cyber, Russia, the Middle
+East, and China. Imagine we had a terrific “China policy” and a backfiring “Nuclear
+weapons policy”? Masterful grand strategy is marked by a comprehensive elegance.
+Metternich’s old construction, “A Concert of Nations” tells the story pretty well: A
+180
+symphonic effort, each note and instrument in place. Grand strategy tells us what to
+do at every moment.
+Any policy, then, must begin with a summary of our aims: “We believe the world is
+entering a period of profound change that demands a shift in global arrangements.
+We are building a gatekept order consistent with our values. We welcome others to
+participate in it – but with conditions. We will resist attempts to force nations into
+any gatekept order; we will fight any forces that threaten disruption of the overall
+system.” The China policy that emerges from this view is clear enough: We will not
+contain China. We will not force China to change. Rather we will develop a profound
+gatekept network for our own operation, one that layers together all the concerns of
+economics, trade, security and technology – as if we were designing a technical
+system for fast, constant links. We will include other nations that want to be a part
+of it, as long as they are willing to bear certain costs. China is welcome to develop
+her own system and see whom she might attract inside. She will not be permitted to
+compel nations to join. And: If China wants the benefits of a US-led order, then
+Beijing must be prepared to support the maintenance of that order. That means
+deeper cooperation on everything from nuclear proliferation to the establishment of
+new international bodies for connected finance, biological research or nuclear deproliferation.
+Such an approach resolves, in an instant, the contradictions of our current policy.
+Here is our gated order, we can say, join if you wish and on the terms we both consider
+best. We should remember: China has much to worry about. Disorder would land on
+her own hopes for peace and development with a profound, possibly crushing
+pressure. The international order is not working as well as it might. It does not
+appear engineered for new stresses. It is in cooperation for the reform of that
+system that the two nations share an urgent interest. And it is in a successful
+defensive posture of a gatekept, network order that Washington can cultivate the
+linked, leveraged moves that will encourage this to happen. While there might be a
+temptation to play this game in that old Lloyd George sort of way – “We need the
+Middle East. Grab it. We need digital currency mastery. Take it!” – such efforts will
+only assure final, fatal collision between the two powers. We need a gatekept order.
+Build it. That is enough.
+What the Seventh Sense statesman sees, in the way a Seventh Sense entrepreneur or
+terrorist or researcher can, is the pulsing network logic that is at work breeding a
+new world – like it or not. And our policy has to aim for that future state, not for
+what we have today. If this sounds difficult, you should know that in most complex
+adaptive systems these kinds of adjustments frequently occur. Rainforests. Traffic
+jams. The human brain. Anyplace connections are knit and reknit at light speed can
+exhibit a pattern of rapid redevelopment: The world changes. The network and its
+various pieces hum, in response, to a new order. Climate shift in the Amazon, for
+instance, produces drier air. The pollination cycle shortens. Flowers must adjust by
+growing longer leaves to protect their moisture. Birds that rely on the flowers
+develop longer, sharper beaks in response. In this way bird and flower each become
+better suited to a warmer age. They co-evolve. We see this sort of interaction in
+181
+many worlds. Data companies face increasing bandwith demands. They develop
+new ways to transmit video. Application developers create fresh tools to compress
+their signals. The whole system gets faster. Such co-evolution is common when
+linked systems press into one another. 251
+If you look back at biological history, at our planet’s seething life at it’s most
+profound moments of transition, you find co-evolution in nearly every case. The
+biologists John Maynard Smith and Eors Szathmary, in their masterwork The Major
+Transitions in Evolution, chronicle the miraculous march of life towards ever-greater
+complexity – from cells to humans to societies – as a story of ceaseless, successful
+co-evolution. “Complexity is hard to define or to measure,” they write. “But there is
+surely some sense in which elephants and oak trees are more complex than bacteria,
+and bacteria than the first replicating molecules.” The essential, facilitating feature
+of our biological hop-scotch from mitochondrial snot to Beethoven sonatas has been
+an ability to change together, not merely to compete. While we humans tend to
+consider evolution in murderous you win/I lose Darwinian terms, the biological
+world around us seethes with a more nuanced logic: Cooperation is every bit as
+important to survival.
+Smith and Szathmary identified eight major transitions in their work – the evolution
+from single cell to multiple cell organisms, for instance. And in each case they find a
+kind of cooperative, co-evolving logic serving a catalyst to survival. “The
+applicability of the concept,” Smith and Szathmary conclude, “extends across the
+whole of social and natural sciences.” Inside cells. In ecosystem webs of coral or
+rainforest. In traffic management. Successful evolution was, they found, always coevolution.
+“It should need little persuasion to acknowledge that links we make with
+others change in time,” they wrote. “That all of us age, that our roles in life evolve,
+and that the society we are a part of may itself be subject to transformations on a
+global scale. Coevolutionary rules aim to integrate these processes.” The world
+changes. I change. You change.
+Network age systems, in their effortless bridging of divisions – geographical,
+technical, commercial – bounce with a particularly powerful fusion. “It is often
+assumed that biological agents are by nature rationally selfish, and that therefore
+external circumstances somehow have to compel them to cooperate,” the historians
+Nathale Mezza-Garcia, Tom Froese and Nelson Fernadez have written about the
+organization of societies over the past millennia. That sense we often have, that
+we’re one Darwinian instant from some sort of lethal, teeth-baring competition,
+doesn’t in fact explain all of human history. 253 Politics is a sort of complex adaptive
+251 Such co-evolution: Matjaz Perca, Attila Szolnokib, “Coevolutionary games—A
+mini review”, Biosystems 99 (2010) 109-125
+253 “It is often assumed”: Nathalie Mezza-Garcia, Tom Froese and Nelson
+Fernández, “Reflections on the Complexity of Ancient Social Heterarchies: Toward
+New Models of Social Self-Organization in Pre-Hispanic Colombia” in Journal of
+Sociocybernetics 12 (2014), pp. 3 - 17
+182
+system; it fuses cooperation with brutal competition as it aims for a kind of
+equilibrium. After all, if we were constantly tearing into one another, we’d be
+extinct, not evolved. Why did cities form? Nations? The key is a moment when
+shared, possibly devastating risk of collective failure becomes apparent – those
+moments when the whole system threatens to collapse right on top of all the
+participants. The greater the shared danger, Mezza-Garcia and her colleagues
+explain, the better the chance for real cooperation. It’s a forumula that fits what we
+face now: “An increased risk of collective failure facilitates large-scale cooperation,
+especially when the large scale system is composed of smaller, nested groups,” They
+explain. ““Complex systems theory reveals an alternative to constant conflict.”
+This is our world now: Linked clusters of markets, nations, machines – all exposed
+to a risk of shared and instant collective failure. Such a structure upends an axiom of
+politics that has run for centuries: Man is purely Darwinian and that survival is
+determined by constant competition alone. In a network, survival is determined by
+sociability, by cooperation. Linked systems drive people to agree on rules in order to
+participate, which accelerates change and co-evolution. Smart cancer databases,
+linked traffic systems, video platforms like YouTube – each are Gatelands that press
+users together on a single platform, one that can be instantly updated and
+constantly studied for adjustment. “Rich get richer” arrangements are an ideal place
+for co-evolution, shaped as they are by easy linkage, exchange and connection to
+outside events. As more people follow the logic inside the gates, the system coevolves.
+It becomes still more fit. It’s this loop that makes Hard Gatekeeping so well
+suited to an age of connection. We’re not merely putting up walls; gatelands are like
+markets or public squares. They are loci for cooperation. In diplomatic history it’s
+not hard to calls for cooperation. “We must get along or this war will devastate us
+all!” But they don't work. Mostly you find hand-wringing about how terrible war
+would be followed by, well, war. The logic of networks offers an escape from this sad
+habit.
+Co-evolving relations between the US and China can begin at the most obvious of
+starting points: Both sides need to change. New pressures are already tearing at
+each. Both nations need a new gatekept system. Our aim isn’t to “balance” China into
+some sort of frozen checkmate. It’s not to tip her unwisely into chaotic and
+impoverished domestic order – we are, like it or not, all connected. It is to co-evolve
+together. And China? She won’t survive if she does not connect to a system that is
+congenial to her needs. Fortunately, the networks are infinitely flexible in their
+design. A Chinese model and an American model pose no problem of
+interoperability. This is the best co-evolutionary strategy for each side. The dangers
+we confront now are everywhere. The habitual American temptation is to break all
+these risks into pieces, to find out where the problem is, and to flatten each of them:
+“Let’s hit the terrorists, then the Chinese navy, then the Russians, then the drug
+lords.” This will kill us if we keep it up. In a complex system, piecemeal attack
+simply shocks the system to still greater complexity. The world, rather wonderfully,
+is too flexible for brute force applied at one place. A dynamic defense, is a precursor
+183
+for survival, for evolution. And it would best be done cooperatively with the nation
+that will, in a short time, have the largest economy in the world.
+China is not really a threat to the US now. The country can’t assemble the ability to
+demolish or attack America in any significant way, and it is years from being able to
+sustain a military effort. It is not in China’s interest to provoke a match. They would
+lose. And honestly they have endless, troubling problems to handle, many new in
+human history. How do you care for 800 million aging people? Though China will
+pass the US in total national income in coming years, the country may never pass
+America in per-capita income. With an aging, 1.4 billion person population the
+challenges of distribution nearly guarantee this. Time acts against both the United
+States and China today. Each depends on global arrangements that are themselves
+cracking. Each nation needs to adjust her structures for a network world. But these
+pressures operate severely against China. She can disrupt and challenge and slow
+the transition to a gated order if she wishes, but only at the cost of fatal distraction.
+An American Hard Gatekept system will thrive with or without China. China is not so
+fortunate. Her system, without America or other elements of global connection,
+cannot continue on the path of reform. Great network construction – this is the
+nature of our age. There is no fighting the nature of the age, as Huang Hua would
+remind us. We should of course expect China to build her own systems. We can also
+expect that she will try to avoid some of the costs that joining an American system
+might impose. That’s all fine. Our aim should remain constant, calm and direct: Build
+a gatekept system for our own use; enforce the rules we believe secure that system.
+And remain clear in our thinking: The threat to the US is the evolution of the
+network. The threat to China? The evolution of the network.
+If an arrangement based on these undeniable facts seems unlikely, it is worth
+remembering that in the twenty years before the restablishment of simple relations
+between Beijing and Washington in 1971, the two sides had fought a war in Korea,
+built a politics based on condemning one another, and drifted so far apart as to
+share nearly no econoic connection. Bringing the countries together demanded
+heroic diplomacy on both sides, to be sure. To read the transcript of Henry Kissinger
+and Zhou Enlai’s first, secret meeting on July 9, 1971 is to regard a masterclass in
+careful chessboard moves 255 . But the game itself demanded a clear view of the
+board, of shared interest in the face of a changing world. On his very first day in
+office, Nixon compiled a list of his diplomatic aims: “Chinese Communists: Short
+range – no change. Long range – we do not want 800,000,000 living in angry
+isolation. We want contact.” 256 The Seventh Sense returns us to this fundamental
+question of balance, but in a new frame. It alters how we look at the range of options
+for US-China relations – and American security itself. There are certain problems
+both sides face, perhaps the most essential, that are simply not addressable using
+255 To read the transcript: Foreign Relations of the United States, 1969-1976,
+Volume XVII, doc 139
+256 Nixon complied a list: Foreign Relations of the United States, 1969-1976, Volume
+XVII, doc 3, footnote 3
+184
+traditional thinking. Co-evolution exists as a real possibility for the two nations but
+so too does co-extinction, a problem of mis-designed complex systems that can
+rattle themselves apart. This is precisely what a confident Hard Gatekeeping
+strategy can avoid. When we speak of the possibiltity of a new type of great power
+relations it is because so much of future power will be decided on a topological
+landscapes, on that nearly living surface that is marked by such different rules than
+the older, industrial power maps. It takes a network to fight a network, as we’ve
+said.
+Networks confront us, constantly now, with the unexpected. No one forming the IMF
+in 1949 considered digital currency. No one developing arms protocols in the 1990s
+thought about cyber weapons. Artificially intelligent weapons, migrant waves,
+income fractures – these and other emerging puzzles were never contemplated in
+our existing international arrangements. Collectively attacking these challenges is
+not merely more efficient; it is our only option. Yes, it’s easy enough to picture the
+US and China battling each other over islands and protocols and technology
+structures in the decades to come. Certainly this possibility has to be prepared for.
+But this is to regard the world in industrial terms. Ask yourself: What, really is the
+point of power? It is to secure stability, not to tip the world to chaos just because we
+think we might be better off on the other side. The networks tell us what they want.
+They want gates. Our only question – and it is the same question that lingers in
+Beijing and Washington – is: Are we smart enough to listen?
+5.
+How will power distribute itself in the future? Just what will the network of nations
+and datawebs and insurgents finally look like when it settles into some predictable
+if still roiling order ten or a hundred years hence? Will it be made up of different
+walled and gated systems, linked at certain moments, unplugged at others? Or might
+it collect with that “winner take all” logic we’ve seen firing along the most efficient
+networks? Most traditional foreign policy looks at history and sees the constant,
+violent rocking of a “balance of power”. Nations thirst for security, they vie with one
+another for influence, resources, and control. France rises. Statesmen in Berlin,
+Vienna and London conspire to knock her down. This is the order that dominated
+Europe for much of the last 500 years. But history is also filled with enduring, stable
+arrangements – moments where the balance settles a bit and a single power
+dominates. Asia, Europe, the Middle East, South America – each produced nations
+that stretched mastery the system for generations, for centuries even. If you map the
+rise and fall of nations and empires over the past 4,000 years – as the political
+scientists Stuart Kauffman, Richard Little and William Wohlforth once attempted in
+an heroic statistical effort – about half of human history has been marked by this
+sort of hegemonic stability. China led East Asia’s order from 1300 to 1900, for
+instance. The Japanese and Koreans and Vietnamese all found it was wiser to play by
+China’s rules than to attack her. Assyrian imperial arrangements overmastered a
+dozen smaller states from the 9 th to 7 th centuries BCE. The Dehli Sultinate managed
+hegemony in South Asia from 12 th to 14 th centuries. The Mughals owned nearly two
+185
+hundred years of dominance starting in the 16 th century. The Romans managed
+centuries of Mediterranean control .
+The secret of those long-running orders was something that will be familiar now:
+Each possessed tools of power which permitted assembly of empire at an unusually
+low cost in lives and gold and effort. Kauffman and his colleagues, as they
+considered the results of their survey, noticed each long-lived empire pioneered an
+administrative design that embodied an efficiency much like that of our own
+network dynamics. The addition of new territories brought more that they cost to
+masters of long imperial orders. Like new users on a social network, or Baran’s fishnets,
+they married easy expansion and high returns. “Rome rose because it
+combined the strengths of traditional Republican institutions with innovations that
+gave it a unique capacity for inclusion of foreigners,” they explain. “Magadha was the
+most administratively durable of the ancient Indian states; and Qin, with the selfstrengthening
+reforms of Shang Yang – economic reforms and military conscription
+as well as bureaucratic innovations – developed the most penetrating and brutally
+effective state structure in its international system.” The Incas, the Han, and nearly
+every long-standing empires glistened with this attractive logic. The secret to
+hegemony, to avoiding a violent power shifts every few decades, is a structure that
+grows without additional, destructive costs. When Machiavelli coldly called Rome a
+“republic for expansion”, this was what he had in mind. Enduring empires have been
+engineered, like a modern network, for growth and prosperity.
+It’s too early for us to know if this logic will obtain in our age. But networks evolve,
+as we’ve seen, to what makes them most efficient. They crave speed and growth.
+And this means they want cooperation; it’s the essential fuel for co-evolution. The
+traditional view of the international system as anarchic is not wrong, but we’ve seen
+how when you snap any object into a network system it begins to crave a kind of
+hierarchy. Networks change power balances. National fury and rebellious twitches
+and competition will, of course, be a part of the transition ahead. But as we look
+back at the industrial tools that matured and spun up the world to a war in the last
+century, we can see how they they were designed in a sense for direct collision.
+Massive industrial armies wrestled in symmetrical power battles. Network power
+hums differently. The design logic of linked systems means they function poorly
+when tuned for simple brutality. It’s why the tools for our new world are so
+dangerous in the hands of those who don't understand what they are capable of, and
+what they demand. We should remain fixed on what might emerge as a future state,
+and on avoiding the shaking dangers of the route. It is from that posture that we can
+begin to consider the most essential and interesting and profitable questions. The
+most profound is probably this one: We’ve seen now what it feels like to use the
+Seventh Sense to contemplate the networks around us and to examine the global
+system with its risks and opportunities in a new way. But what do we discover
+when, as if we were looking into a mirror for the very first time, we use this
+powerful new sensitivity to examine ourselves?
+186
+Chapter Eleven:
+Citizens!
+In which the Seventh Sense rescues us from an unexpected danger.
+1.
+I never needed much incentive to go see Pattie Maes. Belgian, usually dressed in
+some black fashionable getup, she was like a human shot of espresso. You ended
+every conversation wide awake, eyes open. When I first met her in the 1990s, she
+was in charge of much of the work on artificial intelligence at MIT’s Media Lab –
+Danny Hillis’ old home. Maes had arrived at MIT in 1993 and almost immediately
+turned to the problem of making machines that might think. One day, as we were
+discussing just how the strange miracle of computer thought might occur, she
+introduced me to a puzzle of her field that has stayed on my mind in the years since.
+It is called the “Disappearing AI Problem.”
+Back in the 1990s, as the Internet was emerging into popular consciousness, Maes
+and her team were tinkering with what was known as computer-aided prediction.
+This was an advance on the ping-pong conversations Joseph Weizenbaum had
+coerced from ELIZA in the 1960s, You: “I am bored.” ELIZA: “Why are you bored?” In
+Maes’ experiments a computer would ask, for instance, what movie stars you liked.
+“Robert Redford,” you’d type. And then the box would spit back some films you
+might enjoy. Cool Hand Luke. And, well, you had liked that film. This seemed like
+magic at the time, just the sort of data-meets-human question that showcased a
+machine learning and thinking. An honestly “artificial” intelligence. Maes hoped to
+design a computer that could predict what movies or music or books you or I might
+enjoy. (And, of course, buy.) A recommendation engine. We all know how sputtering
+our own suggestion motors can be. Think of that primitive analog exchange known
+as the “First Date”: Oh, you like Radiohead? Do you know SigurRos? Pause. Hate them.
+Can you really predict what albums or novels even your closest friend will enjoy?
+You might offer an occasional lucky suggestion. But to confidently bridge your
+knowledge of a friend’s taste and the nearly endless library of movies and songs and
+books? Beyond human capacity. It seemed an ideal job for a thoughtful machine.
+The traditional approach to such a problem was to devise a formula that would
+mimic your friend. What are their hobbies? What areas interest them? What cheers
+them up? Then you’d program a machine to jump just as deep into movies and
+music and books, to break them down by plot and type of character to see what
+might fit your friend’s interests. But after years building programs that tried – and
+failed – to tackle the recommendation problem in this fashion, the MIT group
+changed tack. Instead of teaching a machine to understand you (or Tolstoy), they
+simply began compiling data about what movies and music and books people liked.
+Then they looked for patterns. People were not, they discovered, all that unique.
+Pretty much everyone who liked Redford in Downhill Racer loved Newman in The
+Hustler. Anyone who enjoyed Kid A could be directed safely to (). Maes and her team
+found themselves, as a result, less focused on the mechanics of making a machine
+187
+think than on devising formulas to organize, store and probe data. What had begun
+as a problem of “artificial intelligence” became, in the end, a puzzle of mathematics.
+The mystery of human thought, that great unknowable sea of chemicals and instinct
+and experience that would have let you place your finger on just the song to open
+the heart of your date, had been unlocked by data. Here was the “Disappearing AI
+Problem.” A puzzle that looked like it needed computer intelligence demanded, in
+the end, merely math. The AI had disappeared.
+For several decades this accidental digital magic trick – “Hey, where’d the AI go?!” –
+bedeviled machine intelligence. It gave the entire thinking machines enterprise a bit
+of an occultish flavor. Many problems that once seemed to demand the miracle of
+thought really only needed data. The human was still doing the thinking; the
+computer was simply computing. It was extremely easy to draw a line between
+where the human ended and the machine began. This was a puzzle that had been, in
+a sense, anticipated at the very dawn of the digital revolution by the mathematician
+Alan Turing in a 1950 paper called “Computing Machinery and Intelligence” that he
+published in the British journal Mind. “Can machines think?” Turing began. 257 His
+idea was to test this question in the following way: Have a research subject – a
+secretary, a graduate student, anyone – chat with an invisible interlocutor by way of
+a keyboard. Then ask: What are you connected to? Another human? A machine?
+Turing figured you could call a machine “artificially intelligent” if it could fool a user
+into thinking it was human. “Please write me a sonnet on the subject of the Forth
+Bridge,” Turing suggested a tricky user might ask. What computer could possibly
+know about this famous Scottish landmark; to say nothing of being able to rhyme
+“Forth”? When the response came back, “Count me out. I could never write poetry,”
+you’d think that sounded awfully human. “Add 34957 to 70764,” Turing suggested
+you might fire back. Say the computer pauses. Then, thirty seconds later, “105621.”
+Are you dealing with a clever machine here? A dim, honest, slow-multiplying
+human? Impossible to tell. The distinction between machine and man blurred a bit.
+Buried in the very premise of Turing’s test was an assumption about what machines
+could do, and how they might do it. “The idea behind digital computers may be
+explained by saying that these machines are intended to carry out any operations
+which could be done by a human computer,” Turing said. His smart machines would
+be tuned by humans to do human tasks, in a human sort of way. Write poetry. Do
+math. His test of artificial intelligence was designed to figure out if a computer could
+think like a human. You and I might be able to spot patterns in movie habits given
+enough time, but as more complex problems emerge, as a world of a trillion
+connected points becomes a sea of data to examine, there is no chance we’ll match
+the machines. This opened a then nearly unimaginable possibility: What if, some
+day, a computer could think better than a human. Could, in a nanosecond, come back
+with that elusive rhyme for “Forth”: North. For such a machine, passing Turing’s
+Test – thinking like a human – was an interesting challenge. But more interesting
+257 “Can machines think”: A. M. Turing, “Computing Machinery and Intelligence”
+Mind 49 (1950), 433
+188
+was a machine that could think in ways a human could never understand, let alone
+achieve. For such a device, to pass Turing’s Test or slip past a Voight-Kampff check
+machine will be trivial. In his 1950 paper, Turing sensed the possibility of this
+development – and the crisis that might ensue. Could man handle the crushing
+sensation that a device was outperforming him? Perhaps dramatically. “We like to
+believe that Man is in some subtle way superior to the rest of creation,” Turing
+wrote. “It is best if he can be shown to be necessarily superior, for then there is no
+danger of him losing his commanding position.” What would have surprised Turing,
+I suppose, is the speed at which we’ve acquiesced – and even accelerated – this very
+loss of our dominance.
+Imagine a device poking at the very origins of the universe at a speed of trillions of
+calculations a second, spinning past Newton’s and Einstein’s laws and into a realm
+of physics apprehensible only inside its own electronic consciousness. Compacting
+time – centuries of human scientific labor reproduced in moments – before shooting
+far ahead, alone to a subtle knowledge we can only envy. Such a machine would not,
+as Newton had, stand on the shoulders of giants so much as it would muscle its own,
+unique way ahead. The AI would have disappeared, but to a place very different
+than where Maes’ AI had gone. Hers had been erased by human design. This new,
+really “thinking” AI would slip to invisibility because of its own light-speed
+cognition. It would think itself out of our understanding. No human could follow,
+limited as we are by our wet, slow, decaying biological software. Humans and
+computers, after all, deal with information differently. Think of how poor your
+memory is compared with the perfect fidelity of a machine, or the way people can
+even “remember” events that never happened. The machines would have more than
+knowledge, then. They would linger close to a possessing a profound and
+inscrutable wisdom. They would inhabit an honestly miraculous gateland that no
+human would ever enter. And this is where the problems would begin.
+We’ve now passed the moment when humans completely train the very best
+machines. The AI devices can teach themselves, now. Of course there are still
+decades of adjustment, of leaps in hardware and programming ideas to eliminate
+the seams between our minds and the fused ideas of a digital system. But the
+humans in the loop of the best of these designs, the hard working and well meaning
+geniuses of the New Caste, are as much trainers as engineers now. They resemble
+shipbuilders of an earlier era, preparing vessels for voyages to lands they will never
+themselves see. Their digital minds – technically machine learning structures such
+as deep neural networks – run quickly to the frontiers. Every moment, all around us,
+machines are educating themselves. About the world. About themselves. About us
+too. Tuned AI plays games, looks at photos, studies chemical reactions, reads your
+email and watches you drive – and then it tries to unspool just what is going on,
+before winding it up into a new instinct. Machine learning systems already produce
+mathematical proofs that linger beyond what a human mind can understand; next
+may be a machine-to-machine mathematics that expands the dimensions of thought.
+(In a man and machine fusion that surely would have unnerved Joseph Weizenbaum
+2.
+189
+of ELIZA, the theoretical mathematician Doron Zeilberger now names his computer
+as a co-author of his papers. He calls it Shalosh B. Ekhad, a play on the Hebrew name
+of his IBM 3B1.) 258
+The AI systems designer Roger Grosse has named two paths to this sort of wired
+sensibility: “Predictive Learning” and “Representational Learning”. 259 That first
+approach is what Maes’s movie machine pusued. The computer is simply checking
+what it encounters against a database. It teaches itself to predict based on what has
+been seen before. This sort of knowledge begins with massive amounts of data and
+then hunts for patterns, tests their reliability, and improves by mapping quirks and
+similarities. Google engineers have a device that can gaze into a human eye and spot
+signs of impending optical failure. Is the machine smarter than your
+ophthalmologist? Hard to know, but let’s just say this: It has seen, studied and
+compared millions of eyes to find patterns that nearly perfectly predict a diagnosis.
+It can review in seconds more cases than your doctor will see in a lifetime – let alone
+recall and compare at sub-millimeter accuracy. Fast, thorough predictive algorithms
+make what might once have been regarded as AI disappear. The machine isn’t all
+that wise; it just knows a lot.
+On the other path, the one of “representational learning” the machine uses a selfsketched
+image of the world, a “representation.” Computers using predictive
+methods to recognize 10,000 numbers pulled from a database of scrawled hand
+writing now identify 90 percent of the images. Self-trained machines, however, line
+up each scanned pixel against a representation of the very idea of writing. They
+screen millions of pictures with nary a mistake. Faces, disease markers, obscure
+sounds – all these become scrutable not because the machines have been told what
+to look for, but because they’ve sort of figured it out themselves. The AI is actually
+starting to think, much as you or I might, first by building up a picture of the world
+and then applying it, much as a child might build comprehension of traffic rules just
+by watching Mom driving every day.
+With this representation finished, these nearly alive “thinking” meshes navigate by
+themselves. You can see already the competition lingering here – who can build the
+most sensitive model of the world? You? A machine? Even today basic versions of
+representational AIs can study a map and name the most important roads. They can
+predict cracks in computer networks days before a fault. These programs take
+longer to train. They are harder to program – and they demand almost unimaginable
+amounts of computing power – but what emerges is a subtle, lively kind of insight. A
+machine with a representational understanding of Mozart’s 41 symphonies can
+write you an extremely convincing 42 nd – or, if you wish, an even earlier First
+Symphony based on what it knows about his evolution as a composer. It can do it
+again and again. In seconds. The basic attitude of these researchers behind this
+technology runs, they confess, like this: Mozart was a fantastic composer. If he wrote
+258 He calls it: See Nielsen
+259 The AI systems designer: Roger Grosse, “Predictive Learning vs.
+Representational Learning”, Building Intelligent Probabilistic Systems: 2013
+190
+even more symphonies they’d probably be great too. Unfortunately he’s dead.
+Wouldn’t it be nice if we could sample his old symphonies and make new ones
+whenever we want? 260
+In the future we’ll invite AI into our lives to harmonize away many of the problems
+we face, not merely making up for Mozart’s inconvenient mortality. “AI Agents” will
+linger along side us. They will compose versions of themselves we’ll not quite grasp,
+even as we appreciate their efficient magic. “AI is both freedom from programming
+and freedom from understanding,” runs one programmer’s line 261 . Today machines
+that once demanded millions of lines of code can function with a fraction of that.
+Instructions are sent to machine learning systems; the programs do the rest. Such
+designs balance their mystery with efficacy. They speak to and learn from each
+other too. Part of the reason that the the “Does it think like a human?” Turing Test
+will be insufficient in the future is that the machines are not learning from only from
+humans. They are learning from each other.
+Perhaps this is not such a bad thing. The distinguished physicists George Ellis and
+Joe Silk, who spent a lifetime trying to stand on Newton and Einstein’s shoulders to
+grasp answers about gravity or the future of our universe, electrified many of their
+peers in 2015 with by wondering if perhaps too much of science had become
+unscientific, unverifiable, unreliable. The great grand ideas of our day, notions like
+string theory or dark matter, differ in a crucial way from Newton’s laws of motion or
+Einstein’s principles: They cannot seem to be tested and significantly proved. And
+this had fired a trend among younger physicits: Perhaps there was no need for
+proof. To Ellis and Silk this seemed an awful retreat, dragging physics back to a pre-
+Enlightenment age of conjecture, superstition and instinct. “This year, debates in
+physics circles took a worrying turn,” they wrote. “Faced with difficulties in applying
+fundamental theories to the observed Universe, some researchers called for a
+change in how theoretical physics is done. They began to argue — explicitly — that
+if a theory is sufficiently elegant and explanatory, it need not be tested.” Fans of such
+an approach called the idea “post-empirical science.” This strange, oxymoronic idea
+was, in a sense, like proposing post-rules baseball: A recipie for wild, swinging chaos
+that would make scorekeeping impossible.
+The strange, boiling debate did however reflect an underlying and unnerving truth:
+Science does seem to have stalled. And it became inevitable to ask: Might it be
+possible that the machines – or some fusion of Shalosh B. Ekhad andta human mind
+– can reach into an understanding of laws that no human alone can fathom. We’ve
+said again and again: Connection changes the nature of an object. Perhaps it changes
+260 Wouldn’t it be nice: Andrej Karpathy, “The Unreasonable Effectiveness of
