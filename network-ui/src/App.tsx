@@ -13,9 +13,11 @@ function App() {
   const [stats, setStats] = useState<Stats | null>(null);
   const [tagClusters, setTagClusters] = useState<TagCluster[]>([]);
   const [relationships, setRelationships] = useState<Relationship[]>([]);
+  const [totalBeforeLimit, setTotalBeforeLimit] = useState<number>(0);
   const [loading, setLoading] = useState(true);
   const [selectedActor, setSelectedActor] = useState<string | null>(null);
   const [actorRelationships, setActorRelationships] = useState<Relationship[]>([]);
+  const [actorTotalBeforeFilter, setActorTotalBeforeFilter] = useState<number>(0);
   const [limit, setLimit] = useState(isMobile ? 5000 : 15000);
   const [enabledClusterIds, setEnabledClusterIds] = useState<Set<number>>(new Set());
 
@@ -45,12 +47,13 @@ function App() {
     try {
       setLoading(true);
       const clusterIds = Array.from(enabledClusterIds);
-      const [statsData, relationshipsData] = await Promise.all([
+      const [statsData, relationshipsResponse] = await Promise.all([
         fetchStats(),
         fetchRelationships(limit, clusterIds)
       ]);
       setStats(statsData);
-      setRelationships(relationshipsData);
+      setRelationships(relationshipsResponse.relationships);
+      setTotalBeforeLimit(relationshipsResponse.totalBeforeLimit);
     } catch (error) {
       console.error('Error loading data:', error);
     } finally {
@@ -79,17 +82,20 @@ function App() {
   useEffect(() => {
     if (!selectedActor) {
       setActorRelationships([]);
+      setActorTotalBeforeFilter(0);
       return;
     }
 
     const loadActorRelationships = async () => {
       try {
         const clusterIds = Array.from(enabledClusterIds);
-        const data = await fetchActorRelationships(selectedActor, clusterIds);
-        setActorRelationships(data);
+        const response = await fetchActorRelationships(selectedActor, clusterIds);
+        setActorRelationships(response.relationships);
+        setActorTotalBeforeFilter(response.totalBeforeFilter);
       } catch (error) {
         console.error('Error loading actor relationships:', error);
         setActorRelationships([]);
+        setActorTotalBeforeFilter(0);
       }
     };
 
@@ -136,7 +142,7 @@ function App() {
           <RightSidebar
             selectedActor={selectedActor}
             relationships={actorRelationships}
-            totalRelationships={actorRelationships.length}
+            totalRelationships={actorTotalBeforeFilter}
             onClose={() => setSelectedActor(null)}
           />
         </div>

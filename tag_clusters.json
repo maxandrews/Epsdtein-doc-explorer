@@ -28600,5 +28600,15 @@
       "market_analysis",
       "financial_support"
     ]
+  },
+  {
+    "id": 20,
+    "name": "Misc",
+    "exemplars": [
+      "uncategorized",
+      "other",
+      "miscellaneous"
+    ],
+    "tags": []
   }
 ]

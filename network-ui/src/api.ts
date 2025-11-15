@@ -16,7 +16,7 @@ export async function fetchTagClusters(): Promise<TagCluster[]> {
   return response.json();
 }
 
-export async function fetchRelationships(limit: number = 500, clusterIds: number[] = []): Promise<Relationship[]> {
+export async function fetchRelationships(limit: number = 500, clusterIds: number[] = []): Promise<{ relationships: Relationship[], totalBeforeLimit: number, totalBeforeFilter: number }> {
   const params = new URLSearchParams({ limit: limit.toString() });
   if (clusterIds.length > 0) {
     params.append('clusters', clusterIds.join(','));
@@ -26,7 +26,7 @@ export async function fetchRelationships(limit: number = 500, clusterIds: number
   return response.json();
 }
 
-export async function fetchActorRelationships(name: string, clusterIds: number[] = []): Promise<Relationship[]> {
+export async function fetchActorRelationships(name: string, clusterIds: number[] = []): Promise<{ relationships: Relationship[], totalBeforeFilter: number }> {
   const params = new URLSearchParams();
   if (clusterIds.length > 0) {
     params.append('clusters', clusterIds.join(','));

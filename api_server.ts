@@ -121,6 +121,8 @@ function validateClusterIds(clusters: any): number[] {
     .slice(0, 50); // Limit to 50 clusters max
 }
 
+// No longer needed - we use the materialized top_cluster_ids column instead
+
 // Get all relationships (edges) with distance-based pruning
 app.get('/api/relationships', (req, res) => {
   try {
@@ -128,16 +130,8 @@ app.get('/api/relationships', (req, res) => {
     const clusterIds = validateClusterIds(req.query.clusters);
     const EPSTEIN_NAME = 'Jeffrey Epstein';
 
-    // Build set of tags in selected clusters for filtering
-    const selectedTags = new Set<string>();
-    if (clusterIds.length > 0) {
-      clusterIds.forEach(clusterId => {
-        const cluster = tagClusters.find((c: any) => c.id === clusterId);
-        if (cluster) {
-          cluster.tags.forEach((tag: string) => selectedTags.add(tag));
-        }
-      });
-    }
+    // Build set of selected cluster IDs for filtering
+    const selectedClusterIds = new Set<number>(clusterIds);
 
     // Fetch relationships with alias resolution and triple_tags
     // Apply database-level LIMIT to prevent memory exhaustion
@@ -151,7 +145,8 @@ app.get('/api/relationships', (req, res) => {
         rt.action,
         COALESCE(ea_target.canonical_name, rt.target) as target,
         rt.location,
-        rt.triple_tags
+        rt.triple_tags,
+        rt.top_cluster_ids
       FROM rdf_triples rt
       LEFT JOIN entity_aliases ea_actor ON rt.actor = ea_actor.original_name
       LEFT JOIN entity_aliases ea_target ON rt.target = ea_target.original_name
@@ -167,15 +162,18 @@ app.get('/api/relationships', (req, res) => {
       target: string;
       location: string | null;
       triple_tags: string | null;
+      top_cluster_ids: string | null;
     }>;
 
     // Filter by tag clusters if specified
     const filteredRelationships = allRelationships.filter(rel => {
-      if (selectedTags.size === 0) return true; // No filter
+      if (selectedClusterIds.size === 0) return true; // No filter
 
       try {
-        const tags = rel.triple_tags ? JSON.parse(rel.triple_tags) : [];
-        return tags.some((tag: string) => selectedTags.has(tag));
+        // Use the materialized top_cluster_ids column
+        const topClusters = rel.top_cluster_ids ? JSON.parse(rel.top_cluster_ids) : [];
+        // Include if any of the top 3 clusters are selected
+        return topClusters.some((clusterId: number) => selectedClusterIds.has(clusterId));
       } catch {
         return false;
       }
@@ -230,12 +228,17 @@ app.get('/api/relationships', (req, res) => {
     const prunedRelationships = relationshipsWithDistance.slice(0, limit);
 
     // Remove the _distance field before sending
-    const result = prunedRelationships.map(({ _distance, triple_tags, ...rel }) => ({
+    const relationships = prunedRelationships.map(({ _distance, triple_tags, ...rel }) => ({
       ...rel,
       tags: triple_tags ? JSON.parse(triple_tags) : []
     }));
 
-    res.json(result);
+    // Return both the relationships and metadata
+    res.json({
+      relationships,
+      totalBeforeLimit: filteredRelationships.length,
+      totalBeforeFilter: allRelationships.length
+    });
   } catch (error) {
     console.error('Error in /api/relationships:', error);
     res.status(500).json({ error: 'An internal error occurred' });
@@ -254,16 +257,8 @@ app.get('/api/actor/:name/relationships', (req, res) => {
 
     const clusterIds = validateClusterIds(req.query.clusters);
 
-    // Build set of tags in selected clusters for filtering
-    const selectedTags = new Set<string>();
-    if (clusterIds.length > 0) {
-      clusterIds.forEach(clusterId => {
-        const cluster = tagClusters.find((c: any) => c.id === clusterId);
-        if (cluster) {
-          cluster.tags.forEach((tag: string) => selectedTags.add(tag));
-        }
-      });
-    }
+    // Build set of selected cluster IDs for filtering
+    const selectedClusterIds = new Set<number>(clusterIds);
 
     // Find all aliases for this name (if it's a canonical name)
     // OR find the canonical name if this is an alias
@@ -287,7 +282,8 @@ app.get('/api/actor/:name/relationships', (req, res) => {
         rt.action,
         COALESCE(ea_target.canonical_name, rt.target) as target,
         rt.location,
-        rt.triple_tags
+        rt.triple_tags,
+        rt.top_cluster_ids
       FROM rdf_triples rt
       LEFT JOIN entity_aliases ea_actor ON rt.actor = ea_actor.original_name
       LEFT JOIN entity_aliases ea_target ON rt.target = ea_target.original_name
@@ -303,21 +299,24 @@ app.get('/api/actor/:name/relationships', (req, res) => {
       target: string;
       location: string | null;
       triple_tags: string | null;
+      top_cluster_ids: string | null;
     }>;
 
     // Filter by tag clusters if specified
     const filteredRelationships = allRelationships.filter(rel => {
-      if (selectedTags.size === 0) return true; // No filter
+      if (selectedClusterIds.size === 0) return true; // No filter
 
       try {
-        const tags = rel.triple_tags ? JSON.parse(rel.triple_tags) : [];
-        return tags.some((tag: string) => selectedTags.has(tag));
+        // Use the materialized top_cluster_ids column
+        const topClusters = rel.top_cluster_ids ? JSON.parse(rel.top_cluster_ids) : [];
+        // Include if any of the top 3 clusters are selected
+        return topClusters.some((clusterId: number) => selectedClusterIds.has(clusterId));
       } catch {
         return false;
       }
     });
 
-    const result = filteredRelationships.map((rel) => ({
+    const relationships = filteredRelationships.map((rel) => ({
       id: rel.id,
       doc_id: rel.doc_id,
       timestamp: rel.timestamp,
@@ -328,7 +327,10 @@ app.get('/api/actor/:name/relationships', (req, res) => {
       tags: rel.triple_tags ? JSON.parse(rel.triple_tags) : []
     }));
 
-    res.json(result);
+    res.json({
+      relationships,
+      totalBeforeFilter: allRelationships.length
+    });
   } catch (error) {
     console.error('Error in /api/actor/:name/relationships:', error);
     res.status(500).json({ error: 'An internal error occurred' });
