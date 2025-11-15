@@ -14,13 +14,21 @@ const ALLOWED_ORIGINS = process.env.ALLOWED_ORIGINS?.split(',') || ['http://loca
 // CORS configuration with origin whitelist
 app.use(cors({
   origin: (origin, callback) => {
-    // Allow requests with no origin (like mobile apps or curl requests)
+    // Allow requests with no origin (same-origin requests, mobile apps, curl)
     if (!origin) return callback(null, true);
+
+    // Allow localhost origins for development
     if (ALLOWED_ORIGINS.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
+      return callback(null, true);
     }
+
+    // Allow Render deployment domains (*.onrender.com)
+    if (origin.includes('.onrender.com')) {
+      return callback(null, true);
+    }
+
+    // Reject other origins
+    callback(new Error('Not allowed by CORS'));
   },
   credentials: true,
   maxAge: 86400
