@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// Please note: this method uses the agents SDK and assume you are already locally authenticated via claude code via a MAX plan.
+// Running this with the API rather than the max plan will cost about $50 for the 2000 epstein emails
+import { query } from '@anthropic-ai/claude-agent-sdk';
 import { query } from '@anthropic-ai/claude-agent-sdk';
 import * as fs from 'fs/promises';
 import * as path from 'path';
