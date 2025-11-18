@@ -70,6 +70,49 @@ export default function MobileBottomNav({
       {/* Expanded Panel */}
       {activeTab && (
         <div className="fixed inset-x-0 bottom-16 bg-gray-800 border-t border-gray-700 max-h-[70vh] overflow-y-auto z-40">
+          {activeTab === 'timeline' && (
+            <div className="p-4">
+              {/* Close button in upper right */}
+              <button
+                onClick={() => setActiveTab(null)}
+                className="absolute top-4 right-4 p-2 text-gray-400 hover:text-white hover:bg-gray-700 rounded-lg transition-colors"
+                aria-label="Close"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+
+              <h3 className="text-lg font-semibold mb-4">Timeline View</h3>
+              {relationships.length > 0 ? (
+                <div className="space-y-2 max-h-[60vh] overflow-y-auto">
+                  {relationships.slice(0, 50).map((rel, idx) => (
+                    <button
+                      key={idx}
+                      onClick={() => setDocumentToView(rel.doc_id)}
+                      className="w-full bg-gray-700 hover:bg-gray-600 rounded-lg p-3 text-left transition-colors"
+                    >
+                      <div className="flex justify-between items-start mb-2">
+                        <div className="font-medium text-sm">{rel.actor}</div>
+                        {rel.timestamp && (
+                          <div className="text-xs text-gray-400">{rel.timestamp}</div>
+                        )}
+                      </div>
+                      <div className="text-xs text-gray-300 mb-1">{rel.action}</div>
+                      <div className="text-sm text-blue-400">{rel.target}</div>
+                      {rel.location && (
+                        <div className="text-xs text-purple-400 mt-1">{rel.location}</div>
+                      )}
+                      <div className="text-xs text-gray-500 mt-2">{rel.doc_id}</div>
+                    </button>
+                  ))}
+                </div>
+              ) : (
+                <div className="text-center py-8 text-gray-400">No relationships to display</div>
+              )}
+            </div>
+          )}
+
           {activeTab === 'search' && (
             <div className="p-4">
               <div className="mb-4">
@@ -125,40 +168,20 @@ export default function MobileBottomNav({
             </div>
           )}
 
-          {activeTab === 'timeline' && (
-            <div className="p-4">
-              <h3 className="text-lg font-semibold mb-4">Timeline View</h3>
-              {relationships.length > 0 ? (
-                <div className="space-y-2 max-h-[60vh] overflow-y-auto">
-                  {relationships.slice(0, 50).map((rel, idx) => (
-                    <button
-                      key={idx}
-                      onClick={() => setDocumentToView(rel.doc_id)}
-                      className="w-full bg-gray-700 hover:bg-gray-600 rounded-lg p-3 text-left transition-colors"
-                    >
-                      <div className="flex justify-between items-start mb-2">
-                        <div className="font-medium text-sm">{rel.actor}</div>
-                        {rel.timestamp && (
-                          <div className="text-xs text-gray-400">{rel.timestamp}</div>
-                        )}
-                      </div>
-                      <div className="text-xs text-gray-300 mb-1">{rel.action}</div>
-                      <div className="text-sm text-blue-400">{rel.target}</div>
-                      {rel.location && (
-                        <div className="text-xs text-purple-400 mt-1">{rel.location}</div>
-                      )}
-                      <div className="text-xs text-gray-500 mt-2">{rel.doc_id}</div>
-                    </button>
-                  ))}
-                </div>
-              ) : (
-                <div className="text-center py-8 text-gray-400">No relationships to display</div>
-              )}
-            </div>
-          )}
 
           {activeTab === 'filters' && (
             <div className="p-4">
+              {/* Close button in upper right */}
+              <button
+                onClick={() => setActiveTab(null)}
+                className="absolute top-4 right-4 p-2 text-gray-400 hover:text-white hover:bg-gray-700 rounded-lg transition-colors"
+                aria-label="Close"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              </button>
+
               <h3 className="text-lg font-semibold mb-4">Filters</h3>
 
               <div className="mb-6">
@@ -168,8 +191,8 @@ export default function MobileBottomNav({
                 <input
                   type="range"
                   min="100"
-                  max="20000"
-                  step="500"
+                  max="5000"
+                  step="100"
                   value={limit}
                   onChange={(e) => onLimitChange(parseInt(e.target.value))}
                   className="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer"

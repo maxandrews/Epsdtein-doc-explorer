@@ -1,5 +1,7 @@
 # Epstein Document Network Explorer
 
+> **Note:** Additional documents are currently being processed and added to the network. The analysis pipeline is actively ingesting newly released documents from the House Oversight Committee.
+
 An intelligent document analysis and network visualization system that processes legal documents to extract relationships, entities, and events, then visualizes them as an interactive knowledge graph.
 
 ## Project Overview
@@ -9,7 +11,6 @@ This project analyzes the Epstein document corpus to extract structured informat
 **Live Demo:** [Deployed on Render](https://epstein-doc-explorer-1.onrender.com/)
 
 Source documents are available here: https://drive.google.com/drive/folders/1ldncvdqIf6miiskDp_EDuGSDAaI_fJx8
-A pre-split version of the first set of docs is included in the repo. I didn't see that there was a second tranche so that data is to-be-added.
 
 ---
 
@@ -40,9 +41,10 @@ The project has two main phases:
 - **Top-3 Cluster Assignment:** Each relationship is assigned to its 3 most relevant tag clusters
 
 ### Visualization Features
-- **Interactive Network Graph:** Force-directed graph with 15,000+ relationships
+- **Interactive Network Graph:** Force-directed graph with edge deduplication for performance
 - **Actor-Centric Views:** Click any actor to see their specific relationships
-- **Smart Filtering:** Filter by 30 content categories (Legal, Financial, Travel, etc.)
+- **Smart Filtering:** Filter by 30 content categories and hop distance from Jeffrey Epstein
+- **Density-Based Pruning:** Displays highest-density network connections for clarity
 - **Timeline View:** Chronological relationship browser with document links
 - **Document Viewer:** Full-text document display with highlighting
 - **Responsive Design:** Works on desktop and mobile devices
@@ -211,9 +213,10 @@ CREATE TABLE entity_aliases (
 - Returns all 30 tag clusters with metadata
 - Includes cluster names, exemplar tags, and tag counts
 
-**`GET /api/relationships?limit=15000&clusters=0,1,2`**
-- Returns relationship network filtered by clusters
-- Applies distance-based pruning centered on Jeffrey Epstein
+**`GET /api/relationships?limit=9600&clusters=0,1,2&maxHops=3`**
+- Returns relationship network filtered by clusters and hop distance
+- Applies density-based pruning (highest-degree nodes prioritized)
+- Edge deduplication before limiting (slider value = unique visual edges)
 - Returns metadata: `{ relationships, totalBeforeLimit, totalBeforeFilter }`
 - Uses materialized `top_cluster_ids` for fast filtering
 
@@ -273,7 +276,8 @@ CREATE TABLE entity_aliases (
 **`Sidebar.tsx`** - Desktop left sidebar
 - Displays database statistics
 - Actor search with autocomplete
-- Relationship limit slider (100-20,000)
+- Relationship limit slider (100-25,000, default 9,600 desktop / 3,000 mobile)
+- Hop distance filter (1-10 hops from Jeffrey Epstein, default 3)
 - Tag cluster filter buttons
 - Document category breakdown
 
@@ -310,7 +314,9 @@ const [totalBeforeLimit, setTotalBeforeLimit] = useState<number>(0);
 const [selectedActor, setSelectedActor] = useState<string | null>(null);
 const [actorRelationships, setActorRelationships] = useState<Relationship[]>([]);
 const [actorTotalBeforeFilter, setActorTotalBeforeFilter] = useState<number>(0);
-const [limit, setLimit] = useState(isMobile ? 5000 : 15000);
+const [limit, setLimit] = useState(isMobile ? 3000 : 9600);
+const [maxHops, setMaxHops] = useState<number | null>(3);
+const [minDensity, setMinDensity] = useState(50);
 const [enabledClusterIds, setEnabledClusterIds] = useState<Set<number>>(new Set());
 ```
 
@@ -323,7 +329,7 @@ const [enabledClusterIds, setEnabledClusterIds] = useState<Set<number>>(new Set(
 #### Responsive Design
 - **Desktop (>1024px):** Dual sidebar layout with main graph
 - **Mobile (<1024px):** Full-screen graph with bottom navigation
-- **Adaptive Limits:** Mobile defaults to 5k relationships, desktop 15k
+- **Adaptive Limits:** Mobile defaults to 3k relationships, desktop 9.6k
 
 ---
 
