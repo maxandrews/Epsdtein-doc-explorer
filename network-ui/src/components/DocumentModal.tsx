@@ -1,6 +1,8 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useMemo } from 'react';
 import { fetchDocument, fetchDocumentText } from '../api';
 import type { Document } from '../types';
+import { ImessageChatView, parseImessageTranscript } from './ImessageChatView';
+import { EmailThreadView, parseEmailThread } from './EmailThreadView';
 
 interface DocumentModalProps {
   docId: string;
@@ -16,14 +18,33 @@ interface MatchPosition {
   percentage: number;
 }
 
+type TranscriptView = 'chat' | 'email' | 'text';
+
 export default function DocumentModal({ docId, highlightTerm, secondaryHighlightTerm, onClose }: DocumentModalProps) {
   const [document, setDocument] = useState<Document | null>(null);
   const [documentText, setDocumentText] = useState<string>('');
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [matchPositions, setMatchPositions] = useState<MatchPosition[]>([]);
+  const [activeView, setActiveView] = useState<TranscriptView>('text');
   const contentRef = useRef<HTMLDivElement>(null);
   const matchRefs = useRef<Map<number, HTMLElement>>(new Map());
+  const imessageTranscript = useMemo(() => parseImessageTranscript(documentText), [documentText]);
+  const emailThread = useMemo(() => parseEmailThread(documentText), [documentText]);
+  const hasStructuredView = Boolean(imessageTranscript || emailThread);
+  const showChatView = Boolean(imessageTranscript && activeView === 'chat');
+  const showEmailView = Boolean(emailThread && activeView === 'email');
+  const showPlainTextView = !hasStructuredView || activeView === 'text';
+
+  useEffect(() => {
+    if (imessageTranscript) {
+      setActiveView('chat');
+    } else if (emailThread) {
+      setActiveView('email');
+    } else {
+      setActiveView('text');
+    }
+  }, [imessageTranscript, emailThread]);
 
   useEffect(() => {
     const loadDocument = async () => {
@@ -262,16 +283,67 @@ export default function DocumentModal({ docId, highlightTerm, secondaryHighlight
           )}
 
           {!loading && !error && documentText && (
-            <div className="prose prose-invert max-w-none">
-              <div className="whitespace-pre-wrap text-gray-300 leading-relaxed font-mono text-sm">
-                {highlightText(documentText, highlightTerm, secondaryHighlightTerm || null)}
-              </div>
+            <div className="space-y-6">
+              {hasStructuredView && (
+                <div>
+                  <div className="flex gap-4 border-b border-gray-700 mb-4">
+                    {imessageTranscript && (
+                      <button
+                        onClick={() => setActiveView('chat')}
+                        className={`pb-2 text-sm font-medium transition-colors ${
+                          showChatView
+                            ? 'text-blue-300 border-b-2 border-blue-400'
+                            : 'text-gray-500 border-b-2 border-transparent hover:text-gray-300'
+                        }`}
+                      >
+                        Chat View
+                      </button>
+                    )}
+                    {emailThread && (
+                      <button
+                        onClick={() => setActiveView('email')}
+                        className={`pb-2 text-sm font-medium transition-colors ${
+                          showEmailView
+                            ? 'text-blue-300 border-b-2 border-blue-400'
+                            : 'text-gray-500 border-b-2 border-transparent hover:text-gray-300'
+                        }`}
+                      >
+                        Email View
+                      </button>
+                    )}
+                    <button
+                      onClick={() => setActiveView('text')}
+                      className={`pb-2 text-sm font-medium transition-colors ${
+                        activeView === 'text'
+                          ? 'text-blue-300 border-b-2 border-blue-400'
+                          : 'text-gray-500 border-b-2 border-transparent hover:text-gray-300'
+                      }`}
+                    >
+                      Plain Text
+                    </button>
+                  </div>
+
+                  {showChatView && imessageTranscript && (
+                    <ImessageChatView transcript={imessageTranscript} />
+                  )}
+
+                  {showEmailView && emailThread && <EmailThreadView thread={emailThread} />}
+                </div>
+              )}
+
+              {showPlainTextView && (
+                <div className="prose prose-invert max-w-none">
+                  <div className="whitespace-pre-wrap text-gray-300 leading-relaxed font-mono text-sm">
+                    {highlightText(documentText, highlightTerm, secondaryHighlightTerm || null)}
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>
 
         {/* Scroll Indicator - Fixed to modal container */}
-        {!loading && !error && matchPositions.length > 0 && (
+        {!loading && !error && matchPositions.length > 0 && showPlainTextView && (
           <div className="absolute right-4 top-32 bottom-24 w-3 bg-gray-700/50 rounded-full pointer-events-none z-10">
             {matchPositions.map((match, idx) => (
               <button
