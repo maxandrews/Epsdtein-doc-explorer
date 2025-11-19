@@ -32,48 +32,50 @@ function App() {
     // Check if user has seen the welcome message before
     return !localStorage.getItem('hasSeenWelcome');
   });
+  const [isInitialized, setIsInitialized] = useState(false);
 
-  // Load tag clusters on mount
+  // Load tag clusters and stats on mount, then trigger initial data load
   useEffect(() => {
-    const loadTagClusters = async () => {
+    const initializeApp = async () => {
       try {
-        const clusters = await fetchTagClusters();
-        setTagClusters(clusters);
-        // Enable all clusters by default
-        setEnabledClusterIds(new Set(clusters.map(c => c.id)));
+        // Load tag clusters and stats in parallel
+        const [clusters, statsData] = await Promise.all([
+          fetchTagClusters(),
+          fetchStats()
+        ]);
+
+        // Batch all state updates together with a single render using a microtask
+        // This ensures enabledClusterIds and enabledCategories are set before the data loading effect runs
+        queueMicrotask(() => {
+          setTagClusters(clusters);
+          setEnabledClusterIds(new Set(clusters.map(c => c.id)));
+          setStats(statsData);
+          setEnabledCategories(new Set(statsData.categories.map(c => c.category)));
+          setIsInitialized(true);
+        });
       } catch (error) {
-        console.error('Error loading tag clusters:', error);
+        console.error('Error initializing app:', error);
       }
     };
-    loadTagClusters();
+    initializeApp();
   }, []);
 
-  // Initialize enabled categories when stats are loaded
+  // Load data when limit, enabled clusters, enabled categories, year range, includeUndated, keywords, or maxHops change (but only after initialization)
   useEffect(() => {
-    if (stats && enabledCategories.size === 0) {
-      // Enable all categories by default
-      setEnabledCategories(new Set(stats.categories.map(c => c.category)));
-    }
-  }, [stats]);
-
-  // Load data when limit, enabled clusters, enabled categories, year range, includeUndated, keywords, or maxHops change (but only after clusters are loaded)
-  useEffect(() => {
-    if (tagClusters.length > 0) {
+    if (isInitialized) {
       loadData();
     }
-  }, [limit, enabledClusterIds, enabledCategories, yearRange, includeUndated, keywords, maxHops, tagClusters.length]);
+  }, [isInitialized, limit, enabledClusterIds, enabledCategories, yearRange, includeUndated, keywords, maxHops]);
 
   const loadData = async () => {
     try {
       setLoading(true);
       const clusterIds = Array.from(enabledClusterIds);
       const categories = Array.from(enabledCategories);
-      const [statsData, relationshipsResponse, actorCounts] = await Promise.all([
-        fetchStats(),
+      const [relationshipsResponse, actorCounts] = await Promise.all([
         fetchRelationships(limit, clusterIds, categories, yearRange, includeUndated, keywords, maxHops),
         fetchActorCounts(300)
       ]);
-      setStats(statsData);
       setRelationships(relationshipsResponse.relationships);
       setTotalBeforeLimit(relationshipsResponse.totalBeforeLimit);
       setActorTotalCounts(actorCounts);
